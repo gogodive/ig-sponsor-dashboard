@@ -1,0 +1,64 @@
+name: daily-sponsor-analysis
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # 23:00 UTC = 08:00 KST (ig-ref 07:30 와 시차)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "노션 기입 생략 (수집·렌더만)"
+        type: boolean
+        default: false
+      only:
+        description: "특정 username만 (콤마 구분, 비우면 전체)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-sponsor-analysis
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect, analyze and render
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python -m src.main ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "chore: daily data update"
+          git pull --rebase origin main
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

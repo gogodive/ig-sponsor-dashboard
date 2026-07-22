@@ -1,0 +1,24 @@
+# 협찬 인플루언서 성과 분석기 설정
+apify:
+  actor: apify~instagram-scraper
+  results_type: posts        # posts = 게시물 상세(조회수 포함). details는 조회수가 없어 사용 금지
+  recent_limit: 30           # 계정당 최근 게시물 수집 수 (베이스라인 + 협찬 게시물 매칭)
+
+freeze_days: 30              # 협찬 게시물 게시 후 이 일수까지 매일 추적, 이후 지표 동결(확정)
+
+baseline:
+  max_posts: 12              # 베이스라인: 협찬·고정핀 제외 같은 유형 최근 N개 중앙값
+  min_posts: 3               # 이 미만이면 베이스라인 없음 ("기준치 부족" 표시)
+
+flags:
+  overdue_days: 7            # 배송일 + N일 지나도 결과물 URL 없으면 업로드 누락 플래그
+
+claude:
+  model: claude-sonnet-4-6
+  max_tokens_post: 500       # 게시물 최초 수집 시 한줄 평가
+  max_tokens_final: 800      # 동결 시 최종 평가
+  max_tokens_daily: 1500     # 일일 다이제스트
+
+notion:
+  sponsor_db_id: 24039eba97ed80a0ac36e9b326359954   # [통합] 인플루언서 협찬 DB > 협찬 데이터
+  version: "2022-06-28"

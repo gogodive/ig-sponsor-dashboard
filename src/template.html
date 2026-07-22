@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>협찬 인플루언서 성과 대시보드</title>
+<style>
+  :root { --line:#dbdbdb; --sub:#737373; --accent:#0095f6;
+          --good:#2e7d32; --mid:#8d6e00; --bad:#c62828; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+         background:#fafafa; color:#262626; }
+  header { background:#fff; border-bottom:1px solid var(--line); padding:14px 16px;
+           display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; }
+  header h1 { font-size:17px; }
+  header .updated { color:var(--sub); font-size:12px; }
+  .wrap { max-width:960px; margin:0 auto; padding:0 16px; }
+  .kpis { display:flex; gap:10px; flex-wrap:wrap; margin:14px 0; }
+  .kpi { background:#fff; border:1px solid var(--line); border-radius:8px;
+         padding:10px 16px; min-width:120px; }
+  .kpi .v { font-size:20px; font-weight:700; }
+  .kpi .l { font-size:11px; color:var(--sub); margin-top:2px; }
+  .digest { background:#f3f8ff; border:1px solid #cfe3ff; border-radius:8px;
+            padding:12px 16px; margin-bottom:14px; font-size:13px; line-height:1.6; }
+  .digest .hd { font-weight:700; margin-bottom:6px; }
+  .digest ul { padding-left:18px; }
+  .flagpanel { background:#fff8e1; border:1px solid #ffe082; border-radius:8px;
+               padding:12px 16px; margin-bottom:14px; font-size:13px; }
+  .flagpanel h3 { font-size:13px; margin-bottom:6px; color:#8d6e00; }
+  .flagpanel ul { padding-left:18px; }
+  .flagpanel li { margin-bottom:2px; }
+  nav { background:#fff; border-bottom:1px solid var(--line); display:flex;
+        overflow-x:auto; position:sticky; top:0; z-index:5; }
+  nav button { flex:1; min-width:100px; padding:12px 8px; border:0; background:none;
+               font-size:14px; cursor:pointer; border-bottom:3px solid transparent; color:var(--sub);
+               display:flex; flex-direction:column; align-items:center; gap:2px; }
+  nav button.active { color:#262626; font-weight:700; }
+  nav button .cnt { font-size:10px; color:var(--sub); }
+  section.brand { display:none; padding-bottom:40px; } section.brand.active { display:block; }
+  .rowcard { background:#fff; border:1px solid var(--line); border-radius:8px;
+             margin:14px 0; overflow:hidden; }
+  .rowhead { display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+             padding:10px 14px; border-bottom:1px solid #f0f0f0; }
+  .rowhead a.user { font-weight:700; font-size:14px; color:#262626; text-decoration:none; }
+  .rowhead .chip { font-size:11px; padding:2px 8px; border-radius:10px;
+                   background:#f0f0f0; color:var(--sub); }
+  .rowhead .chip.status-live { background:#e3f2fd; color:#1565c0; }
+  .rowhead .chip.status-done { background:#fce4ec; color:#ad1457; }
+  .rowhead .score { margin-left:auto; font-size:12px; color:var(--sub); }
+  .rowhead .score b { font-size:16px; }
+  .posts { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:0; }
+  .post { display:flex; gap:10px; padding:12px 14px; border-top:1px solid #f7f7f7; }
+  .post .thumb { flex:0 0 84px; width:84px; height:84px; border-radius:6px; overflow:hidden;
+                 background:#eee; display:block; position:relative; }
+  .post .thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+  .post .thumb .noimg { display:flex; align-items:center; justify-content:center; height:100%;
+                        color:var(--sub); font-size:10px; }
+  .post .body { flex:1; min-width:0; font-size:12px; }
+  .post .top { display:flex; gap:6px; align-items:center; margin-bottom:4px; }
+  .badge { font-size:10px; padding:1px 7px; border-radius:9px; color:#fff; }
+  .badge.live { background:var(--accent); }
+  .badge.frozen { background:#8e8e8e; }
+  .badge.kind { background:#455a64; }
+  .vs { font-weight:700; }
+  .vs.good { color:var(--good); } .vs.mid { color:var(--mid); }
+  .vs.bad { color:var(--bad); } .vs.na { color:var(--sub); font-weight:400; }
+  .mrow { display:flex; flex-wrap:wrap; gap:6px 12px; margin:3px 0; color:#444; }
+  .mrow b { font-weight:600; }
+  .cost { color:var(--sub); }
+  .spark { margin-top:4px; }
+  .spark svg { display:block; }
+  .spark .lbl { font-size:10px; color:var(--sub); }
+  .ai { margin-top:6px; padding:6px 8px; background:#f3f8ff; border-radius:6px;
+        font-size:11px; line-height:1.5; }
+  .ai .tag { font-weight:700; color:#1565c0; margin-right:4px; }
+  .ai.final { background:#f1f8e9; } .ai.final .tag { color:#33691e; }
+  .nopost { padding:14px; font-size:12px; color:var(--sub); }
+  .aggwrap { margin:20px 0; }
+  .aggwrap h2 { font-size:15px; margin-bottom:8px; }
+  table.agg { width:100%; border-collapse:collapse; background:#fff;
+              border:1px solid var(--line); border-radius:8px; overflow:hidden; font-size:12px; }
+  table.agg th, table.agg td { padding:8px 10px; text-align:right; border-bottom:1px solid #f0f0f0; }
+  table.agg th:first-child, table.agg td:first-child { text-align:left; }
+  table.agg th { background:#f7f7f7; color:var(--sub); font-weight:600; }
+  .foot { color:var(--sub); font-size:11px; margin:24px 0 40px; line-height:1.6; }
+  @media (max-width:600px){ .posts { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>협찬 인플루언서 성과</h1>
+  <span class="updated">마지막 갱신: {{ generated_label }} (매일 08:00 자동)</span>
+</header>
+
+<div class="wrap">
+  <div class="kpis">
+    <div class="kpi"><div class="v">{{ kpi.rows }}</div><div class="l">추적 협찬 건</div></div>
+    <div class="kpi"><div class="v">{{ kpi.live_posts }}</div><div class="l">집계 중 게시물</div></div>
+    <div class="kpi"><div class="v">{{ kpi.frozen_posts }}</div><div class="l">확정 게시물</div></div>
+    <div class="kpi"><div class="v">{{ kpi.vs_mean | x }}</div><div class="l">평균 평소대비</div></div>
+    <div class="kpi"><div class="v">{{ kpi.total_value | krw }}</div><div class="l">진행 중 상품가액 합</div></div>
+  </div>
+
+  {% if digest %}
+  <div class="digest">
+    <div class="hd">🧠 {{ digest.headline }}</div>
+    {% if digest.notes %}<ul>{% for n in digest.notes %}<li>{{ n }}</li>{% endfor %}</ul>{% endif %}
+  </div>
+  {% endif %}
+
+  {% if flags.overdue or flags.unresolvable or flags.unavailable or flags.non_instagram %}
+  <div class="flagpanel">
+    <h3>⚠️ 확인 필요</h3>
+    <ul>
+      {% for r in flags.overdue %}
+      <li><b>{{ r.row_title_raw }}</b> — 배송일({{ r.delivery_date }}) 후 7일 지났는데 결과물 URL 없음 · 담당 {{ r.manager or '미지정' }}</li>
+      {% endfor %}
+      {% for r in flags.unresolvable %}
+      <li><b>{{ r.row_title_raw }}</b> — 노션 ID에서 인스타 계정명을 인식 못함 · 담당 {{ r.manager or '미지정' }}</li>
+      {% endfor %}
+      {% for r in flags.unavailable %}
+      <li><b>{{ r.row_title_raw }}</b> — 계정 조회 실패 (비공개/삭제/오타 가능성)</li>
+      {% endfor %}
+      {% for r in flags.non_instagram %}
+      <li><b>{{ r.row_title_raw }}</b> — 인스타 외 매체({{ r.media | join(', ') }}) → 수동 확인</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</div>
+
+<nav>
+  {% for g in groups %}
+  <button data-tab="{{ loop.index0 }}"{% if loop.first %} class="active"{% endif %}
+          style="border-bottom-color:{% if loop.first %}{{ g.color }}{% else %}transparent{% endif %}"
+          data-color="{{ g.color }}">
+    <span>{{ g.name }}</span>
+    <span class="cnt">{{ g.rows | length }}건</span>
+  </button>
+  {% endfor %}
+</nav>
+
+<div class="wrap">
+{% for g in groups %}
+<section class="brand{% if loop.first %} active{% endif %}" id="brand-{{ loop.index0 }}">
+  {% for r in g.rows %}
+  <div class="rowcard">
+    <div class="rowhead">
+      <a class="user" href="https://www.instagram.com/{{ r.username }}/" target="_blank" rel="noopener">@{{ r.username }}</a>
+      <span class="chip {{ 'status-live' if r.status == '진행 중' else 'status-done' }}">{{ r.status }}</span>
+      {% for b in r.brands %}<span class="chip">{{ b }}</span>{% endfor %}
+      <span class="chip">담당 {{ r.manager or '미지정' }}</span>
+      {% if r.followers %}<span class="chip">팔로워 {{ r.followers | num }}</span>{% endif %}
+      {% if r.product_value_krw %}<span class="chip">{{ r.product_value_krw | krw }}</span>{% endif %}
+      {% if r.last_written_score is defined and r.last_written_score is not none %}
+      <span class="score">반응도 <b>{{ r.last_written_score }}</b></span>{% endif %}
+      {% if r.flags.overdue_no_output %}<span class="chip" style="background:#fff3e0;color:#e65100;">⚠️ 업로드 누락</span>{% endif %}
+    </div>
+    <div class="posts">
+      {% for p in r.posts %}
+      <div class="post">
+        <a class="thumb" href="{{ p.permalink or p.url }}" target="_blank" rel="noopener">
+          {% if p.thumbnail %}<img src="{{ p.thumbnail | thumb }}" alt="" loading="lazy"
+               referrerpolicy="no-referrer"
+               onerror="this.outerHTML='&lt;div class=noimg&gt;이미지 만료&lt;/div&gt;'">
+          {% else %}<div class="noimg">이미지 없음</div>{% endif %}
+        </a>
+        <div class="body">
+          <div class="top">
+            <span class="badge kind">{{ p.media_kind }}</span>
+            {% if p.frozen %}<span class="badge frozen">확정</span>
+            {% elif p.metrics_updated_at %}<span class="badge live">D+{{ p.days_since_post }}</span>
+            {% else %}<span class="badge frozen">수집 대기</span>{% endif %}
+            <span class="vs {{ p._vs_class }}">
+              {% if p.computed and p.computed.vs_baseline is not none %}평소대비 {{ p.computed.vs_baseline | x }}
+              {% elif p.metrics_updated_at %}기준치 부족{% endif %}
+            </span>
+          </div>
+          {% if p.metrics_updated_at %}
+          <div class="mrow">
+            {% if p.metrics.views %}<span>▶ <b>{{ p.metrics.views | num }}</b></span>{% endif %}
+            <span>❤️ <b>{{ p.metrics.likes | num }}</b></span>
+            <span>💬 <b>{{ p.metrics.comments | num }}</b></span>
+            {% if p.computed.er is not none %}<span>ER <b>{{ p.computed.er | pct }}</b></span>{% endif %}
+          </div>
+          <div class="mrow cost">
+            {% if p.computed.cost_per_eng is not none %}<span>참여당 {{ p.computed.cost_per_eng | krw }}</span>{% endif %}
+            {% if p.computed.cost_per_view is not none %}<span>조회당 {{ "%.1f" | format(p.computed.cost_per_view) }}원</span>{% endif %}
+          </div>
+          {% set spark = p._spark_views or p._spark_likes %}
+          {% if spark %}
+          <div class="spark">
+            <svg width="120" height="28" viewBox="0 0 120 28">
+              <polyline points="{{ spark }}" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+            </svg>
+            <span class="lbl">{{ '조회수' if p._spark_views else '좋아요' }} 30일 추이</span>
+          </div>
+          {% endif %}
+          {% else %}
+          <div class="mrow">아직 지표가 수집되지 않았습니다</div>
+          {% endif %}
+          {% if p.analysis and p.analysis.final_verdict %}
+          <div class="ai final"><span class="tag">최종</span>{{ p.analysis.final_verdict }}</div>
+          {% elif p.analysis and p.analysis.one_liner %}
+          <div class="ai"><span class="tag">AI</span>{{ p.analysis.one_liner }}</div>
+          {% endif %}
+        </div>
+      </div>
+      {% else %}
+      <div class="nopost">아직 결과물 URL이 등록되지 않았습니다{% if r.delivery_date %} (배송일 {{ r.delivery_date }}){% endif %}</div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="nopost">이 브랜드의 추적 대상이 없습니다</div>
+  {% endfor %}
+</section>
+{% endfor %}
+
+  <div class="aggwrap">
+    <h2>브랜드별 집계</h2>
+    <table class="agg">
+      <tr><th>브랜드</th><th>협찬 건</th><th>게시물</th><th>상품가액 합</th><th>평균 평소대비</th><th>평균 참여당 비용</th><th>플래그</th></tr>
+      {% for a in agg_brand %}
+      <tr><td>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
+          <td>{{ a.value | krw }}</td><td>{{ a.vs_mean | x }}</td>
+          <td>{{ a.cpe_mean | krw }}</td><td>{{ a.flags }}</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+
+  <div class="aggwrap">
+    <h2>담당자별 집계</h2>
+    <table class="agg">
+      <tr><th>담당자</th><th>협찬 건</th><th>게시물</th><th>상품가액 합</th><th>평균 평소대비</th><th>평균 참여당 비용</th><th>플래그</th></tr>
+      {% for a in agg_manager %}
+      <tr><td>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
+          <td>{{ a.value | krw }}</td><td>{{ a.vs_mean | x }}</td>
+          <td>{{ a.cpe_mean | krw }}</td><td>{{ a.flags }}</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+
+  <div class="foot">
+    ℹ️ 타사 계정은 공개 지표(조회·좋아요·댓글·팔로워)만 수집됩니다. 저장·공유·도달은 계정 주인만 볼 수 있어 수집 불가.<br>
+    "평소대비" = 해당 계정의 협찬 아닌 최근 게시물(같은 유형) 중앙값 대비 배수. 1.0x = 평소 수준.<br>
+    노션 협찬 DB의 "반응도" 숫자 = 그 협찬 건 게시물들의 평소대비 평균 × 100 (100 = 평소 수준).<br>
+    게시 후 30일까지 매일 갱신하고 이후 확정(동결)됩니다.
+  </div>
+</div>
+
+<script>
+document.querySelectorAll("nav button").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("nav button").forEach(b => {
+      b.classList.remove("active"); b.style.borderBottomColor = "transparent";
+    });
+    document.querySelectorAll("section.brand").forEach(s => s.classList.remove("active"));
+    btn.classList.add("active");
+    btn.style.borderBottomColor = btn.dataset.color;
+    document.getElementById("brand-" + btn.dataset.tab).classList.add("active");
+  });
+});
+</script>
+</body>
+</html>
