@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-02T05:00:29.000Z",
       "permalink": "https://www.instagram.com/p/DaRyooGCSA1/",
-      "thumbnail": "https://instagram.fluk1-1.fna.fbcdn.net/v/t51.82787-15/729189241_18599197378054735_3777647384097833407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMjE0NTc0MTY1MDUwNTgyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=wGEfvte6kUQQ7kNvwFWrGn0&_nc_oc=AdoAsE6-xWESsDb7j3Xm_3XrqnkrTOT6H7NXu2IcpTo20B_h5AcNDekb5FlXm0sSXGQpaONFjdAeZ9t_89b403v7&_nc_zt=23&_nc_ht=instagram.fluk1-1.fna&_nc_gid=_YfCZ7dW3NcfFnMGmxJLVw&_nc_ss=7c689&oh=00_AQCGqbTIxMLpmjIW3RVgmn5zhCR-i0ZrrUkBBGDRXYiqlw&oe=6A6710BA",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/729189241_18599197378054735_3777647384097833407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMjE0NTc0MTY1MDUwNTgyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=wGEfvte6kUQQ7kNvwGkDujB&_nc_oc=AdpX4clt2ittEcsBosxJKouJEWEqlCjk8fM7-14BloJ4y9h8WqKlx-WBB55Ai3LB4zI&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=3u25O7fUQH854JHDE6ux9w&_nc_ss=72a8c&oh=00_AQCojlrLNrbb8nMpgbpgK4rwRCtEQ3s2QhraSVa8r-J_NQ&oe=6A6710BA",
       "caption": "제일 행복한 시간🩵\n수영복 @laserin_swim 라세린 미드나잇오션 더블 크로스백 s 착용\n마스크 @branciiia 플래티넘 화이트 옵틱렌즈 착용\n사진 @freedive.anrak",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 158,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,22 +45,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 252.0,
+        "eng_median": 269.0,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 20,
       "computed": {
-        "er": 0.004343382728666326,
-        "vs_baseline": 0.6746031746031746,
+        "er": 0.004343271761068956,
+        "vs_baseline": 0.6319702602230484,
         "cost_per_eng": 376.47058823529414,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.66x로 저조한 반응이며, 참여 1건당 376원은 협찬 효율 개선이 필요한 수준입니다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 158 · 댓글 12 · ER 0.4% · 평소대비 0.6x (D+20)"
     },
     {
       "notion_row_id": "14039eba-97ed-836c-bc96-817bdfdf46e3",
@@ -71,7 +72,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-26T12:41:05.000Z",
       "permalink": "https://www.instagram.com/p/DaDJ4YwJCRh/",
-      "thumbnail": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/729720345_18597260704054735_4108877887571599888_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGjHSNK5mJqJefeks5vGiSD0M5hk28ei7jI66mE3PnOm7q50AcbhNMsA3MkGPhMiI4&_nc_ohc=w_vuePHMyosQ7kNvwEfxwEc&_nc_gid=1h3PTIIdcO4ar469uVRJPw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBgROVBlQuTTsPH_mHJHHL6_Iiwyqw75Sas3uP1waAXnQ&oe=6A671FA5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/729720345_18597260704054735_4108877887571599888_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGWZYX5K-vGM8Fp7SMudYUSY4zw2M-6SqScyGBN9r3rJ8e7PkeOhq6qx0wW0TZzd_E&_nc_ohc=w_vuePHMyosQ7kNvwEtibYg&_nc_gid=9ziUY8CqePSSbDfGqjXkng&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDB7d7YCi-AAX6G7M0h2qg_tIPScVnPl429n0_4zfMNKw&oe=6A671FA5&_nc_sid=c6f216",
       "caption": "이 수영복 입고 너무 찍고싶었던 사진🩵\n@laserin_swim / 라세린 미드나잇오션 더블 크로스백 s 착용\n마스크 @branciiia 플래티넘 화이트 옵틱렌즈 착용\n우리쌤 사진+색감보정 기술 취긴당!\n📸 @freedive.anrak",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -80,7 +81,7 @@
         "likes": 190,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -91,22 +92,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 252.0,
+        "eng_median": 269.0,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 26,
       "computed": {
-        "er": 0.005109862033725089,
-        "vs_baseline": 0.7936507936507936,
+        "er": 0.005109731483610536,
+        "vs_baseline": 0.7434944237918215,
         "cost_per_eng": 320.0,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.78x로 저조한 반응이나, 참여 1건당 320원으로 비용 효율은 수용 가능한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 190 · 댓글 10 · ER 0.5% · 평소대비 0.7x (D+26)"
     }
   ],
   "flags": {
@@ -116,6 +118,6 @@
     "account_unavailable": false
   },
   "child_db_id": "25b39eba-97ed-8208-a80a-01289929d53e",
-  "followers": 39140,
-  "last_written_score": 73
+  "followers": 39141,
+  "last_written_score": 69
 }

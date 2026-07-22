@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:51:09.000Z",
       "permalink": "https://www.instagram.com/p/DaKDEShC9fr/",
-      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF_O98P2UZqpyIxg4F2Rfv6gO4GJ13y9sA8QJZLV6Rd6NjmNPgIJs6gMpvZawTrmPGlRcxIzUn2zng9Hpd1wvHc&_nc_ohc=pJY7otPv6qUQ7kNvwHMyMNO&_nc_gid=Toh6fM8BsrZaHHHHKCALcQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBo2q5-9CFHZuyc4XhYitfGI7R91UgJe71AqPMw1ioptA&oe=6A66ED3D&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fhio3-1.fna.fbcdn.net/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fhio3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFkFgqmkxITRfyZ14XSG0QB5rI_rWiH7Hayduifh26inYPt9G_mvFiJ6NxaC2o57bk&_nc_ohc=pJY7otPv6qUQ7kNvwHFN_Nh&_nc_gid=U3IBRtq1_Oor0lmsPnNRkQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCs_10TOACtlXd0zDBkuZn7gtTHHrtXigq7kA5_orf8yw&oe=6A67257D&_nc_sid=c6f216",
       "caption": "여자들 취향 제대로 저격한 시크릿스 상의 추천🤍\n\n운동복인데 핏까지 예쁘다?\n이건 안 쟁여둘 이유가 없잖아요...\n\n입는 순간 허리라인이 살아나는 제 상체 핏의 비밀...🤫\n시크릿스(@secrets__fit)\n 상의 2가지 소개합니다💗\n\n★제품 정보\n1️⃣ 스퀘어넥 반팔 브라탑\n2️⃣ 개미허리 필라테스복 요가복 반팔\n\n댓글 남겨주시면 제품 링크 바로 보내드릴게요💌\n\n#협찬 #시크릿스 #필라테스 #운동복 #추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 11,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,23 +45,24 @@
         }
       ],
       "baseline": {
-        "views_median": 1273.5,
-        "eng_median": 11.5,
+        "views_median": 925.0,
+        "eng_median": 12.5,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 23,
       "computed": {
         "er": 0.5,
-        "vs_baseline": 0.25206124852767964,
+        "vs_baseline": 0.34702702702702704,
         "cost_per_eng": 6153.846153846154,
         "cost_per_view": 249.22118380062307
       },
       "analysis": {
         "one_liner": "팔로워 26명 계정으로 평소 대비 0.25x의 저조한 도달에 그쳐 조회당 249원·참여당 6,154원의 비용 효율이 극히 낮음.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "조회 321 · 좋아요 11 · 댓글 2 · ER 50.0% · 평소대비 0.3x (D+23)"
     }
   ],
   "flags": {
@@ -72,5 +73,5 @@
   },
   "child_db_id": "6e839eba-97ed-8310-a8ee-81322cbef34a",
   "followers": 26,
-  "last_written_score": 25
+  "last_written_score": 35
 }

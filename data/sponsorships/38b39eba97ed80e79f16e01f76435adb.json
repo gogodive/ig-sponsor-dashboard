@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-09T03:14:47.000Z",
       "permalink": "https://www.instagram.com/p/DajoGiNAVLT/",
-      "thumbnail": "https://instagram.flas1-2.fna.fbcdn.net/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzNzE1NDU0MDU3MDU1Nzc3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_GhN80eWMhUQ7kNvwES1JZo&_nc_oc=AdoJSPMuk5JW9jt2Zpr3KKUkePkdQbuug5Im55utV8LLe32ckzE1Ys-T5mALRlOQkdoSqXEBXIxW2DtcWBafvpSN&_nc_zt=23&_nc_ht=instagram.flas1-2.fna&_nc_gid=Az00ZXeYHfk4g3h8xUTHJA&_nc_ss=72289&oh=00_AQCB3HfbpTEcfN9KoiKK_yYkLTOMt_bh0lF3fvmf5lrXvA&oe=6A67082D",
+      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzNzE1NDU0MDU3MDU1Nzc3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_GhN80eWMhUQ7kNvwGJ_r4T&_nc_oc=AdrVKC6jwKK3GbyP95v6a3dtvSld0JOD9PcU3ReD2RWdCIuIoZjx3aYweFtF7udiv7o&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=HaXX9Xzmnx3ITDytADp52g&_nc_ss=72a8c&oh=00_AQAP9UlCgV3TgCT5dxAJDCF_Mw4RjlP9ZjPWUh3h9DUhBA&oe=6A67082D",
       "caption": "-\n배우고 싶다는 생각만 하다가 드디어 다녀온 프리다이빙 첫 수업이에요!\n\n어릴 때 수영을 배워서 물이 낯설진 않았지만, 숨을 참고 깊이 들어가는 건 또 다른 이야기더라고요. 두려움은 여전히 있었어요🥺\n\n수업은 3시간 동안 진행됐는데, 송병후 선생님께서 물에 들어가기 전 호흡법과 이론을 먼저 설명해주시고, 숨 참기 연습부터 시작해 차근차근 단계를 높여주셨어요. 덕분에 어렵지 않게 초급 수업을 들을 수 있었어요, 정말 감사했습니다✨\n\n그런데 생각보다 두려움보다 흥미가 훨씬 크더라고요. 하다 보니 더 잘하고 싶다는 마음이 자꾸 커졌어요",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 27
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,22 +45,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 19.0,
+        "eng_median": 20.5,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 13,
       "computed": {
-        "er": 0.00038681228000051577,
-        "vs_baseline": 1.5789473684210527,
+        "er": 0.0003868072926068233,
+        "vs_baseline": 1.4634146341463414,
         "cost_per_eng": 13000.0,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.62배 참여를 기록했으나 팔로워 대비 참여율 0.04%·1건당 13,000원으로 비용 효율은 낮은 편.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 3 · 댓글 27 · ER 0.0% · 평소대비 1.5x (D+13)"
     }
   ],
   "flags": {
@@ -70,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "8de39eba-97ed-8266-b6b7-01be1ef89924",
-  "followers": 77557,
-  "last_written_score": 158
+  "followers": 77558,
+  "last_written_score": 146
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-03T13:11:56.000Z",
       "permalink": "https://www.instagram.com/p/DaVPq8Lmj2q/",
-      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/730437044_17895997164538945_1240272073126595312_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzMzExODQxNDYxNTMyMjE5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HU1OjLceJLAQ7kNvwEPGWOt&_nc_oc=AdotY2XhIvenUWsl4wWlIYBEemBh1bSQ8y5P7kVbDCcMxGIG_Sk8q8ij29kaPZxxqes&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=7rxH-MES55DWTbm6CejbPg&_nc_ss=72a8c&oh=00_AQDv8MLZC4HC0b_3iMV8vZHjtfYu6S1xcOwSmOGVgZlzyQ&oe=6A6703C8",
+      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730437044_17895997164538945_1240272073126595312_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzMzExODQxNDYxNTMyMjE5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HU1OjLceJLAQ7kNvwEyDIv4&_nc_oc=Adr3RzMci2L-xKXP_MS_YheoYr--2SUPSMpZL5QLn6-sGU2ww9yYzd3uJDSjUt9hmiI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=2-Ch0EWV-1eurZxArG5Aew&_nc_ss=72689&oh=00_AQBy0EpZDzhEIGMm77fctBSkFHwf_02meNBlDz2Ec52U5w&oe=6A6703C8",
       "caption": "#광고\n\n이거 입고 오늘 예쁘다는 말 오백만번 들음❤️\n색감도 트렌디한데 완죤 쫀쫀핏✨\n브라탑도 안흘러내리고 예쁜데 편하기까지,,🫶🏻\n\n#시크릿스 #애슬레저 #레깅스추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 944,
         "comments": 140
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,22 +45,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 843.0,
+        "eng_median": 1118.5,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 19,
       "computed": {
-        "er": 0.08094989171831828,
-        "vs_baseline": 1.2858837485172006,
+        "er": 0.08094384707287933,
+        "vs_baseline": 0.9691551184622262,
         "cost_per_eng": 54.428044280442805,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.30배 참여를 기록하며 팔로워 8.09% 참여율과 54원/건의 효율적인 비용으로 안정적인 초기 성과를 보임.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 944 · 댓글 140 · ER 8.1% · 평소대비 1.0x (D+19)"
     }
   ],
   "flags": {
@@ -70,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "75339eba-97ed-83cf-b243-8130c0f110bb",
-  "followers": 13391,
-  "last_written_score": 129
+  "followers": 13392,
+  "last_written_score": 97
 }

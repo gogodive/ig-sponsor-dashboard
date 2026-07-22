@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T23:48:14.000Z",
       "permalink": "https://www.instagram.com/p/DawIcJxD92h/",
-      "thumbnail": "https://instagram.fsan1-1.fna.fbcdn.net/v/t51.82787-15/746209431_18361663474215981_1505047099500015452_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDY2ODM3ODgyMjE3NjQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s0QTuf-GrQgQ7kNvwFUa84U&_nc_oc=AdqXAGtSZjn_2Axvjmt4_KS8lrA5-KHkfPZJktQVF6gEG0IEP0cXgNUHzz97QIIFF-fRuOWdjPl332DkOAzz39Qc&_nc_zt=23&_nc_ht=instagram.fsan1-1.fna&_nc_gid=YPcTiSthIJCm7Rq-IalOSw&_nc_ss=7d689&oh=00_AQD9R8AfTgK_tSA2S22I5eE-XYixO1c4BtEGYo2F3yRRlQ&oe=6A66E138",
+      "thumbnail": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/746209431_18361663474215981_1505047099500015452_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDY2ODM3ODgyMjE3NjQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s0QTuf-GrQgQ7kNvwGzGv6Q&_nc_oc=AdquHZH13SbihqFpMuFhJDiQ_9sr7Y3BuZoVScJcmN6IbHRduDqZU0eL16SQS6Q5z7k&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=v1m_wVVuMvPYIp1ZYIb36Q&_nc_ss=72689&oh=00_AQDANXs3x21_yptWYoeo1cvdTJPymDulIi27h1wNzZnqZQ&oe=6A671978",
       "caption": "𝑳𝑨𝑺𝑬𝑹𝑰𝑵 🍑 #제품제공\n@laserin_swim\n\n✨️ 피치크림 타이백\n\n바닷가에선 쨍한 컬러가 예쁜거 아시죠?!\n\n여행갈 때 어떤 수영복을 가져갈지 늘 고민인데\n라세린 비치크림은 원픽으로 가방에 쏘~옥! 🫶\n\n피치크림은 비침없는 한겹수영복으로 \n색감도 예쁘지만 착용감도 굉장히 좋아요.\n\nUV차단은 물론 최고수준의 크레오라 원사를 사용해서\n수영장 뿐만 아니라 활동이 많은 비치에서도 맘편히 입을 수 있어요.\n\n이번 부산여행은 송도 다이빙대에서도 신나게 놀았는데\n점프해서 들어갈 때도 수영복이 몸에 착! 밀착되어있어 좋았어요.\n\n올",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 286,
         "comments": 32
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,22 +45,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 155.5,
+        "eng_median": 166.5,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 8,
       "computed": {
-        "er": 0.02243861134631668,
-        "vs_baseline": 2.045016077170418,
+        "er": 0.022437028152120227,
+        "vs_baseline": 1.90990990990991,
         "cost_per_eng": 402.5157232704403,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 2.13배 참여로 기대 이상 반응, 참여 1건당 403원은 효율적인 수준으로 긍정적 출발.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 286 · 댓글 32 · ER 2.2% · 평소대비 1.9x (D+8)"
     }
   ],
   "flags": {
@@ -70,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a8f39eba-97ed-8305-a76f-010b7065b56f",
-  "followers": 14172,
-  "last_written_score": 205
+  "followers": 14173,
+  "last_written_score": 191
 }

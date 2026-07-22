@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T07:46:05.000Z",
       "permalink": "https://www.instagram.com/p/DaZz-KeEazh/",
-      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzNDQwMTg5NDM1NjkzMjE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mOvklvV8K_EQ7kNvwG0kM-p&_nc_oc=Adpk0RtzTPR5dqjkNBUtfuF7CdVfyS7R5fMwS3bJ6YInM0547ZBzfxVzuwDFCZ2eq3w&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=QVl_FQGrCSBflfCIIURASQ&_nc_ss=72a8c&oh=00_AQB4NDV0VJZ_zxKFXHU7ZOFMHapQ6jYhlBZsgDdfjrKYaA&oe=6A670261",
+      "thumbnail": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzNDQwMTg5NDM1NjkzMjE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mOvklvV8K_EQ7kNvwF9rNyp&_nc_oc=AdqA6Zc8cI1CBDCM77CG5P5-_PwsHtVYmJeBUzxoNL1CdJ6-4b17jGQVyVsqGvc2G3M&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=5R087A3W5BD3ec7HpTHYFQ&_nc_ss=7c289&oh=00_AQDRx9wsGCUAFXelGeeDQcncIyVf9iQ6_5OKg7xVMTkhSA&oe=6A670261",
       "caption": ".\n@laserin_swim #제품제공\n\n여름에 딱 어울리는 청량한 컬러💦\n보기엔 부드러워 보이는데 입어보면 한 겹인데도 \n쫀쫀해서 몸을 챡 붙는 느낌!\n\n은은하게 반짝이는 컬러감이 맘네 들어서\npick!🩵\n\n반짝반짝 예뿌다🩵💙\n\n🫧166cm 55kg M size🫧",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
+      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,22 +45,23 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 13.0,
+        "eng_median": 20.0,
         "n": 12,
-        "captured_at": "2026-07-23T05:15:22.939467+09:00"
+        "captured_at": "2026-07-23T06:22:20.040141+09:00"
       },
       "frozen": false,
       "days_since_post": 17,
       "computed": {
         "er": 0.002894076789504148,
-        "vs_baseline": 1.1538461538461537,
+        "vs_baseline": 0.75,
         "cost_per_eng": 4600.0,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.91x로 기준 이하이며, 참여 1건당 4,600원은 소규모 계정 협찬 효율로 개선이 필요한 수준입니다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
-      }
+      },
+      "last_written_reaction": "좋아요 3 · 댓글 12 · ER 0.3% · 평소대비 0.8x (D+17)"
     }
   ],
   "flags": {
@@ -71,5 +72,5 @@
   },
   "child_db_id": "18239eba-97ed-83d4-9991-01e5c91f67ee",
   "followers": 5183,
-  "last_written_score": 115
+  "last_written_score": 75
 }
