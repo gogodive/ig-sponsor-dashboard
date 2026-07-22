@@ -129,6 +129,11 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
     visible = [r for r in rows
                if not r.get("flags", {}).get("non_instagram")
                and not r.get("flags", {}).get("unresolvable_username")]
+    # 구형 종료 행(결과물 DB 없던 시절 → 수집 게시물 0개)은 카드에서 제외
+    visible = [r for r in visible
+               if not (r.get("status") == "종료"
+                       and not any(p.get("metrics_updated_at")
+                                   for p in r.get("posts", [])))]
     for r in visible:
         for p in r.get("posts", []):
             p["_spark_views"] = _sparkline(p.get("history", []), "views")
