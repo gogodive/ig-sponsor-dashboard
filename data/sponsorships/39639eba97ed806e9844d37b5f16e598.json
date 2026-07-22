@@ -1,0 +1,75 @@
+{
+  "page_id": "39639eba-97ed-806e-9844-d37b5f16e598",
+  "row_title_raw": "elephantfam_",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "3058",
+  "product_value_krw": 79000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "elephantfam_",
+  "followers_notion": 3058,
+  "posts": [
+    {
+      "notion_row_id": "4e139eba-97ed-8363-91a4-81c04753475a",
+      "url": "https://www.instagram.com/reel/DarK3R9PCO_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DarK3R9PCO_",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-12",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-12T01:37:43.000Z",
+      "permalink": "https://www.instagram.com/p/DarK3R9PCO_/",
+      "thumbnail": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/742391334_18207810865347379_3440197357141591370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFItTjDI8pEWH4L2t3bNF4qXfw1YhF2u761DfGKw9O6zKojdAt1VdtCLcRM9nD6P8w&_nc_ohc=9NghZ-t2YewQ7kNvwEr2LSG&_nc_gid=jBN6qyRHItBlqA5xtqT_XQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDPMaDy-ckmHpyBOBMt2CzQnNvSleMTX3vVgX4LMpuE9w&oe=6A66D239&_nc_sid=c6f216",
+      "caption": "#제품제공 수영복 원단맛집 \n@laserin_swim \n\n이번에 착용한 라세린 글리트 차콜벨벳 픽스트백은\n고급스러운 원단과 컬러가 어울리는 수영복이었습니다.\n\n은은하게 반짝이는 차콜 벨벳 텍스처,\n결을 따라 살아나는 메탈릭 광택,\n직접 보면 사진보다 훨씬 고급스럽습니다.\n\n게다가 크레오라(Creora) 원사를 사용해\n쫀쫀한 탄성과 부드러운 착용감,\n내구성까지 모두 잡았습니다.\n\n프리다이버인 저는\n슈트를 안에 편하게 입는 수용복의\n착용감이 정말 중요한데, 거기다 세련된 디자인까지 🤩\n\n✔ 슈트 안에 말림 없이 편안한 핏\n✔ 쫀쫀한 텐",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "elephantfam_",
+      "metrics": {
+        "views": 4780,
+        "likes": 267,
+        "comments": 87
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": 4780,
+          "likes": 267,
+          "comments": 87
+        }
+      ],
+      "baseline": {
+        "views_median": 2187.0,
+        "eng_median": 207.5,
+        "n": 8,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 10,
+      "computed": {
+        "er": 0.11445198836081474,
+        "vs_baseline": 2.185642432556013,
+        "cost_per_eng": 223.1638418079096,
+        "cost_per_view": 16.527196652719667
+      },
+      "analysis": {
+        "one_liner": "평소 대비 2.19배 높은 반응과 참여 1건당 223원의 효율적 비용으로, 소규모 계정임에도 뚜렷한 초과 성과를 기록했습니다.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "98139eba-97ed-825f-8508-01c778702ab8",
+  "followers": 3093
+}

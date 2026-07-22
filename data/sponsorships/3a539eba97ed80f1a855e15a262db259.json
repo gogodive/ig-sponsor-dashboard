@@ -1,0 +1,27 @@
+{
+  "page_id": "3a539eba-97ed-80f1-a855-e15a262db259",
+  "row_title_raw": "modu_sports",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "28",
+  "product_value_krw": 100000,
+  "delivery_date": "2026-07-23",
+  "output_link_prop": null,
+  "username": "modu_sports",
+  "followers_notion": 28,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "dc139eba-97ed-8264-aa8c-8111bda30e4d",
+  "followers": 28
+}

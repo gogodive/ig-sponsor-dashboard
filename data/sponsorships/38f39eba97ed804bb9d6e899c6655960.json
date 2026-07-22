@@ -1,0 +1,44 @@
+{
+  "page_id": "38f39eba-97ed-804b-b9d6-e899c6655960",
+  "row_title_raw": "_0ne.f",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "19000",
+  "product_value_krw": 168000,
+  "delivery_date": "2026-06-29",
+  "output_link_prop": null,
+  "username": "_0ne.f",
+  "followers_notion": 19000,
+  "posts": [
+    {
+      "notion_row_id": "6b939eba-97ed-82ec-8b04-013058922c68",
+      "url": "https://www.instagram.com/p/DaW8RgQAbg6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DaW8RgQAbg6",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-06",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 17,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "f6539eba-97ed-83c1-b0a7-81c969bb187f",
+  "followers": 19000
+}

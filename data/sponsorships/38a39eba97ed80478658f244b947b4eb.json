@@ -1,0 +1,74 @@
+{
+  "page_id": "38a39eba-97ed-8047-8658-f244b947b4eb",
+  "row_title_raw": "yoondhyun",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "30000",
+  "product_value_krw": 390000,
+  "delivery_date": "2026-06-26",
+  "output_link_prop": null,
+  "username": "yoondhyun",
+  "followers_notion": 30000,
+  "posts": [
+    {
+      "notion_row_id": "6e539eba-97ed-82c6-a4ba-015fb27eb490",
+      "url": "https://www.instagram.com/p/Da-dBZdme7v/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da-dBZdme7v",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-19T13:17:27.000Z",
+      "permalink": "https://www.instagram.com/p/Da-dBZdme7v/",
+      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NDcxNTg5NzQyMTY2OTAzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQyNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VfCuL5FvLEQQ7kNvwEZI6RY&_nc_oc=AdrbTOPskMV4Y1nJAdQBzMUoHBQV12yZv_uh2Mw-OBTuWkQ9nMimRsf1UefPo-ef9gc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=rxE-oDXvRNhvuY7wrmCptg&_nc_ss=72a8c&oh=00_AQBMhrHk9d8YSCGNkTWayLXN7vyjcq1_Xmx5Mp4NgyCGxg&oe=6A66E97F",
+      "caption": "Dive into the Blue. 🌊 @gogodive \n\n평생 한번쯤 꼭 해보고 싶은 취미로 #프리다이빙 을 떠올리시는 분 많더라구요. \n\n언제까지 미룰 생각이죠…? 😤 \n\n제가 함께한 #고고다이브 는 회원 40,000명 국내 최대 규모 #다이빙 커뮤니티이자 정부 등록 수중레저 교육기관입니다 ✨\n\n저는 김세인 강사님 @pongdang.ping 과 함께 했는데요 🫧  호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 자세히 알려주시고, 구체적",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yoondhyun",
+      "metrics": {
+        "likes": 266,
+        "comments": 19
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 266,
+          "comments": 19
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 277.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.009474104115417858,
+        "vs_baseline": 1.027027027027027,
+        "cost_per_eng": 1368.421052631579,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.03x로 거의 차이 없는 무난한 성과이며, 참여 1건당 1,368원은 3만 팔로워 규모 피드 협찬 기준으로 수용 가능한 수준.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
+  "followers": 30082
+}

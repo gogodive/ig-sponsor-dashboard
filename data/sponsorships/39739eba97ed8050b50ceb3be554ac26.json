@@ -1,0 +1,74 @@
+{
+  "page_id": "39739eba-97ed-8050-b50c-eb3be554ac26",
+  "row_title_raw": "*pink._0mermaid",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "3105",
+  "product_value_krw": 103000,
+  "delivery_date": "2026-07-09",
+  "output_link_prop": null,
+  "username": "pink._0mermaid",
+  "followers_notion": 3105,
+  "posts": [
+    {
+      "notion_row_id": "ab039eba-97ed-8376-9920-01af1cafbc40",
+      "url": "https://www.instagram.com/p/DasaIsmGNgg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DasaIsmGNgg",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-13",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-12T13:05:54.000Z",
+      "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
+      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fyMWP5caH40Q7kNvwFPPMVP&_nc_oc=Adq-y1rkRRnAVHUP3Lp19owuEC5_UDVdll3YDREWeN3uqtNRC1NlqGotQ5QE0yGQ5MM&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=D289yWSZmDwnCcXUB8sIHw&_nc_ss=72a8c&oh=00_AQBMCWMv_sajkQczanOpOc6GiqOAhai_pz4QlfS3gAdOOA&oe=6A66DB77",
+      "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "pink._0mermaid",
+      "metrics": {
+        "likes": 97,
+        "comments": 2
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 97,
+          "comments": 2
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 145.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 10,
+      "computed": {
+        "er": 0.03175112251443233,
+        "vs_baseline": 0.6804123711340206,
+        "cost_per_eng": 1040.4040404040404,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.68x로 부진하나 참여 1건당 1,040원·참여율 3.18%는 소규모 계정 기준 수용 가능한 수준.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "e5039eba-97ed-82ce-81b4-818fb77029d4",
+  "followers": 3118
+}

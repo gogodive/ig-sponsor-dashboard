@@ -1,0 +1,27 @@
+{
+  "page_id": "39d39eba-97ed-80ee-8cae-db021ae83c0b",
+  "row_title_raw": "Hyuneoni",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "20000",
+  "product_value_krw": 55500,
+  "delivery_date": "2026-07-10",
+  "output_link_prop": null,
+  "username": "hyuneoni",
+  "followers_notion": 20000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "09a39eba-97ed-8353-aa6b-012bad147626",
+  "followers": 20000
+}

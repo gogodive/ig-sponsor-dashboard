@@ -1,0 +1,27 @@
+{
+  "page_id": "31e39eba-97ed-80b7-845b-ec99f684f227",
+  "row_title_raw": "sd_dajung",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "11000",
+  "product_value_krw": null,
+  "delivery_date": "2026-03-26",
+  "output_link_prop": null,
+  "username": "sd_dajung",
+  "followers_notion": 11000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": null,
+  "followers": 11000
+}

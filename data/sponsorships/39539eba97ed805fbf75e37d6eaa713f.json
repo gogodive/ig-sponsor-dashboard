@@ -1,0 +1,60 @@
+{
+  "page_id": "39539eba-97ed-805f-bf75-e37d6eaa713f",
+  "row_title_raw": "freeee_kay",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "1496",
+  "product_value_krw": 64000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "freeee_kay",
+  "followers_notion": 1496,
+  "posts": [
+    {
+      "notion_row_id": "39f39eba-97ed-8088-ae15-ff7c66050389",
+      "url": "https://www.instagram.com/reel/Da1nbBuBxJS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da1nbBuBxJS",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-16",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "2cb39eba-97ed-82b1-8f77-81a9c3684662",
+      "url": "https://www.instagram.com/p/DarQ74yAcaA/?utm_source=ig_web_copy_link",
+      "shortcode": "DarQ74yAcaA",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-12",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 11,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "65e39eba-97ed-83de-8707-01dcb011bf40",
+  "followers": 1496
+}

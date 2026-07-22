@@ -1,0 +1,69 @@
+{
+  "page_id": "37d39eba-97ed-807c-a519-f7b8a4a6ee3d",
+  "row_title_raw": "swimmingjourney_daily",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "4778",
+  "product_value_krw": 69000,
+  "delivery_date": "2026-06-11",
+  "output_link_prop": null,
+  "username": "swimmingjourney_daily",
+  "followers_notion": 4778,
+  "posts": [
+    {
+      "notion_row_id": "1d039eba-97ed-835e-b657-0151aacf93a5",
+      "url": "https://www.instagram.com/reel/DZxFSvCTUlv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DZxFSvCTUlv",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-06-20",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-19T12:15:19.000Z",
+      "permalink": "https://www.instagram.com/p/DZxFSvCTUlv/",
+      "thumbnail": "https://instagram.fosu2-1.fna.fbcdn.net/v/t51.71878-15/723109707_1544351933908711_8951065191233644308_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fosu2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHjtyaMZcc0qOyKpAobFnc--N07XFtx-HNd8JzILn7Lk3b2krmmosgXWp8hQDWn4ycw-l6MihTCUDYKysBX5TLY&_nc_ohc=PKDLRXYaSU8Q7kNvwF6h5dl&_nc_gid=tCpjBCyueJ7xJEY2VidUHQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBQivXgAAXzCBT6A9YKXNXZTme4Si8axcf7-aKe94JSXw&oe=6A66FB0A&_nc_sid=c6f216",
+      "caption": "협찬🧜🏼‍♀️𝐋𝐀𝐒𝐄𝐑𝐈𝐍🩵\n\n라세린 - 크리스탈 웨이브 더블크로스백\n@laserin_swim \n\n✔️ 163cm / 55kg / S사이즈 착용\n\n🫧\n인어공주 재질 친구들 여기여기 모여라!🥹\n포일성애자 최애 수영복\n라세린!!\n\n넘나 예뿌쟈나..🥲\n반짝 매끈 영롱해서 눈이 부실지경…✨✨\n\n물속에서도 너무너무 예뻐요 🩵\n같이 인어공주 되어보자구요!! 😆\n\n#라세린 #라세린수영복 #수영복추천 \n#포일수영복",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "swimmingjourney_daily",
+      "metrics": {
+        "views": 7428,
+        "likes": 326,
+        "comments": 31
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": 8321.5,
+        "eng_median": 191.0,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 33,
+      "computed": {
+        "er": 0.07332101047443007,
+        "vs_baseline": 0.8926275310941537,
+        "cost_per_eng": 193.27731092436974,
+        "cost_per_view": 9.289176090468498
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.89x로 소폭 미달이나 팔로워 대비 참여율 7.33%·참여당 193원으로 소규모 계정 효율은 양호한 수준.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 대비 참여율 7.33%는 소규모 계정 기준으로 양호한 수준이나, 평소 게시물 대비 0.89배의 조회 성과는 협찬 콘텐츠가 오히려 평균을 하회했음을 의미해 콘텐츠 파급력 측면에서는 아쉽다. 다만 참여 1건당 193원, 조회 1회당 9.3원이라는 비용 효율은 69,000원의 협찬 단가를 감안하면 마이크로 인플루언서 평균 범위 내에서 수용 가능한 수준이다. 종합하면 브랜드 인지 확산보다 소규모 충성 팬층과의 접점 확보 목적에는 적정 가치를 제공했으나, 도달 극대화를 목표로 했다면 비용 대비 효과가 충분하지 않은 협찬으로 평가된다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "d6e39eba-97ed-827e-8b01-81ffee7153ed",
+  "followers": 4869
+}

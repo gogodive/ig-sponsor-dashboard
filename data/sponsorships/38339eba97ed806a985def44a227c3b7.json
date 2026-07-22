@@ -1,0 +1,44 @@
+{
+  "page_id": "38339eba-97ed-806a-985d-ef44a227c3b7",
+  "row_title_raw": "ho057_pila",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "64000",
+  "product_value_krw": 390000,
+  "delivery_date": "2026-06-19",
+  "output_link_prop": null,
+  "username": "ho057_pila",
+  "followers_notion": 64000,
+  "posts": [
+    {
+      "notion_row_id": "ec539eba-97ed-82de-843c-01698875054b",
+      "url": "https://www.instagram.com/p/DbCHFmSPDlg/",
+      "shortcode": "DbCHFmSPDlg",
+      "media_kind": "스토리",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "0d339eba-97ed-831e-8739-817333986b93",
+  "followers": 64000
+}

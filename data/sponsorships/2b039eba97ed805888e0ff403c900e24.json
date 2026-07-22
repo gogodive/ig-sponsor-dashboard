@@ -1,0 +1,27 @@
+{
+  "page_id": "2b039eba-97ed-8058-88e0-ff403c900e24",
+  "row_title_raw": "e_nuff",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "2377",
+  "product_value_krw": null,
+  "delivery_date": "2025-11-19",
+  "output_link_prop": null,
+  "username": "e_nuff",
+  "followers_notion": 2377,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": null,
+  "followers": 2377
+}

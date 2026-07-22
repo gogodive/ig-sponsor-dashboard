@@ -1,0 +1,74 @@
+{
+  "page_id": "37d39eba-97ed-8011-a864-f9a9959bdb69",
+  "row_title_raw": "im_puppyy",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "16000",
+  "product_value_krw": 110000,
+  "delivery_date": "2026-06-15",
+  "output_link_prop": null,
+  "username": "im_puppyy",
+  "followers_notion": 16000,
+  "posts": [
+    {
+      "notion_row_id": "c3039eba-97ed-82a2-bcde-012a5d6c396b",
+      "url": "https://www.instagram.com/p/DacMkNOE5rv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DacMkNOE5rv",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-07",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-06T05:59:29.000Z",
+      "permalink": "https://www.instagram.com/p/DacMkNOE5rv/",
+      "thumbnail": "https://instagram.fcps4-1.fna.fbcdn.net/v/t51.82787-15/740628529_18591997573062820_5028451802163316755_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkzNTA3NDg4NDk5Njk5OTg5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RzyzatqDaZQQ7kNvwFnVWaC&_nc_oc=AdpwVvmAfzX9JPJgR-kokdsSc1yZTSk-e4sGjIshlY5_xt-mbM_R-Xfbem6-C1W5WZQ_7hjfGBd68jW29OSDapFG&_nc_zt=23&_nc_ht=instagram.fcps4-1.fna&_nc_gid=8El6yVGEYEqyV1FHy9zCXw&_nc_ss=72689&oh=00_AQCXlZZR_nXnFbjs-qDj-YFQ2ygRn0RB-n5wz_gtVcX6-A&oe=6A66F799",
+      "caption": "야~호~✌🏻\n\n운동 갈 때도, 잠깐 외출할 때도 그대로 입고 나가기 좋은 셋업!\n\n편안한 착용감에 핏까지 예뻐서 운동복으로도 \n데일리룩으로도 만족🤍\n\n🔗시크릿스 리브 슬리브리스 레이어드 팬츠 SET",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "im_puppyy",
+      "metrics": {
+        "likes": 3,
+        "comments": 21
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 21
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 13.0,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 16,
+      "computed": {
+        "er": 0.0014497130776200543,
+        "vs_baseline": 1.8461538461538463,
+        "cost_per_eng": 4583.333333333333,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.85x 참여로 선방했으나 팔로워 대비 참여율 0.14%·건당 비용 4,583원은 효율 개선이 필요한 수준.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "55d39eba-97ed-826b-a7a1-0186acb802fe",
+  "followers": 16555
+}

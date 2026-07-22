@@ -1,0 +1,68 @@
+{
+  "page_id": "37d39eba-97ed-8088-b636-f0826afbfef3",
+  "row_title_raw": "button.bb",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "13000",
+  "product_value_krw": 64000,
+  "delivery_date": "2026-06-12",
+  "output_link_prop": null,
+  "username": "button.bb",
+  "followers_notion": 13000,
+  "posts": [
+    {
+      "notion_row_id": "b6539eba-97ed-8388-a633-019be4ccf8dc",
+      "url": "https://www.instagram.com/p/DZhkCDmzW80/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DZhkCDmzW80",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-06-14",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-13T11:32:27.000Z",
+      "permalink": "https://www.instagram.com/p/DZhkCDmzW80/",
+      "thumbnail": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/723111229_18445416274136557_5574935635965939132_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEgDkINZ7KDZfKvHmwULbfKnQfT5jC_r6r3OF0uk2M06a0o4WWv8MseivsXg2PFBPt8mpSdlYlzLOBxhbg4w9A8&_nc_ohc=SKbC6eGP2X8Q7kNvwHValiO&_nc_gid=hFg50twEGUUSX22lvAZ8Kg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB2ko0dJ2YzThTejONnzaBacI63oMZLBOGmig_pn4eebw&oe=6A66EA7B&_nc_sid=c6f216",
+      "caption": "#협찬 \n➰\n라세린 \n미드나잇 오션 더블 크로스백 우먼 M사이즈 \n\n밤바다 속에서 빛나는 바다의 에너지를 표현했다는\n미드나잇 유션 더블 크로스백\n\n백라인을 탄탄하게 잡아줘서 물 유입을 최소화해준다고 하니\n물 속에서 더 기대되는 수영복\n\n미들컷으로 노출이 적고\n안 쪽에 고밀도 화이트 원단을 사용해서\n비침을 최소화했다고 해요 🩵\n\n크레오라 원사로 훌륭한 견뢰도를 갖춘 제품\n\n#라세린 #수영복 #수영복추천",
+      "media_type": "IMAGE",
+      "product": "FEED",
+      "owner_username": "button.bb",
+      "metrics": {
+        "likes": 3,
+        "comments": 8
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 5.0,
+        "n": 6,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 39,
+      "computed": {
+        "er": 0.0008032128514056225,
+        "vs_baseline": 2.2,
+        "cost_per_eng": 5818.181818181818,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 2.2배 참여로 선방했으나 팔로워 대비 참여율 0.08%·1건당 5,818원은 비용 효율이 낮아 추가 활성화가 필요하다.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "평소 대비 2.20배의 참여 배수는 콘텐츠 자체의 상대적 반응은 양호하나, 팔로워 대비 참여율 0.08%는 업계 기준(1~3%)에 크게 못 미치는 수준이다. 총 참여 11건(좋아요 3+댓글 8)에 참여 1건당 비용 5,818원은 동일 예산 대비 도달 효율이 현저히 낮아, 64,000원의 협찬 비용을 정당화하기 어렵다. 팔로워 1.4만 규모 계정임을 감안하면 이번 협찬은 비용 대비 실질적인 브랜드 노출·전환 가치가 낮았던 것으로 판단된다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "0ea39eba-97ed-831e-9898-01e32b71850b",
+  "followers": 13695
+}

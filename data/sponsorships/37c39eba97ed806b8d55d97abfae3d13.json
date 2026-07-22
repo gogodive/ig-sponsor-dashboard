@@ -1,0 +1,109 @@
+{
+  "page_id": "37c39eba-97ed-806b-8d55-d97abfae3d13",
+  "row_title_raw": "ori.qqqq",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "1589",
+  "product_value_krw": 69000,
+  "delivery_date": "2026-06-09",
+  "output_link_prop": null,
+  "username": "ori.qqqq",
+  "followers_notion": 1589,
+  "posts": [
+    {
+      "notion_row_id": "38039eba-97ed-8021-8734-c325a726924d",
+      "url": "https://www.instagram.com/p/DZu1bLhuSQk/",
+      "shortcode": "DZu1bLhuSQk",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-06-19",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-18T15:17:33.000Z",
+      "permalink": "https://www.instagram.com/p/DZu1bLhuSQk/",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/726582475_17902733430448381_4779312996502949997_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEt9bmmjcuCvskMFcCxaWf5O6bf01R971_7h1ZTho4ZFOxI8yGgdmypy6R4XdqHVy9Iz7wkKO81Zht7HNMd6MRq&_nc_ohc=K1DJoD4VKMMQ7kNvwFjnfcO&_nc_gid=oPLxn56mePC-5ZqOQqoZWw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAJ0rgXejoQnKgxO1lXHkdlYvwNAym6OOP08n8I4r6phA&oe=6A67019E&_nc_sid=c6f216",
+      "caption": ": 헤헿ㅎㅎ #협찬\n요정 소리 많이 들은 셩복\n@laserin_swim 🍬코튼캔디🍬\n\n은은한컬러에 눈부신 반짝이\n물 속에서도 넘 이쁜 마블컬러예요\n\n#라세린 #laserin #라세린코튼캔디 #라세린수영복",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "ori.qqqq",
+      "metrics": {
+        "views": 3129,
+        "likes": 3,
+        "comments": 8
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": 1851,
+        "eng_median": 22.0,
+        "n": 11,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 34,
+      "computed": {
+        "er": 0.005984766050054407,
+        "vs_baseline": 1.6904376012965965,
+        "cost_per_eng": 6272.727272727273,
+        "cost_per_view": 22.051773729626078
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.69x 조회로 노출은 선방했으나, 좋아요 3건에 그쳐 참여당 비용 6,273원은 협찬가 대비 효율이 낮은 수준입니다.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "조회수 3,129회로 평소 대비 1.69배를 기록해 콘텐츠 자체의 도달력은 평균 이상이었으나, 좋아요 3·댓글 8로 팔로워 대비 참여율이 0.60%에 그쳐 시청자의 실질적 관심 전환은 매우 저조했다. 참여 1건당 비용 6,273원은 소규모 계정 협찬치고 지나치게 높으며, 조회 1회당 22.1원도 브랜드 인지 효율 면에서 경쟁력이 낮다. 상품 가액 69,000원 대비 얻은 마케팅 효과는 제한적으로, 재협찬 시 참여율이 높은 콘텐츠 포맷이나 명확한 CTA 삽입 조건을 추가 협의할 필요가 있다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    },
+    {
+      "notion_row_id": "42839eba-97ed-8331-964e-01552fa6b6fd",
+      "url": "https://www.instagram.com/p/DZoJDZVkykt/",
+      "shortcode": "DZoJDZVkykt",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-06-16",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-16T00:48:17.000Z",
+      "permalink": "https://www.instagram.com/p/DZoJDZVkykt/",
+      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/722768791_17902355148448381_6596052727085668897_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkyMDQxODg3ODc2MTMzNzcwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1XFH0BQIGIYQ7kNvwFTcRV3&_nc_oc=Adp_c9_EW5XOXO9b2hxF_qVdfJ5iQWvl4bqAkUMZKnkVKKTn9oMlY6XzVDCr14_QRM8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6AoijWKPgDLe5YFmYY0Mjw&_nc_ss=7ca8c&oh=00_AQAPJZXAEXkwL2HVPjJbiDn7gE27ZucYie2ece_IGobVBA&oe=6A67066B",
+      "caption": ": 솜사탕🍬\n@laserin_swim  제품제공\n\n인기가 많은 이유는 입어보면 알게되져\n입어보니 왜 코튼캔디코튼캔디 하는지 알겠더라구요\n빛 빋을 때마다 반딱반딱\n물 속에서 빛내림 받으면 인어가 따로 없어\n😚\n\n💕Size Tip\n164cm / 50kg / 145cm - S착용\n나이키졸린28/ 국내브랜드S-M(85)\n\n전 S 사이즈 착용했는데요\n저랑 토르소가 같거나 조금 짧으시면 한 사이즈 다운 추천 드려요\n저두 다음번엔 XS 도전해봐야겠어요\n\n#라세린 #laserin #실내수영복 #수영복추천 #수영복샷",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "ori.qqqq",
+      "metrics": {
+        "likes": 3,
+        "comments": 26
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 24,
+        "n": 11,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 36,
+      "computed": {
+        "er": 0.015778019586507073,
+        "vs_baseline": 1.2083333333333333,
+        "cost_per_eng": 2379.310344827586,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.21배 수준의 무난한 참여를 보이나, 참여 1건당 2,379원은 69,000원 협찬가 대비 효율 개선 여지가 있음.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 1,838명 소규모 계정임에도 평소 대비 1.21배의 참여량과 1.58%의 팔로워 대비 참여율을 기록해 콘텐츠 자체의 반응은 준수한 편이다. 그러나 댓글 26건은 눈에 띄지만 좋아요 3건은 이례적으로 낮아 댓글의 질(진성 여부, 스팸·이벤트성 여부)을 별도로 검토할 필요가 있다. 참여 1건당 비용 2,379원·상품가 69,000원 기준으로는 비용 효율이 나쁘지 않으나, 릴스 조회수 데이터가 없어 실제 노출 범위를 확인할 수 없고 피드 게시물 특성상 도달 확장성이 제한적이므로 재협찬 시 릴스 포맷 전환을 권장한다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "e8739eba-97ed-8384-9028-81bd28bcb41b",
+  "followers": 1838
+}

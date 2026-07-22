@@ -1,0 +1,27 @@
+{
+  "page_id": "30339eba-97ed-8077-a9fb-e4e8c025cf3e",
+  "row_title_raw": "song__yujin",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "딥바이브"
+  ],
+  "manager": "김태흔",
+  "followers_notion_raw": "151000",
+  "product_value_krw": null,
+  "delivery_date": "2026-02-12",
+  "output_link_prop": null,
+  "username": "song__yujin",
+  "followers_notion": 151000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": null,
+  "followers": 151000
+}

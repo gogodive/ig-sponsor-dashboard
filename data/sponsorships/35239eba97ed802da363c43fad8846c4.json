@@ -1,0 +1,68 @@
+{
+  "page_id": "35239eba-97ed-802d-a363-c43fad8846c4",
+  "row_title_raw": "j__mg00",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "2933",
+  "product_value_krw": null,
+  "delivery_date": "2026-04-15",
+  "output_link_prop": null,
+  "username": "j__mg00",
+  "followers_notion": 2933,
+  "posts": [
+    {
+      "notion_row_id": "35239eba-97ed-80a7-a866-fac55845374e",
+      "url": "https://www.instagram.com/p/DXDk8pMETPY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DXDk8pMETPY",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-04-13T02:57:20.000Z",
+      "permalink": "https://www.instagram.com/p/DXDk8pMETPY/",
+      "thumbnail": "https://instagram.fcre1-1.fna.fbcdn.net/v/t51.82787-15/670316664_18443708644113876_4270041640592461398_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzg3NDEwMjU5MDA2MjAzNDY2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bppt3e5au7MQ7kNvwFv4cNc&_nc_oc=AdpEUwdfBe-vcfTevlifvUZHtIES6FIw5_K1hmIFbh0vSNe5ve5JZgxBZORNhW8mhWY&_nc_zt=23&_nc_ht=instagram.fcre1-1.fna&_nc_gid=EQKT4-MkKwgDSGYCn2FyZg&_nc_ss=72a8c&oh=00_AQDgCNjf66MyNBeuLUGygLd6cxxasT9RysoVHnTuYhWblg&oe=6A66ECAD",
+      "caption": "POV: this is your sign to get in the water 🌊\n\nclean lines, bold color,\nand a little main character energy\n\n👙 @laserin_swim \n뒤 디테일도 넘 이뻐\n\n다들 이 느낌 알죠 ?\n딱 여름 시작 vibe 입니다 💖",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "j__mg00",
+      "metrics": {
+        "likes": 246,
+        "comments": 23
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 198.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 100,
+      "computed": {
+        "er": 0.07958579881656805,
+        "vs_baseline": 1.3551637279596978,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "팔로워 대비 참여율 7.96%·평소대비 1.36x로 소규모 계정 기준 양호한 반응이나 상품 가액 미확인으로 비용 효율 판단 보류.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 3,380명의 소규모 계정임에도 좋아요 246·댓글 23으로 참여율 7.96%를 기록했으며, 이는 평소 게시물 대비 1.36배 높은 수치로 협찬 콘텐츠가 팔로워 반응을 유의미하게 끌어냈음을 보여준다. 상품 가액이 미기재되어 정확한 ROI 산출은 불가하나, 마이크로 인플루언서 특유의 높은 참여율(업계 평균 3~5% 대비 약 1.5~2.6배)과 평소 대비 성과 상승을 고려하면 현물 협찬 수준의 비용이라면 충분히 가치 있는 집행으로 판단된다. 다만 릴스가 아닌 피드 게시물로 조회수 데이터가 없어 도달 범위 검증이 제한적이므로, 향후 릴스 포맷 요청 또는 스토리 링크 추가로 추가 성과 지표를 확보하는 것이 권장된다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "35239eba-97ed-809b-904e-f64173d77847",
+  "followers": 3380
+}

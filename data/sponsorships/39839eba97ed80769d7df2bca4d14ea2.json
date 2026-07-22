@@ -1,0 +1,27 @@
+{
+  "page_id": "39839eba-97ed-8076-9d7d-f2bca4d14ea2",
+  "row_title_raw": "rabbit.swimming",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "23000",
+  "product_value_krw": 290000,
+  "delivery_date": "2026-07-10",
+  "output_link_prop": null,
+  "username": "rabbit.swimming",
+  "followers_notion": 23000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "db839eba-97ed-831d-85f5-0161fdad2405",
+  "followers": 23000
+}

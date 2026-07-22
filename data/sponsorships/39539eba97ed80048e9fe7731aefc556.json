@@ -1,0 +1,44 @@
+{
+  "page_id": "39539eba-97ed-8004-8e9f-e7731aefc556",
+  "row_title_raw": "ann.heidi.mc( healthylife.heidi)",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "3103",
+  "product_value_krw": 88000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "ann.heidi.mc",
+  "followers_notion": 3103,
+  "posts": [
+    {
+      "notion_row_id": "35739eba-97ed-8309-a1a4-8157ecb4d466",
+      "url": "https://www.instagram.com/p/Dajl4M8yjJO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dajl4M8yjJO",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-10",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 13,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "47139eba-97ed-8226-b0bf-8113f41e3492",
+  "followers": 3103
+}

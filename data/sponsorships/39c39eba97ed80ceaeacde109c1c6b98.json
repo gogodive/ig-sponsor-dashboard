@@ -1,0 +1,27 @@
+{
+  "page_id": "39c39eba-97ed-80ce-aeac-de109c1c6b98",
+  "row_title_raw": "haenyeo_sohee",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "17000",
+  "product_value_krw": 290000,
+  "delivery_date": "2026-07-13",
+  "output_link_prop": null,
+  "username": "haenyeo_sohee",
+  "followers_notion": 17000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "ecd39eba-97ed-8286-8d73-81c8702b7e36",
+  "followers": 17000
+}

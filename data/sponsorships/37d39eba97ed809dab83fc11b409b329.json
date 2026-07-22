@@ -1,0 +1,109 @@
+{
+  "page_id": "37d39eba-97ed-809d-ab83-fc11b409b329",
+  "row_title_raw": "hye____wave",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "501",
+  "product_value_krw": 64000,
+  "delivery_date": "2026-06-10",
+  "output_link_prop": null,
+  "username": "hye____wave",
+  "followers_notion": 501,
+  "posts": [
+    {
+      "notion_row_id": "38939eba-97ed-80fc-9793-c0af5b690143",
+      "url": "https://www.instagram.com/reel/DZz-lhbKyZM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DZz-lhbKyZM",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-06-21",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-20T15:18:09.000Z",
+      "permalink": "https://www.instagram.com/p/DZz-lhbKyZM/",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/731147146_17927672973359849_2094330843755150639_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGmNbxyR9H5GXHRG7Cqo1R15md98yGHI8SExQwxSru3zx0IbQLzIO8nQ6mBmrokDME&_nc_ohc=ZI5Nv4xceKkQ7kNvwEzpdQS&_nc_gid=h89pRU9FsCHV64dpFZrq0g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQA5b6Bv4IaUtNvu971NNeA3JjN21iEIjxsI0JsQjyLCZQ&oe=6A66E5FD&_nc_sid=c6f216",
+      "caption": "아티스틱 스위밍 연습하다가 저병 중간점검 🔎\n\n코어에 힘주기\n무릎 굽히지 말기\n시선 땅보지 말기🤦🏻‍♀️\n아차하면 또 그러네~~ \n\n아스에서는 손가락을 모으고 해야해서 \n손가락이 아직 붙어있는 상황😅\n\n앞구르기 노핀 덕다이빙 모두 짬뽕이 되😮\n\n👙착용제품 \n\n #라세린 피치크림 타이백 우먼 M\n@laserin_swim \n\n타이백이 등을 간지럽히는 데 \n잠수할 때 기분이 좋다..💕\n\n📷선희님🙏🏻\n\n#접영 #수영 #오수완 #수영일기",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "hye____wave",
+      "metrics": {
+        "views": 1065,
+        "likes": 40,
+        "comments": 6
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": 1523,
+        "eng_median": 47.5,
+        "n": 9,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 32,
+      "computed": {
+        "er": 0.07744107744107744,
+        "vs_baseline": 0.6992777413000657,
+        "cost_per_eng": 1391.304347826087,
+        "cost_per_view": 60.093896713615024
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.70x로 다소 저조하나, 팔로워 대비 참여율 7.74%·참여당 1,391원으로 소규모 계정 효율은 양호한 수준.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 대비 참여율 7.74%는 소규모 계정 기준으로 양호한 수치이나, 조회수가 평소 게시물의 0.70배에 그쳐 협찬 콘텐츠가 오히려 평소보다 낮은 노출을 기록했다는 점은 부정적이다. 조회 1회당 비용 60.1원, 참여 1건당 비용 1,391원은 팔로워 594명의 초소형 계정 협찬치고 과도하게 높지는 않으나, 절대 도달 규모(조회 1,065회)가 너무 작아 브랜드 인지 확산 효과는 사실상 미미하다. 상품 가액 64,000원 대비 얻은 마케팅 임팩트를 고려하면 비용 효율이 낮은 협찬으로 판단되며, 향후 동일 예산으로는 팔로워 규모가 더 크거나 평소 조회수 베이스라인이 높은 계정을 우선 검토하는 것이 바람직하다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    },
+    {
+      "notion_row_id": "3c639eba-97ed-824b-b842-810a2593a41e",
+      "url": "https://www.instagram.com/p/DZl9EeAlDvU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DZl9EeAlDvU",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-06-15",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-15T04:25:05.000Z",
+      "permalink": "https://www.instagram.com/p/DZl9EeAlDvU/",
+      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/723014463_17924204640359849_4161091359279548660_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkxOTgwNjc2NjUyOTYxNTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_E60tgJKSV0Q7kNvwFB3j2T&_nc_oc=AdpevvfkEslKD69SrHiEwg6cHyc9i8s3BKWvtsX6J7P1kIg_6DIjdw6CVeFiFwVwRhM&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=KyC6O6ZGtYtkiA4NuviPwg&_nc_ss=72689&oh=00_AQAoMasYXj8qyVDzCKeQhh8imn6Xrn159sblW2ppw0cigA&oe=6A66E2F9",
+      "caption": "여름 석양을 닮은 수영복🌅\n\n라세린 피치크림 타이백 🎀\n@laserin_swim \n\n쫀쫀한 두겹 수영복\n세미하이컷\n타이백 💡\n\n핑크와 오렌지 물감이 물 위에서 섞이는 듯한 예쁜 그라데이션🎨\n\nX백은 고정되어 있어서\n상체를 안정적으로 잡아주고 \n\n아래 끈만 묶어주면 되니까\n꼬일 염려까지 적어짐\n\n타이백이 처음이라면 추천!\n\n개개인마다 다른 모양의 흉곽에도 \n유연하게 맞춤 수영복 처럼 착\n\n177cm 59kg t159 \nM사이즈 착용 정사이즈 추천\n\n#제품제공 #라세린 #수영복추천 #여자수영복 #실내수영복",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "hye____wave",
+      "metrics": {
+        "likes": 50,
+        "comments": 10
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 57.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 37,
+      "computed": {
+        "er": 0.10101010101010101,
+        "vs_baseline": 1.0434782608695652,
+        "cost_per_eng": 1066.6666666666667,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.04배 수준의 무난한 참여율로 참여 1건당 1,067원은 소규모 계정 협찬 대비 합리적인 비용 효율을 보여줍니다.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 594명의 소규모 계정임에도 참여율 10.10%는 마이크로 인플루언서 평균(3~5%)을 2배 이상 웃도는 수준으로, 팔로워 충성도 측면에서 긍정적이다. 다만 절대 참여 수(좋아요 50·댓글 10)가 낮고 평소 대비 1.04배로 협찬 효과가 사실상 없어 도달 확장성은 미미하다. 참여 1건당 1,067원·총 비용 64,000원은 소액 협찬 기준으로 수용 가능한 수준이나, 실질적인 브랜드 노출 효과를 감안하면 비용 대비 가치는 보통 이하로 평가된다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "17f39eba-97ed-8217-a277-8138fad73fe2",
+  "followers": 594
+}

@@ -1,0 +1,27 @@
+{
+  "page_id": "39839eba-97ed-809f-a953-e22a42b7d84c",
+  "row_title_raw": "park_bin",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "19000",
+  "product_value_krw": 430000,
+  "delivery_date": "2026-07-10",
+  "output_link_prop": null,
+  "username": "park_bin",
+  "followers_notion": 19000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "f1039eba-97ed-827d-b629-016a27ab8aef",
+  "followers": 19000
+}

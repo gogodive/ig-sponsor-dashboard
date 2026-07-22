@@ -1,0 +1,74 @@
+{
+  "page_id": "39539eba-97ed-8004-a31d-f071307bdbde",
+  "row_title_raw": "do.roc.y",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "44000",
+  "product_value_krw": 146000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "do.roc.y",
+  "followers_notion": 44000,
+  "posts": [
+    {
+      "notion_row_id": "f4c39eba-97ed-82be-8ead-816e756cdf64",
+      "url": "https://www.instagram.com/p/DapfOBVFGFs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DapfOBVFGFs",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-12",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-11T09:52:36.000Z",
+      "permalink": "https://www.instagram.com/p/DapfOBVFGFs/",
+      "thumbnail": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/742266892_18474890692097062_724232062590641647_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzODgxNTY3ODQzOTUxNDM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gyJLY0o_h0QQ7kNvwFsXsgZ&_nc_oc=AdoOZF6c3-meYKTjoqPnU3PudgEKLh7PgXXgOkp7N2xk6F9h5-Bo0wFMSFdb1oRkQQ0&_nc_zt=23&_nc_ht=instagram.fsac1-2.fna&_nc_gid=QqSXPPuG7SsBZduBzVI1wg&_nc_ss=7ca8c&oh=00_AQAyC-x4Elus1DorxL2evvw-qi1ZPXE5PrqIJtnVZbclpQ&oe=6A66CE52",
+      "caption": "이정도 여름이면 버틸만 하지요🙂‍↕️🫶\n \n #오운완 #운동하는여자 #summerinkorea #gymlife",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "do.roc.y",
+      "metrics": {
+        "likes": 577,
+        "comments": 39
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 577,
+          "comments": 39
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 869.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 11,
+      "computed": {
+        "er": 0.013243039879608728,
+        "vs_baseline": 0.7084531339850488,
+        "cost_per_eng": 237.01298701298703,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.71x로 아쉬운 반응이나, 참여 1건당 237원의 합리적 비용과 1.32% 참여율로 효율 자체는 준수한 편.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "a6639eba-97ed-8208-b69d-01b06fc0c5b4",
+  "followers": 46515
+}

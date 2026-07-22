@@ -1,0 +1,74 @@
+{
+  "page_id": "38f39eba-97ed-80a1-8cc1-d9ae94b00d39",
+  "row_title_raw": "_z__sun",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "9304",
+  "product_value_krw": 59500,
+  "delivery_date": "2026-06-30",
+  "output_link_prop": null,
+  "username": "_z__sun",
+  "followers_notion": 9304,
+  "posts": [
+    {
+      "notion_row_id": "4fd39eba-97ed-83c7-845b-81fadf90667c",
+      "url": "https://www.instagram.com/p/DahtiGvIDUa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DahtiGvIDUa",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-10",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-08T09:23:45.000Z",
+      "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwHYzF-z&_nc_oc=Adp9UePNTaRNTajQr8IC9QdtovFr5gdRKAen1eLIVsloIHH_ptkGaC1PdRrxl3lQe0Cz1FRDC3b_X18U_1l0jALn&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=JX1pGqWUOObEwqnMxAhY1A&_nc_ss=72289&oh=00_AQCdiaAGh6jPmRFVTfVph60P01tOIqbVpzkZIAfMG_g78Q&oe=6A66E929",
+      "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "_z__sun",
+      "metrics": {
+        "likes": 3,
+        "comments": 4
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 4
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 3.0,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 14,
+      "computed": {
+        "er": 0.0006703696609844858,
+        "vs_baseline": 2.3333333333333335,
+        "cost_per_eng": 8500.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 2.33배 참여로 반응은 선방했으나 참여 1건당 비용 8,500원·팔로워 대비 참여율 0.07%로 실질 효율은 낮음.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "79539eba-97ed-839c-8719-0102b6f72177",
+  "followers": 10442
+}

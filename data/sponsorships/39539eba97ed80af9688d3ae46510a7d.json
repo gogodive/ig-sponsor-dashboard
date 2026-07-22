@@ -1,0 +1,74 @@
+{
+  "page_id": "39539eba-97ed-80af-9688-d3ae46510a7d",
+  "row_title_raw": "roal0227",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "11000",
+  "product_value_krw": 69000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "roal0227",
+  "followers_notion": 11000,
+  "posts": [
+    {
+      "notion_row_id": "d2c39eba-97ed-8209-ae8c-01020b346a23",
+      "url": "https://www.instagram.com/p/DaiGrIPE2L-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DaiGrIPE2L-",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-10",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-08T13:03:26.000Z",
+      "permalink": "https://www.instagram.com/p/DaiGrIPE2L-/",
+      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/740858814_18611186956037080_5938966120832941548_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzkzNjczODIzMTQ3MTgyNjE3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=pCKDRtc_HLUQ7kNvwGimuvh&_nc_oc=AdoMOASIUbsuBJBhxjXYFLEE7OhyugWrZfJS_5FYExOki0IxSk7AAAPf0N3jos7diGL67XSdBAAQHWpI4BvFslQ2&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=1xWGtYh8gMTfr6z-slaoZA&_nc_ss=7ca8c&oh=00_AQAkw7e8yrNzDQcMvD5zU_5QvK35TSJrC05fdTE7UhTsgQ&oe=6A66D816",
+      "caption": "라세린의 계절이 돌아왔어요👙\n반짝반짝 빛나는 아름다운 스윔웨어\n뒷태도 완벽하고 밤에도 빛나는 라세린\n수영할때 편해야 최고인 스윔웨어 \n바로 라세린 입니다.😉\n\n제품모델 ㅡ 크리스탈웨이브 더블크로스백\n@laserin_swim",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "roal0227",
+      "metrics": {
+        "likes": 3,
+        "comments": 21
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 21
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 11.0,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 14,
+      "computed": {
+        "er": 0.002139991083370486,
+        "vs_baseline": 2.1818181818181817,
+        "cost_per_eng": 2875.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 2.18배 참여로 기대 이상이나, 참여 1건당 2,875원은 협찬가 대비 다소 높아 효율 개선 여지 있음.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "a2b39eba-97ed-8318-975e-8197875ccab4",
+  "followers": 11215
+}

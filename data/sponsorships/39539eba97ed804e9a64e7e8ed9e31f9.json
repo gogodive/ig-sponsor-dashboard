@@ -1,0 +1,74 @@
+{
+  "page_id": "39539eba-97ed-804e-9a64-e7e8ed9e31f9",
+  "row_title_raw": "hook_jjung",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "4859",
+  "product_value_krw": 79000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": "https://www.instagram.com/p/DavOKE4CXqM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+  "username": "hook_jjung",
+  "followers_notion": 4859,
+  "posts": [
+    {
+      "notion_row_id": "56f39eba-97ed-8353-8656-8104c3eb27c5",
+      "url": "https://www.instagram.com/p/DavOKE4CXqM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DavOKE4CXqM",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-13",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-13T15:18:57.000Z",
+      "permalink": "https://www.instagram.com/p/DavOKE4CXqM/",
+      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/746308300_17950777617212106_3956088414937807608_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDQyNzQzNDAzOTgxODU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Hnbi7P05fnAQ7kNvwEdXV1S&_nc_oc=AdoskEa3lxJDsLtEoAtSR3qkUOAF2FkZ7cT9nRN8jQYaCA-0jhyAPQMp9-eKofw0Xe0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=od7Ax-mWDEp71QyEVpqRDg&_nc_ss=7ca8c&oh=00_AQB-4aIk2vf15b1ckKx-MTtDR0OAlPje4hh8fdY9gXweQQ&oe=6A66F70D",
+      "caption": "🍑 #라세린 윤슬선셋에이백 착용 후기\n\n햇살이 물 위에 비칠 때 반짝이는 윤슬을 담은 듯한 컬러가 정말 매력적인 수영복🤍\n\n제주 #판포포구 에서 신나게 놀면서 찍은 사진인데, 햇살을 받으니 피치 코랄 그라데이션이 더 예쁘게 보여서 사진도 정말 잘 나오더라고요.✨📸\n\n몸을 안정감 있게 잡아주면서도 신축성이 좋아 풀장은 물론 제주 투어 내내 편안하게 착용할 수 있었어요.\n\n특히 에이백 디자인이라 앞모습은 깔끔하고, 뒷모습까지 포인트가 되어 마음에 들었습니다.🤍\n\n바다, 여행, #프리다이빙 어디에서든 잘 어울리는 컬러와 디자인이라 올여름",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "hook_jjung",
+      "metrics": {
+        "likes": 286,
+        "comments": 27
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 286,
+          "comments": 27
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 269.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 9,
+      "computed": {
+        "er": 0.06394279877425944,
+        "vs_baseline": 1.1614100185528757,
+        "cost_per_eng": 252.3961661341853,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.16배 참여로 준수한 출발, 팔로워 대비 6.39% 참여율과 건당 252원 비용효율로 소규모 계정 대비 안정적 성과.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "77339eba-97ed-824c-821a-01e624e0d663",
+  "followers": 4895
+}

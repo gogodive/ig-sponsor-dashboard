@@ -1,0 +1,74 @@
+{
+  "page_id": "39539eba-97ed-8037-8637-cd6bf3b37af0",
+  "row_title_raw": "2ee_luda",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "22000",
+  "product_value_krw": 152000,
+  "delivery_date": "2026-07-06",
+  "output_link_prop": null,
+  "username": "2ee_luda",
+  "followers_notion": 22000,
+  "posts": [
+    {
+      "notion_row_id": "33739eba-97ed-83f8-86a4-01cce69b76f4",
+      "url": "https://www.instagram.com/p/Daw2peVD2ou/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Daw2peVD2ou",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-14",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-14T06:32:01.000Z",
+      "permalink": "https://www.instagram.com/p/Daw2peVD2ou/",
+      "thumbnail": "https://instagram.fslc3-1.fna.fbcdn.net/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDg4Nzc3MDM1NTg2OTgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sABsAy0dPzEQ7kNvwFg6Ixj&_nc_oc=AdpQt_M83zKldgekID_qesqM9OYwx2Szal1m-R-a0LXLrhim6ZEUR2nsJxp8kF_j7oW_W7Ckdi-jnXrK_qcSpUyi&_nc_zt=23&_nc_ht=instagram.fslc3-1.fna&_nc_gid=wl9NbN12Hl_AefW2OZK58A&_nc_ss=7c689&oh=00_AQCaHj1jEQ4Lb6fuqsbGiH7WWzR_kNnr9wbuyl13qwARHg&oe=6A66F572",
+      "caption": "개운하게 등 운완 ✌🏽\n헬스장 너무 시원한데 땀이 왤케 나 \n\n@secrets__fit \n코르셋 브라탑 / 화이트•M\nV컷 레깅스 3.5부 / 네이비•L\n\n#협찬 #광고 #운동복브랜드 #짐웨어브랜드",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "2ee_luda",
+      "metrics": {
+        "likes": 3,
+        "comments": 10
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 10
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 11.5,
+        "n": 12,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.0005804348796713846,
+        "vs_baseline": 1.1304347826086956,
+        "cost_per_eng": 11692.307692307691,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 1.13x로 소폭 상회하나 팔로워 대비 참여율 0.06%·1건당 1.2만원으로 비용 효율은 낮은 편.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "46e39eba-97ed-82a2-8a63-81b53b702742",
+  "followers": 22397
+}

@@ -1,0 +1,28 @@
+{
+  "page_id": "38e39eba-97ed-80c2-adf5-d9602c405606",
+  "row_title_raw": "seoli_o3o",
+  "status": "진행 중",
+  "media": [
+    "인스타",
+    "블로그"
+  ],
+  "brands": [
+    "고고다이브"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "5375",
+  "product_value_krw": 390000,
+  "delivery_date": "2026-06-29",
+  "output_link_prop": null,
+  "username": "seoli_o3o",
+  "followers_notion": 5375,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "ed939eba-97ed-835c-abfa-8189607f5a48",
+  "followers": 5375
+}

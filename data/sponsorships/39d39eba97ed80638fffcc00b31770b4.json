@@ -1,0 +1,27 @@
+{
+  "page_id": "39d39eba-97ed-8063-8fff-cc00b31770b4",
+  "row_title_raw": "L_soo_soo",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "22000",
+  "product_value_krw": 314000,
+  "delivery_date": "2026-07-14",
+  "output_link_prop": null,
+  "username": "l_soo_soo",
+  "followers_notion": 22000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "b1439eba-97ed-8372-837f-01a9e44a27e8",
+  "followers": 22000
+}

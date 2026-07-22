@@ -1,0 +1,27 @@
+{
+  "page_id": "39839eba-97ed-80d2-8a38-c64b7a3bf048",
+  "row_title_raw": "swim.__.hey",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "23000",
+  "product_value_krw": 190000,
+  "delivery_date": "2026-07-09",
+  "output_link_prop": null,
+  "username": "swim.__.hey",
+  "followers_notion": 23000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "7c939eba-97ed-83b0-a9d2-817f2ae515f8",
+  "followers": 23000
+}

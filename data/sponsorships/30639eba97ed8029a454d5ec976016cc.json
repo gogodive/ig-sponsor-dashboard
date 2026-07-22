@@ -1,0 +1,27 @@
+{
+  "page_id": "30639eba-97ed-8029-a454-d5ec976016cc",
+  "row_title_raw": "oz__free",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "22000",
+  "product_value_krw": null,
+  "delivery_date": "2026-02-04",
+  "output_link_prop": null,
+  "username": "oz__free",
+  "followers_notion": 22000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": null,
+  "followers": 22000
+}

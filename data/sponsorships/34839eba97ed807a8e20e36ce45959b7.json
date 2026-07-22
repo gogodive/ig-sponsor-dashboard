@@ -1,0 +1,85 @@
+{
+  "page_id": "34839eba-97ed-807a-8e20-e36ce45959b7",
+  "row_title_raw": "only_oneplate",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "2157",
+  "product_value_krw": null,
+  "delivery_date": "2026-04-16",
+  "output_link_prop": null,
+  "username": "only_oneplate",
+  "followers_notion": 2157,
+  "posts": [
+    {
+      "notion_row_id": "34839eba-97ed-8000-9ea2-f9b86114bce1",
+      "url": "https://www.instagram.com/reel/DXhBsBECXv4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DXhBsBECXv4",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-04-25",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-04-24T13:29:03.000Z",
+      "permalink": "https://www.instagram.com/p/DXhBsBECXv4/",
+      "thumbnail": "https://scontent-mia3-2.cdninstagram.com/v/t51.71878-15/672974348_1398986801998035_9200897648373475621_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEX1DZq-MbxTH1Ao8b090memOdY5x6YcwmChHosiRsryfMeZ2ximRcyL6TueXaKDPg&_nc_ohc=g84tLWko34MQ7kNvwGy-kJt&_nc_gid=LSDeEr7SRbGLBV1VK1RdQw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBnYnsSs8C4WGqAN2n-bSOZsI6g8orhfqS641NXsHUMkw&oe=6A6702DE&_nc_sid=c6f216",
+      "caption": "⠀\n\n*Top:@secrets__fit\nU라인으로 훨씬 날씬해보임..💗\n160cm/ 50kg / 오프화이트/ M\n\n3kg증량도 증량으로 쳐주나요..?\n\n.\n.\n.\n\n#웨이트 #운동일기 #시크릿스 #시크릿스운동복 #개미허리핏",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "only_oneplate",
+      "metrics": {
+        "views": 25258,
+        "likes": 152,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": 7508,
+        "eng_median": 135,
+        "n": 7,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 89,
+      "computed": {
+        "er": 0.07699665231946437,
+        "vs_baseline": 3.3641449120937668,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 3.36배 조회·팔로워 7.70% 참여율로 소규모 계정임에도 확산력 우수, 비용 효율 긍정적.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 2,091명의 소규모 계정임에도 조회수 25,258회(평소 대비 3.36배)와 참여율 7.70%를 기록하며 마이크로 인플루언서 평균(3~5%)을 웃도는 유기적 반응을 이끌어냈다. 협찬 상품 가액이 명시되지 않아 정확한 ROI 산출은 어렵지만, 낮은 팔로워 수 대비 높은 확산력을 감안하면 현물 협찬 비용 효율은 긍정적으로 평가된다. 다만 댓글 9개는 조회수 대비 전환 의도 신호가 약한 편이므로, 향후 협찬 시 콜투액션(링크·할인코드 등)을 명확히 삽입해 구매 연결성을 강화할 것을 권장한다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    },
+    {
+      "notion_row_id": "34839eba-97ed-80e9-a4b7-ecbc3e7e63b0",
+      "url": "https://www.instagram.com/p/DXW0F0xiUNC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DXW0F0xiUNC",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-04-21",
+      "first_seen": "2026-07-23",
+      "frozen": true,
+      "days_since_post": 93,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "34839eba-97ed-8008-ba07-c2695ed64b9f",
+  "followers": 2091
+}

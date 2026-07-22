@@ -1,0 +1,69 @@
+{
+  "page_id": "37d39eba-97ed-808b-bcff-fb1caf38fa4d",
+  "row_title_raw": "healthy_poivre",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "2657",
+  "product_value_krw": 79000,
+  "delivery_date": "2026-06-09",
+  "output_link_prop": null,
+  "username": "healthy_poivre",
+  "followers_notion": 2657,
+  "posts": [
+    {
+      "notion_row_id": "38139eba-97ed-80c5-a0e8-dd9a5511afb7",
+      "url": "https://www.instagram.com/reel/DZq8YwTOJOB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DZq8YwTOJOB",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-06-18",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-06-17T03:07:33.000Z",
+      "permalink": "https://www.instagram.com/p/DZq8YwTOJOB/",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/723931085_999984412890486_48932552859065256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFAA5FB4biDQMTwFWSgUUvn5-UcVLRemRkx-_7LzDLRMeLbiMTmGiu1iqyvr1Y70K7v_EOg6du1gqahUStIC39g&_nc_ohc=jUbnyLU-MZAQ7kNvwHjplRX&_nc_gid=TTMvx7DCEhqxukSQvXqTog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDRtFC06z7HP0Z_c3-kKBAqmt5HOuhW0fbUVrnYz987oA&oe=6A670D5F&_nc_sid=c6f216",
+      "caption": "#제품제공 라세린 글리트 아이스모카 🩵🤎🩵\n\n라세린의 글리트 아이스모카 입어봤어요!\n\n프린팅으로 흉내 낸 반짝이가 아니라\n폴리에스터 메탈 원사를 사용해 직조된 원단이라\n빛을 받을 때마다 더 고급스럽고 자글자글한 반짝임이 느껴져요 🤎✨✨✨\n\n백타입도 Y백(I모양 혹은 티백?)이라 \n어깨 스트랩이 흘러내릴 걱정도\n날개뼈에 거슬리는 느낌도 전혀 없어서\n팔돌리기도 시원시원 편안하더라구요! 💪🩵\n\n원단도 쫀쫀하면서도 편하게 잘 늘어나는 신축성이라\n끼인 사이즈면 사이즈 다운도 추천!\n\n안정적인 미들컷이라 강습때도 너무 좋고\n원단 신축성이 좋아",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "healthy_poivre",
+      "metrics": {
+        "views": 4560,
+        "likes": 89,
+        "comments": 62
+      },
+      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "baseline": {
+        "views_median": 5440.0,
+        "eng_median": 138.0,
+        "n": 10,
+        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 35,
+      "computed": {
+        "er": 0.04863123993558776,
+        "vs_baseline": 0.8382352941176471,
+        "cost_per_eng": 523.1788079470199,
+        "cost_per_view": 17.32456140350877
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.84x로 소폭 부진하나 참여율 4.86%·CPC 523원은 팔로워 3천 규모 감안 시 수용 가능한 비용 효율.",
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 대비 참여율 4.86%는 소규모 계정 평균(3~5%)에 부합하는 수준이나, 평소 게시물 대비 조회·참여가 0.84배로 협찬 콘텐츠가 오히려 유기적 성과를 하회한 점이 아쉽다. 참여 1건당 523원·조회당 17.3원은 팔로워 3천 규모의 마이크로 인플루언서로서 절대 수치는 낮지 않으나, 제품 가액 79,000원 대비 151건의 참여(좋아요+댓글)는 브랜드 인지 확산보다 기존 팬층 내 소비에 그쳤을 가능성이 높다. 틈새 다이빙·수영 커뮤니티에서의 타깃 적합성을 별도로 확인하지 않는다면 비용 대비 효율이 우수하다고 보기 어렵고, 재협찬 시 콘텐츠 포맷 개선 또는 할인코드 삽입 등 전환 유도 장치가 필요하다.",
+        "final_at": "2026-07-23T03:33:52.096361+09:00"
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "c3739eba-97ed-8345-b83b-01cb3262c55c",
+  "followers": 3105
+}
