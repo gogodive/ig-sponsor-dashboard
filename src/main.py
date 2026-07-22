@@ -256,10 +256,12 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
                 if update_output_row(p["notion_row_id"], reaction,
                                      now.strftime("%Y-%m-%d"), version):
                     p["last_written_reaction"] = reaction
+                    log.info("노션 반응도 기입 @%s %s: %s", username, p["shortcode"], reaction)
         score = mx.row_score(state["posts"])
         if score is not None and score != state.get("last_written_score"):
             if update_row_score(state["page_id"], score, version):
                 state["last_written_score"] = score
+                log.info("노션 메인 반응도 기입 @%s: %d", username, score)
 
     _save_json(SPON_DIR / f"{_page_key(state['page_id'])}.json",
                {k: v for k, v in state.items() if not k.startswith("_")})
