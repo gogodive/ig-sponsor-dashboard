@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T07:44:28.000Z",
       "permalink": "https://www.instagram.com/p/DauaJP0kesI/",
-      "thumbnail": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/744537808_18003113394031148_2320856513354401136_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0MDIwMTQ3OTA5MjMxNDczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sdypmgYDScoQ7kNvwEZSUVa&_nc_oc=Adr7WVRwkNlI7wvSWatnkeews5iVlq6DbHMYRlWChpMxg2molSM6ad6_pXS6YCB1-MA&_nc_zt=23&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=njaZe6mTpNlwr_6QtSxzzQ&_nc_ss=7ca8c&oh=00_AQCI69Z59LRF5DD_p5SFE7Z3EO4EKZmt1cJ1YUf4j89bRw&oe=6A66DF0C",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/744537808_18003113394031148_2320856513354401136_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0MDIwMTQ3OTA5MjMxNDczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sdypmgYDScoQ7kNvwHXi8-l&_nc_oc=AdpxJMKA5Tgtx6DZoTzRgmsi7-AS1KTfVoNnqom_UYa5h9kHK1Ox9KvDa21sKtikJWs&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=KWpzoGiEHAQHpt3SBVDdeA&_nc_ss=7ca8c&oh=00_AQDw9_ma7Fdd6VtyBRqTev2m_8y_Zfb0eh4_iLQDDxOPYg&oe=6A67174C",
       "caption": "몸 좋아보이는 운동복은 시크릿스\n.\nTop - 글램버튼 s\nBottom - v컷 9부 m\n.\n@secrets__fit \n#시크릿스 #운동복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 327,
         "comments": 11
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 335.0,
+        "eng_median": 367.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.027659574468085105,
-        "vs_baseline": 1.008955223880597,
+        "er": 0.027677694071405176,
+        "vs_baseline": 0.9209809264305178,
         "cost_per_eng": 263.31360946745565,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "88539eba-97ed-8290-81e1-81e879443ce1",
-  "followers": 12220
+  "followers": 12212,
+  "last_written_score": 92
 }

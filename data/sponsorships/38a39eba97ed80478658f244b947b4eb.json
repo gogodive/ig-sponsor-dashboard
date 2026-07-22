@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:17:27.000Z",
       "permalink": "https://www.instagram.com/p/Da-dBZdme7v/",
-      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NDcxNTg5NzQyMTY2OTAzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQyNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VfCuL5FvLEQQ7kNvwEZI6RY&_nc_oc=AdrbTOPskMV4Y1nJAdQBzMUoHBQV12yZv_uh2Mw-OBTuWkQ9nMimRsf1UefPo-ef9gc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=rxE-oDXvRNhvuY7wrmCptg&_nc_ss=72a8c&oh=00_AQBMhrHk9d8YSCGNkTWayLXN7vyjcq1_Xmx5Mp4NgyCGxg&oe=6A66E97F",
+      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NDcxNTg5NzQyMTY2OTAzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQyNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VfCuL5FvLEQQ7kNvwFR0IaH&_nc_oc=AdrrhCOFgU5Y-Wcr25iRWijYPhb3dcJF8W-QF8yH-H1Zd9t4_7M8Hquhy0jB0jq5cxY&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=4lSSxMUxdDb1NYa0fy386w&_nc_ss=72a8c&oh=00_AQDclmY1jBnXcYmS_Rry9NV6u2_IS4_UNbqS8dDI-vUM_A&oe=6A66E97F",
       "caption": "Dive into the Blue. 🌊 @gogodive \n\n평생 한번쯤 꼭 해보고 싶은 취미로 #프리다이빙 을 떠올리시는 분 많더라구요. \n\n언제까지 미룰 생각이죠…? 😤 \n\n제가 함께한 #고고다이브 는 회원 40,000명 국내 최대 규모 #다이빙 커뮤니티이자 정부 등록 수중레저 교육기관입니다 ✨\n\n저는 김세인 강사님 @pongdang.ping 과 함께 했는데요 🫧  호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 자세히 알려주시고, 구체적",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 266,
         "comments": 19
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 277.5,
+        "eng_median": 271.5,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 3,
       "computed": {
         "er": 0.009474104115417858,
-        "vs_baseline": 1.027027027027027,
+        "vs_baseline": 1.0497237569060773,
         "cost_per_eng": 1368.421052631579,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
-  "followers": 30082
+  "followers": 30082,
+  "last_written_score": 105
 }

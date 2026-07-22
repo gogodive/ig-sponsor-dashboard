@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-04T13:42:18.000Z",
       "permalink": "https://www.instagram.com/p/DaX38T9iRSL/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzMzg1NzQ2OTM2NzEyNjU3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjIyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kUf_CLTjDqEQ7kNvwHoCIXx&_nc_oc=AdqQoaiUGNPvHnA77CvWRSxKVaAGgRfODS93aLqcKnY03PJoF7XGmfuRC9-FFVIzygI&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=ONbxgVUewfx66urEAjXbXA&_nc_ss=72a8c&oh=00_AQA1N8_Od6aoybf2170uOIDo6JFal-MKvEljyZdB23mWhQ&oe=6A66DC11",
+      "thumbnail": "https://instagram.fftk1-1.fna.fbcdn.net/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzMzg1NzQ2OTM2NzEyNjU3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjIyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kUf_CLTjDqEQ7kNvwF3rMZm&_nc_oc=AdqaQ5_v91hVV68B5NfWInmKYjoRsE9lDWsV9KWiUxpE4GAW8At-YQY99z_h7GyInFI&_nc_zt=23&_nc_ht=instagram.fftk1-1.fna&_nc_gid=FhE81QU9ooVj3rtAJ7cF0A&_nc_ss=72a8c&oh=00_AQBs8WuoatLHlWLZmWf1FKsjy18dlvyNGLYrrmkmcZSK_g&oe=6A671451",
       "caption": "토요일 순삭 \n주말은 너무 바ㅃ r 그래서 좋아 ..ღ \n\n캡내장에 재질 미쳤고 너무 편한 나시는 \n@secrets__fit ✨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 1355,
         "comments": 28
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 1066.5,
+        "eng_median": 1084.5,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 18,
       "computed": {
-        "er": 0.008520679436390633,
-        "vs_baseline": 1.2967651195499297,
+        "er": 0.008521466949277863,
+        "vs_baseline": 1.2752420470262793,
         "cost_per_eng": 87.1294287780188,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c3339eba-97ed-8225-9618-012886118220",
-  "followers": 162311
+  "followers": 162296,
+  "last_written_score": 128
 }

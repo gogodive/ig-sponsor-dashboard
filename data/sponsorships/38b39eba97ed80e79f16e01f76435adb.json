@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-09T03:14:47.000Z",
       "permalink": "https://www.instagram.com/p/DajoGiNAVLT/",
-      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzNzE1NDU0MDU3MDU1Nzc3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_GhN80eWMhUQ7kNvwFEFt9X&_nc_oc=Adq09l3dNDNMnUfsZH1ofI1F6cly6Oooz1FPdtq09TOqeBx5Fk0ggXab6KUO7c7kPbE&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=gUAaxEX7I40agdWrJHxyFA&_nc_ss=7ca8c&oh=00_AQBlKOdKNtn6Mq-OlMRMrhDT32Ydo02vZJ4aY-uB7PAjZg&oe=6A66CFED",
+      "thumbnail": "https://instagram.flas1-2.fna.fbcdn.net/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzNzE1NDU0MDU3MDU1Nzc3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_GhN80eWMhUQ7kNvwES1JZo&_nc_oc=AdoJSPMuk5JW9jt2Zpr3KKUkePkdQbuug5Im55utV8LLe32ckzE1Ys-T5mALRlOQkdoSqXEBXIxW2DtcWBafvpSN&_nc_zt=23&_nc_ht=instagram.flas1-2.fna&_nc_gid=Az00ZXeYHfk4g3h8xUTHJA&_nc_ss=72289&oh=00_AQCB3HfbpTEcfN9KoiKK_yYkLTOMt_bh0lF3fvmf5lrXvA&oe=6A67082D",
       "caption": "-\n배우고 싶다는 생각만 하다가 드디어 다녀온 프리다이빙 첫 수업이에요!\n\n어릴 때 수영을 배워서 물이 낯설진 않았지만, 숨을 참고 깊이 들어가는 건 또 다른 이야기더라고요. 두려움은 여전히 있었어요🥺\n\n수업은 3시간 동안 진행됐는데, 송병후 선생님께서 물에 들어가기 전 호흡법과 이론을 먼저 설명해주시고, 숨 참기 연습부터 시작해 차근차근 단계를 높여주셨어요. 덕분에 어렵지 않게 초급 수업을 들을 수 있었어요, 정말 감사했습니다✨\n\n그런데 생각보다 두려움보다 흥미가 훨씬 크더라고요. 하다 보니 더 잘하고 싶다는 마음이 자꾸 커졌어요",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 27
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 18.5,
+        "eng_median": 19.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 13,
       "computed": {
-        "er": 0.00038664776388709887,
-        "vs_baseline": 1.6216216216216217,
+        "er": 0.00038681228000051577,
+        "vs_baseline": 1.5789473684210527,
         "cost_per_eng": 13000.0,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "8de39eba-97ed-8266-b6b7-01be1ef89924",
-  "followers": 77590
+  "followers": 77557,
+  "last_written_score": 158
 }

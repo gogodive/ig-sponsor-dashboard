@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T09:23:45.000Z",
       "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
-      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwHYzF-z&_nc_oc=Adp9UePNTaRNTajQr8IC9QdtovFr5gdRKAen1eLIVsloIHH_ptkGaC1PdRrxl3lQe0Cz1FRDC3b_X18U_1l0jALn&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=JX1pGqWUOObEwqnMxAhY1A&_nc_ss=72289&oh=00_AQCdiaAGh6jPmRFVTfVph60P01tOIqbVpzkZIAfMG_g78Q&oe=6A66E929",
+      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwEQcFBL&_nc_oc=Adq2NVuItD5G0Xx75hO8yCxwzujYOOj4nGSYGEq-AVL7Irz_qigOAzR4A7bpL_4-KddcQYfB7eCLxG359FMiCGUR&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=txfuj7T3jT9ep1-zX5EUqA&_nc_ss=7b60f&oh=00_AQDln-rSwOu5VA4xcOFG187zF2ou6XzxlhMRv14UN9Ia7A&oe=6A66E929",
       "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -47,7 +47,7 @@
         "views_median": null,
         "eng_median": 3.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 14,
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "79539eba-97ed-839c-8719-0102b6f72177",
-  "followers": 10442
+  "followers": 10442,
+  "last_written_score": 233
 }

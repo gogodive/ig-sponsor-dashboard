@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:32:01.000Z",
       "permalink": "https://www.instagram.com/p/Daw2peVD2ou/",
-      "thumbnail": "https://instagram.fslc3-1.fna.fbcdn.net/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDg4Nzc3MDM1NTg2OTgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sABsAy0dPzEQ7kNvwFg6Ixj&_nc_oc=AdpQt_M83zKldgekID_qesqM9OYwx2Szal1m-R-a0LXLrhim6ZEUR2nsJxp8kF_j7oW_W7Ckdi-jnXrK_qcSpUyi&_nc_zt=23&_nc_ht=instagram.fslc3-1.fna&_nc_gid=wl9NbN12Hl_AefW2OZK58A&_nc_ss=7c689&oh=00_AQCaHj1jEQ4Lb6fuqsbGiH7WWzR_kNnr9wbuyl13qwARHg&oe=6A66F572",
+      "thumbnail": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDg4Nzc3MDM1NTg2OTgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sABsAy0dPzEQ7kNvwGypUuE&_nc_oc=Ado8tsOfuWHCzSFK_w18YkmjFmayWarDGynkE6J7CdbVtDtL7t-OYzEVYWWRvCcbLAQVNMnYRx4H38wBd1L6hpON&_nc_zt=23&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_gid=gYZpUymTj3RgfmUOVhRbsg&_nc_ss=7ca8c&oh=00_AQA8tv1u8lKPHJhB1RQybLsFQc2MYy8a6YXYvrmyw8kL-A&oe=6A66F572",
       "caption": "개운하게 등 운완 ✌🏽\n헬스장 너무 시원한데 땀이 왤케 나 \n\n@secrets__fit \n코르셋 브라탑 / 화이트•M\nV컷 레깅스 3.5부 / 네이비•L\n\n#협찬 #광고 #운동복브랜드 #짐웨어브랜드",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 11.5,
+        "eng_median": 15.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 8,
       "computed": {
-        "er": 0.0005804348796713846,
-        "vs_baseline": 1.1304347826086956,
+        "er": 0.0005805904157920593,
+        "vs_baseline": 0.8666666666666667,
         "cost_per_eng": 11692.307692307691,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "46e39eba-97ed-82a2-8a63-81b53b702742",
-  "followers": 22397
+  "followers": 22391,
+  "last_written_score": 87
 }

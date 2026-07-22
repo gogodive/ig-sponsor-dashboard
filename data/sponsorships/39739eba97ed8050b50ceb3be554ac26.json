@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fyMWP5caH40Q7kNvwFPPMVP&_nc_oc=Adq-y1rkRRnAVHUP3Lp19owuEC5_UDVdll3YDREWeN3uqtNRC1NlqGotQ5QE0yGQ5MM&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=D289yWSZmDwnCcXUB8sIHw&_nc_ss=72a8c&oh=00_AQBMCWMv_sajkQczanOpOc6GiqOAhai_pz4QlfS3gAdOOA&oe=6A66DB77",
+      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fyMWP5caH40Q7kNvwE8TrK2&_nc_oc=AdqXiiIbu0OX1YH42Z7_XmOILnvGnJQXlSnyvtBJAmV7qyK7lyZJnKjkbnnkc2PWSm0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=TVUcesS1xDzN5N7taia2DQ&_nc_ss=72a8c&oh=00_AQAIegDsadiG0VDfCxzV474khKVy-TURXOBy7FIA3hb21Q&oe=6A6713B7",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 97,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 145.5,
+        "eng_median": 159.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 10,
       "computed": {
-        "er": 0.03175112251443233,
-        "vs_baseline": 0.6804123711340206,
+        "er": 0.031740942609810835,
+        "vs_baseline": 0.6226415094339622,
         "cost_per_eng": 1040.4040404040404,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e5039eba-97ed-82ce-81b4-818fb77029d4",
-  "followers": 3118
+  "followers": 3119,
+  "last_written_score": 62
 }

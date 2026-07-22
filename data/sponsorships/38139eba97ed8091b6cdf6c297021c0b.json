@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:51:09.000Z",
       "permalink": "https://www.instagram.com/p/DaKDEShC9fr/",
-      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFUTI0m1LMUugBJk1KTt5GRt4VY01kqlbIdkL1pxHx7mAmRRAYEjd2XcoPDknHWmaE&_nc_ohc=pJY7otPv6qUQ7kNvwGiBTwD&_nc_gid=PTMo1oTY_Dm5WUWAuytSjw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBoKFU3gw9wzQPZjWIT5zHb3PBR86Cjnc2BnRK5Mhl52g&oe=6A66ED3D&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF_O98P2UZqpyIxg4F2Rfv6gO4GJ13y9sA8QJZLV6Rd6NjmNPgIJs6gMpvZawTrmPGlRcxIzUn2zng9Hpd1wvHc&_nc_ohc=pJY7otPv6qUQ7kNvwHMyMNO&_nc_gid=Toh6fM8BsrZaHHHHKCALcQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBo2q5-9CFHZuyc4XhYitfGI7R91UgJe71AqPMw1ioptA&oe=6A66ED3D&_nc_sid=c6f216",
       "caption": "여자들 취향 제대로 저격한 시크릿스 상의 추천🤍\n\n운동복인데 핏까지 예쁘다?\n이건 안 쟁여둘 이유가 없잖아요...\n\n입는 순간 허리라인이 살아나는 제 상체 핏의 비밀...🤫\n시크릿스(@secrets__fit)\n 상의 2가지 소개합니다💗\n\n★제품 정보\n1️⃣ 스퀘어넥 반팔 브라탑\n2️⃣ 개미허리 필라테스복 요가복 반팔\n\n댓글 남겨주시면 제품 링크 바로 보내드릴게요💌\n\n#협찬 #시크릿스 #필라테스 #운동복 #추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 11,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -46,9 +46,9 @@
       ],
       "baseline": {
         "views_median": 1273.5,
-        "eng_median": 11.0,
+        "eng_median": 11.5,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 23,
@@ -71,5 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "6e839eba-97ed-8310-a8ee-81322cbef34a",
-  "followers": 26
+  "followers": 26,
+  "last_written_score": 25
 }

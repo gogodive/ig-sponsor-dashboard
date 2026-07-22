@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-04-24T13:29:03.000Z",
       "permalink": "https://www.instagram.com/p/DXhBsBECXv4/",
-      "thumbnail": "https://scontent-mia3-2.cdninstagram.com/v/t51.71878-15/672974348_1398986801998035_9200897648373475621_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEX1DZq-MbxTH1Ao8b090memOdY5x6YcwmChHosiRsryfMeZ2ximRcyL6TueXaKDPg&_nc_ohc=g84tLWko34MQ7kNvwGy-kJt&_nc_gid=LSDeEr7SRbGLBV1VK1RdQw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBnYnsSs8C4WGqAN2n-bSOZsI6g8orhfqS641NXsHUMkw&oe=6A6702DE&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/672974348_1398986801998035_9200897648373475621_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEYrLEFAR0FIiwTJit03iKjDqmX4QcKSqhHVM0Z6MRKQZvibU390XVmNUJI2reUpohAAqf6SE6E1PlNr6ISaJfI&_nc_ohc=g84tLWko34MQ7kNvwF4XpxY&_nc_gid=BMCi6Om3JB80tJBjT_RIGQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCrtleXOhU9abLLEUYn0qM1al_6YhFJ9Ec1qOe9wD1aRw&oe=6A6702DE&_nc_sid=c6f216",
       "caption": "⠀\n\n*Top:@secrets__fit\nU라인으로 훨씬 날씬해보임..💗\n160cm/ 50kg / 오프화이트/ M\n\n3kg증량도 증량으로 쳐주나요..?\n\n.\n.\n.\n\n#웨이트 #운동일기 #시크릿스 #시크릿스운동복 #개미허리핏",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -45,7 +45,7 @@
       "frozen": true,
       "days_since_post": 89,
       "computed": {
-        "er": 0.07699665231946437,
+        "er": 0.07695984703632887,
         "vs_baseline": 3.3641449120937668,
         "cost_per_eng": null,
         "cost_per_view": null
@@ -81,5 +81,6 @@
     "account_unavailable": false
   },
   "child_db_id": "34839eba-97ed-8008-ba07-c2695ed64b9f",
-  "followers": 2091
+  "followers": 2092,
+  "last_written_score": 336
 }

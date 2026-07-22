@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T07:54:09.000Z",
       "permalink": "https://www.instagram.com/p/Daw_4a8S9Iq/",
-      "thumbnail": "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gEqbARn7BxMDDewnAoTZkOI4C_aaFAIFzn5vcLahWwVd8EGmHvAPSFNYb7LP0HN-CI&_nc_ohc=ZDwXJ_gjRkEQ7kNvwGA0MGs&_nc_gid=07TdUbA8jjCj0rIJ8Xa-DA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCsK-bpHUoCUf9FGRhVXeZavUD69Yo_yWZoZDthInYwCg&oe=6A66CB87&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZEzzvkXaasgGOdW2bqdHzOdnuK38CDi3iEe_qw_0GIEaQDWzJIvj3pdDkfCifm13BcLf0PPAfrGjVBSWB2yOP&_nc_ohc=ZDwXJ_gjRkEQ7kNvwFvv4Ho&_nc_gid=L6HWuCOYhrY-Xup_gXS6Pg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQC9ZJOvvF2Kkrqrys-2ArtEPp9z0jwvqRFMEPH2Lgblpw&oe=6A6703C7&_nc_sid=c6f216",
       "caption": "-\n와 내가 지금까지 수 많은 짐웨어를 입어봤는데\n이마이 편한 탑내장 나시 처음입니다.. \n\n@secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 3,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,12 +48,12 @@
         "views_median": 6568,
         "eng_median": 51,
         "n": 9,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 8,
       "computed": {
-        "er": 0.0001527154719862556,
+        "er": 0.0001527562964235932,
         "vs_baseline": 0.3145554202192448,
         "cost_per_eng": 10875.0,
         "cost_per_view": 42.110358180058086
@@ -71,5 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "4bc39eba-97ed-82c6-ae3b-0137e286b530",
-  "followers": 52385
+  "followers": 52371,
+  "last_written_score": 31
 }

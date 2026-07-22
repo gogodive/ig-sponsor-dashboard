@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T05:51:26.000Z",
       "permalink": "https://www.instagram.com/p/DahVPFcCTdw/",
-      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-EMr20KbrgUQ7kNvwFIg4Ms&_nc_oc=Adrf0BJIgIM7zCHr1qXUVXMKAXYlFf0cq2NHojuEmeO64L8Ry5ruanPOIpXrNVHxtvA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=1bfaCSd87gf_-QM3XKmpyw&_nc_ss=72a8c&oh=00_AQAUpv_KXKXYda7jIpTUsJbeknO9_W5caIJVrQc2EML25Q&oe=6A66DE99",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-EMr20KbrgUQ7kNvwFvRQUD&_nc_oc=AdqZ18ZJYHUgyhShx8ZzJIaegavokojbpvNJQ-b7xxFf6isfShJW3uxak3Bk4fuQRsI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=mGDkm9VzTznsN6x9sZS1xQ&_nc_ss=72a8c&oh=00_AQDMjvJmkP7UC9y0NAWMOedBlbHK3CWfOuhzM8PiQDLinQ&oe=6A6716D9",
       "caption": "#제품제공 160cm 47kg XS착용\n\n색감이 예뻐서 야외에서 꼭 한번 입고 싶었던💛\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 140,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 159.5,
+        "eng_median": 171.5,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 14,
       "computed": {
-        "er": 0.011733154542406973,
-        "vs_baseline": 0.877742946708464,
+        "er": 0.011729222520107238,
+        "vs_baseline": 0.8163265306122449,
         "cost_per_eng": 457.14285714285717,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a0239eba-97ed-820a-af9e-012e5783a5a9",
-  "followers": 11932
+  "followers": 11936,
+  "last_written_score": 82
 }

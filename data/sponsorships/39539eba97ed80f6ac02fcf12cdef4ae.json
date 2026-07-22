@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T08:51:08.000Z",
       "permalink": "https://www.instagram.com/p/DauhxkRGoS9/",
-      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xALLAmmCHjEQ7kNvwGWhTMb&_nc_oc=AdrU-h9EHkA00eEo65rvif3OvrtLK0NaxhR0MteT2NhOPgabiOb_14dO_DpmwJpy-So&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=d64ja7F_ck9ugIYYNHwHzA&_nc_ss=72a8c&oh=00_AQDtj3QTMpwULPdHjz0QxSBejAYY21400apfZZZHu06V4g&oe=6A66ECBD",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xALLAmmCHjEQ7kNvwESvF3v&_nc_oc=Adq8G6MUjIo8Jo6y0a7AghoyrEqn68PsLRPj1vFW2Lh-Hr4qNWrYaQ_hV6H2cVJJgfw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=mvOU7arvjLrKxCyUC0JzMw&_nc_ss=72289&oh=00_AQDwJV0tUY7hh-6I1lI-1kh5pyf_aN4Fj-9SJnzrf6so5A&oe=6A66ECBD",
       "caption": "#협찬 @laserin_swim \n𝙇𝘼𝙎𝙀𝙍𝙄𝙉 - 𝙒𝙝𝙞𝙩𝙚 𝙎𝙝𝙚𝙡𝙡 🤍\n\n화이트 수영복 찾는다면? 라세린 화이트쉘 어떠세요🐚\n\n은은하게 번지는 오팔 홀로그램✨\n반짝반짝 빛나는게 윤슬이 떠오르지 않나요••\n\n포일 수영복이지만 ! \n코튼캔디, 글로우펄에 비해 잘 늘어나서 입기 수월해요. \n정사이즈 추천드립니다🫶🏻\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 평소 XS~S, 26 사이즈 착용\n• 153/42/140\n⠀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 119,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 119.0,
+        "eng_median": 116.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.06313559322033899,
-        "vs_baseline": 1.2521008403361344,
+        "er": 0.06310885218127912,
+        "vs_baseline": 1.2844827586206897,
         "cost_per_eng": 463.0872483221477,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d4939eba-97ed-831f-93a4-015faacf8a4b",
-  "followers": 2360
+  "followers": 2361,
+  "last_written_score": 128
 }

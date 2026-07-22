@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T12:07:32.000Z",
       "permalink": "https://www.instagram.com/p/DaxdC6fj294/",
-      "thumbnail": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0MTA1ODY1NTM0Mzc0MDk1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk1MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DqwZCaTf3QgQ7kNvwFGJu1z&_nc_oc=AdrRnfhupQGL7qUcBsi6g-aBTCVwR2Lx5fKmP1H7SSfEoCHNcGGqYRbLAHz0mPlXxxA&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=m5LWqso0mAr6Lz-ke4wQ4w&_nc_ss=7c289&oh=00_AQDlSeepGflMh3mdJzjKnIcMlc3df0vhISEYcH9LzC1nNg&oe=6A66CD37",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0MTA1ODY1NTM0Mzc0MDk1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk1MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DqwZCaTf3QgQ7kNvwFOL608&_nc_oc=AdrxHh_EYBN0nY750EvjXFwZYY59Z8fJZzy_TCIrTTF3S14TpL4WNe2ubFcTCSWaE0E&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=VR2TnmWo-_8XOGjgTEoOTQ&_nc_ss=7ca8c&oh=00_AQCmmY-8XrXc0jrw8KNxrcI6JoC6ysncW2wlqMWtZHFJzQ&oe=6A670577",
       "caption": "글리터 맛집 라세린입어봤어요✨\n이름부터 윤슬 선셋인데 \n이렇게 이름을 잘 표현한 수영복은 처음이에요,,\n\n레몬 오렌지 핑크 조합으로 따듯한 느낌 가득\n실내,실외 상관없이 반짝반짝 눈부셔요✨\n날씬해보이는 펄이라 너무 맘에 들어요🥹👍\n\n지금 여름 할인기간 최대 50%🤍\n얼른 구경해보세요\n\n✔️사이즈 추천\n171/ 55 / S사이즈 착용\n신축성 좋고, 가슴 넓이가 좁은편이라 사이즈 참고하셔 \n구매해야할것 같아요\n비슷한 스펙이신분들 S-M추천합니다\n\n✔️ 착용제품\n윤슬 선셋 에이백\n\n#제품제공 #라세린 #라세린수영복 #윤슬선셋 #수영코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 47,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 56.5,
+        "eng_median": 57.5,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 8,
       "computed": {
-        "er": 0.06869220607661823,
-        "vs_baseline": 0.9203539823008849,
+        "er": 0.06860158311345646,
+        "vs_baseline": 0.9043478260869565,
         "cost_per_eng": 1519.2307692307693,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "df039eba-97ed-83d4-bbbf-01857f35d728",
-  "followers": 757
+  "followers": 758,
+  "last_written_score": 90
 }

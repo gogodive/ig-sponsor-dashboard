@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-22T11:08:08.000Z",
       "permalink": "https://www.instagram.com/p/DZ4swrTGt9g/",
-      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/730153289_18006487031928117_7368496867631880033_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkyNTA2ODYxMDM4OTQyNDk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nTyAYfU6gQYQ7kNvwEq59fj&_nc_oc=AdoX0FO2xSTPKZPrUKMR7yHmyu7Jm1RkVi8NasB3aEv0hL1PsGg0Y_TO6tm4SQFsxO8&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=_WxcbPwAEHA7gxk-GNapnw&_nc_ss=72a8c&oh=00_AQBcIGFRznt-TgknvbOnobrZw1qJUcmm9vJocKttPItImg&oe=6A66EEF3",
+      "thumbnail": "https://instagram.fmsn1-1.fna.fbcdn.net/v/t51.82787-15/730153289_18006487031928117_7368496867631880033_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkyNTA2ODYxMDM4OTQyNDk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nTyAYfU6gQYQ7kNvwGMueH7&_nc_oc=AdoInl97E__2THOAN0gBOcsunPfIshJGlmXuSx5eldiTffINrd7D1Kfh26_7bKqSgp8&_nc_zt=23&_nc_ht=instagram.fmsn1-1.fna&_nc_gid=LOihdvyVBOzcDTWLtdt1Yg&_nc_ss=7c289&oh=00_AQBRjXURW-90K1Iw_BE6MkNbQBworPNjFSeEp7_tVxSpyg&oe=6A66EEF3",
       "caption": "#제품제공 #라세린\n.\n@laserin_swim \n🩵🩵🩵라세린 윤슬 에메랄드 더블크로스백🩵🩵🩵\n후,, 진짜 너무너무너무 아름다운 수영복이에요\n어쩜 이름도 윤슬 에메랄드✨세상 찰떡 아닙니까!😆\n.\n💚디자인💚\n메탈릭 원단으로 챠르르, 고급진+신비로운 광택감\n그라데이션이 부드럽게 이어지는 영롱한 에메랄드빛 컬러\n빛 받으면 청량윤슬, 실내에선 은은윤슬✨\n안감도 예쁜 #2겹수영복 ! 톤온톤패턴이라 비침, 버블 최소화\n.\n💚백타입, 컷, 커버리지💚\n더블크로스 픽스드백으로 허리라인 예쁘게 잡아 줌\n미들컷으로 노출 부담 없이 편하게 착용\n가슴선 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 224,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 248.5,
+        "eng_median": 197.0,
         "n": 12,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 30,
       "computed": {
-        "er": 0.04338172502134927,
-        "vs_baseline": 1.0221327967806841,
+        "er": 0.0433891356337547,
+        "vs_baseline": 1.2893401015228427,
         "cost_per_eng": 311.0236220472441,
         "cost_per_view": null
       },
@@ -70,5 +70,6 @@
     "account_unavailable": false
   },
   "child_db_id": "bec39eba-97ed-82c5-a89c-0169b8f3e378",
-  "followers": 5855
+  "followers": 5854,
+  "last_written_score": 129
 }

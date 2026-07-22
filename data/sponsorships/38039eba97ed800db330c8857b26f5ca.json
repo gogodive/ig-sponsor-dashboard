@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:02:18.000Z",
       "permalink": "https://www.instagram.com/p/DaJ9PqcpWbc/",
-      "thumbnail": "https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEhMNQ-p_1zqmOc2qUHRyQswoMN8D9-84rp5sdzmZ_qMSVbxgDsufP0cn01W0ZSSdE&_nc_ohc=0Nm2PDILMBsQ7kNvwG3tJtl&_nc_gid=70SW8_I-UC5ig1VvjhMwLg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDFG0xgSwd8BZup756Rvbt79RDWPPqVRCLXc96GsabPBQ&oe=6A66D3CD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF8atixnqNVE3eHa1PbxN8HzeiJZJdB6aYsZ1aD3xuDZ_l5CTMzdRhri8yuTSMjZrE&_nc_ohc=0Nm2PDILMBsQ7kNvwHraSr3&_nc_gid=95TZZXGnE39NB67Q-hcY_Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB868psvxWm4AQp8t-GJs2kTVXZ71MytO0kX7jRmXQ4zA&oe=6A670C0D&_nc_sid=c6f216",
       "caption": "#광고 @laserin_swim #라세린\n\n수영 가는날 제일 먼저 챙기게 되는 수영복 🫧\n\n물 안에서 더 예쁜 컬러감의\n라세린 오로라그린 💚💙\n\n쫀쫀하게 잡아주는 착용감이라\n강습 때도 편하고,\n핏까지 깔끔하게 떨어져서 더 마음에 들었어요 :)\n\n실내수영장에서 괜히 한번 더 거울 보게 되는 무드…✨\n\n운동하러 가는 날도\n예쁜 건 포기 못하는 사람에게 추천!",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 63,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-23T03:33:52.096361+09:00",
+      "metrics_updated_at": "2026-07-23T05:15:22.939467+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,12 +48,12 @@
         "views_median": 1098.0,
         "eng_median": 126.5,
         "n": 8,
-        "captured_at": "2026-07-23T03:33:52.096361+09:00"
+        "captured_at": "2026-07-23T05:15:22.939467+09:00"
       },
       "frozen": false,
       "days_since_post": 23,
       "computed": {
-        "er": 0.04326923076923077,
+        "er": 0.0432923570283271,
         "vs_baseline": 1.2240437158469946,
         "cost_per_eng": 790.1234567901234,
         "cost_per_view": 47.61904761904762
@@ -71,5 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e4e39eba-97ed-83c5-a925-81387823484a",
-  "followers": 1872
+  "followers": 1871,
+  "last_written_score": 122
 }
