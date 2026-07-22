@@ -78,10 +78,12 @@ def build_row_states(notion_rows: list[dict], cfg: dict, now: datetime) -> list[
             states.append(state)
             continue
 
-        # 종료 + 전부 동결 + 지표 있음 → 노션 하위 DB·Apify 재조회 생략 (비용 고정)
+        # 종료 + 전부 동결·지표·노션 기입 완료 → 하위 DB·Apify 재조회 생략 (비용 고정)
         all_done = (nrow["status"] == "종료" and state["posts"]
                     and all(p.get("frozen") and p.get("metrics_updated_at")
-                            for p in state["posts"]))
+                            and p.get("last_written_reaction")
+                            for p in state["posts"])
+                    and state.get("last_written_score") is not None)
         state["_settled"] = bool(all_done)
         if all_done:
             states.append(state)
@@ -254,7 +256,8 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
             reaction = mx.reaction_text(p)
             if reaction != p.get("last_written_reaction"):
                 if update_output_row(p["notion_row_id"], reaction,
-                                     now.strftime("%Y-%m-%d"), version):
+                                     now.strftime("%Y-%m-%d"), version,
+                                     db_id=state.get("child_db_id")):
                     p["last_written_reaction"] = reaction
                     log.info("노션 반응도 기입 @%s %s: %s", username, p["shortcode"], reaction)
         score = mx.row_score(state["posts"])
