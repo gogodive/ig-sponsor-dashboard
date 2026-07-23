@@ -126,14 +126,11 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
     env.filters["thumb"] = _thumb_proxy
     tpl = env.get_template("template.html")
 
+    # 결과물 URL 이 있는 행만 카드로 노출 (URL 없는 행은 ⚠️ 패널에서만 관리)
     visible = [r for r in rows
                if not r.get("flags", {}).get("non_instagram")
-               and not r.get("flags", {}).get("unresolvable_username")]
-    # 구형 종료 행(결과물 DB 없던 시절 → 수집 게시물 0개)은 카드에서 제외
-    visible = [r for r in visible
-               if not (r.get("status") == "종료"
-                       and not any(p.get("metrics_updated_at")
-                                   for p in r.get("posts", [])))]
+               and not r.get("flags", {}).get("unresolvable_username")
+               and r.get("posts")]
     for r in visible:
         for p in r.get("posts", []):
             p["_spark_views"] = _sparkline(p.get("history", []), "views")
@@ -150,9 +147,7 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
     groups = []
     for b in order:
         rs = by_brand[b]
-        rs.sort(key=lambda r: (r.get("status") != "진행 중", r["_last_post"]), reverse=False)
-        rs.sort(key=lambda r: r["_last_post"], reverse=True)
-        rs.sort(key=lambda r: r.get("status") != "진행 중")
+        rs.sort(key=lambda r: r["_last_post"], reverse=True)  # 최신 게시물 순
         groups.append({"name": b, "color": BRAND_COLORS.get(b, "#616161"), "rows": rs})
 
     tracked = [p for r in visible for p in r.get("posts", []) if p.get("metrics_updated_at")]

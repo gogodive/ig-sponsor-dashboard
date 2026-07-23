@@ -5,7 +5,8 @@
 **상품 가액 대비** 효율적인지 분석하고 GitHub Pages 대시보드로 발행한다.
 
 - 대시보드: https://gogodive.github.io/ig-sponsor-dashboard/
-- 매일 08:00 KST 자동 실행 (GitHub Actions, 로컬 맥 불필요)
+- 매일 06:00 KST 자동 실행 (GitHub Actions, 로컬 맥 불필요)
+- 결과물 URL이 입력된 협찬 건만 대시보드 카드로 표시 (계정은 최신 게시물 순 정렬)
 
 ## 파이프라인
 

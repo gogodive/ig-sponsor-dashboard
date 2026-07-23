@@ -91,7 +91,7 @@
 
 <header>
   <h1>협찬 인플루언서 성과</h1>
-  <span class="updated">마지막 갱신: {{ generated_label }} (매일 08:00 자동)</span>
+  <span class="updated">마지막 갱신: {{ generated_label }} (매일 06:00 자동)</span>
 </header>
 
 <div class="wrap">
@@ -112,7 +112,9 @@
 
   {% if flags.overdue or flags.unresolvable or flags.unavailable or flags.non_instagram %}
   <div class="flagpanel">
-    <h3>⚠️ 확인 필요</h3>
+    <details>
+    <summary><b>⚠️ 확인 필요 {{ flags.overdue | length + flags.unresolvable | length + flags.unavailable | length + flags.non_instagram | length }}건</b>
+      — 업로드 누락(결과물 URL 미입력) {{ flags.overdue | length }} · 계정명 인식 불가 {{ flags.unresolvable | length }} · 계정 조회 실패 {{ flags.unavailable | length }} · 비인스타 {{ flags.non_instagram | length }} (펼쳐서 보기)</summary>
     <ul>
       {% for r in flags.overdue %}
       <li><b>{{ r.row_title_raw }}</b> — 배송일({{ r.delivery_date }}) 후 7일 지났는데 결과물 URL 없음 · 담당 {{ r.manager or '미지정' }}</li>
@@ -127,6 +129,7 @@
       <li><b>{{ r.row_title_raw }}</b> — 인스타 외 매체({{ r.media | join(', ') }}) → 수동 확인</li>
       {% endfor %}
     </ul>
+    </details>
   </div>
   {% endif %}
 </div>
@@ -156,7 +159,6 @@
       {% if r.product_value_krw %}<span class="chip">{{ r.product_value_krw | krw }}</span>{% endif %}
       {% if r.last_written_score is defined and r.last_written_score is not none %}
       <span class="score">반응도 <b>{{ r.last_written_score }}</b></span>{% endif %}
-      {% if r.flags.overdue_no_output %}<span class="chip" style="background:#fff3e0;color:#e65100;">⚠️ 업로드 누락</span>{% endif %}
     </div>
     <div class="posts">
       {% for p in r.posts %}
@@ -208,8 +210,6 @@
           {% endif %}
         </div>
       </div>
-      {% else %}
-      <div class="nopost">아직 결과물 URL이 등록되지 않았습니다{% if r.delivery_date %} (배송일 {{ r.delivery_date }}){% endif %}</div>
       {% endfor %}
     </div>
   </div>
@@ -247,7 +247,7 @@
     ℹ️ 타사 계정은 공개 지표(조회·좋아요·댓글·팔로워)만 수집됩니다. 저장·공유·도달은 계정 주인만 볼 수 있어 수집 불가.<br>
     "평소대비" = 해당 계정의 협찬 아닌 최근 게시물(같은 유형) 중앙값 대비 배수. 1.0x = 평소 수준.<br>
     노션 협찬 DB의 "반응도" 숫자 = 그 협찬 건 게시물들의 평소대비 평균 × 100 (100 = 평소 수준).<br>
-    게시 후 30일까지 매일 갱신하고 이후 확정(동결)됩니다.
+    게시 후 30일까지 매일 갱신하고 이후 확정(동결)됩니다. 결과물 URL이 입력된 협찬 건만 카드로 표시되며, 계정은 최신 게시물 순으로 정렬됩니다.
   </div>
 </div>
 

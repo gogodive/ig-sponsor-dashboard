@@ -83,7 +83,7 @@ def test_render_no_baseline_and_no_posts():
     empty = _row(page_id="p4", row_title_raw="empty_row", username="empty_row", posts=[])
     html = render_html([_row(posts=[p]), empty], _flags(), None, NOW)
     assert "기준치 부족" in html
-    assert "아직 결과물 URL이 등록되지 않았습니다" in html
+    assert "@empty_row" not in html  # 결과물 URL 없는 행은 카드 미노출
 
 
 def test_render_aggregates():
