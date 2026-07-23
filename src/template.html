@@ -26,6 +26,11 @@
   .metricguide h3 { font-size:13px; margin-bottom:6px; }
   .metricguide b.term { color:#1565c0; }
   .metricguide .hint { color:var(--sub); }
+  .guidetable { border-collapse:collapse; margin:8px 0; width:100%; font-size:12px; }
+  .guidetable th, .guidetable td { border:1px solid #eee; padding:5px 10px; text-align:left;
+                                   vertical-align:top; }
+  .guidetable th { background:#f7f7f7; color:var(--sub); font-weight:600; }
+  .guidetable td:first-child { color:var(--sub); white-space:nowrap; }
   .metricguide .calcnote { margin:2px 0 4px 12px; }
   .metricguide .calcnote summary { cursor:pointer; color:#1565c0; font-size:12px; }
   .metricguide .calcnote ol { margin:6px 0 4px; padding-left:20px; color:#444; }
@@ -118,9 +123,23 @@
   <div class="metricguide">
     <h3>📖 지표 읽는 법</h3>
     <div><b class="term">참여</b> = 좋아요 + 댓글 — <span class="hint">저장·공유는 계정 주인만 볼 수 있어 타사 계정에선 수집 불가, 공개 지표만 합산.</span></div>
-    <div><b class="term">ER(참여율)</b> = (좋아요+댓글) ÷ 팔로워 — 팔로워 규모 대비 반응 밀도. <span class="hint">1% 미만 낮음 · 1~3% 보통 · 3% 이상 좋음. 팔로워 허수 감별에 유용.</span></div>
-    <div><b class="term">평소대비</b> = 협찬 게시물 성과 ÷ 그 계정의 평소 성과(협찬 아닌 최근 게시물 중앙값 · 릴스=조회수, 피드=좋아요+댓글) — <span class="hint">1.0x가 평소 수준, 1.5x↑ 잘 터짐, 0.7x↓ 부진.</span></div>
-    <div><b class="term">반응도(노션 기입값)</b> = 그 협찬 건 게시물들의 평소대비 평균 × 100 — <span class="hint">100=평소 수준 · 200=평소의 2배 · 50=절반.</span></div>
+    <div><b class="term">ER(참여율)</b> = 참여 ÷ 팔로워 — 팔로워 규모 대비 반응 밀도. <span class="hint">1% 미만 낮음 · 1~3% 보통 · 3% 이상 좋음. 팔로워 허수 감별에 유용.</span></div>
+    <table class="guidetable">
+      <tr><th></th><th>릴스</th><th>피드</th></tr>
+      <tr><td>성과 기준 지표</td>
+          <td><b>조회수</b> <span class="hint">(공개, 도달에 가장 가까움)</span></td>
+          <td><b>참여</b>(좋아요+댓글) <span class="hint">(조회수 비공개)</span></td></tr>
+      <tr><td>평소대비 계산</td>
+          <td>조회수 ÷ 평소 릴스 조회수 중앙값</td>
+          <td>참여 ÷ 평소 피드 참여 중앙값</td></tr>
+      <tr><td>비용 효율</td>
+          <td>조회당 비용 = 상품가액 ÷ 조회수</td>
+          <td>참여당 비용 = 상품가액 ÷ 참여</td></tr>
+      <tr><td>점수 변동 특성</td>
+          <td>알고리즘 노출에 따라 변동 큼 <span class="hint">(대박·쪽박 모두 릴스에서)</span></td>
+          <td>기존 팔로워 위주라 100 근처에서 안정적</td></tr>
+    </table>
+    <div><b class="term">반응도(노션 기입값)</b> = 그 협찬 건 게시물들의 평소대비 평균 × 100 — <span class="hint">100=평소 수준 · 200=평소의 2배 · 50=절반. 1.5x(150)↑ 잘 터짐 · 0.7x(70)↓ 부진.</span></div>
     <details class="calcnote">
       <summary>반응도 계산법</summary>
       <ol>
