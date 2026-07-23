@@ -11,7 +11,7 @@
   "manager": "서채윤",
   "followers_notion_raw": "7730",
   "product_value_krw": 47300,
-  "delivery_date": "2026-07-14",
+  "delivery_date": "2026-07-15",
   "output_link_prop": null,
   "username": "ssen_nyy",
   "followers_notion": 7730,
@@ -25,44 +25,44 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T10:34:23.000Z",
       "permalink": "https://www.instagram.com/p/DbDTZoxPXyx/",
-      "thumbnail": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/754016321_18480027370096833_9166964999817393720_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMaN5tDK9UCvpXhoZ7Qa5AGIyTUcUeXL_eLE0UKs3dgQGokIiyKWUN-rJ7zfc7H0k&_nc_ohc=IlXLdeY1lSwQ7kNvwEMMYPf&_nc_gid=YyBWh8uglJprc-ASuhwVVw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAXomZpFbkPeXjpQ6Y9cYbnbriDlSivYDA8W0-rJw7zUw&oe=6A6745C5&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fosu2-1.fna.fbcdn.net/v/t51.82787-15/754016321_18480027370096833_9166964999817393720_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fosu2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHm51-htslucARn7lBT9Bg6KMhSqd0wl3QKHHVS1Hchijs1E8NRPFlZ74kzanxBypEGIWssxUWBJOHZATjxiUl9&_nc_ohc=0h0gC0_NEJ8Q7kNvwED3low&_nc_gid=nJowYtZOu0oh37IzyAK1LQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDUAE58jYIi08Slxp16y3_0b7GW3aUe0bZz1yWZ9EJ_6A&oe=6A67EE85&_nc_sid=c6f216",
       "caption": "@secrets__fit \n\n#ad #시크릿스 #운동복추천 #취미발레룩",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ssen_nyy",
       "metrics": {
-        "views": 3046,
+        "views": 3340,
         "likes": 3,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
       "history": [
         {
           "d": "2026-07-23",
-          "views": 3046,
+          "views": 3340,
           "likes": 3,
           "comments": 0
         }
       ],
       "baseline": {
-        "views_median": 7328.5,
+        "views_median": 7332.0,
         "eng_median": 14.5,
         "n": 4,
-        "captured_at": "2026-07-23T09:06:28.198264+09:00"
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.0003819709702062643,
-        "vs_baseline": 0.41563757931363854,
+        "er": 0.0003814367450731087,
+        "vs_baseline": 0.45553737043098746,
         "cost_per_eng": 15766.666666666666,
-        "cost_per_view": 15.528562048588313
+        "cost_per_view": 14.161676646706587
       },
       "analysis": {
         "one_liner": "평소 대비 0.40x의 저조한 도달과 팔로워 대비 참여율 0.04%로, 참여 1건당 비용 15,767원은 협찬 효율이 매우 낮은 상태다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 3,046 · 좋아요 3 · 댓글 0 · ER 0.0% · 평소대비 0.4x (D+1)"
+      "last_written_reaction": "조회 3,340 · 좋아요 3 · 댓글 0 · ER 0.0% · 평소대비 0.5x (D+2)"
     }
   ],
   "flags": {
@@ -72,6 +72,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d8639eba-97ed-83fc-8c5f-81471f8205f0",
-  "followers": 7854,
-  "last_written_score": 42
+  "followers": 7865,
+  "last_written_score": 46
 }

@@ -1,0 +1,76 @@
+{
+  "page_id": "3a639eba-97ed-80ce-aae0-e7df252eb40b",
+  "row_title_raw": "hi___zero_",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "114000",
+  "product_value_krw": 98000,
+  "delivery_date": "2026-07-20",
+  "output_link_prop": null,
+  "username": "hi___zero_",
+  "followers_notion": 114000,
+  "posts": [
+    {
+      "notion_row_id": "b5139eba-97ed-82ca-8b1f-81760396bc18",
+      "url": "https://www.instagram.com/p/DbHwtp_iWuK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbHwtp_iWuK",
+      "media_kind": "원본 자료",
+      "upload_date_notion": "2026-07-23",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-23T04:02:41.000Z",
+      "permalink": "https://www.instagram.com/p/DbHwtp_iWuK/",
+      "thumbnail": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/753513312_18547845382076209_287237911210686531_n.webp?_nc_cat=100&ig_cache_key=Mzk0NzMzNjczMzA0NzQ4NTEwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3eEUZb5iST0Q7kNvwGRY5hf&_nc_oc=AdrXpdJiWB5Ps__b9N6bCbpQxnDM1E5Z4H1B9aP7QXjyJBs8ZV66FWSAsdsBugJCm9s&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=BrgannySP_vqg-jmvwSI2Q&_nc_ss=72689&oh=00_AQADcBDvdFCSApS5iKJ7DCHAWvJKq07T0kC3chbnM9I8eg&oe=6A67EE1D",
+      "caption": "#목요팅 \n오늘 공복 눈바디 마음에 들잖아🩵\n날씬해 보이는 @secrets__fit 운동복 덕분😍",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "hi___zero_",
+      "metrics": {
+        "likes": 163,
+        "comments": 31
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 163,
+          "comments": 31
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 303.0,
+        "n": 12,
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.001693583587952859,
+        "vs_baseline": 0.6402640264026402,
+        "cost_per_eng": 505.1546391752577,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.64x로 기대치 하회, 참여 1건당 505원은 수용 가능하나 릴스 조회 데이터 미확보로 최종 판단 유보 필요.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 163 · 댓글 31 · ER 0.2% · 평소대비 0.6x (D+0)"
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "ce939eba-97ed-837b-a06f-0100b1925439",
+  "followers": 114550,
+  "last_written_score": 64
+}

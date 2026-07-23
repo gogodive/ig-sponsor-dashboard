@@ -17,6 +17,94 @@
   "followers_notion": 1768,
   "posts": [
     {
+      "notion_row_id": "3a639eba-97ed-80fb-8dbd-d6794f6f7fa1",
+      "url": "https://www.instagram.com/p/Da0KdFyk2mo/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+      "shortcode": "Da0KdFyk2mo",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-16",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-15T13:22:48.000Z",
+      "permalink": "https://www.instagram.com/p/Da0KdFyk2mo/",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/747625560_18608698534030816_1470668716846700078_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk0MTgyMDE5ODAwOTMxODAxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JyLclEDxXiQQ7kNvwHVNuzM&_nc_oc=AdqL0DavzI7jPubUarT6_C4cB2WlNmU4vLWjth2i4uKukTBMcLxxrh6vU3bfN-s9R8U&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=h802wkeS5DLt0FHH0hbXgg&_nc_ss=7ca8c&oh=00_AQDTCzwWfwO413im-tQh7Ohx3SkZO2Z6ER0df2_O61m5eA&oe=6A67C991",
+      "caption": "여름 쇼츠레깅스는 내 교복템💛\n\n#협찬 #시크릿스",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "l70_com",
+      "metrics": {
+        "likes": 3,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 10.0,
+        "n": 12,
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": 0.0045045045045045045,
+        "vs_baseline": 0.8,
+        "cost_per_eng": 10500.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.80x로 기준치 미달, 참여 1건당 비용 10,500원은 팔로워 규모 감안해도 효율이 낮아 추가 관리가 필요하다.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 3 · 댓글 5 · ER 0.5% · 평소대비 0.8x (D+7)"
+    },
+    {
+      "notion_row_id": "3a639eba-97ed-8002-9d55-c3ef517586a2",
+      "url": "https://www.instagram.com/reel/Daxe7fjTV_3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Daxe7fjTV_3",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-14",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-14T12:24:46.000Z",
+      "permalink": "https://www.instagram.com/p/Daxe7fjTV_3/",
+      "thumbnail": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/746878374_18608413504030816_4376869108672425682_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk0MTA2NzE3ODY0ODYyNTE0MzE4NjA4NDEzNTAxMDMwODE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=C1PvZyL7lhUQ7kNvwG1WhyX&_nc_oc=AdrBYsllrnQYorP6oDiyZli3IrFt9tB5ZJHA2Gxcf_cK5ZeRIY0K7KEhxT92RDB11Fk&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=zYLJ1jic59fksY8m2hAMeA&_nc_ss=72a8c&oh=00_AQDtlMmweWmDcvUVxVhknrkyUbQ8S1E--MvPdEAgH0RiXQ&oe=6A67E555",
+      "caption": "여름 필수템 쇼츠 레깅스!! \n허리도 쫀쫀하게 잘 잡아줘서 추천드려요💛\n⚠️사이즈가 좀 작게 나와서 \n한 사이즈 업 하시는게 좋을 것 같아요⚠️\n\n#협찬 #시크릿스",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "l70_com",
+      "metrics": {
+        "likes": 3,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 0
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.0016891891891891893,
+        "vs_baseline": null,
+        "cost_per_eng": 28000.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "조회수 미집계 상태에서 좋아요 3·댓글 0으로 참여율 0.17%에 그쳐, 1건당 비용 28,000원은 팔로워 1,776명 규모 대비 현저히 비효율적인 초기 성과.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 3 · 댓글 0 · ER 0.2% (D+8)"
+    },
+    {
       "notion_row_id": "39d39eba-97ed-802a-abdc-cd0b80181446",
       "url": "https://www.instagram.com/p/Dau7zkNTkUj/",
       "shortcode": "Dau7zkNTkUj",
@@ -25,7 +113,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T12:39:28.000Z",
       "permalink": "https://www.instagram.com/p/Dau7zkNTkUj/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/743852203_18608122384030816_9033816522945268062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk0MDM0OTc1MjMxMTE3MDMzOTE4NjA4MTIyMzc4MDMwODE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjg4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xWAok-1Bk8kQ7kNvwHUUbb_&_nc_oc=AdqxjlyiSEmKhcryTUzHy0iHsdQgheLIkVWC_gLr91n1Pw0wB2h3kKHdOKM7KU-iNV8&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=EmqKFCFltVSxzeS72NKE4w&_nc_ss=72a8c&oh=00_AQC3VGaekgL4RfFGWxFIZgykBCqGGqjZQw7SSTTKW7RGXQ&oe=6A6740F0",
+      "thumbnail": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/743852203_18608122384030816_9033816522945268062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk0MDM0OTc1MjMxMTE3MDMzOTE4NjA4MTIyMzc4MDMwODE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjg4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xWAok-1Bk8kQ7kNvwGgZpVq&_nc_oc=AdplK-Q4c2p32HtM-i0fgO3edsZDDXoXN3h1Az71b_L1-APWgR_hNlbcYLdB75g1clQ&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=FDnulODx-IGxyUIksaFBeA&_nc_ss=72a8c&oh=00_AQBkrt_LCNbXAaTkxsCsos9jXYpGy4aJc0WbwQMk0_J7eQ&oe=6A67E9B0",
       "caption": "필라테스 강사의 찐 추천템⭐️⭐️⭐️\n집에 운동복만 100벌 있는거 같은데 원숄더 브라탑이 이렇게 편한거 처음 입어봐요!! 흘러내림 하나 없고 안정감 있게 잡아줘서 굿!! 스토리 올리니까 다들 예쁘다고 반응이 핫해서 정보 공유합니다♥️♥️\n\n#협찬 #시크릿스",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -34,7 +122,7 @@
         "likes": 3,
         "comments": 3
       },
-      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -46,7 +134,7 @@
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.0033764772087788407,
+        "er": 0.0033783783783783786,
         "vs_baseline": null,
         "cost_per_eng": 14000.0,
         "cost_per_view": null
@@ -66,7 +154,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T12:39:28.000Z",
       "permalink": "https://www.instagram.com/p/Dau7zkNTkUj/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/743852203_18608122384030816_9033816522945268062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk0MDM0OTc1MjMxMTE3MDMzOTE4NjA4MTIyMzc4MDMwODE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjg4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xWAok-1Bk8kQ7kNvwHUUbb_&_nc_oc=AdqxjlyiSEmKhcryTUzHy0iHsdQgheLIkVWC_gLr91n1Pw0wB2h3kKHdOKM7KU-iNV8&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=EmqKFCFltVSxzeS72NKE4w&_nc_ss=72a8c&oh=00_AQC3VGaekgL4RfFGWxFIZgykBCqGGqjZQw7SSTTKW7RGXQ&oe=6A6740F0",
+      "thumbnail": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/743852203_18608122384030816_9033816522945268062_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk0MDM0OTc1MjMxMTE3MDMzOTE4NjA4MTIyMzc4MDMwODE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjg4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xWAok-1Bk8kQ7kNvwGgZpVq&_nc_oc=AdplK-Q4c2p32HtM-i0fgO3edsZDDXoXN3h1Az71b_L1-APWgR_hNlbcYLdB75g1clQ&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=FDnulODx-IGxyUIksaFBeA&_nc_ss=72a8c&oh=00_AQBkrt_LCNbXAaTkxsCsos9jXYpGy4aJc0WbwQMk0_J7eQ&oe=6A67E9B0",
       "caption": "필라테스 강사의 찐 추천템⭐️⭐️⭐️\n집에 운동복만 100벌 있는거 같은데 원숄더 브라탑이 이렇게 편한거 처음 입어봐요!! 흘러내림 하나 없고 안정감 있게 잡아줘서 굿!! 스토리 올리니까 다들 예쁘다고 반응이 핫해서 정보 공유합니다♥️♥️\n\n#협찬 #시크릿스",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -75,7 +163,7 @@
         "likes": 3,
         "comments": 3
       },
-      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -86,14 +174,14 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 11.0,
+        "eng_median": 10.0,
         "n": 12,
-        "captured_at": "2026-07-23T09:06:28.198264+09:00"
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.0033764772087788407,
+        "er": 0.0033783783783783786,
         "vs_baseline": null,
         "cost_per_eng": 14000.0,
         "cost_per_view": null
@@ -112,5 +200,6 @@
     "account_unavailable": false
   },
   "child_db_id": "59239eba-97ed-8326-9e80-81029174db8f",
-  "followers": 1777
+  "followers": 1776,
+  "last_written_score": 80
 }

@@ -25,43 +25,43 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T22:47:34.000Z",
       "permalink": "https://www.instagram.com/p/DawBfxpkyeQ/",
-      "thumbnail": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk0MDY1NDgzMDkxODIyNjI5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Laf0JejD2UUQ7kNvwFSXlLz&_nc_oc=AdppRgJ1XwkgGVSeFy08Dmsft5foippKBXr5ukFGe17TpxGVVBV8KMOf0yoW1q-MAJA&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=pA0zHYPwvgeaez0lBBfhIw&_nc_ss=72a8c&oh=00_AQAxvzg-tNcV-UG-ReZ8CSy0uoRvXtaE8k3dGLsfa_hFhw&oe=6A67527C",
+      "thumbnail": "https://scontent-msp1-1.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk0MDY1NDgzMDkxODIyNjI5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WmV5YlFlA8gQ7kNvwGYp5ut&_nc_oc=Adqsh-IJX-iDhrE3lL_MG07ODwiyKyyJAPrLSHXVljo8XXKKruwvRm-CXl4vqLbfDZE&_nc_zt=23&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_gid=tTsrLJv-7T5fslRC1soE8Q&_nc_ss=7ca8c&oh=00_AQBZ3Si1ssND5DtIO1ikF3OEgFBnhTpPcheeQa5jlKg2GQ&oe=6A67FB3C",
       "caption": "#제품제공 @laserin_swim \n\n윤슬 에메랄드✨\n\n에메랄드빛 그라데이션이 매력적인 아이..\n예전 코튼캔디 출시되자마자 글로시하누매력에 한눈에 반해 구매했었는데😍\n윤슬 에메랄드는 메탈릭 원사가 은은하게 반짝이는 완전 다른 느낌임\n\n더블크로스백이라 안정적이어서 실내수영에도 무리없고 요캉스에도 다 잘어울리는걸🥰\n\n#라세린 #라세린수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yang",
       "metrics": {
-        "likes": 230,
+        "likes": 233,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
-          "likes": 230,
+          "likes": 233,
           "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 243.0,
+        "eng_median": 226.0,
         "n": 12,
-        "captured_at": "2026-07-23T09:06:28.198264+09:00"
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.02337928464977645,
-        "vs_baseline": 1.0329218106995885,
-        "cost_per_eng": 314.7410358565737,
+        "er": 0.023652109134928764,
+        "vs_baseline": 1.1238938053097345,
+        "cost_per_eng": 311.0236220472441,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.03배 수준의 무난한 참여로 건당 315원의 효율적 비용을 기록했으나, 뚜렷한 바이럴 효과는 없는 안정적 성과.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 230 · 댓글 21 · ER 2.3% · 평소대비 1.0x (D+9)"
+      "last_written_reaction": "좋아요 233 · 댓글 21 · ER 2.4% · 평소대비 1.1x (D+9)"
     }
   ],
   "flags": {
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "afc39eba-97ed-826a-9ec6-014ca984c684",
-  "followers": 10736,
-  "last_written_score": 103
+  "followers": 10739,
+  "last_written_score": 112
 }

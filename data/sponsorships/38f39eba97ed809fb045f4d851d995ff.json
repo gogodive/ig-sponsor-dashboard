@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T05:51:26.000Z",
       "permalink": "https://www.instagram.com/p/DahVPFcCTdw/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-EMr20KbrgUQ7kNvwF24drP&_nc_oc=AdpzyrePTYP8euP2EHNsOAUQOqp8mghE5HUN8mo7mD36H4KAik8UQyzyQJDPluy2o_o&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=DYGoE5LN8dEYQgvtV_cvbA&_nc_ss=72a8c&oh=00_AQA3UTyR_WB_eiFlGKLAVFtkGWyLwlatLIis5lUD3pKYEQ&oe=6A674F19",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-EMr20KbrgUQ7kNvwHhZpby&_nc_oc=AdrGESXRrGNDB4tn_9PvzTuvNpgE-j_I5UVsHsNh3SRUTGlk-48InfGpV2nh3Bs5028&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=89JfaT1ZJ00sP7U0VVkS2Q&_nc_ss=72289&oh=00_AQAtGI63FSOUndr42cY_Dd9X5HyP3eZm3RIjv1Ao6V6KWg&oe=6A67F7D9",
       "caption": "#제품제공 160cm 47kg XS착용\n\n색감이 예뻐서 야외에서 꼭 한번 입고 싶었던💛\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 140,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 171.5,
+        "eng_median": 201.5,
         "n": 12,
-        "captured_at": "2026-07-23T09:06:28.198264+09:00"
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
-        "er": 0.011731188201776438,
-        "vs_baseline": 0.8163265306122449,
+        "er": 0.011727257497068185,
+        "vs_baseline": 0.6947890818858561,
         "cost_per_eng": 457.14285714285717,
         "cost_per_view": null
       },
@@ -61,7 +61,7 @@
         "one_liner": "평소 대비 0.88x로 소폭 부진하나, 참여 1건당 457원은 합리적 수준으로 비용 효율은 준수한 편.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 140 · 댓글 0 · ER 1.2% · 평소대비 0.8x (D+14)"
+      "last_written_reaction": "좋아요 140 · 댓글 0 · ER 1.2% · 평소대비 0.7x (D+15)"
     }
   ],
   "flags": {
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a0239eba-97ed-820a-af9e-012e5783a5a9",
-  "followers": 11934,
-  "last_written_score": 82
+  "followers": 11938,
+  "last_written_score": 69
 }

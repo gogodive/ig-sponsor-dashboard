@@ -15,11 +15,44 @@
   "output_link_prop": null,
   "username": "ho057_pila",
   "followers_notion": 65000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3a639eba-97ed-8019-a700-f7d58957c5af",
+      "url": "https://www.instagram.com/p/DbAMquKPbz-/",
+      "shortcode": "DbAMquKPbz-",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "8ba39eba-97ed-828d-a44e-8122f8fd00db",
+      "url": "https://www.instagram.com/reels/Da7Cl6dvTGb/",
+      "shortcode": "Da7Cl6dvTGb",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "3f439eba-97ed-829d-9382-01c4a247ad4d",

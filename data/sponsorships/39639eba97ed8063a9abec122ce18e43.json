@@ -15,13 +15,62 @@
   "output_link_prop": null,
   "username": "170cm_48kg",
   "followers_notion": 1581,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "10e39eba-97ed-8257-b0c1-01d9742a431c",
+      "url": "https://www.instagram.com/p/DbAZDTNkhBz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbAZDTNkhBz",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-20T07:21:14.000Z",
+      "permalink": "https://www.instagram.com/p/DbAZDTNkhBz/",
+      "thumbnail": "https://instagram.fslc3-1.fna.fbcdn.net/v/t51.82787-15/752617171_18432914857132602_7642253365868243924_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0NTI1ODM0MTI4MjQ1MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xB-24DCZQ-gQ7kNvwEykDm1&_nc_oc=AdrKLZow_1gyeZwLagXBKLDcP5WJsr3n0OX78n-U3v34Ezgq7b3hfyxEAO939lrC5XTZbCzKwRITuR14FbJsPLiK&_nc_zt=23&_nc_ht=instagram.fslc3-1.fna&_nc_gid=NZekhKHv6khBFCEzjtFv8w&_nc_ss=72289&oh=00_AQDtD7rID9bwGYqpwKuDmnSTQ-aJ5KfOEI05qJmmbP_Ifw&oe=6A67C350",
+      "caption": "여름맛 민트 🩵\n올 여름 함께할 수영복 추천 🩵\n\n#광고 #라세린 #라세린수영복 #민트코어 #해운대 \n\n@laserin_swim \n청량한 민트색상 🩵\n민트코어 26년, 해운대 민트 파라솔과 잘어울리는 윤슬 에메랄드🩵\n\nM 사이즈 기장감 걱정했는데 어깨결림 없이 딱 맞았습니다!\n쫀쫀하고 부드러워서 활동하기도 너무 편해요 🩵🍀\n\n* 👙🩱 : 윤슬 에메랄드 더블크로스백\n* size : M\n* model : 169cm 53kg\n\n#수영복 #수영복추천 #수린이 #라세린 #라세린수영복 \n\n#프리다이빙 #해운대해수욕장 #수영복 #수영복추천 #라",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "170cm_48kg",
+      "metrics": {
+        "likes": 3,
+        "comments": 18
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 18
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 9.0,
+        "n": 12,
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.0019381633594831565,
+        "vs_baseline": 2.3333333333333335,
+        "cost_per_eng": 3761.904761904762,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 2.33x 참여 반등은 긍정적이나, 팔로워 대비 참여율 0.19%·건당 비용 3,762원은 개선 여지가 있어 D+7 추이 모니터링이 필요하다.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 3 · 댓글 18 · ER 0.2% · 평소대비 2.3x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "fdf39eba-97ed-835f-bf98-81d8018a9ef3",
-  "followers": 1581
+  "followers": 10835,
+  "last_written_score": 233
 }

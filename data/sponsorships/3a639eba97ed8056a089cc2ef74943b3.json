@@ -1,0 +1,27 @@
+{
+  "page_id": "3a639eba-97ed-8056-a089-cc2ef74943b3",
+  "row_title_raw": "yeongyohn",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "671",
+  "product_value_krw": 83000,
+  "delivery_date": "2026-07-20",
+  "output_link_prop": null,
+  "username": "yeongyohn",
+  "followers_notion": 671,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "bb339eba-97ed-83d2-a1d2-01fe37957581",
+  "followers": 671
+}

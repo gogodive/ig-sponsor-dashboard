@@ -15,13 +15,62 @@
   "output_link_prop": null,
   "username": "baek._.0",
   "followers_notion": 9376,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3ba39eba-97ed-8370-b524-01b6078d3729",
+      "url": "https://www.instagram.com/p/Da7erY6krmo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da7erY6krmo",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-19",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-18T09:34:12.000Z",
+      "permalink": "https://www.instagram.com/p/Da7erY6krmo/",
+      "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0Mzg3ODQzNjg5MjMzNDA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cmIA_WWpJS8Q7kNvwEnSU9s&_nc_oc=Ados4FPOPSl7EQRtrcFzdrtdS3Fb6wE02hPxJyyNFKkOZHsHQL6Bhb4mUCrJiEkjh8caXLc3ZP9iUhiMx-laS_6w&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=MMrCZfHhMItFoQzaTigEkw&_nc_ss=72a8c&oh=00_AQDYim3xkEy72b7OeZkf0T7TIs6emV_AZZAr9EbXbfk_Fg&oe=6A67E672",
+      "caption": "#제품제공\n태풍이 지나간 뒤 노을지는 하늘을 닮은 수영복☀️🩷❤️💜\n\n핑크,보라,빨강색이 어우러진 \n강렬한 노을 빛깔 라세린 미스틱레드❣️\n\n은은한 그라데이션 컬러감이 \n물 속에서도 너무 이뻤고, \n가슴선, 사이드컷도 미들컷이라\n너무 부담스럽지 않은 노출로 편안했어요👍\n\n수모, 마스크랑 같이 핑크로 깔맞춤하니\n완전 찰떡이였던 착장 🎀\n\n📸 @drop_the_diving \n\n@laserin_swim \n@usepool_official \n\n✔️수영복 - 라세린 미스틱레드\n✔️수모 -  유즈풀 러블리본\n✔️마스크 - 유즈풀 오로라 마스크 ",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "baek._.0",
+      "metrics": {
+        "likes": 110,
+        "comments": 32
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 110,
+          "comments": 32
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 155,
+        "n": 11,
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 5,
+      "computed": {
+        "er": 0.01522135277092936,
+        "vs_baseline": 0.9161290322580645,
+        "cost_per_eng": 450.7042253521127,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.92x로 소폭 하회하나 참여 1건당 451원은 준수한 수준—D+5 기준 안정적 출발.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 110 · 댓글 32 · ER 1.5% · 평소대비 0.9x (D+5)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "d5139eba-97ed-827c-96fa-812ed5c9e026",
-  "followers": 9376
+  "followers": 9329,
+  "last_written_score": 92
 }

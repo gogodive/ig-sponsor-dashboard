@@ -15,13 +15,62 @@
   "output_link_prop": null,
   "username": "diver_seorong",
   "followers_notion": 3423,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3a639eba-97ed-802f-a094-effb558fd6fd",
+      "url": "https://www.instagram.com/p/Da8FnjqlBDJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da8FnjqlBDJ",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-20",
+      "first_seen": "2026-07-23",
+      "posted_at": "2026-07-18T15:14:28.000Z",
+      "permalink": "https://www.instagram.com/p/Da8FnjqlBDJ/",
+      "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/750117628_17978019093103650_6652418501423511532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk0NDA1MDIzNDY2Nzc5NjkwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UoO25cifOBkQ7kNvwF-zT2F&_nc_oc=AdoBCg7kigm3hboubQoZPVRjeGk7hGWtmKuigtvYYamV7Y87JDoCucraya3gb_NUGj0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=VKZ3W3eec10P4wvOfjIejg&_nc_ss=72689&oh=00_AQCAII4slp0D5hQKXd0NfqAxwEx4y-ofOYlFVQXS6o7iLw&oe=6A67D678",
+      "caption": "✨ @laserin_swim \n“이 색감… 실물이 사진보다 더 예쁜 거 실화인가요?💜🩷✨”\n\n햇살 아래서는 코튼캔디처럼 은은하게,\n물속에서는 더 영롱하게 빛나는 💫\n\n이번에 착용한 수영복은\n라세린 코튼캔디 더블크로스백🍬\n\n🤍 두겹 원단-화이트 컬러도 비침 걱정x\n🤍 물속에서도 형태가 잘 유지되는 크레오라 원사를 사용\n🤍 미들컷 디자인이라 활동하기 편하고 부담 없이 착용 가능!\n🤍 등 라인을 예쁘게 잡아주는 더블 크로스백 디자인까지💕\n\n특히 빛에 따라 핑크, 라벤더, 하늘빛으로\n계속 달라지는 오로라 같은 컬러감이 정말 예뻤어요.☁️🌈",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "diver_seorong",
+      "metrics": {
+        "likes": 95,
+        "comments": 3
+      },
+      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "history": [
+        {
+          "d": "2026-07-23",
+          "views": null,
+          "likes": 95,
+          "comments": 3
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 182.0,
+        "n": 12,
+        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": 0.028554778554778556,
+        "vs_baseline": 0.5384615384615384,
+        "cost_per_eng": 846.9387755102041,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "one_liner": "평소 대비 0.54x로 저조한 반응이나, 참여 1건당 847원은 팔로워 3천대 소규모 계정 기준 수용 가능한 수준—D+4 추이 지속 모니터링 필요.",
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+      },
+      "last_written_reaction": "좋아요 95 · 댓글 3 · ER 2.9% · 평소대비 0.5x (D+4)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "20b39eba-97ed-838a-84e3-01d4f0daf6cc",
-  "followers": 3432
+  "followers": 3432,
+  "last_written_score": 54
 }
