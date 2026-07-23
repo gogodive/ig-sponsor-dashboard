@@ -71,6 +71,8 @@
   .zonehead { font-size:11px; font-weight:700; padding:8px 14px 0; }
   .zone.reels .zonehead { color:#1565c0; }
   .zone.feeds .zonehead { color:#e65100; }
+  .zone.zempty { background:#fafafa; }
+  .zone.zempty .zonehead { color:#c4c4c4; }
   .zgrid { display:grid; grid-template-columns:repeat(2,1fr); }
   .post { display:flex; gap:10px; padding:12px 14px; border-top:1px solid #f7f7f7; }
   .post .thumb { flex:0 0 84px; width:84px; height:84px; border-radius:6px; overflow:hidden;
@@ -111,6 +113,7 @@
   .foot { color:var(--sub); font-size:11px; margin:24px 0 40px; line-height:1.6; }
   @media (max-width:900px){ .posts { flex-direction:column; }
     .zone + .zone { border-left:0; border-top:1px solid #f0f0f0; }
+    .zone.zempty { display:none; }
     .zgrid { grid-template-columns:1fr; } }
 </style>
 </head>
@@ -331,18 +334,14 @@
     {% set reels = r.posts | selectattr('media_kind', 'equalto', '릴스') | list %}
     {% set feeds = r.posts | rejectattr('media_kind', 'equalto', '릴스') | list %}
     <div class="posts">
-      {% if reels %}
-      <div class="zone reels">
+      <div class="zone reels{% if not reels %} zempty{% endif %}">
         <div class="zonehead">▶ 릴스 {{ reels | length }}</div>
         <div class="zgrid">{% for p in reels %}{{ post_card(p) }}{% endfor %}</div>
       </div>
-      {% endif %}
-      {% if feeds %}
-      <div class="zone feeds">
+      <div class="zone feeds{% if not feeds %} zempty{% endif %}">
         <div class="zonehead">🖼 피드 {{ feeds | length }}</div>
         <div class="zgrid">{% for p in feeds %}{{ post_card(p) }}{% endfor %}</div>
       </div>
-      {% endif %}
     </div>
   </div>
   {% else %}
