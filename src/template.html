@@ -177,7 +177,22 @@
   <span class="updated">마지막 갱신: {{ generated_label }} (매일 06:00 자동)</span>
 </header>
 
+<nav>
+  <button data-tab="overview" class="active" style="border-bottom-color:#262626" data-color="#262626">
+    <span>현황 분석</span>
+    <span class="cnt">랭킹·집계</span>
+  </button>
+  {% for g in groups %}
+  <button data-tab="{{ loop.index0 }}" style="border-bottom-color:transparent"
+          data-color="{{ g.color }}">
+    <span>{{ g.name }}</span>
+    <span class="cnt">{{ g.rows | length }}건</span>
+  </button>
+  {% endfor %}
+</nav>
+
 <div class="wrap">
+<section class="brand active" id="brand-overview">
   <div class="kpis">
     <div class="kpi"><div class="v">{{ kpi.rows }}</div><div class="l">추적 협찬 건</div></div>
     <div class="kpi"><div class="v">{{ kpi.live_posts }}</div><div class="l">집계 중 게시물</div></div>
@@ -249,24 +264,7 @@
     </details>
   </div>
   {% endif %}
-</div>
 
-<nav>
-  <button data-tab="overview" class="active" style="border-bottom-color:#262626" data-color="#262626">
-    <span>현황 분석</span>
-    <span class="cnt">랭킹·집계</span>
-  </button>
-  {% for g in groups %}
-  <button data-tab="{{ loop.index0 }}" style="border-bottom-color:transparent"
-          data-color="{{ g.color }}">
-    <span>{{ g.name }}</span>
-    <span class="cnt">{{ g.rows | length }}건</span>
-  </button>
-  {% endfor %}
-</nav>
-
-<div class="wrap">
-<section class="brand active" id="brand-overview">
   {% if ranking %}
   <div class="aggwrap">
     <h2>🏆 비용 효율 랭킹 (절대 성과)</h2>
