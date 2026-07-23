@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-11T09:52:36.000Z",
       "permalink": "https://www.instagram.com/p/DapfOBVFGFs/",
-      "thumbnail": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/742266892_18474890692097062_724232062590641647_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzODgxNTY3ODQzOTUxNDM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2OS5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=gyJLY0o_h0QQ7kNvwGQ7BVB&_nc_oc=AdpBZXQJ5B6O_8CAsMqrEQNIpqVgq3JVBwLNyReE_yByd0VXlmj3Oiq652w6ixb-GX0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=0S2wfYveEnvDjyWNTOeyjg&_nc_ss=7ca8c&oh=00_AQAnSW_8lLcQFtrPIN7AswrcfewpwqxW_RuwM0YsoUGjcg&oe=6A670692",
+      "thumbnail": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/742266892_18474890692097062_724232062590641647_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzODgxNTY3ODQzOTUxNDM4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gyJLY0o_h0QQ7kNvwFs83Rf&_nc_oc=Adohp7afYFRohYuk5LPfriBbkY3CXienc38WYbUzxVCHWoZqdkCi0WEPO2y0F3V6DuZUo8NX8y1j3S42KEZVsrEO&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=ZdYIrx6Zl5Vbm6SSsseF9A&_nc_ss=7da8c&oh=00_AQDQeZ270qco3ZywpecN_WfXHHpZuV6sN-7N7YSlYsML-g&oe=6A673ED2",
       "caption": "이정도 여름이면 버틸만 하지요🙂‍↕️🫶\n \n #오운완 #운동하는여자 #summerinkorea #gymlife",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 577,
         "comments": 39
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 870.0,
+        "eng_median": 1138.0,
         "n": 12,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 11,
       "computed": {
-        "er": 0.013242185820542585,
-        "vs_baseline": 0.7080459770114943,
+        "er": 0.01324019344438474,
+        "vs_baseline": 0.5413005272407733,
         "cost_per_eng": 237.01298701298703,
         "cost_per_view": null
       },
@@ -61,7 +61,7 @@
         "one_liner": "평소 대비 0.71x로 아쉬운 반응이나, 참여 1건당 237원의 합리적 비용과 1.32% 참여율로 효율 자체는 준수한 편.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 577 · 댓글 39 · ER 1.3% · 평소대비 0.7x (D+11)"
+      "last_written_reaction": "좋아요 577 · 댓글 39 · ER 1.3% · 평소대비 0.5x (D+11)"
     }
   ],
   "flags": {
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a6639eba-97ed-8208-b69d-01b06fc0c5b4",
-  "followers": 46518,
-  "last_written_score": 71
+  "followers": 46525,
+  "last_written_score": 54
 }

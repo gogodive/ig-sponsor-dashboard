@@ -25,43 +25,43 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:17:27.000Z",
       "permalink": "https://www.instagram.com/p/Da-dBZdme7v/",
-      "thumbnail": "https://instagram.fcae1-1.fna.fbcdn.net/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NDcxNTg5NzQyMTY2OTAzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQyNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VfCuL5FvLEQQ7kNvwHukEdP&_nc_oc=AdrEjc7uEs2zMpXZytVizHGmsQtAq1dn8d_AR1IDppkLqM9eJcA1jhP7dRnSYQMcmNQ&_nc_zt=23&_nc_ht=instagram.fcae1-1.fna&_nc_gid=9rW-P2K6Ngnn7RGNYT8Z9w&_nc_ss=72a8c&oh=00_AQAe9TQCNcT3xx7O81iRwoChohoufW_JxbDomt8yi5_img&oe=6A6721BF",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NDcxNTg5NzQyMTY2OTAzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQyNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VfCuL5FvLEQQ7kNvwGxvJdF&_nc_oc=AdrIptsVyO__IFtV8d62pmJljPlu_oja1tMRdBA0Vh_pOwEJxz7tjjz2Y0YEKYauCGv34xx_itXUovYbUmkKdi-j&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=NO0iBeqKArn3A_DW8MdT1A&_nc_ss=72a8c&oh=00_AQBw-eb-QR_mEZo2ZNIJOv2-T7WW7dlx9mKcC1aPCCPpSA&oe=6A6721BF",
       "caption": "Dive into the Blue. 🌊 @gogodive \n\n평생 한번쯤 꼭 해보고 싶은 취미로 #프리다이빙 을 떠올리시는 분 많더라구요. \n\n언제까지 미룰 생각이죠…? 😤 \n\n제가 함께한 #고고다이브 는 회원 40,000명 국내 최대 규모 #다이빙 커뮤니티이자 정부 등록 수중레저 교육기관입니다 ✨\n\n저는 김세인 강사님 @pongdang.ping 과 함께 했는데요 🫧  호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 자세히 알려주시고, 구체적",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yoondhyun",
       "metrics": {
-        "likes": 266,
+        "likes": 267,
         "comments": 19
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
-          "likes": 266,
+          "likes": 267,
           "comments": 19
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 272.0,
+        "eng_median": 258.0,
         "n": 12,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 3,
       "computed": {
-        "er": 0.009474104115417858,
-        "vs_baseline": 1.0477941176470589,
-        "cost_per_eng": 1368.421052631579,
+        "er": 0.009507978723404255,
+        "vs_baseline": 1.1085271317829457,
+        "cost_per_eng": 1363.6363636363637,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.03x로 거의 차이 없는 무난한 성과이며, 참여 1건당 1,368원은 3만 팔로워 규모 피드 협찬 기준으로 수용 가능한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 266 · 댓글 19 · ER 0.9% · 평소대비 1.0x (D+3)"
+      "last_written_reaction": "좋아요 267 · 댓글 19 · ER 1.0% · 평소대비 1.1x (D+3)"
     }
   ],
   "flags": {
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
-  "followers": 30082,
-  "last_written_score": 105
+  "followers": 30080,
+  "last_written_score": 111
 }

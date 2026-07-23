@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T09:23:45.000Z",
       "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
-      "thumbnail": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwHa7fwP&_nc_oc=AdrGtXOQp5ztyBo0nxf-eVTPc_jWY3pEp0g1vug25Axs90QpvhepYaDAl5H3l7njAOY&_nc_zt=23&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=7mMnUS5pDLIh9ZniOxH9Zg&_nc_ss=72a8c&oh=00_AQDMhls9WtHbKeeBEaQENywIBaCZl_aYpxjhj9BUuNI1PQ&oe=6A672169",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwHp89hK&_nc_oc=AdrzwYe9rnX1J-8YfHxHXoqlJLhaSHnsUsDqCOm1fWc9U5perrSpMWwrTR0SxTWo4dA&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=Jbdg_SFG_11ldVj2X-pFfw&_nc_ss=7c689&oh=00_AQCAQu9Sr2fzu2eK8KZS5rgdq7dcqd09Rnvdvg2-UooMPA&oe=6A672169",
       "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 3,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -47,12 +47,12 @@
         "views_median": null,
         "eng_median": 3.0,
         "n": 12,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 14,
       "computed": {
-        "er": 0.0006703696609844858,
+        "er": 0.0006699846860643185,
         "vs_baseline": 2.3333333333333335,
         "cost_per_eng": 8500.0,
         "cost_per_view": null
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "79539eba-97ed-839c-8719-0102b6f72177",
-  "followers": 10442,
+  "followers": 10448,
   "last_written_score": 233
 }

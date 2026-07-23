@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:02:18.000Z",
       "permalink": "https://www.instagram.com/p/DaJ9PqcpWbc/",
-      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF_wxGzxnnzSQ8O7m7m42IAi0LahKYUmv3vRRmExVOahSHxqn7YHM3qeV97twXS-dA&_nc_ohc=0Nm2PDILMBsQ7kNvwGByRh6&_nc_gid=qQmacTiUYSL5xinSfkhDtQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB8AQXDseSm3TOT7XZwjIgJZmwVb0rRZXrqUzCrpvJ7Sw&oe=6A670C0D&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFpeqUxZvBZL4Jxdm0A-7JMa1Ob-kNoZr8e0gXFP3KKfW3oBCQI3RDg8Xkde1eLO5g&_nc_ohc=0Nm2PDILMBsQ7kNvwHulPWb&_nc_gid=eUpJrEP7tXhidHjS9UGkfw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDNPtuvOa7BQNeyTo-yRMviG3IV0xkHyKvi3Odq2Jb9Tw&oe=6A67444D&_nc_sid=c6f216",
       "caption": "#광고 @laserin_swim #라세린\n\n수영 가는날 제일 먼저 챙기게 되는 수영복 🫧\n\n물 안에서 더 예쁜 컬러감의\n라세린 오로라그린 💚💙\n\n쫀쫀하게 잡아주는 착용감이라\n강습 때도 편하고,\n핏까지 깔끔하게 떨어져서 더 마음에 들었어요 :)\n\n실내수영장에서 괜히 한번 더 거울 보게 되는 무드…✨\n\n운동하러 가는 날도\n예쁜 건 포기 못하는 사람에게 추천!",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 63,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,16 +45,16 @@
         }
       ],
       "baseline": {
-        "views_median": 1002.0,
+        "views_median": 1098.0,
         "eng_median": 126.5,
         "n": 8,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 23,
       "computed": {
         "er": 0.0432923570283271,
-        "vs_baseline": 1.341317365269461,
+        "vs_baseline": 1.2240437158469946,
         "cost_per_eng": 790.1234567901234,
         "cost_per_view": 47.61904761904762
       },
@@ -62,7 +62,7 @@
         "one_liner": "평소 대비 1.22배 조회로 소폭 상회하며 참여 1건당 790원·조회당 47.6원은 소규모 계정 기준 준수한 효율이나 절대 수치는 제한적.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 1,344 · 좋아요 63 · 댓글 18 · ER 4.3% · 평소대비 1.3x (D+23)"
+      "last_written_reaction": "조회 1,344 · 좋아요 63 · 댓글 18 · ER 4.3% · 평소대비 1.2x (D+23)"
     }
   ],
   "flags": {
@@ -73,5 +73,5 @@
   },
   "child_db_id": "e4e39eba-97ed-83c5-a925-81387823484a",
   "followers": 1871,
-  "last_written_score": 134
+  "last_written_score": 122
 }

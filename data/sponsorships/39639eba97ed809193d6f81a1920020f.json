@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T08:07:33.000Z",
       "permalink": "https://www.instagram.com/p/DazmYKEE4UB/",
-      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/747536176_18086809217545878_2117197769229964772_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MTY1OTYzOTkwMTEyOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAxOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iNQBV7LXbLAQ7kNvwEWUwGJ&_nc_oc=Adrsnd33jDKwoMfp4SCXqhTi4JUfmmFi8n6sWQyrlZjuZaK--omrqpJ4iZkmVhmiTdUBkvMhyw3QYc2646GZiXuc&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=7Gqp1R_cavboHDEkUIP-0Q&_nc_ss=72a8c&oh=00_AQBESxRq33rFDLJ31_CunirVcij4QS9XYlQKCBGj1KRtvg&oe=6A66F790",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/747536176_18086809217545878_2117197769229964772_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MTY1OTYzOTkwMTEyOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjAxOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iNQBV7LXbLAQ7kNvwGxTml1&_nc_oc=AdqPEDWKPqG3AAHfd263LIAYmKYOfTiBNcNNiJDKEnwCL0t9dMfZfB5RmFC-NvWM7gKKhzrqN6m-N17pmODnul-d&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Cfhi-z4zmSF0qY7_5rH0Wg&_nc_ss=7c689&oh=00_AQBnkwJAkYXjs2XYSJjwFYXsMRKH6Gt8mqGYyUC5KZeMkg&oe=6A672FD0",
       "caption": "#협찬 @laserin_swim \n\n야외수영장에서 제일 예쁘고 빛나고싶어서 선택한 수영복!!\n다채로운 컬러감과 은은하게 빛나는 수영복이라\n쨍한 햇빛과 만나면 더더더 예쁘더라구요!!\n\n인어공주같은 느낌의 수영복이라 \n다음엔 바다갈때도 챙겨가야겠어요🩵\n\n착용제품 \n-라세린 크리스탈웨이브 더블크로스백 \n착용사이즈 \n-M\n신체사이즈 \n-168/60\n\n#라세린 #수영복 #야외수영장 #수영장",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 225,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 437.5,
+        "eng_median": 470.5,
         "n": 12,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 7,
       "computed": {
         "er": 0.03713188220230474,
-        "vs_baseline": 0.5302857142857142,
+        "vs_baseline": 0.49309245483528164,
         "cost_per_eng": 297.41379310344826,
         "cost_per_view": null
       },
@@ -72,5 +72,5 @@
   },
   "child_db_id": "ce539eba-97ed-83e3-99b6-01aecd32bdb5",
   "followers": 6248,
-  "last_written_score": 53
+  "last_written_score": 49
 }

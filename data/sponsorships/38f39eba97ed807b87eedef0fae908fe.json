@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-04T13:42:18.000Z",
       "permalink": "https://www.instagram.com/p/DaX38T9iRSL/",
-      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzMzg1NzQ2OTM2NzEyNjU3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjIyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kUf_CLTjDqEQ7kNvwGp56TO&_nc_oc=AdrCJ-h5hE68fcqwty_Uu8UqySgxHUzj6-V15EQbmUvI400WjYOdLH3FFRgqdCcRHc8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=esUOUTCApDoC9CctGG9MZw&_nc_ss=72689&oh=00_AQAAF1fPQCnf2aZ1TG2z8GY2X_pX270je9gfWofxAOQilQ&oe=6A671451",
+      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzMzg1NzQ2OTM2NzEyNjU3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjIyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kUf_CLTjDqEQ7kNvwHBc6J2&_nc_oc=AdoswoGyp4RI7uzM8OIfr7PhL51TMvkpYh5xF3WK9X3UcVaXcQ1NrvszsOKycuOqmbk&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=NOvujYo1cO-6CeUpG8GGhw&_nc_ss=72289&oh=00_AQCW2BbAc76VSx7bbDJ0h5-pOBoUWTpuqEJtL-n7ztykNA&oe=6A674C91",
       "caption": "토요일 순삭 \n주말은 너무 바ㅃ r 그래서 좋아 ..ღ \n\n캡내장에 재질 미쳤고 너무 편한 나시는 \n@secrets__fit ✨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 1355,
         "comments": 28
       },
-      "metrics_updated_at": "2026-07-23T06:22:20.040141+09:00",
+      "metrics_updated_at": "2026-07-23T09:06:28.198264+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,15 +45,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 1072.0,
+        "eng_median": 1216.0,
         "n": 12,
-        "captured_at": "2026-07-23T06:22:20.040141+09:00"
+        "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": false,
       "days_since_post": 18,
       "computed": {
-        "er": 0.008521256931608132,
-        "vs_baseline": 1.2901119402985075,
+        "er": 0.008518947420292711,
+        "vs_baseline": 1.1373355263157894,
         "cost_per_eng": 87.1294287780188,
         "cost_per_view": null
       },
@@ -61,7 +61,7 @@
         "one_liner": "평소 대비 1.30배 참여로 준수한 반응, 참여 1건당 87원의 효율적 비용으로 초기 성과 긍정적.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 1,355 · 댓글 28 · ER 0.9% · 평소대비 1.3x (D+18)"
+      "last_written_reaction": "좋아요 1,355 · 댓글 28 · ER 0.9% · 평소대비 1.1x (D+18)"
     }
   ],
   "flags": {
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c3339eba-97ed-8225-9618-012886118220",
-  "followers": 162300,
-  "last_written_score": 129
+  "followers": 162344,
+  "last_written_score": 114
 }
