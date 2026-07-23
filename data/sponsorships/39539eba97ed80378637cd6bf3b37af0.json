@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:32:01.000Z",
       "permalink": "https://www.instagram.com/p/Daw2peVD2ou/",
-      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDg4Nzc3MDM1NTg2OTgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sABsAy0dPzEQ7kNvwHP0nJV&_nc_oc=AdrNUKMmHI2pYbMpKJ3r4TJ7ieq5WBr4dlI7IY7ehjteXqqGTd8ZqUDHGIlwfyg_tTaIIXoITdekRsISjmIc-Za3&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=QIGW3efZp4fzy0_LNWGHhA&_nc_ss=72689&oh=00_AQCxDUF3d8SJkrMMKIDWbgI4ElOKnSlJNfSTsGKPmazAIQ&oe=6A67D672",
+      "thumbnail": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDg4Nzc3MDM1NTg2OTgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KNse6ndg7lsQ7kNvwGIytZH&_nc_oc=Adq4pgJ8TNUc7xO6Tdsxtgr8ylvsdm71MeK7x0Z_oAUGrY86ZJSnkdnxxn0mQ_WYMW9due799_w7waEZ3j3w2zyl&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=VQecge17k_qfBX2juaVUNA&_nc_ss=7c689&oh=00_AQB05wILkxj4530XMYa5tAgU0iXZU0207m0yQ0K4rnpMZg&oe=6A687F32",
       "caption": "개운하게 등 운완 ✌🏽\n헬스장 너무 시원한데 땀이 왤케 나 \n\n@secrets__fit \n코르셋 브라탑 / 화이트•M\nV컷 레깅스 3.5부 / 네이비•L\n\n#협찬 #광고 #운동복브랜드 #짐웨어브랜드",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "2ee_luda",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 10
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 13.0,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "eng_median": 12,
+        "n": 9,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.0005799170272561003,
-        "vs_baseline": 1.0,
-        "cost_per_eng": 11692.307692307691,
+        "er": 0.00040157058718543636,
+        "vs_baseline": 0.75,
+        "cost_per_eng": 16888.88888888889,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.13x로 소폭 상회하나 팔로워 대비 참여율 0.06%·1건당 1.2만원으로 비용 효율은 낮은 편.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 10 · ER 0.1% · 평소대비 1.0x (D+9)"
+      "last_written_reaction": "좋아요 -1 · 댓글 10 · ER 0.0% · 평소대비 0.8x (D+9)"
     }
   ],
   "flags": {
@@ -71,6 +77,6 @@
     "account_unavailable": false
   },
   "child_db_id": "46e39eba-97ed-82a2-8a63-81b53b702742",
-  "followers": 22417,
-  "last_written_score": 100
+  "followers": 22412,
+  "last_written_score": 75
 }

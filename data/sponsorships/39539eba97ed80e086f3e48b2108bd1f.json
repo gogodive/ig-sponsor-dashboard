@@ -25,44 +25,50 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T12:10:43.000Z",
       "permalink": "https://www.instagram.com/p/DasTzZHOTit/",
-      "thumbnail": "https://scontent-det1-1.cdninstagram.com/v/t51.71878-15/745144464_1356563036416489_8881625179225259559_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=102&ig_cache_key=MzkzOTYxMDg2ODU4NDEwMjA2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=2FQhJB7eLJ0Q7kNvwGK3eVI&_nc_oc=AdrC5WECSBTCu3A104Li7QItoC53zMtqlb7x3PUYqj01FThXSbm7_puEHx1HRB0BeKm2FDQBzstWqBYNuXy-kqpa&_nc_zt=23&se=-1&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_gid=n_rJtAv_2_QKPUfVbYFu6g&_nc_ss=72689&oh=00_AQBsIUhMY1ArttM44W8XDv5cMk2SySyqJYxj5--4ZNGtkg&oe=6A67CCAA",
+      "thumbnail": "https://instagram.fmty6-1.fna.fbcdn.net/v/t51.71878-15/745144464_1356563036416489_8881625179225259559_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmty6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGdBat42J7OjyaNmUQLDExFt6jzOZG1H6QXJPruuS4QEWDGyPKJvhtEIF5Z5TnWY3k&_nc_ohc=qknKQVIUMBEQ7kNvwGijNTb&_nc_gid=LYfUxSvcSbFKge8t36dIMw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDMJeKryPZE1_Ge2_QWaLw4H-B_0lIrMcVIvBy7MJ5KHQ&oe=6A68756A&_nc_sid=c6f216",
       "caption": "운동은 맨날 내일부터였는데…🤣\n매일 작심삼일 아가리어터의 결론?\n\n운동은 의지도 중요하지만…\n예쁜 운동복도 꽤 중요🫢\n\n여러분들은 어때요? 🏋️‍♀️💪\n\n#에슬레저룩 #운동복추천 #꿀팁 #다이어트 #secrets",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ha0ron",
       "metrics": {
-        "views": 3250,
-        "likes": 3,
+        "views": 3300,
+        "likes": -1,
         "comments": 8
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": 3250,
           "likes": 3,
           "comments": 8
+        },
+        {
+          "d": "2026-07-24",
+          "views": 3300,
+          "likes": -1,
+          "comments": 8
         }
       ],
       "baseline": {
-        "views_median": 36782.5,
+        "views_median": 36012,
         "eng_median": 94.0,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "n": 11,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.0015859284890426758,
-        "vs_baseline": 0.08835723509821246,
-        "cost_per_eng": 11181.818181818182,
-        "cost_per_view": 37.84615384615385
+        "er": 0.0010086455331412103,
+        "vs_baseline": 0.09163612129290237,
+        "cost_per_eng": 17571.428571428572,
+        "cost_per_view": 37.27272727272727
       },
       "analysis": {
         "one_liner": "평소 대비 0.09x의 극히 저조한 도달에 참여 1건당 비용 1.1만 원으로 협찬 효율이 매우 낮아 추가 팔로업이 필요합니다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 3,250 · 좋아요 3 · 댓글 8 · ER 0.2% · 평소대비 0.1x (D+10)"
+      "last_written_reaction": "조회 3,300 · 좋아요 -1 · 댓글 8 · ER 0.1% · 평소대비 0.1x (D+11)"
     },
     {
       "notion_row_id": "82a39eba-97ed-83e2-9362-0151e3ce38a2",
@@ -73,43 +79,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T03:30:26.000Z",
       "permalink": "https://www.instagram.com/p/DarYR1pAVHT/",
-      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/744491163_17978765472104871_437801136263935845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTM0ODU2ODU2MTA4Mjc3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjUxMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JO9h1La1fksQ7kNvwGKmmCk&_nc_oc=Adol2oxT2rNIgEist3elrjYNVvmySU_LUuulHFDuXcP2CDXD8pNNXQrwAJBhyDZOFn8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ochuQ-bVSyj9SfZ40Y8GWg&_nc_ss=72a8c&oh=00_AQDAlostUMCLAwUsQ3-Zht4eGNWQJVprWx_SihcVUqtEsA&oe=6A67CA34",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/744491163_17978765472104871_437801136263935845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTM0ODU2ODU2MTA4Mjc3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjUxMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JO9h1La1fksQ7kNvwH7snLJ&_nc_oc=AdraffbwbEkECu5X8_IWz7NC8GaXas5nEjT6YKv8h-wO-Xc9UH54wxDGo_NHNe2zrT4&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=szEv8KyZTUB6b34S7Q2xgg&_nc_ss=72689&oh=00_AQARbgYV7RCNnBfTPcsCHTelfdyTgnnUv9I3vjtZYIXi5g&oe=6A6872F4",
       "caption": "운동과 일상을 넘나드는 셋업\n여름엔 속옷 따로 안챙겨입어도 되는게 최고여…👍❤️\n\n@secrets__fit \n\n#ad #secrets #시크릿스 #운동복 #에슬레져룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "ha0ron",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 2
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 9.0,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "eng_median": 13.0,
+        "n": 10,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 11,
       "computed": {
-        "er": 0.0007208765859284891,
-        "vs_baseline": 0.5555555555555556,
-        "cost_per_eng": 24600.0,
+        "er": 0.00014409221902017292,
+        "vs_baseline": 0.07692307692307693,
+        "cost_per_eng": 123000.0,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.56x의 저조한 참여율과 참여 1건당 24,600원의 높은 비용으로, 현 시점 대비 효율이 기대치를 크게 밑돌고 있음.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 2 · ER 0.1% · 평소대비 0.6x (D+11)"
+      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.1x (D+11)"
     }
   ],
   "flags": {
@@ -119,6 +131,6 @@
     "account_unavailable": false
   },
   "child_db_id": "92339eba-97ed-8236-a021-81a97efa297a",
-  "followers": 6936,
-  "last_written_score": 32
+  "followers": 6940,
+  "last_written_score": 8
 }

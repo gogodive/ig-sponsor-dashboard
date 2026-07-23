@@ -25,44 +25,50 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T07:54:09.000Z",
       "permalink": "https://www.instagram.com/p/Daw_4a8S9Iq/",
-      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFQF-RuAJUWFp2CXq9TFIHLEDdxI43soB1fSE-Dg2wlrU5kBRdPaIqdETBjxri9XAMkkTErv6TYCDmGNr250VfO&_nc_ohc=ZDwXJ_gjRkEQ7kNvwHjPIsA&_nc_gid=Mj6FpKGUob44SqeSmdfH6A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAj-7z7QiHmATwfgJXde1T0Gi2AKmlb9qkdrYL8-5mnyg&oe=6A67E4C7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gErHU8iWdD9g1DFTT4ATknRlg8QZS8FkDGeJAPX8mEuCeBbruLxZjoDWyrxcWq8u7Q&_nc_ohc=ZDwXJ_gjRkEQ7kNvwEC0E2N&_nc_gid=5ZCJcFfZhIYtWzE_iZWHSg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQD9ecKkaEZL7p4ZxIPrNXAZvwl0MTzJX55manFHuUcuUg&oe=6A685547&_nc_sid=c6f216",
       "caption": "-\n와 내가 지금까지 수 많은 짐웨어를 입어봤는데\n이마이 편한 탑내장 나시 처음입니다.. \n\n@secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "h.seojin_",
       "metrics": {
-        "views": 2102,
-        "likes": 3,
+        "views": 2121,
+        "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": 2102,
           "likes": 3,
           "comments": 5
+        },
+        {
+          "d": "2026-07-24",
+          "views": 2121,
+          "likes": -1,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": 6569,
-        "eng_median": 51,
+        "eng_median": 47,
         "n": 9,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.00015276504735716468,
-        "vs_baseline": 0.3199878215862384,
-        "cost_per_eng": 10875.0,
-        "cost_per_view": 41.389153187440535
+        "er": 7.638835841417768e-05,
+        "vs_baseline": 0.32288019485462016,
+        "cost_per_eng": 21750.0,
+        "cost_per_view": 41.018387553041016
       },
       "analysis": {
         "one_liner": "평소 대비 0.31x 저조한 도달에 참여 1건당 1만 원 초과로 초기 비용 효율이 매우 낮은 상태.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 2,102 · 좋아요 3 · 댓글 5 · ER 0.0% · 평소대비 0.3x (D+9)"
+      "last_written_reaction": "조회 2,121 · 좋아요 -1 · 댓글 5 · ER 0.0% · 평소대비 0.3x (D+9)"
     }
   ],
   "flags": {
@@ -72,6 +78,6 @@
     "account_unavailable": false
   },
   "child_db_id": "4bc39eba-97ed-82c6-ae3b-0137e286b530",
-  "followers": 52368,
+  "followers": 52364,
   "last_written_score": 32
 }

@@ -35,10 +35,16 @@
         "likes": 3,
         "comments": 8
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": 1663,
+          "likes": 3,
+          "comments": 8
+        },
+        {
+          "d": "2026-07-24",
           "views": 1663,
           "likes": 3,
           "comments": 8
@@ -82,10 +88,16 @@
         "likes": 3,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 3,
+          "comments": 7
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 3,
           "comments": 7
@@ -116,7 +128,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "c7139eba-97ed-83a7-a781-81f5625b489a",
   "followers": 3691,

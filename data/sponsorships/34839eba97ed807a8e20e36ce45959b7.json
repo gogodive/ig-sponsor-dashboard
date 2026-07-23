@@ -43,7 +43,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 89,
+      "days_since_post": 90,
       "computed": {
         "er": 0.07695984703632887,
         "vs_baseline": 3.3641449120937668,
@@ -66,7 +66,7 @@
       "upload_date_notion": "2026-04-21",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 93,
+      "days_since_post": 94,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -79,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "34839eba-97ed-8008-ba07-c2695ed64b9f",
   "followers": 2092,

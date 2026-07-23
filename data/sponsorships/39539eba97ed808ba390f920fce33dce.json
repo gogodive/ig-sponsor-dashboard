@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:23:20.000Z",
       "permalink": "https://www.instagram.com/p/Daw1p9VD4EK/",
-      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0MDg4NTU1NjE4MjgwMzE4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zCNB4yZ96jQQ7kNvwGvqBMq&_nc_oc=AdpWbW2ozMGc6Y2DPREK9Aw6fqw4js0Bb96g6c7T6yjxC-ryquifyAAfszaCFyRFRvI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=-oDdpLBkm-td2nedFfpZVA&_nc_ss=72a8c&oh=00_AQAJeYwl8wzZz4MUVzFagmS8CnyOL6ZZNO_TAuqLNvQG_w&oe=6A67EC1C",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0MDg4NTU1NjE4MjgwMzE4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zCNB4yZ96jQQ7kNvwHcIikm&_nc_oc=AdqwIZdta3j5uzlM3ErnXU7DwixBMqLqlnE_F-SdvHqH9WCwceR2vfqOyNZdD_fcCQw113W38JOgswvdDfUxNx9Z&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=XYF88GKKFSQzlFjazuPXLw&_nc_ss=72289&oh=00_AQBksyeuaoTmzJVG09drjnBaiKXkcmEmmc1Xi8s-GnneYg&oe=6A685C9C",
       "caption": "7월의 여름🩵 @laserin_swim 🩵\n📍야크마을 @yakmaeul.official \n\n동생이랑 보물같은 수영장을 발견해서\n바로 예약하고 신나게 놀다왔수다🩵\n\n@laserin_swim 라세린 수영복 \nCrystal Wave💎크리스탈웨이브\n\nSize 160 60 L착용✨\n\n라세린 하면 가장 먼저 떠오르는 건 역시\n은은하게 반짝이는 시그니처 원단✨\n\n수영복은 몸매를 잘 못 잡아줘서 안 입는 편인데\n크리스탈웨이브는 탄탄하게 잡아주고 컬러감도\n은은한 광택이 너무 예뻤어요.🩵 특히 밤에 더 빛남💎\n\n너무 과하지 않은 반짝임이라\n햇빛 아래",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "ejact_",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 6
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8.5,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "n": 10,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 9,
       "computed": {
-        "er": 0.0002518539247236603,
-        "vs_baseline": 1.0588235294117647,
-        "cost_per_eng": 7666.666666666667,
+        "er": 0.00013989535827201252,
+        "vs_baseline": 0.5882352941176471,
+        "cost_per_eng": 13800.0,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.0x로 반응 없이 참여 1건당 7,667원—3.6만 팔로워 계정치고 효율이 매우 저조합니다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 6 · ER 0.0% · 평소대비 1.1x (D+9)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.0% · 평소대비 0.6x (D+9)"
     },
     {
       "notion_row_id": "18939eba-97ed-8280-9e96-0192bb6ac141",
@@ -97,9 +103,9 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.00016790261648244018,
+        "er": 0.00016787442992641504,
         "vs_baseline": null,
         "cost_per_eng": 11500.0,
         "cost_per_view": null
@@ -108,7 +114,7 @@
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 11,500원으로 팔로워 대비 참여율 0.02%에 그쳐 초기 성과가 매우 저조함.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 3 · ER 0.0% (D+8)"
+      "last_written_reaction": "좋아요 3 · 댓글 3 · ER 0.0% (D+9)"
     }
   ],
   "flags": {
@@ -118,6 +124,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d7339eba-97ed-833f-954f-81a037b9867b",
-  "followers": 35735,
-  "last_written_score": 106
+  "followers": 35741,
+  "last_written_score": 59
 }

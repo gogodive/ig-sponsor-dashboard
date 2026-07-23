@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T05:06:58.000Z",
       "permalink": "https://www.instagram.com/p/DbAJr3WmsZa/",
-      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/752254671_18617608498039216_3202454341659647661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NTE5NTc1NDA1ODIwMDQ5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0JlUt_xoqb0Q7kNvwGpmqPX&_nc_oc=Adqbtq6_U7zRO1Ed3EKBxUJYxbEt8GFJ8mzJEy-LUjj1x7Wzo9nb85NEgARI_KKaq6ePJnF9pFx-Ih5LA8Ie1bTj&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=Xp4EaPmo2fRGsl3953M2ZQ&_nc_ss=72289&oh=00_AQBF-ovDPnJjloO0zX0NBJtSrv2OK12Cwupn_NaEljHCww&oe=6A67EFEA",
+      "thumbnail": "https://instagram.fcia5-1.fna.fbcdn.net/v/t51.82787-15/752254671_18617608498039216_3202454341659647661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NTE5NTc1NDA1ODIwMDQ5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0JlUt_xoqb0Q7kNvwH4QbJV&_nc_oc=AdoBzJG5uyRuIXeLhOaIvc7U5FAwg1_Sp7NrUMZRVF2E0IRzt2lLUL1vMMB7qWm8YpU&_nc_zt=23&_nc_ht=instagram.fcia5-1.fna&_nc_gid=gaZgVCd7bEzl_ZjI02QrrA&_nc_ss=72a8c&oh=00_AQB2ZEQ9DOX706ijJPGTJqgluMU3ygRuX-zY7AVc665f2w&oe=6A68606A",
       "caption": "#협찬 🍋 요즘 레몬코어 무드에 딱 맞는 수영복💛\n\n은은한 옐로우 체크 컬러가 상큼하면서도 화사한 분위기를 만들어줘요. 트위드 소재라 고급스러운 느낌까지✨\n\n라세린 특유의 탄탄한 원단 덕분에 몸을 안정감 있게 잡아주고, 착용감도 편해서 물놀이 내내 만족했어요. 사진도 정말 예쁘게 나와서 여행 필수템📸🌊\n\n👙 #라세린 트위디 체크 옐로우 더블크로스백\n💰 69,000원\n\n여름 휴가용 수영복 찾는다면 추천💛🍋\n\n#프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "cogi._.v",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 14
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 14
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 14
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 10.0,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "eng_median": 6.0,
+        "n": 10,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 3,
       "computed": {
-        "er": 0.0006558641975308642,
-        "vs_baseline": 1.7,
-        "cost_per_eng": 4058.823529411765,
+        "er": 0.0005015625602839616,
+        "vs_baseline": 2.1666666666666665,
+        "cost_per_eng": 5307.692307692308,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.70x로 반응은 양호하나 참여당 비용 4,059원·참여율 0.07%로 효율 개선 여지 있음",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 14 · ER 0.1% · 평소대비 1.7x (D+3)"
+      "last_written_reaction": "좋아요 -1 · 댓글 14 · ER 0.1% · 평소대비 2.2x (D+3)"
     }
   ],
   "flags": {
@@ -71,6 +77,6 @@
     "account_unavailable": false
   },
   "child_db_id": "86839eba-97ed-8397-8b02-015554341c3e",
-  "followers": 25920,
-  "last_written_score": 170
+  "followers": 25919,
+  "last_written_score": 217
 }

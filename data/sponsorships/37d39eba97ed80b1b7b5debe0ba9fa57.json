@@ -51,9 +51,9 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.020861821114266682,
+        "er": 0.020852316534660405,
         "vs_baseline": 5.536365972757646,
         "cost_per_eng": 132.7731092436975,
         "cost_per_view": 3.6672546653049856
@@ -62,7 +62,7 @@
         "one_liner": "평소 대비 5.56배 초과 조회로 비용 효율(조회당 3.7원)은 우수하나, 댓글 0건으로 실질 구매 전환 유도력은 미지수.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 21,542 · 좋아요 595 · 댓글 0 · ER 2.1% · 평소대비 5.5x (D+15)"
+      "last_written_reaction": "조회 21,542 · 좋아요 595 · 댓글 0 · ER 2.1% · 평소대비 5.5x (D+16)"
     },
     {
       "notion_row_id": "46339eba-97ed-83c3-9b33-811abf30a0aa",
@@ -92,7 +92,7 @@
       "frozen": true,
       "days_since_post": 32,
       "computed": {
-        "er": 0.01718032327057256,
+        "er": 0.017172495969720335,
         "vs_baseline": 2.5322997416020674,
         "cost_per_eng": 161.22448979591837,
         "cost_per_view": null
@@ -113,6 +113,6 @@
     "account_unavailable": false
   },
   "child_db_id": "5f239eba-97ed-8349-843d-8149e7a66b66",
-  "followers": 28521,
+  "followers": 28534,
   "last_written_score": 403
 }

@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:21:57.000Z",
       "permalink": "https://www.instagram.com/p/DbC97U-E8uX/",
-      "thumbnail": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0NTk4NzEyMDU0NDE1MDg3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5tZ1AcxxpJQQ7kNvwGGXS5v&_nc_oc=AdqW1nvvG0pFttfJTE5VAn_Wh_mKqI5M2TtWoev42oAqJiiU5Tm-SE30phLnPpvraA4&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=TstJZ7yBipZpLy_HpjscAg&_nc_ss=7c289&oh=00_AQD0QGcPzXirg-2Alib6eOo7yV6XMcnl563_xwyU22BkxA&oe=6A67F3A5",
+      "thumbnail": "https://instagram.fyyc3-1.fna.fbcdn.net/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0NTk4NzEyMDU0NDE1MDg3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5tZ1AcxxpJQQ7kNvwGYHPja&_nc_oc=AdoAN1YdRA55VwtA5Q5-UcyfqOFU1BM-R6IgxWfjXofhK8gol5Heu8RDWxC0rl0KsTw&_nc_zt=23&_nc_ht=instagram.fyyc3-1.fna&_nc_gid=CO0huUw5YmTofFyo2FcW9A&_nc_ss=7ca8c&oh=00_AQD3FRltlKfaHCTuYevxtNKpoWj5Z8l-D5TUDlmgXr4iUA&oe=6A686425",
       "caption": "바다에서 입어보기전에 색감 핏 체크 완료 💖🩵\n\n#라세린 #비키니 #투피스 #울릉도바다 #제품제공",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "2_eunchu",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 39
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 39
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 39
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 18.0,
+        "eng_median": 14.0,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 2,
       "computed": {
-        "er": 0.01595138625142423,
-        "vs_baseline": 2.3333333333333335,
-        "cost_per_eng": 1690.4761904761904,
+        "er": 0.014432206608431447,
+        "vs_baseline": 2.7142857142857144,
+        "cost_per_eng": 1868.421052631579,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 2.33배 참여로 고무적이나, 댓글 39건 대비 좋아요 3건의 불균형과 건당 1,690원 비용은 추이 모니터링 필요.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 39 · ER 1.6% · 평소대비 2.3x (D+2)"
+      "last_written_reaction": "좋아요 -1 · 댓글 39 · ER 1.4% · 평소대비 2.7x (D+2)"
     }
   ],
   "flags": {
@@ -72,5 +78,5 @@
   },
   "child_db_id": "e0d39eba-97ed-8287-8fa0-01660a262650",
   "followers": 2633,
-  "last_written_score": 233
+  "last_written_score": 271
 }

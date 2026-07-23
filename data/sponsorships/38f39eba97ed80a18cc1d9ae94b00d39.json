@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T09:23:45.000Z",
       "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
-      "thumbnail": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwG03UEy&_nc_oc=AdoXEzNzz445w7kTeDvRahy3EkaTlpyC43nAGiiTdp775leHDzezIZVYgKiJh6WOgJE4MHcKKKggr-xbq12CQxs5&_nc_zt=23&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=Q6zzaSIMdKHsUCJovhx-mg&_nc_ss=72689&oh=00_AQBA37Yaltp6451ngjjCEdqbaksDSlpGzB0YDY0BxOJv3A&oe=6A67CA29",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZlh969lmSMQ7kNvwG4Ej4N&_nc_oc=AdqhaLZ6mg4HJncIZzZgOd8o2_Ud8XYI5kqm0TXbJ_LmbeDXJAGsYYQ2fCqoWB5WKwM&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=Bw05MS8Ap4-FOp990EhC6g&_nc_ss=7ca8c&oh=00_AQDOcRyPtpYWXRPCZvGD9Tw0GjLOO0nRG2_XB1Co47DPsA&oe=6A6872E9",
       "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "_z__sun",
       "metrics": {
-        "likes": 3,
+        "likes": -1,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 3,
           "comments": 4
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 3.0,
-        "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "eng_median": 19.0,
+        "n": 4,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 15,
       "computed": {
-        "er": 0.000669024180445379,
-        "vs_baseline": 2.3333333333333335,
-        "cost_per_eng": 8500.0,
+        "er": 0.0002861776209100448,
+        "vs_baseline": 0.15789473684210525,
+        "cost_per_eng": 19833.333333333332,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 2.33배 참여로 반응은 선방했으나 참여 1건당 비용 8,500원·팔로워 대비 참여율 0.07%로 실질 효율은 낮음.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 3 · 댓글 4 · ER 0.1% · 평소대비 2.3x (D+15)"
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.0% · 평소대비 0.2x (D+15)"
     }
   ],
   "flags": {
@@ -71,6 +77,6 @@
     "account_unavailable": false
   },
   "child_db_id": "79539eba-97ed-839c-8719-0102b6f72177",
-  "followers": 10463,
-  "last_written_score": 233
+  "followers": 10483,
+  "last_written_score": 16
 }

@@ -47,7 +47,7 @@
       "frozen": false,
       "days_since_post": 2,
       "computed": {
-        "er": 0.050485142510612493,
+        "er": 0.050271739130434784,
         "vs_baseline": null,
         "cost_per_eng": 307.8078078078078,
         "cost_per_view": 5.441129631595711
@@ -89,7 +89,7 @@
       "frozen": false,
       "days_since_post": 17,
       "computed": {
-        "er": 0.1488781079442086,
+        "er": 0.1482487922705314,
         "vs_baseline": null,
         "cost_per_eng": 104.37881873727088,
         "cost_per_view": 0.8665438006188391
@@ -98,7 +98,7 @@
         "one_liner": "조회 11.8만·참여율 14.9%로 팔로워 대비 폭발적 반응, 조회당 0.9원의 극강 비용 효율로 협찬비 대비 초과 성과 달성.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 118,286 · 좋아요 900 · 댓글 82 · ER 14.9% (D+17)"
+      "last_written_reaction": "조회 118,286 · 좋아요 900 · 댓글 82 · ER 14.8% (D+17)"
     },
     {
       "notion_row_id": "39739eba-97ed-80ca-b193-f337c8e9d5d1",
@@ -109,43 +109,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-01T10:20:39.000Z",
       "permalink": "https://www.instagram.com/p/DaPyZwry7k-/",
-      "thumbnail": "https://instagram.fagc1-2.fna.fbcdn.net/v/t51.82787-15/730018605_17893304751546772_7169786816279302741_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFmfc9lECxPmzoq7W9iEjP6wZl715DXNZvhYcK9GiwwqfAwegdUendzuEV2ksoeU5Q&_nc_ohc=KjaZ1nBIzpAQ7kNvwE6v3MF&_nc_gid=xJWvQ6di77BEfS5p74o7YA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBDXVw9b_eQ9T3uC6D2KZORHmyuHiH57hCKgQTddS301g&oe=6A67EBE7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/730018605_17893304751546772_7169786816279302741_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHhUvbyK4rUeQmfih0_qm0mDtfRc7wXhW-M-Hyx1SCoLI4l7CBUCZzu-NS-Y5dXYG8&_nc_ohc=KjaZ1nBIzpAQ7kNvwEKqxxo&_nc_gid=kv3CKNsNRzgoGTQkWxgFsw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCmjwLhA6xUn5Gtck0WAxGEow7NgPzdJ6457EstT7738w&oe=6A685C67&_nc_sid=c6f216",
       "caption": "#협찬 \n\n오늘은 시크릿스 셋업..💛✨",
       "media_type": "IMAGE",
       "product": "FEED",
       "owner_username": "hellzzzzang",
       "metrics": {
-        "likes": 343,
+        "likes": 344,
         "comments": 98
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 343,
           "comments": 98
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": 344,
+          "comments": 98
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 291.0,
+        "eng_median": 313.0,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 22,
       "computed": {
-        "er": 0.06685870224378411,
-        "vs_baseline": 1.5154639175257731,
-        "cost_per_eng": 232.42630385487527,
+        "er": 0.06672705314009662,
+        "vs_baseline": 1.4121405750798721,
+        "cost_per_eng": 231.9004524886878,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.41배 참여를 끌어낸 가성비 협찬—참여 1건당 233원으로 소규모 계정 특유의 밀착 팬덤이 비용 효율을 뒷받침함.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 343 · 댓글 98 · ER 6.7% · 평소대비 1.5x (D+22)"
+      "last_written_reaction": "좋아요 344 · 댓글 98 · ER 6.7% · 평소대비 1.4x (D+22)"
     },
     {
       "notion_row_id": "86b39eba-97ed-82ac-90b3-8189113beab7",
@@ -156,7 +162,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T09:38:48.000Z",
       "permalink": "https://www.instagram.com/p/DafKdaZk1Jj/",
-      "thumbnail": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/735346620_17894312430546772_2915820515561045293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzkzNTkxMDUwMTI4NDU4ODczNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjc3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tiHXfd6jBeQQ7kNvwFWOG3P&_nc_oc=Adr6A0s5y8R52UOg2w7jxB-Id2exJuBHvoi6wtbFphrE_4jKc6aN4JZwlQN5eWvzfLs&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=ZHgfGn3vjLWR0VaXGb3n4A&_nc_ss=72a8c&oh=00_AQC5TQbQicocqDoIOg7PH-3z6jp4roAWyVjMGFO_rPj-sQ&oe=6A67D3A5",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/735346620_17894312430546772_2915820515561045293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzkzNTkxMDUwMTI4NDU4ODczNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjc3Ni5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=tiHXfd6jBeQQ7kNvwFe6amU&_nc_oc=AdoOJp7r3CgMXs45-EgBDeJ9AQOH8UnhhgCl2BKQvh9MFnOZ5W9VeDcILGenMrPJ_eg&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=seOWFGx0eG1nHffOZs4ryg&_nc_ss=7ca8c&oh=00_AQBk0JflUKwobyJt4zLE7Jd-U7veuCqf-KxcuLLAIUurfQ&oe=6A687C65",
       "caption": "#협찬 \n\n🏷️ @secrets__fit \n\n이 자세 완전 시원한데 함 해보세유😝🤍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -165,10 +171,16 @@
         "likes": 318,
         "comments": 81
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 318,
+          "comments": 81
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 318,
           "comments": 81
@@ -176,15 +188,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 291.0,
+        "eng_median": 313.0,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 16,
       "computed": {
-        "er": 0.06049120679199515,
-        "vs_baseline": 1.3711340206185567,
+        "er": 0.06023550724637681,
+        "vs_baseline": 1.2747603833865815,
         "cost_per_eng": 256.8922305764411,
         "cost_per_view": null
       },
@@ -192,7 +204,7 @@
         "one_liner": "평소 대비 1.28배 참여로 선방했으나, 팔로워 6,573명 규모에서 건당 257원은 가성비 적정 수준으로 추가 확산 여부를 지켜볼 필요가 있다.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 318 · 댓글 81 · ER 6.0% · 평소대비 1.4x (D+16)"
+      "last_written_reaction": "좋아요 318 · 댓글 81 · ER 6.0% · 평소대비 1.3x (D+16)"
     }
   ],
   "flags": {
@@ -202,6 +214,6 @@
     "account_unavailable": false
   },
   "child_db_id": "3ef39eba-97ed-8274-83ea-0136973ba4ac",
-  "followers": 6596,
-  "last_written_score": 144
+  "followers": 6624,
+  "last_written_score": 134
 }

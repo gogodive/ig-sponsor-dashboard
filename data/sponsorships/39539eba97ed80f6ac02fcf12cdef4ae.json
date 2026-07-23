@@ -52,7 +52,7 @@
       "frozen": false,
       "days_since_post": 10,
       "computed": {
-        "er": 0.06307821698906645,
+        "er": 0.06291946308724833,
         "vs_baseline": 1.2605042016806722,
         "cost_per_eng": 460.0,
         "cost_per_view": null
@@ -71,6 +71,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d4939eba-97ed-831f-93a4-015faacf8a4b",
-  "followers": 2378,
+  "followers": 2384,
   "last_written_score": 126
 }

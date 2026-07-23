@@ -25,21 +25,27 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T18:55:25.000Z",
       "permalink": "https://www.instagram.com/p/DayLhubTSOQ/",
-      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGQNe4WQXnYP4tAN9qqfNqOLRwwbDFeU7yaDpYRDzisaRfPQTAAUzYbaixJJQ4sSJHhCoKQXzoLRaQo6u1udsjU&_nc_ohc=hDVOwV0HmqAQ7kNvwGbvQAu&_nc_gid=_DCQfBm-Maxt61T3QkGkzw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDBd5C9sxhxsI-NPGTTCRWDs1y0gyy5z5h7TjoO9PP_Jg&oe=6A67F55E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gElKHXSvvwCzm5Oam1O4p2R9M8Vk0ST3nrHXq7L9YP35bg6ZL3UJIv0Ka6juGkuCxg&_nc_ohc=hDVOwV0HmqAQ7kNvwH_uu9H&_nc_gid=1giyjeRVhfda-94ujP-yjw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCX1p2jQUDnnG15Ks371rz77weRqzL2L7eajCgNZjg6Vw&oe=6A6865DE&_nc_sid=c6f216",
       "caption": "웨이브파크 🌊🏄‍♀️\n 수심 5미터 예쁜 야외풀장 \n찌져 ~ 야~호 ~~~~🩷\n.\n\n154/ 43~44 / xs \n🩱 Laserin \n  글리트 아이스 모카\n@laserin_swim\n\n.\n🎥 @diver.grim",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "___jjijyeo",
       "metrics": {
-        "views": 1937,
+        "views": 1939,
         "likes": 89,
         "comments": 20
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": 1937,
+          "likes": 89,
+          "comments": 20
+        },
+        {
+          "d": "2026-07-24",
+          "views": 1939,
           "likes": 89,
           "comments": 20
         }
@@ -48,21 +54,21 @@
         "views_median": 912.5,
         "eng_median": 91.0,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.10234741784037558,
-        "vs_baseline": 2.1227397260273975,
+        "er": 0.10263653483992467,
+        "vs_baseline": 2.124931506849315,
         "cost_per_eng": 724.7706422018349,
-        "cost_per_view": 40.78471863706763
+        "cost_per_view": 40.7426508509541
       },
       "analysis": {
         "one_liner": "평소 대비 1.88배 조회에 참여율 10.2%로 소규모 계정 치고 고효율이며, 참여 1건당 725원은 충분히 납득 가능한 비용 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 1,937 · 좋아요 89 · 댓글 20 · ER 10.2% · 평소대비 2.1x (D+8)"
+      "last_written_reaction": "조회 1,939 · 좋아요 89 · 댓글 20 · ER 10.3% · 평소대비 2.1x (D+9)"
     }
   ],
   "flags": {
@@ -72,6 +78,6 @@
     "account_unavailable": false
   },
   "child_db_id": "44139eba-97ed-8393-bdd2-01a39a27d7a9",
-  "followers": 1065,
+  "followers": 1062,
   "last_written_score": 212
 }

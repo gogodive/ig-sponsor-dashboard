@@ -35,10 +35,16 @@
         "likes": 80,
         "comments": 11
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": 17359,
+          "likes": 80,
+          "comments": 11
+        },
+        {
+          "d": "2026-07-24",
           "views": 17359,
           "likes": 80,
           "comments": 11
@@ -97,8 +103,8 @@
         "n": 6,
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03679761312779711,
         "vs_baseline": 0.9548387096774194,
@@ -107,16 +113,18 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.95x로 거의 동일한 반응이나, 참여 1건당 1,392원은 소규모 계정 기준 준수한 효율로 무난한 성과.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "final_verdict": "팔로워 2,011명 규모의 소형 계정에서 참여율 3.68%는 인플루언서 마케팅 업계 평균(소형 계정 기준 약 3~5%)에 부합하는 수준으로, 절대 참여 수치 자체는 양호하다. 그러나 평소 대비 0.95배라는 점은 협찬 게시물이 유기적 콘텐츠 대비 추가적인 주목을 끌어내지 못했음을 의미하며, 협찬 효과가 사실상 미미했다고 볼 수 있다. 참여 1건당 비용 1,392원은 소형 계정치고 과도하게 높지는 않으나, 다이빙·수영 브랜드 특성상 팔로워 규모와 타깃 적합성을 고려할 때 103,000원의 상품 가액 대비 명확한 브랜드 노출 효과를 입증하기 어려워 비용 효율성은 보통 수준으로 평가된다.",
+        "final_at": "2026-07-24T07:08:02.071261+09:00"
       },
-      "last_written_reaction": "좋아요 71 · 댓글 3 · ER 3.7% · 평소대비 1.0x (D+30)"
+      "last_written_reaction": "좋아요 71 · 댓글 3 · ER 3.7% · 평소대비 1.0x (확정)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "9d939eba-97ed-829e-80a5-013824ca9ce9",
   "followers": 2011,

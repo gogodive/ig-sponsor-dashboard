@@ -35,10 +35,16 @@
         "likes": 160,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": 3279,
+          "likes": 160,
+          "comments": 12
+        },
+        {
+          "d": "2026-07-24",
           "views": 3279,
           "likes": 160,
           "comments": 12
@@ -51,7 +57,7 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.018498601849860186,
         "vs_baseline": 0.5750613819712381,
@@ -62,7 +68,7 @@
         "one_liner": "평소 대비 0.77배 저조한 도달에 참여 1건당 465원·조회당 24.3원으로 비용 효율이 낮아 추가 모니터링 필요.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 3,279 · 좋아요 160 · 댓글 12 · ER 1.8% · 평소대비 0.6x (D+13)"
+      "last_written_reaction": "조회 3,279 · 좋아요 160 · 댓글 12 · ER 1.8% · 평소대비 0.6x (D+14)"
     },
     {
       "notion_row_id": "94b39eba-97ed-8201-9f56-8153cdf2eb5f",
@@ -90,7 +96,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.032265003226500326,
         "vs_baseline": 1.5957446808510638,
@@ -110,7 +116,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "2fc39eba-97ed-8253-8917-01816b429301",
   "followers": 9298,

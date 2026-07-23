@@ -25,44 +25,50 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-24T15:19:44.000Z",
       "permalink": "https://www.instagram.com/p/DZ-RuX5p1zi/",
-      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/728772129_18097983614522929_2401604337728335563_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF7Qvf5ddtJBSuXJLMQjtCgS9mtahiCEe_uIgs2jRmeGLVTHi2VkRiOsgzUuUCBf9U&_nc_ohc=KaTQrryExcQQ7kNvwH-2B-x&_nc_gid=mb6_1vR0ZvXpP8DHbHAR4Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAzLuB9INT9IITg4YVDI8rNvMWTMF9CBX7wv0esqIMrcQ&oe=6A67E062&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.flhr2-3.fna.fbcdn.net/v/t51.82787-15/728772129_18097983614522929_2401604337728335563_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.flhr2-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEdKlXODpcbUE9zOvuUTyuZ_lMOAKIxHIPfuVgHu8W7fQSgiFqiYISrcEeYJ9Bj46s&_nc_ohc=KaTQrryExcQQ7kNvwGaOjSg&_nc_gid=ZYgTtdpcm-FefddLSTSPbw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDWYTQ-Xop3o6qFvwdjjilxSJxCMlyMf0Wr70TRAHAy5A&oe=6A688922&_nc_sid=c6f216",
       "caption": "✶ POV: 타이타닉 OST가 나오면🫧\n\n이럴려고 펀다이빙 하는 거 아닌가요?\n\n물속에서 자유롭게 놀고,\n예쁜 사진도 남기고,\n영상까지 ✨\n\n사진, 영상 맛집 📸\n프리덤다이브 덕분에 인생샷 추가했어요🪩\n\n빛이 만들어준 물결,\n강사님이 챙겨오신 소품,\n그리고 타이타닉 OST까지 🫧\n\n✶ 수영복 : 라세린 @laserin_swim \n\n사진도 영상도 수업도 진심인 프리덤다이브 \n@freedom.diver @freedom.diveteam ✨\n\n#프리다이빙 #머메이드다이빙 #프리덤다이브 #창원프리다이빙 #부산프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "962swimmer",
       "metrics": {
-        "views": 9175,
+        "views": 9182,
         "likes": 230,
         "comments": 38
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": 9175,
           "likes": 230,
           "comments": 38
+        },
+        {
+          "d": "2026-07-24",
+          "views": 9182,
+          "likes": 230,
+          "comments": 38
         }
       ],
       "baseline": {
-        "views_median": 7050.0,
-        "eng_median": 119.5,
-        "n": 10,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "views_median": 11498.0,
+        "eng_median": 109,
+        "n": 6,
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
-        "er": 0.055360462714315224,
-        "vs_baseline": 1.301418439716312,
+        "er": 0.055349029326724496,
+        "vs_baseline": 0.7985736649852149,
         "cost_per_eng": 514.9253731343283,
-        "cost_per_view": 15.040871934604905
+        "cost_per_view": 15.029405358309736
       },
       "analysis": {
         "one_liner": "평소 대비 1.30x의 안정적 도달로 참여당 515원·조회당 15원의 합리적 비용 효율을 기록한 준수한 협찬 성과.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "조회 9,175 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 1.3x (D+28)"
+      "last_written_reaction": "조회 9,182 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (D+29)"
     },
     {
       "notion_row_id": "38939eba-97ed-8075-9f2b-c3b01318cf3a",
@@ -100,7 +106,7 @@
       "frozen": false,
       "days_since_post": 30,
       "computed": {
-        "er": 0.02912621359223301,
+        "er": 0.029120198265179677,
         "vs_baseline": 0.8757763975155279,
         "cost_per_eng": 978.7234042553191,
         "cost_per_view": null
@@ -138,9 +144,9 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
-        "er": 0.04069407147283619,
+        "er": 0.04068566707971912,
         "vs_baseline": 1.131810442678774,
         "cost_per_eng": 700.5076142131979,
         "cost_per_view": 17.299736743136517
@@ -161,7 +167,7 @@
       "upload_date_notion": "2026-06-22",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -177,6 +183,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e2f39eba-97ed-828f-8dd5-81d34f71aef9",
-  "followers": 4841,
-  "last_written_score": 110
+  "followers": 4842,
+  "last_written_score": 94
 }

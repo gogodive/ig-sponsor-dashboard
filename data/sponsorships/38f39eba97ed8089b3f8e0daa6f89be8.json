@@ -46,7 +46,7 @@
       "frozen": false,
       "days_since_post": 3,
       "computed": {
-        "er": 0.02779864763335838,
+        "er": 0.027694610778443114,
         "vs_baseline": null,
         "cost_per_eng": 2329.7297297297296,
         "cost_per_view": null
@@ -66,7 +66,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-09T02:58:52.000Z",
       "permalink": "https://www.instagram.com/p/DajmR-Xk5_u/",
-      "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/742317152_17973319686111873_3256353692266613471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkzNzE1ODY4MDg0ODMyMjA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2XXrdDekGQoQ7kNvwEj0Htv&_nc_oc=Adq5SRKKBDVrqca0PvGuVOlojsDODbnoNRGUb5GTkoSopWcwrW7ph4yx8svzQbit6oM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=DCgYaUhSjUsGtAfHTZs4jQ&_nc_ss=72a8c&oh=00_AQC4ZPU2o1ruhq2w66vTY6Z7QeeNjlakFclyvgnewfPUEw&oe=6A67D0F6",
+      "thumbnail": "https://instagram.fmel7-1.fna.fbcdn.net/v/t51.82787-15/742317152_17973319686111873_3256353692266613471_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkzNzE1ODY4MDg0ODMyMjA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EViSCKySwygQ7kNvwFj_akH&_nc_oc=AdpObYcBEeo72jPjKbnO3O7rN0KRGVkIPdD6wDWph7LTJNK5QsMVjFMT00E9S4waQ9I&_nc_zt=23&_nc_ht=instagram.fmel7-1.fna&_nc_gid=A_3EioLv0rIvjye1C2uF8g&_nc_ss=72a8c&oh=00_AQAa00SkHUoS9rIYbZ4kxY5UiCuGpklMZa5Vivd3KTfdZQ&oe=6A6879B6",
       "caption": "비를 뚫고 운동온 나 칭찬 \n\n저눈 말예요 상체가 엄청 말라서 근육이 하나도 없었어요.\n어깨가 큰게 싫어서 상체 운동 많이 안했다가\n근년간 하고 있는데 어깨가 짝짝이네 ???????????????????????????\n\n일단 이 셋업은 이쁘니까 질러 \n🏷️ @secrets__fit \n리브 슬리브리스 레이어드 팬츠 SET 블랙 위아래 S\n\n#어깨 #시크릿스 #여자운동복추천 #여자운동복코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -75,10 +75,16 @@
         "likes": 214,
         "comments": 76
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 214,
+          "comments": 76
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 214,
           "comments": 76
@@ -86,15 +92,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 329.5,
+        "eng_median": 332.5,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 14,
       "computed": {
-        "er": 0.07262709742048586,
-        "vs_baseline": 0.8801213960546282,
+        "er": 0.07235528942115768,
+        "vs_baseline": 0.8721804511278195,
         "cost_per_eng": 891.7241379310345,
         "cost_per_view": null
       },
@@ -102,7 +108,7 @@
         "one_liner": "평소 대비 0.88x로 소폭 부진하나, 참여 1건당 892원·참여율 7.31%로 소규모 계정 대비 비용 효율은 양호한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 214 · 댓글 76 · ER 7.3% · 평소대비 0.9x (D+14)"
+      "last_written_reaction": "좋아요 214 · 댓글 76 · ER 7.2% · 평소대비 0.9x (D+14)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80c0-9a74-e7501dd3ff96",
@@ -113,7 +119,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T12:12:53.000Z",
       "permalink": "https://www.instagram.com/p/DbA6bXSk_0A/",
-      "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/746073675_17975263443111873_5620167288357511338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NTQwNzU1MDQwOTU4MjQyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_Hch9hpfwkQQ7kNvwFbyoyZ&_nc_oc=AdoFBLYghMX85VtUGyogySnYKPKV5JzqrTZGDUQaH5m0v7ABQfvpxxjpaVa75ZEX2ke6-sLY-C_UsGQJddmy7FvW&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=FMEd3SwhTfydWzM7xcJXxA&_nc_ss=7c689&oh=00_AQAJ46p_WRgUuuPHCD82ljLehe-DFE7M27wCjGzXiooLSw&oe=6A67D634",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/746073675_17975263443111873_5620167288357511338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NTQwNzU1MDQwOTU4MjQyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_Hch9hpfwkQQ7kNvwFepr8q&_nc_oc=Adqmqa3Lm8my2AqvGIXu1HiJn8c4RJeOrVXg3t_7ASPo9jADHe_YQvMh8Cl3N1ghHy4&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=bE1ofas8T5wl1rlvaceBIQ&_nc_ss=72a8c&oh=00_AQB0GOLwTCMj9HeKPLWV4YuZ2mvkf3QA2A0M7NBfrEQTVA&oe=6A687EF4",
       "caption": "현생으로 돌아오 rrrrrrrrrrr oh 운 완\n스쿼트 40kg 5회씩 10세트\n해주고 마마 30분 타주고 월요일 끝\n\n-\n\n너무 더운거 아니냐며 이럴땐 피부도 열기로 축 쳐저서 보습🧊\n@naturie.korea \n\n요즘 수분 루틴으로 잘 쓰는 조합💙\n\n하또무기 스킨은 율무추출물 함유 워터 제형이라 끈적임 없이 촉촉하게 흡수되고, 미스트처럼 수시로 뿌려주기 좋고,알코올 프리라 부담 없이 사용 중!\n\n마무리는 하또무기 젤✨ 산뜻한 젤 타입이라 여러 번 덧발라도 밀림 없고, 수면팩이나 바디 보습까지 다양하게 활용하기 좋아서 손이 자주",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -122,10 +128,16 @@
         "likes": 216,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 216,
+          "comments": 0
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 216,
           "comments": 0
@@ -133,15 +145,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 329.5,
+        "eng_median": 332.5,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.054094665664913597,
-        "vs_baseline": 0.6555386949924128,
+        "er": 0.05389221556886228,
+        "vs_baseline": 0.649624060150376,
         "cost_per_eng": 1197.2222222222222,
         "cost_per_view": null
       },
@@ -149,7 +161,7 @@
         "one_liner": "평소 대비 0.61x로 부진한 출발이나, 참여 1건당 1,280원은 소규모 계정 기준 수용 가능한 효율로 추이 모니터링 필요.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 216 · 댓글 0 · ER 5.4% · 평소대비 0.7x (D+2)"
+      "last_written_reaction": "좋아요 216 · 댓글 0 · ER 5.4% · 평소대비 0.6x (D+3)"
     },
     {
       "notion_row_id": "39739eba-97ed-8012-b476-fca6fb735976",
@@ -160,43 +172,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-03T09:57:43.000Z",
       "permalink": "https://www.instagram.com/p/DaU5ciGk3Kq/",
-      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/730347875_17972310537111873_6958675133587595281_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkzMzAxMzkxODA0NjE5NjU1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QMoiI5YrzxkQ7kNvwGOf5JK&_nc_oc=AdoyT2Gyz9x_rrhVMXUrrssjjPKid_YqZZfwqT9wbpiXhJYGU-EUJ8U8NPEk_g_BB20&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Mnj2Sg_SCj-SQCARczO4Eg&_nc_ss=72289&oh=00_AQAJKE0445-KuNDkjy7sQDkFmAB85oqJZlGrP15DvwKKWg&oe=6A67C88F",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/730347875_17972310537111873_6958675133587595281_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkzMzAxMzkxODA0NjE5NjU1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1xqLo6KEVhIQ7kNvwGD3GYW&_nc_oc=AdoGDowzlMOOs98hT-GnvPrm3AKvrW4IE6PqDRaCpJUuq1cuvccuChgVAQrIzMmKyys&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=e5OOdr_blY3uL9gawG4ZLg&_nc_ss=7ca8c&oh=00_AQAuUIZ9NjzicZSqWM0o1aXPtBzRNWRuqd1mAIABNeJFNw&oe=6A68714F",
       "caption": "다들 주말에 뭐먹을건지 자랑 좀 해줘\n일단 난 오늘 등 먹었어 ,\n\n#오운완 #gymootd\n\n🏷️ @secrets__fit \n개미허리나시 화이트 FREE\n9부 레깅스 애쉬카키 M\n\n이 옷 허리 밑단이 U라인라 어깨는 예뻐보이고 허리는 얇아보인다\n말해뭐해 재질 탄탄하던데 ,,?\n레깅스는 처음입어보는 재질인데 되게 보드라워 ••. ☺️\n\n#여자운동복추천 #여자운동복코디 #레깅스추천\n\n내 일상엔 항상 더단백이 있오☀️ 아침 운동 후 한 잔\n🌅중간에 배고플때 한 잔 \n🌖저녁에 한 쟌\n\n#더단백 #더단백챌린저스 #더단백챌린저스11기\n#더단",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "_042so",
       "metrics": {
-        "likes": 469,
+        "likes": 472,
         "comments": 131
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 469,
           "comments": 131
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": 472,
+          "comments": 131
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 329.5,
+        "eng_median": 332.5,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 20,
       "computed": {
-        "er": 0.15026296018031554,
-        "vs_baseline": 1.8209408194233687,
-        "cost_per_eng": 431.0,
+        "er": 0.1504491017964072,
+        "vs_baseline": 1.8135338345864662,
+        "cost_per_eng": 428.8557213930348,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.82배 참여로 팔로워 규모 대비 높은 반응을 이끌어냈으며, 참여 1건당 433원으로 비용 효율성도 양호한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 469 · 댓글 131 · ER 15.0% · 평소대비 1.8x (D+20)"
+      "last_written_reaction": "좋아요 472 · 댓글 131 · ER 15.0% · 평소대비 1.8x (D+20)"
     },
     {
       "notion_row_id": "a2d39eba-97ed-82ec-b35f-812326a96de3",
@@ -207,7 +225,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-02T02:29:49.000Z",
       "permalink": "https://www.instagram.com/p/DaRhZFFExvP/",
-      "thumbnail": "https://instagram.fsan1-1.fna.fbcdn.net/v/t51.82787-15/731211115_17972113842111873_2452810469806851750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMjA2NjkwOTM0MDMyNTY0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WpvQz5yFtSIQ7kNvwFY-MmY&_nc_oc=Adp9dSJOHjudf4OItmyWwfusE3mhqUacNVsvvJdCX3TZQ-FfFvYujILwSBeIQFcappoL4B5ShylQREJFoJNSMP7I&_nc_zt=23&_nc_ht=instagram.fsan1-1.fna&_nc_gid=3OyJwXTa0919yABetFM4rg&_nc_ss=72689&oh=00_AQA_8OhApSlIVfCds5owKhldsvscJ8P5mqNydNLjKuD6oA&oe=6A67F457",
+      "thumbnail": "https://instagram.fsan1-1.fna.fbcdn.net/v/t51.82787-15/731211115_17972113842111873_2452810469806851750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMjA2NjkwOTM0MDMyNTY0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WpvQz5yFtSIQ7kNvwEnacSf&_nc_oc=AdouvQ2rpgRHBtY6PVgLJUj5P9XxCwc1WoRYPohbQxGpvwMK3LazFep5L3VwIKAGwlDBDPCvklt76O1j5K0Zzyai&_nc_zt=23&_nc_ht=instagram.fsan1-1.fna&_nc_gid=PzVc9EHTeSGXqs7qZdy66g&_nc_ss=72689&oh=00_AQDG5YfDNj89XV2gNJShoT3--ghHz_aaeOQ0dQXQFKbswg&oe=6A6864D7",
       "caption": "다이어트 순항중 💨💨 근육증량 순항중 💨💨\n\n-\n🏷️ #숭_운동복추천 @secrets__fit \n그램버튼 브라운 S\nV컷 부츠컷 애쉬카키 M\n-\n\n예전에 다니던 헬스장 오랜믄에 왔는데 넓고 아주 좋다리 ㅋ\n근데 옷도 예뻐서 더 좋다링 ㅋㅋ\n\n#시크릿스 #여자운동복추천\n\n트임이 너무 편하다리 통풍이된다리 꽉 안쪼여서 좋다리\n\n나 어때요\n\n#gymmotıvatıon\n\n순간순간 사랑하고 행복하세요 ~🍀\n오늘의 부정은 버리고 긍정으로 가지고가자\n\n#긍정확언",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -216,10 +234,16 @@
         "likes": 227,
         "comments": 130
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 227,
+          "comments": 130
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 227,
           "comments": 130
@@ -227,15 +251,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 329.5,
+        "eng_median": 332.5,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 21,
       "computed": {
-        "er": 0.08940646130728776,
-        "vs_baseline": 1.0834597875569043,
+        "er": 0.08907185628742514,
+        "vs_baseline": 1.0736842105263158,
         "cost_per_eng": 724.3697478991596,
         "cost_per_view": null
       },
@@ -253,6 +277,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c8839eba-97ed-8301-b25b-019c1a8af183",
-  "followers": 3993,
-  "last_written_score": 111
+  "followers": 4008,
+  "last_written_score": 110
 }

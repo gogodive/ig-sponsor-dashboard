@@ -25,43 +25,49 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T07:44:28.000Z",
       "permalink": "https://www.instagram.com/p/DauaJP0kesI/",
-      "thumbnail": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/744537808_18003113394031148_2320856513354401136_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0MDIwMTQ3OTA5MjMxNDczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sdypmgYDScoQ7kNvwGXSbPh&_nc_oc=Ado_f4rnHq0aMR8BRrVmwRkktfP2iqiLk5Ineit3Jqu587pUND3ATsnXNSZjt182BfRTU2WIIi86B1shqtoqv5sp&_nc_zt=23&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=UXrbtngj7QJ46XlRhK5VDw&_nc_ss=7c689&oh=00_AQBF6cDzsZGLKUH4SWZCrKI4kWAmdjYVU9PC5JhcM2TjpQ&oe=6A67F84C",
+      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/744537808_18003113394031148_2320856513354401136_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0MDIwMTQ3OTA5MjMxNDczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sdypmgYDScoQ7kNvwFnUyZs&_nc_oc=AdqE2LOczXnxDlxJ6tnikTyQkEnJuIJYG6S83BrKytV90jbSLKUisyTIEqdzTmg1FQs&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=UPeoue5AtF7M5JSrW-hfJA&_nc_ss=7ca8c&oh=00_AQAwOMX2btlC-505qc73H0jE4srjH3zM4xGJzdbJHA8qdw&oe=6A6868CC",
       "caption": "몸 좋아보이는 운동복은 시크릿스\n.\nTop - 글램버튼 s\nBottom - v컷 9부 m\n.\n@secrets__fit \n#시크릿스 #운동복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "5.___.hi",
       "metrics": {
-        "likes": 328,
+        "likes": 331,
         "comments": 11
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
           "views": null,
           "likes": 328,
           "comments": 11
+        },
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": 331,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 356.0,
+        "eng_median": 368.5,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 10,
       "computed": {
-        "er": 0.02776185406600606,
-        "vs_baseline": 0.952247191011236,
-        "cost_per_eng": 262.5368731563422,
+        "er": 0.02802130274477673,
+        "vs_baseline": 0.9280868385345997,
+        "cost_per_eng": 260.233918128655,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 1.01배로 반응이 평이하나, 참여 1건당 263원으로 비용 효율은 양호한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 328 · 댓글 11 · ER 2.8% · 평소대비 1.0x (D+10)"
+      "last_written_reaction": "좋아요 331 · 댓글 11 · ER 2.8% · 평소대비 0.9x (D+10)"
     }
   ],
   "flags": {
@@ -71,6 +77,6 @@
     "account_unavailable": false
   },
   "child_db_id": "88539eba-97ed-8290-81e1-81e879443ce1",
-  "followers": 12211,
-  "last_written_score": 95
+  "followers": 12205,
+  "last_written_score": 93
 }

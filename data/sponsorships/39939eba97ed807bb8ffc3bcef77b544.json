@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T09:27:14.000Z",
       "permalink": "https://www.instagram.com/p/DbDMQ_mEXrY/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0NjA1MDEyMDI1NjQzNDg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7zo3D0I2XP4Q7kNvwFfsLch&_nc_oc=AdpDYSyzKP6fMj577Zsq54-f0nfN4AoU6pxTFNTbaFspLK3QAuLzeK6kyudaeIOmDbE5khmnvlmRHRH8U5HHbhVW&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=54QLmXAD6xvpKaTYZZeh6g&_nc_ss=72689&oh=00_AQBvon3K3LGCY53neCrEo7sZxaS7qy-tOFzusdP-XjF3WA&oe=6A67BE65",
+      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0NjA1MDEyMDI1NjQzNDg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7zo3D0I2XP4Q7kNvwF6I3m7&_nc_oc=AdonXvcKPJcmlo_cRGI8iVAE-uF-ybYRzTAQM97Ipo66nPMRTOr6pmwNZFgWf-x1xg4&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=JAPtYvCZAekxd4WHoKaNTw&_nc_ss=7ca8c&oh=00_AQCekvQBU_oW_uZBV6FLoj4xrBWzrUCJjgRzFT1lCslqHw&oe=6A686725",
       "caption": "#협찬  @laserin_swim \n진짜 너무 예쁘자나 이수영복?\n너무 좋아하는 색 조합💚🩷\n\n울릉도 또와야지~~💦",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,10 +34,16 @@
         "likes": 57,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-23T21:09:07.107766+09:00",
+      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
       "history": [
         {
           "d": "2026-07-23",
+          "views": null,
+          "likes": 57,
+          "comments": 2
+        },
+        {
+          "d": "2026-07-24",
           "views": null,
           "likes": 57,
           "comments": 2
@@ -45,15 +51,15 @@
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 101.5,
+        "eng_median": 100.0,
         "n": 12,
-        "captured_at": "2026-07-23T21:09:07.107766+09:00"
+        "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
       "days_since_post": 2,
       "computed": {
         "er": 0.11411992263056092,
-        "vs_baseline": 0.5812807881773399,
+        "vs_baseline": 0.59,
         "cost_per_eng": 1593.2203389830509,
         "cost_per_view": null
       },
@@ -72,5 +78,5 @@
   },
   "child_db_id": "28a39eba-97ed-83d6-bd43-01cf1d2631f8",
   "followers": 517,
-  "last_written_score": 58
+  "last_written_score": 59
 }

@@ -52,7 +52,7 @@
       "frozen": false,
       "days_since_post": 21,
       "computed": {
-        "er": 0.004343493701934132,
+        "er": 0.004343715665482791,
         "vs_baseline": 0.7327586206896551,
         "cost_per_eng": 376.47058823529414,
         "cost_per_view": null
@@ -97,9 +97,9 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
-        "er": 0.0051099925905107434,
+        "er": 0.005110253724097401,
         "vs_baseline": 0.8620689655172413,
         "cost_per_eng": 320.0,
         "cost_per_view": null
@@ -108,7 +108,7 @@
         "one_liner": "평소 대비 0.78x로 저조한 반응이나, 참여 1건당 320원으로 비용 효율은 수용 가능한 수준.",
         "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
       },
-      "last_written_reaction": "좋아요 190 · 댓글 10 · ER 0.5% · 평소대비 0.9x (D+26)"
+      "last_written_reaction": "좋아요 190 · 댓글 10 · ER 0.5% · 평소대비 0.9x (D+27)"
     }
   ],
   "flags": {
@@ -118,6 +118,6 @@
     "account_unavailable": false
   },
   "child_db_id": "25b39eba-97ed-8208-a80a-01289929d53e",
-  "followers": 39139,
+  "followers": 39137,
   "last_written_score": 80
 }
