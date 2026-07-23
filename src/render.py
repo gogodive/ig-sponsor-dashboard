@@ -12,11 +12,11 @@ KST = timezone(timedelta(hours=9))
 _TEMPLATE_DIR = Path(__file__).parent
 
 BRAND_COLORS = {
-    "인투더블루": "#1565c0",
-    "딥바이브": "#e65100",
-    "고고다이브": "#2e7d32",
-    "라세린": "#ad1457",
-    "시크릿스": "#6d4c41",
+    "고고다이브": "#1565c0",   # 파란색
+    "딥바이브": "#00acc1",     # 아쿠아
+    "라세린": "#d81b60",       # 핑크
+    "시크릿스": "#6d4c41",     # 브라운
+    "인투더블루": "#303f9f",   # 네이비 (파랑은 고고다이브 사용)
     "기타": "#616161",
 }
 BRAND_ORDER = ["고고다이브", "인투더블루", "딥바이브", "라세린", "시크릿스", "기타"]
@@ -217,6 +217,7 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
         kpi=kpi,
         flags=flags,
         digest=digest,
+        brand_colors=BRAND_COLORS,
         ranking_reels=_ranking(visible, "릴스"),
         ranking_feeds=_ranking(visible, "피드"),
         agg_brand=_agg(visible, _primary_brand),

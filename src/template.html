@@ -290,7 +290,8 @@
         <table class="agg rank">
           <tr><th>#</th><th>계정</th><th>브랜드</th><th>릴스</th><th>총 조회</th><th>상품가액</th><th>조회당 비용</th><th>반응도</th></tr>
           {% for it in ranking_reels %}
-          <tr><td>{{ loop.index }}</td>
+          {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
+          <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
               <td>{{ it.posts_n }}</td>
@@ -306,7 +307,8 @@
         <table class="agg rank">
           <tr><th>#</th><th>계정</th><th>브랜드</th><th>피드</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>반응도</th></tr>
           {% for it in ranking_feeds %}
-          <tr><td>{{ loop.index }}</td>
+          {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
+          <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
               <td>{{ it.posts_n }}</td>
@@ -326,7 +328,8 @@
     <table class="agg">
       <tr><th>브랜드</th><th>협찬 건</th><th>게시물</th><th>상품가액 합</th><th>평균 평소대비</th><th>평균 참여당 비용</th><th>플래그</th></tr>
       {% for a in agg_brand %}
-      <tr><td>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
+      <tr style="background:{{ brand_colors.get(a.key, '#616161') }}14">
+          <td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:{{ brand_colors.get(a.key, '#616161') }};margin-right:6px;vertical-align:-1px;"></span>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
           <td>{{ a.value | krw }}</td><td>{{ a.vs_mean | x }}</td>
           <td>{{ a.cpe_mean | krw }}</td><td>{{ a.flags }}</td></tr>
       {% endfor %}
