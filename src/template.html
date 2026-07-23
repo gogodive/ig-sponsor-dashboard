@@ -110,6 +110,10 @@
   table.agg th, table.agg td { padding:8px 10px; text-align:right; border-bottom:1px solid #f0f0f0; }
   table.agg th:first-child, table.agg td:first-child { text-align:left; }
   table.agg th { background:#f7f7f7; color:var(--sub); font-weight:600; }
+  table.rank th:nth-child(1), table.rank td:nth-child(1) { width:36px; text-align:right;
+                                                           color:var(--sub); }
+  table.rank th:nth-child(2), table.rank td:nth-child(2),
+  table.rank th:nth-child(3), table.rank td:nth-child(3) { text-align:left; }
   .foot { color:var(--sub); font-size:11px; margin:24px 0 40px; line-height:1.6; }
   @media (max-width:1100px){ .posts { flex-direction:column; }
     .zone + .zone { border-left:0; border-top:1px solid #f0f0f0; }
@@ -271,12 +275,12 @@
     <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
       반응도가 "그 계정 평소 대비"(상대치)라면, 이 표는 "같은 돈으로 얼마나 샀나"(절대치).
       협찬 비용이 비슷하다면 <b>참여당 비용이 낮은 계정</b>이 절대 성과가 높은 계정입니다.</div>
-    <table class="agg">
+    <table class="agg rank">
       <tr><th>#</th><th>계정</th><th>브랜드</th><th>게시물</th><th>총 조회</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>조회당 비용</th><th>반응도</th></tr>
       {% for it in ranking %}
       <tr><td>{{ loop.index }}</td>
-          <td style="text-align:left"><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
-          <td style="text-align:left">{{ it.row.brands | join(', ') }}</td>
+          <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
+          <td>{{ it.row.brands | join(', ') }}</td>
           <td>{{ it.posts_n }}</td>
           <td>{{ it.views | num }}</td>
           <td>{{ it.eng | num }}</td>
