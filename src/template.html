@@ -273,6 +273,30 @@
 </section>
 {% endfor %}
 
+  {% if ranking %}
+  <div class="aggwrap">
+    <h2>🏆 비용 효율 랭킹 (절대 성과)</h2>
+    <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
+      반응도가 "그 계정 평소 대비"(상대치)라면, 이 표는 "같은 돈으로 얼마나 샀나"(절대치).
+      협찬 비용이 비슷하다면 <b>참여당 비용이 낮은 계정</b>이 절대 성과가 높은 계정입니다.</div>
+    <table class="agg">
+      <tr><th>#</th><th>계정</th><th>브랜드</th><th>게시물</th><th>총 조회</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>조회당 비용</th><th>반응도</th></tr>
+      {% for it in ranking %}
+      <tr><td>{{ loop.index }}</td>
+          <td style="text-align:left"><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
+          <td style="text-align:left">{{ it.row.brands | join(', ') }}</td>
+          <td>{{ it.posts_n }}</td>
+          <td>{{ it.views | num }}</td>
+          <td>{{ it.eng | num }}</td>
+          <td>{{ it.row.product_value_krw | krw }}</td>
+          <td>{{ it.cpe | krw }}</td>
+          <td>{% if it.cpv is not none %}{{ "%.1f" | format(it.cpv) }}원{% else %}–{% endif %}</td>
+          <td>{% if it.row.last_written_score is defined and it.row.last_written_score is not none %}{{ it.row.last_written_score }}{% else %}–{% endif %}</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+  {% endif %}
+
   <div class="aggwrap">
     <h2>브랜드별 집계</h2>
     <table class="agg">

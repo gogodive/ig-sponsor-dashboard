@@ -93,3 +93,5 @@ def test_render_aggregates():
     assert "브랜드별 집계" in html
     assert "담당자별 집계" in html
     assert "서채윤" in html
+    assert "비용 효율 랭킹" in html
+    assert "총 참여" in html

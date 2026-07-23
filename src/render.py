@@ -127,6 +127,32 @@ def _agg(rows: list[dict], key_fn) -> list[dict]:
     return out
 
 
+def _ranking(rows: list[dict], limit: int = 20) -> list[dict]:
+    """협찬 건별 절대 성과 랭킹 — 참여당 비용 낮은 순 (비용 미상은 참여 많은 순 뒤에)."""
+    items = []
+    for r in rows:
+        views = eng = 0
+        n = 0
+        for p in r.get("posts", []):
+            if not p.get("metrics_updated_at"):
+                continue
+            m = p.get("metrics", {})
+            n += 1
+            if isinstance(m.get("views"), int):
+                views += m["views"]
+            eng += (m.get("likes") or 0) + (m.get("comments") or 0)
+        if n == 0:
+            continue
+        value = r.get("product_value_krw")
+        items.append({
+            "row": r, "posts_n": n, "views": views or None, "eng": eng or None,
+            "cpe": (value / eng) if value and eng else None,
+            "cpv": (value / views) if value and views else None,
+        })
+    items.sort(key=lambda x: (x["cpe"] is None, x["cpe"] or 0, -(x["eng"] or 0)))
+    return items[:limit]
+
+
 def render_html(rows: list[dict], flags: dict, digest: dict | None,
                 generated_at: datetime) -> str:
     env = Environment(
@@ -183,6 +209,7 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
         kpi=kpi,
         flags=flags,
         digest=digest,
+        ranking=_ranking(visible),
         agg_brand=_agg(visible, _primary_brand),
         agg_manager=_agg(visible, lambda r: r.get("manager")),
         generated_label=generated_at.astimezone(KST).strftime("%Y-%m-%d %H:%M"),
