@@ -48,6 +48,20 @@ def _fmt_krw(v) -> str:
     return f"{v:,.0f}원"
 
 
+def _fmt_date(ts) -> str:
+    """ISO datetime('2026-07-10T07:11:00Z') 또는 'YYYY-MM-DD' → KST 날짜."""
+    if not ts or isinstance(ts, Undefined):
+        return ""
+    ts = str(ts)
+    try:
+        dt = datetime.fromisoformat(ts.replace("+0000", "+00:00").replace("Z", "+00:00"))
+        if dt.tzinfo:
+            dt = dt.astimezone(KST)
+        return dt.strftime("%Y-%m-%d")
+    except ValueError:
+        return ts[:10]
+
+
 def _thumb_proxy(url) -> str:
     """인스타 CDN 은 CORP: same-origin 이라 weserv 이미지 프록시를 경유시킨다."""
     if not url or isinstance(url, Undefined):
@@ -123,6 +137,7 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
     env.filters["pct"] = _fmt_pct
     env.filters["x"] = _fmt_x
     env.filters["krw"] = _fmt_krw
+    env.filters["date"] = _fmt_date
     env.filters["thumb"] = _thumb_proxy
     tpl = env.get_template("template.html")
 

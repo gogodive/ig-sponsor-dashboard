@@ -23,6 +23,7 @@ def _row(**kw):
 POST = {
     "notion_row_id": "n1", "url": "https://www.instagram.com/reel/ABC/",
     "shortcode": "ABC", "media_kind": "릴스", "permalink": "https://www.instagram.com/reel/ABC/",
+    "posted_at": "2026-07-18T10:30:00+00:00",
     "thumbnail": "https://cdn/x.jpg", "frozen": False, "days_since_post": 5,
     "metrics": {"views": 12000, "likes": 800, "comments": 55},
     "metrics_updated_at": NOW.isoformat(),
@@ -48,6 +49,7 @@ def test_render_normal_row():
     assert "평소대비" in html and "2.0x" in html
     assert "4.5%" in html               # ER
     assert "polyline" in html           # 스파크라인
+    assert "2026-07-18" in html         # 게시날짜 (UTC 10:30 → KST 같은 날)
     assert "라세린" in html
 
 

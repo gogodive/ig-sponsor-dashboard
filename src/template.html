@@ -62,6 +62,7 @@
   .badge.live { background:var(--accent); }
   .badge.frozen { background:#8e8e8e; }
   .badge.kind { background:#455a64; }
+  .pdate { font-size:11px; color:var(--sub); }
   .vs { font-weight:700; }
   .vs.good { color:var(--good); } .vs.mid { color:var(--mid); }
   .vs.bad { color:var(--bad); } .vs.na { color:var(--sub); font-weight:400; }
@@ -172,6 +173,8 @@
         <div class="body">
           <div class="top">
             <span class="badge kind">{{ p.media_kind }}</span>
+            {% set pdate = (p.posted_at or p.upload_date_notion) | date %}
+            {% if pdate %}<span class="pdate">{{ pdate }}</span>{% endif %}
             {% if p.frozen %}<span class="badge frozen">확정</span>
             {% elif p.metrics_updated_at %}<span class="badge live">D+{{ p.days_since_post }}</span>
             {% else %}<span class="badge frozen">수집 대기</span>{% endif %}
