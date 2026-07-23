@@ -15,7 +15,7 @@
            display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; }
   header h1 { font-size:17px; }
   header .updated { color:var(--sub); font-size:12px; }
-  .wrap { max-width:960px; margin:0 auto; padding:0 16px; }
+  .wrap { max-width:1200px; margin:0 auto; padding:0 16px; }
   .kpis { display:flex; gap:10px; flex-wrap:wrap; margin:14px 0; }
   .kpi { background:#fff; border:1px solid var(--line); border-radius:8px;
          padding:10px 16px; min-width:120px; }
@@ -63,7 +63,15 @@
   .rowhead .chip.status-done { background:#fce4ec; color:#ad1457; }
   .rowhead .score { margin-left:auto; font-size:12px; color:var(--sub); }
   .rowhead .score b { font-size:16px; }
-  .posts { display:grid; grid-template-columns:repeat(2,1fr); gap:0; }
+  .posts { display:flex; gap:0; }
+  .zone { flex:1; min-width:0; padding-bottom:6px; }
+  .zone + .zone { border-left:1px solid #f0f0f0; }
+  .zone.reels { background:#f7faff; }
+  .zone.feeds { background:#fffaf5; }
+  .zonehead { font-size:11px; font-weight:700; padding:8px 14px 0; }
+  .zone.reels .zonehead { color:#1565c0; }
+  .zone.feeds .zonehead { color:#e65100; }
+  .zgrid { display:grid; grid-template-columns:repeat(2,1fr); }
   .post { display:flex; gap:10px; padding:12px 14px; border-top:1px solid #f7f7f7; }
   .post .thumb { flex:0 0 84px; width:84px; height:84px; border-radius:6px; overflow:hidden;
                  background:#eee; display:block; position:relative; }
@@ -101,10 +109,65 @@
   table.agg th:first-child, table.agg td:first-child { text-align:left; }
   table.agg th { background:#f7f7f7; color:var(--sub); font-weight:600; }
   .foot { color:var(--sub); font-size:11px; margin:24px 0 40px; line-height:1.6; }
-  @media (max-width:600px){ .posts { grid-template-columns:1fr; } }
+  @media (max-width:900px){ .posts { flex-direction:column; }
+    .zone + .zone { border-left:0; border-top:1px solid #f0f0f0; }
+    .zgrid { grid-template-columns:1fr; } }
 </style>
 </head>
 <body>
+
+{% macro post_card(p) -%}
+      <div class="post">
+        <a class="thumb" href="{{ p.permalink or p.url }}" target="_blank" rel="noopener">
+          {% if p.thumbnail %}<img src="{{ p.thumbnail | thumb }}" alt="" loading="lazy"
+               referrerpolicy="no-referrer"
+               onerror="this.outerHTML='&lt;div class=noimg&gt;이미지 만료&lt;/div&gt;'">
+          {% else %}<div class="noimg">이미지 없음</div>{% endif %}
+        </a>
+        <div class="body">
+          <div class="top">
+            <span class="badge kind">{{ p.media_kind }}</span>
+            {% set pdate = (p.posted_at or p.upload_date_notion) | date %}
+            {% if pdate %}<span class="pdate">{{ pdate }}</span>{% endif %}
+            {% if p.frozen %}<span class="badge frozen">확정</span>
+            {% elif p.metrics_updated_at %}<span class="badge live">D+{{ p.days_since_post }}</span>
+            {% else %}<span class="badge frozen">수집 대기</span>{% endif %}
+            <span class="vs {{ p._vs_class }}">
+              {% if p.computed and p.computed.vs_baseline is not none %}평소대비 {{ p.computed.vs_baseline | x }}
+              {% elif p.metrics_updated_at %}기준치 부족{% endif %}
+            </span>
+          </div>
+          {% if p.metrics_updated_at %}
+          <div class="mrow">
+            {% if p.metrics.views %}<span>▶ <b>{{ p.metrics.views | num }}</b></span>{% endif %}
+            <span>❤️ <b>{{ p.metrics.likes | num }}</b></span>
+            <span>💬 <b>{{ p.metrics.comments | num }}</b></span>
+            {% if p.computed.er is not none %}<span>ER <b>{{ p.computed.er | pct }}</b></span>{% endif %}
+          </div>
+          <div class="mrow cost">
+            {% if p.computed.cost_per_eng is not none %}<span>참여당 {{ p.computed.cost_per_eng | krw }}</span>{% endif %}
+            {% if p.computed.cost_per_view is not none %}<span>조회당 {{ "%.1f" | format(p.computed.cost_per_view) }}원</span>{% endif %}
+          </div>
+          {% set spark = p._spark_views or p._spark_likes %}
+          {% if spark %}
+          <div class="spark">
+            <svg width="120" height="28" viewBox="0 0 120 28">
+              <polyline points="{{ spark }}" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
+            </svg>
+            <span class="lbl">{{ '조회수' if p._spark_views else '좋아요' }} 30일 추이</span>
+          </div>
+          {% endif %}
+          {% else %}
+          <div class="mrow">아직 지표가 수집되지 않았습니다</div>
+          {% endif %}
+          {% if p.analysis and p.analysis.final_verdict %}
+          <div class="ai final"><span class="tag">최종</span>{{ p.analysis.final_verdict }}</div>
+          {% elif p.analysis and p.analysis.one_liner %}
+          <div class="ai"><span class="tag">AI</span>{{ p.analysis.one_liner }}</div>
+          {% endif %}
+        </div>
+      </div>
+{%- endmacro %}
 
 <header>
   <h1>협찬 인플루언서 성과</h1>
@@ -265,59 +328,21 @@
       {% if r.last_written_score is defined and r.last_written_score is not none %}
       <span class="score">반응도 <b>{{ r.last_written_score }}</b></span>{% endif %}
     </div>
+    {% set reels = r.posts | selectattr('media_kind', 'equalto', '릴스') | list %}
+    {% set feeds = r.posts | rejectattr('media_kind', 'equalto', '릴스') | list %}
     <div class="posts">
-      {% for p in r.posts %}
-      <div class="post">
-        <a class="thumb" href="{{ p.permalink or p.url }}" target="_blank" rel="noopener">
-          {% if p.thumbnail %}<img src="{{ p.thumbnail | thumb }}" alt="" loading="lazy"
-               referrerpolicy="no-referrer"
-               onerror="this.outerHTML='&lt;div class=noimg&gt;이미지 만료&lt;/div&gt;'">
-          {% else %}<div class="noimg">이미지 없음</div>{% endif %}
-        </a>
-        <div class="body">
-          <div class="top">
-            <span class="badge kind">{{ p.media_kind }}</span>
-            {% set pdate = (p.posted_at or p.upload_date_notion) | date %}
-            {% if pdate %}<span class="pdate">{{ pdate }}</span>{% endif %}
-            {% if p.frozen %}<span class="badge frozen">확정</span>
-            {% elif p.metrics_updated_at %}<span class="badge live">D+{{ p.days_since_post }}</span>
-            {% else %}<span class="badge frozen">수집 대기</span>{% endif %}
-            <span class="vs {{ p._vs_class }}">
-              {% if p.computed and p.computed.vs_baseline is not none %}평소대비 {{ p.computed.vs_baseline | x }}
-              {% elif p.metrics_updated_at %}기준치 부족{% endif %}
-            </span>
-          </div>
-          {% if p.metrics_updated_at %}
-          <div class="mrow">
-            {% if p.metrics.views %}<span>▶ <b>{{ p.metrics.views | num }}</b></span>{% endif %}
-            <span>❤️ <b>{{ p.metrics.likes | num }}</b></span>
-            <span>💬 <b>{{ p.metrics.comments | num }}</b></span>
-            {% if p.computed.er is not none %}<span>ER <b>{{ p.computed.er | pct }}</b></span>{% endif %}
-          </div>
-          <div class="mrow cost">
-            {% if p.computed.cost_per_eng is not none %}<span>참여당 {{ p.computed.cost_per_eng | krw }}</span>{% endif %}
-            {% if p.computed.cost_per_view is not none %}<span>조회당 {{ "%.1f" | format(p.computed.cost_per_view) }}원</span>{% endif %}
-          </div>
-          {% set spark = p._spark_views or p._spark_likes %}
-          {% if spark %}
-          <div class="spark">
-            <svg width="120" height="28" viewBox="0 0 120 28">
-              <polyline points="{{ spark }}" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
-            </svg>
-            <span class="lbl">{{ '조회수' if p._spark_views else '좋아요' }} 30일 추이</span>
-          </div>
-          {% endif %}
-          {% else %}
-          <div class="mrow">아직 지표가 수집되지 않았습니다</div>
-          {% endif %}
-          {% if p.analysis and p.analysis.final_verdict %}
-          <div class="ai final"><span class="tag">최종</span>{{ p.analysis.final_verdict }}</div>
-          {% elif p.analysis and p.analysis.one_liner %}
-          <div class="ai"><span class="tag">AI</span>{{ p.analysis.one_liner }}</div>
-          {% endif %}
-        </div>
+      {% if reels %}
+      <div class="zone reels">
+        <div class="zonehead">▶ 릴스 {{ reels | length }}</div>
+        <div class="zgrid">{% for p in reels %}{{ post_card(p) }}{% endfor %}</div>
       </div>
-      {% endfor %}
+      {% endif %}
+      {% if feeds %}
+      <div class="zone feeds">
+        <div class="zonehead">🖼 피드 {{ feeds | length }}</div>
+        <div class="zgrid">{% for p in feeds %}{{ post_card(p) }}{% endfor %}</div>
+      </div>
+      {% endif %}
     </div>
   </div>
   {% else %}
