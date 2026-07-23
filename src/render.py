@@ -127,14 +127,19 @@ def _agg(rows: list[dict], key_fn) -> list[dict]:
     return out
 
 
-def _ranking(rows: list[dict], limit: int = 20) -> list[dict]:
-    """협찬 건별 절대 성과 랭킹 — 참여당 비용 낮은 순 (비용 미상은 참여 많은 순 뒤에)."""
+def _ranking(rows: list[dict], kind: str, limit: int = 20) -> list[dict]:
+    """협찬 건별 절대 성과 랭킹 (유형별). kind='릴스'는 조회당 비용, '피드'는 참여당 비용 순.
+
+    상품가액은 협찬 건 전체 기준(피드+릴스 포함)이라 유형 분리 시에도 그대로 사용.
+    """
+    want_reel = kind == "릴스"
     items = []
     for r in rows:
-        views = eng = 0
-        n = 0
+        views = eng = n = 0
         for p in r.get("posts", []):
             if not p.get("metrics_updated_at"):
+                continue
+            if ((p.get("media_kind") or "피드") == "릴스") != want_reel:
                 continue
             m = p.get("metrics", {})
             n += 1
@@ -149,7 +154,10 @@ def _ranking(rows: list[dict], limit: int = 20) -> list[dict]:
             "cpe": (value / eng) if value and eng else None,
             "cpv": (value / views) if value and views else None,
         })
-    items.sort(key=lambda x: (x["cpe"] is None, x["cpe"] or 0, -(x["eng"] or 0)))
+    if want_reel:
+        items.sort(key=lambda x: (x["cpv"] is None, x["cpv"] or 0, -(x["views"] or 0)))
+    else:
+        items.sort(key=lambda x: (x["cpe"] is None, x["cpe"] or 0, -(x["eng"] or 0)))
     return items[:limit]
 
 
@@ -209,7 +217,8 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
         kpi=kpi,
         flags=flags,
         digest=digest,
-        ranking=_ranking(visible),
+        ranking_reels=_ranking(visible, "릴스"),
+        ranking_feeds=_ranking(visible, "피드"),
         agg_brand=_agg(visible, _primary_brand),
         agg_manager=_agg(visible, lambda r: r.get("manager")),
         generated_label=generated_at.astimezone(KST).strftime("%Y-%m-%d %H:%M"),
