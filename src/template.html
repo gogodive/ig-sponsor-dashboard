@@ -159,6 +159,7 @@
       {% for b in r.brands %}<span class="chip">{{ b }}</span>{% endfor %}
       <span class="chip">담당 {{ r.manager or '미지정' }}</span>
       {% if r.followers %}<span class="chip">팔로워 {{ r.followers | num }}</span>{% endif %}
+      {% if r.flags.account_unavailable %}<span class="chip" style="background:#ffebee;color:#c62828;">⚠️ 계정 조회 불가 (비공개/삭제/개명?)</span>{% endif %}
       {% if r.product_value_krw %}<span class="chip">{{ r.product_value_krw | krw }}</span>{% endif %}
       {% if r.last_written_score is defined and r.last_written_score is not none %}
       <span class="score">반응도 <b>{{ r.last_written_score }}</b></span>{% endif %}

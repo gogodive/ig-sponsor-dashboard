@@ -145,12 +145,16 @@ def collect_accounts(states: list[dict], cfg: dict, now: datetime) -> dict[str, 
                     followers = fetch_followers(username, actor)
                 except Exception as e:  # noqa: BLE001
                     log.warning("팔로워 조회 실패 @%s: %s", username, str(e).splitlines()[0])
+            # 프로필 조회가 빈 결과(게시물 0·팔로워 없음) → 비공개/삭제/계정명 변경 추정
+            empty_profile = not snap["posts"] and not followers
+            if empty_profile:
+                log.warning("계정 조회 불가 @%s (비공개/삭제/계정명 변경 추정)", username)
             accounts[username] = {
                 "username": username,
                 "followers_count": followers or acc_stored.get("followers_count"),
                 "recent_posts": snap["posts"],
                 "fetched_at": now.isoformat(),
-                "ok": True,
+                "ok": not empty_profile,
             }
         except Exception as e:  # noqa: BLE001
             log.warning("수집 실패 @%s: %s — 저장분 유지", username, str(e).splitlines()[0])
