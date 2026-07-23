@@ -49,7 +49,7 @@
   .rowhead .chip.status-done { background:#fce4ec; color:#ad1457; }
   .rowhead .score { margin-left:auto; font-size:12px; color:var(--sub); }
   .rowhead .score b { font-size:16px; }
-  .posts { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:0; }
+  .posts { display:grid; grid-template-columns:repeat(2,1fr); gap:0; }
   .post { display:flex; gap:10px; padding:12px 14px; border-top:1px solid #f7f7f7; }
   .post .thumb { flex:0 0 84px; width:84px; height:84px; border-radius:6px; overflow:hidden;
                  background:#eee; display:block; position:relative; }
@@ -58,11 +58,13 @@
                         color:var(--sub); font-size:10px; }
   .post .body { flex:1; min-width:0; font-size:12px; }
   .post .top { display:flex; gap:6px; align-items:center; margin-bottom:4px; }
-  .badge { font-size:10px; padding:1px 7px; border-radius:9px; color:#fff; }
+  .badge { font-size:10px; padding:1px 7px; border-radius:9px; color:#fff; white-space:nowrap; }
   .badge.live { background:var(--accent); }
   .badge.frozen { background:#8e8e8e; }
   .badge.kind { background:#455a64; }
-  .pdate { font-size:11px; color:var(--sub); }
+  .pdate { font-size:11px; color:var(--sub); white-space:nowrap; }
+  .vs { white-space:nowrap; }
+  .mrow span, .rowhead .chip { white-space:nowrap; }
   .vs { font-weight:700; }
   .vs.good { color:var(--good); } .vs.mid { color:var(--mid); }
   .vs.bad { color:var(--bad); } .vs.na { color:var(--sub); font-weight:400; }
