@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.35x의 저조한 반응에 참여 1건당 비용 17,154원으로 협찬 효율이 매우 낮은 상태입니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.26배의 저조한 반응과 참여 1건당 2.5만원의 높은 비용으로, 6일차 현재 협찬 효율이 매우 낮은 상태입니다.",
+          "days": 6,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 -1 · 댓글 10 · ER 0.1% · 평소대비 0.3x (D+6)"
     },
@@ -88,7 +93,7 @@
         "likes": -1,
         "comments": 13
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,7 +124,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.57배 저조한 도달에 참여당 비용 13,938원으로 효율이 낮아 콘텐츠 보완 또는 추가 액션이 필요한 상황.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.57x의 저조한 노출에 참여당 비용 18,583원으로 효율이 낮아 추가 액션 검토 필요.",
+          "days": 8,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 6,256 · 좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 0.6x (D+8)"
     }
@@ -128,7 +138,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "8d039eba-97ed-8302-9d56-01c7bc1cccff",
   "followers": 9359,

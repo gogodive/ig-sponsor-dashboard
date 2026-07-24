@@ -34,7 +34,7 @@
         "likes": 192,
         "comments": 35
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": 0.0019819961407828448,
         "vs_baseline": 0.5611866501854141,
@@ -67,14 +67,14 @@
         "one_liner": "평소 대비 0.64x로 기대치 하회, 참여 1건당 505원은 수용 가능하나 릴스 조회 데이터 미확보로 최종 판단 유보 필요.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 192 · 댓글 35 · ER 0.2% · 평소대비 0.6x (D+0)"
+      "last_written_reaction": "좋아요 192 · 댓글 35 · ER 0.2% · 평소대비 0.6x (D+1)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "ce939eba-97ed-837b-a06f-0100b1925439",
   "followers": 114531,

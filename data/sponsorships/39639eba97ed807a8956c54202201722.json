@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-807a-8956-c54202201722",
   "row_title_raw": "mul.suna",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -34,7 +34,7 @@
         "likes": 93,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 0.0708502024291498,
         "vs_baseline": 0.9722222222222222,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.96x로 거의 동일한 성과이나 참여 1건당 663원·참여율 7%로 소규모 계정 대비 비용 효율은 양호한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.97x로 사실상 평균 수준이나, 참여율 7.09%·657원/건으로 소규모 계정 협찬 대비 비용 효율은 양호한 초기 성과.",
+          "days": 10,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 93 · 댓글 12 · ER 7.1% · 평소대비 1.0x (D+9)"
+      "last_written_reaction": "좋아요 93 · 댓글 12 · ER 7.1% · 평소대비 1.0x (D+10)"
     },
     {
       "notion_row_id": "21539eba-97ed-827b-abf3-81ad9d390289",
@@ -88,7 +93,7 @@
         "likes": 88,
         "comments": 6
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -110,7 +115,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 0.06342780026990553,
         "vs_baseline": 0.8439655172413794,
@@ -119,16 +124,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.95x로 소폭 하회하나, 참여당 742원·조회당 17.8원은 소규모 계정 기준 수용 가능한 효율 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.84x로 소폭 미달이나 팔로워 대비 참여율 6.34%·조회당 17.6원은 소규모 계정 기준 무난한 초기 효율.",
+          "days": 10,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 3,916 · 좋아요 88 · 댓글 6 · ER 6.3% · 평소대비 0.8x (D+9)"
+      "last_written_reaction": "조회 3,916 · 좋아요 88 · 댓글 6 · ER 6.3% · 평소대비 0.8x (D+10)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "98e39eba-97ed-8272-ab98-8157eca08567",
   "followers": 1482,

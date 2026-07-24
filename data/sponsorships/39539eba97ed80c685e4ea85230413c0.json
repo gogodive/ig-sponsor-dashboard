@@ -34,7 +34,7 @@
         "likes": 44,
         "comments": 22
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 0.08627450980392157,
         "vs_baseline": null,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "조회수 미확인이나 참여율 8.67%·참여당 985원으로 소규모 계정 대비 비용 효율 양호한 초기 반응.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "조회수 미집계이나 팔로워 대비 참여율 8.63%·1건당 970원으로 소규모 계정 특유의 높은 밀착도가 확인되며 초기 효율은 긍정적이다.",
+          "days": 10,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 44 · 댓글 22 · ER 8.6% (D+9)"
+      "last_written_reaction": "좋아요 44 · 댓글 22 · ER 8.6% (D+10)"
     },
     {
       "notion_row_id": "32f39eba-97ed-828e-8b55-81c6b32824ca",
@@ -87,7 +92,7 @@
         "likes": 72,
         "comments": 20
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -118,7 +123,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2.25배 참여로 팔로워 750명 규모에서 참여당 703원의 효율적인 비용을 달성하며 협찬 효과가 뚜렷하게 나타나고 있음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 1.33배 참여로 팔로워 765명 소규모 계정치고 참여율 12%·건당 696원은 준수한 초기 성과.",
+          "days": 12,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 72 · 댓글 20 · ER 12.0% · 평소대비 1.3x (D+12)"
     }
@@ -127,7 +137,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "63339eba-97ed-837e-9ae2-811b2eab27bc",
   "followers": 765,

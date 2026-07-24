@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.0005319148936170213,
         "vs_baseline": 0.3333333333333333,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.55x의 저조한 반응에 참여 1건당 비용 15,500원으로 효율이 낮아 추가 액션 검토 필요.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.33x 저조한 참여에 참여 1건당 31,000원으로 비용 효율이 매우 낮아 추가 모니터링이 필요합니다.",
+          "days": 11,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.1% · 평소대비 0.3x (D+10)"
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.1% · 평소대비 0.3x (D+11)"
     },
     {
       "notion_row_id": "33d39eba-97ed-8311-8ad2-8172b8044b61",
@@ -88,7 +93,7 @@
         "likes": -1,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -113,7 +118,12 @@
       },
       "analysis": {
         "one_liner": "조회 1,562회·참여율 0.44%로 팔로워 규모 대비 저조하며, 참여 1건당 비용 3,758원은 효율 개선이 필요한 수준입니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "조회 1,583회·참여율 0.39%로 비용 효율(78.3원/회)이 낮고, 좋아요 미집계 상태라 평소 대비 판단 보류—댓글 30건은 유일한 긍정 신호.",
+          "days": 13,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 1,583 · 좋아요 -1 · 댓글 30 · ER 0.4% (D+13)"
     }
@@ -122,7 +132,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "03e39eba-97ed-8257-bc07-01d6b220e2f0",
   "followers": 7520,

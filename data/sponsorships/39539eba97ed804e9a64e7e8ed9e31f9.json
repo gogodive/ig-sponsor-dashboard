@@ -34,7 +34,7 @@
         "likes": 287,
         "comments": 27
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.16배 참여로 준수한 출발, 팔로워 대비 6.39% 참여율과 건당 252원 비용효율로 소규모 계정 대비 안정적 성과.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 1.46배 참여로 팔로워 4,894명 규모에서 참여당 252원의 효율적 비용을 기록하며 순조로운 초기 성과를 보임.",
+          "days": 10,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 287 · 댓글 27 · ER 6.4% · 평소대비 1.5x (D+10)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "77339eba-97ed-824c-821a-01e624e0d663",
   "followers": 4894,

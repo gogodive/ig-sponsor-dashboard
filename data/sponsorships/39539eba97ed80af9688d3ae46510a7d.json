@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2.18배 참여로 기대 이상이나, 참여 1건당 2,875원은 협찬가 대비 다소 높아 효율 개선 여지 있음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 2.22배의 댓글 참여로 반응은 양호하나, 참여율 0.18%·건당 3,450원은 비용 효율 개선 여지가 있음.",
+          "days": 15,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.2% · 평소대비 2.2x (D+15)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "a2b39eba-97ed-8318-975e-8197875ccab4",
   "followers": 11210,

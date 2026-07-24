@@ -34,7 +34,7 @@
         "likes": 98,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.68x로 부진하나 참여 1건당 1,040원·참여율 3.18%는 소규모 계정 기준 수용 가능한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.70x로 다소 저조하나, 참여 1건당 1,030원·참여율 3.21%는 소규모 계정 기준 수용 가능한 수준.",
+          "days": 11,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 98 · 댓글 2 · ER 3.2% · 평소대비 0.7x (D+11)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "e5039eba-97ed-82ce-81b4-818fb77029d4",
   "followers": 3118,

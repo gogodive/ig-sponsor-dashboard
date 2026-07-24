@@ -34,7 +34,7 @@
         "likes": 787,
         "comments": 37
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.62배 참여로 선방했으나 팔로워 대비 참여율 0.80%는 평균 이하—참여 1건당 85원 비용 효율은 양호한 편.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 1.71배 참여로 준수한 출발이나, 팔로워 대비 0.81% 참여율은 개선 여지가 있으며 1건당 84원의 비용 효율은 현 단계에서 양호한 수준.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 787 · 댓글 37 · ER 0.8% · 평소대비 1.7x (D+9)"
     },
@@ -88,7 +93,7 @@
         "likes": 481,
         "comments": 16
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -110,7 +115,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.0048583075103373445,
         "vs_baseline": 0.7303767941727843,
@@ -119,16 +124,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.61x로 저조한 도달률이나 조회당 2.7원·참여당 141원의 비용 효율은 양호한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.73x로 기대치 하회 중이나, 조회당 2.7원·참여당 139원으로 비용 효율은 합리적 수준 — 9일차 확정 전 추이 모니터링 권장.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 25,519 · 좋아요 481 · 댓글 16 · ER 0.5% · 평소대비 0.7x (D+8)"
+      "last_written_reaction": "조회 25,519 · 좋아요 481 · 댓글 16 · ER 0.5% · 평소대비 0.7x (D+9)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "bc539eba-97ed-8261-8bfb-816edc844c27",
   "followers": 102299,

@@ -1,7 +1,7 @@
 {
   "page_id": "39539eba-97ed-808b-a390-f920fce33dce",
   "row_title_raw": "ejact_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.0x로 반응 없이 참여 1건당 7,667원—3.6만 팔로워 계정치고 효율이 매우 저조합니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.59x의 부진한 참여에 건당 비용 13,800원으로, 현시점 성과는 기대치를 밑돌고 있어 추이 모니터링이 필요합니다.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.0% · 평소대비 0.6x (D+9)"
     },
@@ -112,7 +117,12 @@
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 11,500원으로 팔로워 대비 참여율 0.02%에 그쳐 초기 성과가 매우 저조함.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여율 0.02%로 1건당 비용 11,500원은 팔로워 규모 대비 초기 반응이 매우 저조한 수준입니다.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 3 · 댓글 3 · ER 0.0% (D+9)"
     }
@@ -121,7 +131,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "d7339eba-97ed-833f-954f-81a037b9867b",
   "followers": 35741,

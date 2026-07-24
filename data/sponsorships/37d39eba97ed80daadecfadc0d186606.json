@@ -34,7 +34,7 @@
         "likes": 507,
         "comments": 24
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.59x로 저조한 반응, 참여 1건당 241원은 수용 가능하나 반등 없으면 재협찬 재검토 필요",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.59x로 기대 이하 참여율(0.65%)이나, 참여 1건당 241원으로 비용 효율은 수용 가능한 수준.",
+          "days": 13,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 507 · 댓글 24 · ER 0.7% · 평소대비 0.6x (D+13)"
     },
@@ -88,7 +93,7 @@
         "likes": 371,
         "comments": 55
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,7 +124,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.20x의 저조한 확산에 그쳐 조회당 36.8원·참여당 300원으로 비용 효율이 떨어지며, 추가 모니터링이 필요한 상태입니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.09x의 극히 저조한 반응으로 조회당 36.8원·참여당 300원 비용 효율 모두 기대치를 크게 하회, 협찬 효과 미미.",
+          "days": 17,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 3,480 · 좋아요 371 · 댓글 55 · ER 0.5% · 평소대비 0.1x (D+17)"
     }
@@ -128,7 +138,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "62539eba-97ed-83e5-b5ad-015f6fe02c88",
   "followers": 81594,

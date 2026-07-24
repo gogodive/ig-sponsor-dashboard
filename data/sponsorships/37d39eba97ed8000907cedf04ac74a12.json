@@ -50,7 +50,7 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.004343715665482791,
         "vs_baseline": 0.7327586206896551,
@@ -59,9 +59,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.66x로 저조한 반응이며, 참여 1건당 376원은 협찬 효율 개선이 필요한 수준입니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.73x로 저조한 반응, 참여 1건당 376원은 수용 가능하나 팔로워 대비 0.43% 참여율로 추가 확산 기대 어려움.",
+          "days": 22,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 158 · 댓글 12 · ER 0.4% · 평소대비 0.7x (D+21)"
+      "last_written_reaction": "좋아요 158 · 댓글 12 · ER 0.4% · 평소대비 0.7x (D+22)"
     },
     {
       "notion_row_id": "14039eba-97ed-836c-bc96-817bdfdf46e3",
@@ -106,7 +111,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.78x로 저조한 반응이나, 참여 1건당 320원으로 비용 효율은 수용 가능한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.86x로 소폭 저조하나 참여 1건당 320원은 합리적 수준—최종 마감까지 추이 모니터링 권장.",
+          "days": 27,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 190 · 댓글 10 · ER 0.5% · 평소대비 0.9x (D+27)"
     }
@@ -115,7 +125,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "25b39eba-97ed-8208-a80a-01289929d53e",
   "followers": 39137,

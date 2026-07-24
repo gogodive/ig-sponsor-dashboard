@@ -35,7 +35,7 @@
         "likes": 42,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": 0.04941176470588235,
         "vs_baseline": 0.2102047969555856,
@@ -66,9 +66,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 23% 수준의 저조한 조회 확산에 참여당 비용 1,643원으로 소규모 계정 협찬 효율이 기대 이하임.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.21x의 저조한 반응으로 조회당 비용 32.9원·참여당 비용 1,643원 모두 비효율적, 추가 액션 검토 필요.",
+          "days": 3,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 2,099 · 좋아요 42 · 댓글 0 · ER 4.9% · 평소대비 0.2x (D+2)"
+      "last_written_reaction": "조회 2,099 · 좋아요 42 · 댓글 0 · ER 4.9% · 평소대비 0.2x (D+3)"
     },
     {
       "notion_row_id": "fd839eba-97ed-83ff-869e-0182d66aa489",
@@ -88,7 +93,7 @@
         "likes": 53,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -110,7 +115,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": 0.07411764705882352,
         "vs_baseline": 0.8873239436619719,
@@ -119,16 +124,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.89x로 소폭 부진하나, 참여 1건당 1,095원·참여율 7.4%는 소형 계정 기준 비용 효율 양호.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.89x로 소폭 하회하나, 참여당 비용 1,095원·참여율 7.4%는 초소형 계정 기준 양호한 초기 출발.",
+          "days": 3,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 53 · 댓글 10 · ER 7.4% · 평소대비 0.9x (D+2)"
+      "last_written_reaction": "좋아요 53 · 댓글 10 · ER 7.4% · 평소대비 0.9x (D+3)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "60239eba-97ed-8334-b5b1-01388943fdbc",
   "followers": 850,

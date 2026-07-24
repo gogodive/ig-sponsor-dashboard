@@ -1,7 +1,7 @@
 {
   "page_id": "3a539eba-97ed-8092-907b-ccd9a4b385eb",
   "row_title_raw": "toma.___.toma",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -35,7 +35,7 @@
         "likes": 38,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -60,7 +60,12 @@
       },
       "analysis": {
         "one_liner": "팔로워 대비 참여율 5.82%로 소규모 계정 특성상 양호하나, 조회수가 팔로워 수 수준에 그쳐 확산력은 제한적—평소 대비 데이터 확보 후 최종 판단 필요.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "팔로워 688명 소규모 계정에서 참여율 6.1%는 양호하나, 조회 791회·참여당 1,643원 기준으로 비용 효율은 보통 수준이며 평소대비 데이터 확보 후 최종 판단 필요.",
+          "days": 6,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 791 · 좋아요 38 · 댓글 4 · ER 6.1% (D+6)"
     },
@@ -82,7 +87,7 @@
         "likes": 54,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -104,7 +109,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.09593023255813954,
         "vs_baseline": 0.7252747252747253,
@@ -113,16 +118,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.91x로 소폭 하회하나 팔로워 대비 참여율 9.61%·참여당 비용 1,045원은 소규모 계정 특성상 효율적인 수준.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.73x로 부진하나, 팔로워 688명 소규모 계정에서 참여율 9.6%·참여당 1,045원은 비용 효율 측면에서 수용 가능한 수준.",
+          "days": 8,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 54 · 댓글 12 · ER 9.6% · 평소대비 0.7x (D+7)"
+      "last_written_reaction": "좋아요 54 · 댓글 12 · ER 9.6% · 평소대비 0.7x (D+8)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "09739eba-97ed-8360-9684-0116eb95457c",
   "followers": 688,

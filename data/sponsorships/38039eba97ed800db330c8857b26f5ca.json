@@ -35,7 +35,7 @@
         "likes": 63,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.04336188436830835,
         "vs_baseline": 1.342315369261477,
@@ -66,16 +66,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.22배 조회로 소폭 상회하며 참여 1건당 790원·조회당 47.6원은 소규모 계정 기준 준수한 효율이나 절대 수치는 제한적.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.34배 조회·참여율 4.34%로 준수하나, 조회당 47.6원·참여당 790원은 팔로워 규모 고려 시 비용 효율 개선 여지 있음.",
+          "days": 25,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 1,345 · 좋아요 63 · 댓글 18 · ER 4.3% · 평소대비 1.3x (D+24)"
+      "last_written_reaction": "조회 1,345 · 좋아요 63 · 댓글 18 · ER 4.3% · 평소대비 1.3x (D+25)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "e4e39eba-97ed-83c5-a925-81387823484a",
   "followers": 1868,

@@ -34,7 +34,7 @@
         "likes": 583,
         "comments": 40
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.71x로 아쉬운 반응이나, 참여 1건당 237원의 합리적 비용과 1.32% 참여율로 효율 자체는 준수한 편.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.70x로 부진한 출발이나, 참여 1건당 234원·참여율 1.34%는 비용 효율 측면에서 준수한 수준.",
+          "days": 12,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 583 · 댓글 40 · ER 1.3% · 평소대비 0.7x (D+12)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "a6639eba-97ed-8208-b69d-01b06fc0c5b4",
   "followers": 46597,

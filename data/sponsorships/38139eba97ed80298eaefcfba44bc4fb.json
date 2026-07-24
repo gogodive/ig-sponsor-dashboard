@@ -35,7 +35,7 @@
         "likes": 89,
         "comments": 20
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -66,7 +66,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.88배 조회에 참여율 10.2%로 소규모 계정 치고 고효율이며, 참여 1건당 725원은 충분히 납득 가능한 비용 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 2.1배 조회에 참여율 10%로 소규모 계정치고 고효율이나, D+9 시점 조회 1939회는 절대량이 제한적—확산 지속 여부가 최종 판단의 관건.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 1,939 · 좋아요 89 · 댓글 20 · ER 10.3% · 평소대비 2.1x (D+9)"
     }
@@ -75,7 +80,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "44139eba-97ed-8393-bdd2-01a39a27d7a9",
   "followers": 1062,

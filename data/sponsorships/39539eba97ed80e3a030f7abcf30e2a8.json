@@ -15,12 +15,77 @@
   "output_link_prop": null,
   "username": "10.12.16yp",
   "followers_notion": 100000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3a739eba-97ed-80a7-914f-d5649467b814",
+      "url": "https://www.instagram.com/reel/Daxp_-xSE7M/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Daxp_-xSE7M",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "3a739eba-97ed-80d1-b8b9-fb3c3662d314",
+      "url": "https://www.instagram.com/p/Da6yuavkq0b/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da6yuavkq0b",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "3a739eba-97ed-80d6-82bd-e811933970de",
+      "url": "https://www.instagram.com/p/Da4JyeOEq2e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da4JyeOEq2e",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "74939eba-97ed-8313-98e9-01bc15b17f54",
+      "url": "https://www.instagram.com/p/DazoSpkEgix/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DazoSpkEgix",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
-    "account_unavailable": false
+    "overdue_no_output": false,
+    "account_unavailable": true
   },
   "child_db_id": "4c339eba-97ed-83e2-b8c1-01f46f06ee17",
   "followers": 100000

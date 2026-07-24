@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-806e-9844-d37b5f16e598",
   "row_title_raw": "elephantfam_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -35,7 +35,7 @@
         "likes": 270,
         "comments": 87
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": 0.11508704061895551,
         "vs_baseline": 2.8,
@@ -66,16 +66,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2.19배 높은 반응과 참여 1건당 223원의 효율적 비용으로, 소규모 계정임에도 뚜렷한 초과 성과를 기록했습니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 2.8배 조회에 참여율 11.5%로 팔로워 규모 대비 이례적 반응, 참여당 221원은 소형 계정 협찬 효율로 우수하다.",
+          "days": 12,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 4,802 · 좋아요 270 · 댓글 87 · ER 11.5% · 평소대비 2.8x (D+11)"
+      "last_written_reaction": "조회 4,802 · 좋아요 270 · 댓글 87 · ER 11.5% · 평소대비 2.8x (D+12)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "98139eba-97ed-825f-8508-01c778702ab8",
   "followers": 3102,

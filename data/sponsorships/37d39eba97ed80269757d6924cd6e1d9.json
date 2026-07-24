@@ -17,6 +17,50 @@
   "followers_notion": 170000,
   "posts": [
     {
+      "notion_row_id": "3a739eba-97ed-8056-bc28-df2d79dcd60d",
+      "url": "https://www.instagram.com/p/Da7wY4ZE4vG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da7wY4ZE4vG",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-19",
+      "first_seen": "2026-07-24",
+      "posted_at": "2026-07-18T12:08:58.000Z",
+      "permalink": "https://www.instagram.com/p/Da7wY4ZE4vG/",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/749300592_17990800098007912_9065457750426020675_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0Mzk1NjM1OTM2ODQ3Njk4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lsRWikqxftEQ7kNvwF1SU0B&_nc_oc=Adr8BvA4GodqQJJ0V0_WLPOK7aQwYKpm_6Etz442icpev2yqm-LnxH-7-rT8BFBFXmU&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=ZkbW1ZInBnTFh_N4dfNwmg&_nc_ss=7c689&oh=00_AQBggsavbZ4a6MsGWA3UluZP4iGVrnOmNP_DNfgExOsf8Q&oe=6A6870BF",
+      "caption": "화이트 수영복을 찾고 계신다면 🤍 #협찬\n\n이 수영복을 단연 추천드립니다... 🫧\n\n연보라색 끈에.. 화이트 포일이라 비침 걱정없어요!\n두겹이에요 ✨️ \n프다 선생님들 사이에서는 이미 유명한 제품이에요⭐️\n\n✔️라세린 화이트쉘\n\n157 / 41 / 137 \nXs착용\n\n모두 행수하세요 🩷\n\n.\n#수영복 #수영복추천 #라세린 #화이트수영복",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "aubeceli",
+      "metrics": {
+        "likes": -1,
+        "comments": 16
+      },
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "history": [
+        {
+          "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 16
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 5,
+      "computed": {
+        "er": 0.0007249178426445002,
+        "vs_baseline": null,
+        "cost_per_eng": 23666.666666666668,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요 집계 오류(−1)로 정확한 판단이 어려우나, 댓글 16건·참여율 0.07%는 팔로워 대비 매우 저조하며 건당 비용 23,667원은 효율 개선이 필요한 수준입니다.",
+          "days": 5,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.1% (D+5)"
+    },
+    {
       "notion_row_id": "39c39eba-97ed-80e4-89e4-d2dd28c91736",
       "url": "https://www.instagram.com/p/Daq5HYhkwmx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "Daq5HYhkwmx",
@@ -34,7 +78,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +100,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": 0.0004832785617630002,
         "vs_baseline": 3.3333333333333335,
@@ -65,9 +109,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2배 참여를 기록했으나 팔로워 대비 참여율 0.07%·1건당 2.5만원으로 비용 효율은 낮음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 3.33배의 이례적 참여 집중이나 팔로워 대비 참여율 0.05%·건당 비용 35,500원으로 도달 효율은 낮아 추가 관찰이 필요하다.",
+          "days": 12,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 3.3x (D+11)"
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 3.3x (D+12)"
     },
     {
       "notion_row_id": "39c39eba-97ed-80d6-816c-c17d172aba76",
@@ -87,7 +136,7 @@
         "likes": -1,
         "comments": 27
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -118,7 +167,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 4.29x의 이례적 참여 급등이나 팔로워 대비 0.15% 참여율·건당 1.2만원 비용은 실질 도달 효율 개선 여지를 시사한다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 8.67배의 이례적 참여 급등이나, 팔로워 대비 참여율 0.13%·1건당 1.4만원으로 절대 규모는 여전히 미흡.",
+          "days": 23,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 -1 · 댓글 27 · ER 0.1% · 평소대비 8.7x (D+23)"
     },
@@ -176,7 +230,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "be639eba-97ed-8214-8937-8100057393f2",
   "followers": 20692,

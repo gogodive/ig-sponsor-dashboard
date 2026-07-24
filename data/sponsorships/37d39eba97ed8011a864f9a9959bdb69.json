@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 3
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -81,7 +81,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -103,7 +103,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.0012081672103419112,
         "vs_baseline": 2.857142857142857,
@@ -112,16 +112,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.85x 참여로 선방했으나 팔로워 대비 참여율 0.14%·건당 비용 4,583원은 효율 개선이 필요한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 2.86배 댓글 반응은 고무적이나, 참여율 0.12%·건당 비용 5,500원은 규모 대비 효율 개선 여지가 있음.",
+          "days": 18,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.9x (D+17)"
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.9x (D+18)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "55d39eba-97ed-826b-a7a1-0186acb802fe",
   "followers": 16554,

@@ -60,7 +60,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 5.56배 초과 조회로 비용 효율(조회당 3.7원)은 우수하나, 댓글 0건으로 실질 구매 전환 유도력은 미지수.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 5.54배 조회로 노출 효율은 우수하나, 댓글 0건으로 실구매 전환 연결에는 추가 액션이 필요한 시점.",
+          "days": 16,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 21,542 · 좋아요 595 · 댓글 0 · ER 2.1% · 평소대비 5.5x (D+16)"
     },
@@ -90,7 +95,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.017172495969720335,
         "vs_baseline": 2.5322997416020674,
@@ -110,7 +115,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "5f239eba-97ed-8349-843d-8149e7a66b66",
   "followers": 28534,

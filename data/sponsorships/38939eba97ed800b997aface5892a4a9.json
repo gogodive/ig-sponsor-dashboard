@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 24
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.0014332897114725494,
         "vs_baseline": 7.666666666666667,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 3.86배 참여 반응은 긍정적이나, 팔로워 대비 참여율 0.17%·건당 비용 2,185원으로 절대 효율은 아직 낮은 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 7.67배의 이례적 댓글 급증이 눈에 띄나, 좋아요 데이터 오류(-1)와 0.14% 저조한 참여율을 고려하면 건당 비용 2,565원의 효율은 아직 불명확하다.",
+          "days": 25,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.1% · 평소대비 7.7x (D+24)"
+      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.1% · 평소대비 7.7x (D+25)"
     },
     {
       "notion_row_id": "21939eba-97ed-83f7-877d-01d3152f0dd3",
@@ -88,7 +93,7 @@
         "likes": -1,
         "comments": 9
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -104,7 +109,7 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.0004985355518165389,
         "vs_baseline": null,
@@ -113,16 +118,21 @@
       },
       "analysis": {
         "one_liner": "조회 8,842회로 비용 효율(6.7원/뷰)은 양호하나, 좋아요 3·참여율 0.07%로 평소 대비 실질 반응이 극히 저조해 브랜드 인지 외 전환 기대는 낮음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "조회 8,850회로 비용 효율(6.7원/뷰)은 무난하나, 좋아요 집계 오류·참여율 0.05%는 평소 대비 반응이 극히 저조해 브랜드 노출 대비 실질 engagement 효과는 미흡.",
+          "days": 25,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 8,850 · 좋아요 -1 · 댓글 9 · ER 0.0% (D+24)"
+      "last_written_reaction": "조회 8,850 · 좋아요 -1 · 댓글 9 · ER 0.0% (D+25)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "2ce39eba-97ed-83b9-b881-817dc80f163c",
   "followers": 16047,

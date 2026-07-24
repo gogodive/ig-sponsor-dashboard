@@ -34,7 +34,7 @@
         "likes": 48,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.92x로 소폭 하회하나 팔로워 대비 참여율 6.87%·건당 1,519원은 소규모 계정 기준 양호한 효율.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.90x로 소폭 하회하나 팔로워 758명 규모에서 참여율 6.99%·참여당 1,491원은 소형 계정 기준 양호한 효율.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 48 · 댓글 5 · ER 7.0% · 평소대비 0.9x (D+9)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "df039eba-97ed-83d4-bbbf-01857f35d728",
   "followers": 758,

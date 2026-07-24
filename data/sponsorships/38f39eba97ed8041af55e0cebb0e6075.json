@@ -35,7 +35,7 @@
         "likes": 284,
         "comments": 77
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -82,7 +82,7 @@
         "likes": 950,
         "comments": 140
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -113,7 +113,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.30배 참여를 기록하며 팔로워 8.09% 참여율과 54원/건의 효율적인 비용으로 안정적인 초기 성과를 보임.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.55배 참여로 팔로워 8.14% 참여율 달성, 참여 1건당 54원의 우수한 비용 효율로 협찬 대비 고성과 진행 중.",
+          "days": 20,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 950 · 댓글 140 · ER 8.1% · 평소대비 1.6x (D+20)"
     }
@@ -122,7 +127,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "75339eba-97ed-83cf-b243-8130c0f110bb",
   "followers": 13392,

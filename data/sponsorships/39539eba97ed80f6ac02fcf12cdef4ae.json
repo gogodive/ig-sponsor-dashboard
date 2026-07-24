@@ -1,7 +1,7 @@
 {
   "page_id": "39539eba-97ed-80f6-ac02-fcf12cdef4ae",
   "row_title_raw": "swimlog_nana",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -16,6 +16,22 @@
   "username": "swimlog_nana",
   "followers_notion": 2296,
   "posts": [
+    {
+      "notion_row_id": "3a739eba-97ed-805b-bb0f-f5b5f798af32",
+      "url": "https://www.instagram.com/reel/Dau0sQlyadx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dau0sQlyadx",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-17",
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
     {
       "notion_row_id": "a6f39eba-97ed-822d-83ba-81f6d954e07d",
       "url": "https://www.instagram.com/p/DauhxkRGoS9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -59,7 +75,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.25배 참여를 기록하며 463원/건의 효율적 비용 구조로 소규모 계정치고 안정적인 초기 성과를 보임.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 1.26배 참여로 팔로워 규모 감안 시 양호하며, 참여 1건당 460원은 소형 계정 기준 효율적인 수준입니다.",
+          "days": 10,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 120 · 댓글 30 · ER 6.3% · 평소대비 1.3x (D+10)"
     }
@@ -68,7 +89,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "d4939eba-97ed-831f-93a4-015faacf8a4b",
   "followers": 2384,

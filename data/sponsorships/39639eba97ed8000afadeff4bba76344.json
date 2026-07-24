@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.91x로 기준 이하이며, 참여 1건당 4,600원은 소규모 계정 협찬 효율로 개선이 필요한 수준입니다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소대비 1.0x로 반응 변화 없고, 참여 1건당 비용 6,273원은 협찬 가액 대비 효율이 낮아 성과 미흡 단계.",
+          "days": 18,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.2% · 평소대비 1.0x (D+18)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "18239eba-97ed-83d4-9991-01e5c91f67ee",
   "followers": 5188,

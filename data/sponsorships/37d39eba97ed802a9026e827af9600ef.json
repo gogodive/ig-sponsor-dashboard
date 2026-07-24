@@ -34,7 +34,7 @@
         "likes": 288,
         "comments": 25
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.029386912027039715,
         "vs_baseline": 1.3491379310344827,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.30배 참여로 준수한 반응이나, 참여 1건당 252원은 7.9만 원 협찬 대비 개선 여지가 있음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.35배 참여로 선방 중이나, 참여 1건당 252원 비용은 팔로워 규모 고려 시 개선 여지가 있음.",
+          "days": 29,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 288 · 댓글 25 · ER 2.9% · 평소대비 1.3x (D+28)"
+      "last_written_reaction": "좋아요 288 · 댓글 25 · ER 2.9% · 평소대비 1.3x (D+29)"
     },
     {
       "notion_row_id": "6ce39eba-97ed-82cc-9fcb-81d393ccc0fe",
@@ -104,7 +109,7 @@
         "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.03539573748943761,
         "vs_baseline": 1.6507415671347947,

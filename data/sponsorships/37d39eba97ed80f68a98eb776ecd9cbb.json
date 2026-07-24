@@ -34,7 +34,7 @@
         "likes": 131,
         "comments": 29
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.12810248198558846,
         "vs_baseline": 2.1333333333333333,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2.09배 참여를 이끌며 팔로워 대비 참여율 12.8%·건당 431원으로 소규모 계정임에도 비용 효율이 돋보이는 우수한 성과.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 2.13배 참여를 기록하며 팔로워 대비 참여율 12.81%, 건당 431원으로 소규모 계정 대비 효율적인 중간 성과를 보이고 있습니다.",
+          "days": 24,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 131 · 댓글 29 · ER 12.8% · 평소대비 2.1x (D+23)"
+      "last_written_reaction": "좋아요 131 · 댓글 29 · ER 12.8% · 평소대비 2.1x (D+24)"
     },
     {
       "notion_row_id": "17239eba-97ed-83e4-a255-017554daec60",
@@ -88,7 +93,7 @@
         "likes": 48,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -110,7 +115,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
         "er": 0.04243394715772618,
         "vs_baseline": 0.6312849162011173,
@@ -119,16 +124,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.68x로 기대치 미달이며, 참여 1건당 1,302원·조회당 153원은 팔로워 1,250명 소규모 계정 협찬 대비 효율이 낮은 편.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소대비 0.63x로 부진한 도달에 조회당 153원 비용 효율도 낮아, 17일차 현재 기대치 미달 수준입니다.",
+          "days": 17,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 452 · 좋아요 48 · 댓글 5 · ER 4.2% · 평소대비 0.6x (D+16)"
+      "last_written_reaction": "조회 452 · 좋아요 48 · 댓글 5 · ER 4.2% · 평소대비 0.6x (D+17)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "e2539eba-97ed-836d-9312-81c0f461e3bd",
   "followers": 1249,

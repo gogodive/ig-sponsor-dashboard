@@ -34,7 +34,7 @@
         "likes": 271,
         "comments": 19
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.03x로 거의 차이 없는 무난한 성과이며, 참여 1건당 1,368원은 3만 팔로워 규모 피드 협찬 기준으로 수용 가능한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.95x로 평균 수준 유지 중이나, 참여 1건당 1,345원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
+          "days": 4,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 271 · 댓글 19 · ER 1.0% · 평소대비 0.9x (D+4)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
   "followers": 30074,

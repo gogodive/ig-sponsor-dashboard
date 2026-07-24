@@ -34,7 +34,7 @@
         "likes": 263,
         "comments": 13
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태이나 팔로워 대비 참여율 3.87%·참여 1건당 239원으로 소규모 다이빙 계정 치고 효율적인 초기 반응을 보이고 있음.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "조회수 미집계이나 팔로워 대비 참여율 3.98%·1건당 232원으로 소규모 계정 기준 비용 효율적인 초기 반응.",
+          "days": 4,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 263 · 댓글 13 · ER 4.0% (D+4)"
     },
@@ -87,7 +92,7 @@
         "likes": 253,
         "comments": 9
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -118,7 +123,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.05배 수준의 무난한 참여율로, 참여 1건당 244원은 준수하나 폭발적 확산은 없는 안정적 초기 성과.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 1.08배 수준의 무난한 초기 반응으로, 참여 1건당 244원은 효율적이나 추가 확산 여부를 지켜볼 필요가 있다.",
+          "days": 6,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 253 · 댓글 9 · ER 3.8% · 평소대비 1.1x (D+6)"
     }
@@ -127,7 +137,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "09339eba-97ed-82c3-8a58-010d736888f3",
   "followers": 6931,

@@ -35,7 +35,7 @@
         "likes": 69,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.11050477489768076,
         "vs_baseline": 2.3443496801705757,
@@ -66,9 +66,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 2.34배 높은 확산력과 참여 1건당 975원의 효율로 소규모 계정 대비 양호한 초기 성과를 보임.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 2.34배 도달에 참여당 975원·조회당 35.9원으로, 733 팔로워 소규모 계정치고 효율적인 초기 성과.",
+          "days": 11,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 2,199 · 좋아요 69 · 댓글 12 · ER 11.1% · 평소대비 2.3x (D+10)"
+      "last_written_reaction": "조회 2,199 · 좋아요 69 · 댓글 12 · ER 11.1% · 평소대비 2.3x (D+11)"
     },
     {
       "notion_row_id": "e7339eba-97ed-820d-bb34-011a6826721c",
@@ -88,7 +93,7 @@
         "likes": 134,
         "comments": 33
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -110,7 +115,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.22783083219645292,
         "vs_baseline": 1.568075117370892,
@@ -119,16 +124,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.51배 참여로 팔로워 733명 소규모 계정임에도 참여율 22.78%·건당 473원의 압도적 효율을 기록한 우수 협찬.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.57배 참여율로 팔로워 733명 소규모 계정치고 참여율 22.78%는 매우 우수하며, 1건당 473원의 효율적 비용으로 79,000원 협찬 투자가 충분히 정당화되는 중간 성과.",
+          "days": 14,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 134 · 댓글 33 · ER 22.8% · 평소대비 1.6x (D+13)"
+      "last_written_reaction": "좋아요 134 · 댓글 33 · ER 22.8% · 평소대비 1.6x (D+14)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "27e39eba-97ed-8344-b231-012cc85d5b43",
   "followers": 733,

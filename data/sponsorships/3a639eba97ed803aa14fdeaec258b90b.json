@@ -1,0 +1,27 @@
+{
+  "page_id": "3a639eba-97ed-803a-a14f-deaec258b90b",
+  "row_title_raw": "hipvly_daji",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "39000",
+  "product_value_krw": 109000,
+  "delivery_date": null,
+  "output_link_prop": null,
+  "username": "hipvly_daji",
+  "followers_notion": 39000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "8df39eba-97ed-82eb-884d-01e1bfa4c9ec",
+  "followers": 39000
+}

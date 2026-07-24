@@ -34,7 +34,7 @@
         "likes": 169,
         "comments": 15
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": 0.004020803286569643,
         "vs_baseline": 0.6133333333333333,
@@ -67,14 +67,14 @@
         "one_liner": "평소 대비 0.49x로 절반 수준에 그쳐 부진하며, 참여 1건당 469원은 69,000원 협찬 대비 비효율적 출발.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 169 · 댓글 15 · ER 0.4% · 평소대비 0.6x (D+0)"
+      "last_written_reaction": "좋아요 169 · 댓글 15 · ER 0.4% · 평소대비 0.6x (D+1)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "52839eba-97ed-8225-9a1f-016c8e833170",
   "followers": 45762,

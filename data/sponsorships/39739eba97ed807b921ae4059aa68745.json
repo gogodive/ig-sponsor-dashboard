@@ -34,7 +34,7 @@
         "likes": 95,
         "comments": 3
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,7 +65,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.54x로 저조한 반응이나, 참여 1건당 847원은 팔로워 3천대 소규모 계정 기준 수용 가능한 수준—D+4 추이 지속 모니터링 필요.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 54% 수준의 저조한 참여로 협찬 효율이 낮고, 참여 1건당 847원은 팔로워 규모를 감안해도 개선이 필요한 수준입니다.",
+          "days": 5,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 95 · 댓글 3 · ER 2.9% · 평소대비 0.5x (D+5)"
     }
@@ -74,7 +79,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "20b39eba-97ed-838a-84e3-01d4f0daf6cc",
   "followers": 3432,

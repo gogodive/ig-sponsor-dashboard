@@ -35,7 +35,7 @@
         "likes": 91,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -66,7 +66,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.13x로 극히 저조한 도달을 기록했으며, 조회당 52.5원·참여당 670원 모두 대비 효율이 낮아 재협찬 시 콘텐츠 방향 재검토가 필요하다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.15x의 극히 저조한 도달로 협찬 콘텐츠 효율이 떨어지며, 조회당 52.5원·참여당 670원은 팔로워 규모(약 5천) 감안 시 비용 대비 성과 미흡.",
+          "days": 29,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 1,315 · 좋아요 91 · 댓글 12 · ER 2.1% · 평소대비 0.1x (D+29)"
     },
@@ -124,7 +129,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "ef239eba-97ed-8389-8ec5-8162520ff2ea",
   "followers": 4962,

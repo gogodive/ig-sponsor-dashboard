@@ -35,7 +35,7 @@
         "likes": 103,
         "comments": 20
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -66,7 +66,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.61배 조회로 양호한 확산세, 참여 1건당 561원·조회당 13.4원으로 소규모 계정 협찬 대비 비용 효율 준수.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.61배 조회에 참여율 3.87%로 무난한 중간 성과이나, 참여 1건당 561원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
+          "days": 15,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 5,148 · 좋아요 103 · 댓글 20 · ER 3.9% · 평소대비 1.6x (D+15)"
     },
@@ -88,7 +93,7 @@
         "likes": 177,
         "comments": 14
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,7 +124,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 1.10배 수준의 안정적 반응에 참여 1건당 361원으로 소규모 계정 대비 효율적인 비용 집행 확인.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 1.29x 참여율로 팔로워 6% 달성, 361원/참여 비용은 69,000원 협찬 단가 대비 양호한 중간 성과.",
+          "days": 16,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 177 · 댓글 14 · ER 6.0% · 평소대비 1.3x (D+16)"
     }
@@ -128,7 +138,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "f5e39eba-97ed-83b9-a8b3-0156bbbeb6bc",
   "followers": 3182,

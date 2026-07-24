@@ -35,7 +35,7 @@
         "likes": 52,
         "comments": 14
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.004725424214219231,
         "vs_baseline": 0.24729486023444544,
@@ -66,9 +66,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.24x의 저조한 확산력으로 참여 1건당 1,062원·조회당 64원은 비용 효율이 낮아 추가 모니터링이 필요하다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.25x로 저조한 반응, 참여 1건당 1,045원·조회당 63원은 69,000원 상품 가액 대비 비효율적 수준.",
+          "days": 11,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 1,097 · 좋아요 52 · 댓글 14 · ER 0.5% · 평소대비 0.2x (D+10)"
+      "last_written_reaction": "조회 1,097 · 좋아요 52 · 댓글 14 · ER 0.5% · 평소대비 0.2x (D+11)"
     },
     {
       "notion_row_id": "40f39eba-97ed-822a-ba43-0152de83706a",
@@ -88,7 +93,7 @@
         "likes": 849,
         "comments": 46
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,7 +124,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 6.2배 참여 폭발, 참여 1건당 78원으로 69,000원 협찬비 대비 극강의 비용 효율 달성.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 3.08배 참여로 팔로워 6.41% 참여율 달성, 참여 1건당 77원으로 69,000원 협찬비 대비 효율적인 초기 성과.",
+          "days": 11,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "좋아요 849 · 댓글 46 · ER 6.4% · 평소대비 3.1x (D+11)"
     }
@@ -128,7 +138,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "36839eba-97ed-8267-a82c-01675eab0e2d",
   "followers": 13967,

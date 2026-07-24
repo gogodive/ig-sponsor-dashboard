@@ -15,12 +15,29 @@
   "output_link_prop": null,
   "username": "modu_love_dive",
   "followers_notion": 1027,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "7ed39eba-97ed-83d8-9135-811f1645cf96",
+      "url": "https://www.instagram.com/p/Da7uxqwEwW2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da7uxqwEwW2",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-19",
+      "first_seen": "2026-07-24",
+      "frozen": false,
+      "days_since_post": 5,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
-    "account_unavailable": false
+    "overdue_no_output": false,
+    "account_unavailable": true
   },
   "child_db_id": "c8139eba-97ed-8359-9349-81e92a4c2dcc",
   "followers": 1027

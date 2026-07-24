@@ -35,7 +35,7 @@
         "likes": 11,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -57,7 +57,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.5,
         "vs_baseline": 0.25206124852767964,
@@ -66,16 +66,21 @@
       },
       "analysis": {
         "one_liner": "팔로워 26명 계정으로 평소 대비 0.25x의 저조한 도달에 그쳐 조회당 249원·참여당 6,154원의 비용 효율이 극히 낮음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "팔로워 대비 참여율 50%로 절대 수치는 양호하나, 평소대비 0.25x 저조·조회당 비용 249원으로 협찬 효과 미흡.",
+          "days": 25,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 321 · 좋아요 11 · 댓글 2 · ER 50.0% · 평소대비 0.3x (D+24)"
+      "last_written_reaction": "조회 321 · 좋아요 11 · 댓글 2 · ER 50.0% · 평소대비 0.3x (D+25)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "6e839eba-97ed-8310-a8ee-81322cbef34a",
   "followers": 26,

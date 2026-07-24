@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
@@ -65,9 +65,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.08x의 극히 저조한 반응으로 참여 1건당 비용 30,875원에 달해 협찬 효율이 매우 낮음.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "좋아요 집계 오류(-1)·조회 미집계로 실질 지표 없음, 123,500원 협찬 대비 성과 판단 불가 — 데이터 재확인 필요.",
+          "days": 4,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+3)"
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+4)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80ba-a37a-d0e0ad5da608",
@@ -87,7 +92,7 @@
         "likes": 39,
         "comments": 1
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -109,7 +114,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.0009410878976096367,
         "vs_baseline": 0.8888888888888888,
@@ -118,9 +123,14 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.82x로 기대치 하회, 참여 1건당 3,088원은 협찬 효율 개선이 필요한 수준.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.89x로 부진한 반응에 참여 1건당 비용 3,088원까지 높아 초기 성과가 기대에 미치지 못하는 상황입니다.",
+          "days": 9,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 39 · 댓글 1 · ER 0.1% · 평소대비 0.9x (D+8)"
+      "last_written_reaction": "좋아요 39 · 댓글 1 · ER 0.1% · 평소대비 0.9x (D+9)"
     },
     {
       "notion_row_id": "3a539eba-97ed-8059-9df0-d7af944ca82a",
@@ -141,7 +151,7 @@
         "likes": 17,
         "comments": 1
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -172,7 +182,12 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.48x로 절반에도 못 미치는 노출에 참여 1건당 비용 6,861원까지 치솟아, 현시점 대비 효율이 매우 저조한 협찬 성과.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.48x로 절반에도 못 미치는 저조한 확산에, 참여 1건당 비용 6,861원·조회당 104원으로 비용 효율이 매우 낮아 추가 부스팅 검토가 필요하다.",
+          "days": 5,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
       "last_written_reaction": "조회 1,190 · 좋아요 17 · 댓글 1 · ER 0.0% · 평소대비 0.5x (D+5)"
     },
@@ -195,7 +210,7 @@
         "likes": -1,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -217,7 +232,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0003999623564840956,
         "vs_baseline": 0.6860232278734482,
@@ -226,16 +241,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.70x 저조한 조회 성과에 참여 1건당 5,881원·조회당 72원으로 비용 효율이 낮아 추가 활성화 조치가 필요하다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.69x로 기준 미달이며, 참여 1건당 7,265원·조회당 72원은 협찬 효율이 낮은 수준으로 추가 확산 없이는 비용 회수가 어렵다.",
+          "days": 14,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "조회 1,713 · 좋아요 -1 · 댓글 18 · ER 0.0% · 평소대비 0.7x (D+13)"
+      "last_written_reaction": "조회 1,713 · 좋아요 -1 · 댓글 18 · ER 0.0% · 평소대비 0.7x (D+14)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "14b39eba-97ed-834c-aa99-813356ec3cfe",
   "followers": 42504,

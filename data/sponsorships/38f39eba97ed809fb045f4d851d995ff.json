@@ -34,7 +34,7 @@
         "likes": 140,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-24T07:08:02.071261+09:00",
+      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -56,7 +56,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.011730205278592375,
         "vs_baseline": 0.9491525423728814,
@@ -65,16 +65,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.88x로 소폭 부진하나, 참여 1건당 457원은 합리적 수준으로 비용 효율은 준수한 편.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d14": {
+          "one_liner": "평소 대비 0.95x로 기준치 소폭 하회, 참여 1건당 457원은 무난하나 댓글 0이 브랜드 관심도 측면에서 아쉽다.",
+          "days": 16,
+          "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 140 · 댓글 0 · ER 1.2% · 평소대비 0.9x (D+15)"
+      "last_written_reaction": "좋아요 140 · 댓글 0 · ER 1.2% · 평소대비 0.9x (D+16)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "a0239eba-97ed-820a-af9e-012e5783a5a9",
   "followers": 11935,
