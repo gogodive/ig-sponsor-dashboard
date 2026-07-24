@@ -140,11 +140,29 @@ def collect_accounts(states: list[dict], cfg: dict, now: datetime) -> dict[str, 
             snap = fetch_account(username, actor, cfg["apify"]["results_type"],
                                  cfg["apify"]["recent_limit"])
             followers = snap["followers_count"]
+            followers_at = acc_stored.get("followers_updated_at")
             if not followers:
-                try:
-                    followers = fetch_followers(username, actor)
-                except Exception as e:  # noqa: BLE001
-                    log.warning("팔로워 조회 실패 @%s: %s", username, str(e).splitlines()[0])
+                # 팔로워는 별도 details 호출이 필요해 계정당 실행이 2배 —
+                # 변동이 느린 값이라 주기(followers_refresh_days)로만 갱신
+                stored_f = acc_stored.get("followers_count")
+                days_old = None
+                if followers_at:
+                    try:
+                        days_old = (now - datetime.fromisoformat(followers_at)).days
+                    except ValueError:
+                        days_old = None
+                refresh = cfg["apify"].get("followers_refresh_days", 7)
+                if not stored_f or days_old is None or days_old >= refresh:
+                    try:
+                        followers = fetch_followers(username, actor)
+                        followers_at = now.isoformat()
+                    except Exception as e:  # noqa: BLE001
+                        log.warning("팔로워 조회 실패 @%s: %s", username,
+                                    str(e).splitlines()[0])
+                else:
+                    followers = stored_f
+            else:
+                followers_at = now.isoformat()
             # 프로필이 정상 응답인데 빈 결과(게시물 0·팔로워 없음) → 비공개/삭제 후보.
             # 일시적 차단일 수 있어 empty_streak 2회 연속일 때만 '조회 불가'로 판정.
             empty_profile = not snap["posts"] and not followers
@@ -160,6 +178,7 @@ def collect_accounts(states: list[dict], cfg: dict, now: datetime) -> dict[str, 
                 accounts[username] = {
                     "username": username,
                     "followers_count": followers or acc_stored.get("followers_count"),
+                    "followers_updated_at": followers_at,
                     "recent_posts": snap["posts"],
                     "fetched_at": now.isoformat(),
                     "empty_streak": 0,
