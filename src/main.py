@@ -145,18 +145,28 @@ def collect_accounts(states: list[dict], cfg: dict, now: datetime) -> dict[str, 
                     followers = fetch_followers(username, actor)
                 except Exception as e:  # noqa: BLE001
                     log.warning("팔로워 조회 실패 @%s: %s", username, str(e).splitlines()[0])
-            # 프로필 조회가 빈 결과(게시물 0·팔로워 없음) → 비공개/삭제/계정명 변경 추정
+            # 프로필이 정상 응답인데 빈 결과(게시물 0·팔로워 없음) → 비공개/삭제 후보.
+            # 일시적 차단일 수 있어 empty_streak 2회 연속일 때만 '조회 불가'로 판정.
             empty_profile = not snap["posts"] and not followers
             if empty_profile:
-                log.warning("계정 조회 불가 @%s (비공개/삭제/계정명 변경 추정)", username)
-            accounts[username] = {
-                "username": username,
-                "followers_count": followers or acc_stored.get("followers_count"),
-                "recent_posts": snap["posts"],
-                "fetched_at": now.isoformat(),
-                "ok": not empty_profile,
-            }
+                streak = (acc_stored.get("empty_streak") or 0) + 1
+                log.warning("계정 빈 응답 @%s (연속 %d회%s)", username, streak,
+                            " → 조회 불가 판정" if streak >= 2 else "")
+                accounts[username] = {**acc_stored, "username": username,
+                                      "recent_posts": acc_stored.get("recent_posts", []),
+                                      "fetched_at": now.isoformat(),
+                                      "empty_streak": streak, "ok": False}
+            else:
+                accounts[username] = {
+                    "username": username,
+                    "followers_count": followers or acc_stored.get("followers_count"),
+                    "recent_posts": snap["posts"],
+                    "fetched_at": now.isoformat(),
+                    "empty_streak": 0,
+                    "ok": True,
+                }
         except Exception as e:  # noqa: BLE001
+            # API 오류(한도 초과 등)는 계정 상태와 무관 → empty_streak 유지, 플래그 근거 아님
             log.warning("수집 실패 @%s: %s — 저장분 유지", username, str(e).splitlines()[0])
             accounts[username] = {**acc_stored, "username": username,
                                   "recent_posts": acc_stored.get("recent_posts", []),
@@ -204,10 +214,9 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
     """행 하나: 병합 → 지표 → 분석 → 노션 기입 → 저장."""
     username = state.get("username")
     acc = accounts.get(username) if username else None
-    if acc is not None and not acc.get("ok"):
-        state["flags"]["account_unavailable"] = True
-    elif acc is not None:
-        state["flags"]["account_unavailable"] = False
+    if acc is not None:
+        # 빈 응답 2회 연속일 때만 조회 불가 — API 오류(수집 실패)는 플래그 근거가 아님
+        state["flags"]["account_unavailable"] = (acc.get("empty_streak") or 0) >= 2
     if acc:
         state["followers"] = acc.get("followers_count") or state.get("followers_notion")
     else:
