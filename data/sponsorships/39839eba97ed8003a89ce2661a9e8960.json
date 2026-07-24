@@ -53,7 +53,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "3f439eba-97ed-829d-9382-01c4a247ad4d",
   "followers": 65000
