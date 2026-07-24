@@ -84,29 +84,35 @@ def _primary_brand(row: dict) -> str:
     return brands[0] if brands else "기타"
 
 
-def _agg(rows: list[dict], key_fn) -> list[dict]:
-    """브랜드/담당자별 집계표."""
+def _agg(rows: list[dict], key_fn, kind: str) -> list[dict]:
+    """브랜드/담당자별 유형 분리 집계. kind='릴스'는 조회 기준, '피드'는 참여 기준."""
+    want_reel = kind == "릴스"
     buckets: dict[str, dict] = {}
     for r in rows:
+        typed = [p for p in r.get("posts", [])
+                 if p.get("metrics_updated_at")
+                 and ((p.get("media_kind") or "피드") == "릴스") == want_reel]
+        if not typed:
+            continue
         key = key_fn(r) or "미지정"
-        b = buckets.setdefault(key, {"key": key, "rows": 0, "posts": 0, "value": 0,
-                                     "vs": [], "cpe": [], "flags": 0})
+        b = buckets.setdefault(key, {"key": key, "rows": 0, "posts": 0,
+                                     "total": 0, "vs": [], "cost": []})
         b["rows"] += 1
-        b["value"] += r.get("product_value_krw") or 0
-        b["flags"] += 1 if any(r.get("flags", {}).values()) else 0
-        for p in r.get("posts", []):
-            if not p.get("metrics_updated_at"):
-                continue
+        for p in typed:
             b["posts"] += 1
+            m = p.get("metrics", {})
             c = p.get("computed", {})
+            b["total"] += (m.get("views") or 0) if want_reel else \
+                ((m.get("likes") or 0) + (m.get("comments") or 0))
             if isinstance(c.get("vs_baseline"), (int, float)):
                 b["vs"].append(c["vs_baseline"])
-            if isinstance(c.get("cost_per_eng"), (int, float)):
-                b["cpe"].append(c["cost_per_eng"])
+            cost = c.get("cost_per_view") if want_reel else c.get("cost_per_eng")
+            if isinstance(cost, (int, float)):
+                b["cost"].append(cost)
     out = []
     for b in buckets.values():
         b["vs_mean"] = sum(b["vs"]) / len(b["vs"]) if b["vs"] else None
-        b["cpe_mean"] = sum(b["cpe"]) / len(b["cpe"]) if b["cpe"] else None
+        b["cost_mean"] = sum(b["cost"]) / len(b["cost"]) if b["cost"] else None
         out.append(b)
     out.sort(key=lambda x: -(x["vs_mean"] or 0))
     return out
@@ -209,7 +215,9 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
         brand_colors=BRAND_COLORS,
         ranking_reels=_ranking(visible, "릴스"),
         ranking_feeds=_ranking(visible, "피드"),
-        agg_brand=_agg(visible, _primary_brand),
-        agg_manager=_agg(visible, lambda r: r.get("manager")),
+        agg_brand_reels=_agg(visible, _primary_brand, "릴스"),
+        agg_brand_feeds=_agg(visible, _primary_brand, "피드"),
+        agg_mgr_reels=_agg(visible, lambda r: r.get("manager"), "릴스"),
+        agg_mgr_feeds=_agg(visible, lambda r: r.get("manager"), "피드"),
         generated_label=generated_at.astimezone(KST).strftime("%Y-%m-%d %H:%M"),
     )

@@ -319,29 +319,47 @@
   </div>
   {% endif %}
 
+  {% macro agg_table(items, keylabel, kind, tint) -%}
+        <table class="agg">
+          <tr><th>{{ keylabel }}</th><th>협찬 건</th><th>{{ kind }}</th>
+              <th>총 {{ '조회' if kind == '릴스' else '참여' }}</th><th>평균 평소대비</th>
+              <th>평균 {{ '조회당' if kind == '릴스' else '참여당' }} 비용</th></tr>
+          {% for a in items %}
+          <tr{% if tint %} style="background:{{ brand_colors.get(a.key, '#616161') }}14"{% endif %}>
+              <td>{% if tint %}<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:{{ brand_colors.get(a.key, '#616161') }};margin-right:6px;vertical-align:-1px;"></span>{% endif %}{{ a.key }}</td>
+              <td>{{ a.rows }}</td><td>{{ a.posts }}</td>
+              <td>{{ a.total | num }}</td><td>{{ a.vs_mean | x }}</td>
+              <td>{% if a.cost_mean is not none %}{% if kind == '릴스' %}{{ "%.1f" | format(a.cost_mean) }}원{% else %}{{ a.cost_mean | krw }}{% endif %}{% else %}–{% endif %}</td></tr>
+          {% endfor %}
+        </table>
+  {%- endmacro %}
+
   <div class="aggwrap">
     <h2>브랜드별 집계</h2>
-    <table class="agg">
-      <tr><th>브랜드</th><th>협찬 건</th><th>게시물</th><th>상품가액 합</th><th>평균 평소대비</th><th>평균 참여당 비용</th><th>플래그</th></tr>
-      {% for a in agg_brand %}
-      <tr style="background:{{ brand_colors.get(a.key, '#616161') }}14">
-          <td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:{{ brand_colors.get(a.key, '#616161') }};margin-right:6px;vertical-align:-1px;"></span>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
-          <td>{{ a.value | krw }}</td><td>{{ a.vs_mean | x }}</td>
-          <td>{{ a.cpe_mean | krw }}</td><td>{{ a.flags }}</td></tr>
-      {% endfor %}
-    </table>
+    <div class="rankzones">
+      <div class="rankzone reels">
+        <div class="zonehead">▶ 릴스 — 조회수 기준</div>
+        {{ agg_table(agg_brand_reels, '브랜드', '릴스', true) }}
+      </div>
+      <div class="rankzone feeds">
+        <div class="zonehead">🖼 피드 — 참여 기준</div>
+        {{ agg_table(agg_brand_feeds, '브랜드', '피드', true) }}
+      </div>
+    </div>
   </div>
 
   <div class="aggwrap">
     <h2>담당자별 집계</h2>
-    <table class="agg">
-      <tr><th>담당자</th><th>협찬 건</th><th>게시물</th><th>상품가액 합</th><th>평균 평소대비</th><th>평균 참여당 비용</th><th>플래그</th></tr>
-      {% for a in agg_manager %}
-      <tr><td>{{ a.key }}</td><td>{{ a.rows }}</td><td>{{ a.posts }}</td>
-          <td>{{ a.value | krw }}</td><td>{{ a.vs_mean | x }}</td>
-          <td>{{ a.cpe_mean | krw }}</td><td>{{ a.flags }}</td></tr>
-      {% endfor %}
-    </table>
+    <div class="rankzones">
+      <div class="rankzone reels">
+        <div class="zonehead">▶ 릴스 — 조회수 기준</div>
+        {{ agg_table(agg_mgr_reels, '담당자', '릴스', false) }}
+      </div>
+      <div class="rankzone feeds">
+        <div class="zonehead">🖼 피드 — 참여 기준</div>
+        {{ agg_table(agg_mgr_feeds, '담당자', '피드', false) }}
+      </div>
+    </div>
   </div>
 </section>
 
