@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "okgun._.2",
   "followers_notion": 110000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "e8f39eba-97ed-826c-bfa6-01e7ee2c984a",
+      "url": "https://www.instagram.com/p/DbH0kCXiWlU/?img_index=1",
+      "shortcode": "DbH0kCXiWlU",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-23",
+      "first_seen": "2026-07-25",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "85b39eba-97ed-82f1-a7c9-014a951612a5",

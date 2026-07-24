@@ -34,7 +34,7 @@
         "likes": 57,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -47,6 +47,12 @@
           "views": null,
           "likes": 57,
           "comments": 2
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 57,
+          "comments": 2
         }
       ],
       "baseline": {
@@ -56,7 +62,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": 0.11411992263056092,
         "vs_baseline": 0.59,
@@ -65,16 +71,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.58x로 부진하나 팔로워 대비 참여율 11.4%·1건당 1,593원은 소규모 계정 특성상 준수한 수준으로, D+2 초기 단계 추이 지속 모니터링 필요.",
-        "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
+        "analyzed_at": "2026-07-23T21:09:07.107766+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.59배로 다소 저조하나, 참여율 11.4%·1건당 1,593원은 소형 계정 기준 비용 효율 양호—3일차 추이 지속 모니터링 권장.",
+          "days": 3,
+          "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
+        }
       },
-      "last_written_reaction": "좋아요 57 · 댓글 2 · ER 11.4% · 평소대비 0.6x (D+2)"
+      "last_written_reaction": "좋아요 57 · 댓글 2 · ER 11.4% · 평소대비 0.6x (D+3)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "28a39eba-97ed-83d6-bd43-01cf1d2631f8",
   "followers": 517,

@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "o_os.ra",
   "followers_notion": 90000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "08739eba-97ed-820b-91bb-815b90086f94",
+      "url": "https://www.instagram.com/p/DbI1Dj6E0s-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbI1Dj6E0s-",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-23",
+      "first_seen": "2026-07-25",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "38239eba-97ed-8077-a9ea-f7cf165a3da4",

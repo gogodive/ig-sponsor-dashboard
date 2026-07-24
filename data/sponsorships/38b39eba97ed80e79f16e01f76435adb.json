@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 27
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -44,6 +44,12 @@
         },
         {
           "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 27
+        },
+        {
+          "d": "2026-07-25",
           "views": null,
           "likes": -1,
           "comments": 27
@@ -79,7 +85,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "8de39eba-97ed-8266-b6b7-01be1ef89924",
   "followers": 77539,

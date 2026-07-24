@@ -35,7 +35,7 @@
         "likes": 98,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,6 +48,12 @@
           "views": 16563,
           "likes": 98,
           "comments": 21
+        },
+        {
+          "d": "2026-07-25",
+          "views": 16563,
+          "likes": 98,
+          "comments": 21
         }
       ],
       "baseline": {
@@ -57,7 +63,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.0427596119295724,
         "vs_baseline": 3.4708717518860017,
@@ -73,7 +79,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 16,563 · 좋아요 98 · 댓글 21 · ER 4.3% · 평소대비 3.5x (D+20)"
+      "last_written_reaction": "조회 16,563 · 좋아요 98 · 댓글 21 · ER 4.3% · 평소대비 3.5x (D+21)"
     },
     {
       "notion_row_id": "39539eba-97ed-825e-a771-81c3c6d63404",
@@ -114,8 +120,8 @@
         "n": 12,
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.04886812791951132,
         "vs_baseline": 0.6476190476190476,
@@ -129,16 +135,18 @@
           "one_liner": "평소 대비 0.65x로 다소 부진하나, 참여율 4.89%·참여당 581원은 팔로워 규모 감안 시 수용 가능한 수준.",
           "days": 30,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 4.89%는 소규모 계정 기준으로 양호한 수준이나, 평소 대비 0.65x로 협찬 게시물이 오히려 평균 이하의 반응을 얻어 콘텐츠 설득력이 다소 부족했다고 볼 수 있다. 참여 1건당 비용 581원은 마이크로 인플루언서 시장에서 중간 수준으로, 절대적으로 비효율적이진 않지만 평소 대비 성과 저하를 감안하면 79,000원 상품가 대비 브랜드 노출 효과가 충분히 극대화되지 못한 아쉬운 협찬이었다.",
+        "final_at": "2026-07-25T01:32:46.981901+09:00"
       },
-      "last_written_reaction": "좋아요 114 · 댓글 22 · ER 4.9% · 평소대비 0.6x (D+30)"
+      "last_written_reaction": "좋아요 114 · 댓글 22 · ER 4.9% · 평소대비 0.6x (확정)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "bb539eba-97ed-82e8-99db-81e58fa5664a",
   "followers": 2783,

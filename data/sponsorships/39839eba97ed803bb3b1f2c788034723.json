@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "lian_lovelyan",
   "followers_notion": 4483,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "f4a39eba-97ed-83a5-a1e7-814a0773c433",
+      "url": "https://www.instagram.com/reel/Da1ZcjSt9Bo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da1ZcjSt9Bo",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-16",
+      "first_seen": "2026-07-25",
+      "frozen": false,
+      "days_since_post": 9,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "b8739eba-97ed-837a-943e-01b0e9fa4fe5",

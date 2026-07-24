@@ -34,7 +34,7 @@
         "likes": 583,
         "comments": 40
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -47,6 +47,12 @@
           "views": null,
           "likes": 583,
           "comments": 40
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 583,
+          "comments": 40
         }
       ],
       "baseline": {
@@ -56,7 +62,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.013369959439448891,
         "vs_baseline": 0.6988222097588335,
@@ -72,14 +78,14 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 583 · 댓글 40 · ER 1.3% · 평소대비 0.7x (D+12)"
+      "last_written_reaction": "좋아요 583 · 댓글 40 · ER 1.3% · 평소대비 0.7x (D+13)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "a6639eba-97ed-8208-b69d-01b06fc0c5b4",
   "followers": 46597,

@@ -35,7 +35,7 @@
         "likes": 230,
         "comments": 38
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,6 +48,12 @@
           "views": 9182,
           "likes": 230,
           "comments": 38
+        },
+        {
+          "d": "2026-07-25",
+          "views": 9182,
+          "likes": 230,
+          "comments": 38
         }
       ],
       "baseline": {
@@ -57,7 +63,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.055349029326724496,
         "vs_baseline": 0.7985736649852149,
@@ -73,7 +79,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 9,182 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (D+29)"
+      "last_written_reaction": "조회 9,182 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (D+30)"
     },
     {
       "notion_row_id": "38939eba-97ed-8075-9f2b-c3b01318cf3a",
@@ -108,8 +114,8 @@
         "n": 12,
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.029120198265179677,
         "vs_baseline": 0.8757763975155279,
@@ -123,9 +129,11 @@
           "one_liner": "평소 대비 0.88x로 소폭 부진하나 참여 1건당 979원·참여율 2.91%는 팔로워 규모 감안 시 무난한 중간 성과.",
           "days": 30,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 2.91%는 마이크로 인플루언서 평균(1~3%) 수준에 부합하며, 참여 1건당 비용 979원은 소규모 계정 협찬치고 수용 가능한 범위다. 다만 평소 대비 0.88배로 협찬 게시물이 오히려 해당 계정의 일반 콘텐츠보다 반응이 낮았다는 점은 콘텐츠 자연스러움이나 타겟 적합성 측면에서 아쉬운 신호다. 팔로워 4,842명 규모와 상품 가액 138,000원을 고려하면 브랜드 인지 확산보다는 니치 커뮤니티 접점 확보 측면에서 제한적인 가치를 지닌 협찬으로, 재협찬 시 크리에이티브 가이드를 강화할 필요가 있다.",
+        "final_at": "2026-07-25T01:32:46.981901+09:00"
       },
-      "last_written_reaction": "좋아요 132 · 댓글 9 · ER 2.9% · 평소대비 0.9x (D+30)"
+      "last_written_reaction": "좋아요 132 · 댓글 9 · ER 2.9% · 평소대비 0.9x (확정)"
     },
     {
       "notion_row_id": "38939eba-97ed-809c-88de-cb1185a9923e",
@@ -177,7 +185,7 @@
       "upload_date_notion": "2026-06-22",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -190,7 +198,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "e2f39eba-97ed-828f-8dd5-81d34f71aef9",
   "followers": 4842,

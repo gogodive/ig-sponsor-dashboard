@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,6 +48,12 @@
           "views": 3420,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-07-25",
+          "views": 3420,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
@@ -57,7 +63,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": -0.0001268874508311128,
         "vs_baseline": 0.46622588780587554,
@@ -66,16 +72,21 @@
       },
       "analysis": {
         "one_liner": "평소 대비 0.40x의 저조한 도달과 팔로워 대비 참여율 0.04%로, 참여 1건당 비용 15,767원은 협찬 효율이 매우 낮은 상태다.",
-        "analyzed_at": "2026-07-23T03:33:52.096361+09:00"
+        "analyzed_at": "2026-07-23T03:33:52.096361+09:00",
+        "d3": {
+          "one_liner": "평소 대비 0.47x로 부진한 조회 성과에 좋아요 미집계까지 겹쳐, 조회당 13.8원 비용 효율도 기대치를 밑도는 초기 3일 성적.",
+          "days": 3,
+          "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
+        }
       },
-      "last_written_reaction": "조회 3,420 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.5x (D+2)"
+      "last_written_reaction": "조회 3,420 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.5x (D+3)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "d8639eba-97ed-83fc-8c5f-81471f8205f0",
   "followers": 7881,

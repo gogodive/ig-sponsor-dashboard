@@ -35,7 +35,7 @@
         "likes": 284,
         "comments": 77
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -48,10 +48,16 @@
           "views": 3565,
           "likes": 284,
           "comments": 77
+        },
+        {
+          "d": "2026-07-25",
+          "views": 3565,
+          "likes": 284,
+          "comments": 77
         }
       ],
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": 0.026956391875746714,
         "vs_baseline": null,
@@ -62,7 +68,7 @@
         "one_liner": "D+0 기준 팔로워 대비 참여율 2.58%로 안정적이나, 평소대비 조회·참여 배수 확인 전 최종 판단 유보 권장.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "조회 3,565 · 좋아요 284 · 댓글 77 · ER 2.7% (D+1)"
+      "last_written_reaction": "조회 3,565 · 좋아요 284 · 댓글 77 · ER 2.7% (D+2)"
     },
     {
       "notion_row_id": "91839eba-97ed-83fd-8ae2-817d3a15f61f",
@@ -82,7 +88,7 @@
         "likes": 950,
         "comments": 140
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -95,6 +101,12 @@
           "views": null,
           "likes": 950,
           "comments": 140
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 950,
+          "comments": 140
         }
       ],
       "baseline": {
@@ -104,7 +116,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.08139187574671446,
         "vs_baseline": 1.5527065527065527,
@@ -120,14 +132,14 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 950 · 댓글 140 · ER 8.1% · 평소대비 1.6x (D+20)"
+      "last_written_reaction": "좋아요 950 · 댓글 140 · ER 8.1% · 평소대비 1.6x (D+21)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "75339eba-97ed-83cf-b243-8130c0f110bb",
   "followers": 13392,

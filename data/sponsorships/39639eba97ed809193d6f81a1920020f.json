@@ -34,7 +34,7 @@
         "likes": 76,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -47,6 +47,12 @@
           "views": null,
           "likes": 76,
           "comments": 2
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 76,
+          "comments": 2
         }
       ],
       "baseline": {
@@ -56,7 +62,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
         "er": 0.01247800351943689,
         "vs_baseline": null,
@@ -72,7 +78,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 76 · 댓글 2 · ER 1.2% (D+6)"
+      "last_written_reaction": "좋아요 76 · 댓글 2 · ER 1.2% (D+7)"
     },
     {
       "notion_row_id": "f6d39eba-97ed-8257-aa0d-812de5e0b894",
@@ -92,7 +98,7 @@
         "likes": 226,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -105,6 +111,12 @@
           "views": null,
           "likes": 226,
           "comments": 7
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 226,
+          "comments": 7
         }
       ],
       "baseline": {
@@ -114,7 +126,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.037274036154215325,
         "vs_baseline": 0.5319634703196348,
@@ -130,14 +142,14 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 226 · 댓글 7 · ER 3.7% · 평소대비 0.5x (D+8)"
+      "last_written_reaction": "좋아요 226 · 댓글 7 · ER 3.7% · 평소대비 0.5x (D+9)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "ce539eba-97ed-83e3-99b6-01aecd32bdb5",
   "followers": 6251,

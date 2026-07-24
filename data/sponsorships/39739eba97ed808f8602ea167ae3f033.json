@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "s.y.mimi",
   "followers_notion": 22000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "7d239eba-97ed-8368-92a5-81212ada71d4",
+      "url": "https://www.instagram.com/reel/DbFj2w_xFEb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbFj2w_xFEb",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-23",
+      "first_seen": "2026-07-25",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "8b739eba-97ed-83f4-a00c-017c805272b5",

@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "swim.__.hey",
   "followers_notion": 23000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "54a39eba-97ed-82e6-b70d-81d2a8f16a47",
+      "url": "https://www.instagram.com/p/DbCeJqAGFig/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbCeJqAGFig",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-21",
+      "first_seen": "2026-07-25",
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "7c939eba-97ed-83b0-a9d2-817f2ae515f8",

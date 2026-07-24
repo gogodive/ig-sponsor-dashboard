@@ -24,7 +24,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -40,7 +40,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -56,7 +56,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -72,7 +72,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -85,7 +85,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "4c339eba-97ed-83e2-b8c1-01f46f06ee17",
   "followers": 100000

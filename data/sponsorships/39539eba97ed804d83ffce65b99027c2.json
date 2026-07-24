@@ -35,7 +35,7 @@
         "likes": 52,
         "comments": 14
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -45,6 +45,12 @@
         },
         {
           "d": "2026-07-24",
+          "views": 1097,
+          "likes": 52,
+          "comments": 14
+        },
+        {
+          "d": "2026-07-25",
           "views": 1097,
           "likes": 52,
           "comments": 14
@@ -93,7 +99,7 @@
         "likes": 849,
         "comments": 46
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -106,6 +112,12 @@
           "views": null,
           "likes": 849,
           "comments": 46
+        },
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": 849,
+          "comments": 46
         }
       ],
       "baseline": {
@@ -115,7 +127,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": 0.06407961623827593,
         "vs_baseline": 3.075601374570447,
@@ -131,14 +143,14 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 849 · 댓글 46 · ER 6.4% · 평소대비 3.1x (D+11)"
+      "last_written_reaction": "좋아요 849 · 댓글 46 · ER 6.4% · 평소대비 3.1x (D+12)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "36839eba-97ed-8267-a82c-01675eab0e2d",
   "followers": 13967,

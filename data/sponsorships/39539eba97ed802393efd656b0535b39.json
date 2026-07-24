@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -44,6 +44,12 @@
         },
         {
           "d": "2026-07-24",
+          "views": null,
+          "likes": -1,
+          "comments": 5
+        },
+        {
+          "d": "2026-07-25",
           "views": null,
           "likes": -1,
           "comments": 5
@@ -93,7 +99,7 @@
         "likes": -1,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-24T15:18:19.669403+09:00",
+      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -106,10 +112,16 @@
           "views": 1583,
           "likes": -1,
           "comments": 30
+        },
+        {
+          "d": "2026-07-25",
+          "views": 1583,
+          "likes": -1,
+          "comments": 30
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.003856382978723404,
         "vs_baseline": null,
@@ -123,16 +135,21 @@
           "one_liner": "조회 1,583회·참여율 0.39%로 비용 효율(78.3원/회)이 낮고, 좋아요 미집계 상태라 평소 대비 판단 보류—댓글 30건은 유일한 긍정 신호.",
           "days": 13,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "조회 1,583회·참여율 0.39%로 비용 대비 효율이 낮고, 조회당 비용 78원·참여당 4,276원은 팔로워 규모를 감안해도 미흡한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "조회 1,583 · 좋아요 -1 · 댓글 30 · ER 0.4% (D+13)"
+      "last_written_reaction": "조회 1,583 · 좋아요 -1 · 댓글 30 · ER 0.4% (D+14)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": "03e39eba-97ed-8257-bc07-01d6b220e2f0",
   "followers": 7520,
