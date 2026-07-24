@@ -8,6 +8,8 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, Undefined, select_autoescape
 
+from src import metrics as mx
+
 KST = timezone(timedelta(hours=9))
 _TEMPLATE_DIR = Path(__file__).parent
 
@@ -128,6 +130,8 @@ def _ranking(rows: list[dict], kind: str, limit: int = 20) -> list[dict]:
     for r in rows:
         views = eng = n = 0
         live_days = []
+        typed_total = sum(1 for p in r.get("posts", [])
+                          if ((p.get("media_kind") or "피드") == "릴스") == want_reel)
         for p in r.get("posts", []):
             if not p.get("metrics_updated_at"):
                 continue
@@ -142,14 +146,18 @@ def _ranking(rows: list[dict], kind: str, limit: int = 20) -> list[dict]:
             eng += (m.get("likes") or 0) + (m.get("comments") or 0)
         if n == 0:
             continue
+        # 상품가액은 유형별 게시물 수 비율로 배분 (릴스1+피드1에 14만원 → 각 7만원)
         value = r.get("product_value_krw")
+        total_posts = len(r.get("posts", []))
+        share = (value * typed_total / total_posts) if value and total_posts else None
         days = [d for d in live_days if isinstance(d, int)]
         items.append({
             "row": r, "posts_n": n, "views": views or None, "eng": eng or None,
+            "value_share": share,
             "frozen_all": not live_days,          # 집계된 게시물이 전부 확정
             "live_days": min(days) if days else None,  # 집계중인 게시물 중 가장 최근 D+n
-            "cpe": (value / eng) if value and eng else None,
-            "cpv": (value / views) if value and views else None,
+            "cpe": (share / eng) if share and eng else None,
+            "cpv": (share / views) if share and views else None,
         })
     if want_reel:
         items.sort(key=lambda x: (x["cpv"] is None, x["cpv"] or 0, -(x["views"] or 0)))
@@ -178,8 +186,16 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
                and not r.get("flags", {}).get("unresolvable_username")
                and r.get("posts")]
     for r in visible:
+        # 게시물당 비용은 항상 배분 가액 기준으로 렌더 시 재계산
+        # (동결·정산된 행의 저장분이 옛 기준이어도 표시는 일관되게)
+        n = len(r.get("posts", []))
+        value = r.get("product_value_krw")
+        alloc = (value / n) if value and n else None
         for p in r.get("posts", []):
-            p["_vs_class"] = _vs_class(p.get("computed", {}).get("vs_baseline"))
+            c = p.setdefault("computed", {})
+            c["cost_per_eng"] = mx.cost_per_engagement(alloc, p.get("metrics", {}))
+            c["cost_per_view"] = mx.cost_per_view(alloc, p.get("metrics", {}))
+            p["_vs_class"] = _vs_class(c.get("vs_baseline"))
         r["_last_post"] = max((p.get("posted_at") or p.get("upload_date_notion") or ""
                                for p in r.get("posts", [])), default="")
 

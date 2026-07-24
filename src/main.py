@@ -245,6 +245,11 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
     fresh_by_sc = {p["post_id"]: p for p in (acc or {}).get("fresh_posts", [])}
     all_sponsored = {p["shortcode"] for p in state["posts"]}
 
+    # 상품가액은 게시물 수로 균등 배분 (릴스1+피드1에 14만원이면 각 7만원)
+    n_posts = len(state["posts"])
+    alloc_value = ((state.get("product_value_krw") or 0) / n_posts
+                   if n_posts and state.get("product_value_krw") else None)
+
     merged_posts = []
     for post in state["posts"]:
         fresh = fresh_by_sc.get(post["shortcode"])
@@ -258,10 +263,8 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
         p["computed"] = {
             "er": mx.engagement_rate(p.get("metrics", {}), state["followers"]),
             "vs_baseline": mx.vs_baseline(p, p.get("baseline")),
-            "cost_per_eng": mx.cost_per_engagement(state.get("product_value_krw"),
-                                                   p.get("metrics", {})),
-            "cost_per_view": mx.cost_per_view(state.get("product_value_krw"),
-                                              p.get("metrics", {})),
+            "cost_per_eng": mx.cost_per_engagement(alloc_value, p.get("metrics", {})),
+            "cost_per_view": mx.cost_per_view(alloc_value, p.get("metrics", {})),
         }
         merged_posts.append(p)
     state["posts"] = merged_posts

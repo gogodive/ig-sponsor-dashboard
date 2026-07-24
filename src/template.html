@@ -234,8 +234,8 @@
           <td>조회수 ÷ 평소 릴스 조회수 중앙값</td>
           <td>참여 ÷ 평소 피드 참여 중앙값</td></tr>
       <tr><td>비용 효율</td>
-          <td>조회당 비용 = 상품가액 ÷ 조회수</td>
-          <td>참여당 비용 = 상품가액 ÷ 참여</td></tr>
+          <td>조회당 비용 = 배분 가액 ÷ 조회수</td>
+          <td>참여당 비용 = 배분 가액 ÷ 참여</td></tr>
       <tr><td>점수 변동 특성</td>
           <td>알고리즘 노출에 따라 변동 큼 <span class="hint">(대박·쪽박 모두 릴스에서)</span></td>
           <td>기존 팔로워 위주라 100 근처에서 안정적</td></tr>
@@ -252,7 +252,7 @@
         <li>게시 후 30일까지 매일 재계산, 이후 확정(동결) — 나중에 계정이 성장해도 과거 평가는 불변</li>
       </ol>
     </details>
-    <div><b class="term">참여당/조회당 비용</b> = 상품가액 ÷ 참여(또는 조회) — <span class="hint">낮을수록 예산 효율이 좋은 협찬.</span></div>
+    <div><b class="term">참여당/조회당 비용</b> = 배분 가액(상품가액 ÷ 그 협찬 건 게시물 수) ÷ 참여(또는 조회) — <span class="hint">낮을수록 예산 효율이 좋은 협찬.</span></div>
   </div>
 
   {% if digest %}
@@ -290,7 +290,7 @@
       <div class="rankzone reels">
         <div class="zonehead">▶ 릴스 랭킹 — 조회당 비용 낮은 순</div>
         <table class="agg rank">
-          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>릴스</th><th>총 조회</th><th>상품가액</th><th>조회당 비용</th><th>반응도</th></tr>
+          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>릴스</th><th>총 조회</th><th>배분 가액</th><th>조회당 비용</th><th>반응도</th></tr>
           {% for it in rr %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
@@ -299,7 +299,7 @@
               <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
               <td>{{ it.views | num }}</td>
-              <td>{{ it.row.product_value_krw | krw }}</td>
+              <td>{{ it.value_share | krw }}</td>
               <td>{% if it.cpv is not none %}{{ "%.1f" | format(it.cpv) }}원{% else %}–{% endif %}</td>
               <td>{% if it.row.last_written_score is defined and it.row.last_written_score is not none %}{{ it.row.last_written_score }}{% else %}–{% endif %}</td></tr>
           {% endfor %}
@@ -308,7 +308,7 @@
       <div class="rankzone feeds">
         <div class="zonehead">🖼 피드 랭킹 — 참여당 비용 낮은 순</div>
         <table class="agg rank">
-          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>피드</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>반응도</th></tr>
+          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>피드</th><th>총 참여</th><th>배분 가액</th><th>참여당 비용</th><th>반응도</th></tr>
           {% for it in rf %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
@@ -317,7 +317,7 @@
               <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
               <td>{{ it.eng | num }}</td>
-              <td>{{ it.row.product_value_krw | krw }}</td>
+              <td>{{ it.value_share | krw }}</td>
               <td>{{ it.cpe | krw }}</td>
               <td>{% if it.row.last_written_score is defined and it.row.last_written_score is not none %}{{ it.row.last_written_score }}{% else %}–{% endif %}</td></tr>
           {% endfor %}
@@ -332,7 +332,7 @@
     <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
       반응도가 "그 계정 평소 대비"(상대치)라면, 이 표는 "같은 돈으로 얼마나 샀나"(절대치).
       릴스는 <b>조회당 비용</b>, 피드는 <b>참여당 비용</b>이 낮을수록 절대 성과가 높은 계정입니다.
-      (상품가액은 협찬 건 전체 기준)</div>
+      배분 가액 = 상품가액을 게시물 수로 나눠 콘텐츠별로 배분한 금액 (릴스1+피드1에 14만원이면 각 7만원).</div>
     {{ ranking_zones(ranking_reels, ranking_feeds) }}
   </div>
   {% endif %}
