@@ -53,6 +53,12 @@
   nav button.active { color:#262626; font-weight:700; opacity:1; background:#f7f7f7; }
   nav button .cnt { font-size:10px; color:var(--sub); }
   section.brand { display:none; padding-bottom:40px; } section.brand.active { display:block; }
+  .subnav { display:flex; gap:6px; overflow-x:auto; padding:12px 0 0; }
+  .subnav button { padding:6px 14px; border:1px solid var(--line); border-radius:16px;
+                   background:#fff; font-size:13px; cursor:pointer; color:var(--sub);
+                   white-space:nowrap; font-weight:600; }
+  .subnav button.active { background:#262626; color:#fff !important; border-color:#262626; }
+  .ovsub { display:none; } .ovsub.active { display:block; }
   .rowcard { background:#fff; border:1px solid var(--line); border-radius:8px;
              margin:14px 0; overflow:hidden; }
   .rowhead { display:flex; align-items:center; gap:10px; flex-wrap:wrap;
@@ -199,6 +205,14 @@
 
 <div class="wrap">
 <section class="brand active" id="brand-overview">
+  <div class="subnav" id="ovnav">
+    <button data-ovsub="all" class="active">전체</button>
+    {% for g in groups %}
+    <button data-ovsub="{{ loop.index0 }}" style="color:{{ g.color }}">{{ g.name }}</button>
+    {% endfor %}
+  </div>
+
+  <div class="ovsub active" id="ovsub-all">
   <div class="kpis">
     <div class="kpi"><div class="v">{{ kpi.rows }}</div><div class="l">추적 협찬 건</div></div>
     <div class="kpi"><div class="v">{{ kpi.live_posts }}</div><div class="l">집계 중 게시물</div></div>
@@ -271,19 +285,13 @@
   </div>
   {% endif %}
 
-  {% if ranking_reels or ranking_feeds %}
-  <div class="aggwrap">
-    <h2>🏆 비용 효율 랭킹 (절대 성과)</h2>
-    <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
-      반응도가 "그 계정 평소 대비"(상대치)라면, 이 표는 "같은 돈으로 얼마나 샀나"(절대치).
-      릴스는 <b>조회당 비용</b>, 피드는 <b>참여당 비용</b>이 낮을수록 절대 성과가 높은 계정입니다.
-      (상품가액은 협찬 건 전체 기준)</div>
+  {% macro ranking_zones(rr, rf) -%}
     <div class="rankzones">
       <div class="rankzone reels">
         <div class="zonehead">▶ 릴스 랭킹 — 조회당 비용 낮은 순</div>
         <table class="agg rank">
           <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>릴스</th><th>총 조회</th><th>상품가액</th><th>조회당 비용</th><th>반응도</th></tr>
-          {% for it in ranking_reels %}
+          {% for it in rr %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
@@ -301,7 +309,7 @@
         <div class="zonehead">🖼 피드 랭킹 — 참여당 비용 낮은 순</div>
         <table class="agg rank">
           <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>피드</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>반응도</th></tr>
-          {% for it in ranking_feeds %}
+          {% for it in rf %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
@@ -316,6 +324,16 @@
         </table>
       </div>
     </div>
+  {%- endmacro %}
+
+  {% if ranking_reels or ranking_feeds %}
+  <div class="aggwrap">
+    <h2>🏆 비용 효율 랭킹 (절대 성과)</h2>
+    <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
+      반응도가 "그 계정 평소 대비"(상대치)라면, 이 표는 "같은 돈으로 얼마나 샀나"(절대치).
+      릴스는 <b>조회당 비용</b>, 피드는 <b>참여당 비용</b>이 낮을수록 절대 성과가 높은 계정입니다.
+      (상품가액은 협찬 건 전체 기준)</div>
+    {{ ranking_zones(ranking_reels, ranking_feeds) }}
   </div>
   {% endif %}
 
@@ -361,6 +379,18 @@
       </div>
     </div>
   </div>
+  </div>{# /ovsub-all #}
+
+  {% for g in groups %}
+  <div class="ovsub" id="ovsub-{{ loop.index0 }}">
+    <div class="aggwrap">
+      <h2 style="color:{{ g.color }}">🏆 {{ g.name }} 비용 효율 랭킹 (절대 성과)</h2>
+      <div class="hint" style="font-size:12px;color:var(--sub);margin-bottom:6px;">
+        {{ g.name }} 협찬 건끼리만 비교. 릴스는 조회당 비용, 피드는 참여당 비용이 낮을수록 절대 성과가 높은 계정입니다.</div>
+      {{ ranking_zones(g.ranking_reels, g.ranking_feeds) }}
+    </div>
+  </div>
+  {% endfor %}
 </section>
 
 {% for g in groups %}
@@ -412,6 +442,14 @@ document.querySelectorAll("nav button").forEach(btn => {
     document.querySelectorAll("section.brand").forEach(s => s.classList.remove("active"));
     btn.classList.add("active");
     document.getElementById("brand-" + btn.dataset.tab).classList.add("active");
+  });
+});
+document.querySelectorAll("#ovnav button").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("#ovnav button").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll(".ovsub").forEach(s => s.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById("ovsub-" + btn.dataset.ovsub).classList.add("active");
   });
 });
 </script>

@@ -192,7 +192,9 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
     for b in order:
         rs = by_brand[b]
         rs.sort(key=lambda r: r["_last_post"], reverse=True)  # 최신 게시물 순
-        groups.append({"name": b, "color": BRAND_COLORS.get(b, "#616161"), "rows": rs})
+        groups.append({"name": b, "color": BRAND_COLORS.get(b, "#616161"), "rows": rs,
+                       "ranking_reels": _ranking(rs, "릴스"),
+                       "ranking_feeds": _ranking(rs, "피드")})
 
     tracked = [p for r in visible for p in r.get("posts", []) if p.get("metrics_updated_at")]
     live = [p for p in tracked if not p.get("frozen")]
