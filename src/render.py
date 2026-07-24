@@ -121,6 +121,7 @@ def _ranking(rows: list[dict], kind: str, limit: int = 20) -> list[dict]:
     items = []
     for r in rows:
         views = eng = n = 0
+        live_days = []
         for p in r.get("posts", []):
             if not p.get("metrics_updated_at"):
                 continue
@@ -128,14 +129,19 @@ def _ranking(rows: list[dict], kind: str, limit: int = 20) -> list[dict]:
                 continue
             m = p.get("metrics", {})
             n += 1
+            if not p.get("frozen"):
+                live_days.append(p.get("days_since_post"))
             if isinstance(m.get("views"), int):
                 views += m["views"]
             eng += (m.get("likes") or 0) + (m.get("comments") or 0)
         if n == 0:
             continue
         value = r.get("product_value_krw")
+        days = [d for d in live_days if isinstance(d, int)]
         items.append({
             "row": r, "posts_n": n, "views": views or None, "eng": eng or None,
+            "frozen_all": not live_days,          # 집계된 게시물이 전부 확정
+            "live_days": min(days) if days else None,  # 집계중인 게시물 중 가장 최근 D+n
             "cpe": (value / eng) if value and eng else None,
             "cpv": (value / views) if value and views else None,
         })

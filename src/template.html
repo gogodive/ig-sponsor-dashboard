@@ -276,12 +276,13 @@
       <div class="rankzone reels">
         <div class="zonehead">▶ 릴스 랭킹 — 조회당 비용 낮은 순</div>
         <table class="agg rank">
-          <tr><th>#</th><th>계정</th><th>브랜드</th><th>릴스</th><th>총 조회</th><th>상품가액</th><th>조회당 비용</th><th>반응도</th></tr>
+          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>릴스</th><th>총 조회</th><th>상품가액</th><th>조회당 비용</th><th>반응도</th></tr>
           {% for it in ranking_reels %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
+              <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
               <td>{{ it.views | num }}</td>
               <td>{{ it.row.product_value_krw | krw }}</td>
@@ -293,12 +294,13 @@
       <div class="rankzone feeds">
         <div class="zonehead">🖼 피드 랭킹 — 참여당 비용 낮은 순</div>
         <table class="agg rank">
-          <tr><th>#</th><th>계정</th><th>브랜드</th><th>피드</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>반응도</th></tr>
+          <tr><th>#</th><th>계정</th><th>브랜드</th><th>상태</th><th>피드</th><th>총 참여</th><th>상품가액</th><th>참여당 비용</th><th>반응도</th></tr>
           {% for it in ranking_feeds %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
               <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
+              <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
               <td>{{ it.eng | num }}</td>
               <td>{{ it.row.product_value_krw | krw }}</td>
