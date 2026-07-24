@@ -117,114 +117,114 @@ def build_row_states(notion_rows: list[dict], cfg: dict, now: datetime) -> list[
     return states
 
 
+def _refresh_snapshot(username: str, acc_stored: dict, cfg: dict,
+                      now: datetime) -> dict:
+    """계정 스냅샷(최근 게시물+팔로워) 갱신 — 주기 실행. 실패 시 저장분 유지."""
+    actor = cfg["apify"]["actor"]
+    try:
+        snap = fetch_account(username, actor, cfg["apify"]["results_type"],
+                             cfg["apify"]["recent_limit"])
+        followers = snap["followers_count"]
+        followers_at = acc_stored.get("followers_updated_at")
+        if not followers:
+            try:
+                followers = fetch_followers(username, actor)
+                followers_at = now.isoformat()
+            except Exception as e:  # noqa: BLE001
+                log.warning("팔로워 조회 실패 @%s: %s", username, str(e).splitlines()[0])
+                followers = acc_stored.get("followers_count")
+        else:
+            followers_at = now.isoformat()
+        # 프로필이 정상 응답인데 빈 결과 → 비공개/삭제 후보.
+        # 일시적 차단일 수 있어 empty_streak 2회 연속일 때만 '조회 불가'로 판정.
+        if not snap["posts"] and not followers:
+            streak = (acc_stored.get("empty_streak") or 0) + 1
+            log.warning("계정 빈 응답 @%s (연속 %d회%s)", username, streak,
+                        " → 조회 불가 판정" if streak >= 2 else "")
+            return {**acc_stored, "username": username,
+                    "recent_posts": acc_stored.get("recent_posts", []),
+                    "empty_streak": streak, "ok": False, "_fresh_snap": False}
+        return {
+            "username": username,
+            "followers_count": followers,
+            "followers_updated_at": followers_at,
+            "recent_posts": snap["posts"],
+            "fetched_at": now.isoformat(),
+            "empty_streak": 0,
+            "ok": True,
+            "_fresh_snap": True,
+        }
+    except Exception as e:  # noqa: BLE001
+        # API 오류(한도 초과 등)는 계정 상태와 무관 → empty_streak 유지, 플래그 근거 아님
+        log.warning("수집 실패 @%s: %s — 저장분 유지", username, str(e).splitlines()[0])
+        return {**acc_stored, "username": username,
+                "recent_posts": acc_stored.get("recent_posts", []),
+                "ok": False, "_fresh_snap": False}
+
+
 def collect_accounts(states: list[dict], cfg: dict, now: datetime) -> dict[str, dict]:
-    """고유 계정별 Apify 수집. 반환: username → {followers_count, recent_posts, ok}"""
+    """수집 전략: 협찬 게시물 지표는 매일 URL 직접 조회(게시물당 결과 1건),
+    계정 스냅샷(베이스라인·팔로워)은 baseline_refresh_days 주기로만 갱신 — 비용 최소화.
+
+    반환: username → {followers_count, recent_posts(베이스라인용), fresh_posts(오늘 지표), ok}
+    """
     need: dict[str, set[str]] = {}
     for s in states:
         if s.get("_settled") or not s.get("username"):
             continue
         pending = [p for p in s["posts"]
                    if not (p.get("frozen") and p.get("metrics_updated_at"))]
-        if pending or not s["posts"]:
-            # 게시물이 아직 없어도(업로드 대기) 팔로워 최신화를 위해 수집하진 않는다 —
-            # 게시물이 하나라도 있는 계정만 Apify 호출해 비용을 아낀다.
-            if pending:
-                need.setdefault(s["username"], set()).update(
-                    p["shortcode"] for p in pending)
+        if pending:
+            need.setdefault(s["username"], set()).update(
+                p["shortcode"] for p in pending)
 
+    refresh_days = cfg["apify"].get("baseline_refresh_days", 7)
     accounts: dict[str, dict] = {}
-    actor = cfg["apify"]["actor"]
-    for username, shortcodes in need.items():
+    for username in need:
         acc_stored = _load_json(ACC_DIR / f"{username}.json")
-        try:
-            snap = fetch_account(username, actor, cfg["apify"]["results_type"],
-                                 cfg["apify"]["recent_limit"])
-            followers = snap["followers_count"]
-            followers_at = acc_stored.get("followers_updated_at")
-            if not followers:
-                # 팔로워는 별도 details 호출이 필요해 계정당 실행이 2배 —
-                # 변동이 느린 값이라 주기(followers_refresh_days)로만 갱신
-                stored_f = acc_stored.get("followers_count")
-                days_old = None
-                if followers_at:
-                    try:
-                        days_old = (now - datetime.fromisoformat(followers_at)).days
-                    except ValueError:
-                        days_old = None
-                refresh = cfg["apify"].get("followers_refresh_days", 7)
-                if not stored_f or days_old is None or days_old >= refresh:
-                    try:
-                        followers = fetch_followers(username, actor)
-                        followers_at = now.isoformat()
-                    except Exception as e:  # noqa: BLE001
-                        log.warning("팔로워 조회 실패 @%s: %s", username,
-                                    str(e).splitlines()[0])
-                else:
-                    followers = stored_f
-            else:
-                followers_at = now.isoformat()
-            # 프로필이 정상 응답인데 빈 결과(게시물 0·팔로워 없음) → 비공개/삭제 후보.
-            # 일시적 차단일 수 있어 empty_streak 2회 연속일 때만 '조회 불가'로 판정.
-            empty_profile = not snap["posts"] and not followers
-            if empty_profile:
-                streak = (acc_stored.get("empty_streak") or 0) + 1
-                log.warning("계정 빈 응답 @%s (연속 %d회%s)", username, streak,
-                            " → 조회 불가 판정" if streak >= 2 else "")
-                accounts[username] = {**acc_stored, "username": username,
-                                      "recent_posts": acc_stored.get("recent_posts", []),
-                                      "fetched_at": now.isoformat(),
-                                      "empty_streak": streak, "ok": False}
-            else:
-                accounts[username] = {
-                    "username": username,
-                    "followers_count": followers or acc_stored.get("followers_count"),
-                    "followers_updated_at": followers_at,
-                    "recent_posts": snap["posts"],
-                    "fetched_at": now.isoformat(),
-                    "empty_streak": 0,
-                    "ok": True,
-                }
-        except Exception as e:  # noqa: BLE001
-            # API 오류(한도 초과 등)는 계정 상태와 무관 → empty_streak 유지, 플래그 근거 아님
-            log.warning("수집 실패 @%s: %s — 저장분 유지", username, str(e).splitlines()[0])
+        snap_age = None
+        if acc_stored.get("fetched_at"):
+            try:
+                snap_age = (now - datetime.fromisoformat(acc_stored["fetched_at"])).days
+            except ValueError:
+                snap_age = None
+        if (not acc_stored.get("recent_posts") or snap_age is None
+                or snap_age >= refresh_days):
+            accounts[username] = _refresh_snapshot(username, acc_stored, cfg, now)
+        else:
             accounts[username] = {**acc_stored, "username": username,
-                                  "recent_posts": acc_stored.get("recent_posts", []),
-                                  "ok": False}
+                                  "ok": True, "_fresh_snap": False}
+        accounts[username]["fresh_posts"] = list(
+            accounts[username]["recent_posts"]) if accounts[username].get("_fresh_snap") else []
 
-    # 최근 창에 없는 협찬 게시물 → 전 계정 모아 한 번에 직접 조회
-    missing_urls: list[str] = []
+    # 오늘 스냅샷에 없는 협찬 게시물 → 전 계정 모아 한 번에 직접 조회 (게시물당 결과 1건)
     url_by_shortcode: dict[str, str] = {}
     for s in states:
         u = s.get("username")
-        if not u or u not in accounts or not accounts[u]["ok"]:
+        if not u or u not in accounts:
             continue
-        have = {p["post_id"] for p in accounts[u]["recent_posts"]}
+        have = {p["post_id"] for p in accounts[u]["fresh_posts"]}
         for p in s["posts"]:
-            if (p["shortcode"] not in have
-                    and not (p.get("frozen") and p.get("metrics_updated_at"))):
+            if (p["shortcode"] in need.get(u, set()) and p["shortcode"] not in have):
                 url_by_shortcode[p["shortcode"]] = p["url"]
     missing_urls = list(dict.fromkeys(url_by_shortcode.values()))
     if missing_urls:
-        log.info("최근 창 밖 협찬 게시물 %d개 직접 조회", len(missing_urls))
+        log.info("협찬 게시물 %d개 직접 조회", len(missing_urls))
         try:
-            direct = fetch_posts_by_urls(missing_urls, actor)
-            by_owner: dict[str, list[dict]] = {}
+            direct = fetch_posts_by_urls(missing_urls, cfg["apify"]["actor"])
+            sc_to_user = {sp["shortcode"]: s2["username"] for s2 in states
+                          if s2.get("username") for sp in s2["posts"]}
             for p in direct:
                 owner = (p.get("owner_username") or "").lower()
-                by_owner.setdefault(owner, []).append(p)
-            for u, acc in accounts.items():
-                extra = by_owner.get(u, [])
-                # 소유자 미확인 게시물은 shortcode 로 역매칭
-                extra += [p for o, ps in by_owner.items() if not o for p in ps
-                          if p["post_id"] in {sp["shortcode"] for s2 in states
-                                              if s2.get("username") == u
-                                              for sp in s2["posts"]}]
-                acc["recent_posts"] = acc["recent_posts"] + extra
+                u = owner if owner in accounts else sc_to_user.get(p["post_id"])
+                if u in accounts:
+                    accounts[u]["fresh_posts"].append(p)
         except Exception as e:  # noqa: BLE001
             log.warning("직접 조회 실패: %s", str(e).splitlines()[0])
 
     for u, acc in accounts.items():
-        _save_json(ACC_DIR / f"{u}.json", acc)
+        _save_json(ACC_DIR / f"{u}.json",
+                   {k: v for k, v in acc.items() if not k.startswith("_") and k != "fresh_posts"})
     return accounts
 
 
@@ -241,14 +241,16 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
     else:
         state["followers"] = state.get("followers") or state.get("followers_notion")
 
-    fresh_by_sc = {p["post_id"]: p for p in (acc or {}).get("recent_posts", [])}
+    # 오늘 지표는 fresh_posts(직접 조회+오늘 스냅샷)에서만 — 지난 스냅샷의 낡은 지표 금지
+    fresh_by_sc = {p["post_id"]: p for p in (acc or {}).get("fresh_posts", [])}
     all_sponsored = {p["shortcode"] for p in state["posts"]}
 
     merged_posts = []
     for post in state["posts"]:
         fresh = fresh_by_sc.get(post["shortcode"])
         baseline = None
-        if acc and acc.get("ok"):
+        if acc and acc.get("recent_posts"):
+            # 베이스라인은 주기 갱신되는 스냅샷 기준 (평소 중앙값은 하루 만에 안 변함)
             baseline = mx.compute_baseline(
                 acc["recent_posts"], all_sponsored, post.get("media_kind") or "피드",
                 cfg["baseline"]["max_posts"], cfg["baseline"]["min_posts"])

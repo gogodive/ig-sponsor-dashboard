@@ -2,8 +2,9 @@
 apify:
   actor: apify~instagram-scraper
   results_type: posts        # posts = 게시물 상세(조회수 포함). details는 조회수가 없어 사용 금지
-  recent_limit: 20           # 계정당 최근 게시물 수집 수 (베이스라인 + 협찬 게시물 매칭)
-  followers_refresh_days: 7  # 팔로워 수는 이 주기로만 별도 조회 (매일 조회 시 비용 2배)
+  recent_limit: 20           # 계정 스냅샷의 최근 게시물 수집 수 (베이스라인용)
+  baseline_refresh_days: 7   # 계정 스냅샷(베이스라인·팔로워) 갱신 주기.
+                             # 게시물 지표는 매일 URL 직접 조회(게시물당 결과 1건)로 갱신
 
 freeze_days: 30              # 협찬 게시물 게시 후 이 일수까지 매일 추적, 이후 지표 동결(확정)
 
