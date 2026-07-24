@@ -69,21 +69,6 @@ def _thumb_proxy(url) -> str:
     return "https://images.weserv.nl/?url=" + urllib.parse.quote(str(url), safe="")
 
 
-def _sparkline(history: list[dict], key: str) -> str:
-    """일별 히스토리 → 인라인 SVG polyline 좌표 문자열. 값 2개 미만이면 ''."""
-    vals = [(h["d"], h.get(key)) for h in history if isinstance(h.get(key), (int, float))]
-    if len(vals) < 2:
-        return ""
-    ys = [v for _, v in vals]
-    lo, hi = min(ys), max(ys)
-    span = (hi - lo) or 1
-    w, h_px = 120, 28
-    step = w / (len(vals) - 1)
-    pts = [f"{i * step:.1f},{h_px - 2 - (v - lo) / span * (h_px - 4):.1f}"
-           for i, (_, v) in enumerate(vals)]
-    return " ".join(pts)
-
-
 def _vs_class(v) -> str:
     if v is None:
         return "na"
@@ -182,8 +167,6 @@ def render_html(rows: list[dict], flags: dict, digest: dict | None,
                and r.get("posts")]
     for r in visible:
         for p in r.get("posts", []):
-            p["_spark_views"] = _sparkline(p.get("history", []), "views")
-            p["_spark_likes"] = _sparkline(p.get("history", []), "likes")
             p["_vs_class"] = _vs_class(p.get("computed", {}).get("vs_baseline"))
         r["_last_post"] = max((p.get("posted_at") or p.get("upload_date_notion") or ""
                                for p in r.get("posts", [])), default="")

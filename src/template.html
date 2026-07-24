@@ -96,9 +96,6 @@
   .mrow { display:flex; flex-wrap:wrap; gap:6px 12px; margin:3px 0; color:#444; }
   .mrow b { font-weight:600; }
   .cost { color:var(--sub); }
-  .spark { margin-top:4px; }
-  .spark svg { display:block; }
-  .spark .lbl { font-size:10px; color:var(--sub); }
   .ai { margin-top:6px; padding:6px 8px; background:#f3f8ff; border-radius:6px;
         font-size:11px; line-height:1.5; }
   .ai .tag { font-weight:700; color:#1565c0; margin-right:4px; }
@@ -164,15 +161,6 @@
             {% if p.computed.cost_per_eng is not none %}<span>참여당 {{ p.computed.cost_per_eng | krw }}</span>{% endif %}
             {% if p.computed.cost_per_view is not none %}<span>조회당 {{ "%.1f" | format(p.computed.cost_per_view) }}원</span>{% endif %}
           </div>
-          {% set spark = p._spark_views or p._spark_likes %}
-          {% if spark %}
-          <div class="spark">
-            <svg width="120" height="28" viewBox="0 0 120 28">
-              <polyline points="{{ spark }}" fill="none" stroke="#2a78d6" stroke-width="1.5"/>
-            </svg>
-            <span class="lbl">{{ '조회수' if p._spark_views else '좋아요' }} 30일 추이</span>
-          </div>
-          {% endif %}
           {% else %}
           <div class="mrow">아직 지표가 수집되지 않았습니다</div>
           {% endif %}

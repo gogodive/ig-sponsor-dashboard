@@ -48,7 +48,7 @@ def test_render_normal_row():
     assert "@tester" in html
     assert "평소대비" in html and "2.0x" in html
     assert "4.5%" in html               # ER
-    assert "polyline" in html           # 스파크라인
+    assert "polyline" not in html       # 추이 그래프 제거됨
     assert "2026-07-18" in html         # 게시날짜 (UTC 10:30 → KST 같은 날)
     assert "라세린" in html
 
