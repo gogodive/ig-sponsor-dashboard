@@ -77,17 +77,24 @@ def _post_context(row: dict, post: dict) -> str:
     return "\n".join(lines)
 
 
-def analyze_post_first(row: dict, post: dict, cfg: dict, now: datetime) -> dict | None:
-    """최초 수집 시 한줄 평가 → {"one_liner", "analyzed_at"}"""
+def analyze_post_checkpoint(row: dict, post: dict, phase: str, cfg: dict,
+                            now: datetime) -> dict | None:
+    """시점별 한줄 평가 → {"one_liner", "days", "analyzed_at"}.
+
+    phase: "초기"(D+3 규칙) 또는 "중간"(D+14 규칙). 실제 경과일을 days 로 기록해 표시.
+    """
+    days = post.get("days_since_post")
     user = (
-        f"{_post_context(row, post)}\n\n"
-        '# 출력: {"one_liner": "초기 성과 평가 한 문장 (80자 이내, 평소대비·비용 관점)"}'
+        f"{_post_context(row, post)}\n"
+        f"# 게시 후 {days}일차 {phase} 점검이다.\n\n"
+        f'# 출력: {{"one_liner": "{phase} 성과 평가 한 문장 (80자 이내, 평소대비·비용 관점)"}}'
     )
     try:
         out = _call(_SYSTEM, user, cfg["model"], cfg["max_tokens_post"])
-        return {"one_liner": str(out.get("one_liner", ""))[:200], "analyzed_at": now.isoformat()}
+        return {"one_liner": str(out.get("one_liner", ""))[:200], "days": days,
+                "analyzed_at": now.isoformat()}
     except Exception as e:  # noqa: BLE001
-        log.warning("한줄 평가 실패 %s: %s", post.get("shortcode"), e)
+        log.warning("%s 평가 실패 %s: %s", phase, post.get("shortcode"), e)
         return None
 
 

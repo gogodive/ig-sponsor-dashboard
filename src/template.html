@@ -164,10 +164,16 @@
           {% else %}
           <div class="mrow">아직 지표가 수집되지 않았습니다</div>
           {% endif %}
+          {% if p.analysis and p.analysis.d3 %}
+          <div class="ai"><span class="tag">AI 한줄 평가(D+{{ p.analysis.d3.days }})</span>{{ p.analysis.d3.one_liner }}</div>
+          {% elif p.analysis and p.analysis.one_liner and not p.analysis.final_verdict %}
+          <div class="ai"><span class="tag">AI 한줄 평가(초기)</span>{{ p.analysis.one_liner }}</div>
+          {% endif %}
+          {% if p.analysis and p.analysis.d14 %}
+          <div class="ai"><span class="tag">AI 한줄 평가(D+{{ p.analysis.d14.days }})</span>{{ p.analysis.d14.one_liner }}</div>
+          {% endif %}
           {% if p.analysis and p.analysis.final_verdict %}
-          <div class="ai final"><span class="tag">최종</span>{{ p.analysis.final_verdict }}</div>
-          {% elif p.analysis and p.analysis.one_liner %}
-          <div class="ai"><span class="tag">AI</span>{{ p.analysis.one_liner }}</div>
+          <div class="ai final"><span class="tag">최종(확정 시)</span>{{ p.analysis.final_verdict }}</div>
           {% endif %}
         </div>
       </div>

@@ -236,16 +236,23 @@ def finalize_row(state: dict, accounts: dict[str, dict], cfg: dict, now: datetim
         merged_posts.append(p)
     state["posts"] = merged_posts
 
-    # 분석 (게시물당 최초 1회 + 동결 전환 시 1회)
+    # 분석 (게시물당 D+3·D+14 각 1회 + 동결 전환 시 최종 1회, 전부 캐시)
     if not skip_analysis:
         for p in state["posts"]:
             if not p.get("metrics_updated_at"):
                 continue
-            a = p.get("analysis", {})
-            if not a.get("one_liner"):
-                out = az.analyze_post_first(state, p, cfg["claude"], now)
-                if out:
-                    p["analysis"] = {**a, **out}
+            days = p.get("days_since_post")
+            if not p.get("frozen") and isinstance(days, int):
+                a = p.get("analysis", {})
+                if 3 <= days < 14 and not a.get("d3"):
+                    out = az.analyze_post_checkpoint(state, p, "초기", cfg["claude"], now)
+                    if out:
+                        p["analysis"] = {**a, "d3": out}
+                a = p.get("analysis", {})
+                if days >= 14 and not a.get("d14"):
+                    out = az.analyze_post_checkpoint(state, p, "중간", cfg["claude"], now)
+                    if out:
+                        p["analysis"] = {**a, "d14": out}
             if p.get("frozen") and not p.get("analysis", {}).get("final_verdict"):
                 out = az.analyze_post_final(state, p, cfg["claude"], now)
                 if out:

@@ -61,6 +61,16 @@ def test_render_frozen_and_final():
     assert "비용 대비 효율적이었다" in html
 
 
+def test_render_checkpoint_labels():
+    p = dict(POST, analysis={
+        "d3": {"one_liner": "초기 순항", "days": 3},
+        "d14": {"one_liner": "중간에도 상승세", "days": 14},
+    })
+    html = render_html([_row(posts=[p])], _flags(), None, NOW)
+    assert "AI 한줄 평가(D+3)" in html and "초기 순항" in html
+    assert "AI 한줄 평가(D+14)" in html and "중간에도 상승세" in html
+
+
 def test_render_flag_panel_and_digest():
     overdue = _row(page_id="p2", row_title_raw="no_upload",
                    flags={"overdue_no_output": True, "unresolvable_username": False,
