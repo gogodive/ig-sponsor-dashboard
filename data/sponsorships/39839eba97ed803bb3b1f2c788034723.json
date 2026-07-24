@@ -24,13 +24,47 @@
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 8,
       "computed": {
-        "er": null,
+        "er": 0.001558325912733749,
         "vs_baseline": null,
-        "cost_per_eng": null,
+        "cost_per_eng": 41428.57142857143,
         "cost_per_view": null
-      }
+      },
+      "posted_at": "2026-07-16T01:38:13.000Z",
+      "permalink": "https://www.instagram.com/p/Da1ZcjSt9Bo/",
+      "thumbnail": "https://instagram.fmex15-1.fna.fbcdn.net/v/t51.82787-15/747561639_18157757845486713_4367564663005879999_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0MjE2ODk2MjAzNTg2MzY1NjE4MTU3NzU3ODQyNDg2NzEz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=r804Bnb4FxwQ7kNvwH_T6OD&_nc_oc=Ado-0aKcCOqvujmPeKPQp7FazDBXUbw5kvTe4R-KYN9qJ9-Ln2nRYEn7C4St6YQvIWR8pZdWf-JWIvjst13z5yzh&_nc_zt=23&_nc_ht=instagram.fmex15-1.fna&_nc_gid=ASg0XXazJYxfQLFZteL6tw&_nc_ss=72a8c&oh=00_AQBsubZBJmMQyrOIjx4qxnRt4emyJVRXDb-9e_Ahn9As8w&oe=6A695F58",
+      "caption": "세상 영롱한 새신발 신고 물 속에서 재롱부리기 🐠🫧\n\n오늘은 링을 만들어서 통과하기 전에 턴을 돌아보았어요\n여기서 중요한 점은 링이 깨지지 않도록 링을 불고 잠시 기다려준 뒤\n아주 조심히 그르고 천천히 돌아야 해요!! 요 포인트만 참고하면 턴돌고 링통과 예쁘게 완성할 수 있답니다\n\n제가 신고 있는 영롱한 롱핀은 딥바이브 오로라 롱핀 레드컬러예요\n빛의 각도에 따라 핑크 옐로 블루 그린 등등 다양한 색을 품고 있어요 볼수록 영롱한 ✨\n비가 오는 날이어서 실물만큼 예쁘게 못 담아 아쉽지만 채광 좋은 날 얼마나 자체발광일지 벌써 기대가 되",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "lian_lovelyan",
+      "metrics": {
+        "likes": -1,
+        "comments": 8
+      },
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
+      "history": [
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": -1,
+          "comments": 8
+        }
+      ],
+      "baseline": {
+        "views_median": 5451.0,
+        "eng_median": 106,
+        "n": 10,
+        "captured_at": "2026-07-25T01:46:19.223146+09:00"
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "조회수 미집계·좋아요 이상값으로 데이터 신뢰도가 낮아 성과 판단 보류, 참여율 0.16%·건당 비용 41,429원은 팔로워 규모 대비 효율 미흡 수준.",
+          "days": 8,
+          "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 8 · ER 0.2% (D+8)"
     }
   ],
   "flags": {
@@ -40,5 +74,5 @@
     "account_unavailable": false
   },
   "child_db_id": "b8739eba-97ed-837a-943e-01b0e9fa4fe5",
-  "followers": 4483
+  "followers": 4492
 }

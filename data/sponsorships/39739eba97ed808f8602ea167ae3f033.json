@@ -26,11 +26,39 @@
       "frozen": false,
       "days_since_post": 2,
       "computed": {
-        "er": null,
-        "vs_baseline": null,
-        "cost_per_eng": null,
-        "cost_per_view": null
-      }
+        "er": 0.001233751927737387,
+        "vs_baseline": 0.34811664641555284,
+        "cost_per_eng": 10357.142857142857,
+        "cost_per_view": 506.10820244328096
+      },
+      "posted_at": "2026-07-22T07:49:47.000Z",
+      "permalink": "https://www.instagram.com/p/DbFj2w_xFEb/",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEoYoWmvgcM1i_yVw_Z9SC2b4lkdxuTKbVefUQoqxplV63THk9-AW8kb1iLtu_Xom4&_nc_ohc=nVjCPZkwVucQ7kNvwFXcteQ&_nc_gid=maUaLzxIAIt2bPpTdPI0pg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQA5jiHxr80iAq3-lhhyJiqc63X4HWZ4wmW8n-i1u2d6Gg&oe=6A697494&_nc_sid=c6f216",
+      "caption": "#협찬 @intotheblue_store\n\n🩵 물속에서 인어가 되는 방법🩵🧜🏻‍♀️\n\n수중장비 멀티샵 \"인투더블루\" 스토어에서\n판매하고 있는 딥바이브 오로라 롱핀💕\n오로라 롱핀은 움직임마다 다른색으로 예쁘게 변하고🤍\n유리 섬유라서 가볍고 두께도 얇은데다가\n유연한 탄성과 탄력성👍\n동양인 맞춤 풋포켓에 소프트한 강도로 부드러운 \n피닝감을 줘서 여성 다이버나 발목이 약한분들께 추천해요!\n롱핀인데 엄청 가볍고 잘나가서 놀랬어요~ \n부드럽게 쭉쭉 나가니 마치 인어가 된 듯한 느낌이예요🧜🏻‍♀️\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "s.y.mimi",
+      "metrics": {
+        "views": 573,
+        "likes": 26,
+        "comments": 2
+      },
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
+      "history": [
+        {
+          "d": "2026-07-25",
+          "views": 573,
+          "likes": 26,
+          "comments": 2
+        }
+      ],
+      "baseline": {
+        "views_median": 1646,
+        "eng_median": 49,
+        "n": 5,
+        "captured_at": "2026-07-25T01:46:19.223146+09:00"
+      },
+      "last_written_reaction": "조회 573 · 좋아요 26 · 댓글 2 · ER 0.1% · 평소대비 0.3x (D+2)"
     }
   ],
   "flags": {
@@ -40,5 +68,6 @@
     "account_unavailable": false
   },
   "child_db_id": "8b739eba-97ed-83f4-a00c-017c805272b5",
-  "followers": 22000
+  "followers": 22695,
+  "last_written_score": 35
 }

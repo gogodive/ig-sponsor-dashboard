@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T09:34:12.000Z",
       "permalink": "https://www.instagram.com/p/Da7erY6krmo/",
-      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0Mzg3ODQzNjg5MjMzNDA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cmIA_WWpJS8Q7kNvwEWFCb4&_nc_oc=Adpdf2RstmCrR180Obc9xpgVjdv31llaN_4vo_IM2g_LBFeMlNeqiIC90B3gmk77NF-zN06I7sUlP_txi-Aotqdq&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=BGE3xtX-o2zEuqZLsEOjkQ&_nc_ss=72689&oh=00_AQA38KhPWD0B7XokzOOlbC2YyY_cFpcrkSscJRfYjPHpPg&oe=6A6856F2",
+      "thumbnail": "https://instagram.fymq1-1.fna.fbcdn.net/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0Mzg3ODQzNjg5MjMzNDA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cmIA_WWpJS8Q7kNvwET1-xx&_nc_oc=AdrHoxUmriMUEeBHbPv8TYc85GgcEAYC8yBsp9ljZx-msp48JscZDkiU6EJWnlKBjSA&_nc_zt=23&_nc_ht=instagram.fymq1-1.fna&_nc_gid=ZIQx8Yb7j7TfvXL8bhT1gw&_nc_ss=72a8c&oh=00_AQB2ViZXkyDaDUrDURk0oE0gRqHfGKzyIbGK0lr62S115w&oe=6A697032",
       "caption": "#제품제공\n태풍이 지나간 뒤 노을지는 하늘을 닮은 수영복☀️🩷❤️💜\n\n핑크,보라,빨강색이 어우러진 \n강렬한 노을 빛깔 라세린 미스틱레드❣️\n\n은은한 그라데이션 컬러감이 \n물 속에서도 너무 이뻤고, \n가슴선, 사이드컷도 미들컷이라\n너무 부담스럽지 않은 노출로 편안했어요👍\n\n수모, 마스크랑 같이 핑크로 깔맞춤하니\n완전 찰떡이였던 착장 🎀\n\n📸 @drop_the_diving \n\n@laserin_swim \n@usepool_official \n\n✔️수영복 - 라세린 미스틱레드\n✔️수모 -  유즈풀 러블리본\n✔️마스크 - 유즈풀 오로라 마스크 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "baek._.0",
       "metrics": {
-        "likes": 111,
+        "likes": 112,
         "comments": 32
       },
-      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -51,7 +51,7 @@
         {
           "d": "2026-07-25",
           "views": null,
-          "likes": 111,
+          "likes": 112,
           "comments": 32
         }
       ],
@@ -59,14 +59,14 @@
         "views_median": null,
         "eng_median": 155,
         "n": 11,
-        "captured_at": "2026-07-24T07:08:02.071261+09:00"
+        "captured_at": "2026-07-25T01:46:19.223146+09:00"
       },
       "frozen": false,
       "days_since_post": 6,
       "computed": {
-        "er": 0.015335120643431635,
-        "vs_baseline": 0.9225806451612903,
-        "cost_per_eng": 447.5524475524476,
+        "er": 0.01544235924932976,
+        "vs_baseline": 0.9290322580645162,
+        "cost_per_eng": 444.44444444444446,
         "cost_per_view": null
       },
       "analysis": {
@@ -78,7 +78,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 111 · 댓글 32 · ER 1.5% · 평소대비 0.9x (D+6)"
+      "last_written_reaction": "좋아요 112 · 댓글 32 · ER 1.5% · 평소대비 0.9x (D+6)"
     }
   ],
   "flags": {
@@ -89,5 +89,5 @@
   },
   "child_db_id": "d5139eba-97ed-827c-96fa-812ed5c9e026",
   "followers": 9325,
-  "last_written_score": 92
+  "last_written_score": 93
 }

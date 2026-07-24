@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T04:02:41.000Z",
       "permalink": "https://www.instagram.com/p/DbHwtp_iWuK/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/753513312_18547845382076209_287237911210686531_n.webp?_nc_cat=100&ig_cache_key=Mzk0NzMzNjczMzA0NzQ4NTEwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3eEUZb5iST0Q7kNvwFLY2_G&_nc_oc=AdpbLpKb4ImsZbplrw-WskghkhunqjwkyUAwubJKCFWc0MeqfSRp2uDw1Kjs13iIk3BDqAItAyvDXjitpgTSjtay&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=2JJQpWEeU8Thlk1qwMZiEA&_nc_ss=7c689&oh=00_AQBiojXb1V32vyNLZ5nvWlp-fH6h6iiyUs5EosQbs0SzTA&oe=6A685E9D",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/753513312_18547845382076209_287237911210686531_n.webp?_nc_cat=100&ig_cache_key=Mzk0NzMzNjczMzA0NzQ4NTEwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3eEUZb5iST0Q7kNvwHLsSdA&_nc_oc=Adqmnkbw4dB2R71dm7ACb9n0mQFcNsGEVkFjEZGmftmgbKNT1GDZOeJnqPc_fPypS0g&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=2uuQwr6Y1w-aAeXHH_L5Fw&_nc_ss=72289&oh=00_AQBQb9TCHKZBInD_grrYhRFp4onkV9DStglSLcHFjtXMWA&oe=6A6977DD",
       "caption": "#목요팅 \n오늘 공복 눈바디 마음에 들잖아🩵\n날씬해 보이는 @secrets__fit 운동복 덕분😍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "hi___zero_",
       "metrics": {
-        "likes": 192,
-        "comments": 35
+        "likes": 224,
+        "comments": 37
       },
-      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -51,29 +51,29 @@
         {
           "d": "2026-07-25",
           "views": null,
-          "likes": 192,
-          "comments": 35
+          "likes": 224,
+          "comments": 37
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 404.5,
         "n": 12,
-        "captured_at": "2026-07-24T07:08:02.071261+09:00"
+        "captured_at": "2026-07-25T01:46:19.223146+09:00"
       },
       "frozen": false,
       "days_since_post": 1,
       "computed": {
-        "er": 0.0019819961407828448,
-        "vs_baseline": 0.5611866501854141,
-        "cost_per_eng": 431.7180616740088,
+        "er": 0.0022788589988736673,
+        "vs_baseline": 0.6452410383189122,
+        "cost_per_eng": 375.47892720306515,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.64x로 기대치 하회, 참여 1건당 505원은 수용 가능하나 릴스 조회 데이터 미확보로 최종 판단 유보 필요.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 192 · 댓글 35 · ER 0.2% · 평소대비 0.6x (D+1)"
+      "last_written_reaction": "좋아요 224 · 댓글 37 · ER 0.2% · 평소대비 0.6x (D+1)"
     }
   ],
   "flags": {
@@ -84,5 +84,5 @@
   },
   "child_db_id": "ce939eba-97ed-837b-a06f-0100b1925439",
   "followers": 114531,
-  "last_written_score": 56
+  "last_written_score": 65
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fyMWP5caH40Q7kNvwGW1Vw8&_nc_oc=Adpv1SbgTB7zfKvu-DIFM80jxx155ytoMb0IV4tgMYF7s9wzH5aP9gDO6phglYVkLol3DTyIzWYLYrbCut5G_Nne&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=1zy_ju-GiH1wXAhbTGppAg&_nc_ss=7c689&oh=00_AQDfNPoe2n0BJ6I534xamN-K9_p-CHSA36wI3gi2tvQ-_Q&oe=6A686537",
+      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OZJSYZIvUv8Q7kNvwG4B8B1&_nc_oc=AdoXpwTdDmZ63C4WwzcZDl5CiHBgSuSk3TVkkJ3qM5d9CXGH6QI246gcy3VWnCy4BkYC0OZyaBknrFGEmROOToM2&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=A_8lR9IOf-tynMhKS-zdXQ&_nc_ss=72689&oh=00_AQA0sMCGq7ndO6Cy04mty6K1DPaSx1nXcLuXf7FHHYBIFw&oe=6A697E77",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "pink._0mermaid",
       "metrics": {
-        "likes": 98,
+        "likes": 99,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-25T01:32:46.981901+09:00",
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -51,7 +51,7 @@
         {
           "d": "2026-07-25",
           "views": null,
-          "likes": 98,
+          "likes": 99,
           "comments": 2
         }
       ],
@@ -59,14 +59,14 @@
         "views_median": null,
         "eng_median": 143.0,
         "n": 12,
-        "captured_at": "2026-07-24T07:08:02.071261+09:00"
+        "captured_at": "2026-07-25T01:46:19.223146+09:00"
       },
       "frozen": false,
       "days_since_post": 12,
       "computed": {
-        "er": 0.03207184092366902,
-        "vs_baseline": 0.6993006993006993,
-        "cost_per_eng": 1030.0,
+        "er": 0.03239255933290571,
+        "vs_baseline": 0.7062937062937062,
+        "cost_per_eng": 1019.8019801980198,
         "cost_per_view": null
       },
       "analysis": {
@@ -78,7 +78,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 98 · 댓글 2 · ER 3.2% · 평소대비 0.7x (D+12)"
+      "last_written_reaction": "좋아요 99 · 댓글 2 · ER 3.2% · 평소대비 0.7x (D+12)"
     }
   ],
   "flags": {
@@ -89,5 +89,5 @@
   },
   "child_db_id": "e5039eba-97ed-82ce-81b4-818fb77029d4",
   "followers": 3118,
-  "last_written_score": 70
+  "last_written_score": 71
 }

@@ -26,11 +26,39 @@
       "frozen": false,
       "days_since_post": 15,
       "computed": {
-        "er": null,
+        "er": 0.0009668063164679343,
         "vs_baseline": null,
-        "cost_per_eng": null,
+        "cost_per_eng": 29333.333333333332,
         "cost_per_view": null
-      }
+      },
+      "posted_at": "2026-07-09T02:55:24.000Z",
+      "permalink": "https://www.instagram.com/p/Dajl4M8yjJO/",
+      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/741621296_17980804143042871_664253454109656541_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkzNzE1NzA4OTE2ODMzOTUzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Sapjr970lccQ7kNvwF1co-i&_nc_oc=Adq2C_FHN5kw14DosnKznYAGGZ7OHSySw0fni2O7GFkpKD45fQAl8D4W7gvZY9T-QFcdDueO545ABvjQ2AawU98u&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=XEORvqoKuhBm2V67nwkHzA&_nc_ss=72689&oh=00_AQCu3oI_vLHszT9mBKTvj-7UheOIH9NAMLKLYX2MDDPFtw&oe=6A69658E",
+      "caption": "26.07.08 THU 🍈🥥🍑💪🏻\n가슴+어깨+하체+팔\n\n휴대폰 잃어버려서\n그나마도 가뭄에 콩나듯 운동다녀온거 사진 날려먹고..\n7월업로드..🐷🐷🐷🐷\n\n그래도 오랜만에 오니까 좋아요!\n\n-\n#오운완 #헬스소통 #운동하는아나운서 #fitnesslife #비키니선수",
+      "media_type": "IMAGE",
+      "product": "FEED",
+      "owner_username": "healthylife.heidi",
+      "metrics": {
+        "likes": -1,
+        "comments": 4
+      },
+      "metrics_updated_at": "2026-07-25T01:46:19.223146+09:00",
+      "history": [
+        {
+          "d": "2026-07-25",
+          "views": null,
+          "likes": -1,
+          "comments": 4
+        }
+      ],
+      "analysis": {
+        "d14": {
+          "one_liner": "좋아요 데이터 오류(−1)로 정확한 평가가 불가하며, 댓글 4건·참여율 0.10%는 소규모 계정 기준으로도 저조해 1건당 비용 29,333원 대비 효율이 낮은 상태다.",
+          "days": 15,
+          "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.1% (D+15)"
     }
   ],
   "flags": {

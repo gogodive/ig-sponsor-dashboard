@@ -3,5 +3,6 @@
   "followers_count": null,
   "recent_posts": [],
   "fetched_at": "2026-07-24T07:08:02.071261+09:00",
-  "ok": false
+  "ok": false,
+  "empty_streak": 1
 }
