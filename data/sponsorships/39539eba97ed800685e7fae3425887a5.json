@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-11T12:34:04.000Z",
       "permalink": "https://www.instagram.com/p/DapxLaZuEIe/",
-      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/743796583_18603230920035037_6790972125903867815_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=MzkzODg5NTYzNzY1NDI5MDk3NDE4NjAzMjMwOTE3MDM1MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ETSwZTbZiy8Q7kNvwGX7Ynj&_nc_oc=AdpHorABYs8st0y6f-PzhnJFi52m8bekV92MkNSXiHMGi3vqUYOSjIm_kWvylSnerbw&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=u4BIvfHrrAe5hLIRpvEpjA&_nc_ss=72a8c&oh=00_AQDYeQQ1ZTNxGxqZo66Jn57ndUFnCcHR-xUWcvMsp4JXRg&oe=6A69C5BB",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/743796583_18603230920035037_6790972125903867815_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=MzkzODg5NTYzNzY1NDI5MDk3NDE4NjAzMjMwOTE3MDM1MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ETSwZTbZiy8Q7kNvwE5hLtC&_nc_oc=AdrJSWRZjWEd9XKDUlsVh_UMdYeZNr4TkPrzaWunciD_LpTeNsc0gtjNju68lKLUJz0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=DxRkERDalj_H_BRs1yA0eA&_nc_ss=7ca8c&oh=00_AQADZAEaXcYHQe3qOY2FCGEjp0ZfK0HnmC73DwDxeWWrVw&oe=6A6B173B",
       "caption": "#광고 존예 애슬레저룩과 함께 핫체 완룡 (๑˃̵ᴗ˂̵)و\n\nHeight : 163cm\nWeight : 50kg\n\n✔️ Top : 글램버튼 반팔 (S / 라이트 블루)\n✔️ Bottom : V컷 레깅스 8부 (S / 차콜)\n\n#gym #gymlife #workout #ootd",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "1.10_o",
       "metrics": {
-        "likes": 270,
+        "likes": 273,
         "comments": 13
       },
-      "metrics_updated_at": "2026-07-25T07:08:32.246660+09:00",
+      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -53,6 +53,12 @@
           "views": null,
           "likes": 270,
           "comments": 13
+        },
+        {
+          "d": "2026-07-26",
+          "views": null,
+          "likes": 273,
+          "comments": 13
         }
       ],
       "baseline": {
@@ -62,11 +68,11 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.019168247087510158,
+        "er": 0.01937144405310214,
         "vs_baseline": null,
-        "cost_per_eng": 155.47703180212014,
+        "cost_per_eng": 153.84615384615384,
         "cost_per_view": null
       },
       "analysis": {
@@ -76,9 +82,14 @@
           "one_liner": "조회수 미집계로 확산력 판단은 보류되나, 좋아요 267·참여율 1.90%·건당 314원은 소규모 계정 협찬 기준 무난한 초기 효율로 평가됨.",
           "days": 12,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "조회수 미집계로 도달 판단이 제한적이나, 좋아요+댓글 286건·참여당 154원은 수영·다이빙 니치 계정 기준 무난한 중간 성과.",
+          "days": 14,
+          "analyzed_at": "2026-07-26T06:59:34.414324+09:00"
         }
       },
-      "last_written_reaction": "좋아요 270 · 댓글 13 · ER 1.9% (D+13)"
+      "last_written_reaction": "좋아요 273 · 댓글 13 · ER 1.9% (D+14)"
     },
     {
       "notion_row_id": "25c39eba-97ed-82c4-90d7-818e09fc506d",
@@ -89,7 +100,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-11T11:34:53.000Z",
       "permalink": "https://www.instagram.com/p/Dapq7IBFDIw/",
-      "thumbnail": "https://instagram.fwaw9-1.fna.fbcdn.net/v/t51.82787-15/736513767_18603218014035037_8305346635466284896_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkzODg2Nzg0Nzc2NDI2Njg4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ExGV8-VU4n4Q7kNvwGv1oJH&_nc_oc=AdpFdzff5Rtf2KDpBn0yL6Qe4dG9F4trhDm3UPI9FeT1DwAsPMcDM_GChpTKAimL3qM&_nc_zt=23&_nc_ht=instagram.fwaw9-1.fna&_nc_gid=NWtQ_3y3J4LGLwt9s2XaEw&_nc_ss=7ca8c&oh=00_AQAbb-vkplJ4o0e8bh6jJs-8v1zD3MWKQ8h75baJbnFnbQ&oe=6A69C94C",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/736513767_18603218014035037_8305346635466284896_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkzODg2Nzg0Nzc2NDI2Njg4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CaQK43Hv460Q7kNvwEnApyo&_nc_oc=AdqdMsn4a6uOoJOnKBLxb9Ydak2A9GUrUEEPvCOemkdQBuuTA8vfsYufuk9Mf1VIx9Q&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=O2MrhvNvuv5RGhvYuwLVJg&_nc_ss=7ca8c&oh=00_AQCORrnz84vcrEP4ysbmfVtxwWsFxVDOKNA6kmQfFSI95Q&oe=6A6B1ACC",
       "caption": "#광고 핏 미쳤다…🩵\nV컷 레깅스부터 상의디자인까지 완전 내 취향 🖤\n\nHeight : 163cm\nWeight : 50kg\n\n✔️ Top : 글램버튼 반팔 (S / 라이트 블루)\n✔️ Bottom : V컷 레깅스 8부 (S / 차콜)\n\n#시크릿스 #SECRETS #운동복추천 #애슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -98,7 +109,7 @@
         "likes": 205,
         "comments": 16
       },
-      "metrics_updated_at": "2026-07-25T07:08:32.246660+09:00",
+      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -117,16 +128,22 @@
           "views": null,
           "likes": 205,
           "comments": 16
+        },
+        {
+          "d": "2026-07-26",
+          "views": null,
+          "likes": 205,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 351.5,
         "n": 12,
-        "captured_at": "2026-07-25T07:08:32.246660+09:00"
+        "captured_at": "2026-07-26T06:59:34.414324+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.014968843131942564,
         "vs_baseline": 0.6287339971550497,
@@ -140,9 +157,14 @@
           "one_liner": "평소 대비 0.62x 저조한 반응으로 참여 1건당 402원은 합리적이나, 팔로워 대비 1.48% 참여율은 아직 개선 여지 있음.",
           "days": 12,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.63x로 부진한 반응이나, 참여 1건당 199원은 비용 효율 측면에서 양호한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-07-26T06:59:34.414324+09:00"
         }
       },
-      "last_written_reaction": "좋아요 205 · 댓글 16 · ER 1.5% · 평소대비 0.6x (D+13)"
+      "last_written_reaction": "좋아요 205 · 댓글 16 · ER 1.5% · 평소대비 0.6x (D+14)"
     }
   ],
   "flags": {

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-24T15:19:44.000Z",
       "permalink": "https://www.instagram.com/p/DZ-RuX5p1zi/",
-      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/728772129_18097983614522929_2401604337728335563_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGSFE4P44nQYKhoEN9x_u_lnreTcJq7arVkhVv8jHyiaAjQs6UDrzE9HX4yyYZSRHc&_nc_ohc=KaTQrryExcQQ7kNvwH3OGPy&_nc_gid=QxFhfJQ0OkV2ZF2nfhLaWQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB2y8vBqocmOYw51227SkOZtVAo8tTvzUFPH8Kej3uQMw&oe=6A69A262&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.ffco2-1.fna.fbcdn.net/v/t51.82787-15/728772129_18097983614522929_2401604337728335563_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ffco2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEXDjv8BfNE9waJRqBmJ6bYjhvdWXM4pGVLyZB2QC8zVXlNgZ-2vKN6yD0Tur4pmF0&_nc_ohc=HlujcWvKCikQ7kNvwGSFXgh&_nc_gid=v0oIQ0lDHlge2upUANAHrg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDeNYn8W7tyZrMchT2DGQHQZc-V7Uph3jj_YixEpOgDDQ&oe=6A6AF3E2&_nc_sid=c6f216",
       "caption": "✶ POV: 타이타닉 OST가 나오면🫧\n\n이럴려고 펀다이빙 하는 거 아닌가요?\n\n물속에서 자유롭게 놀고,\n예쁜 사진도 남기고,\n영상까지 ✨\n\n사진, 영상 맛집 📸\n프리덤다이브 덕분에 인생샷 추가했어요🪩\n\n빛이 만들어준 물결,\n강사님이 챙겨오신 소품,\n그리고 타이타닉 OST까지 🫧\n\n✶ 수영복 : 라세린 @laserin_swim \n\n사진도 영상도 수업도 진심인 프리덤다이브 \n@freedom.diver @freedom.diveteam ✨\n\n#프리다이빙 #머메이드다이빙 #프리덤다이브 #창원프리다이빙 #부산프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -62,8 +62,8 @@
         "n": 6,
         "captured_at": "2026-07-25T07:08:32.246660+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.055349029326724496,
         "vs_baseline": 0.7997042963993738,
@@ -77,9 +77,11 @@
           "one_liner": "평소 대비 0.80x로 다소 부진하나, 참여율 5.53%·참여당 515원으로 비용 효율은 준수한 수준.",
           "days": 29,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 5.53%는 소규모 계정 기준으로 양호한 수준이나, 평소 대비 0.80배라는 점은 협찬 콘텐츠가 오히려 평균 이하의 반응을 얻었음을 의미해 콘텐츠 자연스러움에 개선 여지가 있다. 조회당 비용 3.8원·참여당 비용 129원은 절대 수치상 효율적으로 보이지만, 팔로워 4,842명의 마이크로 계정에서 조회 9,195회는 팔로워의 약 1.9배 수준으로 외부 확산이 제한적이었다. 상품 가액 138,000원 대비 도달·참여 규모가 작아 브랜드 인지 확대보다는 소규모 충성 커뮤니티 내 노출에 그쳤으며, 재협찬 시에는 콘텐츠 기획 방향 조율과 함께 계정 성장 추이를 추가 모니터링한 후 결정하는 것이 바람직하다.",
+        "final_at": "2026-07-26T06:59:34.414324+09:00"
       },
-      "last_written_reaction": "조회 9,195 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "조회 9,195 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (확정)"
     },
     {
       "notion_row_id": "38939eba-97ed-8075-9f2b-c3b01318cf3a",
@@ -115,7 +117,7 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.029120198265179677,
         "vs_baseline": 0.8757763975155279,
@@ -162,7 +164,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.04068566707971912,
         "vs_baseline": 1.131810442678774,
@@ -185,7 +187,7 @@
       "upload_date_notion": "2026-06-22",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": null,
         "vs_baseline": null,

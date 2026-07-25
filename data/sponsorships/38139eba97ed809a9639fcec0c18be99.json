@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-03T07:42:06.000Z",
       "permalink": "https://www.instagram.com/p/DaUpbNFTtH_/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/730313392_18605428162053608_6539047259197005660_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHSSGllzP-ExTbYgVHWdr317fxRtoxjvEEziQA2aKQKECNZFQkBkmxKOoVM9FjF4vU&_nc_ohc=OICxvg07eIsQ7kNvwF1TvG9&_nc_gid=Ah7TWEt7D2y1fLiIPkGRMw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBAGG_a-3xd3jzUyIIiTXiv33jUmxMLAl8QkY7m0ThjIA&oe=6A69C68B&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbhx7-1.fna.fbcdn.net/v/t51.82787-15/730313392_18605428162053608_6539047259197005660_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbhx7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gHEZGIuYE5jwMP1h9hibM0Q5lTveehW8ocSZcm1OKm4DKDx8gdgKEBsEh3wgTdqFP5qCE32MeleKBlSfrb24aM-&_nc_ohc=Q7SfFyFNKiIQ7kNvwHV4nxQ&_nc_gid=Ot4tCEWFYb5v5pLtSwpjOg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDY0FYRtKHjnywdWCRrQ7O2uD5fg72MzTTNR-5_Bvg7lQ&oe=6A6B180B&_nc_sid=c6f216",
       "caption": "완투뜨리뽀 둔땍땍둔땍〰️\n수영장과 세트같은 라세린🩵🤎\n\n✿ @laserin_swim ✿\n- 글리트 아이스모카 ⋆˙⟡♡\n\n#라세린 #수영복 #수영복코디 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "eeharmik",
       "metrics": {
-        "views": 16570,
+        "views": 16584,
         "likes": 98,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-25T07:08:32.246660+09:00",
+      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -54,21 +54,27 @@
           "views": 16570,
           "likes": 98,
           "comments": 21
+        },
+        {
+          "d": "2026-07-26",
+          "views": 16584,
+          "likes": 98,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": 4772.0,
         "eng_median": 155.0,
         "n": 8,
-        "captured_at": "2026-07-25T07:08:32.246660+09:00"
+        "captured_at": "2026-07-26T06:59:34.414324+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.0427596119295724,
-        "vs_baseline": 3.472338642078793,
+        "vs_baseline": 3.4752724224643754,
         "cost_per_eng": 331.93277310924367,
-        "cost_per_view": 2.383826191913096
+        "cost_per_view": 2.3818137964302943
       },
       "analysis": {
         "one_liner": "평소 대비 3.49배 조회를 기록하며 조회당 4.8원·참여당 664원의 효율적 비용으로 소규모 계정 대비 양호한 초기 성과를 달성했습니다.",
@@ -79,7 +85,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 16,570 · 좋아요 98 · 댓글 21 · ER 4.3% · 평소대비 3.5x (D+21)"
+      "last_written_reaction": "조회 16,584 · 좋아요 98 · 댓글 21 · ER 4.3% · 평소대비 3.5x (D+22)"
     },
     {
       "notion_row_id": "39539eba-97ed-825e-a771-81c3c6d63404",
@@ -121,7 +127,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.04886812791951132,
         "vs_baseline": 0.6476190476190476,

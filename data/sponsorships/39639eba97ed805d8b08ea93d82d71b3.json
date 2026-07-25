@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T05:28:33.000Z",
       "permalink": "https://www.instagram.com/p/DbH6ik5GN4D/",
-      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NzM3OTg5MDM0Njk3ODEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n3y2PrHMP6IQ7kNvwHnnps8&_nc_oc=AdpnbFj-Nn1IRiHrFsjAb-aabRTTOKl1XGjBUcLPwoBVIJA7WEcjbFwCvCXmcd9ROIc&_nc_zt=23&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_gid=O30bzhYbDN7MmU2_vzH71A&_nc_ss=7c289&oh=00_AQCxhbNghI8vb2LsWNwKHyHKH9teIua3U9OAwi8c_uxDyQ&oe=6A69AF97",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NzM3OTg5MDM0Njk3ODEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=32aYqNj_oMUQ7kNvwEAkf52&_nc_oc=AdrOanBvng50iKXNzZw0hO7Oeapuf1AsBEHLNyyNsTq5oKxfCTscEvsbYYA2KhbAG1gX6aTGE3UzyaCqU26UqrX9&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=u0V53CA53sgHGZS2cg65dw&_nc_ss=72689&oh=00_AQC6Da98sb4wnzkAW63V3NvN5hU2O3-7cMJHze74-ocyiw&oe=6A6B0117",
       "caption": "#협찬 \n\n여름에 따악 어울리는 색상 🩵\n실물이 더 영롱하고 고급진데 전하지못해 아쉽ㄷㅏ😵\n착용감은 말해 뭐해〰️\n너무 부드럽고 쫀득한 느낌 !\n\n✔️크리스탈 웨이브 더블 크로스백\n✔️xs착용\n\n#라세린 #수영복 #수영복추천 #swimwear",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "chacha___babe",
       "metrics": {
-        "likes": 196,
-        "comments": 16
+        "likes": 210,
+        "comments": 17
       },
-      "metrics_updated_at": "2026-07-25T07:08:32.246660+09:00",
+      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -53,27 +53,33 @@
           "views": null,
           "likes": 196,
           "comments": 16
+        },
+        {
+          "d": "2026-07-26",
+          "views": null,
+          "likes": 210,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 300,
         "n": 9,
-        "captured_at": "2026-07-25T07:08:32.246660+09:00"
+        "captured_at": "2026-07-26T06:59:34.414324+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.004632664656265023,
-        "vs_baseline": 0.7066666666666667,
-        "cost_per_eng": 325.47169811320754,
+        "er": 0.004960447532887549,
+        "vs_baseline": 0.7566666666666667,
+        "cost_per_eng": 303.9647577092511,
         "cost_per_view": null
       },
       "analysis": {
         "one_liner": "평소 대비 0.49x로 절반 수준에 그쳐 부진하며, 참여 1건당 469원은 69,000원 협찬 대비 비효율적 출발.",
         "analyzed_at": "2026-07-23T21:09:07.107766+09:00"
       },
-      "last_written_reaction": "좋아요 196 · 댓글 16 · ER 0.5% · 평소대비 0.7x (D+1)"
+      "last_written_reaction": "좋아요 210 · 댓글 17 · ER 0.5% · 평소대비 0.8x (D+2)"
     }
   ],
   "flags": {
@@ -84,5 +90,5 @@
   },
   "child_db_id": "52839eba-97ed-8225-9a1f-016c8e833170",
   "followers": 45762,
-  "last_written_score": 71
+  "last_written_score": 76
 }
