@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-21",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.026150807282720713,
-        "vs_baseline": 0.9340490797546013,
-        "cost_per_eng": 311.98686371100166,
+        "er": 0.02653727241497767,
+        "vs_baseline": 0.9478527607361963,
+        "cost_per_eng": 307.44336569579286,
         "cost_per_view": null
       },
       "posted_at": "2026-07-21T02:44:17.000Z",
       "permalink": "https://www.instagram.com/p/DbCeJqAGFig/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NTg0NjEyNDI0MDg1ODg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=faHz_W-fKUEQ7kNvwF-tvnu&_nc_oc=AdrViAcfg7EyB6tMNXrjvV9f7YplCTYC2znRuIgBr4rqgeIZaeL5WeaieINrBHgfrok&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=HmbY67p8MMm2g2E-3r2hmQ&_nc_ss=7c689&oh=00_AQAf6peuNHOnnRcvLI_Em507JZKz4epwzBaUZofkljqaCA&oe=6A6AEC36",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NTg0NjEyNDI0MDg1ODg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UnhBfj6CmZsQ7kNvwERzhF1&_nc_oc=AdrvBmn2FwBl9JQi8U2iCN7e0el3ZxSh6DMs6JmzJ_TT6K-4b3QFJdRSuHYU-Y4UYdc&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=f6GDVOm6M9HTuJMQX8hh4w&_nc_ss=7c289&oh=00_AQCSTuXlOwdR-lBvIroZmQt3EWTc4hDpSH99Xbbs9FYGBw&oe=6A6C3DB6",
       "caption": "바다수영 추천템 모음zip. 🌊😎⛱️🍉🏊🏻‍♀️\n\n@intotheblue_store \n✷ 딥바이브 프리다이빙 웻슈트 스프링 2mm\n\n슈트 = 살 안 타, 안 추워 아이템 •• 🫶🏻\n\n래쉬가드 말고 스프링슈트 !\n\n래쉬가드는 물에 젖으면 찝찝하고 금방 추워지는데,\n스프링슈트는 몸에 착 감기면서 뽀송하고 훨씬 따뜻해요 💓\n\n여름에도 바닷물은 차가와 ❄️❄️❄️\n\n2mm 두께라 사계절 내내 부담 없이 입기 좋고,\n바다수영은 물론 한강수영, 프리다이빙, 스노클링까지 은근 활용도가 정말 높아요 👀\n\n(매번 대여하는 것 보다 하나 장만해두는게",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim.__.hey",
       "metrics": {
-        "likes": 561,
-        "comments": 48
+        "likes": 569,
+        "comments": 49
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -55,13 +55,19 @@
           "views": null,
           "likes": 561,
           "comments": 48
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 569,
+          "comments": 49
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 652.0,
         "n": 12,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "analysis": {
         "d3": {
@@ -70,7 +76,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 561 · 댓글 48 · ER 2.6% · 평소대비 0.9x (D+4)"
+      "last_written_reaction": "좋아요 569 · 댓글 49 · ER 2.7% · 평소대비 0.9x (D+5)"
     }
   ],
   "flags": {
@@ -81,5 +87,5 @@
   },
   "child_db_id": "7c939eba-97ed-83b0-a9d2-817f2ae515f8",
   "followers": 23288,
-  "last_written_score": 93
+  "last_written_score": 95
 }

@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-17",
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
-        "er": 0.04278523489932886,
+        "er": 0.04320469798657718,
         "vs_baseline": null,
-        "cost_per_eng": 338.2352941176471,
+        "cost_per_eng": 334.9514563106796,
         "cost_per_view": null
       },
       "posted_at": "2026-07-13T11:42:50.000Z",
       "permalink": "https://www.instagram.com/p/Dau0sQlyadx/",
-      "thumbnail": "https://instagram.fcjs1-1.fna.fbcdn.net/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk0MDMxODQ2Mzg4NTE1ODI1NzE3OTA0MDM4NjAxNDYxODE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kvfjrf4adwgQ7kNvwHI9JBQ&_nc_oc=AdqepqEKVYeFu6djqRzANbpiDoJtfioyFclCMkduyBZvqJDtD_U7KJmKgkqII6oiX7g&_nc_zt=23&_nc_ht=instagram.fcjs1-1.fna&_nc_gid=3Y1x0ZMZ2o6-MA-M9sUtqw&_nc_ss=72a8c&oh=00_AQCb8CVfmd_yTxawSxlfs4DH5prgY2O3oRs-KAhgl3GIOA&oe=6A6AFBD2",
+      "thumbnail": "https://instagram.fktw6-1.fna.fbcdn.net/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk0MDMxODQ2Mzg4NTE1ODI1NzE3OTA0MDM4NjAxNDYxODE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kvfjrf4adwgQ7kNvwGJdZ5q&_nc_oc=AdotMpUEY6zrvcSmjYmJKnbmopWoV8xNhIqG9V5JEsIfJk0cBfn3ijxxBRVbFbaiwKtXcmmdsWYXULJbCtA_pB3J&_nc_zt=23&_nc_ht=instagram.fktw6-1.fna&_nc_gid=xmqD6RSAid4LK2rxzAg3Xw&_nc_ss=72689&oh=00_AQBf1Znhx4NmoH-9qqutUzf8e3pc9fCZR1fFMkMCiBeK4w&oe=6A6C4D52",
       "caption": "#협찬 @laserin_swim \n\n화이트 수영복 조아..🤍 한강 수영장도 조아..🩷\n\n𝗟𝗔𝗦𝗘𝗥𝗜𝗡 - 𝗪𝗵𝗶𝘁𝗲 𝗦𝗵𝗲𝗹𝗹\n𓇼 미들 하이컷\n𓇼 Y자 픽스드백\n𓇼 두 겹 수영복\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 정사이즈 추천\n• 153cm / 42kg / torso 140\n\n🧢 @uhpuhpuh \n🥽 @oompaa.world",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimlog_nana",
       "metrics": {
-        "likes": 98,
+        "likes": 99,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -55,13 +55,19 @@
           "views": null,
           "likes": 98,
           "comments": 4
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 99,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": 11171,
         "eng_median": 161,
         "n": 3,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "analysis": {
         "d3": {
@@ -70,7 +76,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 98 · 댓글 4 · ER 4.3% (D+12)"
+      "last_written_reaction": "좋아요 99 · 댓글 4 · ER 4.3% (D+13)"
     },
     {
       "notion_row_id": "a6f39eba-97ed-822d-83ba-81f6d954e07d",
@@ -81,7 +87,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T08:51:08.000Z",
       "permalink": "https://www.instagram.com/p/DauhxkRGoS9/",
-      "thumbnail": "https://instagram.fpaz4-1.fna.fbcdn.net/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OpY6JCMxJmgQ7kNvwEHHtCo&_nc_oc=Adp3isBwj7smFnVAag7QH7-5wsEOktMw0MvbwoAEf4TUjTewoCQVWyKvQekqSu4d6ahXCl5I4ZWvcXnrB0gM_qWc&_nc_zt=23&_nc_ht=instagram.fpaz4-1.fna&_nc_gid=OvWPEwOyJRHh-KPk0W04_Q&_nc_ss=72689&oh=00_AQBpiHoerwmV4swtGBMzHe8RzC2HElXBi7vg71VoTnV-5w&oe=6A6B197D",
+      "thumbnail": "https://instagram.fktw5-1.fna.fbcdn.net/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=OpY6JCMxJmgQ7kNvwHrL7r2&_nc_oc=AdqEESGj6ssHalF_ZMR_gx5kiFRON7R-i6_NsghvbI1To52uZbGwu1Bq9rgfM0uqSF0&_nc_zt=23&_nc_ht=instagram.fktw5-1.fna&_nc_gid=vvD41y8MC5RmxrpyEHVsTw&_nc_ss=72a8c&oh=00_AQDwlyF4IzzXgKa83tCJM2QAJU52j8CAbvd9Mlu3b5M6Qg&oe=6A6C6AFD",
       "caption": "#협찬 @laserin_swim \n𝙇𝘼𝙎𝙀𝙍𝙄𝙉 - 𝙒𝙝𝙞𝙩𝙚 𝙎𝙝𝙚𝙡𝙡 🤍\n\n화이트 수영복 찾는다면? 라세린 화이트쉘 어떠세요🐚\n\n은은하게 번지는 오팔 홀로그램✨\n반짝반짝 빛나는게 윤슬이 떠오르지 않나요••\n\n포일 수영복이지만 ! \n코튼캔디, 글로우펄에 비해 잘 늘어나서 입기 수월해요. \n정사이즈 추천드립니다🫶🏻\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 평소 XS~S, 26 사이즈 착용\n• 153/42/140\n⠀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -90,7 +96,7 @@
         "likes": 121,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -109,16 +115,22 @@
           "views": null,
           "likes": 121,
           "comments": 30
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 121,
+          "comments": 30
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 121.5,
         "n": 12,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.06333892617449664,
         "vs_baseline": 1.242798353909465,
@@ -134,7 +146,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.2x (D+12)"
+      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.2x (D+13)"
     }
   ],
   "flags": {

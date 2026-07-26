@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-25T00:10:24.000Z",
       "permalink": "https://www.instagram.com/p/DZ_P30XEwlm/",
-      "thumbnail": "https://instagram.fper10-2.fna.fbcdn.net/v/t51.82787-15/730331537_17882676981664689_4699569640878526762_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=MzkyNjkyNTg2ODAyMzA0MTI2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-2ssDIBCRM4Q7kNvwHAbtyx&_nc_oc=AdoV-54gV7wnLw_uUpyXAqHkr995QV3LSMrk34SeeMqCvYj46ULsNSkpo5n2NTHNLL4&_nc_zt=23&_nc_ht=instagram.fper10-2.fna&_nc_gid=t4WV5OMMiVoYXf1YHOR_uA&_nc_ss=72a8c&oh=00_AQAHBwtY1i68LRxyY7U6bKXCPep1WVjIJoOPhsLzb_NJ3w&oe=6A6B1ADE",
+      "thumbnail": "https://instagram.fmex41-1.fna.fbcdn.net/v/t51.82787-15/730331537_17882676981664689_4699569640878526762_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=MzkyNjkyNTg2ODAyMzA0MTI2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-2ssDIBCRM4Q7kNvwFJIwcx&_nc_oc=Adr3VSshOs_SvfI087vAXjoyH4OGacbA_vq_6W3z4mNnOkH0gyGUwTw_ubRibWSfy7OIzUh7ZNV3PAKCKzqqR2bK&_nc_zt=23&_nc_ht=instagram.fmex41-1.fna&_nc_gid=hoxRqPNC_iCrXng-Ri53aA&_nc_ss=72a8c&oh=00_AQC4tNNniOVCisPFgP3CNgRRSp0FaHx-OPI9oSZNhZLZRg&oe=6A6C6C5E",
       "caption": "🎀🤍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -67,8 +67,8 @@
         "n": 12,
         "captured_at": "2026-07-26T06:59:34.414324+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.10941475826972011,
         "vs_baseline": 0.6935483870967742,
@@ -82,9 +82,11 @@
           "one_liner": "평소 대비 0.69x로 부진하나, 팔로워 393명 소계정 기준 참여율 10.94%·건당 1,605원은 수용 가능한 수준.",
           "days": 29,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 393명의 소규모 계정임에도 참여율 10.94%는 마이크로 인플루언서 평균(3~6%)을 크게 상회하며, 참여 1건당 비용 802원도 69,000원 상품가 대비 합리적인 수준이다. 다만 평소 대비 0.69배로 협찬 게시물 성과가 오히려 평소보다 저조했다는 점은 콘텐츠 자연스러움이나 팔로워 반응 면에서 개선 여지가 있음을 시사한다. 절대적 참여 규모(좋아요 40·댓글 3)가 작아 브랜드 노출 확산 효과는 제한적이나, 소액 협찬 특성을 감안하면 비용 효율 자체는 수용 가능한 수준으로 판단된다.",
+        "final_at": "2026-07-27T07:01:35.301262+09:00"
       },
-      "last_written_reaction": "좋아요 40 · 댓글 3 · ER 10.9% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "좋아요 40 · 댓글 3 · ER 10.9% · 평소대비 0.7x (확정)"
     },
     {
       "notion_row_id": "38339eba-97ed-82d8-967b-019ba3ac33ce",
@@ -95,16 +97,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T10:29:54.000Z",
       "permalink": "https://www.instagram.com/p/DaKp8qPEe1k/",
-      "thumbnail": "https://instagram.fman4-2.fna.fbcdn.net/v/t51.82787-15/731312421_17883687360664689_2569111724629695467_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkzMDEzMjQ2MjIxMDE5NzU1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EcocQRhF0sAQ7kNvwFMxSGO&_nc_oc=AdpsBWjV0S4_icwHmB64VAfAPaT5UImvJBPlqRpWt4MxkHpdm8y9G8u1UoDePkgKmdM&_nc_zt=23&_nc_ht=instagram.fman4-2.fna&_nc_gid=R9FdjnX2DA3liPouRt1HDA&_nc_ss=72a8c&oh=00_AQA8P6XNQp_qU5i4XQsz-KMecXa3zyPCvoA2V8f3jhQN7Q&oe=6A6AF5A4",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731312421_17883687360664689_2569111724629695467_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkzMDEzMjQ2MjIxMDE5NzU1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EcocQRhF0sAQ7kNvwG2iOor&_nc_oc=AdpkAfsT5D53gb6wGGrSJKqoIjgc8MQ-r6id43M1AlDLROLAcYXeCzJcJI-UY0YsBdY&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=TfXnSg6HfmTQ4AuDbwPF7g&_nc_ss=72289&oh=00_AQCORJJslv8O14CIx71uB03jqy1jHlTDRJXGAODfRjmD1A&oe=6A6C4724",
       "caption": "물속에서 더 예쁜 수영복 @laserin_swim 🎀🤍\n\n라세린 수영복 입고 수영했어요🏊🏻‍♀️✨\n\n가장 마음에 들었던 컬러감💗\n물속에 들어가니 색감이 더 맑고 화사하게 살아나서 정말 영롱해요🫧🤍\n사진도 너무 예쁘게 나와서 자꾸 남기고 싶어지는 수영복📸✨\n\n몸을 부드럽게 감싸주는 착용감도 좋고,\n움직일 때도 답답함 없이 자연스러워 수영하는 내내 편안한💕\n자주 손이 갈 최애 물옷이 될 것 같아요😍\n\n예쁘고 편함 둘 다 챙겨,,🤍🎀\n\n• 170 / 51 / S\n\n#제품제공#라세린#laserin",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "luvxswim",
       "metrics": {
-        "likes": 54,
+        "likes": 58,
         "comments": 1
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -129,20 +131,26 @@
           "views": null,
           "likes": 54,
           "comments": 1
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 58,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 62.0,
         "n": 12,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
-        "er": 0.13994910941475827,
-        "vs_baseline": 0.8870967741935484,
-        "cost_per_eng": 627.2727272727273,
+        "er": 0.15012722646310434,
+        "vs_baseline": 0.9516129032258065,
+        "cost_per_eng": 584.7457627118644,
         "cost_per_view": null
       },
       "analysis": {
@@ -154,7 +162,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 54 · 댓글 1 · ER 14.0% · 평소대비 0.9x (D+26)"
+      "last_written_reaction": "좋아요 58 · 댓글 1 · ER 15.0% · 평소대비 1.0x (D+27)"
     }
   ],
   "flags": {
@@ -165,5 +173,5 @@
   },
   "child_db_id": "d1a39eba-97ed-8301-a17a-01298fd5ee60",
   "followers": 393,
-  "last_written_score": 79
+  "last_written_score": 82
 }

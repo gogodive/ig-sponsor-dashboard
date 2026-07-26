@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.009856581811816959,
-        "vs_baseline": 1.8425357873210635,
-        "cost_per_eng": 806.881243063263,
+        "er": 0.010414501537014145,
+        "vs_baseline": 1.9468302658486707,
+        "cost_per_eng": 763.655462184874,
         "cost_per_view": null
       },
       "posted_at": "2026-07-23T13:59:52.000Z",
       "permalink": "https://www.instagram.com/p/DbI1Dj6E0s-/",
-      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NzYzMzcyNzI3MDMyNjUwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UFU2bsKK4NAQ7kNvwGpbu7f&_nc_oc=Adps5Iv75bJWbLHMKsH64qauu-9ppfkZbXSFCwl2Z8CKEZ_9qxkEaszbzBZ-rl0NkGk&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=ya3rb7SVCQZi9mmvBr-x1A&_nc_ss=72a8c&oh=00_AQD8XVmw81IIxfMeVEX8sEh3yxZRWQQqV3xxx9gI12E9uw&oe=6A6B1CF4",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NzYzMzcyNzI3MDMyNjUwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=798BZZt2x_EQ7kNvwHH-dy-&_nc_oc=AdrUP4XVOxXKFwcIf8jftt8Zfoz2CVtdOQEqvwrWAe1cHhYOsr6SN7cWR51x89VcC0I&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=50q8S3dy3Y1aidSYcvFxHA&_nc_ss=72a8c&oh=00_AQATbXbl8x3Ui068IjJQWdkvPLA7ELC9UrxmH5q7MrOXpw&oe=6A6C6E74",
       "caption": "사람없는 한적한 삼척 스팟 취사O , 텐트O, 타프O \n(7/22-23 둘다 맑음 뒤 비) *제품제공\n\n가장 좋았던게 사람이 지인짜 별로 없어서 \n거의 전세냈고 , 파라솔 강매 없는게 젤 좋음..\n화장실은 있지만 샤워실 이용은 돈내고 해야함\n(민박집 사장님들 너~~무 착함)\n\n주차장도 넉넉한편 \n해변 스팟은 한쪽은 고운모래 스팟 한쪽은 몽돌이라\n다른 느낌으로 스노쿨링 할수 있고 \n수심 낮은곳과 깊은곳 다 있고 물이 잔잔하고 \n지이이이이인짜 맑아요 물고기도 많은데..\n성게, 꽃게, 물고기, 굴 등등 많음!!!!!!\n\n🐠어쩌다 가방에 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "o_os.ra",
       "metrics": {
-        "likes": 863,
-        "comments": 38
+        "likes": 911,
+        "comments": 41
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -55,15 +55,28 @@
           "views": null,
           "likes": 863,
           "comments": 38
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 911,
+          "comments": 41
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 489.0,
         "n": 12,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
-      "last_written_reaction": "좋아요 863 · 댓글 38 · ER 1.0% · 평소대비 1.8x (D+2)"
+      "last_written_reaction": "좋아요 911 · 댓글 41 · ER 1.0% · 평소대비 1.9x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.95배 참여로 준수한 출발, 참여 1건당 764원은 합리적 수준이나 3일차 추이 지속 모니터링 필요.",
+          "days": 3,
+          "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
+        }
+      }
     }
   ],
   "flags": {
@@ -74,5 +87,5 @@
   },
   "child_db_id": "38239eba-97ed-8077-a9ea-f7cf165a3da4",
   "followers": 91411,
-  "last_written_score": 184
+  "last_written_score": 195
 }

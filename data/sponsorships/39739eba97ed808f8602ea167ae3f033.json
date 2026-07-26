@@ -24,26 +24,26 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.001277814496585151,
-        "vs_baseline": 0.3578371810449575,
+        "vs_baseline": 0.3778857837181045,
         "cost_per_eng": 10000.0,
-        "cost_per_view": 492.35993208828523
+        "cost_per_view": 466.2379421221865
       },
       "posted_at": "2026-07-22T07:49:47.000Z",
       "permalink": "https://www.instagram.com/p/DbFj2w_xFEb/",
-      "thumbnail": "https://instagram.ffco2-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffco2-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gE3XDyEm-8AtOzvTr24RhwAYRDL3P99arPLsSPA_sa_gGrTCvWGh43-r1edVGlf0RI&_nc_ohc=tWDWJ2d2PR4Q7kNvwHSw0hp&_nc_gid=U4-KgIO5utiIGEQBxQ6bcg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBAdszOFV9DuvEvwyLqGnqmktuud3UfZEt-wRP_YG-oEw&oe=6A6AFE54&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpll8-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fpll8-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFNjKpwKVW1Ag399plgV9IXQhcLI9vDBpiE6SXl9jqLSz5uS_Fhs3-hc-XrYVF4zPE&_nc_ohc=tWDWJ2d2PR4Q7kNvwGthF-o&_nc_gid=NaYKE8DMkTkJMdMLDXb7BQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDQmG15QT20u3hcV2nwBNbXi04D_Xmx_TDTLyP6q6hqGQ&oe=6A6C4FD4&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store\n\n🩵 물속에서 인어가 되는 방법🩵🧜🏻‍♀️\n\n수중장비 멀티샵 \"인투더블루\" 스토어에서\n판매하고 있는 딥바이브 오로라 롱핀💕\n오로라 롱핀은 움직임마다 다른색으로 예쁘게 변하고🤍\n유리 섬유라서 가볍고 두께도 얇은데다가\n유연한 탄성과 탄력성👍\n동양인 맞춤 풋포켓에 소프트한 강도로 부드러운 \n피닝감을 줘서 여성 다이버나 발목이 약한분들께 추천해요!\n롱핀인데 엄청 가볍고 잘나가서 놀랬어요~ \n부드럽게 쭉쭉 나가니 마치 인어가 된 듯한 느낌이예요🧜🏻‍♀️\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "s.y.mimi",
       "metrics": {
-        "views": 589,
+        "views": 622,
         "likes": 27,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -56,15 +56,21 @@
           "views": 589,
           "likes": 27,
           "comments": 2
+        },
+        {
+          "d": "2026-07-27",
+          "views": 622,
+          "likes": 27,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 1646,
         "eng_median": 49,
         "n": 5,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
-      "last_written_reaction": "조회 589 · 좋아요 27 · 댓글 2 · ER 0.1% · 평소대비 0.4x (D+3)",
+      "last_written_reaction": "조회 622 · 좋아요 27 · 댓글 2 · ER 0.1% · 평소대비 0.4x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.36x 저조한 초기 반응에 조회당 492원·참여당 1만원으로 비용 효율이 낮아 추가 모니터링 필요.",
@@ -82,5 +88,5 @@
   },
   "child_db_id": "8b739eba-97ed-83f4-a00c-017c805272b5",
   "followers": 22695,
-  "last_written_score": 36
+  "last_written_score": 38
 }

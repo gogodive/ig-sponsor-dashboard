@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://instagram.fman7-1.fna.fbcdn.net/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OZJSYZIvUv8Q7kNvwHEFGuG&_nc_oc=AdrXOQB1qDz0MuBKxARuQohP_XZmqL6mOgpcdjnlU_5d_pRSqIbnY_z2naWVhWngWRqdYoPe5by4QnXA0ldGyzTa&_nc_zt=23&_nc_ht=instagram.fman7-1.fna&_nc_gid=Kb_hfX8DQYIDR_exCF-4Hg&_nc_ss=72689&oh=00_AQBO1hmBE5zP-vt3k4UaAZImt9O2GaIMs4T_9xexQJNadw&oe=6A6B0837",
+      "thumbnail": "https://instagram.ffco2-1.fna.fbcdn.net/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=MzkzOTYzNjczODE2NjY1NTg5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OZJSYZIvUv8Q7kNvwG2VMwu&_nc_oc=AdouKUphm_VQArIp2I0tDJ4-bFXkYg4VXvDaltv0nATrIooKYwxbf5MvS01sGkGc808S1hJp0bUa16P8EFBb3SX_&_nc_zt=23&_nc_ht=instagram.ffco2-1.fna&_nc_gid=EzCsx33oAjVfHVqXalVSRg&_nc_ss=72a8c&oh=00_AQBdoz0P14owkWp_L5DLO3whUvb3vakj3tYViLZvdEnl1Q&oe=6A6C59B7",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 100,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-26T06:59:34.414324+09:00",
+      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -59,16 +59,22 @@
           "views": null,
           "likes": 100,
           "comments": 2
+        },
+        {
+          "d": "2026-07-27",
+          "views": null,
+          "likes": 100,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 143.0,
         "n": 12,
-        "captured_at": "2026-07-26T06:59:34.414324+09:00"
+        "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0327132777421424,
         "vs_baseline": 0.7132867132867133,
@@ -82,9 +88,14 @@
           "one_liner": "평소 대비 0.70x로 다소 저조하나, 참여 1건당 1,030원·참여율 3.21%는 소규모 계정 기준 수용 가능한 수준.",
           "days": 11,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.71x로 다소 부진하나 참여율 3.27%·참여당 1,010원은 소형 계정 기준 수용 가능한 효율 수준.",
+          "days": 14,
+          "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 100 · 댓글 2 · ER 3.3% · 평소대비 0.7x (D+13)"
+      "last_written_reaction": "좋아요 100 · 댓글 2 · ER 3.3% · 평소대비 0.7x (D+14)"
     }
   ],
   "flags": {
