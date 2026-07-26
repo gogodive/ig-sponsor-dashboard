@@ -60,7 +60,10 @@
   .subnav button.active { background:#262626; color:#fff !important; border-color:#262626; }
   .ovsub { display:none; } .ovsub.active { display:block; }
   .rowcard { background:#fff; border:1px solid var(--line); border-radius:8px;
-             margin:14px 0; overflow:hidden; }
+             margin:14px 0; overflow:hidden; scroll-margin-top:70px; }
+  .rowcard.flash { animation:flash 2s ease-out; }
+  @keyframes flash { 0%,60% { box-shadow:0 0 0 3px #ffc107; } 100% { box-shadow:none; } }
+  table.rank a.jump { color:#1565c0; text-decoration:none; border-bottom:1px dotted #1565c0; }
   .rowhead { display:flex; align-items:center; gap:10px; flex-wrap:wrap;
              padding:10px 14px; border-bottom:1px solid #f0f0f0; }
   .rowhead a.user { font-weight:700; font-size:14px; color:#262626; text-decoration:none; }
@@ -294,7 +297,7 @@
           {% for it in rr %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
-              <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
+              <td><a class="jump" href="#row-{{ it.row.page_id | replace('-', '') }}" data-row="row-{{ it.row.page_id | replace('-', '') }}" title="이 협찬 카드로 이동">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
               <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
@@ -312,7 +315,7 @@
           {% for it in rf %}
           {% set bc = brand_colors.get((it.row.brands or ['기타'])[0], '#616161') %}
           <tr style="background:{{ bc }}14"><td>{{ loop.index }}</td>
-              <td><a href="https://www.instagram.com/{{ it.row.username }}/" target="_blank" rel="noopener">@{{ it.row.username }}</a></td>
+              <td><a class="jump" href="#row-{{ it.row.page_id | replace('-', '') }}" data-row="row-{{ it.row.page_id | replace('-', '') }}" title="이 협찬 카드로 이동">@{{ it.row.username }}</a></td>
               <td>{{ it.row.brands | join(', ') }}</td>
               <td>{% if it.frozen_all %}<span class="badge frozen">확정</span>{% else %}<span class="badge live">집계중{% if it.live_days is not none %} D+{{ it.live_days }}{% endif %}</span>{% endif %}</td>
               <td>{{ it.posts_n }}</td>
@@ -396,7 +399,7 @@
 {% for g in groups %}
 <section class="brand" id="brand-{{ loop.index0 }}">
   {% for r in g.rows %}
-  <div class="rowcard">
+  <div class="rowcard" id="row-{{ r.page_id | replace('-', '') }}">
     <div class="rowhead">
       <a class="user" href="https://www.instagram.com/{{ r.username }}/" target="_blank" rel="noopener">@{{ r.username }}</a>
       <span class="chip {{ 'status-live' if r.status == '진행 중' else 'status-done' }}">{{ r.status }}</span>
@@ -442,6 +445,22 @@ document.querySelectorAll("nav button").forEach(btn => {
     document.querySelectorAll("section.brand").forEach(s => s.classList.remove("active"));
     btn.classList.add("active");
     document.getElementById("brand-" + btn.dataset.tab).classList.add("active");
+  });
+});
+// 랭킹의 계정명 클릭 → 해당 브랜드 탭으로 전환 후 그 협찬 카드로 스크롤
+document.querySelectorAll("table.rank a.jump").forEach(a => {
+  a.addEventListener("click", e => {
+    e.preventDefault();
+    const el = document.getElementById(a.dataset.row);
+    if (!el) return;
+    const sec = el.closest("section.brand");
+    const btn = sec && document.querySelector(
+      'nav button[data-tab="' + sec.id.replace("brand-", "") + '"]');
+    if (btn) btn.click();
+    el.scrollIntoView({behavior: "smooth", block: "start"});
+    el.classList.remove("flash");
+    void el.offsetWidth;  // 연속 클릭 시 애니메이션 재시작
+    el.classList.add("flash");
   });
 });
 document.querySelectorAll("#ovnav button").forEach(btn => {
