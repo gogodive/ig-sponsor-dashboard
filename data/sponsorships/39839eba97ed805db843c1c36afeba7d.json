@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "sepppi",
   "followers_notion": 8175,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3a339eba-97ed-83aa-b10a-814b11057131",
+      "url": "https://www.instagram.com/p/DbPqHMFk8ZQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbPqHMFk8ZQ",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-26",
+      "first_seen": "2026-07-28",
+      "posted_at": "2026-07-26T05:38:56.000Z",
+      "permalink": "https://www.instagram.com/p/DbPqHMFk8ZQ/",
+      "thumbnail": "https://instagram.fcyw4-1.fna.fbcdn.net/v/t51.82787-15/755063066_18613702714051912_3159422159633048842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk0OTU1OTE2OTkwMDQ1MzM0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QJnXucsDyagQ7kNvwHMBimi&_nc_oc=AdoEf3-PyaiNJx80AkNDrENRG12-gkJdjygV8uI0JJxZ9Wpc5Fp9yq5G39keIYIVjVTVxNicisCliohNRWIdmPXo&_nc_zt=23&_nc_ht=instagram.fcyw4-1.fna&_nc_gid=N_CjPJfzOZ_OuFbnas6DVw&_nc_ss=7c689&oh=00_AQAqjWfBGP5rSGCCKcCKVSiwP2xm_Z0NoFeDd12__EfGkw&oe=6A6D8F07",
+      "caption": "🧡☀️\n사진 속 제품 👉🏻 고고 젤로 오로라 마스크 , 딥바이브 에어로 스노클 \n\n#인투더블루 #딥바이브 #프리다이빙장비",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "sepppi",
+      "metrics": {
+        "likes": 141,
+        "comments": 7
+      },
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "history": [
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 141,
+          "comments": 7
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 65.5,
+        "n": 6,
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.01818405209485195,
+        "vs_baseline": 2.2595419847328246,
+        "cost_per_eng": 695.9459459459459,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 141 · 댓글 7 · ER 1.8% · 평소대비 2.3x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "e9039eba-97ed-835f-b95e-01dbd72c378f",
-  "followers": 8175
+  "followers": 8139,
+  "last_written_score": 226
 }

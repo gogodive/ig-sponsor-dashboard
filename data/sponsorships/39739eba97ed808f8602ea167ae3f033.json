@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-808f-8602-ea167ae3f033",
   "row_title_raw": "s.y.mimi",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,49 @@
   "followers_notion": 22000,
   "posts": [
     {
+      "notion_row_id": "3aa39eba-97ed-8052-be03-e062b3602a74",
+      "url": "https://www.instagram.com/p/DbSfQDZkf4P/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+      "shortcode": "DbSfQDZkf4P",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-27",
+      "first_seen": "2026-07-28",
+      "posted_at": "2026-07-27T08:01:44.000Z",
+      "permalink": "https://www.instagram.com/p/DbSfQDZkf4P/",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?_nc_cat=100&ig_cache_key=Mzk1MDM1MTU4MTQ1MDYyODY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AnLE-iFWgqAQ7kNvwFIAzX-&_nc_oc=AdpFc29DpWiOOd83VU-e1xRkH78gxItrSGteAKpngefCA9mdwdmrR3-iZiJUxtrcP_U&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=CLnvKzOFWkABkKu092tWbg&_nc_ss=72289&oh=00_AQDo95C7jvUM3rDI0mjhG0LzRVWI-Ec0j6rfepzpJjc52w&oe=6A6DC722",
+      "caption": "#협찬 @intotheblue_store\n\n반짝반짝 너무 예쁜 오로라 빛이 나는 롱핀🧜🏻‍♀️\n❤️딥바이브 오로라 롱핀❤️\n움직임에 따라 다른빛을 내는 신비로운 컬러의 롱핀인데\n신어보니 발도 편하고 가벼워서 좋았어요🩷\n\n수중장비 멀티샵 인투더블루에 딥바이브 제품들이 있는데\n프리다이빙 슈트도 탐나더라구요😊🤍\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구경가봐요~🫧🏊🏻‍♂️\n\n✔️제품명 - 딥바이브 오로라 롱핀✨️\n🦶발사이즈 235 기준 35-36 사이즈 착용\n\n#인투더블루 #딥바이브 #딥바이브롱핀\r\n#프리다이빙 프리다이빙핀❤️",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "s.y.mimi",
+      "metrics": {
+        "likes": 80,
+        "comments": 1
+      },
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "history": [
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 80,
+          "comments": 1
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 103.5,
+        "n": 12,
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.00356906807666887,
+        "vs_baseline": 0.782608695652174,
+        "cost_per_eng": 1790.1234567901236,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 80 · 댓글 1 · ER 0.4% · 평소대비 0.8x (D+0)"
+    },
+    {
       "notion_row_id": "7d239eba-97ed-8368-92a5-81212ada71d4",
       "url": "https://www.instagram.com/reel/DbFj2w_xFEb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "DbFj2w_xFEb",
@@ -24,26 +67,26 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
         "er": 0.001277814496585151,
-        "vs_baseline": 0.3778857837181045,
-        "cost_per_eng": 10000.0,
-        "cost_per_view": 466.2379421221865
+        "vs_baseline": 0.40279465370595385,
+        "cost_per_eng": 5000.0,
+        "cost_per_view": 218.70286576168928
       },
       "posted_at": "2026-07-22T07:49:47.000Z",
       "permalink": "https://www.instagram.com/p/DbFj2w_xFEb/",
-      "thumbnail": "https://instagram.fpll8-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fpll8-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFNjKpwKVW1Ag399plgV9IXQhcLI9vDBpiE6SXl9jqLSz5uS_Fhs3-hc-XrYVF4zPE&_nc_ohc=tWDWJ2d2PR4Q7kNvwGthF-o&_nc_gid=NaYKE8DMkTkJMdMLDXb7BQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDQmG15QT20u3hcV2nwBNbXi04D_Xmx_TDTLyP6q6hqGQ&oe=6A6C4FD4&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gECu552VoUxZAYJnUjl5gcJZT_bi1KayXkH-OP3zRCCQ7x08O6yfTm4XkcQf1YQTDA&_nc_ohc=tWDWJ2d2PR4Q7kNvwFY8Rm_&_nc_gid=fNOWRgYYgiRItt9lBsIhpQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQACLO_lRPmdYcy7VFjjBSVTMJVSWUw83LFdRGJpxpWv_A&oe=6A6DA154&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store\n\n🩵 물속에서 인어가 되는 방법🩵🧜🏻‍♀️\n\n수중장비 멀티샵 \"인투더블루\" 스토어에서\n판매하고 있는 딥바이브 오로라 롱핀💕\n오로라 롱핀은 움직임마다 다른색으로 예쁘게 변하고🤍\n유리 섬유라서 가볍고 두께도 얇은데다가\n유연한 탄성과 탄력성👍\n동양인 맞춤 풋포켓에 소프트한 강도로 부드러운 \n피닝감을 줘서 여성 다이버나 발목이 약한분들께 추천해요!\n롱핀인데 엄청 가볍고 잘나가서 놀랬어요~ \n부드럽게 쭉쭉 나가니 마치 인어가 된 듯한 느낌이예요🧜🏻‍♀️\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "s.y.mimi",
       "metrics": {
-        "views": 622,
+        "views": 663,
         "likes": 27,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -62,15 +105,21 @@
           "views": 622,
           "likes": 27,
           "comments": 2
+        },
+        {
+          "d": "2026-07-28",
+          "views": 663,
+          "likes": 27,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 1646,
         "eng_median": 49,
         "n": 5,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
-      "last_written_reaction": "조회 622 · 좋아요 27 · 댓글 2 · ER 0.1% · 평소대비 0.4x (D+4)",
+      "last_written_reaction": "조회 663 · 좋아요 27 · 댓글 2 · ER 0.1% · 평소대비 0.4x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.36x 저조한 초기 반응에 조회당 492원·참여당 1만원으로 비용 효율이 낮아 추가 모니터링 필요.",
@@ -88,5 +137,5 @@
   },
   "child_db_id": "8b739eba-97ed-83f4-a00c-017c805272b5",
   "followers": 22695,
-  "last_written_score": 38
+  "last_written_score": 59
 }

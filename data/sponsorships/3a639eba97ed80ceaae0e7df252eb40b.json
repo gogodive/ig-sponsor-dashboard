@@ -1,7 +1,7 @@
 {
   "page_id": "3a639eba-97ed-80ce-aae0-e7df252eb40b",
   "row_title_raw": "hi___zero_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,50 @@
   "followers_notion": 114000,
   "posts": [
     {
+      "notion_row_id": "3aa39eba-97ed-80b9-984a-e5c0d1a4d273",
+      "url": "https://www.instagram.com/reel/DbPrmuNiRmC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbPrmuNiRmC",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-26",
+      "first_seen": "2026-07-28",
+      "posted_at": "2026-07-26T05:52:43.000Z",
+      "permalink": "https://www.instagram.com/p/DbPrmuNiRmC/",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/753225160_18548634601076209_2292675290958056241_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE_gXNS6d3C2cIMOh11izyD-t3u8VOnATt1C6PppIS2vimcuvfdfmk6RmZfFIX9Ick&_nc_ohc=VSAQ06NAiOcQ7kNvwECYi22&_nc_gid=B9qkzASZfQnPeFmANXp8dw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDQxq6xg7BZFkj1INKpYdvF8YjM3FCdVC9WsBJ-oYqL6A&oe=6A6DA35F&_nc_sid=c6f216",
+      "caption": "오늘도 나와의 약속 지키기🔥\n이번주 주6일 성공!!!\n\n운동복 @secrets__fit",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "hi___zero_",
+      "metrics": {
+        "views": 1704,
+        "likes": 117,
+        "comments": 20
+      },
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "history": [
+        {
+          "d": "2026-07-28",
+          "views": 1704,
+          "likes": 117,
+          "comments": 20
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 404.5,
+        "n": 12,
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.0011961826928953733,
+        "vs_baseline": null,
+        "cost_per_eng": 357.66423357664235,
+        "cost_per_view": 28.75586854460094
+      },
+      "last_written_reaction": "조회 1,704 · 좋아요 117 · 댓글 20 · ER 0.1% (D+1)"
+    },
+    {
       "notion_row_id": "b5139eba-97ed-82ca-8b1f-81760396bc18",
       "url": "https://www.instagram.com/p/DbHwtp_iWuK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "DbHwtp_iWuK",
@@ -25,16 +69,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T04:02:41.000Z",
       "permalink": "https://www.instagram.com/p/DbHwtp_iWuK/",
-      "thumbnail": "https://instagram.fsyd13-1.fna.fbcdn.net/v/t51.82787-15/753513312_18547845382076209_287237911210686531_n.webp?_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0NzMzNjczMzA0NzQ4NTEwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iMas2FPoJjQQ7kNvwFu9X7b&_nc_oc=AdpZ95i3F7FhIFxMG101evjJhOSO8IDaGlP-Kzu38-SXwhY2Tz2ugz5-Dl45mYoCi2SAUL8lKEaBrKwoVhEcZkwN&_nc_zt=23&_nc_ht=instagram.fsyd13-1.fna&_nc_gid=A8oeo2ZMRgpBgwe-7r2Mqw&_nc_ss=7c689&oh=00_AQB3ROB6HDkmqkRVo2IrkBrAe3WkdKWWQlE2WcVdCYh3Vg&oe=6A6C531D",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/753513312_18547845382076209_287237911210686531_n.webp?_nc_cat=100&ig_cache_key=Mzk0NzMzNjczMzA0NzQ4NTEwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iMas2FPoJjQQ7kNvwHBJdJr&_nc_oc=AdrEpqvHWBziHG1gQowgWLkZU_32agzEDHpWVzWf72nk6pUeuQyzZ94sMOAQ73Pey7w&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=Btuugxu43GBJPp7fe1y1tA&_nc_ss=7da8c&oh=00_AQDJAscr6JeFOrbj9dfgz2Sie2Iep4J2R4Kdb2Gddd-SZA&oe=6A6DA49D",
       "caption": "#목요팅 \n오늘 공복 눈바디 마음에 들잖아🩵\n날씬해 보이는 @secrets__fit 운동복 덕분😍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "hi___zero_",
       "metrics": {
-        "likes": 247,
-        "comments": 37
+        "likes": 258,
+        "comments": 39
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,20 +109,26 @@
           "views": null,
           "likes": 247,
           "comments": 37
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 258,
+          "comments": 39
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 404.5,
         "n": 12,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.002479677991111577,
-        "vs_baseline": 0.7021013597033374,
-        "cost_per_eng": 345.07042253521126,
+        "er": 0.002593184378028656,
+        "vs_baseline": 0.7342398022249691,
+        "cost_per_eng": 164.98316498316498,
         "cost_per_view": null
       },
       "analysis": {
@@ -90,7 +140,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 247 · 댓글 37 · ER 0.2% · 평소대비 0.7x (D+3)"
+      "last_written_reaction": "좋아요 258 · 댓글 39 · ER 0.3% · 평소대비 0.7x (D+4)"
     }
   ],
   "flags": {
@@ -101,5 +151,5 @@
   },
   "child_db_id": "ce939eba-97ed-837b-a06f-0100b1925439",
   "followers": 114531,
-  "last_written_score": 70
+  "last_written_score": 73
 }

@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T15:35:31.000Z",
       "permalink": "https://www.instagram.com/p/DafzDctA0nb/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzkzNjA4OTEzNjY5NTU2MDY2NzE3OTU5MzAwMzI5MTU4NDcy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=pFk2qkp9IV8Q7kNvwF5bm7G&_nc_oc=AdrSZgMfVwpSmXMIeMFqc7cHjjIYZbpvLh2N2jAlvoe_TD-2kqTzevBYXboZTemCoI0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=OAz-80CZ3CrO3ud4lkWcSw&_nc_ss=72a8c&oh=00_AQBKX236PyhXkAEvjsbiettpVNRQKTtC6ZEU7ehqpAvtzw&oe=6A6C4418",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzkzNjA4OTEzNjY5NTU2MDY2NzE3OTU5MzAwMzI5MTU4NDcy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=pFk2qkp9IV8Q7kNvwGY8v0W&_nc_oc=AdrS1wKPZsq3TKhzZ60RKEaDNY6m2NRXLsUemFqRT-5ptGwdf0oPnxMIT61LHZshhFo&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=J00t411HSFN9o_FeAwQGYQ&_nc_ss=7ca8c&oh=00_AQC9Jg29e7lt74WU5Vxx0HevjSEbkgFvCbiNrLKnQf8jEA&oe=6A6D9598",
       "caption": "#협찬 🐟 라세린 물고기 귀여워서\n한입에 먹어봄...\n\n오늘도 내 상상속에서는 잠깐 물고기 모드🫧🐠\n\n👙 글리트 아이스모카 와이백 / XS\n📏 H: 147cm · W: 41kg\n\n#라세린 #Laserin #수영 #수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hy_v3v",
       "metrics": {
         "views": 21542,
-        "likes": 599,
+        "likes": 602,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -60,20 +60,26 @@
           "views": 21542,
           "likes": 599,
           "comments": 0
+        },
+        {
+          "d": "2026-07-28",
+          "views": 21542,
+          "likes": 602,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": 3899,
         "eng_median": 58.5,
         "n": 3,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
-        "er": 0.02099250017522955,
+        "er": 0.02109763790565641,
         "vs_baseline": 5.525006411900487,
-        "cost_per_eng": 65.9432387312187,
+        "cost_per_eng": 65.61461794019934,
         "cost_per_view": 1.8336273326524928
       },
       "analysis": {
@@ -85,7 +91,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 21,542 · 좋아요 599 · 댓글 0 · ER 2.1% · 평소대비 5.5x (D+19)"
+      "last_written_reaction": "조회 21,542 · 좋아요 602 · 댓글 0 · ER 2.1% · 평소대비 5.5x (D+20)"
     },
     {
       "notion_row_id": "46339eba-97ed-83c3-9b33-811abf30a0aa",
@@ -113,7 +119,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.017172495969720335,
         "vs_baseline": 2.5322997416020674,

@@ -17,6 +17,50 @@
   "followers_notion": 1027,
   "posts": [
     {
+      "notion_row_id": "3aa39eba-97ed-8069-871c-ee022d88429a",
+      "url": "https://www.instagram.com/reel/DbN0VHoSLbK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbN0VHoSLbK",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-26",
+      "first_seen": "2026-07-28",
+      "posted_at": "2026-07-25T12:30:41.000Z",
+      "permalink": "https://www.instagram.com/p/DbN0VHoSLbK/",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/756609984_18032572289826786_493566060540140727_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGLpmXQShJYAeBseb4kP_6H6-H4ZE20o5uCWbvVoyBPBMqDpKI2ZdRQk_Zb8zhH2r0&_nc_ohc=zSwrNdOvKmUQ7kNvwE_rG1U&_nc_gid=v7oQR9mN4Dy9zje7uA9Ieg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCNAJWCI9SD07EK15nCblgTTvvxmreM615uHhQqYPKfnQ&oe=6A6DB707&_nc_sid=c6f216",
+      "caption": "LASERIN 🩵 \n폼폼폼폼폼폼폼🫧❕ 근데 \n나 어디까지 떠내려가요??\n@laserin_swim \n@nerea_flagship \n#수영복 #라세린 #수영복추천#협찬\n#네레아",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "modu_love_dive",
+      "metrics": {
+        "views": 3584,
+        "likes": 185,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "history": [
+        {
+          "d": "2026-07-28",
+          "views": 3584,
+          "likes": 185,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": 7007,
+        "eng_median": 270,
+        "n": 7,
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.14559386973180077,
+        "vs_baseline": 0.5114885114885115,
+        "cost_per_eng": 207.89473684210526,
+        "cost_per_view": 11.021205357142858
+      },
+      "last_written_reaction": "조회 3,584 · 좋아요 185 · 댓글 5 · ER 14.6% · 평소대비 0.5x (D+2)"
+    },
+    {
       "notion_row_id": "7ed39eba-97ed-83d8-9135-811f1645cf96",
       "url": "https://www.instagram.com/p/Da7uxqwEwW2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "Da7uxqwEwW2",
@@ -24,25 +68,25 @@
       "upload_date_notion": "2026-07-19",
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.1524904214559387,
-        "vs_baseline": 0.9299065420560748,
-        "cost_per_eng": 396.9849246231156,
+        "er": 0.15402298850574714,
+        "vs_baseline": 0.9392523364485982,
+        "cost_per_eng": 196.5174129353234,
         "cost_per_view": null
       },
       "posted_at": "2026-07-18T11:54:52.000Z",
       "permalink": "https://www.instagram.com/p/Da7uxqwEwW2/",
-      "thumbnail": "https://instagram.fntr8-1.fna.fbcdn.net/v/t51.82787-15/742031413_18031547429826786_5962882566414380845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0Mzk1MTUyMDg4NjQ0MzE4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2xDN1VXXwpMQ7kNvwFkAkKg&_nc_oc=Adq_WMaCnCpKst7v-uYalRRR1Pa1WVAc9QO7quknpCP07Y8KaGeyc1JhQX1g3VoxR0aQKl3a4fbNTv-5OIL8-CtA&_nc_zt=23&_nc_ht=instagram.fntr8-1.fna&_nc_gid=F-6b8KtsPhFTSj-t08HklA&_nc_ss=72a8c&oh=00_AQD11zID4b6rM7B-RBm-eHawv0R_Qnb-7sYuMPbiefrAkA&oe=6A6C5C96",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/742031413_18031547429826786_5962882566414380845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0Mzk1MTUyMDg4NjQ0MzE4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AckeUchNAgUQ7kNvwHvcNdJ&_nc_oc=AdpyBVY5QjCzR5rNw9uxr3TPfjPHoIqRXEHj8iBxO7rpHb1r7l1Jwk22b__q4fdSV9SbCOsCEKRY1v7BH0aqxJce&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=z5w5G-a9U0r-acP4XaHPdQ&_nc_ss=72689&oh=00_AQB_45lN8k3WW4zJnsAVbeWgP-cGVGr3mt7VsBuxSGUrbw&oe=6A6DAE16",
       "caption": "올 여름 내 픽은 @laserin_swim \n\n일단 색감이 미쳤음...🩵 실물이 훨씬 영롱한\n\n보자마자 반해버린 윤슬 에메랄드 더블크로스백🩱\n\n#협찬 #라세린 #laserin #수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "modu_love_dive",
       "metrics": {
-        "likes": 193,
+        "likes": 195,
         "comments": 6
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -61,13 +105,19 @@
           "views": null,
           "likes": 193,
           "comments": 6
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 195,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 214,
         "n": 9,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "analysis": {
         "d3": {
@@ -76,7 +126,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 193 · 댓글 6 · ER 15.2% · 평소대비 0.9x (D+8)"
+      "last_written_reaction": "좋아요 195 · 댓글 6 · ER 15.4% · 평소대비 0.9x (D+9)"
     }
   ],
   "flags": {
@@ -87,5 +137,5 @@
   },
   "child_db_id": "c8139eba-97ed-8359-9349-81e92a4c2dcc",
   "followers": 1305,
-  "last_written_score": 93
+  "last_written_score": 73
 }

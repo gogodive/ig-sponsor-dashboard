@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T15:14:28.000Z",
       "permalink": "https://www.instagram.com/p/Da8FnjqlBDJ/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/750117628_17978019093103650_6652418501423511532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk0NDA1MDIzNDY2Nzc5NjkwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1G0VuyFBBukQ7kNvwEyAaG_&_nc_oc=AdoJQu7jEuvkpxUsAhqjMsJW8LmjMk09f_JopFpNyeEmreHqPnJYMkFz4-KZxxgpOlw&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=57JZujKfHY-KR65uaAbATg&_nc_ss=72a8c&oh=00_AQBT7uAxCvyqMNDa_L63y5Shw5pSSYKHMjeincgOfGGnOQ&oe=6A6C73B8",
+      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/750117628_17978019093103650_6652418501423511532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk0NDA1MDIzNDY2Nzc5NjkwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1G0VuyFBBukQ7kNvwGOzkgM&_nc_oc=Adp3Plb2BX--pJtG7Zz6_NWz423gfMcjy3uvRuEp1hkzfmYjHm2LKHoQe_gBYwzt4W4&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=7oRjWZlRMRTEdAOacPnhFw&_nc_ss=72289&oh=00_AQC94WMC2rhXFT1yzZjyB8PtFYoGSVFrWrknraSvc0ityg&oe=6A6DC538",
       "caption": "✨ @laserin_swim \n“이 색감… 실물이 사진보다 더 예쁜 거 실화인가요?💜🩷✨”\n\n햇살 아래서는 코튼캔디처럼 은은하게,\n물속에서는 더 영롱하게 빛나는 💫\n\n이번에 착용한 수영복은\n라세린 코튼캔디 더블크로스백🍬\n\n🤍 두겹 원단-화이트 컬러도 비침 걱정x\n🤍 물속에서도 형태가 잘 유지되는 크레오라 원사를 사용\n🤍 미들컷 디자인이라 활동하기 편하고 부담 없이 착용 가능!\n🤍 등 라인을 예쁘게 잡아주는 더블 크로스백 디자인까지💕\n\n특히 빛에 따라 핑크, 라벤더, 하늘빛으로\n계속 달라지는 오로라 같은 컬러감이 정말 예뻤어요.☁️🌈",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "diver_seorong",
       "metrics": {
-        "likes": 110,
+        "likes": 112,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,20 +65,26 @@
           "views": null,
           "likes": 110,
           "comments": 4
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 112,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 182.5,
         "n": 12,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.033216783216783216,
-        "vs_baseline": 0.6246575342465753,
-        "cost_per_eng": 728.0701754385965,
+        "er": 0.0337995337995338,
+        "vs_baseline": 0.6356164383561644,
+        "cost_per_eng": 715.5172413793103,
         "cost_per_view": null
       },
       "analysis": {
@@ -90,7 +96,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 110 · 댓글 4 · ER 3.3% · 평소대비 0.6x (D+8)"
+      "last_written_reaction": "좋아요 112 · 댓글 4 · ER 3.4% · 평소대비 0.6x (D+9)"
     }
   ],
   "flags": {
@@ -101,5 +107,5 @@
   },
   "child_db_id": "20b39eba-97ed-838a-84e3-01d4f0daf6cc",
   "followers": 3432,
-  "last_written_score": 62
+  "last_written_score": 64
 }

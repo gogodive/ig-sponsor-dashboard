@@ -1,7 +1,7 @@
 {
   "page_id": "38039eba-97ed-804a-b98f-e50fef2d41b3",
   "row_title_raw": "yeon.swim",
-  "status": "종료",
+  "status": "진행 중",
   "media": [
     "인스타"
   ],
@@ -16,6 +16,57 @@
   "username": "yeon.swim",
   "followers_notion": 5732,
   "posts": [
+    {
+      "notion_row_id": "3aa39eba-97ed-8066-a7b1-f65788f4d8c4",
+      "url": "https://www.instagram.com/reel/DbKt3VVhd8V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbKt3VVhd8V",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-25",
+      "first_seen": "2026-07-28",
+      "posted_at": "2026-07-24T07:35:05.000Z",
+      "permalink": "https://www.instagram.com/p/DbKt3VVhd8V/",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/755010633_18011128145928117_3659856463573465164_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMOTkiuY6nzpsW9jOU4eGisFqaSnKoAzQi1NPPKuHqya4lzT1pQOo2DLVu43XY7pp902PtRCk0r2GaI_P1RPgR&_nc_ohc=jH0DxM1vOPQQ7kNvwGHiwd-&_nc_gid=a8SqAwqYlLAoSmr2fK6yag&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAjAce7ya1U3FTp4ZWv3pJu2Ov2dHyq5uf2HWps3y879w&oe=6A6D9FB9&_nc_sid=c6f216",
+      "caption": "#제품제공 #라세린 \n.\n@laserin_swim \n.\n#라세린윤슬 에메랄드🩵💚\n자세한 후기는 피드게시물에 있어요~\n여행 가서 넘 이쁘게 입었던 #라세린수영복 이랍니다\n은은한 메탈릭포일수영복 찾으시면 추천드려요!✨\n.\n더빙릴스 이번엔 배속 없이 날것의 보이스로ㅎㅎ\n아직 어색하네요 발음도 뭉개지구요😂\n그래도 조금씩 재미 붙이는 중!\n아직 반응 볼 자신은 없어서 댓글창은 클로즈ㅋㅋ\n.\n.\n#수영복추천\n.",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "yeon.swim",
+      "metrics": {
+        "views": 1791,
+        "likes": 105,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "history": [
+        {
+          "d": "2026-07-28",
+          "views": 1791,
+          "likes": 105,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": 1958,
+        "eng_median": 73,
+        "n": 3,
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.017930327868852458,
+        "vs_baseline": 0.914708886618999,
+        "cost_per_eng": 376.1904761904762,
+        "cost_per_view": 22.054718034617533
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.91x로 소폭 하회하며 조회당 22원·참여당 376원은 무난하나, 댓글 0건이 아쉬운 무난한 초기 출발.",
+          "days": 3,
+          "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
+        }
+      },
+      "last_written_reaction": "조회 1,791 · 좋아요 105 · 댓글 0 · ER 1.8% · 평소대비 0.9x (D+3)"
+    },
     {
       "notion_row_id": "cbc39eba-97ed-82fa-9186-81e17a6059e5",
       "url": "https://www.instagram.com/p/DZ4swrTGt9g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -50,11 +101,11 @@
         "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 35,
       "computed": {
         "er": 0.04337431693989071,
         "vs_baseline": 1.2124105011933175,
-        "cost_per_eng": 311.0236220472441,
+        "cost_per_eng": 155.51181102362204,
         "cost_per_view": null
       },
       "analysis": {
@@ -74,5 +125,5 @@
   },
   "child_db_id": "bec39eba-97ed-82c5-a89c-0169b8f3e378",
   "followers": 5856,
-  "last_written_score": 121
+  "last_written_score": 106
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T13:03:26.000Z",
       "permalink": "https://www.instagram.com/p/DaiGrIPE2L-/",
-      "thumbnail": "https://instagram.fktw6-1.fna.fbcdn.net/v/t51.82787-15/740858814_18611186956037080_5938966120832941548_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzkzNjczODIzMTQ3MTgyNjE3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qC070IGk0vQQ7kNvwHcBSAj&_nc_oc=AdoO5tf0XsmfuaTaCDfBdqtOMjgDpkFvqrbohd__AFqD9TQ47es5ay2zTEUuDQUh0PQ&_nc_zt=23&_nc_ht=instagram.fktw6-1.fna&_nc_gid=bmi2G4nkFJE6wSrib_sUPw&_nc_ss=7ca8c&oh=00_AQCTtlc2fDtE57EZ-jRjBWmJ-Dv-Nv_CFMxYJ1nd76sDPg&oe=6A6C5656",
+      "thumbnail": "https://instagram.fmad20-1.fna.fbcdn.net/v/t51.82787-15/740858814_18611186956037080_5938966120832941548_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzkzNjczODIzMTQ3MTgyNjE3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qC070IGk0vQQ7kNvwFtbqei&_nc_oc=AdpIYv414teTLJSmVFRGbFtMI34pySIdKL8SCREXa80fN-y3-YAN9UcO2Iw48_5h9_s&_nc_zt=23&_nc_ht=instagram.fmad20-1.fna&_nc_gid=RDVKqdhPC9K7eQ1463DLXQ&_nc_ss=72a8c&oh=00_AQBQeZKWE5ozIy7DFyZ2fZFjaKwNCtNlZfUz8C_s7T207g&oe=6A6DA7D6",
       "caption": "라세린의 계절이 돌아왔어요👙\n반짝반짝 빛나는 아름다운 스윔웨어\n뒷태도 완벽하고 밤에도 빛나는 라세린\n수영할때 편해야 최고인 스윔웨어 \n바로 라세린 입니다.😉\n\n제품모델 ㅡ 크리스탈웨이브 더블크로스백\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,16 +65,22 @@
           "views": null,
           "likes": -1,
           "comments": 21
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": -1,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 9.0,
         "n": 12,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
         "er": 0.001784121320249777,
         "vs_baseline": 2.2222222222222223,
@@ -90,7 +96,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.2% · 평소대비 2.2x (D+18)"
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.2% · 평소대비 2.2x (D+19)"
     }
   ],
   "flags": {

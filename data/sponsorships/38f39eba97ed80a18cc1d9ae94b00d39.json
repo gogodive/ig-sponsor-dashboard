@@ -1,7 +1,7 @@
 {
   "page_id": "38f39eba-97ed-80a1-8cc1-d9ae94b00d39",
   "row_title_raw": "_z__sun",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T09:23:45.000Z",
       "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
-      "thumbnail": "https://scontent-gru2-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dfzwGzHydrkQ7kNvwFNvse8&_nc_oc=AdrgWn_MfKagUfhxG-eMf5xgVPfBzGm3FNDl4-KKmy9EYn5lSifcwpmv541njnyKW9E&_nc_zt=23&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_gid=WKAiufIc3M6I7W8c55c3qg&_nc_ss=72a8c&oh=00_AQBOTd05xdtU6KSqsG7S3-oLIEAQ9jDNvvAwPSplS8iWuA&oe=6A6C6769",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNjYyNzA0NjQ3MjY5NzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY1Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dfzwGzHydrkQ7kNvwGVvLet&_nc_oc=AdptGYhtD-oHNAn9ufP7Gqph5YPYx3zlODx3qiEPEC69u1X6VkO9p3hhoEwt89WldDs&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=2oolTBci69nhvz9rtfmMDQ&_nc_ss=7c689&oh=00_AQCqW0PnNd9hwJz-as46aOxoBC64JhGduouVFZP6_yrPOg&oe=6A6DB8E9",
       "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,16 +65,22 @@
           "views": null,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 19.0,
         "n": 4,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
         "er": 0.0002861776209100448,
         "vs_baseline": 0.15789473684210525,
@@ -90,7 +96,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.0% · 평소대비 0.2x (D+18)"
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.0% · 평소대비 0.2x (D+19)"
     }
   ],
   "flags": {

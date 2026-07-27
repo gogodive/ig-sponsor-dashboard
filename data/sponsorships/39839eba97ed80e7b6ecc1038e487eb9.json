@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:21:57.000Z",
       "permalink": "https://www.instagram.com/p/DbC97U-E8uX/",
-      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0NTk4NzEyMDU0NDE1MDg3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s8Zlg0n68gUQ7kNvwGyp1rg&_nc_oc=AdqZnuDSiPvB_7QFfsL3A3sV9T4PGRjE7nGmhaM8KoT4QmnHNlrsY_kLdcfUvL02HUY&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=QdP-hwXYz0O7Z7vntG-1MQ&_nc_ss=7ca8c&oh=00_AQApj2k_G1m92hzihiySIOwN3s_OvaMQEnzRS-P1aYi54Q&oe=6A6C58A5",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0NTk4NzEyMDU0NDE1MDg3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjU2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=r5FR-DRa9aMQ7kNvwHEwWGm&_nc_oc=Adri4WZmUa8nGf0SwEfv2LfKI0EdAJzhSnk6MlQ7txk3QtzrNZ02yr1GZ6C6UnZGHJg&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=Z5sg5LrGvHAcem4k_UV37g&_nc_ss=72a8c&oh=00_AQBxsiQdTgLfyQ-4AKe7GBn_xP5I-v2iIL9Yq24gD9dPdA&oe=6A6DAA25",
       "caption": "바다에서 입어보기전에 색감 핏 체크 완료 💖🩵\n\n#라세린 #비키니 #투피스 #울릉도바다 #제품제공",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 39
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -65,16 +65,22 @@
           "views": null,
           "likes": -1,
           "comments": 39
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": -1,
+          "comments": 39
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14.0,
         "n": 12,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
         "er": 0.014432206608431447,
         "vs_baseline": 2.7142857142857144,
@@ -90,7 +96,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 39 · ER 1.4% · 평소대비 2.7x (D+5)"
+      "last_written_reaction": "좋아요 -1 · 댓글 39 · ER 1.4% · 평소대비 2.7x (D+6)"
     }
   ],
   "flags": {

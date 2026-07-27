@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T04:31:42.000Z",
       "permalink": "https://www.instagram.com/p/DauDOkfh32M/",
-      "thumbnail": "https://instagram.ftpq3-1.fna.fbcdn.net/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftpq3-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGceIHsyBrDXK5ZJ4wJjoiT-m7t5TXJA2NDuASCc8fP6TFv9H4rvDae7nw8wMJ3PVk&_nc_ohc=4H-knE-ch6sQ7kNvwH7ZqI0&_nc_gid=pPG3mowhjbGpzrcJwR4ENw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBD61XiQVcsYJyjdlSDfsDkAPixpisF0n_mxBQSm2Wb5g&oe=6A6C4C44&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG0vuFmmpYY9J6q7rALRN-VjSqRAl9rWkAkBGdImWyqHadFsyYi4GnFeHmgM0EsOn8&_nc_ohc=4IfKazboE40Q7kNvwEuKBz3&_nc_gid=mdycTjD_6ugVNVNhKGxc_w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDr3_att5w-hphsqDLEcZRvNoogwrlNAn9sW4LdNXFfOQ&oe=6A6D9DC4&_nc_sid=c6f216",
       "caption": "⭐️LASERIN 윤슬에메랄드✨\n윤슬 펄이 촤르르 + 그라데이션 컬러가 만나 \n볼수록 이쁜 수영복💗\n\n@laserin_swim \n\n#협찬 #라세린수영복 #윤슬에메랄드",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimeun",
       "metrics": {
-        "views": 2213,
+        "views": 2220,
         "likes": 72,
         "comments": 12
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -66,21 +66,27 @@
           "views": 2213,
           "likes": 72,
           "comments": 12
+        },
+        {
+          "d": "2026-07-28",
+          "views": 2220,
+          "likes": 72,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": 938,
         "eng_median": 121,
         "n": 7,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.1145975443383356,
-        "vs_baseline": 2.359275053304904,
+        "vs_baseline": 2.366737739872068,
         "cost_per_eng": 470.23809523809524,
-        "cost_per_view": 17.849073655671035
+        "cost_per_view": 17.792792792792792
       },
       "analysis": {
         "one_liner": "평소 대비 2.34배 높은 확산력과 참여 1건당 975원의 효율로 소규모 계정 대비 양호한 초기 성과를 보임.",
@@ -89,9 +95,14 @@
           "one_liner": "평소 대비 2.34배 도달에 참여당 975원·조회당 35.9원으로, 733 팔로워 소규모 계정치고 효율적인 초기 성과.",
           "days": 11,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 2.37배 조회에 참여율 11.46%로 소규모 계정치고 탄탄한 반응이며, 참여 1건당 470원·조회당 17.8원은 비용 효율 양호 수준입니다.",
+          "days": 14,
+          "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 2,213 · 좋아요 72 · 댓글 12 · ER 11.5% · 평소대비 2.4x (D+13)"
+      "last_written_reaction": "조회 2,220 · 좋아요 72 · 댓글 12 · ER 11.5% · 평소대비 2.4x (D+14)"
     },
     {
       "notion_row_id": "e7339eba-97ed-820d-bb34-011a6826721c",
@@ -102,7 +113,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-10T03:29:37.000Z",
       "permalink": "https://www.instagram.com/p/DamOmEDEqG6/",
-      "thumbnail": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/744664299_18136300666586220_4232358358810274133_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNzg5NTAwNzk2OTE3NzMxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tXtDZzE09aUQ7kNvwErqLsA&_nc_oc=Adq9eWCRBGlaSS7M3J0EsFwDPgDqmqHdiBQI07EL1lCYodTv5k6htFod9eca1RgZ8K8&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=UNYTXDHYr4ySjhz-2BZ6Bg&_nc_ss=7ca8c&oh=00_AQAtmrjpt8GPBlo16x2nqM8aTLtouQ7j4eJroMnTVf2vWQ&oe=6A6C6CC4",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/744664299_18136300666586220_4232358358810274133_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkzNzg5NTAwNzk2OTE3NzMxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTgwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tXtDZzE09aUQ7kNvwHQsInl&_nc_oc=AdoeMvvXytdvpqCe3iKMObeRDuIyMvfxuYU6risfDd87oZZ-8kVn0sj3z1Qd7Ao782c&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=s04O5zqPPu1VQ5epF_qWxw&_nc_ss=7ca8c&oh=00_AQAiFUcsDTwL2YPJIa1q5C463G-6Pf-fPAKPOJG_OSMEIw&oe=6A6DBE44",
       "caption": "💎라세린 - 윤슬 에메랄드 \n\nsize. \nxs착용 / 166 / 48 / 143\n \nInfo.\n비침 없는 두겹 수영복 / 신축성이 뛰어남 \n더블 크로스 픽스드백 타입 / 안정감있는 미들컷 \n전체적인 펄이 은은한 메탈릭원사\n\n💎\n몸을 짱짱하게 잘 잡아주면서 \n부드럽게 감싸주는 텍스처가 훌륭하며,\n미운 군살들을 매끄럽게 보정해 주는 느낌\n어깨 끈이나 전체적으로 신축성이 좋아 굉장히 편안했음\n더블 크로스 백 타입의 디테일 덕분에 등 라인이 예뻐 보일 뿐만 아니라, \n허리 라인이 더 쏙 들어가고 잘록해 보이는것 같음🫶🏼\n\n잔잔한 물빛 텍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -111,7 +122,7 @@
         "likes": 135,
         "comments": 33
       },
-      "metrics_updated_at": "2026-07-27T07:01:35.301262+09:00",
+      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -142,16 +153,22 @@
           "views": null,
           "likes": 135,
           "comments": 33
+        },
+        {
+          "d": "2026-07-28",
+          "views": null,
+          "likes": 135,
+          "comments": 33
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 106.5,
         "n": 12,
-        "captured_at": "2026-07-27T07:01:35.301262+09:00"
+        "captured_at": "2026-07-28T07:11:06.934463+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
         "er": 0.2291950886766712,
         "vs_baseline": 1.5774647887323943,
@@ -167,7 +184,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 135 · 댓글 33 · ER 22.9% · 평소대비 1.6x (D+16)"
+      "last_written_reaction": "좋아요 135 · 댓글 33 · ER 22.9% · 평소대비 1.6x (D+17)"
     }
   ],
   "flags": {
