@@ -1,0 +1,66 @@
+name: reviewer-pick
+
+# 일회성 도구: 리뷰어 이벤트 댓글 → 신청자 지표 수집 → 상위 N명 선발 → 노션 기록
+# 매일 자동 분석(daily.yml)과 무관하며, 수동 실행(workflow_dispatch)으로만 동작한다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_url:
+        description: "이벤트 게시물 URL"
+        type: string
+        required: true
+      notion_page:
+        description: "결과 기록할 노션 페이지 id"
+        type: string
+        default: "3ab39eba97ed806b9ee9d6e4a931e0a7"
+      top:
+        description: "선발 인원"
+        type: string
+        default: "20"
+      limit_comments:
+        description: "댓글 수집 상한"
+        type: string
+        default: "1000"
+      max_profiles:
+        description: "프로필 조회 표본 수 (0=전체, 테스트 시 소수 지정)"
+        type: string
+        default: "0"
+      exclude:
+        description: "제외할 계정 (콤마 구분)"
+        type: string
+        default: ""
+      dry_run:
+        description: "노션 기록 생략 (로그만)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: reviewer-pick
+  cancel-in-progress: false
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect applicants and pick
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: |
+          python -m tools.reviewer_pick \
+            --post-url "${{ inputs.post_url }}" \
+            --notion-page "${{ inputs.notion_page }}" \
+            --top "${{ inputs.top }}" \
+            --limit-comments "${{ inputs.limit_comments }}" \
+            --max-profiles "${{ inputs.max_profiles }}" \
+            --exclude "${{ inputs.exclude }}" \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
