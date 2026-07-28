@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:23:20.000Z",
       "permalink": "https://www.instagram.com/p/Daw1p9VD4EK/",
-      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0MDg4NTU1NjE4MjgwMzE4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jKC-DqvprdQQ7kNvwGgacSe&_nc_oc=AdqZU9fU4zU1QYFbn2T9c_RvOfHCqPV9tQlZasPz9Dl8yN5LKuF_gcnYjJxXT99jVquf2lM5YIgAA2EkBPvN4w0P&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=r2ulSCRS5qy0uViD-xT_ug&_nc_ss=7c689&oh=00_AQDhQTho_mL4qXDQCGd11NBng2l-qOwcqh_zrjaAwAbd0A&oe=6A6DA29C",
+      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0MDg4NTU1NjE4MjgwMzE4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jKC-DqvprdQQ7kNvwGhvWWa&_nc_oc=AdraILM_Wh90PHEjiX-QVckowRAB_mWBzZACAEXQdijdZ9VxOuBuaW1yiQKRbwc3hFA&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=hzW_W4ald95HmI0sNtNbqg&_nc_ss=72a8c&oh=00_AQDYCyR5uRcSg63aI9YQkbdfVtGSzeQk0QnBOpKc174GXw&oe=6A6EF41C",
       "caption": "7월의 여름🩵 @laserin_swim 🩵\n📍야크마을 @yakmaeul.official \n\n동생이랑 보물같은 수영장을 발견해서\n바로 예약하고 신나게 놀다왔수다🩵\n\n@laserin_swim 라세린 수영복 \nCrystal Wave💎크리스탈웨이브\n\nSize 160 60 L착용✨\n\n라세린 하면 가장 먼저 떠오르는 건 역시\n은은하게 반짝이는 시그니처 원단✨\n\n수영복은 몸매를 잘 못 잡아줘서 안 입는 편인데\n크리스탈웨이브는 탄탄하게 잡아주고 컬러감도\n은은한 광택이 너무 예뻤어요.🩵 특히 밤에 더 빛남💎\n\n너무 과하지 않은 반짝임이라\n햇빛 아래",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -71,16 +71,22 @@
           "views": null,
           "likes": -1,
           "comments": 7
+        },
+        {
+          "d": "2026-07-29",
+          "views": null,
+          "likes": -1,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8.5,
         "n": 10,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.00016787442992641504,
         "vs_baseline": 0.7058823529411765,
@@ -94,9 +100,14 @@
           "one_liner": "평소 대비 0.59x의 부진한 참여에 건당 비용 13,800원으로, 현시점 성과는 기대치를 밑돌고 있어 추이 모니터링이 필요합니다.",
           "days": 9,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.71x 부진한 참여율에 참여 1건당 비용 5,750원으로 효율이 낮아 추가 액션 검토 필요.",
+          "days": 14,
+          "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 7 · ER 0.0% · 평소대비 0.7x (D+13)"
+      "last_written_reaction": "좋아요 -1 · 댓글 7 · ER 0.0% · 평소대비 0.7x (D+14)"
     },
     {
       "notion_row_id": "18939eba-97ed-8280-9e96-0192bb6ac141",
@@ -107,16 +118,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T13:10:02.000Z",
       "permalink": "https://www.instagram.com/p/DaxkKmjPPM9/",
-      "thumbnail": "https://instagram.fcia6-1.fna.fbcdn.net/v/t51.82787-15/747625958_18380625196160518_9041078260740874799_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk0MTA5MDIwNzE4ODQ0ODA2MTE4MzgwNjI1MTkwMTYwNTE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTguc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=1Pm0qKcpbhAQ7kNvwGDMXho&_nc_oc=AdrORnxDYEhgCEmJAGpKgm0SkaGfP4pzivbPBbAZ-sqpTyx0RhcCpm538mXpniFiJiw&_nc_zt=23&_nc_ht=instagram.fcia6-1.fna&_nc_gid=KiiGibFTLPYqGkuNgXNPZA&_nc_ss=72a8c&oh=00_AQATZJnjj2nJ7ZkLNCdVR381myHB_Jz064LcxdFFp8DWhQ&oe=6A6DACBB",
+      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/747625958_18380625196160518_9041078260740874799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE3AR5Gzr5z3v2QbAFR92uhAsPQGrbKwaYKCEgC-0DR47ScSYmZPFe-TqG-RdwYT5AUTTWI4liyPmdoH0SSHDJE&_nc_ohc=vGOyowKpQwgQ7kNvwFGvjip&_nc_gid=zq_pzLlj8z_6kl6gzQRFrg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBuN2XbXiH_z-USf5jvTcJkxKr3F0WS-rRkSqmcGbrAKQ&oe=6A6EFE3B&_nc_sid=c6f216",
       "caption": "제주에서 보물 같았던 장소를 발견하고 예약했던 날\n\n📍#야크마을 @yakmaeul.official \n아름다웠던 물 속 예쁜 공간에서 \n더 예쁜 하루를 보내고 싶어 선택한 \n🧜🏻‍♀️라세린 수영복 @laserin_swim \n\n제품명 : 크리스탈 웨이브💎\nSize 160 / 60kg / L 착용✨\n\n평소에는 몸매가 신경 쓰여 수영복을 \n잘 입지 않는 편이라 늘 망설였는데,\n생각보다 신축성이 정말 좋고 착용감도 \n편안해서 부담 없이 입을 수 있었어요.\n\n몸을 탄탄하게 잡아주는 느낌은 물론,\n은은하게 반짝이는 컬러감과 디자인까지 \n예뻐서 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ejact_",
       "metrics": {
         "likes": -1,
-        "comments": 3
+        "comments": 3,
+        "views": 1923
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -147,21 +159,27 @@
           "views": null,
           "likes": -1,
           "comments": 3
+        },
+        {
+          "d": "2026-07-29",
+          "views": 1923,
+          "likes": -1,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 6113,
         "eng_median": 112,
         "n": 3,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 5.595814330880502e-05,
-        "vs_baseline": null,
+        "vs_baseline": 0.3145754948470473,
         "cost_per_eng": 17250.0,
-        "cost_per_view": null
+        "cost_per_view": 17.940717628705148
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 11,500원으로 팔로워 대비 참여율 0.02%에 그쳐 초기 성과가 매우 저조함.",
@@ -170,9 +188,14 @@
           "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여율 0.02%로 1건당 비용 11,500원은 팔로워 규모 대비 초기 반응이 매우 저조한 수준입니다.",
           "days": 9,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.31x 저조한 도달에 참여 1건당 비용 17,250원으로 협찬 효율이 극히 낮아 추가 조치가 필요한 상황.",
+          "days": 14,
+          "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 3 · ER 0.0% (D+13)"
+      "last_written_reaction": "조회 1,923 · 좋아요 -1 · 댓글 3 · ER 0.0% · 평소대비 0.3x (D+14)"
     }
   ],
   "flags": {
@@ -183,5 +206,5 @@
   },
   "child_db_id": "d7339eba-97ed-833f-954f-81a037b9867b",
   "followers": 35741,
-  "last_written_score": 71
+  "last_written_score": 51
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T02:25:45.000Z",
       "permalink": "https://www.instagram.com/p/Dat1q6Xk6su/",
-      "thumbnail": "https://instagram.fmty2-1.fna.fbcdn.net/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk0MDA0MTA2NDY0ODEyMzI2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4qH1fwkd2-kQ7kNvwEzEKBf&_nc_oc=Ado6RPgI96ThtMFzKljlB_2wZeZb_rRK5sQVya66lsgeJNYbFfBzvIgns0GnTym2JCs&_nc_zt=23&_nc_ht=instagram.fmty2-1.fna&_nc_gid=nqnJtz8spVl4dQ8VNQ1dQw&_nc_ss=72a8c&oh=00_AQA8fbQ4nCX5X_6eWSMopk9Dqc8o7DVFYsDth4DiNJlbHw&oe=6A6DA789",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHhk0VGh_Xs_GuVfedalvSpdR0yRzpUpavAeKym3L2h5WWe1mORk1XykPPirc-Awis&_nc_ohc=wO-H6z0iE5MQ7kNvwGofzKT&_nc_gid=Q-qI9Ruha2QS6eMj8UGNRA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAbiOOboX2b0Kc-VtSL9168scmZ0aS6sUN_YnwfGcJOnw&oe=6A6EF909&_nc_sid=c6f216",
       "caption": "#광고 #시크릿스 #개미허리후드 #레이어드팬츠",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -71,16 +71,22 @@
           "views": null,
           "likes": -1,
           "comments": 5
+        },
+        {
+          "d": "2026-07-29",
+          "views": null,
+          "likes": -1,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 12.0,
         "n": 12,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.0005319148936170213,
         "vs_baseline": 0.3333333333333333,
@@ -101,7 +107,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.1% · 평소대비 0.3x (D+14)"
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.1% · 평소대비 0.3x (D+15)"
     },
     {
       "notion_row_id": "33d39eba-97ed-8311-8ad2-8172b8044b61",
@@ -112,17 +118,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-10T08:55:45.000Z",
       "permalink": "https://www.instagram.com/p/DamzleBzeRj/",
-      "thumbnail": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/743841328_18330756019256291_8551060789970489121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEEza79flPtNQ1eQH4znEwEZTqzcOjpHoG7SdrOh1Qo_g7VaLtbvDXFc53I_2pM9XM&_nc_ohc=6GB83JAsiOcQ7kNvwGZdS5a&_nc_gid=p0ZnaKtG9hlHCQyyNcdmyw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAyucBu0i905wPb38HGEe9ar-94iGZoEmQpCPXocJkapQ&oe=6A6DA75E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/743841328_18330756019256291_8551060789970489121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFcBtL9p4cEtFkyjns7saa8ctu7wxxpQ7BMUsUtqwzU_F7RP5xK4EHrcjUODS4xXcU&_nc_ohc=j78r2DhmUFEQ7kNvwEHJwnY&_nc_gid=I8T6cmGCF_ybZQkuntiiDg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCTCWil0-b4WmN1Htbw4EVk6xsuDBHxB6X1tThlF7l8zw&oe=6A6EF8DE&_nc_sid=c6f216",
       "caption": "#광고\n포토존 프리패스각📸 입는 순간 보정 필터 \n끼워주는 셋업 조합 찾음!\n허리는 세상 잘록하게, 골반 볼륨은 \n치트키 급으로 살려주는\n 시크릿스개미허리후드랑 시크릿스리브레이어드팬츠 조합.. 이거 진짜 미쳤어요 🥹\n✨ MY SECRET FIT POINT ✨\n허리 쏙, 골반 샥! #개미허리후드\n* 성형급 핏: 허리 가장 가는 라인에서 \n딱 떨어져서 강제 개미허리 행 🐜\n* 다리 로켓 기장: 입자마자 비율 좋아 보이는 \n세미 크롭 기장!\n* 체형 커버 마법: 아랫배는 쏙 감추고 \n골반 볼륨만 살려주는 입체 U라인 패턴\n* 여리여리 끝",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "155cm.mm",
       "metrics": {
-        "views": 1637,
+        "views": 1671,
         "likes": -1,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -159,15 +165,21 @@
           "views": 1637,
           "likes": -1,
           "comments": 30
+        },
+        {
+          "d": "2026-07-29",
+          "views": 1671,
+          "likes": -1,
+          "comments": 30
         }
       ],
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.003856382978723404,
         "vs_baseline": null,
         "cost_per_eng": 2137.9310344827586,
-        "cost_per_view": 37.87416004886988
+        "cost_per_view": 37.10353081986834
       },
       "analysis": {
         "one_liner": "조회 1,562회·참여율 0.44%로 팔로워 규모 대비 저조하며, 참여 1건당 비용 3,758원은 효율 개선이 필요한 수준입니다.",
@@ -183,7 +195,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "조회 1,637 · 좋아요 -1 · 댓글 30 · ER 0.4% (D+17)"
+      "last_written_reaction": "조회 1,671 · 좋아요 -1 · 댓글 30 · ER 0.4% (D+18)"
     }
   ],
   "flags": {

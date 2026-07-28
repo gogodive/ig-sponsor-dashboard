@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T08:27:54.000Z",
       "permalink": "https://www.instagram.com/p/DaKaW-wBbeN/",
-      "thumbnail": "https://instagram.fflr2-1.fna.fbcdn.net/v/t51.82787-15/729666983_18592593031016038_3154249563870307356_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fflr2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFQjKvgrvJ5TCvK2HVWVAdAed8rs4_wA8xUJMOrtjQhCuLnQbAeRzem0_Uh0lvSoOA&_nc_ohc=LcEG6smWnxQQ7kNvwHRJC7m&_nc_gid=oqyvo0tRRyp-tFBSv1p7aQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQD8WQHHSBLbBctZgNc0-_TrsBCH-zy6_kaMDEKYrLKl7w&oe=6A6DB7C6&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fupn2-1.fna.fbcdn.net/v/t51.82787-15/729666983_18592593031016038_3154249563870307356_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fupn2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gGrwy7QXv_f4hs-gjHSVk3bXhai7qhjXZpTFH3TkJee-G-hjn_-hXh4mbHiHPB0ov1pR92Pv61gDSmuXjZarUEd&_nc_ohc=LcEG6smWnxQQ7kNvwGH1R_7&_nc_gid=QLRBPJMHdgmkBf2-mwwZsQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBomwJSeuaxooaMAqq9gdSEYgEX2xo2oRmKiY033dadCw&oe=6A6F0946&_nc_sid=c6f216",
       "caption": "내 기준 가장 중요한 물친템 1위는 마스크라고 생각함..\n핀없이 들어가도 마스크없이는 절대 못들어가٩(๑❛ᴗ❛๑)۶\n\n물속에서 영상 찍어도 너무 예쁘게 잘 나오는\n고고젤로 오로라 마스크🫧\n\n테두리에 오로라 디테일이 미쳤듬..\n빛 받으면 반짝반짝✨\n영롱한거 좋아할 나이라 진짜 내 기준 1등 마스크🥽\n\n착용감도 편안하고 시야도 틔여있어\n물속에서 자유롭게 유영이 가능한 효자템💙\n\n프다나 머메이드 입문하는 분들께 적극 추천\n왜냐하면 가격이 미치도록 가성비이기 때문에..!!!\n\n다들 행복 물질🫧\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "cha.sooo",
       "metrics": {
-        "views": 17386,
+        "views": 17397,
         "likes": 81,
         "comments": 11
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -72,21 +72,27 @@
           "views": 17386,
           "likes": 81,
           "comments": 11
+        },
+        {
+          "d": "2026-07-29",
+          "views": 17397,
+          "likes": 81,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": 1557.0,
         "eng_median": 102.5,
         "n": 12,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.04574838388861263,
-        "vs_baseline": 11.166345536287732,
+        "vs_baseline": 11.173410404624278,
         "cost_per_eng": 559.7826086956521,
-        "cost_per_view": 2.9621534568043253
+        "cost_per_view": 2.9602805081335863
       },
       "analysis": {
         "one_liner": "평소 대비 10.2배 조회 달성으로 조회당 5.9원·참여당 1,132원의 효율적 비용 구조를 실현한 우수 협찬 게시물.",
@@ -97,7 +103,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 17,386 · 좋아요 81 · 댓글 11 · ER 4.6% · 평소대비 11.2x (D+28)"
+      "last_written_reaction": "조회 17,397 · 좋아요 81 · 댓글 11 · ER 4.6% · 평소대비 11.2x (D+29)"
     },
     {
       "notion_row_id": "69e39eba-97ed-8317-ba94-81b732060cf4",
@@ -133,7 +139,7 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.03679761312779711,
         "vs_baseline": 0.9548387096774194,

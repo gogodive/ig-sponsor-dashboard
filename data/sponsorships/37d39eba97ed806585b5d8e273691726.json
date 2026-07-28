@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T22:47:34.000Z",
       "permalink": "https://www.instagram.com/p/DawBfxpkyeQ/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk0MDY1NDgzMDkxODIyNjI5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Szt5gASS8e4Q7kNvwGrfl74&_nc_oc=AdofMeXlnvNQEVMp_T55EqxpboS-U41GV-FYf9CV_CZ0Ed6Z0C6PIsiNirCLZGa05sgFfWGkEMOzVUH9lcv3MbKQ&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=KFR-uTO_D8JjnvMrzgkR7Q&_nc_ss=7d689&oh=00_AQAmUqiH8faKhEtIWcW2YbC-kq1CH0xzlWgYoduMqJcTig&oe=6A6DB1BC",
+      "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEvGkMMnz79uFHAWlnAYqE4_L2mgpR5XWfojLJZJ7TOBQCylJ_z9Pxo6UD71VsnPu6yNWnfuchi94DH8ZnbaaMB&_nc_ohc=2e_ML45212IQ7kNvwHF0gxj&_nc_gid=7G4dF0V88G3to0xTemlmlQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQCAVA64al2mu8r6HBk7JQsnT-rMWSKg8U6a0FHaWU5Qkg&oe=6A6F033C&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n윤슬 에메랄드✨\n\n에메랄드빛 그라데이션이 매력적인 아이..\n예전 코튼캔디 출시되자마자 글로시하누매력에 한눈에 반해 구매했었는데😍\n윤슬 에메랄드는 메탈릭 원사가 은은하게 반짝이는 완전 다른 느낌임\n\n더블크로스백이라 안정적이어서 실내수영에도 무리없고 요캉스에도 다 잘어울리는걸🥰\n\n#라세린 #라세린수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yang",
       "metrics": {
-        "likes": 240,
+        "likes": 243,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -71,20 +71,26 @@
           "views": null,
           "likes": 240,
           "comments": 21
+        },
+        {
+          "d": "2026-07-29",
+          "views": null,
+          "likes": 243,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 226.0,
         "n": 12,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.024303938914237825,
-        "vs_baseline": 1.154867256637168,
-        "cost_per_eng": 302.68199233716473,
+        "er": 0.02458329453394171,
+        "vs_baseline": 1.168141592920354,
+        "cost_per_eng": 299.24242424242425,
         "cost_per_view": null
       },
       "analysis": {
@@ -94,9 +100,14 @@
           "one_liner": "평소 대비 1.12배 참여로 소폭 상승, 참여 1건당 311원은 팔로워 규모 감안 시 양호한 초기 효율.",
           "days": 10,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.17배 참여로 준수한 반응이나, 건당 299원 비용은 팔로워 규모 감안 시 합리적 수준으로 중반 이후 댓글 유입 추이 주시 필요.",
+          "days": 14,
+          "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 240 · 댓글 21 · ER 2.4% · 평소대비 1.2x (D+13)"
+      "last_written_reaction": "좋아요 243 · 댓글 21 · ER 2.5% · 평소대비 1.2x (D+14)"
     }
   ],
   "flags": {
@@ -107,5 +118,5 @@
   },
   "child_db_id": "afc39eba-97ed-826a-9ec6-014ca984c684",
   "followers": 10739,
-  "last_written_score": 115
+  "last_written_score": 117
 }

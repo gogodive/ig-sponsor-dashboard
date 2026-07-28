@@ -25,21 +25,27 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T14:51:06.000Z",
       "permalink": "https://www.instagram.com/p/DbOEgfXgTqP/",
-      "thumbnail": "https://instagram.fvlc4-1.fna.fbcdn.net/v/t51.82787-15/755309928_18105901793118227_3623083413006556712_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0OTExMjAyMzIwNzc4MzEyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B4eVLPhD6DYQ7kNvwFf4N70&_nc_oc=AdpTijNYIH308HIRN7twtRrDuQPGlOQLhmiFhUuEHmGmAl1uzHl8y8dqlH8Is59EjZU&_nc_zt=23&_nc_ht=instagram.fvlc4-1.fna&_nc_gid=YTTgxbGr5Ci205t9LSx26g&_nc_ss=72a8c&oh=00_AQA3zg_iqixQ6IzVnGCb7dpmj64Vrry7QpZZKqHkRi8E0A&oe=6A6D94A8",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/755309928_18105901793118227_3623083413006556712_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHOVq_u2Iogmooy5BS1TL5RLcIp8esLHHeWGi2usTpTvEb_idYhB-qapUXeIOrdn6s&_nc_ohc=9Ovet1iSuRIQ7kNvwHOYR9O&_nc_gid=l3V4d4Uh8QPP65AQjM9IuQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQAIc-XNBibn8iA-68zBJCWzN6vOFvLmRZnETsEWbb1xNA&oe=6A6EE628&_nc_sid=c6f216",
       "caption": "ɪɴᴛᴏᴛʜᴇʙʟᴜᴇ ᴅᴇᴇᴘ ᴠɪʙᴇ ᴀᴜʀᴏʀᴀ ʏᴇʟʟᴏᴡ\n#제품제공\n\n나의 첫 프리다이빙 롱핀🧜‍♀️\n인투더블루(@intotheblue_store )에서 딥바이브 오로라 핀을 선물해주셨어요💛🩵\n\n이 그라데이션 색을 엄청나게 고민하다가\n옐로우가 실물이 너무너무 예쁜거 같아서 선택했는데\n여러분 사진 보이시나요,,,?\n진짜 너무 예쁜 레몬바다에 온 기분이에요!\n\n제품 사진보다 옐로우가 쨍하지 않고 블루색감과 어우러져서\n진짜 오묘하고 영롱하고 너무너무 예뻐요ㅠㅠㅠㅠ\n\n제가 사랑하는 라세린 수영복과 매치업 해보았는데\n그라데이션 조합.",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "rabbit.swimming",
       "metrics": {
-        "likes": 506,
+        "likes": 532,
         "comments": 13
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-28",
           "views": null,
           "likes": 506,
+          "comments": 13
+        },
+        {
+          "d": "2026-07-29",
+          "views": null,
+          "likes": 532,
           "comments": 13
         }
       ],
@@ -47,17 +53,24 @@
         "views_median": null,
         "eng_median": 117.5,
         "n": 12,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.022171907040328093,
-        "vs_baseline": 4.417021276595745,
-        "cost_per_eng": 558.766859344894,
+        "er": 0.023282638414217363,
+        "vs_baseline": 4.638297872340425,
+        "cost_per_eng": 532.1100917431193,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 506 · 댓글 13 · ER 2.2% · 평소대비 4.4x (D+2)"
+      "last_written_reaction": "좋아요 532 · 댓글 13 · ER 2.3% · 평소대비 4.6x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 4.64배 높은 참여율과 건당 532원의 효율적 비용으로 초기 3일 성과가 매우 긍정적입니다.",
+          "days": 3,
+          "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
+        }
+      }
     }
   ],
   "flags": {
@@ -68,5 +81,5 @@
   },
   "child_db_id": "db839eba-97ed-831d-85f5-0161fdad2405",
   "followers": 23408,
-  "last_written_score": 442
+  "last_written_score": 464
 }

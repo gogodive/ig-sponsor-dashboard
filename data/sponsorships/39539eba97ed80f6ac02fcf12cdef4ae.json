@@ -24,25 +24,26 @@
       "upload_date_notion": "2026-07-17",
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.04320469798657718,
-        "vs_baseline": null,
+        "vs_baseline": 0.7093366753200251,
         "cost_per_eng": 334.9514563106796,
-        "cost_per_view": null
+        "cost_per_view": 4.353861686017163
       },
       "posted_at": "2026-07-13T11:42:50.000Z",
       "permalink": "https://www.instagram.com/p/Dau0sQlyadx/",
-      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk0MDMxODQ2Mzg4NTE1ODI1NzE3OTA0MDM4NjAxNDYxODE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kvfjrf4adwgQ7kNvwFeoXXq&_nc_oc=AdoRjjrSnSnSTAA0Wk11G-FUu7CeUzFx-itC6irnUFB0s1aDDk-YtMyu2YRx6Iha4Z4&_nc_zt=23&_nc_ht=instagram.fktw4-1.fna&_nc_gid=Xcy-A8fVxwSx_VCI7nybxw&_nc_ss=72a8c&oh=00_AQBojaAE1sHzoVHEfwMK15n-ioogU8bCJYbP1o5moQMNjg&oe=6A6D9ED2",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE23fePF4_O_smBpTjIeSeDpBPu_GCMBk4azGuczWhcgED5Q4KBcKuD0EpBHu992M0&_nc_ohc=DHQb-fYJbO8Q7kNvwEXApWW&_nc_gid=vVdbhYWYJdBn84e8FWrmlg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB5lCKbdVIRUObGQ6i0uPuRn61ZoSWT6fDo3PtYfO32Sg&oe=6A6EF052&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n\n화이트 수영복 조아..🤍 한강 수영장도 조아..🩷\n\n𝗟𝗔𝗦𝗘𝗥𝗜𝗡 - 𝗪𝗵𝗶𝘁𝗲 𝗦𝗵𝗲𝗹𝗹\n𓇼 미들 하이컷\n𓇼 Y자 픽스드백\n𓇼 두 겹 수영복\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 정사이즈 추천\n• 153cm / 42kg / torso 140\n\n🧢 @uhpuhpuh \n🥽 @oompaa.world",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimlog_nana",
       "metrics": {
         "likes": 99,
-        "comments": 4
+        "comments": 4,
+        "views": 7924
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -67,13 +68,19 @@
           "views": null,
           "likes": 99,
           "comments": 4
+        },
+        {
+          "d": "2026-07-29",
+          "views": 7924,
+          "likes": 99,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": 11171,
         "eng_median": 161,
         "n": 3,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "analysis": {
         "d3": {
@@ -87,7 +94,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 99 · 댓글 4 · ER 4.3% (D+14)"
+      "last_written_reaction": "조회 7,924 · 좋아요 99 · 댓글 4 · ER 4.3% · 평소대비 0.7x (D+15)"
     },
     {
       "notion_row_id": "a6f39eba-97ed-822d-83ba-81f6d954e07d",
@@ -98,7 +105,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T08:51:08.000Z",
       "permalink": "https://www.instagram.com/p/DauhxkRGoS9/",
-      "thumbnail": "https://instagram.fyyc8-1.fna.fbcdn.net/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gXlsDIpFn3UQ7kNvwEvxR3H&_nc_oc=AdoWD6H9pk6ea6aA8F9dy4qvUwMvVdUwFF0Y0LKWIFc_BbY8DZfb5SqoXNIwdTKW_N4&_nc_zt=23&_nc_ht=instagram.fyyc8-1.fna&_nc_gid=bawkdaEOvj4U-mKpX1pr0w&_nc_ss=7c289&oh=00_AQB06yXADQkvc3KsQl6kPRivx1XaWh9lgiiQS1SlndnBzQ&oe=6A6DBC7D",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0MDIzNTIwMjMyMDM1NTY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gXlsDIpFn3UQ7kNvwH636vz&_nc_oc=AdpKBWRE5hemgBx_h3AXeFSQ7KRgyCKa3k6qIR4fibiZi_OXSkaNj6JzovZObhvuUe0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wBfrH6GjnpU2a-qDhKB9gw&_nc_ss=72a8c&oh=00_AQBQ7n-h8fxE-EfUVAV2W5dY_TxwFnesPxl7nVBCZCtLkA&oe=6A6F0DFD",
       "caption": "#협찬 @laserin_swim \n𝙇𝘼𝙎𝙀𝙍𝙄𝙉 - 𝙒𝙝𝙞𝙩𝙚 𝙎𝙝𝙚𝙡𝙡 🤍\n\n화이트 수영복 찾는다면? 라세린 화이트쉘 어떠세요🐚\n\n은은하게 번지는 오팔 홀로그램✨\n반짝반짝 빛나는게 윤슬이 떠오르지 않나요••\n\n포일 수영복이지만 ! \n코튼캔디, 글로우펄에 비해 잘 늘어나서 입기 수월해요. \n정사이즈 추천드립니다🫶🏻\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 평소 XS~S, 26 사이즈 착용\n• 153/42/140\n⠀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -107,7 +114,7 @@
         "likes": 121,
         "comments": 30
       },
-      "metrics_updated_at": "2026-07-28T07:11:06.934463+09:00",
+      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -138,16 +145,22 @@
           "views": null,
           "likes": 121,
           "comments": 30
+        },
+        {
+          "d": "2026-07-29",
+          "views": null,
+          "likes": 121,
+          "comments": 30
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 121.5,
         "n": 12,
-        "captured_at": "2026-07-28T07:11:06.934463+09:00"
+        "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.06333892617449664,
         "vs_baseline": 1.242798353909465,
@@ -168,7 +181,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.2x (D+14)"
+      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.2x (D+15)"
     }
   ],
   "flags": {
@@ -179,5 +192,5 @@
   },
   "child_db_id": "d4939eba-97ed-831f-93a4-015faacf8a4b",
   "followers": 2384,
-  "last_written_score": 124
+  "last_written_score": 98
 }
