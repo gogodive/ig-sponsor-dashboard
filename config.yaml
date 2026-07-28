@@ -23,4 +23,5 @@ claude:
 
 notion:
   sponsor_db_id: 24039eba97ed80a0ac36e9b326359954   # [통합] 인플루언서 협찬 DB > 협찬 데이터
+  hub_page_id: 3a539eba97ed800da589c217c0f22400     # 인플루언서 협찬 분석 (허브)
   version: "2022-06-28"

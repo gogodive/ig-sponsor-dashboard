@@ -24,7 +24,7 @@ from src import metrics as mx
 from src.apify_client import fetch_account, fetch_followers, fetch_posts_by_urls
 from src.merge import merge_sponsored_post
 from src.notion_source import fetch_output_rows, fetch_sponsor_rows, find_output_db_id
-from src.notion_write import update_output_row, update_row_score
+from src.notion_write import update_hub_status, update_output_row, update_row_score
 from src.render import render_html
 from src.usernames import extract_shortcode, normalize_username, parse_follower_count
 
@@ -378,6 +378,20 @@ def main() -> int:
     site.mkdir(exist_ok=True)
     (site / "index.html").write_text(
         render_html(all_rows, flags, digest, now), encoding="utf-8")
+
+    # 허브 페이지 상단 콜아웃에 실행 요약 1줄
+    if not args.dry_run and cfg["notion"].get("hub_page_id"):
+        tracked = [p for r in all_rows for p in r.get("posts", [])
+                   if p.get("metrics_updated_at")]
+        live = sum(1 for p in tracked if not p.get("frozen"))
+        n_flags = sum(len(v) for v in flags.values())
+        update_hub_status(
+            cfg["notion"]["hub_page_id"],
+            f"마지막 자동 분석: {now.strftime('%Y-%m-%d %H:%M')} KST · "
+            f"추적 협찬 {len(all_rows)}건 · 지표 수집 게시물 {len(tracked)}개"
+            f"(집계 중 {live}) · 확인 필요 {n_flags}건",
+            cfg["notion"]["version"])
+
     print(f"완료: 협찬 {len(all_rows)}행 → site/index.html")
     return 0
 

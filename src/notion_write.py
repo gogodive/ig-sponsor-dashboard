@@ -56,6 +56,33 @@ def update_output_row(row_id: str, reaction: str, check_date: str, version: str,
     return res.ok
 
 
+def update_hub_status(page_id: str, text: str, version: str) -> bool:
+    """허브 페이지 최상단 콜아웃에 최근 실행 요약 1줄 기입.
+
+    콜아웃이 없으면 페이지 끝에 새로 만든다 (노션 API 는 맨 앞 삽입 미지원 —
+    최초 1회만 수동으로 위치를 잡아주면 이후엔 그 블록을 계속 갱신).
+    """
+    res = requests.get(f"{API}/blocks/{page_id}/children?page_size=30",
+                       headers=_headers(version), timeout=60)
+    if not res.ok:
+        log.warning("허브 블록 조회 실패 %s: %s", page_id, res.text[:200])
+        return False
+    callout = next((b for b in res.json().get("results", [])
+                    if b.get("type") == "callout"), None)
+    if callout:
+        r = requests.patch(f"{API}/blocks/{callout['id']}", headers=_headers(version),
+                           json={"callout": {"rich_text": _rt(text)}}, timeout=60)
+    else:
+        r = requests.patch(
+            f"{API}/blocks/{page_id}/children", headers=_headers(version),
+            json={"children": [{"object": "block", "type": "callout", "callout": {
+                "rich_text": _rt(text), "icon": {"emoji": "🔄"},
+                "color": "gray_background"}}]}, timeout=60)
+    if not r.ok:
+        log.warning("허브 콜아웃 기입 실패: %s", r.text[:200])
+    return r.ok
+
+
 def update_row_score(page_id: str, score: int, version: str) -> bool:
     """메인 협찬 행 '반응도' 숫자 = row_score (100 = 계정 평소 수준)."""
     res = requests.patch(
