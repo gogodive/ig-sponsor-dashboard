@@ -57,6 +57,13 @@ def fetch_comments(post_url: str, limit: int, diag: bool = False,
     items = _run_actor(actor, payload)
     if diag:
         _diagnose(items)
+        dump = cache_path(post_url).with_name(cache_path(post_url).stem + "_comments.json")
+        dump.parent.mkdir(parents=True, exist_ok=True)
+        dump.write_text(json.dumps(
+            [{"u": it.get("ownerUsername"), "t": (it.get("text") or "")[:300],
+              "at": it.get("timestamp"), "id": it.get("id")} for it in items],
+            ensure_ascii=False, indent=1), encoding="utf-8")
+        log.info("[진단] 댓글 원문 저장: %s", dump)
     out = []
     for it in items:
         user = (it.get("ownerUsername") or it.get("username")

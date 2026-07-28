@@ -83,7 +83,8 @@ jobs:
             ${{ inputs.diag && '--diag' || '' }} \
             ${{ inputs.dry_run && '--dry-run' || '' }}
 
-      - name: Commit applicant cache
+      - name: Commit applicant cache / comment dump
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
