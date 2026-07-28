@@ -76,10 +76,26 @@ def load_cache(path: Path) -> dict[str, dict]:
     return {}
 
 
+def slim(prof: dict) -> dict:
+    """지표 계산에 필요한 필드만 남긴다 (원본은 계정당 100KB+ 라 캐시가 비대해짐)."""
+    posts = prof.get("latestPosts") if isinstance(prof.get("latestPosts"), list) else []
+    return {
+        "username": prof.get("username"),
+        "followersCount": prof.get("followersCount"),
+        "postsCount": prof.get("postsCount"),
+        "private": bool(prof.get("private") or prof.get("isPrivate")),
+        "latestPosts": [{"likesCount": p.get("likesCount"),
+                         "commentsCount": p.get("commentsCount"),
+                         "timestamp": p.get("timestamp")} for p in posts[:12]],
+    }
+
+
 def save_cache(path: Path, profiles: dict[str, dict], now: datetime) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps({"updated_at": now.isoformat(), "profiles": profiles},
-                               ensure_ascii=False, indent=1), encoding="utf-8")
+    path.write_text(json.dumps(
+        {"updated_at": now.isoformat(),
+         "profiles": {u: slim(p) for u, p in profiles.items()}},
+        ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def fetch_profiles(usernames: list[str]) -> dict[str, dict]:
