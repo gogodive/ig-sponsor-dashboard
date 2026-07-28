@@ -14,11 +14,14 @@
 from __future__ import annotations
 
 import argparse
+import json
 import logging
 import os
+import re
 import statistics
 import sys
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import requests
 
@@ -27,6 +30,7 @@ from src.notion_source import API as NOTION_API
 from src.notion_source import _headers
 
 KST = timezone(timedelta(hours=9))
+CACHE_DIR = Path(__file__).parent.parent / "data" / "reviewer"
 ACTOR = "apify~instagram-scraper"
 PROFILE_CHUNK = 100          # 프로필 조회 1회당 계정 수
 DORMANT_DAYS = 90
@@ -55,6 +59,27 @@ def fetch_comments(post_url: str, limit: int) -> list[dict]:
                     "text": (it.get("text") or "")[:200],
                     "at": it.get("timestamp")})
     return out
+
+
+def cache_path(post_url: str) -> Path:
+    """게시물 shortcode 기준 캐시 파일 경로."""
+    m = re.search(r"/(?:p|reel|reels|tv)/([A-Za-z0-9_-]+)", post_url)
+    return CACHE_DIR / f"{m.group(1) if m else 'event'}.json"
+
+
+def load_cache(path: Path) -> dict[str, dict]:
+    if path.exists():
+        try:
+            return json.loads(path.read_text(encoding="utf-8")).get("profiles", {})
+        except json.JSONDecodeError:
+            log.warning("손상된 캐시 무시: %s", path)
+    return {}
+
+
+def save_cache(path: Path, profiles: dict[str, dict], now: datetime) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps({"updated_at": now.isoformat(), "profiles": profiles},
+                               ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def fetch_profiles(usernames: list[str]) -> dict[str, dict]:
@@ -275,6 +300,7 @@ def main() -> int:
     ap.add_argument("--limit-comments", type=int, default=1000)
     ap.add_argument("--max-profiles", type=int, default=0, help="0=전체 (테스트 시 표본 수)")
     ap.add_argument("--exclude", default="", help="제외할 계정 (콤마 구분, 예: 자사 계정)")
+    ap.add_argument("--no-cache", action="store_true", help="캐시 무시하고 전원 재조회")
     ap.add_argument("--dry-run", action="store_true", help="노션 기록 생략")
     args = ap.parse_args()
 
@@ -299,7 +325,19 @@ def main() -> int:
     if args.max_profiles:
         users = users[:args.max_profiles]
         log.info("표본 모드: %d명만 조회", len(users))
-    profiles = fetch_profiles(users)
+
+    # 캐시: 이미 조회한 신청자는 건너뛰고 신규만 조회 (분할 실행 대응)
+    cpath = cache_path(args.post_url)
+    cached = {} if args.no_cache else load_cache(cpath)
+    todo = [u for u in users if u not in cached]
+    log.info("프로필: 캐시 %d명 재사용 · 신규 %d명 조회", len(users) - len(todo), len(todo))
+    fresh = fetch_profiles(todo) if todo else {}
+    for u in todo:  # 조회 실패도 기록해 두되 다음 실행에서 재시도되도록 캐시엔 넣지 않음
+        if u in fresh:
+            cached[u] = fresh[u]
+    if not args.no_cache:
+        save_cache(cpath, cached, now)
+    profiles = cached
 
     rows = [build_metrics(u, profiles.get(u), counts[u], now) for u in users]
     ranked = score_rows(rows)
