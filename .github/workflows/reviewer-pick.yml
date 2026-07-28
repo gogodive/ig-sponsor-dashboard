@@ -38,6 +38,10 @@ on:
         description: "노션 기록 생략 (로그만)"
         type: boolean
         default: false
+      diag:
+        description: "댓글 수집 구조만 진단 (수집 갭 원인 파악)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -71,6 +75,7 @@ jobs:
             --max-profiles "${{ inputs.max_profiles }}" \
             --exclude "${{ inputs.exclude }}" \
             ${{ inputs.no_cache && '--no-cache' || '' }} \
+            ${{ inputs.diag && '--diag' || '' }} \
             ${{ inputs.dry_run && '--dry-run' || '' }}
 
       - name: Commit applicant cache

@@ -41,7 +41,7 @@ log = logging.getLogger("reviewer_pick")
 
 
 # ── 수집 ──────────────────────────────────────────────────────────────────
-def fetch_comments(post_url: str, limit: int) -> list[dict]:
+def fetch_comments(post_url: str, limit: int, diag: bool = False) -> list[dict]:
     """게시물 댓글 수집 → [{username, text, at}]"""
     items = _run_actor(ACTOR, {
         "directUrls": [post_url],
@@ -49,6 +49,8 @@ def fetch_comments(post_url: str, limit: int) -> list[dict]:
         "resultsLimit": limit,
         "addParentData": False,
     })
+    if diag:
+        _diagnose(items)
     out = []
     for it in items:
         user = (it.get("ownerUsername") or it.get("username")
@@ -59,6 +61,30 @@ def fetch_comments(post_url: str, limit: int) -> list[dict]:
                     "text": (it.get("text") or "")[:200],
                     "at": it.get("timestamp")})
     return out
+
+
+def _diagnose(items: list[dict]) -> None:
+    """수집 댓글 구조 진단 — 인스타 표기 댓글 수와 차이가 날 때 원인 파악용."""
+    log.info("[진단] 수집 항목 %d개", len(items))
+    if not items:
+        return
+    log.info("[진단] 항목 필드: %s", sorted(items[0].keys()))
+    replies = sum(int(it.get("repliesCount") or 0) for it in items)
+    nested = sum(len(it.get("replies") or []) for it in items
+                 if isinstance(it.get("replies"), list))
+    owners: dict[str, int] = {}
+    for it in items:
+        u = (it.get("ownerUsername") or it.get("username")
+             or (it.get("owner") or {}).get("username") or "?")
+        owners[u] = owners.get(u, 0) + 1
+    top = sorted(owners.items(), key=lambda x: -x[1])[:5]
+    log.info("[진단] repliesCount 합계 %d · 항목에 포함된 replies %d개", replies, nested)
+    log.info("[진단] 고유 작성자 %d명 · 다중 댓글 상위: %s", len(owners), top)
+    log.info("[진단] 예시 항목: %s",
+             json.dumps({k: v for k, v in items[0].items()
+                         if k in ("id", "text", "ownerUsername", "timestamp",
+                                  "repliesCount", "parentId", "likesCount")},
+                        ensure_ascii=False)[:400])
 
 
 def cache_path(post_url: str) -> Path:
@@ -317,6 +343,7 @@ def main() -> int:
     ap.add_argument("--max-profiles", type=int, default=0, help="0=전체 (테스트 시 표본 수)")
     ap.add_argument("--exclude", default="", help="제외할 계정 (콤마 구분, 예: 자사 계정)")
     ap.add_argument("--no-cache", action="store_true", help="캐시 무시하고 전원 재조회")
+    ap.add_argument("--diag", action="store_true", help="댓글 수집 구조만 진단하고 종료")
     ap.add_argument("--dry-run", action="store_true", help="노션 기록 생략")
     args = ap.parse_args()
 
@@ -326,7 +353,9 @@ def main() -> int:
             return 1
 
     now = datetime.now(KST)
-    comments = fetch_comments(args.post_url, args.limit_comments)
+    comments = fetch_comments(args.post_url, args.limit_comments, diag=args.diag)
+    if args.diag:
+        return 0
     skip = {u.strip().lower().lstrip("@") for u in args.exclude.split(",") if u.strip()}
     counts: dict[str, int] = {}
     for c in comments:
