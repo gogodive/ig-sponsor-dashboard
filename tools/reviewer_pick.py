@@ -41,14 +41,20 @@ log = logging.getLogger("reviewer_pick")
 
 
 # ── 수집 ──────────────────────────────────────────────────────────────────
-def fetch_comments(post_url: str, limit: int, diag: bool = False) -> list[dict]:
-    """게시물 댓글 수집 → [{username, text, at}]"""
-    items = _run_actor(ACTOR, {
-        "directUrls": [post_url],
-        "resultsType": "comments",
-        "resultsLimit": limit,
-        "addParentData": False,
-    })
+def fetch_comments(post_url: str, limit: int, diag: bool = False,
+                   actor: str = ACTOR) -> list[dict]:
+    """게시물 댓글 수집 → [{username, text, at}].
+
+    기본 actor(instagram-scraper)는 최상위 댓글만 준다. 답글로 응모한 사람까지
+    잡으려면 comment-scraper actor 를 쓴다 (includeNestedComments).
+    """
+    if "comment-scraper" in actor:
+        payload = {"directUrls": [post_url], "resultsLimit": limit,
+                   "includeNestedComments": True}
+    else:
+        payload = {"directUrls": [post_url], "resultsType": "comments",
+                   "resultsLimit": limit, "addParentData": False}
+    items = _run_actor(actor, payload)
     if diag:
         _diagnose(items)
     out = []
@@ -344,6 +350,8 @@ def main() -> int:
     ap.add_argument("--exclude", default="", help="제외할 계정 (콤마 구분, 예: 자사 계정)")
     ap.add_argument("--no-cache", action="store_true", help="캐시 무시하고 전원 재조회")
     ap.add_argument("--diag", action="store_true", help="댓글 수집 구조만 진단하고 종료")
+    ap.add_argument("--comment-actor", default=ACTOR,
+                    help="댓글 수집 actor (답글 포함: apify~instagram-comment-scraper)")
     ap.add_argument("--dry-run", action="store_true", help="노션 기록 생략")
     args = ap.parse_args()
 
@@ -353,7 +361,8 @@ def main() -> int:
             return 1
 
     now = datetime.now(KST)
-    comments = fetch_comments(args.post_url, args.limit_comments, diag=args.diag)
+    comments = fetch_comments(args.post_url, args.limit_comments, diag=args.diag,
+                              actor=args.comment_actor)
     if args.diag:
         return 0
     skip = {u.strip().lower().lstrip("@") for u in args.exclude.split(",") if u.strip()}

@@ -42,6 +42,10 @@ on:
         description: "댓글 수집 구조만 진단 (수집 갭 원인 파악)"
         type: boolean
         default: false
+      comment_actor:
+        description: "댓글 수집 actor (답글 포함하려면 apify~instagram-comment-scraper)"
+        type: string
+        default: "apify~instagram-scraper"
 
 permissions:
   contents: write
@@ -72,6 +76,7 @@ jobs:
             --notion-page "${{ inputs.notion_page }}" \
             --top "${{ inputs.top }}" \
             --limit-comments "${{ inputs.limit_comments }}" \
+            --comment-actor "${{ inputs.comment_actor }}" \
             --max-profiles "${{ inputs.max_profiles }}" \
             --exclude "${{ inputs.exclude }}" \
             ${{ inputs.no_cache && '--no-cache' || '' }} \
