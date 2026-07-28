@@ -32,6 +32,11 @@ from src.notion_source import _headers
 KST = timezone(timedelta(hours=9))
 CACHE_DIR = Path(__file__).parent.parent / "data" / "reviewer"
 ACTOR = "apify~instagram-scraper"
+# 기본 댓글 수집기: 답글(대댓글)까지 가져온다. 예시 댓글에 답글로 응모하는 사람이 많아
+# 최상위 댓글만 받으면 대량 누락된다 (실측: 173명 → 212명).
+COMMENT_ACTOR = "apify~instagram-comment-scraper"
+_MENTION = re.compile(r"@[A-Za-z0-9._]{2,}")
+_BRACKET = re.compile(r"\[[^\]]{1,30}\]")
 PROFILE_CHUNK = 100          # 프로필 조회 1회당 계정 수
 DORMANT_DAYS = 90
 MIN_FOLLOWERS = 300
@@ -98,6 +103,17 @@ def _diagnose(items: list[dict]) -> None:
                          if k in ("id", "text", "ownerUsername", "timestamp",
                                   "repliesCount", "parentId", "likesCount")},
                         ensure_ascii=False)[:400])
+
+
+def is_entry(texts: list[str], min_text: int) -> bool:
+    """응모 댓글로 볼지 판정 — 친구 태그 / 대괄호 양식 / 최소 길이 중 하나 충족.
+
+    실제 응모는 양식을 안 지킨 경우가 대부분이라(대괄호 사용 32/211) 관대하게 잡고,
+    단순 감탄사·문의 댓글만 걸러낸다.
+    """
+    joined = " ".join(texts)
+    return bool(_MENTION.search(joined) or _BRACKET.search(joined)
+                or max((len(t.strip()) for t in texts), default=0) >= min_text)
 
 
 def cache_path(post_url: str) -> Path:
@@ -357,8 +373,10 @@ def main() -> int:
     ap.add_argument("--exclude", default="", help="제외할 계정 (콤마 구분, 예: 자사 계정)")
     ap.add_argument("--no-cache", action="store_true", help="캐시 무시하고 전원 재조회")
     ap.add_argument("--diag", action="store_true", help="댓글 수집 구조만 진단하고 종료")
-    ap.add_argument("--comment-actor", default=ACTOR,
-                    help="댓글 수집 actor (답글 포함: apify~instagram-comment-scraper)")
+    ap.add_argument("--comment-actor", default=COMMENT_ACTOR,
+                    help="댓글 수집 actor (기본: 답글 포함 comment-scraper)")
+    ap.add_argument("--min-text", type=int, default=20,
+                    help="응모로 인정할 최소 댓글 길이 (태그·양식 있으면 무관)")
     ap.add_argument("--dry-run", action="store_true", help="노션 기록 생략")
     args = ap.parse_args()
 
@@ -374,15 +392,24 @@ def main() -> int:
         return 0
     skip = {u.strip().lower().lstrip("@") for u in args.exclude.split(",") if u.strip()}
     counts: dict[str, int] = {}
+    texts: dict[str, list[str]] = {}
     for c in comments:
-        if c["username"] not in skip:
-            counts[c["username"]] = counts.get(c["username"], 0) + 1
-    log.info("댓글 %d개 → 신청자 %d명(중복 제거)", len(comments), len(counts))
+        u = c["username"]
+        if u in skip:
+            continue
+        counts[u] = counts.get(u, 0) + 1
+        texts.setdefault(u, []).append(c["text"])
+    log.info("댓글 %d개 → 작성자 %d명(중복 제거)", len(comments), len(counts))
     if not counts:
         print("신청자를 찾지 못했습니다", file=sys.stderr)
         return 1
 
-    users = list(counts)
+    not_entry = [u for u in counts if not is_entry(texts[u], args.min_text)]
+    if not_entry:
+        log.info("응모 양식 미충족 %d명 제외: %s", len(not_entry),
+                 ", ".join("@" + u for u in not_entry[:20]))
+    users = [u for u in counts if u not in set(not_entry)]
+    log.info("신청자 %d명", len(users))
     if args.max_profiles:
         users = users[:args.max_profiles]
         log.info("표본 모드: %d명만 조회", len(users))
@@ -401,6 +428,10 @@ def main() -> int:
     profiles = cached
 
     rows = [build_metrics(u, profiles.get(u), counts[u], now) for u in users]
+    rows += [{"username": u, "comments": counts[u], "excluded": "응모 양식 미충족",
+              "followers": None, "posts": None, "avg_eng": None, "er": None,
+              "recent_posts_90d": 0, "last_post": None, "private": None}
+             for u in not_entry]
     ranked = score_rows(rows)
     excluded = [r for r in rows if r["excluded"]]
     picked = ranked[:args.top]

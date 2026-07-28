@@ -27,9 +27,9 @@ on:
         type: string
         default: "0"
       exclude:
-        description: "제외할 계정 (콤마 구분)"
+        description: "제외할 계정 (콤마 구분, 자사 계정 등)"
         type: string
-        default: ""
+        default: "laserin_swim"
       no_cache:
         description: "캐시 무시하고 전원 재조회"
         type: boolean
@@ -45,7 +45,7 @@ on:
       comment_actor:
         description: "댓글 수집 actor (답글 포함하려면 apify~instagram-comment-scraper)"
         type: string
-        default: "apify~instagram-scraper"
+        default: "apify~instagram-comment-scraper"
 
 permissions:
   contents: write
