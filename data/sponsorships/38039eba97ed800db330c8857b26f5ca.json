@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:02:18.000Z",
       "permalink": "https://www.instagram.com/p/DaJ9PqcpWbc/",
-      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyxd1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFXBbfzkUtHB9Ki_IP1rbKTlNbWV2l2VuBtla2_FNl7GIAhcdyJWZ6ZfSpWSevTqZM&_nc_ohc=w9fDccadyKMQ7kNvwEfzhJa&_nc_gid=onhqGIFhs9yyfkhSojLjDw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQB6gEQphzj4WnlK14TFGruVjN9BWKlJZbf7SqKpe7LUOA&oe=6A6EF50D&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGoH4tZyRq8az-aui3hs2ha9STKssf5VVN79vz3OmprNYtQ6QQNPxKzeOsCCWYDTdk&_nc_ohc=w9fDccadyKMQ7kNvwFLOd0B&_nc_gid=4zJTm_A9wegbvKBppLJwkw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFq1ZCF2IMa14MMoDcjiJ63F_7BMn_FS2t2j9HJWhiUeQ&oe=6A70468D&_nc_sid=c6f216",
       "caption": "#광고 @laserin_swim #라세린\n\n수영 가는날 제일 먼저 챙기게 되는 수영복 🫧\n\n물 안에서 더 예쁜 컬러감의\n라세린 오로라그린 💚💙\n\n쫀쫀하게 잡아주는 착용감이라\n강습 때도 편하고,\n핏까지 깔끔하게 떨어져서 더 마음에 들었어요 :)\n\n실내수영장에서 괜히 한번 더 거울 보게 되는 무드…✨\n\n운동하러 가는 날도\n예쁜 건 포기 못하는 사람에게 추천!",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "binny_swimm",
       "metrics": {
-        "views": 1383,
-        "likes": 63,
+        "views": 1387,
+        "likes": 64,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -78,21 +78,27 @@
           "views": 1383,
           "likes": 63,
           "comments": 18
+        },
+        {
+          "d": "2026-07-30",
+          "views": 1387,
+          "likes": 64,
+          "comments": 18
         }
       ],
       "baseline": {
         "views_median": 1002.0,
         "eng_median": 126.5,
         "n": 8,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.04336188436830835,
-        "vs_baseline": 1.3802395209580838,
-        "cost_per_eng": 790.1234567901234,
-        "cost_per_view": 46.2762111352133
+        "er": 0.043897216274089934,
+        "vs_baseline": 1.3842315369261478,
+        "cost_per_eng": 780.4878048780488,
+        "cost_per_view": 46.142754145638065
       },
       "analysis": {
         "one_liner": "평소 대비 1.22배 조회로 소폭 상회하며 참여 1건당 790원·조회당 47.6원은 소규모 계정 기준 준수한 효율이나 절대 수치는 제한적.",
@@ -103,7 +109,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 1,383 · 좋아요 63 · 댓글 18 · ER 4.3% · 평소대비 1.4x (D+29)"
+      "last_written_reaction": "조회 1,387 · 좋아요 64 · 댓글 18 · ER 4.4% · 평소대비 1.4x (D+30)"
     }
   ],
   "flags": {

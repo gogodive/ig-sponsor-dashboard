@@ -25,16 +25,16 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T23:47:32.000Z",
       "permalink": "https://www.instagram.com/p/DbRmsWyE1DV/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFLQ2zjCBQZ6qx7fSrO3ubQycCkx_2NQS7rB9zWhUGSAzrn16700ga_uElQFiuDiGLoLdzrt9cIgYjLAVzPa4VD&_nc_ohc=KTIiZ_p3LyIQ7kNvwEihy2v&_nc_gid=BBfOyetBrCugMQMWiLRn7w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQA3we8YSJzQ77oJTJCMT_rGkadlxSzpwHMgIqsWhQfyQA&oe=6A6EE406&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENsVvq1akZXIi2uKIezCltQl4LPWCQ_hO9RHVUWd_CQtcnlhBg4frbSBnbL2zlUq0&_nc_ohc=Zg28CN2UITYQ7kNvwGc5HD9&_nc_gid=_KwWk7jv3sz4oG9jf1LW7g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHrg0wT5e3vUSDZ9EsVYd1CDXJ9axpmCRZDcDvlCJ9UPQ&oe=6A703586&_nc_sid=c6f216",
       "caption": "✨오늘의 수영복 리뷰\n#제품제공 @laserin_swim\n\n라세린 - 미스틱 레드 더블크로스백\n\n저녁 노을을 담은 듯한 핑크 그라데이션 컬러가 정말 마음에 드는 수영복이에요✨\n고밀도 화이트 안감이라 버블도 전혀 없어서 입수해도 너무 예쁜 수영복이에요!!\n\n백타입은 더블 크로스 픽스드백으로 백라인을 탄탄하게 잡아줘서 저 처럼 물들어오는걸 끔찍하게😱 싫어하시는 분들이라면 바로 이 수영복!!! Pick~✨\n\n안정적인 가슴선에 노출이 부담스러우신 분들께 추천할 수 있는 미들컷, 그리고 힙커버리지도 적당해서 스타트 할때도 부담스럽지 않아요~",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yojung",
       "metrics": {
-        "likes": 127,
+        "likes": 131,
         "comments": 42
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": 127,
           "comments": 42
+        },
+        {
+          "d": "2026-07-30",
+          "views": null,
+          "likes": 131,
+          "comments": 42
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 187.5,
         "n": 8,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.1456896551724138,
-        "vs_baseline": 0.9013333333333333,
-        "cost_per_eng": 378.698224852071,
+        "er": 0.14913793103448275,
+        "vs_baseline": 0.9226666666666666,
+        "cost_per_eng": 369.9421965317919,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 127 · 댓글 42 · ER 14.6% · 평소대비 0.9x (D+1)"
+      "last_written_reaction": "좋아요 131 · 댓글 42 · ER 14.9% · 평소대비 0.9x (D+2)"
     }
   ],
   "flags": {
@@ -74,5 +80,5 @@
   },
   "child_db_id": "fc139eba-97ed-8244-8c61-81a81d69d44a",
   "followers": 1160,
-  "last_written_score": 90
+  "last_written_score": 92
 }

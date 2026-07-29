@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-8072-b395-c8e72d18bed0",
   "row_title_raw": "mool.bae",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T12:39:41.000Z",
       "permalink": "https://www.instagram.com/p/Da0FhUMCeif/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/748585291_17891174748577989_1237722481095633297_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gERn0wQbyOAvufBvUhMz53x7bVG9F8X6mnx7BpWSK7nfirsTk-xDGr-tq3eLlONJSs&_nc_ohc=6kxOVzcPy5QQ7kNvwEvz_NS&_nc_gid=dL_djGuQ3m2LqAm0IbHeTw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBbRhFT1T-XTyNNZP2vy6a2ieP0RwB3cs66_ZtBFHuuGg&oe=6A6EFEF1&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd12-1.fna.fbcdn.net/v/t51.82787-15/748585291_17891174748577989_1237722481095633297_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsyd12-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHnui1GdIb4yTJmlrLYbv5NZf9WoNBNgwjOX4X9wOGSZhkoKQFbTAGYKvrKPNbBt8M&_nc_ohc=6kxOVzcPy5QQ7kNvwGxvdcl&_nc_gid=vthJMxGMGetKVyc65-ORGg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHuV3Y43gFD7K6RzJ3ZnowUEk6gpzDO1CWx76hfBoUvpg&oe=6A705071&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n˗ˏˋ ♡ ˎˊ˗라세린 샤이닝웨이브 픽스드백\n\n야외수영장에서 더 빛났던 블루 ..💙\n처음 보자마자 이름처럼 파도를 그대로 담은 듯한 디자인이 눈에 들어왔어요 ! 👀✨\n\n햇빛 아래에서는 청량한 블루 컬러가 더 선명하게 살아나고,\n물에 들어가면 물결과 자연스럽게 어우러져 정말 예쁘더라구요.🌊\n\n제가 착용한 픽스드백은 등을 안정적으로 잡아줘서 활동할 때 편안했고, 신축성이 좋아 움직임도 자연스러웠어요 ! 참고로 타이백도 있답니당✌🏽\n\n강슴용으로 입기에도 부담 없고,\n야외수영장에서 인생샷📸 남기기에도",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "mool.bae",
       "metrics": {
-        "likes": 96,
+        "likes": 97,
         "comments": 21
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -77,20 +77,26 @@
           "views": null,
           "likes": 96,
           "comments": 21
+        },
+        {
+          "d": "2026-07-30",
+          "views": null,
+          "likes": 97,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 142.0,
         "n": 12,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.08130646282140375,
-        "vs_baseline": 0.823943661971831,
-        "cost_per_eng": 273.5042735042735,
+        "er": 0.08200138985406533,
+        "vs_baseline": 0.8309859154929577,
+        "cost_per_eng": 271.1864406779661,
         "cost_per_view": null
       },
       "analysis": {
@@ -100,9 +106,14 @@
           "one_liner": "평소 대비 0.82x로 소폭 미달이나, 팔로워 1,439명 계정에서 참여율 8.06%·552원/참여는 소형 계정 효율로 양호한 초기 성과.",
           "days": 8,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.83x로 소폭 부진하나, 참여율 8.2%·CPE 271원은 소규모 계정 기준 양호한 비용 효율을 유지 중.",
+          "days": 14,
+          "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
         }
       },
-      "last_written_reaction": "좋아요 96 · 댓글 21 · ER 8.1% · 평소대비 0.8x (D+13)"
+      "last_written_reaction": "좋아요 97 · 댓글 21 · ER 8.2% · 평소대비 0.8x (D+14)"
     },
     {
       "notion_row_id": "eb239eba-97ed-82aa-93fb-01c93f7e0fd2",
@@ -113,17 +124,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T10:22:46.000Z",
       "permalink": "https://www.instagram.com/p/Daz1evNpGz4/",
-      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/747761154_17891160288577989_5997188873849037560_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG8hqzkym4oSqGD2Gt7qHnFc9TJn9ZETeq3bEqVQvSGY6q_7CYPgz0BPhfK2eKV3AU&_nc_ohc=VlRBGQ_vGtsQ7kNvwHysgzs&_nc_gid=EMf6nCN5lJit25DsDHmNag&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQA-jGh2xt2XIg8ZslFfKjUiNIsg5ZnM_KcPa06GeySsRQ&oe=6A6F14FB&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/747761154_17891160288577989_5997188873849037560_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE30HVnxVFKOAkEfkl4FZiqZtLKyjKlG7YXWE9NgN7-8Amd86vm9g_--UM9_lTMyZ6OMImvs6cWiJcVtgHNGKQu&_nc_ohc=VlRBGQ_vGtsQ7kNvwEVTOCT&_nc_gid=aXqLpv1_VR3hZ51a31LhJw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH2CoBQhN89BSHhK923zsmGpPYC2CjYHLCzo2JpwPXjjw&oe=6A70667B&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n여름엔 역시 야외수영장.☀️🌊\n\n한강수영장에 가는 날이라\n잘 어울리는 수영복을 골라봤어요.\n\n⁺˚⋆｡°✩₊ 라세린 샤이닝웨이브 픽스드백\n\n이름처럼 파도를 담은 디자인이라\n햇빛 아래에서도, 물속에서도\n블루 컬러가 더 시원하게 느껴지더구요 !💙✨\n\n실제로 입어보니 픽스드백이라 안정감 있게 잡아주고, 신축성이 좋아 움직일 때도 편안했어요. 특히나 야외수영장에서 사진 찍을 때도 컬러감이 정말 예뻤어요 .. 🩵👀\n\n여름 분위기 가득한 곳에서 입기 딱 좋았ㄷㅏ .. 𓂃 𓈒 𓏸 𓍢ִ໋\n\n#라세린 #라세린수",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "mool.bae",
       "metrics": {
-        "likes": 93,
+        "likes": 95,
         "comments": 29,
-        "views": 4572
+        "views": 4620
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -166,21 +177,27 @@
           "views": 4572,
           "likes": 93,
           "comments": 29
+        },
+        {
+          "d": "2026-07-30",
+          "views": 4620,
+          "likes": 95,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": 7392.0,
         "eng_median": 165.5,
         "n": 8,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.0847810979847116,
-        "vs_baseline": 0.6185064935064936,
-        "cost_per_eng": 262.2950819672131,
-        "cost_per_view": 6.99912510936133
+        "er": 0.08617095205003475,
+        "vs_baseline": 0.625,
+        "cost_per_eng": 258.06451612903226,
+        "cost_per_view": 6.926406926406926
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태지만 팔로워 대비 참여율 8.34%·참여당 533원은 소규모 계정 기준 우수한 초기 효율을 보임",
@@ -189,9 +206,14 @@
           "one_liner": "조회수 미집계이나 좋아요·댓글 기반 참여율 8.41%·참여당 529원으로 소규모 계정 대비 비용 효율 양호한 초기 성과.",
           "days": 8,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.62x로 다소 저조하나, 참여율 8.62%·참여 1건당 258원으로 비용 효율은 양호한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
         }
       },
-      "last_written_reaction": "조회 4,572 · 좋아요 93 · 댓글 29 · ER 8.5% · 평소대비 0.6x (D+13)"
+      "last_written_reaction": "조회 4,620 · 좋아요 95 · 댓글 29 · ER 8.6% · 평소대비 0.6x (D+14)"
     }
   ],
   "flags": {
@@ -202,5 +224,5 @@
   },
   "child_db_id": "53339eba-97ed-822b-8c6e-818012af7177",
   "followers": 1439,
-  "last_written_score": 72
+  "last_written_score": 73
 }

@@ -1,6 +1,6 @@
 {
-  "page_id": "3a739eba-97ed-808c-91aa-ce100961ac53",
-  "row_title_raw": "i_myme97",
+  "page_id": "39839eba-97ed-8010-8722-cf76f16ed2c7",
+  "row_title_raw": "nar_ae__",
   "status": "진행 중",
   "media": [
     "인스타"
@@ -9,12 +9,12 @@
     "고고다이브"
   ],
   "manager": "김호진",
-  "followers_notion_raw": "22000",
-  "product_value_krw": 780000,
-  "delivery_date": "2026-07-22",
+  "followers_notion_raw": "31000",
+  "product_value_krw": 590000,
+  "delivery_date": "2026-07-10",
   "output_link_prop": null,
-  "username": "i_myme97",
-  "followers_notion": 22000,
+  "username": "nar_ae__",
+  "followers_notion": 31000,
   "posts": [],
   "flags": {
     "unresolvable_username": false,
@@ -22,6 +22,6 @@
     "overdue_no_output": true,
     "account_unavailable": false
   },
-  "child_db_id": "59a39eba-97ed-82c9-b929-81702493a41b",
-  "followers": 22000
+  "child_db_id": "f2e39eba-97ed-833d-b7d1-81faace0b949",
+  "followers": 31000
 }

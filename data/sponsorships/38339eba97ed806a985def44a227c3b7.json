@@ -17,14 +17,30 @@
   "followers_notion": 64000,
   "posts": [
     {
+      "notion_row_id": "3ac39eba-97ed-80b9-bd3d-c4394be6575e",
+      "url": "https://www.instagram.com/p/DbSnkHlPSfg/",
+      "shortcode": "DbSnkHlPSfg",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-28",
+      "first_seen": "2026-07-30",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "ec539eba-97ed-82de-843c-01698875054b",
       "url": "https://www.instagram.com/p/DbCHFmSPDlg/",
       "shortcode": "DbCHFmSPDlg",
-      "media_kind": "스토리",
+      "media_kind": "릴스",
       "upload_date_notion": "2026-07-20",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": null,
         "vs_baseline": null,

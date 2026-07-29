@@ -1,7 +1,7 @@
 {
   "page_id": "37d39eba-97ed-8023-ba7e-de3ced86aa12",
   "row_title_raw": "rimi_swim",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T06:14:10.000Z",
       "permalink": "https://www.instagram.com/p/DauPWGAJ7XC/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0MDE1NDIxMjk2Njk3MDgxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=93cHV1eHZpkQ7kNvwHqdPPT&_nc_oc=Adq6uC14FFlNmyISMHvhjpSc2Bg5RqEeJwUWsVo5v8awrKEfYOe4pLwG3QlPUlFmd5g&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=StxbL1hBn8KTA-kqPfzPsg&_nc_ss=72a8c&oh=00_AQAqtlUnCpWqcx1l0eWl6TUU8g6bRN1nkxMqTsApI-riLQ&oe=6A6F0408",
+      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG2jlyPJl7rdSoFsEoaAh623LFAFoFDHqX73w_i1KolJAc6WzUOgNkwy8OHihNpPQIIz-s2Z3FA7SAQMVZ_BZLF&_nc_ohc=edH-cutAqQQQ7kNvwEsEkva&_nc_gid=DmyAGZtMto_toXw6JnMg6g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFT2Ojb7vqXBLd6QIQaiRNAytEp6VhPILcFRX_Vxg55IA&oe=6A705588&_nc_sid=c6f216",
       "caption": "#제품제공 #인투더블루 #딥바이브 #프리다이빙장비 \n\n이제 날씨가 많이 더워져서 물놀이 피크시즌인데\n저의 물놀이 필수템은 스노쿨링 마스크랍니다🤿\n코에 물도 안들어오고 시야도 넓어 물놀이하기 좋아요!\n\n여러가지 마스크 사용해봤는데\n말랑말랑 코부분 잡기도 좋고, 반짝반짝 핑크디자인도 예쁘구\n이번주에도 물놀이가는데 가장먼저 챙길예정이에요!",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "rimi_swim",
       "metrics": {
-        "views": 1697,
+        "views": 1713,
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -78,21 +78,27 @@
           "views": 1697,
           "likes": -1,
           "comments": 10
+        },
+        {
+          "d": "2026-07-30",
+          "views": 1713,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": 762.0,
         "eng_median": 55.0,
         "n": 4,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.002438363587103766,
-        "vs_baseline": 2.227034120734908,
+        "vs_baseline": 2.248031496062992,
         "cost_per_eng": 5722.222222222223,
-        "cost_per_view": 30.347672362993517
+        "cost_per_view": 30.064214827787506
       },
       "analysis": {
         "one_liner": "평소 대비 2.18배 조회로 노출 확장은 긍정적이나, 팔로워 대비 참여율 0.30%·참여당 비용 9,364원으로 실질 반응 효율은 낮은 편.",
@@ -108,7 +114,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 1,697 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.2x (D+15)"
+      "last_written_reaction": "조회 1,713 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.2x (D+16)"
     },
     {
       "notion_row_id": "72d39eba-97ed-82b3-bc21-81d46f56983a",
@@ -119,7 +125,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-30T04:02:41.000Z",
       "permalink": "https://www.instagram.com/p/DaMibhtiZkQ/",
-      "thumbnail": "https://instagram.fncl3-1.fna.fbcdn.net/v/t51.82787-15/728868050_17950008249194200_3981759556913216315_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fncl3-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEcAx7CN1qR7SQInOr-QNq0JOgH-_u8Xt84_ftskwnPFLAoB2fYG05vB_Q8iJCzWAA&_nc_ohc=O1Z0IVpojiMQ7kNvwFWb_8U&_nc_gid=_K2c_bHXTHbvp5U9RrnQdg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQBrfvlMRRE-ZVe9pRG-h6c0knaEciWVCLOrPceCEJdKug&oe=6A6F0A02&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/728868050_17950008249194200_3981759556913216315_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFy7_bbxyeOl7wyAsoO8V9Svjz8_T4BWOi803-olZD4LuuWWrCkuCkwYIWi6jO1IGYFZ4dFuWnQBmZhEFXTPfTm&_nc_ohc=O1Z0IVpojiMQ7kNvwEPBfYl&_nc_gid=t0ouCc26GbyTv1U54BGWPA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEpzXD20HVLdel9nvDMxbVxcZOAL-Y774RGsjQxCfHGuQ&oe=6A705B82&_nc_sid=c6f216",
       "caption": "#제품제공 #인투더블루\n\n🤿고고 젤로 프리다이빙 오로라 마스크\n +딥바이브 에어로 스노클\n\n놀러가서는 물안경보다 프다용 마스크를 \n더 잘쓰게되는건 왜죠~?코에 물이 안들어가서 그런가ㅎㅎ\n이번에 인투더블루 마스크+스노클로 물놀이 하고왔어요\n집에 화이트컬러있어서 핑크로 했는데 너무 예뻐요😭\n물놀이 영상 편집즁✂️",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -128,7 +134,7 @@
         "likes": -1,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -171,16 +177,22 @@
           "views": null,
           "likes": -1,
           "comments": 7
+        },
+        {
+          "d": "2026-07-30",
+          "views": null,
+          "likes": -1,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 34.5,
         "n": 12,
-        "captured_at": "2026-07-29T07:07:49.880116+09:00"
+        "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.001625575724735844,
         "vs_baseline": 0.17391304347826086,
@@ -196,7 +208,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 7 · ER 0.2% · 평소대비 0.2x (D+28)"
+      "last_written_reaction": "좋아요 -1 · 댓글 7 · ER 0.2% · 평소대비 0.2x (D+29)"
     }
   ],
   "flags": {
@@ -207,5 +219,5 @@
   },
   "child_db_id": "c7139eba-97ed-83a7-a781-81f5625b489a",
   "followers": 3691,
-  "last_written_score": 120
+  "last_written_score": 121
 }

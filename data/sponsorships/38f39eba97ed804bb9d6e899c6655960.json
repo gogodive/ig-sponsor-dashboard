@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-07-06",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.006789473684210527,
         "vs_baseline": null,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-07-04T05:00:55.000Z",
       "permalink": "https://www.instagram.com/p/DaW8RgQAbg6/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/731810113_18446770861188050_2446817751946700903_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFQ3q9qh5NqBPaBFYF9CzH9_V-tSsROHmLvk1g-UGpBzt-NMrOeDmNoIc_DHueXSDs&_nc_ohc=PEbeHOwLmr8Q7kNvwEqSKDt&_nc_gid=q2IZCe15qEfezgVSBb00Ng&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQApEAfqPoudFCPEAjGJAcBlaqkv6S02NJqksKYuyr9ZdA&oe=6A6F16D6&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fhmo2-4.fna.fbcdn.net/v/t51.82787-15/731810113_18446770861188050_2446817751946700903_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhmo2-4.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFUsLeXZ9ohwbCefRe4u78xV4cF13isR5XpU2aLjy2GEPaHGH3xcWIZLF_NEEkYMZKCcnNjsxEu6CaEE8Xb49Hr&_nc_ohc=PEbeHOwLmr8Q7kNvwGoWWMU&_nc_gid=MdncbX3sypnv0pN_EXUFOg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFlPobcneTVynwMKFqY5RZU2Ssp4S-2kzTmyAK7YqyU6Q&oe=6A706856&_nc_sid=c6f216",
       "caption": "피드에 징구럽게 왼쪽얼굴만 있길래 오른쪽얼굴 들고옴",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -42,7 +42,7 @@
         "likes": -1,
         "comments": 130
       },
-      "metrics_updated_at": "2026-07-29T07:07:49.880116+09:00",
+      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -73,6 +73,12 @@
           "views": null,
           "likes": -1,
           "comments": 130
+        },
+        {
+          "d": "2026-07-30",
+          "views": null,
+          "likes": -1,
+          "comments": 130
         }
       ],
       "analysis": {
@@ -82,7 +88,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 130 · ER 0.7% (D+24)"
+      "last_written_reaction": "좋아요 -1 · 댓글 130 · ER 0.7% (D+25)"
     }
   ],
   "flags": {

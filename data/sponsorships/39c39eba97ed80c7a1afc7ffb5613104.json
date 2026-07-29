@@ -1,6 +1,6 @@
 {
-  "page_id": "3a539eba-97ed-80af-b1e4-d4b9c855fc0d",
-  "row_title_raw": "h.a.d93",
+  "page_id": "39c39eba-97ed-80c7-a1af-c7ffb5613104",
+  "row_title_raw": "claire__ov",
   "status": "진행 중",
   "media": [
     "인스타"
@@ -9,12 +9,12 @@
     "고고다이브"
   ],
   "manager": "김호진",
-  "followers_notion_raw": "19000",
+  "followers_notion_raw": "16000",
   "product_value_krw": 390000,
-  "delivery_date": "2026-07-22",
+  "delivery_date": "2026-07-10",
   "output_link_prop": null,
-  "username": "h.a.d93",
-  "followers_notion": 19000,
+  "username": "claire__ov",
+  "followers_notion": 16000,
   "posts": [],
   "flags": {
     "unresolvable_username": false,
@@ -22,6 +22,6 @@
     "overdue_no_output": true,
     "account_unavailable": false
   },
-  "child_db_id": "59239eba-97ed-83dd-9a2f-817824ee3ec1",
-  "followers": 19000
+  "child_db_id": "bc139eba-97ed-8272-a06d-81a3c1d06fae",
+  "followers": 16000
 }
