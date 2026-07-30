@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T15:35:31.000Z",
       "permalink": "https://www.instagram.com/p/DafzDctA0nb/",
-      "thumbnail": "https://instagram.ffuk2-1.fna.fbcdn.net/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffuk2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gH7NsdS3eD0J_aQQwr4mjy4tjADOK_SEDLyHz3noqIFfBGfUZgDx1ooweHlwq-ef2I&_nc_ohc=gOaFGclt5ssQ7kNvwGKCRqq&_nc_gid=IEmt_78kMDZq9YumBcOZFg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGPw2iCoyEHrU6-dylA38_iszdhF69Hw87tbAdApZ-1Sw&oe=6A703898&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyxd1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gECXUWBrc1rzbIW1OR8fRfKx1z07edsSV6-PQtPBgKgIrpuMNHsWHYtnYsmqRtScKtHRhJxBE_0jRiQQP62c45-&_nc_ohc=bEdO4BDiw1YQ7kNvwEUIExx&_nc_gid=F94tBdnafJC0R2YmyHwSvg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFSfscNZ4JW8MXdnrodxbgyL9F9Kmy30mgjXZk3VfP6oA&oe=6A71C258&_nc_sid=c6f216",
       "caption": "#협찬 🐟 라세린 물고기 귀여워서\n한입에 먹어봄...\n\n오늘도 내 상상속에서는 잠깐 물고기 모드🫧🐠\n\n👙 글리트 아이스모카 와이백 / XS\n📏 H: 147cm · W: 41kg\n\n#라세린 #Laserin #수영 #수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hy_v3v",
       "metrics": {
-        "views": 49854,
-        "likes": 608,
+        "views": 49942,
+        "likes": 610,
         "comments": 39
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -78,21 +78,27 @@
           "views": 49854,
           "likes": 608,
           "comments": 39
+        },
+        {
+          "d": "2026-07-31",
+          "views": 49942,
+          "likes": 610,
+          "comments": 39
         }
       ],
       "baseline": {
-        "views_median": 3899,
-        "eng_median": 58.5,
-        "n": 3,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "views_median": 4731.5,
+        "eng_median": 75.0,
+        "n": 10,
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
-        "er": 0.022674703862059296,
-        "vs_baseline": 12.786355475763017,
-        "cost_per_eng": 61.051004636785166,
-        "cost_per_view": 0.7923135555823003
+        "er": 0.022476190476190476,
+        "vs_baseline": 10.555215048082003,
+        "cost_per_eng": 60.86286594761171,
+        "cost_per_view": 0.7909174642585399
       },
       "analysis": {
         "one_liner": "평소 대비 5.56배 초과 조회로 비용 효율(조회당 3.7원)은 우수하나, 댓글 0건으로 실질 구매 전환 유도력은 미지수.",
@@ -103,7 +109,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 49,854 · 좋아요 608 · 댓글 39 · ER 2.3% · 평소대비 12.8x (D+22)"
+      "last_written_reaction": "조회 49,942 · 좋아요 610 · 댓글 39 · ER 2.2% · 평소대비 10.6x (D+23)"
     },
     {
       "notion_row_id": "46339eba-97ed-83c3-9b33-811abf30a0aa",
@@ -131,9 +137,9 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
-        "er": 0.017172495969720335,
+        "er": 0.01696969696969697,
         "vs_baseline": 2.5322997416020674,
         "cost_per_eng": 80.61224489795919,
         "cost_per_view": null
@@ -154,6 +160,6 @@
     "account_unavailable": false
   },
   "child_db_id": "5f239eba-97ed-8349-843d-8149e7a66b66",
-  "followers": 28534,
-  "last_written_score": 766
+  "followers": 28875,
+  "last_written_score": 654
 }

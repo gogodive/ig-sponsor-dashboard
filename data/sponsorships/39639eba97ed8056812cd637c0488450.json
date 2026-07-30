@@ -86,9 +86,9 @@
         "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
-        "er": 0.0005015625602839616,
+        "er": 0.000501988647333668,
         "vs_baseline": 2.1666666666666665,
         "cost_per_eng": 5307.692307692308,
         "cost_per_view": null
@@ -102,7 +102,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 14 · ER 0.1% · 평소대비 2.2x (D+9)"
+      "last_written_reaction": "좋아요 -1 · 댓글 14 · ER 0.1% · 평소대비 2.2x (D+10)"
     }
   ],
   "flags": {
@@ -112,6 +112,6 @@
     "account_unavailable": false
   },
   "child_db_id": "86839eba-97ed-8397-8b02-015554341c3e",
-  "followers": 25919,
+  "followers": 25897,
   "last_written_score": 217
 }

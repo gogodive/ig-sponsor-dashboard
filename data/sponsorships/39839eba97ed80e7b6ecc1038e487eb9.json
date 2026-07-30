@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:21:57.000Z",
       "permalink": "https://www.instagram.com/p/DbC97U-E8uX/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHvE26GT_94-pMnGnq-HPYfUEcniQwJuRpIATWPyqsX4T6Db-9mxkcYwFF3CO2QnQM&_nc_ohc=dqb-iMB-0IkQ7kNvwET3tkQ&_nc_gid=Tvwwpyv5MzOWUY6RxVTYWg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFWddhgAEusou2wuwAqI1GiHFM2l7DL-8mMf-NmPE41rw&oe=6A704D25&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd12-1.fna.fbcdn.net/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsyd12-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHmIOqP9a-LQ4d1K1HgfmRhBSLcC-LCqpdxlBwKs9AfzTvosVBTbvOf1JEhdmC3MzE&_nc_ohc=JF1iXpYCs7sQ7kNvwF3iz9V&_nc_gid=lvVKDF_L2Cakj6wMIZN9Qg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHUOaX3b6VHJmJOxPVs53qgbqM9TKP-WW9IIxLRiKXb6A&oe=6A719EA5&_nc_sid=c6f216",
       "caption": "바다에서 입어보기전에 색감 핏 체크 완료 💖🩵\n\n#라세린 #비키니 #투피스 #울릉도바다 #제품제공",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "2_eunchu",
       "metrics": {
         "likes": -1,
-        "comments": 39
+        "comments": 40
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -83,20 +83,26 @@
           "views": null,
           "likes": -1,
           "comments": 39
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": -1,
+          "comments": 40
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14.0,
-        "n": 12,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "n": 8,
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.014432206608431447,
-        "vs_baseline": 2.7142857142857144,
-        "cost_per_eng": 1868.421052631579,
+        "er": 0.014806378132118452,
+        "vs_baseline": 2.7857142857142856,
+        "cost_per_eng": 1820.5128205128206,
         "cost_per_view": null
       },
       "analysis": {
@@ -108,7 +114,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 39 · ER 1.4% · 평소대비 2.7x (D+8)"
+      "last_written_reaction": "좋아요 -1 · 댓글 40 · ER 1.5% · 평소대비 2.8x (D+9)"
     }
   ],
   "flags": {
@@ -118,6 +124,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e0d39eba-97ed-8287-8fa0-01660a262650",
-  "followers": 2633,
-  "last_written_score": 271
+  "followers": 2634,
+  "last_written_score": 279
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:17:27.000Z",
       "permalink": "https://www.instagram.com/p/Da-dBZdme7v/",
-      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEQvec4Cs8NQp5y2AGnQZlHpvR8nvtpbBwx-tiqmkoJDa2CcaP1EVDWxOW3j33_3Zz9yw_jtWQgNlcjtbTqJcO9&_nc_ohc=6NhliFP0OkIQ7kNvwFUnn6C&_nc_gid=aLKDlJhfgD767y2jdLYgzQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH1LY6HLGxq-pMur5swzKHG_m9LZrOlmQXOwTQH_KIAuw&oe=6A705C3F&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gERF1VW8oPrkZVU8qXVTSuICiOnyYdZSOzW-M3zbuEAyzYDQ5zJdjBG4sqEhCttCuw&_nc_ohc=JlCgCAoYQ0UQ7kNvwFB29Oa&_nc_gid=-aMOI9fOwtHoNzHuQdWueA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFGmRIX6AvJmD0HRst2iBxk-5xfiPS7Yp6YHK4qhvruFg&oe=6A71ADBF&_nc_sid=c6f216",
       "caption": "Dive into the Blue. 🌊 @gogodive \n\n평생 한번쯤 꼭 해보고 싶은 취미로 #프리다이빙 을 떠올리시는 분 많더라구요. \n\n언제까지 미룰 생각이죠…? 😤 \n\n제가 함께한 #고고다이브 는 회원 40,000명 국내 최대 규모 #다이빙 커뮤니티이자 정부 등록 수중레저 교육기관입니다 ✨\n\n저는 김세인 강사님 @pongdang.ping 과 함께 했는데요 🫧  호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 자세히 알려주시고, 구체적",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yoondhyun",
       "metrics": {
-        "likes": 277,
+        "likes": 278,
         "comments": 19
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -83,20 +83,26 @@
           "views": null,
           "likes": 277,
           "comments": 19
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": 278,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 306.0,
-        "n": 10,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "eng_median": 285,
+        "n": 9,
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.009842388774356586,
-        "vs_baseline": 0.9673202614379085,
-        "cost_per_eng": 1317.5675675675675,
+        "er": 0.009844868735083532,
+        "vs_baseline": 1.0421052631578946,
+        "cost_per_eng": 1313.1313131313132,
         "cost_per_view": null
       },
       "analysis": {
@@ -108,7 +114,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 277 · 댓글 19 · ER 1.0% · 평소대비 1.0x (D+10)"
+      "last_written_reaction": "좋아요 278 · 댓글 19 · ER 1.0% · 평소대비 1.0x (D+11)"
     }
   ],
   "flags": {
@@ -118,6 +124,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
-  "followers": 30074,
-  "last_written_score": 97
+  "followers": 30168,
+  "last_written_score": 104
 }

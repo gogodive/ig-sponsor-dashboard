@@ -25,16 +25,16 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T02:23:22.000Z",
       "permalink": "https://www.instagram.com/p/DbR4hyPCe1h/",
-      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHD4oz-4MvxDJ9Tn0K-yL1zpi7qQuoTef1V4Swo1QNx6lJV0MDAOjeDj69ZwBBx9xY&_nc_ohc=5j7av6z188MQ7kNvwHF0KMu&_nc_gid=FoSHccP6UOMmddmzmKp5BA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGurCyiCh2b_QqR0CaI9ykLuFG1C1Fi3VaXIaHvQ50pmg&oe=6A705254&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE_kHC73NBgVufUH86RfhnqdEtbbtU8XGuMjHv_w4EXmTS3iY7L80FhT6GDT8Xo8MU&_nc_ohc=5j7av6z188MQ7kNvwGP8GN1&_nc_gid=t8EQrWIP8ZRVIU4M34CYeg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHj97enanAPoPklpLFa4MUyS0abdAHr4OUrnmcdoseeNg&oe=6A71A3D4&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n👙: 크리스탈 웨이브\n(167cm / 50kg / S사이즈 착용)\n\n라세린 수영복으로 여름 분위기 완성!!\n\n펄감이 영롱 그 자체..\n실물로 보니 더 예뻤어요🥺\n\n물속에서는 색감이 더 맑아 보이고,\n햇빛에서는 또 다른 분위기가 느껴져서\n사진마다 느낌이 다르게 나오더라구요🩵 \n\n디자인 예쁘고 착용감도 편해서\n사진 찍고 수영도 맘껏 즐기다 왔답니다🙈\n(살 탐 , 잔뜩 탐^___^,,,,)\n\n#수영복 #라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "42ttwi",
       "metrics": {
         "likes": -1,
-        "comments": 12
+        "comments": 13
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -53,23 +53,36 @@
           "views": null,
           "likes": -1,
           "comments": 12
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": -1,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 7.5,
         "n": 12,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.011033099297893681,
-        "vs_baseline": 1.4666666666666666,
-        "cost_per_eng": 3136.3636363636365,
+        "er": 0.012036108324974924,
+        "vs_baseline": 1.6,
+        "cost_per_eng": 2875.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 1.1% · 평소대비 1.5x (D+2)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 1.2% · 평소대비 1.6x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.60x 참여로 소규모 계정 치고 양호하나, 참여당 비용 2,875원은 팔로워 규모 감안 시 개선 여지 있음.",
+          "days": 3,
+          "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
+        }
+      }
     },
     {
       "notion_row_id": "48039eba-97ed-839c-8fdc-01e5b364b422",
@@ -80,7 +93,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T16:54:09.000Z",
       "permalink": "https://www.instagram.com/p/DbQ3JN3pRBg/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/757524310_17895986160564922_3508489157697492522_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGOMR9LU74VOfJfLN9vb9em6yh6A3k8YON06PSKQOnzDktdXNYdXq_HONYPHz4okT0&_nc_ohc=v50_xy2PDmkQ7kNvwEPoH-S&_nc_gid=OYnQ_Wj_5MW96mv0PTLOgg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG-PjudhKt-4QBJN0jqyUQ9V9u1Jl-Q3vpK8LiKUYiMvg&oe=6A705D33&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/757524310_17895986160564922_3508489157697492522_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGlPJGP210Idul_cCzT4voTNSRATa1RJEiDrrJi-7NsFrtkKf3m5mnpjL0tj5nSxMpHDlw5bIBq8Wh8VZ_m7QnO&_nc_ohc=v50_xy2PDmkQ7kNvwHlKpPY&_nc_gid=P3a5n1bad8-f4H6KXJab5A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFTphcUKVzzSPbL0G4T7m7flpOExFggIxj3OugyjC_LJg&oe=6A71AEB3&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n물이랑 가장 잘 어울리는 색은 역시 👉🏻🩵\n\n크리스탈웨이브의 은은한 펄감이\n물이랑 너무 잘 어울리더라구요🌊\n\n몸을 편안하게 감싸주는 핏이라\n프리다이빙이나 수영할때도 \n움직임이 편했어요🩵\n\n시원한 컬러감 덕분에 여름 느낌 제대로!\n하나쯤은 갖고싶었던 글로우 수영복이었는데🥺\n⭐️소원 성취 올 여름 물놀이 룩으로 완전 추천⭐️\n\n#수영 #수영복 #수린이 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -90,7 +103,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -109,23 +122,29 @@
           "views": 2326,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-07-31",
+          "views": 2326,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": 4896,
         "eng_median": 12,
         "n": 5,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": -0.0010030090270812437,
         "vs_baseline": 0.4750816993464052,
         "cost_per_eng": -34500.0,
         "cost_per_view": 14.832330180567498
       },
-      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 0 · ER -0.1% · 평소대비 0.5x (D+3)",
+      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 0 · ER -0.1% · 평소대비 0.5x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.48x로 저조한 초기 반응이며, 조회당 비용 14.8원·유효 참여 부재로 협찬 효율이 매우 낮은 상태입니다.",
@@ -143,5 +162,5 @@
   },
   "child_db_id": "f6639eba-97ed-82d7-9ab7-01f7d9b7cc93",
   "followers": 997,
-  "last_written_score": 97
+  "last_written_score": 104
 }

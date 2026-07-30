@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T05:51:26.000Z",
       "permalink": "https://www.instagram.com/p/DahVPFcCTdw/",
-      "thumbnail": "https://instagram.fyyc8-1.fna.fbcdn.net/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyyc8-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gF_cfv8f29_RzWmcP1TxSD278yhSV-Wr1Ci8FX-xx8OAR9NcIzEdG4E42m6OOY0jxQh_pOQYeBWH8n5TmeUbaez&_nc_ohc=LuNVpvdN1f4Q7kNvwE3PMJu&_nc_gid=jIrkXEO8XKPGVLhtfTCG4g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHAKG56Kz9Shr9PlQ5tzKhS9GAUXhCeTXb_VBJWQhFy4g&oe=6A705159&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd13-1.fna.fbcdn.net/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5K2H9PTBcCIQ7kNvwE_Nu4O&_nc_oc=AdrVL1wJx4xNwe1ofM6gAFoz9Cm2QGpcXNIdntJMkAnXkJvUfJpujbYEN8uHEZ4i8gw&_nc_zt=23&_nc_ht=instagram.fsyd13-1.fna&_nc_gid=yu3NUEwmNXGyjHvSaexMIw&_nc_ss=72a8c&oh=00_AQH-6uvIilm91_GSZcJw2ZrBB2jKQbuqjHVypJtW_H7V5w&oe=6A71A2D9",
       "caption": "#제품제공 160cm 47kg XS착용\n\n색감이 예뻐서 야외에서 꼭 한번 입고 싶었던💛\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 143,
         "comments": 0
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -83,19 +83,25 @@
           "views": null,
           "likes": 143,
           "comments": 0
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": 143,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 147.5,
+        "eng_median": 158.0,
         "n": 12,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
-        "er": 0.011981566820276499,
-        "vs_baseline": 0.9694915254237289,
+        "er": 0.012005709008479557,
+        "vs_baseline": 0.9050632911392406,
         "cost_per_eng": 447.5524475524476,
         "cost_per_view": null
       },
@@ -108,7 +114,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 143 · 댓글 0 · ER 1.2% · 평소대비 1.0x (D+21)"
+      "last_written_reaction": "좋아요 143 · 댓글 0 · ER 1.2% · 평소대비 0.9x (D+22)"
     }
   ],
   "flags": {
@@ -118,6 +124,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a0239eba-97ed-820a-af9e-012e5783a5a9",
-  "followers": 11935,
-  "last_written_score": 97
+  "followers": 11911,
+  "last_written_score": 91
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T12:07:32.000Z",
       "permalink": "https://www.instagram.com/p/DaxdC6fj294/",
-      "thumbnail": "https://instagram.fdtw2-1.fna.fbcdn.net/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fdtw2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGWZFk61NPxV1BLWo8oLhpRhxji2JjRLxO1F5cQ6vMWOjZxEjVn1DjlPe5L1E-7sUw&_nc_ohc=2grAempDOI8Q7kNvwFJ3kjH&_nc_gid=QsUTp-07F_gxjmhU_0XFUw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFdQDhmpJoYuQGiOk_QytJA7sb4fEqSLCO8_9YuZMSHdg&oe=6A703FF7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEn3pNanYrnz3otm3sddceGuupgaiNGYykvFIS2M_BA2tQQSW_QycB40LSBk8CP7Vw&_nc_ohc=2grAempDOI8Q7kNvwGp1JRF&_nc_gid=mPA9SVhc2Kphtu4Qx7xAAw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGnMF6X7pkZ_Sd2b7MnfsO02nsugCHtcRzjJ7NluVQQcA&oe=6A719177&_nc_sid=c6f216",
       "caption": "글리터 맛집 라세린입어봤어요✨\n이름부터 윤슬 선셋인데 \n이렇게 이름을 잘 표현한 수영복은 처음이에요,,\n\n레몬 오렌지 핑크 조합으로 따듯한 느낌 가득\n실내,실외 상관없이 반짝반짝 눈부셔요✨\n날씬해보이는 펄이라 너무 맘에 들어요🥹👍\n\n지금 여름 할인기간 최대 50%🤍\n얼른 구경해보세요\n\n✔️사이즈 추천\n171/ 55 / S사이즈 착용\n신축성 좋고, 가슴 넓이가 좁은편이라 사이즈 참고하셔 \n구매해야할것 같아요\n비슷한 스펙이신분들 S-M추천합니다\n\n✔️ 착용제품\n윤슬 선셋 에이백\n\n#제품제공 #라세린 #라세린수영복 #윤슬선셋 #수영코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "ym_sraa",
       "metrics": {
-        "likes": 49,
+        "likes": 50,
         "comments": 4
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -83,20 +83,26 @@
           "views": null,
           "likes": 49,
           "comments": 4
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": 50,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 59,
-        "n": 9,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "eng_median": 69.0,
+        "n": 10,
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.06992084432717678,
-        "vs_baseline": 0.8983050847457628,
-        "cost_per_eng": 1490.566037735849,
+        "er": 0.071334214002642,
+        "vs_baseline": 0.782608695652174,
+        "cost_per_eng": 1462.962962962963,
         "cost_per_view": null
       },
       "analysis": {
@@ -113,7 +119,7 @@
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 49 · 댓글 4 · ER 7.0% · 평소대비 0.9x (D+15)"
+      "last_written_reaction": "좋아요 50 · 댓글 4 · ER 7.1% · 평소대비 0.8x (D+16)"
     }
   ],
   "flags": {
@@ -123,6 +129,6 @@
     "account_unavailable": false
   },
   "child_db_id": "df039eba-97ed-83d4-bbbf-01857f35d728",
-  "followers": 758,
-  "last_written_score": 90
+  "followers": 757,
+  "last_written_score": 78
 }

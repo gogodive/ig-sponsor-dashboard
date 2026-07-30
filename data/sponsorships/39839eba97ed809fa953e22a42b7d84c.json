@@ -25,39 +25,45 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T07:12:32.000Z",
       "permalink": "https://www.instagram.com/p/DbU-ae8D6xe/",
-      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEdmWvyU--JS37Y2itUCsuMQUP__2RADMQeP-BqilFsDXY7UWH9d4ccqz5BA2Fyt3o&_nc_ohc=rO5SXxteRxsQ7kNvwHKPYCu&_nc_gid=FMwj9rj4FHzqHMXmioEASg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEHHtYgStrXJGw3usfFE6uOcHDVpTP1-JqgM_w-70zGaw&oe=6A70641C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyhu2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gEpEet4_oFnaSH4uWzoFoa2a-HfN00gGxnBOGy80ZKgHuwGwYa2MFnbjy6uT5_JzXs&_nc_ohc=1ahRKAP1ss4Q7kNvwFmPIT9&_nc_gid=MDrpSuaN_LtnaL7KIkr3xA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGB7umcG_OukGoHPGx2eD_gc301gulSdUaoOtp93zdzXQ&oe=6A71B59C&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store \n울릉도에서 첫 시착💙🌊\n\n이번에 여행에 함께하게 된\n🩵딥바이브 크리스탈 유리섬유 롱핀과\n💙딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm\n\n사진으로도 예뻤지만,\n바다에서 보니 그라데이션 블루 컬러가 더 매력적이더라고요.✨\n\n2mm 슈트는 몸에 편안하게 밀착되면서도\n움직임이 정말 편해서 첫 착용인데도 \n부담 없이 다이빙을 즐길 수 있었어요🤿💦\n\n앞으로 이 장비와 함께 더 많은 바다를 기록해볼게요🫧💙\n.\n.\n.\n.\n#인투더블루 #딥바이브 #딥바이브롱핀 #크리스탈롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "park_bin",
       "metrics": {
-        "likes": 180,
-        "comments": 11
+        "likes": 190,
+        "comments": 13
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-30",
           "views": null,
           "likes": 180,
           "comments": 11
+        },
+        {
+          "d": "2026-07-31",
+          "views": null,
+          "likes": 190,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 266,
         "n": 3,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.009709724975852778,
-        "vs_baseline": 0.7180451127819549,
-        "cost_per_eng": 2251.30890052356,
+        "er": 0.010319760052869706,
+        "vs_baseline": 0.7631578947368421,
+        "cost_per_eng": 2118.2266009852215,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 180 · 댓글 11 · ER 1.0% · 평소대비 0.7x (D+1)"
+      "last_written_reaction": "좋아요 190 · 댓글 13 · ER 1.0% · 평소대비 0.8x (D+2)"
     }
   ],
   "flags": {
@@ -68,5 +74,5 @@
   },
   "child_db_id": "f1039eba-97ed-827d-b629-016a27ab8aef",
   "followers": 19671,
-  "last_written_score": 72
+  "last_written_score": 76
 }

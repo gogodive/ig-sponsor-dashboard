@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:02:18.000Z",
       "permalink": "https://www.instagram.com/p/DaJ9PqcpWbc/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGoH4tZyRq8az-aui3hs2ha9STKssf5VVN79vz3OmprNYtQ6QQNPxKzeOsCCWYDTdk&_nc_ohc=w9fDccadyKMQ7kNvwFLOd0B&_nc_gid=4zJTm_A9wegbvKBppLJwkw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFq1ZCF2IMa14MMoDcjiJ63F_7BMn_FS2t2j9HJWhiUeQ&oe=6A70468D&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fssa26-1.fna.fbcdn.net/v/t51.82787-15/729681011_17947761795195420_7336619571156912256_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fssa26-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEc1tch4gDdM3dt_Bn_3BnhKHMgZ3rS8HgyMKkXHhja_zZb7x0LKTs1stnpGg5Z8WY&_nc_ohc=w9fDccadyKMQ7kNvwGr5prx&_nc_gid=4rpHQXVea2Ya28mcWj8HDg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEkhJ2XRSVoSX8AVj2MFWvnnqtC6rlFV8a3wzPLpUk6zw&oe=6A71980D&_nc_sid=c6f216",
       "caption": "#광고 @laserin_swim #라세린\n\n수영 가는날 제일 먼저 챙기게 되는 수영복 🫧\n\n물 안에서 더 예쁜 컬러감의\n라세린 오로라그린 💚💙\n\n쫀쫀하게 잡아주는 착용감이라\n강습 때도 편하고,\n핏까지 깔끔하게 떨어져서 더 마음에 들었어요 :)\n\n실내수영장에서 괜히 한번 더 거울 보게 되는 무드…✨\n\n운동하러 가는 날도\n예쁜 건 포기 못하는 사람에게 추천!",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -92,10 +92,10 @@
         "n": 8,
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.043897216274089934,
+        "er": 0.04375667022411953,
         "vs_baseline": 1.3842315369261478,
         "cost_per_eng": 780.4878048780488,
         "cost_per_view": 46.142754145638065
@@ -107,9 +107,11 @@
           "one_liner": "평소 대비 1.34배 조회·참여율 4.34%로 준수하나, 조회당 47.6원·참여당 790원은 팔로워 규모 고려 시 비용 효율 개선 여지 있음.",
           "days": 25,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1,874명 소규모 계정임에도 참여율 4.38%는 인스타그램 평균(1~3%)을 상회하며, 평소 게시물 대비 1.38배의 조회 성과는 협찬 콘텐츠에 대한 팔로워 반응이 긍정적임을 시사한다. 다만 총 조회 1,387회·참여 82건에 그쳐 절대적 도달 규모는 제한적이며, 조회당 46원·참여당 780원의 비용 효율은 나쁘지 않으나 상품 가액 64,000원 대비 인지도 확산 임팩트는 미미한 수준이다. 브랜드 인지보다 소규모 충성 커뮤니티 내 진성 반응을 목적으로 한다면 수용 가능한 협찬이나, 도달 극대화가 목표라면 동일 예산으로 팔로워 규모가 더 큰 계정을 우선 검토하는 것이 바람직하다.",
+        "final_at": "2026-07-31T07:09:43.533653+09:00"
       },
-      "last_written_reaction": "조회 1,387 · 좋아요 64 · 댓글 18 · ER 4.4% · 평소대비 1.4x (D+30)"
+      "last_written_reaction": "조회 1,387 · 좋아요 64 · 댓글 18 · ER 4.4% · 평소대비 1.4x (확정)"
     }
   ],
   "flags": {
@@ -119,6 +121,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e4e39eba-97ed-83c5-a925-81387823484a",
-  "followers": 1868,
+  "followers": 1874,
   "last_written_score": 138
 }

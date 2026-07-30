@@ -25,22 +25,28 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T11:50:01.000Z",
       "permalink": "https://www.instagram.com/p/DbVcUZ5TvG0/",
-      "thumbnail": "https://instagram.fmxp5-1.fna.fbcdn.net/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmxp5-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFtNsNSQel8tgV3-hEfuwlVN9qwUbFuOsOJvQDnY5qyEt30oV7EoD-TVtXre5SjDfyWNAVg6j7vUL0hZ8pVtygq&_nc_ohc=JJ72864QkWIQ7kNvwE6Yz7q&_nc_gid=cRD69pTVbVvfftg-Ue5nug&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEEwBTQ9WdyxjKc762wJhIeMFbQIS8cuAFLsHCx9q4riw&oe=6A703472&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHytoG629S-6-4CGJ5HDzSYSLuWvGkaf1AEa9eAzrTpMkAK0Ktw8SNdR9s3CiuLxss&_nc_ohc=Ch-WxW7vY_cQ7kNvwGVsIFf&_nc_gid=5YH4q5IUR-KjyViO2An3iQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEIvWtBK1E_UbKqzN6gmrNEroFqjfpY89Nyn_BzxiI4hA&oe=6A71BE32&_nc_sid=c6f216",
       "caption": "🩵💦🤿🧜🏼‍♀️협찬\n@gogodive \n\n수영할줄 안다고 쉽게봤다가\n코만 열심히 쥐어짜고 옴!👃💥\n\n수영 잘하면\n프리다이빙도 껌일 줄 알았던 과거의 나,\n반성해라... 😇\n\n물 안 무서워하는 거랑\n5m 내려가는 건 완전히 별개였다..헤헿\n\n1️⃣ 프리이멀전\n내 귀가 내 말을 안 들음. 3m 내려갔나?\n귀 찢어질 거 같아서 중도 하차 😭 (최고 난이도)\n\n2️⃣ 덕다이빙\n몸 쓰는 건 수영 짬바로 어찌저찌 잘 꺾었는데... \n네, 역시나 이퀄라이징 벽에 막혀 5m 실패 📉\n\n3️⃣ 다이나믹 \n와.. 이거 하려고 프다하는구나!!\n수평으로",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimmingjourney_daily",
       "metrics": {
-        "views": 4224,
-        "likes": 77,
+        "views": 4760,
+        "likes": 86,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-30T07:04:09.898778+09:00",
+      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
       "history": [
         {
           "d": "2026-07-30",
           "views": 4224,
           "likes": 77,
+          "comments": 18
+        },
+        {
+          "d": "2026-07-31",
+          "views": 4760,
+          "likes": 86,
           "comments": 18
         }
       ],
@@ -48,17 +54,17 @@
         "views_median": 7510,
         "eng_median": 190,
         "n": 11,
-        "captured_at": "2026-07-30T07:04:09.898778+09:00"
+        "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.0195392842451666,
-        "vs_baseline": 0.5624500665778961,
-        "cost_per_eng": 4105.263157894737,
-        "cost_per_view": 92.32954545454545
+        "er": 0.0213903743315508,
+        "vs_baseline": 0.6338215712383488,
+        "cost_per_eng": 3750.0,
+        "cost_per_view": 81.9327731092437
       },
-      "last_written_reaction": "조회 4,224 · 좋아요 77 · 댓글 18 · ER 2.0% · 평소대비 0.6x (D+1)"
+      "last_written_reaction": "조회 4,760 · 좋아요 86 · 댓글 18 · ER 2.1% · 평소대비 0.6x (D+2)"
     }
   ],
   "flags": {
@@ -69,5 +75,5 @@
   },
   "child_db_id": "15539eba-97ed-8298-b9ca-01716c7f563b",
   "followers": 4862,
-  "last_written_score": 56
+  "last_written_score": 63
 }

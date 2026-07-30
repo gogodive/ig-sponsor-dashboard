@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T05:11:35.000Z",
       "permalink": "https://www.instagram.com/p/DaKFhPMlFzQ/",
-      "thumbnail": "https://instagram.fyvr2-1.fna.fbcdn.net/v/t51.82787-15/731037358_18399230131085388_5627880411785310780_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyvr2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGbmeTzwPyR-X6cDUAxl1BT21UrvSA5uCQG15Iy-_zuasGHErRblw3l7Qug0h9MRyo&_nc_ohc=aYNLUrt9j9YQ7kNvwGqGz4k&_nc_gid=NtBUFwbv2lgqJ0n-t2kJGw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQECl69bSkMb4xxu28Xqr-9bMVQSQy_FZkg-RwGOjM67DA&oe=6A706887&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/731037358_18399230131085388_5627880411785310780_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHZE7EkF3VeD_s-ouREZNFDZrJj5dt4K_GvgcsFOezsipcmL3xLdJsm-VTbBZ_Ngh-Lp92ePBKjTs3BW_LOkNpx&_nc_ohc=aYNLUrt9j9YQ7kNvwFV4qde&_nc_gid=X6AYITlZC9cF0-DeewLCHA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHO_iHB-3qaVnANvDJAcmT3AWXvqjAnqysVjw-VQPtDXg&oe=6A71BA07&_nc_sid=c6f216",
       "caption": "🤍🩶\n\n시크릿스 스킨튜브탑+레깅스 세트\n사이즈- 상의:S / 하의:M\n\n@secrets__fit \n\n#시크릿스#secrets#스킨튜브탑#애슬레저룩#레깅스추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -91,10 +91,10 @@
         "n": 8,
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.0014332897114725494,
+        "er": 0.001431238332296204,
         "vs_baseline": 7.666666666666667,
         "cost_per_eng": 1282.608695652174,
         "cost_per_view": null
@@ -106,9 +106,11 @@
           "one_liner": "평소 대비 7.67배의 이례적 댓글 급증이 눈에 띄나, 좋아요 데이터 오류(-1)와 0.14% 저조한 참여율을 고려하면 건당 비용 2,565원의 효율은 아직 불명확하다.",
           "days": 25,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "좋아요 지표가 -1로 집계 오류가 있어 정확한 참여 수 파악이 어려우나, 댓글 24건과 평소 대비 7.67x라는 높은 상대적 반응은 해당 계정 기준으로 이 협찬 게시물이 이례적인 관심을 끌었음을 시사한다. 그러나 팔로워 대비 절대 참여율 0.14%는 업계 평균(1~3%)을 크게 하회하며, 참여 1건당 비용 1,283원은 16K 규모 마이크로 인플루언서치고 낮지 않은 수준이다. 59,000원의 제품 가액 대비 브랜드 노출 효율은 제한적으로 평가되며, 향후 협찬 시 조회수 추적 가능한 릴스 형식으로 전환하고 팔로워 참여율이 더 높은 계정을 우선 검토하는 것이 권장된다.",
+        "final_at": "2026-07-31T07:09:43.533653+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.1% · 평소대비 7.7x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.1% · 평소대비 7.7x (확정)"
     },
     {
       "notion_row_id": "21939eba-97ed-83f7-877d-01d3152f0dd3",
@@ -119,7 +121,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:43:58.000Z",
       "permalink": "https://www.instagram.com/p/DaKA9KZAjCj/",
-      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/730776099_18399227806085388_1576352013457941736_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHIlqOkOQ81s66JNZPgeoT51M0kGnGpofNUBS7q0Qk8YWY5IPeTDeXywsG0yuvgCfc&_nc_ohc=ITQXYNPeGWQQ7kNvwGCoWkc&_nc_gid=IGNpaBC_GZKoy5YeVdjl_g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHqRh5B8RT-aLPe3XNP8_hngh9REGM8NnKWZORxe0RG8Q&oe=6A7054C0&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/730776099_18399227806085388_1576352013457941736_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEIzMdyBuXTp5JYDFK2Ug0TCb8dCUgR5NOurJGOLD3kyrqAPJ_KRm0HBaLeijZL07c&_nc_ohc=ITQXYNPeGWQQ7kNvwHCm4IJ&_nc_gid=zuFux5ybfMlhxaj1oORzKA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH0AbP_ouhmUGKjvJ5riWA_d3o1pFx5zQ2WhcUCkSelgA&oe=6A71A640&_nc_sid=c6f216",
       "caption": "몸의 라인은 예쁘게 잡아주고,\n착용감은 편안해서 운동할 때도, 일상에서도\n늘 만족스러워 자주 입는 브랜드 ’시크릿스‘\n진심으로 추천드려요👍🏻\n\n@secrets__fit \n#시크릿스 \n#secrets #스킨튜브탑 #애슬레저룩 #레깅스추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -180,10 +182,10 @@
           "comments": 10
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.0005608524957936063,
+        "er": 0.0005600497822028624,
         "vs_baseline": null,
         "cost_per_eng": 3277.777777777778,
         "cost_per_view": 3.3131176999101526
@@ -195,9 +197,11 @@
           "one_liner": "조회 8,850회로 비용 효율(6.7원/뷰)은 무난하나, 좋아요 집계 오류·참여율 0.05%는 평소 대비 반응이 극히 저조해 브랜드 노출 대비 실질 engagement 효과는 미흡.",
           "days": 25,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "조회 8,904회로 팔로워(16,070명)의 55% 수준에 그쳤고, 좋아요 집계 오류(-1)와 댓글 10건을 감안하면 팔로워 대비 참여율 0.06%는 인플루언서 마케팅 업계 평균(1~3%)에 크게 미달한다. 참여 1건당 비용 3,278원·조회 1회당 3.3원은 수치 자체로는 나쁘지 않아 보이나, 절대 참여 모수(약 18건)가 너무 적어 실질적 구매 전환 기대치는 낮다. 상품 가액 59,000원 대비 도달·반응 모두 부진하므로, 이 협찬은 비용 대비 가치가 낮았다고 판단되며 재협찬 시 콘텐츠 포맷·게시 시점 조율이 필요하다.",
+        "final_at": "2026-07-31T07:09:43.533653+09:00"
       },
-      "last_written_reaction": "조회 8,904 · 좋아요 -1 · 댓글 10 · ER 0.1% (D+30)"
+      "last_written_reaction": "조회 8,904 · 좋아요 -1 · 댓글 10 · ER 0.1% (확정)"
     }
   ],
   "flags": {
@@ -207,6 +211,6 @@
     "account_unavailable": false
   },
   "child_db_id": "2ce39eba-97ed-83b9-b881-817dc80f163c",
-  "followers": 16047,
+  "followers": 16070,
   "last_written_score": 767
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-04-24T13:29:03.000Z",
       "permalink": "https://www.instagram.com/p/DXhBsBECXv4/",
-      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/672974348_1398986801998035_9200897648373475621_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEeBB62DgSAWk6mbB1cbr9ddwQce3x4ipl1zNjQ2-oMqvHQyDfVnsDRCQjkMZoMS3M&_nc_ohc=g84tLWko34MQ7kNvwFTgxLp&_nc_gid=ARMW5AtAAJcGZfIqvPC9KA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQDyZQOq9nuasq-jU26bejv-dIbJuc6krSoOGBbi9KcXMg&oe=6A67E3DE&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.71878-15/672974348_1398986801998035_9200897648373475621_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE4EfznJDq4sx8NHHhj1ax0Pb-4lQ5KVMDNVPnI02WYts8MalZkgO5WxVDcsi6dyYc&_nc_ohc=sF3Yftdn1iYQ7kNvwHICFON&_nc_gid=POaIClo53CO9xOrB4bK2iQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEO8z_QQUbZVi45x2-pjZ6dXgd5X3GVZcw_s_SvFIM60Q&oe=6A71C71E&_nc_sid=c6f216",
       "caption": "⠀\n\n*Top:@secrets__fit\nU라인으로 훨씬 날씬해보임..💗\n160cm/ 50kg / 오프화이트/ M\n\n3kg증량도 증량으로 쳐주나요..?\n\n.\n.\n.\n\n#웨이트 #운동일기 #시크릿스 #시크릿스운동복 #개미허리핏",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -43,9 +43,9 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 96,
+      "days_since_post": 97,
       "computed": {
-        "er": 0.07695984703632887,
+        "er": 0.07725527831094049,
         "vs_baseline": 3.3641449120937668,
         "cost_per_eng": null,
         "cost_per_view": null
@@ -66,7 +66,7 @@
       "upload_date_notion": "2026-04-21",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 100,
+      "days_since_post": 101,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -82,6 +82,6 @@
     "account_unavailable": false
   },
   "child_db_id": "34839eba-97ed-8008-ba07-c2695ed64b9f",
-  "followers": 2092,
+  "followers": 2084,
   "last_written_score": 336
 }

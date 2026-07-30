@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-06-29T04:51:09.000Z",
       "permalink": "https://www.instagram.com/p/DaKDEShC9fr/",
-      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGMK_9_jSxWGjp84TosMy8qT0ctUjxakEq8gx_ZWmytqSBSABhr8Ah6V_jG1opoc0M&_nc_ohc=aYsUT7qKsSsQ7kNvwEucnTM&_nc_gid=wKPJc9mtpZ7uLuLv1ULVbg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHO6YSsWx6jT0gRMM_W2cMsR77n90DkO1_ANdlGYFB5qA&oe=6A705FFD&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmxp13-1.fna.fbcdn.net/v/t51.82787-15/728950813_18120808906674559_7358042690700769531_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fmxp13-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gF3MqcdM_wz15C0RIvGKCVRhcGmpzZIbL9Vtt1PlJy0EtG2JadfxqAnww_blE2-Z5UrqCVZS2WXklvmccm9x70N&_nc_ohc=aYsUT7qKsSsQ7kNvwEZkIVG&_nc_gid=Je4zr8HeOr_F6zdZfSUbAQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFtFA-fSQYjvG-V0V1eKw2XLgTjIgAOI2NTzeaFtJ56LA&oe=6A71B17D&_nc_sid=c6f216",
       "caption": "여자들 취향 제대로 저격한 시크릿스 상의 추천🤍\n\n운동복인데 핏까지 예쁘다?\n이건 안 쟁여둘 이유가 없잖아요...\n\n입는 순간 허리라인이 살아나는 제 상체 핏의 비밀...🤫\n시크릿스(@secrets__fit)\n 상의 2가지 소개합니다💗\n\n★제품 정보\n1️⃣ 스퀘어넥 반팔 브라탑\n2️⃣ 개미허리 필라테스복 요가복 반팔\n\n댓글 남겨주시면 제품 링크 바로 보내드릴게요💌\n\n#협찬 #시크릿스 #필라테스 #운동복 #추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -92,10 +92,10 @@
         "n": 12,
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.5,
+        "er": 0.4642857142857143,
         "vs_baseline": 0.2591283863368669,
         "cost_per_eng": 6153.846153846154,
         "cost_per_view": 242.42424242424244
@@ -107,9 +107,11 @@
           "one_liner": "팔로워 대비 참여율 50%로 절대 수치는 양호하나, 평소대비 0.25x 저조·조회당 비용 249원으로 협찬 효과 미흡.",
           "days": 25,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 28명의 초소형 계정으로 팔로워 대비 참여율 46.43%는 수치 자체는 높아 보이지만, 절대 조회수 330회·참여 13건에 불과해 브랜드 노출 규모가 극히 미미하다. 더불어 평소 게시물 대비 0.26배라는 저조한 성과는 협찬 콘텐츠가 해당 계정 팬층에도 제대로 반응을 얻지 못했음을 나타내며, 조회 1회당 242원·참여 1건당 6,154원이라는 단가는 동급 규모 계정 기준으로도 효율이 낮다. 80,000원의 상품 가액 대비 실질적인 브랜드 인지 확산 효과는 거의 없었다고 판단되며, 재협찬 우선순위에서 제외하는 것이 적절하다.",
+        "final_at": "2026-07-31T07:09:43.533653+09:00"
       },
-      "last_written_reaction": "조회 330 · 좋아요 11 · 댓글 2 · ER 50.0% · 평소대비 0.3x (D+30)"
+      "last_written_reaction": "조회 330 · 좋아요 11 · 댓글 2 · ER 46.4% · 평소대비 0.3x (확정)"
     }
   ],
   "flags": {
@@ -119,6 +121,6 @@
     "account_unavailable": false
   },
   "child_db_id": "6e839eba-97ed-8310-a8ee-81322cbef34a",
-  "followers": 26,
+  "followers": 28,
   "last_written_score": 26
 }
