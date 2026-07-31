@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-17T09:19:05.000Z",
       "permalink": "https://www.instagram.com/p/Da43CwXT6hv/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGP5XZ5_nyfs8ggmrTJiRRDgToULNv3wiYJM4EWsEevQcbmxKM8HjXXLoxyqudpFiI&_nc_ohc=7C-Yy-XLFS4Q7kNvwFmE0lT&_nc_gid=yMxlmhV437rZN0zdnWm5OQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG342VjiBWTIfr1Ri8zBj3rVrFLPoacxd4haLc3wdtiTg&oe=6A71BBB2&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0MzE0MzU1NTY5MDYzNzQyMzE4MDg3MDc2MDM0NTQ1ODc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=L9hGXXzTRc8Q7kNvwF_fmOm&_nc_oc=AdoP4GodKkGpyeAWve_VMYkjpRgUP--G9gNBBQ9YPXhSZt00gn9iIhbv1lYGV8aYgG_rTuItcwP2E1S4aZcepx4L&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=H98KDnsgDXD2jeZndHXnZw&_nc_ss=72689&oh=00_AQGTp20uXTJbv21sc-wMJf0rMBxLOa5wwpqWe_BwCBqR-Q&oe=6A730D32",
       "caption": "#협찬 @laserin_swim \n\n물은 저에게 안정감과 고요함, 평화를 가져다주는거같아요\n물안에서 놀든 수영을 하든 \n물이 주는 평온함 덕분에 행복하더라구요ㅎㅎ \n\n물과 너무 잘어울리는 수영복을 입었더니 \n더 행복한 수영이였던거 같아요🫶\n\n착용제품 \n-라세린 크리스탈웨이브 더블크로스백 \n착용사이즈 \n-M\n신체사이즈 \n-168/60 \n\n#라세린 #수영복 #수영장 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ssssoo_yyy",
       "metrics": {
-        "likes": 97,
+        "likes": 99,
         "comments": 3,
         "views": 3984
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -90,20 +90,26 @@
           "views": 3984,
           "likes": 97,
           "comments": 3
+        },
+        {
+          "d": "2026-08-01",
+          "views": 3984,
+          "likes": 99,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 5637.0,
         "eng_median": 149.0,
         "n": 4,
-        "captured_at": "2026-07-31T07:09:43.533653+09:00"
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.01584534938995405,
+        "er": 0.01616225637775313,
         "vs_baseline": 0.7067589143161256,
-        "cost_per_eng": 345.0,
+        "cost_per_eng": 338.2352941176471,
         "cost_per_view": 8.659638554216867
       },
       "analysis": {
@@ -113,9 +119,14 @@
           "one_liner": "조회수 미집계로 확산력 판단 불가하나, 좋아요 76·댓글 2로 참여율 1.25%·1건당 885원은 소규모 계정 기준 무난한 초기 수치.",
           "days": 6,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.71x 저조한 도달에 참여율 1.62%·조회당 8.7원으로 비용 효율도 미흡, 추가 액션 없이는 협찬 가성비 확보가 어렵다.",
+          "days": 14,
+          "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
         }
       },
-      "last_written_reaction": "조회 3,984 · 좋아요 97 · 댓글 3 · ER 1.6% · 평소대비 0.7x (D+13)"
+      "last_written_reaction": "조회 3,984 · 좋아요 99 · 댓글 3 · ER 1.6% · 평소대비 0.7x (D+14)"
     },
     {
       "notion_row_id": "f6d39eba-97ed-8257-aa0d-812de5e0b894",
@@ -126,16 +137,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T08:07:33.000Z",
       "permalink": "https://www.instagram.com/p/DazmYKEE4UB/",
-      "thumbnail": "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/747536176_18086809217545878_2117197769229964772_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fymq3-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHDy23PAWRU04cJclr09KhD5UQOCbb_2gqn5DwF318jApttF0QCFDATy9jwoXmRwas&_nc_ohc=fbzF60NCWxYQ7kNvwG8cDj0&_nc_gid=IHGvlJt3FsLiXIELKB-alQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEaDYY-kmwVq6bkzQP2iNyga8It5o-piteJjs9Earo0Zg&oe=6A71BBD0&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fitr1-1.fna.fbcdn.net/v/t51.82787-15/747536176_18086809217545878_2117197769229964772_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fitr1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFOccgPBLNhJHTWIM9I3IVORYMVEqIr5i7ZqyczeKTs9ES_FmeRf35lMT7r6xPfikM&_nc_ohc=fbzF60NCWxYQ7kNvwG7F3m8&_nc_gid=kvJi2htKhjGjl4sgH4pAKw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFYp27J16atVC3b7ypcIyrgbLHRaKcHYlJTKLpuc33WlQ&oe=6A730D50&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n\n야외수영장에서 제일 예쁘고 빛나고싶어서 선택한 수영복!!\n다채로운 컬러감과 은은하게 빛나는 수영복이라\n쨍한 햇빛과 만나면 더더더 예쁘더라구요!!\n\n인어공주같은 느낌의 수영복이라 \n다음엔 바다갈때도 챙겨가야겠어요🩵\n\n착용제품 \n-라세린 크리스탈웨이브 더블크로스백 \n착용사이즈 \n-M\n신체사이즈 \n-168/60\n\n#라세린 #수영복 #야외수영장 #수영장",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "ssssoo_yyy",
       "metrics": {
-        "likes": 243,
+        "likes": 244,
         "comments": 7
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -190,20 +201,26 @@
           "views": null,
           "likes": 243,
           "comments": 7
+        },
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": 244,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 434.5,
         "n": 12,
-        "captured_at": "2026-07-31T07:09:43.533653+09:00"
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.039613373474885125,
-        "vs_baseline": 0.5753739930955121,
-        "cost_per_eng": 138.0,
+        "er": 0.03977182696878466,
+        "vs_baseline": 0.5776754890678941,
+        "cost_per_eng": 137.45019920318725,
         "cost_per_view": null
       },
       "analysis": {
@@ -220,7 +237,7 @@
           "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
         }
       },
-      "last_written_reaction": "좋아요 243 · 댓글 7 · ER 4.0% · 평소대비 0.6x (D+15)"
+      "last_written_reaction": "좋아요 244 · 댓글 7 · ER 4.0% · 평소대비 0.6x (D+16)"
     }
   ],
   "flags": {

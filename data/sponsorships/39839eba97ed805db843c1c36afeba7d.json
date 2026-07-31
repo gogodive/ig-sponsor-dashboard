@@ -1,7 +1,7 @@
 {
   "page_id": "39839eba-97ed-805d-b843-c1c36afeba7d",
   "row_title_raw": "sepppi",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T11:05:00.000Z",
       "permalink": "https://www.instagram.com/p/DbVY_XLzKH7/",
-      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/758518285_18614421091051912_6770263052531385093_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk1MTE3NDE1NTQyNDgwMTI3NTE4NjE0NDIxMDg1MDUxOTEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lL0s6cZo2HQQ7kNvwEBk0fA&_nc_oc=Adp8ta4PoCfioYECJLMVVfSqNGvuE7OCXYjXNNITjYA5rj1wuT6aIQ2tzLMUhciiSQ4&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=sUorQ2XzPu2zABd5E5M0Ew&_nc_ss=72a8c&oh=00_AQFoRXbiS02oV5__jfegqXr47CvJSJJHUJA8GedzgjzXSQ&oe=6A71B2F3",
+      "thumbnail": "https://scontent-gru1-1.cdninstagram.com/v/t51.82787-15/758518285_18614421091051912_6770263052531385093_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFEbcLiSKR69DU6btz-nE6TpJYGxe_6Lf50rSgLv-SQCe4eWyo4YZsPcugwbhoqOUIHX1N8aYgqgXrhBGTbEcjp&_nc_ohc=I47pe1luSeIQ7kNvwEbhQMz&_nc_gid=C90ddpz-3-AzEe0i_W8ZMA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEd_FwILD1encwH9dl7fYJXgMjEK-5LdyfalTWVvEFcDg&oe=6A730473&_nc_sid=c6f216",
       "caption": "내 수중사진이 예쁜이유 ,,💛\n시야각 넓고 코도 말랑해서 이퀄하기도 좋고 호흡하기도 편한 마기꾼 가능 스노클마스크 👉🏻 #고고젤로마스크 #에어로스노클 \n\n#인투더블루  #프리다이빙마스크 #딥바이브",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sepppi",
       "metrics": {
-        "views": 2492,
+        "views": 3254,
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -48,17 +48,30 @@
           "views": 2492,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-08-01",
+          "views": 3254,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": 0.00012286521685710776,
         "vs_baseline": null,
         "cost_per_eng": 51500.0,
-        "cost_per_view": 20.6661316211878
+        "cost_per_view": 15.826674861708666
       },
-      "last_written_reaction": "조회 2,492 · 좋아요 -1 · 댓글 2 · ER 0.0% (D+2)"
+      "last_written_reaction": "조회 3,254 · 좋아요 -1 · 댓글 2 · ER 0.0% (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "조회 3,254회·참여 1건으로 조회당 비용 15.8원은 수용 가능하나, 팔로워 대비 참여율 0.01%는 극히 저조해 협찬 효율이 우려됨.",
+          "days": 3,
+          "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
+        }
+      }
     },
     {
       "notion_row_id": "3a339eba-97ed-83aa-b10a-814b11057131",
@@ -69,16 +82,16 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T05:38:56.000Z",
       "permalink": "https://www.instagram.com/p/DbPqHMFk8ZQ/",
-      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/755063066_18613702714051912_3159422159633048842_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG8p9Irm8qugf_MjP0jBqfHbjQyNqreoTZOziwT1LFKdjrCbfrhjwTS4XIIEeW_kc87p3gkp7TX8hoZdpByP7i7&_nc_ohc=pdUhwV1LpYEQ7kNvwGDajG2&_nc_gid=HTIRJR9cWyN-Eg1PzE40oQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF9yjg8v9Wf02NpVrGeq2k9Pqk2BeYWxCuB-mVf3oBTTQ&oe=6A71BBC7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/755063066_18613702714051912_3159422159633048842_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGhhnTA5ajCmhPJokAa8IIK4DXoIGEB3oKv8Jks-ilJPU2FZKvOmVJcY2-xpLcaWDw&_nc_ohc=nRRA4ClRYzwQ7kNvwGTFkFc&_nc_gid=4ctV2JYCszAqg5aL0ZiofA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH2KQZMpj47bgHxm9BS2KdS2fklk9jDqKKXG4gZRUdzlA&oe=6A730D47&_nc_sid=c6f216",
       "caption": "🧡☀️ 여러분 여행갈때 렌탈그만 !! 개인 스노클 마스크 하나 꼭 챙겨가세요 위생적으로 쓸수있고 예쁘기까지한\n\n사진 속 마스크 👉🏻 고고젤로오로라마스크\n  스노클 👉🏻 딥바이브에어로스노클\n인투더블루에서 구입가능합니다 👋🏻\n\n#인투더블루 #딥바이브 #에어로스노클 #프리다이빙장비추천 #고고젤로마스크",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "sepppi",
       "metrics": {
-        "likes": 153,
+        "likes": 156,
         "comments": 8
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -103,23 +116,29 @@
           "views": null,
           "likes": 153,
           "comments": 8
+        },
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": 156,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 65.5,
         "n": 6,
-        "captured_at": "2026-07-31T07:09:43.533653+09:00"
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.019781299913994348,
-        "vs_baseline": 2.4580152671755724,
-        "cost_per_eng": 319.87577639751555,
+        "er": 0.020149895564565673,
+        "vs_baseline": 2.50381679389313,
+        "cost_per_eng": 314.0243902439024,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 153 · 댓글 8 · ER 2.0% · 평소대비 2.5x (D+4)",
+      "last_written_reaction": "좋아요 156 · 댓글 8 · ER 2.0% · 평소대비 2.5x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 2.43배 참여로 양호한 초기 반응, 참여 1건당 324원은 합리적 수준이나 3일차 수치로 최종 판단은 유보 필요.",
@@ -137,5 +156,5 @@
   },
   "child_db_id": "e9039eba-97ed-835f-b95e-01dbd72c378f",
   "followers": 8139,
-  "last_written_score": 246
+  "last_written_score": 250
 }

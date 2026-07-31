@@ -74,7 +74,7 @@
         "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.029086439983613273,
         "vs_baseline": 0.9633649932157394,
@@ -95,14 +95,14 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 344 · 댓글 11 · ER 2.9% · 평소대비 1.0x (D+17)"
+      "last_written_reaction": "좋아요 344 · 댓글 11 · ER 2.9% · 평소대비 1.0x (D+18)"
     }
   ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "88539eba-97ed-8290-81e1-81e879443ce1",
   "followers": 12205,

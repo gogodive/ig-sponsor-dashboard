@@ -1,0 +1,27 @@
+{
+  "page_id": "3ac39eba-97ed-802f-967c-edf0668bef54",
+  "row_title_raw": "im.jessica.travel",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "10000",
+  "product_value_krw": 220000,
+  "delivery_date": "2026-07-15",
+  "output_link_prop": null,
+  "username": "im.jessica.travel",
+  "followers_notion": 10000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": true,
+    "account_unavailable": false
+  },
+  "child_db_id": "b8739eba-97ed-8342-8870-01865b90c090",
+  "followers": 10000
+}

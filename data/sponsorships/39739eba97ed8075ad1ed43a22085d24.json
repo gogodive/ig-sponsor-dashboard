@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "yorrr_ming",
   "followers_notion": 24000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "e9e39eba-97ed-826a-8997-81a485990df3",
+      "url": "https://www.instagram.com/p/DbZ6I2ToOq6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbZ6I2ToOq6",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-30",
+      "first_seen": "2026-08-01",
+      "posted_at": "2026-07-30T05:11:22.000Z",
+      "permalink": "https://www.instagram.com/p/DbZ6I2ToOq6/",
+      "thumbnail": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/760746744_18134607667616673_8400410288365366354_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFjcwsHWxw2qdG56JWtRCD2ivDgPLG2GZ6IAKYUEDKS7TF2A7BhI2flsmQ_CNwVEco&_nc_ohc=_QnFgDjGyM4Q7kNvwFoNA8f&_nc_gid=jmdxbJAe8W9oHYElFtsMMQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHaDJzxQi5sNm4cOMshUlXHlfiV25BL3LwcYs7r5lrtLw&oe=6A730790&_nc_sid=c6f216",
+      "caption": "#협찬 그래서 제 핀은 무슨색일까요? 맞춰보세요 :)\n\n오랫만에 꼬까신(새 핀)을 신고 파라다이브에서 인어놀이🧜‍♀️\n핀 하나가 빛에 따라 이렇게 알록달록 변하니까 너무 신기한거 있죠?\n\n물속에서도 반짝이는 내 핀은 <딥바이브 오로라 유리섬유 롱핀 : 레드> @intotheblue_store",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yorrr_ming",
+      "metrics": {
+        "likes": 262,
+        "comments": 18
+      },
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "history": [
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": 262,
+          "comments": 18
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 387,
+        "n": 11,
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.011505115667502158,
+        "vs_baseline": 0.7235142118863049,
+        "cost_per_eng": 1800.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 262 · 댓글 18 · ER 1.2% · 평소대비 0.7x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "7ef39eba-97ed-82b0-927b-811ba5862824",
-  "followers": 24000
+  "followers": 24337,
+  "last_written_score": 72
 }

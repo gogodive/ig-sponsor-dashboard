@@ -25,16 +25,16 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T09:21:54.000Z",
       "permalink": "https://www.instagram.com/p/DbVNOE0k8LJ/",
-      "thumbnail": "https://instagram.flba1-1.fna.fbcdn.net/v/t51.82787-15/758350393_18637971877032631_5119311519546997638_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.flba1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gH0MaX96YiykMKlPrnU_DRbUEPeSYdyD9nLkSfLRseiPgSBLxLUSuxcVQ7J-Ba1AY-yxrfbMw7cNGYTkY3I0fhp&_nc_ohc=RO3z1hKf4zoQ7kNvwF9tI_1&_nc_gid=XxbxhRLxAYqo4-S_6kXQOw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH77Il7DUu1Z_HJAs8U0uXxOu_qTqGrxTgnuH1IOisX5w&oe=6A71CB52&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.ffco3-1.fna.fbcdn.net/v/t51.82787-15/758350393_18637971877032631_5119311519546997638_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ffco3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gGHOfHVBY_UTPecp-96E_BpuOfta6MdiFBzazoXa7vi8rhtrd-brVT2ykYKxssWiNuKtvCMSauX7RtAi4imMefI&_nc_ohc=RBaRGiH0IrYQ7kNvwH8Q6wW&_nc_gid=Jiki2oxnqmjbXjpCOYJtcQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGM-OTTnnnGK1LzC-1-v8F4h1cu__eBbPhB6Rms-tCmmQ&oe=6A72E492&_nc_sid=c6f216",
       "caption": "#광고 프다 감.다. 뒤지기 전에 간만에 스태틱도 해보고\n잠영도 하고😝 오늘도 해지는 거 보고 퇴수!! 🦭🌅\n\n프리다이빙을 통 못 가니까\n수영장에 스노클이랑 마스크 챙겨온 나ㅋㅋㅋ\n\n유리 렌즈 무겁고 비싸서 비추천이라고 했던 사람 나와!!🔥\n나 이제 플라스틱 못 쓸 거 같오..\n\n핏,착용감,시야도 완전 마음에 들고 디자인까지 너무 내 취향!!!\n일단 썼을 때 예쁜데 멋있어져!! ㅋㅋㅋ 프다 잘해 보임++ ✨\n\n저도 아직 초보지만 프리다이빙 시작하면 제일 먼저 사게 되는 장비가 마스크랑 스노클인데 처음 구입당시 가격대도 너무 다양하고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "zzozzo_h",
       "metrics": {
-        "likes": 48,
+        "likes": 49,
         "comments": 9
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -47,23 +47,36 @@
           "views": null,
           "likes": 48,
           "comments": 9
+        },
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": 49,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 65.5,
         "n": 12,
-        "captured_at": "2026-07-31T07:09:43.533653+09:00"
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.011989903239377367,
-        "vs_baseline": 0.8702290076335878,
-        "cost_per_eng": 1807.017543859649,
+        "er": 0.012200252419015565,
+        "vs_baseline": 0.8854961832061069,
+        "cost_per_eng": 1775.8620689655172,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 48 · 댓글 9 · ER 1.2% · 평소대비 0.9x (D+2)"
+      "last_written_reaction": "좋아요 49 · 댓글 9 · ER 1.2% · 평소대비 0.9x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.89배로 소폭 부진하나, 참여 1건당 1,776원은 팔로워 규모 감안 시 수용 가능한 초기 수치.",
+          "days": 3,
+          "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
+        }
+      }
     }
   ],
   "flags": {
@@ -74,5 +87,5 @@
   },
   "child_db_id": "8f639eba-97ed-8256-8b79-81eb30876d92",
   "followers": 4754,
-  "last_written_score": 87
+  "last_written_score": 89
 }

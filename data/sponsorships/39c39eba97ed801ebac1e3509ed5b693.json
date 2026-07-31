@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "heegangyee",
   "followers_notion": 1400,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "bf739eba-97ed-830f-9be9-81e3e0d7f2d7",
+      "url": "https://www.instagram.com/p/DbYqPjgD1Fa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbYqPjgD1Fa",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-29",
+      "first_seen": "2026-08-01",
+      "posted_at": "2026-07-29T17:33:14.000Z",
+      "permalink": "https://www.instagram.com/p/DbYqPjgD1Fa/",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF6NIJMw0sp-pVxBVz2LR-Lkj8BDJOLlBBuSkNiiaTgO8QDSCw6QSNLtP7_-KGBQmM&_nc_ohc=SAsRmpqjbZgQ7kNvwFvPlEj&_nc_gid=QiakyaPIlmUtERgqJFZsxA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQERKSwWh343S9Inmu2AAb9KKki3bZNq0Z9Fn6XeqNb4RQ&oe=6A72D575&_nc_sid=c6f216",
+      "caption": "#광고 이번 여름휴가🏄‍♀️🏖️\n바다 놀러갈때 필수품 스노클+마스크\n맨날 쿠팡에서 저렴이만 쓰다가, \n\n@intotheblue_store 에서 겟한\n고고젤로 마스크🤿+에어로 스노클🐟로\n편하게 물놀이 하고 왔다.\n\n스노클 제품은 소프트한 실리콘 마우스피스로\n입에 따로 힘을 주지않아도 호흡이 편했고😌,\n\n스노클이 혹시나 마스크에서 떨어져도\n가라앉지 않도록 설계된 앙성부력 제품으로🫧,\n분실위험도 최소화 시킨 제품이었다!\n\n마스크는 시야도 깨끗하고,\n동양인 얼굴에 맞춘 디자인으로 \n코가 끼지않고 깔끔하게 옆에\n광대부분도 남는 부분없이 착!",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "heegangyee",
+      "metrics": {
+        "likes": -1,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "history": [
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": -1,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 117.5,
+        "n": 8,
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.002795248078266946,
+        "vs_baseline": 0.03404255319148936,
+        "cost_per_eng": 25750.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "f1739eba-97ed-82d2-88c1-01be4d46714c",
-  "followers": 1400
+  "followers": 1431,
+  "last_written_score": 3
 }

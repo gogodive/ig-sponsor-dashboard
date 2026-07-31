@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "ssssssubin_",
   "followers_notion": 10000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "08439eba-97ed-8210-bf91-810a350ac86a",
+      "url": "https://www.instagram.com/p/Dbb3zoyk3Sg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dbb3zoyk3Sg",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-30",
+      "first_seen": "2026-08-01",
+      "posted_at": "2026-07-30T23:29:29.000Z",
+      "permalink": "https://www.instagram.com/p/Dbb3zoyk3Sg/",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/759974060_18476494135107756_5372266666187113825_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHy59QKfcaKZHC3Vy_K1Hb1zZXTgF9Q94BhJKK8K52w8A6zWsWcy0S6vw0U0Uup0wo&_nc_ohc=ESQBjFunU0gQ7kNvwFF4Dz4&_nc_gid=gW8HSvcOnatAqsZPBrEZJw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGI0T6iatgYFHIwgvx-nmKnUXeh_GEcGefFxUtKVuWPCA&oe=6A72DD9F&_nc_sid=c6f216",
+      "caption": "#AD @intotheblue_store 첫 프리다이빙 슈트💙🤿 \n\n첫 슈트라 은근 기대했는데…\n실물 보자마자 컬러에 먼저 반했어요🥹🤍\n\n직접 입고 다이빙해보니까\n2mm 스프링이라 움직임도 정말 편하고,\n가동성이 좋아서 첫 슈트인데도 부담 없이 잘 입었어요!☺️\n\n무엇보다 이 컬러가 진짜 예술✨\n바다 배경이랑 너무 잘 어울려서 사진 찍는 내내 만족💙📸\n기능도 예쁘기도 둘 다 잡은 첫 슈트라 더 마음에 들어요!\n\n앞으로도 다이빙 갈 때 자주 함께할 것 같은 최애 슈트🤿\n\n✔️딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm(ST)\n\n#인",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "ssssssubin_",
+      "metrics": {
+        "likes": 349,
+        "comments": 29
+      },
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "history": [
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": 349,
+          "comments": 29
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 442.5,
+        "n": 12,
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.03549295774647887,
+        "vs_baseline": 0.8542372881355932,
+        "cost_per_eng": 502.64550264550263,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 349 · 댓글 29 · ER 3.5% · 평소대비 0.9x (D+0)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "83839eba-97ed-8347-94c5-01f2a07ba8f0",
-  "followers": 10000
+  "followers": 10650,
+  "last_written_score": 85
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T07:21:14.000Z",
       "permalink": "https://www.instagram.com/p/DbAZDTNkhBz/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/752617171_18432914857132602_7642253365868243924_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0NTI1ODM0MTI4MjQ1MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zKR9ClOU2gUQ7kNvwEZQCLK&_nc_oc=AdoAQ1aYw1mY5y52VHWxtL4yBMPAq7oW8l0itT3U3c0UPE4YOJ_YT_T03aFy2fnun1Ouv_bPNq9OcJnQTASsnO4R&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=p141kMsoSttaoWYXGTE3xA&_nc_ss=72689&oh=00_AQF58cHHsJQOmzUAvEtw3F2sTE9PFxcX4aMla0kaa2dfcg&oe=6A71A690",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/752617171_18432914857132602_7642253365868243924_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFQ-LkKEmTvfcFsmH6pGTTasCSyrw8sgT8mwvXH5ZQC5tqodInNhacUhbnCniZlfvdEukKEY9RRDyurYH7lTciI&_nc_ohc=AefUw4uiT9AQ7kNvwH4qhHg&_nc_gid=gQl-c7UafX9jeLRFv0koaw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGyA-D9WDfIDPVsBE8e69dENOemjPt-Dm3uid37QRTWHQ&oe=6A72F810&_nc_sid=c6f216",
       "caption": "여름맛 민트 🩵\n올 여름 함께할 수영복 추천 🩵\n\n#광고 #라세린 #라세린수영복 #민트코어 #해운대 \n\n@laserin_swim \n청량한 민트색상 🩵\n민트코어 26년, 해운대 민트 파라솔과 잘어울리는 윤슬 에메랄드🩵\n\nM 사이즈 기장감 걱정했는데 어깨결림 없이 딱 맞았습니다!\n쫀쫀하고 부드러워서 활동하기도 너무 편해요 🩵🍀\n\n* 👙🩱 : 윤슬 에메랄드 더블크로스백\n* size : M\n* model : 169cm 53kg\n\n#수영복 #수영복추천 #수린이 #라세린 #라세린수영복 \n\n#프리다이빙 #해운대해수욕장 #수영복 #수영복추천 #라",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 18
       },
-      "metrics_updated_at": "2026-07-31T07:09:43.533653+09:00",
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -89,16 +89,22 @@
           "views": null,
           "likes": -1,
           "comments": 18
+        },
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": -1,
+          "comments": 18
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 4.5,
         "n": 10,
-        "captured_at": "2026-07-31T07:09:43.533653+09:00"
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.0015726179463459759,
         "vs_baseline": 3.7777777777777777,
@@ -114,7 +120,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 18 · ER 0.2% · 평소대비 3.8x (D+10)"
+      "last_written_reaction": "좋아요 -1 · 댓글 18 · ER 0.2% · 평소대비 3.8x (D+11)"
     }
   ],
   "flags": {

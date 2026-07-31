@@ -15,13 +15,102 @@
   "output_link_prop": null,
   "username": "dodocat_",
   "followers_notion": 35000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3ae39eba-97ed-809a-ab8f-c69a9952072e",
+      "url": "https://www.instagram.com/reel/Dbcf3bbzNX3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dbcf3bbzNX3",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-31",
+      "first_seen": "2026-08-01",
+      "posted_at": "2026-07-31T05:20:40.000Z",
+      "permalink": "https://www.instagram.com/p/Dbcf3bbzNX3/",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/761015121_18607791409021178_7660957455576309684_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFnwK3HnhaeFDdE19_opKeZy47CRlSazQpcM7Gyd99xyuUdBRV_tyj1K5bpv4zhc3I&_nc_ohc=GTgAhzWOoF4Q7kNvwFdzz2A&_nc_gid=CgSx0CNT83ODcFquqJdnNw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGWQ4qhre4NYYKkpjuCL0twNHVoEeLQk0wKmMPsZiW9uw&oe=6A72E7FC&_nc_sid=c6f216",
+      "caption": "🧜‍♀️🩵💙#freediving \n내 두번째 #프리다이빙\n인투더블루 딥바이브 오로라 롱핀과 함께 ✨️\n\r\n @intotheblue_store\r\n #인투더블루 #딥바이브 #오로라롱핀",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "dodocat_",
+      "metrics": {
+        "views": 1955,
+        "likes": -1,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "history": [
+        {
+          "d": "2026-08-01",
+          "views": 1955,
+          "likes": -1,
+          "comments": 9
+        }
+      ],
+      "baseline": {
+        "views_median": 4152.5,
+        "eng_median": 1060.5,
+        "n": 8,
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.00020529138546023762,
+        "vs_baseline": 0.4708007224563516,
+        "cost_per_eng": 19625.0,
+        "cost_per_view": 80.30690537084399
+      },
+      "last_written_reaction": "조회 1,955 · 좋아요 -1 · 댓글 9 · ER 0.0% · 평소대비 0.5x (D+0)"
+    },
+    {
+      "notion_row_id": "24c39eba-97ed-827d-94b6-81088ac81821",
+      "url": "https://www.instagram.com/p/Dbay5UgkwOM/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+      "shortcode": "Dbay5UgkwOM",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-30",
+      "first_seen": "2026-08-01",
+      "posted_at": "2026-07-30T13:27:19.000Z",
+      "permalink": "https://www.instagram.com/p/Dbay5UgkwOM/",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/761291921_18607452751021178_3880117866999112182_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHrUGB7i63WVC8Zre2IVQnA0xcQzmVPzDkV2RlNGNH0LP_IwHzGzbYecSPSfW4XlYgnXP8RS9jETvhGj3G5vX9C&_nc_ohc=LGw9D9L5iqcQ7kNvwGONFZf&_nc_gid=uhIJLPGeqib8PK869Baq-A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHqHJrZVEefPt7xBCPiOyBga6n3zd9aqfQ092DTfm_L0A&oe=6A7308B9&_nc_sid=c6f216",
+      "caption": "🩵💙 @intotheblue_store 🧜‍♀️\n#협찬 물속에서 영롱한 인투더블루 딥바이브 오로라롱핀 ✨️\n물을 무서워 하지만 물을 넘 좋아하는 나에게 프리다이빙은 \n신세계였는데 좋은 기회로 딥바이브 오로라롱핀과 함께 예쁜풀장에서 인어가됨 야외 다이빙 풀장이라 더욱더 빛이나는 이날 물속에만 10시간 있던건 안비밀 !\n또 물놀이 빨리 가고싶다 🏊‍♀️ \r\n\n#프리다이빙 #freediving \r\n#인투더블루 #딥바이브오로라롱핀",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "dodocat_",
+      "metrics": {
+        "likes": -1,
+        "comments": 12
+      },
+      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "history": [
+        {
+          "d": "2026-08-01",
+          "views": null,
+          "likes": -1,
+          "comments": 12
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 1112,
+        "n": 9,
+        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.00028227565500782675,
+        "vs_baseline": 0.009892086330935251,
+        "cost_per_eng": 14272.727272727272,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.0% · 평소대비 0.0x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "9e939eba-97ed-821a-add2-0161ef1500a8",
-  "followers": 35000
+  "followers": 38969,
+  "last_written_score": 24
 }
