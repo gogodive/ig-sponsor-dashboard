@@ -122,13 +122,34 @@ def cache_path(post_url: str) -> Path:
     return CACHE_DIR / f"{m.group(1) if m else 'event'}.json"
 
 
-def load_cache(path: Path) -> dict[str, dict]:
+def load_cache(path: Path) -> tuple[dict[str, dict], dict[str, dict]]:
+    """(profiles, applicants) 반환. applicants 는 누적 신청자 명부."""
     if path.exists():
         try:
-            return json.loads(path.read_text(encoding="utf-8")).get("profiles", {})
+            d = json.loads(path.read_text(encoding="utf-8"))
+            return d.get("profiles", {}), d.get("applicants", {})
         except json.JSONDecodeError:
             log.warning("손상된 캐시 무시: %s", path)
-    return {}
+    return {}, {}
+
+
+def merge_applicants(known: dict[str, dict], counts: dict[str, int],
+                     texts: dict[str, list[str]], now: datetime) -> dict[str, dict]:
+    """이번 수집분을 누적 명부에 합친다.
+
+    인스타 스크래핑은 간헐적으로 일부만 반환한다(실측: 272건 → 178건).
+    한 번 확인된 신청자를 유지해야 부분 수집 때문에 탈락하는 일이 없다.
+    """
+    merged = {u: dict(v) for u, v in known.items()}
+    for u, n in counts.items():
+        cur = merged.setdefault(u, {"comments": 0, "texts": [],
+                                    "first_seen": now.strftime("%Y-%m-%d")})
+        cur["comments"] = max(cur.get("comments", 0), n)
+        seen = set(cur.get("texts", []))
+        cur["texts"] = cur.get("texts", []) + [t for t in texts.get(u, [])
+                                               if t and t not in seen]
+        cur["last_seen"] = now.strftime("%Y-%m-%d")
+    return merged
 
 
 def slim(prof: dict) -> dict:
@@ -145,11 +166,13 @@ def slim(prof: dict) -> dict:
     }
 
 
-def save_cache(path: Path, profiles: dict[str, dict], now: datetime) -> None:
+def save_cache(path: Path, profiles: dict[str, dict], applicants: dict[str, dict],
+               now: datetime) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(
         {"updated_at": now.isoformat(),
-         "profiles": {u: slim(p) for u, p in profiles.items()}},
+         "profiles": {u: slim(p) for u, p in profiles.items()},
+         "applicants": applicants},
         ensure_ascii=False, indent=1), encoding="utf-8")
 
 
@@ -399,10 +422,20 @@ def main() -> int:
             continue
         counts[u] = counts.get(u, 0) + 1
         texts.setdefault(u, []).append(c["text"])
-    log.info("댓글 %d개 → 작성자 %d명(중복 제거)", len(comments), len(counts))
-    if not counts:
+    log.info("이번 수집: 댓글 %d개 → 작성자 %d명", len(comments), len(counts))
+
+    # 누적 명부와 병합 — 부분 수집으로 기존 신청자가 빠지는 것을 방지
+    cpath = cache_path(args.post_url)
+    cached_profiles, known = ({}, {}) if args.no_cache else load_cache(cpath)
+    applicants = merge_applicants(known, counts, texts, now)
+    new_this_run = [u for u in counts if u not in known]
+    log.info("누적 신청 명부 %d명 (기존 %d · 이번 신규 %d)",
+             len(applicants), len(known), len(new_this_run))
+    if not applicants:
         print("신청자를 찾지 못했습니다", file=sys.stderr)
         return 1
+    counts = {u: v.get("comments", 1) for u, v in applicants.items()}
+    texts = {u: v.get("texts", []) for u, v in applicants.items()}
 
     not_entry = [u for u in counts if not is_entry(texts[u], args.min_text)]
     if not_entry:
@@ -414,17 +447,15 @@ def main() -> int:
         users = users[:args.max_profiles]
         log.info("표본 모드: %d명만 조회", len(users))
 
-    # 캐시: 이미 조회한 신청자는 건너뛰고 신규만 조회 (분할 실행 대응)
-    cpath = cache_path(args.post_url)
-    cached = {} if args.no_cache else load_cache(cpath)
+    # 프로필: 이미 조회한 신청자는 건너뛰고 신규만 조회 (분할 실행 대응)
+    cached = dict(cached_profiles)
     todo = [u for u in users if u not in cached]
     log.info("프로필: 캐시 %d명 재사용 · 신규 %d명 조회", len(users) - len(todo), len(todo))
     fresh = fetch_profiles(todo) if todo else {}
-    for u in todo:  # 조회 실패도 기록해 두되 다음 실행에서 재시도되도록 캐시엔 넣지 않음
+    for u in todo:  # 조회 실패는 캐시에 넣지 않아 다음 실행에서 재시도된다
         if u in fresh:
             cached[u] = fresh[u]
-    if not args.no_cache:
-        save_cache(cpath, cached, now)
+    save_cache(cpath, cached, applicants, now)
     profiles = cached
 
     rows = [build_metrics(u, profiles.get(u), counts[u], now) for u in users]
