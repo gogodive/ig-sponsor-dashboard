@@ -310,8 +310,8 @@ def _fmt(r: dict) -> list:
 HEADER = ["#", "계정", "팔로워", "평균 참여", "ER", "90일 게시", "최근 게시", "점수"]
 
 
-def _table_block(rows: list[dict]) -> dict:
-    children = [_cells(HEADER)] + [_cells(_fmt(r)) for r in rows[:95]]
+def _table_block(rows: list[dict], limit: int = 95) -> dict:
+    children = [_cells(HEADER)] + [_cells(_fmt(r)) for r in rows[:limit]]
     return {"object": "block", "type": "table",
             "table": {"table_width": len(HEADER), "has_column_header": True,
                       "has_row_header": False, "children": children}}
@@ -338,7 +338,7 @@ def clear_page(page_id: str, version: str) -> None:
 
 
 def write_notion(page_id: str, post_url: str, picked: list[dict], ranked: list[dict],
-                 excluded: list[dict], now: datetime, top: int,
+                 excluded: list[dict], now: datetime, top: int, waiting_n: int = 30,
                  version: str = "2022-06-28") -> None:
     clear_page(page_id, version)
     head = [
@@ -359,7 +359,7 @@ def write_notion(page_id: str, post_url: str, picked: list[dict], ranked: list[d
     _append(page_id, head, version)
     _append(page_id, [_table_block(picked)], version)
 
-    waiting = ranked[top:top + 10]
+    waiting = ranked[top:top + waiting_n]
     if waiting:
         _append(page_id, [{"object": "block", "type": "heading_2", "heading_2": {
             "rich_text": _rt(f"예비 {len(waiting)}명 (차순위)")}}], version)
@@ -391,6 +391,7 @@ def main() -> int:
     ap.add_argument("--post-url", required=True)
     ap.add_argument("--notion-page", default=None, help="결과 기록할 노션 페이지 id")
     ap.add_argument("--top", type=int, default=20)
+    ap.add_argument("--waiting", type=int, default=30, help="예비(차순위) 인원")
     ap.add_argument("--limit-comments", type=int, default=1000)
     ap.add_argument("--max-profiles", type=int, default=0, help="0=전체 (테스트 시 표본 수)")
     ap.add_argument("--exclude", default="", help="제외할 계정 (콤마 구분, 예: 자사 계정)")
@@ -476,7 +477,7 @@ def main() -> int:
 
     if args.notion_page and not args.dry_run:
         write_notion(args.notion_page, args.post_url, picked, ranked, excluded,
-                     now, args.top)
+                     now, args.top, args.waiting)
         print(f"\n노션 기록 완료: {args.notion_page}")
     return 0
 

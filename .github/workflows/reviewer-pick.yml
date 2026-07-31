@@ -18,6 +18,10 @@ on:
         description: "선발 인원"
         type: string
         default: "20"
+      waiting:
+        description: "예비(차순위) 인원"
+        type: string
+        default: "30"
       limit_comments:
         description: "댓글 수집 상한"
         type: string
@@ -75,6 +79,7 @@ jobs:
             --post-url "${{ inputs.post_url }}" \
             --notion-page "${{ inputs.notion_page }}" \
             --top "${{ inputs.top }}" \
+            --waiting "${{ inputs.waiting }}" \
             --limit-comments "${{ inputs.limit_comments }}" \
             --comment-actor "${{ inputs.comment_actor }}" \
             --max-profiles "${{ inputs.max_profiles }}" \
