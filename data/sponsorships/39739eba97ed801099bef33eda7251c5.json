@@ -25,16 +25,16 @@
       "first_seen": "2026-07-25",
       "posted_at": "2026-07-21T14:59:57.000Z",
       "permalink": "https://www.instagram.com/p/DbDyV0FD73a/",
-      "thumbnail": "https://instagram.fsvq2-2.fna.fbcdn.net/v/t51.82787-15/753231610_18087660101545878_485151079117477337_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsvq2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEnliAV1HcUvy-ShQ4SxJS7fu5jqaTjwCh1yiBvVEhGq2FBrgvxV47BON4tTqPzXN4&_nc_ohc=uVvunUFIfL4Q7kNvwGiYjBn&_nc_gid=zz8F1tSxecjH8Ux5v2xDYQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGTamoBvLlB7NVstXCer9cB9eGiL2k1V3xVzCveru0RDg&oe=6A72EC7F&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/753231610_18087660101545878_485151079117477337_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGwj6D40-68qib3zvfvXb-AKxky_yY7jQkzvqM8pNUzI6cDGOBx0RrW1OVgs8cWO8X1quCGiSuprvp6wt6fdjCW&_nc_ohc=5-2IEMEsJ5oQ7kNvwFjOGyr&_nc_gid=NBaMUGoDJiNIoG6l2_d2Pg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF7lOCMCErPJjOwabBPHniAF1-B_26y8DsUzmzRwP-rIQ&oe=6A743DFF&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store \n\n이제 여름휴가 시즌인데 \n여름휴가엔 물놀이 아니겠나요!!!!!!!!\n\n물놀이도 좋아하고 \n🌈예쁜척🌈사진찍는거 좋아하는 저에겐 \n착용만해도 예뻐지는 마스크 가져와찌요🩵\n\n물속에서 아무리 놀아도 안벗겨지는 안정적인 스트랩에 \n피부에도 안전한 실리콘!!\n바다에있는 모든 물고기들은 눈에 다 담을수있는 광각 렌즈까지!!!!!🫢🫢\n심지어 스노쿨도 무독성 실리콘 소재라 \n장시간에도 끄떡없더라구요🫢🫢🫢🫢\n그리구일단 마스크랑 스노쿨 색감보세요\n아쥬 인어야 인어🫶😖😖😖\n\n이번 여름 물고기보러가실분들!!!!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "ssssoo_yyy",
       "metrics": {
-        "likes": 166,
+        "likes": 172,
         "comments": 3
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -83,14 +83,20 @@
           "views": null,
           "likes": 166,
           "comments": 3
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 172,
+          "comments": 3
         }
       ],
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.02677864046902234,
-        "vs_baseline": 0.38895281933256615,
-        "cost_per_eng": 609.4674556213017,
+        "er": 0.027729361432419584,
+        "vs_baseline": 0.40276179516685845,
+        "cost_per_eng": 588.5714285714286,
         "cost_per_view": null
       },
       "analysis": {
@@ -100,12 +106,12 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 166 · 댓글 3 · ER 2.7% · 평소대비 0.4x (D+10)",
+      "last_written_reaction": "좋아요 172 · 댓글 3 · ER 2.8% · 평소대비 0.4x (D+11)",
       "baseline": {
         "views_median": null,
         "eng_median": 434.5,
         "n": 12,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       }
     }
   ],
@@ -117,5 +123,5 @@
   },
   "child_db_id": "61039eba-97ed-82b8-accf-81c64eff3011",
   "followers": 6311,
-  "last_written_score": 39
+  "last_written_score": 40
 }

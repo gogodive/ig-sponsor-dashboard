@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T09:34:12.000Z",
       "permalink": "https://www.instagram.com/p/Da7erY6krmo/",
-      "thumbnail": "https://instagram.fper8-1.fna.fbcdn.net/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fper8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEArLPoHJnfpSJJMfzVfXktz8eD5uSgDaCJynL0eh_YiZutKJ0poYkahKHUN9KcTvI&_nc_ohc=Owc811auag0Q7kNvwElWINe&_nc_gid=mC4yeeF6YoVeL3cCh5wsaA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF00xQx7PjhoXUTB8-O_-p-iBQE48t2RM4FS6s_-qqTmQ&oe=6A72E2F2&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHO6Pz5Ko2WDRRNKetcFgDxpJEelZjJWvT1WXUCp2IotVtDIFl2OzEmI6Z_xE8jaKhY7o-nQCN-H6D4YP29iiZj&_nc_ohc=nfM6StwyvzMQ7kNvwEkPZv7&_nc_gid=qxR_zD8D8FwNKebxt5yLiQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHmns4Mao9taHzPADb0NIiMFfbsf8zSmglr8d1xdqlZhQ&oe=6A743472&_nc_sid=c6f216",
       "caption": "#제품제공\n태풍이 지나간 뒤 노을지는 하늘을 닮은 수영복☀️🩷❤️💜\n\n핑크,보라,빨강색이 어우러진 \n강렬한 노을 빛깔 라세린 미스틱레드❣️\n\n은은한 그라데이션 컬러감이 \n물 속에서도 너무 이뻤고, \n가슴선, 사이드컷도 미들컷이라\n너무 부담스럽지 않은 노출로 편안했어요👍\n\n수모, 마스크랑 같이 핑크로 깔맞춤하니\n완전 찰떡이였던 착장 🎀\n\n📸 @drop_the_diving \n\n@laserin_swim \n@usepool_official \n\n✔️수영복 - 라세린 미스틱레드\n✔️수모 -  유즈풀 러블리본\n✔️마스크 - 유즈풀 오로라 마스크 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "baek._.0",
       "metrics": {
-        "likes": 134,
+        "likes": 136,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -95,20 +95,26 @@
           "views": null,
           "likes": 134,
           "comments": 32
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 136,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 169.5,
         "n": 4,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.017699115044247787,
-        "vs_baseline": 0.9793510324483776,
-        "cost_per_eng": 385.5421686746988,
+        "er": 0.017912357394178485,
+        "vs_baseline": 0.9911504424778761,
+        "cost_per_eng": 380.95238095238096,
         "cost_per_view": null
       },
       "analysis": {
@@ -118,9 +124,14 @@
           "one_liner": "평소 대비 0.92x로 소폭 하회하나 참여율 1.53%·건당 448원은 팔로워 규모 감안 시 준수한 초기 성과.",
           "days": 5,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.99x로 협찬 효과 없이 평범한 수준이나, 참여 1건당 381원은 준수한 비용 효율을 보임.",
+          "days": 14,
+          "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "좋아요 134 · 댓글 32 · ER 1.8% · 평소대비 1.0x (D+13)"
+      "last_written_reaction": "좋아요 136 · 댓글 32 · ER 1.8% · 평소대비 1.0x (D+14)"
     }
   ],
   "flags": {
@@ -131,5 +142,5 @@
   },
   "child_db_id": "d5139eba-97ed-827c-96fa-812ed5c9e026",
   "followers": 9379,
-  "last_written_score": 98
+  "last_written_score": 99
 }

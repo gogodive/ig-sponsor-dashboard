@@ -25,39 +25,45 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-30T05:11:22.000Z",
       "permalink": "https://www.instagram.com/p/DbZ6I2ToOq6/",
-      "thumbnail": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/760746744_18134607667616673_8400410288365366354_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFjcwsHWxw2qdG56JWtRCD2ivDgPLG2GZ6IAKYUEDKS7TF2A7BhI2flsmQ_CNwVEco&_nc_ohc=_QnFgDjGyM4Q7kNvwFoNA8f&_nc_gid=jmdxbJAe8W9oHYElFtsMMQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHaDJzxQi5sNm4cOMshUlXHlfiV25BL3LwcYs7r5lrtLw&oe=6A730790&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fman4-2.fna.fbcdn.net/v/t51.82787-15/760746744_18134607667616673_8400410288365366354_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fman4-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFKoJ6EFQeapf6sx4hOkfoQIDLpmAuAr-vAxTPp_SsefnpsQUD_Teq8-ZiC-ALNVDoOm3LUzEuVF1Yb1B8nFWiO&_nc_ohc=16G_n9ngaOoQ7kNvwE7dJFN&_nc_gid=00OS7gANNDDZJyFxxOa-2Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGOaPfkPZGjNKioX_ygfSLdG9PZ-g1P8ppfRyZPnpS87w&oe=6A745910&_nc_sid=c6f216",
       "caption": "#협찬 그래서 제 핀은 무슨색일까요? 맞춰보세요 :)\n\n오랫만에 꼬까신(새 핀)을 신고 파라다이브에서 인어놀이🧜‍♀️\n핀 하나가 빛에 따라 이렇게 알록달록 변하니까 너무 신기한거 있죠?\n\n물속에서도 반짝이는 내 핀은 <딥바이브 오로라 유리섬유 롱핀 : 레드> @intotheblue_store",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yorrr_ming",
       "metrics": {
-        "likes": 262,
-        "comments": 18
+        "likes": 289,
+        "comments": 19
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-08-01",
           "views": null,
           "likes": 262,
           "comments": 18
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 289,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 387,
         "n": 11,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.011505115667502158,
-        "vs_baseline": 0.7235142118863049,
-        "cost_per_eng": 1800.0,
+        "er": 0.012655627234252374,
+        "vs_baseline": 0.7958656330749354,
+        "cost_per_eng": 1636.3636363636363,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 262 · 댓글 18 · ER 1.2% · 평소대비 0.7x (D+1)"
+      "last_written_reaction": "좋아요 289 · 댓글 19 · ER 1.3% · 평소대비 0.8x (D+2)"
     }
   ],
   "flags": {
@@ -68,5 +74,5 @@
   },
   "child_db_id": "7ef39eba-97ed-82b0-927b-811ba5862824",
   "followers": 24337,
-  "last_written_score": 72
+  "last_written_score": 80
 }

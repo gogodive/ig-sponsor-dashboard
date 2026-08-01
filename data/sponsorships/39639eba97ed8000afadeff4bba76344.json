@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T07:46:05.000Z",
       "permalink": "https://www.instagram.com/p/DaZz-KeEazh/",
-      "thumbnail": "https://instagram.flhr14-1.fna.fbcdn.net/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.flhr14-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEFubfLO0HKy001yOSGHMTkqiuzu4UVitSg1IG2jw059tYqe7nPhgC6PPVLvoKxlM7Qf_aTh2etTDT9K87ogftK&_nc_ohc=gMQl26aZO7YQ7kNvwHkbQma&_nc_gid=06E09ODNHR26jlGrw5pxkg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEdxCeTFOhur1aB09X_2_ErgLmS1oaWiYXO14JBta5KZA&oe=6A72DFE1&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGYv_ithUDJ7WaX--ypvd0XHqIkMK4-e02BH0HtQw4GK1zKinTbjT-jVtve3M79KkI&_nc_ohc=gMQl26aZO7YQ7kNvwHaDwJI&_nc_gid=ySKPcfXSCpEP7eQFkzDHhQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE_PJ0X1xxDLRMFnS2Kk4CyiAXPfkxhG_Tz51sj6_cGtg&oe=6A743161&_nc_sid=c6f216",
       "caption": ".\n@laserin_swim #제품제공\n\n여름에 딱 어울리는 청량한 컬러💦\n보기엔 부드러워 보이는데 입어보면 한 겹인데도 \n쫀쫀해서 몸을 챡 붙는 느낌!\n\n은은하게 반짝이는 컬러감이 맘네 들어서\npick!🩵\n\n반짝반짝 예뿌다🩵💙\n\n🫧166cm 55kg M size🫧",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 12
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -95,16 +95,22 @@
           "views": null,
           "likes": -1,
           "comments": 12
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": -1,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 9.5,
         "n": 10,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.0021080873898045227,
         "vs_baseline": 1.1578947368421053,
@@ -120,7 +126,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.2% · 평소대비 1.2x (D+26)"
+      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.2% · 평소대비 1.2x (D+27)"
     }
   ],
   "flags": {

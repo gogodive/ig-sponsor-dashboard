@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.011686781170205801,
-        "vs_baseline": 2.3461117196056955,
-        "cost_per_eng": 678.8048552754435,
+        "er": 0.011774077388097161,
+        "vs_baseline": 2.3636363636363638,
+        "cost_per_eng": 673.7720111214087,
         "cost_per_view": null
       },
       "posted_at": "2026-07-23T13:59:52.000Z",
       "permalink": "https://www.instagram.com/p/DbI1Dj6E0s-/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZBmiUGOrztoF79tiUSx44vbRoMthXHUapR1CVKu_NTepxBZZ1I8Bwa145r6iNh2w&_nc_ohc=ZFtxCQ282AYQ7kNvwE7D7Pf&_nc_gid=EtgkrkVybQOOF-zOk6Gvpw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEctLvn0rPdiLfdwHHfkjvSYl6VMWBUpSBwnrb-yJ5Kcg&oe=6A7305F4&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gExsaSeZOzZqbAotq_WGbuTbgfmiyc2wf3fmPzerQS5Zqshu2-JBEMYfKFDNrvBxeG38s1MOYe-jGhG813mjneD&_nc_ohc=eF_1SiI3AKgQ7kNvwFKXvCd&_nc_gid=QSoZCVkW87xz1ti0JwR1lA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF026GnTVwp5LQfaYTp_0jkmqZ60OFIEiVvAJ4QqHivJA&oe=6A745774&_nc_sid=c6f216",
       "caption": "사람없는 한적한 삼척 스팟 취사O , 텐트O, 타프O \n(7/22-23 둘다 맑음 뒤 비) *제품제공\n\n가장 좋았던게 사람이 지인짜 별로 없어서 \n거의 전세냈고 , 파라솔 강매 없는게 젤 좋음..\n화장실은 있지만 샤워실 이용은 돈내고 해야함\n(민박집 사장님들 너~~무 착함)\n\n주차장도 넉넉한편 \n해변 스팟은 한쪽은 고운모래 스팟 한쪽은 몽돌이라\n다른 느낌으로 스노쿨링 할수 있고 \n수심 낮은곳과 깊은곳 다 있고 물이 잔잔하고 \n지이이이이인짜 맑아요 물고기도 많은데..\n성게, 꽃게, 물고기, 굴 등등 많음!!!!!!\n\n🐠어쩌다 가방에 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "o_os.ra",
       "metrics": {
-        "likes": 1027,
+        "likes": 1035,
         "comments": 44
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -91,15 +91,21 @@
           "views": null,
           "likes": 1027,
           "comments": 44
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 1035,
+          "comments": 44
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 456.5,
         "n": 10,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
-      "last_written_reaction": "좋아요 1,027 · 댓글 44 · ER 1.2% · 평소대비 2.3x (D+8)",
+      "last_written_reaction": "좋아요 1,035 · 댓글 44 · ER 1.2% · 평소대비 2.4x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.95배 참여로 준수한 출발, 참여 1건당 764원은 합리적 수준이나 3일차 추이 지속 모니터링 필요.",
@@ -117,5 +123,5 @@
   },
   "child_db_id": "38239eba-97ed-8077-a9ea-f7cf165a3da4",
   "followers": 91642,
-  "last_written_score": 235
+  "last_written_score": 236
 }

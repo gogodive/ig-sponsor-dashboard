@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFW8weQspS1PTmYjnI8dXMLLj0DKxxN5z7AxTftZqpNOaGfQhIsmR3nTNQ8kHvDcfA&_nc_ohc=5p19_lUBwIoQ7kNvwFnXcQL&_nc_gid=BLpzyg3gbZrIcCDmAU2ctA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFkTt4kzdqwCyHCm0o_XUsccKEJo7TKe2KpRjceFzLXSw&oe=6A72F137&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFb0tUt8ilQkJmfYk0B_uqnaS_mzdE3JzXuer7isjd5ZPtGr5xQIhYEJXQ-06PBQSM&_nc_ohc=5p19_lUBwIoQ7kNvwH-Ywsd&_nc_gid=iVx6dsmb4p2inli0w-Zl1g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHnXNPYva3l0SKb--ZHX3b7MHx3Oed41SSvg-RjJV5n1w&oe=6A7442B7&_nc_sid=c6f216",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 101,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -95,16 +95,22 @@
           "views": null,
           "likes": 101,
           "comments": 2
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 101,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 137.0,
         "n": 10,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
         "er": 0.03302340493747996,
         "vs_baseline": 0.7518248175182481,
@@ -125,7 +131,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 101 · 댓글 2 · ER 3.3% · 평소대비 0.8x (D+19)"
+      "last_written_reaction": "좋아요 101 · 댓글 2 · ER 3.3% · 평소대비 0.8x (D+20)"
     }
   ],
   "flags": {

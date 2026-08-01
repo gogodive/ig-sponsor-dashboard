@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-02T05:00:29.000Z",
       "permalink": "https://www.instagram.com/p/DaRyooGCSA1/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/729189241_18599197378054735_3777647384097833407_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGlmks38ke7EeV9sppC7ztyCVJtedHIhhLYapDxKgdyg3GVnUk0MnEmPWg9D8z7j5M&_nc_ohc=19RVpC3JYd8Q7kNvwHPZ-Ha&_nc_gid=HRUB3sbY_BtYPwKHYFW1NQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEOH8wiGlEx0GLwV4VF1-AbkNJ_42-34TE7dPG97PpcNw&oe=6A72EE3A&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.ffab1-2.fna.fbcdn.net/v/t51.82787-15/729189241_18599197378054735_3777647384097833407_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffab1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHDngZoY3fsQ4STqaFBefovAqbOzgcFDbdSpRxB_L1OPRzec50G4R-RBc_1RqQ4kIynRMQPpkyi7h5VJ1KjPeW-&_nc_ohc=19RVpC3JYd8Q7kNvwFOOJj-&_nc_gid=542Vdlc_Ks9V6R8tO0B_lw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHlV2rEDhZZs9CFnQ1DIwXY1RfOLUf14wgqJr_SU87_sA&oe=6A743FBA&_nc_sid=c6f216",
       "caption": "제일 행복한 시간🩵\n수영복 @laserin_swim 라세린 미드나잇오션 더블 크로스백 s 착용\n마스크 @branciiia 플래티넘 화이트 옵틱렌즈 착용\n사진 @freedive.anrak",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 167,
         "comments": 12
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -89,16 +89,22 @@
           "views": null,
           "likes": 167,
           "comments": 12
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": 167,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 313,
         "n": 7,
-        "captured_at": "2026-08-01T07:08:59.113028+09:00"
+        "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.004526717750297145,
         "vs_baseline": 0.5718849840255591,
@@ -114,7 +120,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 167 · 댓글 12 · ER 0.5% · 평소대비 0.6x (D+29)"
+      "last_written_reaction": "좋아요 167 · 댓글 12 · ER 0.5% · 평소대비 0.6x (D+30)"
     },
     {
       "notion_row_id": "14039eba-97ed-836c-bc96-817bdfdf46e3",
@@ -168,7 +174,7 @@
         "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.005057785195862732,
         "vs_baseline": 1.0101010101010102,

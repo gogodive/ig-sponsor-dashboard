@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-07-10",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.0006445375443119562,
         "vs_baseline": null,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-07-09T02:55:24.000Z",
       "permalink": "https://www.instagram.com/p/Dajl4M8yjJO/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/741621296_17980804143042871_664253454109656541_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEA4r0DB_1J-ZD3UR5JgsLyxOgGWIywgy2joBJbBvF_CZBc1I1HbCnYw6b4seoIdWY&_nc_ohc=Akfl-TYsjAgQ7kNvwEYbzZk&_nc_gid=7IiUDvmleK6R4VkiUy3vGQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEMvK3yY9MLnZh6pPKIn8XhinTMeZJdmf78xXId3brmig&oe=6A73108E&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpmi3-1.fna.fbcdn.net/v/t51.82787-15/741621296_17980804143042871_664253454109656541_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpmi3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gGAtl3mB7NVk79XFJlAT60Q4r6RaNTLTz_pg6Ct1q7dvhFtahQXAnPdel83lCD08uo&_nc_ohc=Akfl-TYsjAgQ7kNvwEGBZ6m&_nc_gid=gZvfW1zgfFXn2cfLE-XB_Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFUaNA8VrhC_3WEkV1LotRX9KDyGPJ-1Tl4dqNr4sij2g&oe=6A7429CE&_nc_sid=c6f216",
       "caption": "26.07.08 THU 🍈🥥🍑💪🏻\n가슴+어깨+하체+팔\n\n휴대폰 잃어버려서\n그나마도 가뭄에 콩나듯 운동다녀온거 사진 날려먹고..\n7월업로드..🐷🐷🐷🐷\n\n그래도 오랜만에 오니까 좋아요!\n\n운동복 정보💗 @secrets__fit\n#시크릿스 #여자운동복추천\n-\n#운동하는아나운서 #fitnesslife #비키니선수",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -42,7 +42,7 @@
         "likes": -1,
         "comments": 3
       },
-      "metrics_updated_at": "2026-08-01T07:08:59.113028+09:00",
+      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -91,6 +91,12 @@
           "views": null,
           "likes": -1,
           "comments": 3
+        },
+        {
+          "d": "2026-08-02",
+          "views": null,
+          "likes": -1,
+          "comments": 3
         }
       ],
       "analysis": {
@@ -100,7 +106,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 3 · ER 0.1% (D+22)"
+      "last_written_reaction": "좋아요 -1 · 댓글 3 · ER 0.1% (D+23)"
     }
   ],
   "flags": {
