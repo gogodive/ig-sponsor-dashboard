@@ -25,17 +25,17 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T12:49:39.000Z",
       "permalink": "https://www.instagram.com/p/DbVjhMjvZ77/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/757969573_18401468293080035_6104145416152159134_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGC7rfG_M3tnHEJc5wVkAK6AtRUBgEI1MmbeKqWkjdwy38KSFUh6NVfoav86KgPYhs&_nc_ohc=Hj0lgPWfjroQ7kNvwGGNTdJ&_nc_gid=ckK49G_xORSgnt8wsN99UA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGW98rqKtwvOlk9hNnbCmoG5yqXKFOlM28fwmiEpJA8fg&oe=6A74555A&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/757969573_18401468293080035_6104145416152159134_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGVLRvfsUsLxBYvaVnj9B1S36n4FTO6_pbwcSE_QezxETrHOgofc9wpoEqq-_rm2l8TjOH9F9LYFcF5oM1zyqlk&_nc_ohc=Hj0lgPWfjroQ7kNvwEjN0tA&_nc_gid=aP2ADIu5yjil822NYJtl3g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFsBSCxrU6H2EG2qvTcXBkAZsewbS0iyGQPG4x5yFiebQ&oe=6A75A6DA&_nc_sid=c6f216",
       "caption": "💎 윤슬 에메랄드 더블 크로스백 #제품제공\n\n지나가던 남성분이 \n수영복 완전 내스타일이다💙라고 한건 안비밀\n\n햇빛 아래서는 맑고\n물속에서는 더욱 깊게 빛나는 에메랄드 컬러🩵\n탄탄한 원단이 몸을 안정감 있게 잡아주면서도 \n움직임은 편안해요\n\n저는 153.4cm / 40kg 이고\n라세린 원단이 탄탄한 편이라 S사이즈를 선택했어요.\n(성향이 꽉 맞는걸 좋아하지 않아서🤭)\n\n✨ 물속에서 가장 빛나는 수영복, LASERIN\n인데 물밖부터 빛나요\n\n물속영상도 곧 데려올게요오😃\n\n@laserin_swim\n\n#라세린 #LASERIN #수영복추천 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "watervly_jj",
       "metrics": {
-        "views": 6899,
-        "likes": 217,
-        "comments": 33
+        "views": 6956,
+        "likes": 222,
+        "comments": 34
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -60,23 +60,29 @@
           "views": 6899,
           "likes": 217,
           "comments": 33
+        },
+        {
+          "d": "2026-08-03",
+          "views": 6956,
+          "likes": 222,
+          "comments": 34
         }
       ],
       "baseline": {
         "views_median": 4597.0,
         "eng_median": 321.0,
         "n": 10,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.08529512111907199,
-        "vs_baseline": 1.5007613661083314,
-        "cost_per_eng": 316.0,
-        "cost_per_view": 11.450934918104073
+        "er": 0.08734220402592972,
+        "vs_baseline": 1.5131607570154448,
+        "cost_per_eng": 308.59375,
+        "cost_per_view": 11.357101782633698
       },
-      "last_written_reaction": "조회 6,899 · 좋아요 217 · 댓글 33 · ER 8.5% · 평소대비 1.5x (D+4)",
+      "last_written_reaction": "조회 6,956 · 좋아요 222 · 댓글 34 · ER 8.7% · 평소대비 1.5x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.49배 조회·참여율 8.4%로 양호한 초기 반응, 참여당 321원·조회당 11.5원은 팔로워 규모 감안 시 합리적 수준.",
@@ -94,5 +100,5 @@
   },
   "child_db_id": "8dd39eba-97ed-8208-8383-8164472e84df",
   "followers": 2931,
-  "last_written_score": 150
+  "last_written_score": 151
 }

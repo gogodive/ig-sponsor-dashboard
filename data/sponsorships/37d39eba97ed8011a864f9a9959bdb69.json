@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:48:44.000Z",
       "permalink": "https://www.instagram.com/p/DbDAz5LTfnC/",
-      "thumbnail": "https://instagram.fmel18-1.fna.fbcdn.net/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmel18-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFBFctA6ap-bIDM_hyr7JKG-jhDNZq3SJAAtw87ksQ3ccYcBADohR0tvKb7sR2Vv-I&_nc_ohc=v80Qn1qfI2IQ7kNvwEvqB5u&_nc_gid=nWjyWjjsQKUfyF4EsODTNw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHoa-od149cZTzy8qIGAtDt929bvYkVkwtuSBYRjhX3rg&oe=6A745720&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEbgZPdrebVzASIll0N1CT07fCL5I5T116AD4FlJ1N4OgZNixe6oyILboWDjiJmzBA&_nc_ohc=swSvpEK5W5QQ7kNvwGJYmxO&_nc_gid=JOaHV675lDjeHgdiss-b2A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEUOHUM5-kN9aIq8Eir7tRqVyCQ0t0us9ExnN09vg0vkQ&oe=6A75A8A0&_nc_sid=c6f216",
       "caption": "요즘 가장 자주 손이 가는 세트🤍\n\n시크릿스 리브 슬리브리스 SET\n\n편안한 착용감에 핏까지 예뻐서 데일리로 가볍게 입기 좋아요! 심플한 디자인이라 여기저기 매치하기도 쉬운 아이템✨",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": -1,
         "comments": 4,
-        "views": 1910
+        "views": 1925
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -102,15 +102,21 @@
           "views": 1910,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-08-03",
+          "views": 1925,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": 0.00018162005085361425,
         "vs_baseline": null,
         "cost_per_eng": 18333.333333333332,
-        "cost_per_view": 28.79581151832461
+        "cost_per_view": 28.571428571428573
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 18,333원으로 팔로워 대비 참여율 0.04%에 그쳐 초기 반응이 극히 저조함.",
@@ -121,7 +127,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "조회 1,910 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+11)"
+      "last_written_reaction": "조회 1,925 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+12)"
     },
     {
       "notion_row_id": "c3039eba-97ed-82a2-bcde-012a5d6c396b",
@@ -132,7 +138,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-06T05:59:29.000Z",
       "permalink": "https://www.instagram.com/p/DacMkNOE5rv/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/740628529_18591997573062820_5028451802163316755_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gECy0-uFCc6OYWH25KrFMzkPBF59jmozv8t0unShHR-z7pDpYkyRUoXQBYw1plPMI4NLQTr2_Bqv9dPYa8BTXi1&_nc_ohc=KjCjqTeKdt4Q7kNvwF8roYi&_nc_gid=4mxRQVVyHwiJt6mHOw2DYg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFHHvQIF5f7r3vQmtd2ipKrDTfDvx2CQNpBS-kzmqWEtg&oe=6A742699&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpoa11-1.fna.fbcdn.net/v/t51.82787-15/740628529_18591997573062820_5028451802163316755_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpoa11-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFDCiM-nujeqedpaVvMd_HklCopFAjj3LOM87jC3G9BBth0rNW3wMDmiySJ7E8B0A8&_nc_ohc=KjCjqTeKdt4Q7kNvwFPUuxd&_nc_gid=I5Ln0v48u53D-J-s74coCg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFkwhp6AoeVi6nLv0hDO19z6QNg9zlrzDHZVR4toeHC4g&oe=6A757819&_nc_sid=c6f216",
       "caption": "야~호~✌🏻\n\n운동 갈 때도, 잠깐 외출할 때도 그대로 입고 나가기 좋은 셋업!\n\n편안한 착용감에 핏까지 예뻐서 운동복으로도 \n데일리룩으로도 만족🤍\n\n🔗시크릿스 리브 슬리브리스 레이어드 팬츠 SET",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -141,7 +147,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -208,16 +214,22 @@
           "views": null,
           "likes": -1,
           "comments": 21
+        },
+        {
+          "d": "2026-08-03",
+          "views": null,
+          "likes": -1,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8.5,
         "n": 12,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.001210800339024095,
         "vs_baseline": 2.3529411764705883,
@@ -233,7 +245,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.4x (D+26)"
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.4x (D+27)"
     }
   ],
   "flags": {

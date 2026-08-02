@@ -98,7 +98,7 @@
         "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.12261995430312261,
         "vs_baseline": 2.3,
@@ -127,17 +127,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T05:43:19.000Z",
       "permalink": "https://www.instagram.com/p/DaevcPGTHbX/",
-      "thumbnail": "https://instagram.fmad6-1.fna.fbcdn.net/v/t51.82787-15/740733814_18612145372000146_386270713782141955_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmad6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHq21wsGXjgbiQ3uT_9LVSIYZlioxwC0Hhm14eG6QZs8Fiya-WoTH_5QjscLJ9hONw&_nc_ohc=bZIKJs2I-dcQ7kNvwFzDPrj&_nc_gid=uhBgDqditweHd1_KPSVKnQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFAk7aaAWSYJDy95hg-q4Mi4784kyy9C6rjOzrEkKUlrQ&oe=6A7446E4&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbcn7-2.fna.fbcdn.net/v/t51.82787-15/740733814_18612145372000146_386270713782141955_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbcn7-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGK9Im7k89dqtIA7OxZVfn7RmEDfh1mitS_gI3Avm76BZVE8gxrp88iW8OmWdL732k&_nc_ohc=bZIKJs2I-dcQ7kNvwH103Bd&_nc_gid=KGx605aXwWMjEmg6kooe-g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF6UJajf7uX1pFw0j9-gANwxvkIg44qoRp3SSAX0mq9ug&oe=6A759864&_nc_sid=c6f216",
       "caption": "#제품제공 화이트 성애자 여기모여라! \n▪라세린 루미나 화이트 브이백 (미들)🫧🤍❕\n\n그냥 흰색이 아니예요 반짝이는 은은한 펄이 들어가 있어 더 독보적이라구요~\n\n ✔️브라캡 고리 o\n ✔️미들 가슴선\n ✔️168cm / 57kg size M \n ‧ 배럴L, 센티L, 라세린M, 나이키 30. \n\n#라세린 #swimwear #swinsuit #수영복추천 #수린이 #수영",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "tokki_kk",
       "metrics": {
-        "views": 2317,
-        "likes": 49,
+        "views": 2350,
+        "likes": 50,
         "comments": 5
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -204,21 +204,27 @@
           "views": 2317,
           "likes": 49,
           "comments": 5
+        },
+        {
+          "d": "2026-08-03",
+          "views": 2350,
+          "likes": 50,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": 1032.5,
         "eng_median": 39.0,
         "n": 4,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.04112718964204113,
-        "vs_baseline": 2.2440677966101696,
-        "cost_per_eng": 638.8888888888889,
-        "cost_per_view": 14.889943892965041
+        "er": 0.041888804265041886,
+        "vs_baseline": 2.276029055690073,
+        "cost_per_eng": 627.2727272727273,
+        "cost_per_view": 14.680851063829786
       },
       "analysis": {
         "one_liner": "평소 대비 0.68x로 기대치 미달이며, 참여 1건당 1,302원·조회당 153원은 팔로워 1,250명 소규모 계정 협찬 대비 효율이 낮은 편.",
@@ -229,7 +235,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 2,317 · 좋아요 49 · 댓글 5 · ER 4.1% · 평소대비 2.2x (D+25)"
+      "last_written_reaction": "조회 2,350 · 좋아요 50 · 댓글 5 · ER 4.2% · 평소대비 2.3x (D+26)"
     }
   ],
   "flags": {
@@ -240,5 +246,5 @@
   },
   "child_db_id": "e2539eba-97ed-836d-9312-81c0f461e3bd",
   "followers": 1313,
-  "last_written_score": 227
+  "last_written_score": 229
 }

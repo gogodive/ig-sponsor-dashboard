@@ -25,7 +25,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-29T17:33:14.000Z",
       "permalink": "https://www.instagram.com/p/DbYqPjgD1Fa/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEVs4BflYtR7iKAPXPcswjg9BMUXNwAkVEYkXTEdOsBb91H8cF_7MztPJBo7YGI550&_nc_ohc=SAsRmpqjbZgQ7kNvwF3rHC8&_nc_gid=9GqIzOHhYQvpOHkncWlA4Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE2uPwFJ420PGc2vzS4Myitr9KkFby5wvJkAgU79bKIMA&oe=6A7426F5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHftvkbYncbUAyIhYw4xKmn3jefMgDz2cK2j9yMIlchKEXyVQZPR40n6RpIhGR99Fs&_nc_ohc=kQwp5y4YxesQ7kNvwHHKsHM&_nc_gid=8Vw8rIbId_JhwOmLP6LSWw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHkCQQvZPQrL7z8Ya0Q8F9M4fq7Kh_1lWjWX7tMKriGTA&oe=6A757875&_nc_sid=c6f216",
       "caption": "#광고 이번 여름휴가🏄‍♀️🏖️\n바다 놀러갈때 필수품 스노클+마스크\n맨날 쿠팡에서 저렴이만 쓰다가, \n\n@intotheblue_store 에서 겟한\n고고젤로 마스크🤿+에어로 스노클🐟로\n편하게 물놀이 하고 왔다.\n\n스노클 제품은 소프트한 실리콘 마우스피스로\n입에 따로 힘을 주지않아도 호흡이 편했고😌,\n\n스노클이 혹시나 마스크에서 떨어져도\n가라앉지 않도록 설계된 앙성부력 제품으로🫧,\n분실위험도 최소화 시킨 제품이었다!\n\n마스크는 시야도 깨끗하고,\n동양인 얼굴에 맞춘 디자인으로 \n코가 끼지않고 깔끔하게 옆에\n광대부분도 남는 부분없이 착!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": -1,
           "comments": 5
+        },
+        {
+          "d": "2026-08-03",
+          "views": null,
+          "likes": -1,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 117.5,
         "n": 8,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.002795248078266946,
         "vs_baseline": 0.03404255319148936,
         "cost_per_eng": 25750.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+3)",
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.03배로 성과 극히 저조, 참여 1건당 25,750원은 팔로워 1,431명 소규모 계정치고 비효율적이나 D+3 초기 단계로 추이 모니터링 필요.",

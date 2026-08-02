@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:17:27.000Z",
       "permalink": "https://www.instagram.com/p/Da-dBZdme7v/",
-      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyxd1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGmOzMsLd929-4lmk5Udakk-oajMnU_cr4exch3BBjxpFKG5rZcmZfqVi-o8-dq4eg&_nc_ohc=JlCgCAoYQ0UQ7kNvwG40dP3&_nc_gid=Crk-PTIzmQTfAHlvSbxZKQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGkhSEPfZDn0kMVl5rsn2jicym_L93R9J0O8zcs3bu-5Q&oe=6A7450BF&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.foax2-1.fna.fbcdn.net/v/t51.82787-15/753053026_18610496572019581_7897639999596123799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.foax2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gE09yJ4bGTUOahB9JUfdWsQ27JQD78-qKM_RT_g2bpto7tjGBP8pCYruXiLRliDz7E&_nc_ohc=CuVcXs8rPr8Q7kNvwEeVT38&_nc_gid=KsP-OsCGgR07oXF1CXe_IQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGaDvN9VqDO0uMVy46F2NlIjSCmMTjnsaAwVdbIC7v5VQ&oe=6A75A23F&_nc_sid=c6f216",
       "caption": "Dive into the Blue. 🌊 @gogodive \n\n평생 한번쯤 꼭 해보고 싶은 취미로 #프리다이빙 을 떠올리시는 분 많더라구요. \n\n언제까지 미룰 생각이죠…? 😤 \n\n제가 함께한 #고고다이브 는 회원 40,000명 국내 최대 규모 #다이빙 커뮤니티이자 정부 등록 수중레저 교육기관입니다 ✨\n\n저는 김세인 강사님 @pongdang.ping 과 함께 했는데요 🫧  호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 자세히 알려주시고, 구체적",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 280,
         "comments": 19
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -101,16 +101,22 @@
           "views": null,
           "likes": 280,
           "comments": 19
+        },
+        {
+          "d": "2026-08-03",
+          "views": null,
+          "likes": 280,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 285,
         "n": 9,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.009911164147440997,
         "vs_baseline": 1.0491228070175438,
@@ -124,9 +130,14 @@
           "one_liner": "평소 대비 0.95x로 평균 수준 유지 중이나, 참여 1건당 1,345원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
           "days": 4,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.05배 수준의 무난한 반응이나, 참여 1건당 비용 1,304원으로 가성비는 보통—팔로워 규모 감안 시 후반 추가 확산 여부가 최종 효율을 가를 것.",
+          "days": 14,
+          "analyzed_at": "2026-08-03T06:58:43.658866+09:00"
         }
       },
-      "last_written_reaction": "좋아요 280 · 댓글 19 · ER 1.0% · 평소대비 1.0x (D+13)"
+      "last_written_reaction": "좋아요 280 · 댓글 19 · ER 1.0% · 평소대비 1.0x (D+14)"
     }
   ],
   "flags": {

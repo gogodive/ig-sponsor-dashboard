@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T22:47:34.000Z",
       "permalink": "https://www.instagram.com/p/DawBfxpkyeQ/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFVhOGn7MasF0H35_nkPRABT3nGVrhJrHlND-kQuzLG80X0S2l6H2fry5QymTOP-8It0fFtXpcsbcsK6rvVQ_N8&_nc_ohc=JWUvGkA9hi0Q7kNvwHY-lHJ&_nc_gid=nwzfDrJeBJNKH5MBtEyo6g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHcmtfBcpWo1PLwQoIs-gz6rZ7XNlWGBQkC0yOrWGRcQA&oe=6A74493C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbri2-1.fna.fbcdn.net/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbri2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gEWOsEtzyoHlyP9sF-fiGW3d6fmLcqEoI9ZisYQPBCcnCAONAXxxV53ibQKenQy9qY&_nc_ohc=JWUvGkA9hi0Q7kNvwGt6xeF&_nc_gid=sl_7HBo_zMdbQjhvDo2KBw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFUot8qaPkyogx-OJnRrMGhLqP20WwWjNkp7V67fuIkpg&oe=6A759ABC&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n윤슬 에메랄드✨\n\n에메랄드빛 그라데이션이 매력적인 아이..\n예전 코튼캔디 출시되자마자 글로시하누매력에 한눈에 반해 구매했었는데😍\n윤슬 에메랄드는 메탈릭 원사가 은은하게 반짝이는 완전 다른 느낌임\n\n더블크로스백이라 안정적이어서 실내수영에도 무리없고 요캉스에도 다 잘어울리는걸🥰\n\n#라세린 #라세린수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yang",
       "metrics": {
-        "likes": 247,
+        "likes": 249,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -101,20 +101,26 @@
           "views": null,
           "likes": 247,
           "comments": 21
+        },
+        {
+          "d": "2026-08-03",
+          "views": null,
+          "likes": 249,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 233.0,
         "n": 12,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
-        "er": 0.024983686025915913,
-        "vs_baseline": 1.150214592274678,
-        "cost_per_eng": 294.7761194029851,
+        "er": 0.025170131444019764,
+        "vs_baseline": 1.1587982832618027,
+        "cost_per_eng": 292.5925925925926,
         "cost_per_view": null
       },
       "analysis": {
@@ -131,7 +137,7 @@
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 247 · 댓글 21 · ER 2.5% · 평소대비 1.2x (D+18)"
+      "last_written_reaction": "좋아요 249 · 댓글 21 · ER 2.5% · 평소대비 1.2x (D+19)"
     }
   ],
   "flags": {
@@ -142,5 +148,5 @@
   },
   "child_db_id": "afc39eba-97ed-826a-9ec6-014ca984c684",
   "followers": 10727,
-  "last_written_score": 115
+  "last_written_score": 116
 }

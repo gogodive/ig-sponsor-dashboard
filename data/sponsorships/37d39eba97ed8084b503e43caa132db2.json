@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-09T14:58:27.000Z",
       "permalink": "https://www.instagram.com/p/Dak3y2QhZiV/",
-      "thumbnail": "https://instagram.fmxp11-1.fna.fbcdn.net/v/t51.82787-15/743992508_17985251448009166_6733640279084485394_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmxp11-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFHJwOnQCH1fzeNlaWq4X8a8GeHedCjlhx80_6DD0esyb1ZtXCAq1wibOXdYKrTzN4&_nc_ohc=hAl8OgO5KpkQ7kNvwGM0cHA&_nc_gid=205pEMHWNBqULSdb8h4Azw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF5r8_lMeiZ_b0ddqSgyWbFBEUW74GhLTkKtMRhfs0YcA&oe=6A7433C6&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyvr3-1.fna.fbcdn.net/v/t51.82787-15/743992508_17985251448009166_6733640279084485394_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyvr3-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFE-8QJZYBcWZU3SwcF9cP4CgzZoP_bs0LSWqF5ItNPLYppoYf4VS1gXopWdHgXje3Jaire8buWcoVFsa_x7ohq&_nc_ohc=hAl8OgO5KpkQ7kNvwFjhhak&_nc_gid=qFIogEoZGIiWMsQmxs71UQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFRagzHBFZj39pAcn8uYzvuQ3ynLiN_MSEuEk6ZTy7ULQ&oe=6A758546&_nc_sid=c6f216",
       "caption": "#제품제공\n\n@laserin_swim \n\n라세린 글리트 아이스모카 아이백\n\n아이스모카 어깨끈을 닮은 하늘빛🩵\n차분해보이면서도 산뜻한 어깨라인이 돋보여요. \n\n그런데,\n저 상체가 하체보다 더 더 더 까만데요?! ㅋㅋ\n글리트 아이스모카는 태닝 피부에 잘 어울려서 다행이에요. \n은근히 고급스럽게 반짝이는 글리트가 수영장에 반사되는 윤슬같기도 하네요✨\n\n아이백 너무 편하고 예쁘니까,\n워터파크에서도 거슬리지 않아요😉\n\n#라세린 #글리트아이스모카 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimmer_vivi",
       "metrics": {
-        "views": 3405,
+        "views": 3419,
         "likes": 161,
         "comments": 12
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -102,21 +102,27 @@
           "views": 3405,
           "likes": 161,
           "comments": 12
+        },
+        {
+          "d": "2026-08-03",
+          "views": 3419,
+          "likes": 161,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": 4383.5,
         "eng_median": 64.5,
         "n": 4,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.01865832614322692,
-        "vs_baseline": 0.7767765484202122,
+        "vs_baseline": 0.7799703433329531,
         "cost_per_eng": 228.32369942196533,
-        "cost_per_view": 11.600587371512482
+        "cost_per_view": 11.55308569757239
       },
       "analysis": {
         "one_liner": "평소 대비 0.77배 저조한 도달에 참여 1건당 465원·조회당 24.3원으로 비용 효율이 낮아 추가 모니터링 필요.",
@@ -127,7 +133,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 3,405 · 좋아요 161 · 댓글 12 · ER 1.9% · 평소대비 0.8x (D+23)"
+      "last_written_reaction": "조회 3,419 · 좋아요 161 · 댓글 12 · ER 1.9% · 평소대비 0.8x (D+24)"
     },
     {
       "notion_row_id": "94b39eba-97ed-8201-9f56-8153cdf2eb5f",
@@ -155,7 +161,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 41,
+      "days_since_post": 42,
       "computed": {
         "er": 0.032355478861087146,
         "vs_baseline": 1.5957446808510638,

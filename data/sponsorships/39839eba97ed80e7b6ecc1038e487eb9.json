@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:21:57.000Z",
       "permalink": "https://www.instagram.com/p/DbC97U-E8uX/",
-      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFHLeWsWe_RhnYXEZ_WJUH_us_s34TRV017VHKP6GHAuanohdGScjgNIBXNJnogUYw&_nc_ohc=JF1iXpYCs7sQ7kNvwGJSFho&_nc_gid=xfraUzgzvc9Mt_ZAEn87jA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH52KBWAbRJkoceHRUnWrPcOyyNFpPvp5uW1c9jG_9wdQ&oe=6A7441A5&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHC3Oik_roBYHUbxxkntIFoFJEkfOminiMVFOTPJpNqecBorf4Q1ftTOMc0g_33IFUc6cVmDzDC6pmHwOGhqq2l&_nc_ohc=LeastZc0l-YQ7kNvwFsNcwT&_nc_gid=PUNWHB1-DikkYx1C-DUAFg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHfo8AkjM3ggyA6vqH9vXe1n2s0E-2jxzvIZntG7pbCcg&oe=6A759325&_nc_sid=c6f216",
       "caption": "바다에서 입어보기전에 색감 핏 체크 완료 💖🩵\n\n#라세린 #비키니 #투피스 #울릉도바다 #제품제공",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 40
       },
-      "metrics_updated_at": "2026-08-02T06:59:26.504379+09:00",
+      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -101,16 +101,22 @@
           "views": null,
           "likes": -1,
           "comments": 40
+        },
+        {
+          "d": "2026-08-03",
+          "views": null,
+          "likes": -1,
+          "comments": 40
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14.0,
         "n": 8,
-        "captured_at": "2026-08-02T06:59:26.504379+09:00"
+        "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": 0.014806378132118452,
         "vs_baseline": 2.7857142857142856,
@@ -126,7 +132,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 40 · ER 1.5% · 평소대비 2.8x (D+11)"
+      "last_written_reaction": "좋아요 -1 · 댓글 40 · ER 1.5% · 평소대비 2.8x (D+12)"
     }
   ],
   "flags": {
