@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T07:35:05.000Z",
       "permalink": "https://www.instagram.com/p/DbKt3VVhd8V/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/755010633_18011128145928117_3659856463573465164_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEpOddWyz-5duEaqQhI_gSolwV4fdTUt61BXVuRcfu8l-AFI3GG82t6WUF1mn8U3r8&_nc_ohc=iQKifqRGXjIQ7kNvwE_MVwk&_nc_gid=vVzU59BVzmLTkHakZKgYWg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGNHk65-bzLVVnKIcmaneueGwGylXpRiMv-6Cy18AwbTA&oe=6A7588B9&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmil1-1.fna.fbcdn.net/v/t51.82787-15/755010633_18011128145928117_3659856463573465164_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmil1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEgRFPh1OrKt67xREvqP5NUgIaVaAlxAsHwiYo26KiK5oZ8dGsNKRLre9b-u8AoIPE&_nc_ohc=iQKifqRGXjIQ7kNvwFB_AUp&_nc_gid=nXPy64etCrC_wePJTtUiJg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFN3xJ98iuAlefbzPfWY7Y3ym6SZtAMtKuaA08J-lI1ug&oe=6A76DA39&_nc_sid=c6f216",
       "caption": "#제품제공 #라세린 \n.\n@laserin_swim \n.\n#라세린윤슬 에메랄드🩵💚\n자세한 후기는 피드게시물에 있어요~\n여행 가서 넘 이쁘게 입었던 #라세린수영복 이랍니다\n은은한 메탈릭포일수영복 찾으시면 추천드려요!✨\n.\n더빙릴스 이번엔 배속 없이 날것의 보이스로ㅎㅎ\n아직 어색하네요 발음도 뭉개지구요😂\n그래도 조금씩 재미 붙이는 중!\n아직 반응 볼 자신은 없어서 댓글창은 클로즈ㅋㅋ\n.\n.\n#수영복추천\n.",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yeon.swim",
       "metrics": {
-        "views": 2173,
+        "views": 2197,
         "likes": 124,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -78,6 +78,12 @@
           "views": 2173,
           "likes": 124,
           "comments": 0
+        },
+        {
+          "d": "2026-08-04",
+          "views": 2197,
+          "likes": 124,
+          "comments": 0
         }
       ],
       "baseline": {
@@ -87,12 +93,12 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 0.021200205163275775,
-        "vs_baseline": 1.109805924412666,
+        "vs_baseline": 1.1220633299284986,
         "cost_per_eng": 318.5483870967742,
-        "cost_per_view": 18.177634606534745
+        "cost_per_view": 17.979062357760583
       },
       "analysis": {
         "d3": {
@@ -101,7 +107,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 2,173 · 좋아요 124 · 댓글 0 · ER 2.1% · 평소대비 1.1x (D+9)"
+      "last_written_reaction": "조회 2,197 · 좋아요 124 · 댓글 0 · ER 2.1% · 평소대비 1.1x (D+10)"
     },
     {
       "notion_row_id": "cbc39eba-97ed-82fa-9186-81e17a6059e5",
@@ -137,7 +143,7 @@
         "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": true,
-      "days_since_post": 41,
+      "days_since_post": 42,
       "computed": {
         "er": 0.04342622670541973,
         "vs_baseline": 1.2124105011933175,
@@ -161,5 +167,5 @@
   },
   "child_db_id": "bec39eba-97ed-82c5-a89c-0169b8f3e378",
   "followers": 5849,
-  "last_written_score": 116
+  "last_written_score": 117
 }

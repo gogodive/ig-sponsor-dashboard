@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-03T07:42:06.000Z",
       "permalink": "https://www.instagram.com/p/DaUpbNFTtH_/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/730313392_18605428162053608_6539047259197005660_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHLmH-Xu__z3-ZbWL5R-PoMuLV1l8tQd0_nzlA6VveN_I8io5g6C0_-m8unOhGlvWw&_nc_ohc=8sJZzsg_LjQQ7kNvwF9yvpI&_nc_gid=IWabm3IzUPQLCA5k-2Teig&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFkzp_KR8bQHI4wbD0pl_TfngBM7n9VqZA83b6dO0-avg&oe=6A75A40B&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd10-1.fna.fbcdn.net/v/t51.82787-15/730313392_18605428162053608_6539047259197005660_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsyd10-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF1gz4KbndVhOlvlPj1psco0qYP3Ufu_gqPL00s4JkGQ-5xYdMLVKThU-rfRhHCK0o&_nc_ohc=Rl649GGBpREQ7kNvwGQB_Kl&_nc_gid=4XqPW5px8yNtCxXgWwZgyg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG5NWNZ9BTs11yiD-zecT0nPJ466YEU56OfxJltaxsXqA&oe=6A76F58B&_nc_sid=c6f216",
       "caption": "완투뜨리뽀 둔땍땍둔땍〰️\n수영장과 세트같은 라세린🩵🤎\n\n✿ @laserin_swim ✿\n- 글리트 아이스모카 ⋆˙⟡♡\n\n#라세린 #수영복 #수영복코디 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -116,8 +116,8 @@
         "n": 3,
         "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.04350952894642215,
         "vs_baseline": 3.2932493603621333,
@@ -131,9 +131,11 @@
           "one_liner": "평소 대비 3.47배 조회·참여율 4.28%로 협찬 효과 뚜렷하며, 조회당 4.8원·참여당 664원은 팔로워 규모 감안 시 양호한 효율.",
           "days": 20,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "조회수 16,733회·참여율 4.35%로 평소 대비 3.29배의 확산을 기록했으며, 조회당 비용 2.4원·참여당 비용 326원은 소규모 인플루언서 협찬 기준으로 효율적인 수치다. 상품 가액 79,000원에 비해 팔로워 2,781명 계정에서 이 정도 도달과 참여를 끌어낸 것은 단순 노출 비용 관점에서 명백히 긍정적이다. 다만 베이스라인 샘플(n=3)이 적어 평소대비 배수의 신뢰도가 낮고 전환 데이터가 없으므로 실매출 기여는 별도 추적이 필요하나, 브랜드 인지 확산 목적으로는 비용 대비 충분한 가치를 확인했다.",
+        "final_at": "2026-08-04T07:11:20.543194+09:00"
       },
-      "last_written_reaction": "조회 16,733 · 좋아요 100 · 댓글 21 · ER 4.4% · 평소대비 3.3x (D+30)"
+      "last_written_reaction": "조회 16,733 · 좋아요 100 · 댓글 21 · ER 4.4% · 평소대비 3.3x (확정)"
     },
     {
       "notion_row_id": "39539eba-97ed-825e-a771-81c3c6d63404",
@@ -175,7 +177,7 @@
         "captured_at": "2026-07-24T07:08:02.071261+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.04890327220424308,
         "vs_baseline": 0.6476190476190476,

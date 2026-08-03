@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-09T03:14:47.000Z",
       "permalink": "https://www.instagram.com/p/DajoGiNAVLT/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEkQE7LyMC9dvrA6cuHfo_99jqvbtDC-WPIQ6xRJJXjLau8fcn_ZeTDswnH4uSqnRM&_nc_ohc=LBsvQH7jFVMQ7kNvwHYX-dC&_nc_gid=O-W0xPpyMEJZZhD1-LnOGg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF3DfInBYsN76h4PXOBUfm31EKdJ5419IQAxEWdMKol5g&oe=6A7588AD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/740390523_18090605012626958_1074435221604775359_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFmzzSMm5OZ5wmlT-g_zWtinRtjHTulgKn1x58hRwIfXczYFnuy4XIR_Na8X7gocrQ&_nc_ohc=oIoA7LgtMyMQ7kNvwH4eVOv&_nc_gid=MF8850H2vXyOE4ht51qUeQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFn_hb3MZA83EPmnAq90vXDB7pKR-DW_ju_n7cCHAIJ_w&oe=6A76DA2D&_nc_sid=c6f216",
       "caption": "-\n배우고 싶다는 생각만 하다가 드디어 다녀온 프리다이빙 첫 수업이에요!\n\n어릴 때 수영을 배워서 물이 낯설진 않았지만, 숨을 참고 깊이 들어가는 건 또 다른 이야기더라고요. 두려움은 여전히 있었어요🥺\n\n수업은 3시간 동안 진행됐는데, 송병후 선생님께서 물에 들어가기 전 호흡법과 이론을 먼저 설명해주시고, 숨 참기 연습부터 시작해 차근차근 단계를 높여주셨어요. 덕분에 어렵지 않게 초급 수업을 들을 수 있었어요, 정말 감사했습니다✨\n\n그런데 생각보다 두려움보다 흥미가 훨씬 크더라고요. 하다 보니 더 잘하고 싶다는 마음이 자꾸 커졌어요",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 27
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -107,16 +107,22 @@
           "views": null,
           "likes": -1,
           "comments": 27
+        },
+        {
+          "d": "2026-08-04",
+          "views": null,
+          "likes": -1,
+          "comments": 27
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 13.0,
         "n": 12,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.00033647375504710633,
         "vs_baseline": 2.0,
@@ -132,7 +138,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 27 · ER 0.0% · 평소대비 2.0x (D+24)"
+      "last_written_reaction": "좋아요 -1 · 댓글 27 · ER 0.0% · 평소대비 2.0x (D+25)"
     }
   ],
   "flags": {

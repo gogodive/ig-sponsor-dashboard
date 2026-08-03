@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T09:27:14.000Z",
       "permalink": "https://www.instagram.com/p/DbDMQ_mEXrY/",
-      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpoz5-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHwDo56phS15mp8NgQD2zbiIHJZEk9pPKERFI4SxVuk1bx8kEGOwUrIrcP0Ykx1tZQ&_nc_ohc=ENQj2krxw1QQ7kNvwGPi3nj&_nc_gid=d9Hl8UzXduE5EtDKaCpwaw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGswsNnG6ySGblhn045OWGuVr3Za3AinswsthIAnQX5bw&oe=6A759625&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFSwpyEXw-NaHNljRzDqx_Crbgw2ejaj6SR_UC6FFNeOpo0YHYYVoHqie-EiBwSsJU&_nc_ohc=Ei5aSoDPhz4Q7kNvwExpa3B&_nc_gid=RH_DxKd5LSmps1ndECcZlA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGsZs2qLicKF3i47vISCu3tYggE5gmhdr5sMe7DmvGrIQ&oe=6A76E7A5&_nc_sid=c6f216",
       "caption": "#협찬  @laserin_swim \n진짜 너무 예쁘자나 이수영복?\n너무 좋아하는 색 조합💚🩷\n\n울릉도 또와야지~~💦",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 68,
         "comments": 3
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -107,16 +107,22 @@
           "views": null,
           "likes": 68,
           "comments": 3
+        },
+        {
+          "d": "2026-08-04",
+          "views": null,
+          "likes": 68,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 114.5,
         "n": 12,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.1337099811676083,
         "vs_baseline": 0.6200873362445415,
@@ -132,7 +138,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 68 · 댓글 3 · ER 13.4% · 평소대비 0.6x (D+12)"
+      "last_written_reaction": "좋아요 68 · 댓글 3 · ER 13.4% · 평소대비 0.6x (D+13)"
     }
   ],
   "flags": {

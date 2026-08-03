@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-04T13:42:18.000Z",
       "permalink": "https://www.instagram.com/p/DaX38T9iRSL/",
-      "thumbnail": "https://instagram.fyxd4-1.fna.fbcdn.net/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyxd4-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHzdJrKUoJ9kDRzz6d7-xQYkAdZjyeHieEBF9Uxv0RqAj--855eoAk1EnH1wjoLrFw&_nc_ohc=no1wBWxZYg0Q7kNvwHRTamM&_nc_gid=cPE9IghbUPsREVYewxW4gg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFoowA_xUnF8oj2LmjEjpRUPmuHl82h9ICuA1GTrHP9Iw&oe=6A7594D1&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmel5-1.fna.fbcdn.net/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmel5-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gH5ij2T2e_kboFDJ9txq8oAHnfPKwoMvTt7LQJ8W_e9ffF5cQq9dXuFij0WHlj5GKY&_nc_ohc=no1wBWxZYg0Q7kNvwFvpGhJ&_nc_gid=i7xPaZqy4uh37s-VKzSc6Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE5Y8B_3hjtQmOfQpl5FUj7hSVS8VQw9v5qYp5bOs5v6g&oe=6A76E651&_nc_sid=c6f216",
       "caption": "토요일 순삭 \n주말은 너무 바ㅃ r 그래서 좋아 ..ღ \n\n캡내장에 재질 미쳤고 너무 편한 나시는 \n@secrets__fit ✨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "__hyeri2",
       "metrics": {
-        "likes": 1457,
+        "likes": 1462,
         "comments": 29
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -107,20 +107,26 @@
           "views": null,
           "likes": 1457,
           "comments": 29
+        },
+        {
+          "d": "2026-08-04",
+          "views": null,
+          "likes": 1462,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 1184.0,
         "n": 12,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.008601677500766973,
-        "vs_baseline": 1.2550675675675675,
-        "cost_per_eng": 81.09017496635262,
+        "er": 0.008630619888050845,
+        "vs_baseline": 1.2592905405405406,
+        "cost_per_eng": 80.81824279007378,
         "cost_per_view": null
       },
       "analysis": {
@@ -132,7 +138,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 1,457 · 댓글 29 · ER 0.9% · 평소대비 1.3x (D+29)"
+      "last_written_reaction": "좋아요 1,462 · 댓글 29 · ER 0.9% · 평소대비 1.3x (D+30)"
     }
   ],
   "flags": {

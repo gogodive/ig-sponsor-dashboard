@@ -20,8 +20,8 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": true
+    "account_unavailable": false
   },
   "child_db_id": null,
-  "followers": null
+  "followers": 7727
 }

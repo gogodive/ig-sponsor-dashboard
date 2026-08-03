@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T09:23:45.000Z",
       "permalink": "https://www.instagram.com/p/DahtiGvIDUa/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGnqN2100IfVhd7dcy93HomfFXGvjTxt-pSE1m7Fj5wi8vO5MlQ07MKoWQW7YpOokI&_nc_ohc=0YY0c5bKZKYQ7kNvwHGwAEh&_nc_gid=-QJPTPTaG63l7PsYaHuTrw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFm9kJEiaf4MViKJ4CRMQzbsJeOR2AcewFlO4Ux2iJnrg&oe=6A75A1E9&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.82787-15/735801641_18414558370146076_4369969130691625951_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEDfd-1Eje6Anx3jx1jsruDuFobIYM2ge5bOA_mmC57q0alfBy5ttGpbzbw2nESTXBO6LVNRInBFl0_t7qUbKLD&_nc_ohc=3RVa8D-Uy70Q7kNvwEj9VHf&_nc_gid=d_1nxJC9AeH6cXhK7ggJpA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEzlnAgPxsH0fKs05pBkuhoo4RKkxB8yz8zcABz29lZ5A&oe=6A76F369&_nc_sid=c6f216",
       "caption": "#광고 \n\n편한데 예쁘기까지 한 🏷️ @secrets__fit \n\n#시크릿스 #부츠컷레깅스 #에슬레저룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 4
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -107,16 +107,22 @@
           "views": null,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-08-04",
+          "views": null,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14.5,
         "n": 8,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0002845759817871372,
         "vs_baseline": 0.20689655172413793,
@@ -132,7 +138,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.0% · 평소대비 0.2x (D+25)"
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.0% · 평소대비 0.2x (D+26)"
     }
   ],
   "flags": {

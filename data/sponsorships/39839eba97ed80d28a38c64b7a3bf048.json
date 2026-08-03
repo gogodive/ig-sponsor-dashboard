@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-21",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
-        "er": 0.02782939371677974,
-        "vs_baseline": 0.9735449735449735,
-        "cost_per_eng": 295.03105590062114,
+        "er": 0.028131887126744737,
+        "vs_baseline": 0.9841269841269841,
+        "cost_per_eng": 291.8586789554532,
         "cost_per_view": null
       },
       "posted_at": "2026-07-21T02:44:17.000Z",
       "permalink": "https://www.instagram.com/p/DbCeJqAGFig/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEO8k6hIkC8IeWcrT1QKxKTqhknVrap-BtAipdbUmzUt5Yb8IKph3axYNHNyYKzehM&_nc_ohc=fPuJIOZG2Q4Q7kNvwEOk-SB&_nc_gid=2U3VnfQ46x1Gm-qrE2sO1A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEgPjuwwYDe8Hc002lJ2YS1Vm5Qx60m-Ob6ng1NvzhSLQ&oe=6A757836&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NTg0NjEyNDI0MDg1ODg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DZ_hN22IVwoQ7kNvwEtah_U&_nc_oc=AdrmmGxxjQzBiPEBaEgh98oNR8wMdVHcsmXSMETiDimtjseK7gXc0IFLg2A5gcmMcFk&_nc_zt=23&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=SvdrWX2zkE5GI9S1UEJPPA&_nc_ss=72a8c&oh=00_AQEnFG3x6ULX2C0Jsgmyc5UB4W4bmCj3VlTfUp7o_x216A&oe=6A7701F6",
       "caption": "바다수영 추천템 모음zip. 🌊😎⛱️🍉🏊🏻‍♀️\n\n@intotheblue_store \n✷ 딥바이브 프리다이빙 웻슈트 스프링 2mm\n\n슈트 = 살 안 타, 안 추워 아이템 •• 🫶🏻\n\n래쉬가드 말고 스프링슈트 !\n\n래쉬가드는 물에 젖으면 찝찝하고 금방 추워지는데,\n스프링슈트는 몸에 착 감기면서 뽀송하고 훨씬 따뜻해요 💓\n\n여름에도 바닷물은 차가와 ❄️❄️❄️\n\n2mm 두께라 사계절 내내 부담 없이 입기 좋고,\n바다수영은 물론 한강수영, 프리다이빙, 스노클링까지 은근 활용도가 정말 높아요 👀\n\n(매번 대여하는 것 보다 하나 장만해두는게",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim.__.hey",
       "metrics": {
-        "likes": 595,
+        "likes": 602,
         "comments": 49
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -103,13 +103,19 @@
           "views": null,
           "likes": 595,
           "comments": 49
+        },
+        {
+          "d": "2026-08-04",
+          "views": null,
+          "likes": 602,
+          "comments": 49
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 661.5,
         "n": 12,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "analysis": {
         "d3": {
@@ -118,7 +124,7 @@
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
         }
       },
-      "last_written_reaction": "좋아요 595 · 댓글 49 · ER 2.8% · 평소대비 1.0x (D+12)"
+      "last_written_reaction": "좋아요 602 · 댓글 49 · ER 2.8% · 평소대비 1.0x (D+13)"
     }
   ],
   "flags": {
@@ -129,5 +135,5 @@
   },
   "child_db_id": "7c939eba-97ed-83b0-a9d2-817f2ae515f8",
   "followers": 23141,
-  "last_written_score": 97
+  "last_written_score": 98
 }

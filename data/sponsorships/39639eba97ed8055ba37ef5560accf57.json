@@ -25,17 +25,17 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T11:50:01.000Z",
       "permalink": "https://www.instagram.com/p/DbVcUZ5TvG0/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHgwTBxsMHqYM_J0S10DzngiyflX_UflfgB9Gbbqt1Jxr0sSTp6iszDIInhuY5R9G8&_nc_ohc=gdkNRnynoRIQ7kNvwEPZXSA&_nc_gid=1lIMIl8B_XI1aQBADqA8gA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEsQwNPib_j-BLprh61A49pv_u7hC1TILXjan7VkCxWyg&oe=6A757A72&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyaw1-1.fna.fbcdn.net/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyaw1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gF8oTzjVIICEycoFkflWDNCAez08OItfjvpq7p5ASnKFoieoQ1T34_vVU8uRwlM2v0&_nc_ohc=gdkNRnynoRIQ7kNvwGSlal7&_nc_gid=-d0bUgtpvRXJcx_bm7D2Dw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH_EqFYYeV38V2_O6uJY0VuWnoNcBiwY4xFz3Y02cHOuA&oe=6A770432&_nc_sid=c6f216",
       "caption": "🩵💦🤿🧜🏼‍♀️협찬\n@gogodive \n\n수영할줄 안다고 쉽게봤다가\n코만 열심히 쥐어짜고 옴!👃💥\n\n수영 잘하면\n프리다이빙도 껌일 줄 알았던 과거의 나,\n반성해라... 😇\n\n물 안 무서워하는 거랑\n5m 내려가는 건 완전히 별개였다..헤헿\n\n1️⃣ 프리이멀전\n내 귀가 내 말을 안 들음. 3m 내려갔나?\n귀 찢어질 거 같아서 중도 하차 😭 (최고 난이도)\n\n2️⃣ 덕다이빙\n몸 쓰는 건 수영 짬바로 어찌저찌 잘 꺾었는데... \n네, 역시나 이퀄라이징 벽에 막혀 5m 실패 📉\n\n3️⃣ 다이나믹 \n와.. 이거 하려고 프다하는구나!!\n수평으로",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimmingjourney_daily",
       "metrics": {
-        "views": 5617,
-        "likes": 104,
+        "views": 5900,
+        "likes": 107,
         "comments": 18
       },
-      "metrics_updated_at": "2026-08-03T06:58:43.658866+09:00",
+      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -66,23 +66,29 @@
           "views": 5617,
           "likes": 104,
           "comments": 18
+        },
+        {
+          "d": "2026-08-04",
+          "views": 5900,
+          "likes": 107,
+          "comments": 18
         }
       ],
       "baseline": {
         "views_median": 7510,
         "eng_median": 190,
         "n": 11,
-        "captured_at": "2026-08-03T06:58:43.658866+09:00"
+        "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
-        "er": 0.02509255450431921,
-        "vs_baseline": 0.747936085219707,
-        "cost_per_eng": 3196.72131147541,
-        "cost_per_view": 69.43208118212569
+        "er": 0.025709584533113946,
+        "vs_baseline": 0.7856191744340879,
+        "cost_per_eng": 3120.0,
+        "cost_per_view": 66.10169491525424
       },
-      "last_written_reaction": "조회 5,617 · 좋아요 104 · 댓글 18 · ER 2.5% · 평소대비 0.7x (D+5)",
+      "last_written_reaction": "조회 5,900 · 좋아요 107 · 댓글 18 · ER 2.6% · 평소대비 0.8x (D+6)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.67x로 저조한 출발—참여 1건당 3,611원·조회당 77.7원은 팔로워 규모 대비 비용 효율 개선이 필요하다.",
@@ -100,5 +106,5 @@
   },
   "child_db_id": "15539eba-97ed-8298-b9ca-01716c7f563b",
   "followers": 4862,
-  "last_written_score": 75
+  "last_written_score": 79
 }
