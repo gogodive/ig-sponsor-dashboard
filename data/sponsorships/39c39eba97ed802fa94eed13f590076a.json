@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T05:49:07.000Z",
       "permalink": "https://www.instagram.com/p/DbCyq_VTLUH/",
-      "thumbnail": "https://instagram.fcdg4-1.fna.fbcdn.net/v/t51.82787-15/754143209_17888276841667398_8176101706222131498_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fcdg4-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFv6HMlmd02FBmLycR3zojpE0puU-5cRplXgVEwNVbczHfI_4E9eBL_J1IV5SkIO4E&_nc_ohc=8m0rUdXItYsQ7kNvwE8Dea0&_nc_gid=eQ2PsBCsPx7DNLcdOKFKVg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGEzcIBSX3hadT_GYxQB3QN5fbkBvr7jXHhZCyTkVnFww&oe=6A76D927&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fzmm2-1.fna.fbcdn.net/v/t51.82787-15/754143209_17888276841667398_8176101706222131498_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fzmm2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFBzfGamugk_OSpjY_uz99-GV4QlG5GrY9NAtE2vsbhIcz90YX3nzFEvaa44qa7qOI1zTO8WakYyTK5iq65dT7q&_nc_ohc=8m0rUdXItYsQ7kNvwGMc21a&_nc_gid=In9nX44pFXR4lUL39Dy2xg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEsFHPjFL_MZpYXEycsb3gQuZIeqg2aIWnKx2Pvwh7noQ&oe=6A782AA7&_nc_sid=c6f216",
       "caption": "#협찬 은은한 반짝임이 매력적인 라세린 글로우펄✨\n디자인, 착용감 모두 너무 만족스러운\n인생 포일 수영복 등극 🫧🥹👙\n\n#라세린 #라세린글로우펄 #라세린수영복 #수코디",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "zezeswimm",
       "metrics": {
-        "views": 2432,
+        "views": 2438,
         "likes": 49,
         "comments": 36
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -114,21 +114,27 @@
           "views": 2432,
           "likes": 49,
           "comments": 36
+        },
+        {
+          "d": "2026-08-05",
+          "views": 2438,
+          "likes": 49,
+          "comments": 36
         }
       ],
       "baseline": {
         "views_median": 8690.5,
         "eng_median": 125.5,
         "n": 8,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.10023584905660378,
-        "vs_baseline": 0.2798458086416202,
+        "vs_baseline": 0.28053621770899256,
         "cost_per_eng": 405.88235294117646,
-        "cost_per_view": 14.185855263157896
+        "cost_per_view": 14.150943396226415
       },
       "analysis": {
         "one_liner": "평소 대비 23% 수준의 저조한 조회 확산에 참여당 비용 1,643원으로 소규모 계정 협찬 효율이 기대 이하임.",
@@ -137,9 +143,14 @@
           "one_liner": "평소 대비 0.21x의 저조한 반응으로 조회당 비용 32.9원·참여당 비용 1,643원 모두 비효율적, 추가 액션 검토 필요.",
           "days": 3,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.28x로 부진한 조회 성과지만, 참여율 10%·1건당 406원은 소규모 계정 효율로 수용 가능한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 2,432 · 좋아요 49 · 댓글 36 · ER 10.0% · 평소대비 0.3x (D+13)"
+      "last_written_reaction": "조회 2,438 · 좋아요 49 · 댓글 36 · ER 10.0% · 평소대비 0.3x (D+14)"
     },
     {
       "notion_row_id": "fd839eba-97ed-83ff-869e-0182d66aa489",
@@ -150,7 +161,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T05:35:41.000Z",
       "permalink": "https://www.instagram.com/p/DbCxxBWE4Dh/",
-      "thumbnail": "https://instagram.fagp3-1.fna.fbcdn.net/v/t51.82787-15/751738107_17887846668667398_3106880117708676801_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagp3-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEFINiXGEHpK9Dl2J0GegwpBQzVoYzlk5TjOkrtUQFhXaJUqpcsZ_dCDLFxMETHyYI&_nc_ohc=VOCLmIR0khwQ7kNvwGyoNDH&_nc_gid=4nptUKKlsHcUXJNvOULtAw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG2y3YSt985n03QEQoakYDT5FrhOW2Fb4MKQ69GPgr6ow&oe=6A770193&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyto1-2.fna.fbcdn.net/v/t51.82787-15/751738107_17887846668667398_3106880117708676801_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyto1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFLg24JikqFGDljltUjx7-_zc6mNowpV_0tMorHFkJM9EwUkTZO_-U_nOTfZESDilc&_nc_ohc=iyzGhzj9vSkQ7kNvwE1tOL3&_nc_gid=AfSpPy2lhzZFXsjmeqfKgg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGzbD27Xc7QiUDbb5gPkARvd3pev0oG8nl7jNBQm6SDlw&oe=6A785313&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n✨은은하게 반짝이는 라세린 글로우펄 더블크로스백✨\n\n포일 수영복은 처음이라\n처음에는 조금 화려하지 않을까 생각했는데, \n막상 착용해보니 물속과 조명 아래에서\n은은하게 빛나는 정도라 전혀 부담스럽지 않았어요.\n\n가슴과 레그컷 모두 미들컷이라\n수영할 때 움직임도 편하고 안정적으로 몸을 잡아줘요.\n\n평소 타이트한 착용감을 선호하는 편이라\nXS 사이즈를 선택했는데 제 기준에는 잘 맞았습니다!\n\n키 161, 몸무게 52, 토르소 143\n타사 수영복 사이즈 26, XS~S\n\n#라세린 #라세린글로우펄 #수코디 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -159,7 +170,7 @@
         "likes": 58,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -238,16 +249,22 @@
           "views": null,
           "likes": 58,
           "comments": 10
+        },
+        {
+          "d": "2026-08-05",
+          "views": null,
+          "likes": 58,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 76,
         "n": 9,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.08018867924528301,
         "vs_baseline": 0.8947368421052632,
@@ -261,9 +278,14 @@
           "one_liner": "평소 대비 0.89x로 소폭 하회하나, 참여당 비용 1,095원·참여율 7.4%는 초소형 계정 기준 양호한 초기 출발.",
           "days": 3,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.89x로 소폭 미달이나 팔로워 848명 대비 참여율 8%·건당 507원은 소규모 계정 효율로 양호한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "좋아요 58 · 댓글 10 · ER 8.0% · 평소대비 0.9x (D+13)"
+      "last_written_reaction": "좋아요 58 · 댓글 10 · ER 8.0% · 평소대비 0.9x (D+14)"
     }
   ],
   "flags": {

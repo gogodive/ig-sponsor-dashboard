@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-04T13:42:18.000Z",
       "permalink": "https://www.instagram.com/p/DaX38T9iRSL/",
-      "thumbnail": "https://instagram.fmel5-1.fna.fbcdn.net/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmel5-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gH5ij2T2e_kboFDJ9txq8oAHnfPKwoMvTt7LQJ8W_e9ffF5cQq9dXuFij0WHlj5GKY&_nc_ohc=no1wBWxZYg0Q7kNvwFvpGhJ&_nc_gid=i7xPaZqy4uh37s-VKzSc6Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE5Y8B_3hjtQmOfQpl5FUj7hSVS8VQw9v5qYp5bOs5v6g&oe=6A76E651&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fnap3-1.fna.fbcdn.net/v/t51.82787-15/730413705_18600751126008497_1916687664818381090_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fnap3-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHH_4e9kFC8X5clga9fs4NNyqDAGS1Qnp8LqLPide50UOWtuv_UazX0WszK7eO3TNg&_nc_ohc=Cj9n7T3j1zgQ7kNvwGy4AJf&_nc_gid=1NjRtE8LyGLyGn0kWO9qBw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHM1G-l1AWWKjYvasLR84Ke79v-9f_uW7FRUGg0EUsiMw&oe=6A7837D1&_nc_sid=c6f216",
       "caption": "토요일 순삭 \n주말은 너무 바ㅃ r 그래서 좋아 ..ღ \n\n캡내장에 재질 미쳤고 너무 편한 나시는 \n@secrets__fit ✨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -121,8 +121,8 @@
         "n": 12,
         "captured_at": "2026-08-04T07:11:20.543194+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.008630619888050845,
         "vs_baseline": 1.2592905405405406,
@@ -136,9 +136,11 @@
           "one_liner": "평소 대비 1.22배 참여로 준수한 반응이나, 팔로워 대비 참여율 0.86%는 업계 평균 하회—1건당 86원 비용 효율은 양호한 수준.",
           "days": 19,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 172,757명 규모 계정에서 평소 대비 1.26배의 참여 상승을 기록했으며, 참여 1건당 비용 81원은 인플루언서 마케팅 평균 대비 낮은 수준으로 비용 효율성은 양호하다. 다만 팔로워 대비 참여율 0.86%는 업계 기준(1~3%)에 미치지 못하는 수치로, 콘텐츠의 확산력보다는 기존 팬층 내 소비에 머문 것으로 보인다. 120,500원의 협찬 비용 대비 절대적 참여량(좋아요+댓글 1,491건)은 실속 있는 편이나, 다이빙·수영 카테고리 적합도와 실구매 전환 가능성을 함께 고려하면 재협찬 시 콘텐츠 방향성 개선이 전제되어야 투자 가치가 높아질 것이다.",
+        "final_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "last_written_reaction": "좋아요 1,462 · 댓글 29 · ER 0.9% · 평소대비 1.3x (D+30)"
+      "last_written_reaction": "좋아요 1,462 · 댓글 29 · ER 0.9% · 평소대비 1.3x (확정)"
     }
   ],
   "flags": {

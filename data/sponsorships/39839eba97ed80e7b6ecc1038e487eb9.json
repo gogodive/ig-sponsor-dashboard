@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:21:57.000Z",
       "permalink": "https://www.instagram.com/p/DbC97U-E8uX/",
-      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH2_ewIhKjDyoXB39o_StRwutuw6qjuzwraSSVMVRqrY9LesXl9ssSrhfIJ3VOrszk&_nc_ohc=LeastZc0l-YQ7kNvwGr3ZzT&_nc_gid=tvoeDdAx-KuzdRrzqhVCXQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHLvc1R_V3lS5jMPABauEPsNzHM_i_6EMemuLBqNxfM4Q&oe=6A76E4A5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/753260411_18606357994003984_1520360424477613294_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF1pntOzbnCYwWzm3A9VOqTx6BrqCFzUUaXEaTsdZ-FODinFamahlX2D_ayhsfK-vA&_nc_ohc=LeastZc0l-YQ7kNvwHDmNCM&_nc_gid=zwNcjKaSHG1ivVLzPs5zaA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHhTTuR1umZLyJQVEg0Fd7MinD6Q2TrUKvZ4ee69QU2sg&oe=6A783625&_nc_sid=c6f216",
       "caption": "바다에서 입어보기전에 색감 핏 체크 완료 💖🩵\n\n#라세린 #비키니 #투피스 #울릉도바다 #제품제공",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 40
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -113,16 +113,22 @@
           "views": null,
           "likes": -1,
           "comments": 40
+        },
+        {
+          "d": "2026-08-05",
+          "views": null,
+          "likes": -1,
+          "comments": 40
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14.0,
         "n": 8,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.014806378132118452,
         "vs_baseline": 2.7857142857142856,
@@ -136,9 +142,14 @@
           "one_liner": "평소 대비 2.71배 높은 참여로 긍정적 출발이나, 댓글 39건 중심의 낮은 팔로워 참여율(1.44%)과 건당 1,868원 비용은 추가 관찰이 필요하다.",
           "days": 3,
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 2.79배 참여율로 선방 중이나, 1건당 비용 1,821원은 소규모 계정 기준으로 개선 여지가 있음.",
+          "days": 14,
+          "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 40 · ER 1.5% · 평소대비 2.8x (D+13)"
+      "last_written_reaction": "좋아요 -1 · 댓글 40 · ER 1.5% · 평소대비 2.8x (D+14)"
     }
   ],
   "flags": {

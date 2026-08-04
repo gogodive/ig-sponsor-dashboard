@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:48:44.000Z",
       "permalink": "https://www.instagram.com/p/DbDAz5LTfnC/",
-      "thumbnail": "https://instagram.fsvq1-1.fna.fbcdn.net/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsvq1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGpaaX8fwYwa5wllvidWF13CSIAx1uQ50UMMTTaCvg_ep41YisK_w_lhRypz3gIIzg&_nc_ohc=swSvpEK5W5QQ7kNvwHUkaTJ&_nc_gid=dfW91HrMET_SkEZhy9ryNg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF52ufgqv0woeY8a_zuRyc7iUBOxDuqyhJbfdP-YY2Jhw&oe=6A76FA20&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEfdAW3gS_c60_bA-SZnb-BqsAFd_FUgmnwIdPOx3Nj8XJQvpyAKXOj4WN-AH-sdGI&_nc_ohc=swSvpEK5W5QQ7kNvwH55j15&_nc_gid=wQLkTjHE1B6Xn_GO6wZI_g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF3X7LyMPtV-ulA3MUy8XX2LtplTkXvB_fEfTRAeoX_Zg&oe=6A784BA0&_nc_sid=c6f216",
       "caption": "요즘 가장 자주 손이 가는 세트🤍\n\n시크릿스 리브 슬리브리스 SET\n\n편안한 착용감에 핏까지 예뻐서 데일리로 가볍게 입기 좋아요! 심플한 디자인이라 여기저기 매치하기도 쉬운 아이템✨",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": -1,
         "comments": 4,
-        "views": 1953
+        "views": 1975
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -114,15 +114,21 @@
           "views": 1953,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-08-05",
+          "views": 1975,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.00018162005085361425,
         "vs_baseline": null,
         "cost_per_eng": 18333.333333333332,
-        "cost_per_view": 28.161802355350744
+        "cost_per_view": 27.848101265822784
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 18,333원으로 팔로워 대비 참여율 0.04%에 그쳐 초기 반응이 극히 저조함.",
@@ -131,9 +137,14 @@
           "one_liner": "조회수 미집계·좋아요 오류로 실질 데이터 부재, 댓글 3건만 확인되어 참여 1건당 비용 55,000원으로 초기 성과 판단 불가 상태.",
           "days": 3,
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
+        },
+        "d14": {
+          "one_liner": "조회 1,975회·참여율 0.02%로 참여 1건당 비용 18,333원에 달해, 팔로워 대비 도달·반응 모두 극히 저조한 부진 게시물.",
+          "days": 14,
+          "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 1,953 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+13)"
+      "last_written_reaction": "조회 1,975 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+14)"
     },
     {
       "notion_row_id": "c3039eba-97ed-82a2-bcde-012a5d6c396b",
@@ -144,7 +155,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-06T05:59:29.000Z",
       "permalink": "https://www.instagram.com/p/DacMkNOE5rv/",
-      "thumbnail": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/740628529_18591997573062820_5028451802163316755_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGiy-Ul8367vMtZ-A2epOxnIFpvsXTyh4TrVXtgOU-HL34ls2kzJyEHGPF7kxhg3xs&_nc_ohc=SEwrEGeV8p8Q7kNvwGNlucm&_nc_gid=DY1ltKej3JvAZt7CTCS4jA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEbj6cf0Lma3JIv-8eF6aY1FIBQXOnzEvlt2UfHaAVeCw&oe=6A7701D9&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd7-1.fna.fbcdn.net/v/t51.82787-15/740628529_18591997573062820_5028451802163316755_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsyd7-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGbGRPi7k5UXNuuDd5Habmcf3Vbst1VMIMbLGn0rcHUhcXbz6lZytFnQguBWt-eAiYkELNWbvMJnHGo456tTfm4&_nc_ohc=SEwrEGeV8p8Q7kNvwGuXtp-&_nc_gid=dQ5FroJANp_QrDlYp5W1cQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHUG4hhvONP04zkFR3bmFXlAJr12a4wenhszI1MCC_1YA&oe=6A785359&_nc_sid=c6f216",
       "caption": "야~호~✌🏻\n\n운동 갈 때도, 잠깐 외출할 때도 그대로 입고 나가기 좋은 셋업!\n\n편안한 착용감에 핏까지 예뻐서 운동복으로도 \n데일리룩으로도 만족🤍\n\n🔗시크릿스 리브 슬리브리스 레이어드 팬츠 SET",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -153,7 +164,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -232,16 +243,22 @@
           "views": null,
           "likes": -1,
           "comments": 21
+        },
+        {
+          "d": "2026-08-05",
+          "views": null,
+          "likes": -1,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8.5,
         "n": 12,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.001210800339024095,
         "vs_baseline": 2.3529411764705883,
@@ -257,7 +274,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.4x (D+28)"
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.1% · 평소대비 2.4x (D+29)"
     }
   ],
   "flags": {

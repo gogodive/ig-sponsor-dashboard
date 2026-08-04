@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T05:28:33.000Z",
       "permalink": "https://www.instagram.com/p/DbH6ik5GN4D/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHpIj9LLfsmACFh26lAPW88R6Vz1bHhXJtmTtV3C6u_HUhDPe9YMgwqgRvZ__0XCbE&_nc_ohc=7NMQG4irticQ7kNvwFGJ5p0&_nc_gid=qVupwT-vm7wg6qsRUMU_4A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE64pLoZ3kz9DjWbL4h03eL5Bf3g92xVU7RYezUuEwQzQ&oe=6A76DE97&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-gru1-2.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGDp_nPu4JGStP2vLccbTpGKwLtP1wF8O3CHxlyMFkAXjNUrhpGfRqr3GDNmzLUvfE&_nc_ohc=Tqymz_rDwiYQ7kNvwHSUjJD&_nc_gid=zvLaFk_BeDWmduILAc-pTQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFn6iDXNQn7K-sTItEPl7He4hOpGjQddHkeRvZ7BQYC5A&oe=6A783017&_nc_sid=c6f216",
       "caption": "#협찬 \n\n여름에 따악 어울리는 색상 🩵\n실물이 더 영롱하고 고급진데 전하지못해 아쉽ㄷㅏ😵\n착용감은 말해 뭐해〰️\n너무 부드럽고 쫀득한 느낌 !\n\n✔️크리스탈 웨이브 더블 크로스백\n✔️xs착용\n\n#라세린 #수영복 #수영복추천 #swimwear",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "chacha___babe",
       "metrics": {
-        "likes": 248,
+        "likes": 249,
         "comments": 17
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -113,20 +113,26 @@
           "views": null,
           "likes": 248,
           "comments": 17
+        },
+        {
+          "d": "2026-08-05",
+          "views": null,
+          "likes": 249,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 218,
         "n": 9,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.005794883008965668,
-        "vs_baseline": 1.2155963302752293,
-        "cost_per_eng": 260.37735849056605,
+        "er": 0.005816750492018369,
+        "vs_baseline": 1.2201834862385321,
+        "cost_per_eng": 259.3984962406015,
         "cost_per_view": null
       },
       "analysis": {
@@ -138,7 +144,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 248 · 댓글 17 · ER 0.6% · 평소대비 1.2x (D+11)"
+      "last_written_reaction": "좋아요 249 · 댓글 17 · ER 0.6% · 평소대비 1.2x (D+12)"
     }
   ],
   "flags": {

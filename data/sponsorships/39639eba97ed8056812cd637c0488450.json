@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-8056-812c-d637c0488450",
   "row_title_raw": "cogi._.v",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -16,6 +16,51 @@
   "username": "cogi._.v",
   "followers_notion": 25000,
   "posts": [
+    {
+      "notion_row_id": "3b239eba-97ed-8026-b9ea-cf0a3830ade3",
+      "url": "https://www.instagram.com/reel/Dbf1ckwPXII/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dbf1ckwPXII",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-02",
+      "first_seen": "2026-08-05",
+      "posted_at": "2026-08-01T12:27:44.000Z",
+      "permalink": "https://www.instagram.com/p/Dbf1ckwPXII/",
+      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/762688553_18621603064039216_6894082819775190564_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEjQrvDaGv0pmFDRT5TN8Z0ozV_7N0sdPBAMbJqNufAaoKGbr71XpXfc6Ueg7F7wmM&_nc_ohc=SYYI9aU_RG4Q7kNvwFb4TRo&_nc_gid=DHyB05YEVsc5PEXmSALQpQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHP6qOvlAgluz3ocKfAW6sE_2ThDrqN16gdvvjje2eitg&oe=6A784AE3&_nc_sid=c6f216",
+      "caption": "#협찬 요즘 빠져있는 레몬코어 감성🍋💛 @laserin_swim \n\n실내 프리다이빙부터 바다 스노클링까지\n한 벌로 정말 잘 입고 있는 수영복이에요🐠👙\n\n은은한 옐로우 컬러라 물속에서 더 예쁘고,\n백라인 디자인도 포인트가 돼서 사진도 정말 잘 나와요✨\n\n착용감도 편해서 움직임이 많은 프리다이빙이나\n수영할 때도 부담 없이 즐길 수 있었어요.\n\n올여름 가장 손이 많이 가는 스윔웨어💛\n\n🏷️ 라세린\n트위디 체크 옐로우 더블크로스백 69,000\n\n#라세린 #수영복 #스윔웨어 #프리다이빙",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "cogi._.v",
+      "metrics": {
+        "views": 3315,
+        "likes": -1,
+        "comments": 7
+      },
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "history": [
+        {
+          "d": "2026-08-05",
+          "views": 3315,
+          "likes": -1,
+          "comments": 7
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.00023168706800015445,
+        "vs_baseline": null,
+        "cost_per_eng": 5750.0,
+        "cost_per_view": 10.407239819004525
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "조회 3,315회·참여율 0.02%로 팔로워 대비 노출·반응 모두 극히 저조, 1건당 비용 5,750원은 효율이 낮아 추가 모니터링 필요.",
+          "days": 3,
+          "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
+        }
+      },
+      "last_written_reaction": "조회 3,315 · 좋아요 -1 · 댓글 7 · ER 0.0% (D+3)"
+    },
     {
       "notion_row_id": "b5b39eba-97ed-8298-890f-01d74a376dfd",
       "url": "https://www.instagram.com/p/DbAJr3WmsZa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -86,11 +131,11 @@
         "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.000501988647333668,
         "vs_baseline": 2.1666666666666665,
-        "cost_per_eng": 5307.692307692308,
+        "cost_per_eng": 2653.846153846154,
         "cost_per_view": null
       },
       "analysis": {
@@ -107,7 +152,7 @@
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 14 · ER 0.1% · 평소대비 2.2x (D+14)"
+      "last_written_reaction": "좋아요 -1 · 댓글 14 · ER 0.1% · 평소대비 2.2x (D+15)"
     }
   ],
   "flags": {

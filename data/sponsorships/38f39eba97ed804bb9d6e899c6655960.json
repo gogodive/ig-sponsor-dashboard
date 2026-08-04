@@ -23,8 +23,8 @@
       "media_kind": "피드",
       "upload_date_notion": "2026-07-06",
       "first_seen": "2026-07-23",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.006789473684210527,
         "vs_baseline": null,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-07-04T05:00:55.000Z",
       "permalink": "https://www.instagram.com/p/DaW8RgQAbg6/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/731810113_18446770861188050_2446817751946700903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzkzMzU3MDExMjQwNTM5NjIzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pIZWtCRyWZIQ7kNvwFr6Zd7&_nc_oc=Adp2syY71HdJB5nlRrAKPJ-87b4FoTWwQAujjlAwolrE6d6uVbMev9HezbsFYWKtcIQ&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=DgMGTHLFXfCnSIciQ71D4A&_nc_ss=7ba02&oh=00_AQHVEbtZMBPoK23AbqwT2rUIkjnz39G8f6ox1_xjHaD0eA&oe=6A76FFD6",
+      "thumbnail": "https://instagram.fblq3-1.fna.fbcdn.net/v/t51.82787-15/731810113_18446770861188050_2446817751946700903_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fblq3-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHzrkNh1zbiBBoDquHWq9erav4TdIKkcx7cdiJgF6zZ7pxV1zPzMnYmHJSXaif6HTo&_nc_ohc=PlWlFlN58vQQ7kNvwGQ7r-1&_nc_gid=0G1I2GRS1q8qP0FI7Ig_uw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFzapdhTFaSRvDDXmv07T9CcnlB9jB9ay8St6GrkzPprQ&oe=6A785156&_nc_sid=c6f216",
       "caption": "피드에 징구럽게 왼쪽얼굴만 있길래 오른쪽얼굴 들고옴",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -116,9 +116,11 @@
           "one_liner": "조회 미집계 피드임에도 댓글 130건은 이례적 반응이나, 좋아요 이탈(-1)·참여율 0.68%로 비용 효율은 아직 검증 필요.",
           "days": 20,
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
-        }
+        },
+        "final_verdict": "피드 게시물 기준 팔로워 대비 참여율 0.68%는 통상 기준선(1~3%)을 하회하며, 좋아요 지표가 집계 불가(-1)로 댓글 130건만으로 성과를 판단해야 하는 데이터 한계가 있다. 참여 1건당 비용 1,302원은 인플루언서 규모(1.9만 팔로워) 대비 다소 높은 수준으로, 댓글 수가 상대적으로 양호하더라도 전체 도달·노출 데이터 부재로 실질 브랜드 인지 효과를 검증하기 어렵다. 168,000원의 제품 협찬 비용 대비 측정 가능한 성과가 제한적이어서 재협찬 시에는 릴스 형식 전환 및 지표 수집 범위 확대를 권장한다.",
+        "final_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 130 · ER 0.7% (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 130 · ER 0.7% (확정)"
     }
   ],
   "flags": {

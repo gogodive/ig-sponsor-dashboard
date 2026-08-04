@@ -25,36 +25,42 @@
       "first_seen": "2026-08-04",
       "posted_at": "2026-07-31T02:53:02.000Z",
       "permalink": "https://www.instagram.com/p/DbcPGj7IK8N/",
-      "thumbnail": "https://instagram.fper12-1.fna.fbcdn.net/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fper12-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFgOT3LFxYb5I1cYpIgCknSN0SF6qs5ksUAMevFEPfPYknAeu2vpyGt7d05WmSTt8M&_nc_ohc=wyeAUqg9DuwQ7kNvwFKbcOm&_nc_gid=z8DGGGXfnByO7F97ffmJEw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFY_twwbA4IKqFJo94OAjPNPvr-rUod-gMrX6KbTJzhAg&oe=6A76D28A&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fcia6-1.fna.fbcdn.net/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fcia6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gGQ7Gymp_wrYXKdgGectk3wrHN-MipXe_KvtcdSdLID56KOHZcWu1so0qTxbOPGkis&_nc_ohc=wyeAUqg9DuwQ7kNvwFfnCp-&_nc_gid=c-rbCL4fspN7tVr6Gyco6g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHamrDwkx1cdtW0_THgTdH1uBSFrus5p8WRXOi2nK-wcw&oe=6A78240A&_nc_sid=c6f216",
       "caption": "🌊 해녀가 추천하는 대마도 바다 1탄!!\n\n일본의 해변 100선에 선정된 미우다 해변도 정말 예쁘지만, 사람이 너무 많아서 이번에는 구글 지도를 보며 에메랄드빛 바다를 찾아 가봤어요 !! +_+\n\n결과는 대성공!\n무보정인데도 맑고 투명한 바다와 다양한 바다 생물들까지 🐟🐠 무료 사워장도 있어서 쾌적했습니다!✨\n\n찐 물질할 때는 고무핀이 최고지만, 놀러 갈 때는 역시 롱핀이 사진도 예쁘게 나오더라고요 ㅎㅎ\n\n선물로 받은 딥바이브 오로라 롱핀💛\n오로라처럼 색감이 달라지는 신비로운 컬러가 정말 예뻤고, \n발도 편하고 가벼워서 더욱 만족스",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "haenyeo_sohee",
       "metrics": {
-        "likes": 377,
-        "comments": 34
+        "likes": 423,
+        "comments": 35
       },
-      "metrics_updated_at": "2026-08-04T07:11:20.543194+09:00",
+      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
       "history": [
         {
           "d": "2026-08-04",
           "views": null,
           "likes": 377,
           "comments": 34
+        },
+        {
+          "d": "2026-08-05",
+          "views": null,
+          "likes": 423,
+          "comments": 35
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 911.0,
         "n": 6,
-        "captured_at": "2026-08-04T07:11:20.543194+09:00"
+        "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.0230652674111903,
-        "vs_baseline": 0.45115257958287597,
-        "cost_per_eng": 705.596107055961,
+        "er": 0.025702901397384813,
+        "vs_baseline": 0.5027442371020856,
+        "cost_per_eng": 633.1877729257642,
         "cost_per_view": null
       },
       "analysis": {
@@ -64,7 +70,7 @@
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
         }
       },
-      "last_written_reaction": "좋아요 377 · 댓글 34 · ER 2.3% · 평소대비 0.5x (D+3)"
+      "last_written_reaction": "좋아요 423 · 댓글 35 · ER 2.6% · 평소대비 0.5x (D+4)"
     }
   ],
   "flags": {
@@ -75,5 +81,5 @@
   },
   "child_db_id": "ecd39eba-97ed-8286-8d73-81c8702b7e36",
   "followers": 17819,
-  "last_written_score": 45
+  "last_written_score": 50
 }
