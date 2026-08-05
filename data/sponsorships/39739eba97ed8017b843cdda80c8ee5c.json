@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-8017-b843-cdda80c8ee5c",
   "row_title_raw": "amo__hyunii",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T04:45:03.000Z",
       "permalink": "https://www.instagram.com/p/DbAHLWaEzWy/",
-      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/749330735_18605405377055372_3781949592786706101_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHB5iJfZRFfQeHdy9FWb3J1QLuyA00sWTN1YPiKbOfepPZ1DgrcZYeqZ5qBezPjY10&_nc_ohc=WFKL4mwiDM8Q7kNvwHJhvH0&_nc_gid=W6ssOf2-AGuPYvqpgKhJYg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGwnYTr4oWhf7LPaddHoTCyT5cH_Jz_X5ubRcC4J4fTuw&oe=6A783D60&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/749330735_18605405377055372_3781949592786706101_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEIOWRXNrsLMVg587RKJ-elIkR3U9k1usYk9_3OSjYc_Nbz-j0vm5hzQw7wwQWb59fueJoDapaWXgDdkh5sN-9G&_nc_ohc=WFKL4mwiDM8Q7kNvwF2RcJd&_nc_gid=gHIVQbp7JJGVcTkm-d0xwg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHb_bGAnlmbgTluY8SfHg_qVLe1R_v38EuoagiLygAY2w&oe=6A798EE0&_nc_sid=c6f216",
       "caption": "#협찬\n\n같은 날 같은 몸, 다른 옷\n부츠컷 레깅스도 다리가 얇아보여서 교복처럼 입었는데\n📌 #시크릿스 V컷 레깅스는 허리라인 무슨 일이냐며\n골반이 좁거나 통허리인 분들에게 완전 추천입니다👍🏻\n\n거기다가 글램버튼 반팔이나 개미허리 나시 조합으로\n여성스러운 라인이 더 배가 된답니다🙌🏻\n\n#운동복추천 #gymwear #ootd",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,16 +119,22 @@
           "views": null,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 54,
         "n": 7,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
@@ -149,7 +155,7 @@
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+15)"
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+16)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80ba-a37a-d0e0ad5da608",
@@ -160,7 +166,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T04:41:20.000Z",
       "permalink": "https://www.instagram.com/p/DazOxsaE4bZ/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/746041243_18603813508055372_2063159371488620132_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGx5hhRhyPeEN-GaHqCdZmB_8_CE2v3XvZT1k1gbpmSqP4tHKBiYtJfy7VoOtymrg8&_nc_ohc=ha7k6JuVuQ8Q7kNvwEDLXMG&_nc_gid=lD0NVb58HGRoFZ-WPjikOA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE39a5nGspzO51BycY-hnhStu4FDuiVJaS137EVnIIQgQ&oe=6A78253E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/746041243_18603813508055372_2063159371488620132_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk0MTU1NTM3MjgwMDU4NzY1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2tpU0WWCrBEQ7kNvwGDxWXv&_nc_oc=AdqxfpTI0VhZvJlk1-d9JyD0J2ipemhQlWANa1UVXU8kmeYUxEKuiZxP5_HM5m-8tEI&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=an_WoLdq_-9FDLa7opBWCA&_nc_ss=7c689&oh=00_AQH-iEC-Zual2wQBaZPtc5V-YkQA6GXYuaNPE2hWc45zSA&oe=6A7976BE",
       "caption": "#협찬\n\n사진까지가 운동이다\n\n진짜 요즘 내 교복같은 운동복\n보들보들 쫀쫀한데다가 몸매 보정은 덤이야🩵\n\n#오운완 #gymwear #시크릿스 #헬스하는여자",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -169,7 +175,7 @@
         "likes": 42,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -254,16 +260,22 @@
           "views": null,
           "likes": 42,
           "comments": 1
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": 42,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 54,
         "n": 7,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.0010116456887425008,
         "vs_baseline": 0.7962962962962963,
@@ -284,7 +296,7 @@
           "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
         }
       },
-      "last_written_reaction": "좋아요 42 · 댓글 1 · ER 0.1% · 평소대비 0.8x (D+20)"
+      "last_written_reaction": "좋아요 42 · 댓글 1 · ER 0.1% · 평소대비 0.8x (D+21)"
     },
     {
       "notion_row_id": "3a539eba-97ed-8059-9df0-d7af944ca82a",
@@ -295,17 +307,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T06:28:43.000Z",
       "permalink": "https://www.instagram.com/p/Da7E_xjudGf/",
-      "thumbnail": "https://instagram.flpa2-1.fna.fbcdn.net/v/t51.82787-15/749459266_18604726285055372_1059095187001179477_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.flpa2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gFLBMJErhSPTiosRa8UflCibtds8UXJl8DTxL8zyTD_czM1I5VKV3jdNZISrjhu76g&_nc_ohc=N7rucOrnTtUQ7kNvwGKFutP&_nc_gid=inslnd77UTsG8tJISVX54A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFvYynECRGsZEbc43PFyba2YqxMECvKxAWoQFkzOPQApg&oe=6A78507B&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbrs5-1.fna.fbcdn.net/v/t51.82787-15/749459266_18604726285055372_1059095187001179477_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbrs5-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gFJNQuYqADGtdBT3LSIcbQSsQScd1wXnHMoyx54J0Pfuucik8UtEHLktY007SSJ0XLKZV6Hba80zpjsnEKHlusJ&_nc_ohc=N7rucOrnTtUQ7kNvwE9rdh7&_nc_gid=G1-OGxQuH4ILsB7YUoHqZQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHXG5jIKLZy44xIrQEhTrSVrcX7ZPvHH3rI_PO3lFBUjA&oe=6A79A1FB&_nc_sid=c6f216",
       "caption": "#협찬\n\n펑퍼짐한 박스티로 가리지 말고, \n예쁜 옷으로 예쁜 라인 드러내기 ✨\n\n📍시크릿스 브이컷 9부 레깅스 + 글램버튼 반팔\n\n박스티 하나 걸치면 편하긴 한데\n이왕이면 예쁜 라인 드러내는게 좋으니까\n\n브이컷 레깅스가 허리-골반 라인 알아서 정리해주고,\n글램버튼 반팔은 어깨선부터 예쁘게 떨어져서\n몸매보정 꿀 조합🩵\n\n@secrets__fit \n\n#시크릿스 #transition #gymwear #몸매보정",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "amo__hyunii",
       "metrics": {
-        "views": 1538,
+        "views": 1543,
         "likes": 22,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -390,21 +402,27 @@
           "views": 1538,
           "likes": 22,
           "comments": 1
+        },
+        {
+          "d": "2026-08-06",
+          "views": 1543,
+          "likes": 22,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": 2970,
         "eng_median": 10.0,
         "n": 7,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.0005411128102576167,
-        "vs_baseline": 0.5178451178451179,
+        "vs_baseline": 0.5195286195286195,
         "cost_per_eng": 1342.391304347826,
-        "cost_per_view": 20.074772431729517
+        "cost_per_view": 20.009721322099807
       },
       "analysis": {
         "one_liner": "평소 대비 0.48x로 절반에도 못 미치는 노출에 참여 1건당 비용 6,861원까지 치솟아, 현시점 대비 효율이 매우 저조한 협찬 성과.",
@@ -420,7 +438,7 @@
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "조회 1,538 · 좋아요 22 · 댓글 1 · ER 0.1% · 평소대비 0.5x (D+17)"
+      "last_written_reaction": "조회 1,543 · 좋아요 22 · 댓글 1 · ER 0.1% · 평소대비 0.5x (D+18)"
     },
     {
       "notion_row_id": "2e539eba-97ed-8360-acb6-0180c1c2c546",
@@ -431,17 +449,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-10T05:35:06.000Z",
       "permalink": "https://www.instagram.com/p/DambiI2TMV5/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/743294704_18602328787055372_1735420937784894280_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEF9PBaFliXjc8lTQcSELjk5U6bBO-uj0PfcSCHUipIRX0w5O2QpTRbFMs73JmfJJs&_nc_ohc=wUYTqA9bCsEQ7kNvwH2tRKy&_nc_gid=kwQbfxMtE-9yByrqM2SuRQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF_D0cAw0ORCmIdxLOPJppi4v_IS_91aQ-bYYNZCDe1Cg&oe=6A78450B&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fnap3-2.fna.fbcdn.net/v/t51.82787-15/743294704_18602328787055372_1735420937784894280_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fnap3-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gHAo5P37nbFBnojrQR_iNt09deMO7KhM3BBZ5TnTpslhEeTyTeNwZ78RZUE93Pc54w&_nc_ohc=mtfnidtgDdUQ7kNvwEdEY_3&_nc_gid=9Vti9WYbneF-k8hN9T9lqQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFAyp1BlDlogJ175gKzSZ1HwrzDhb7yU7eY04iG2l44ww&oe=6A79968B&_nc_sid=c6f216",
       "caption": "#협찬\n\n비는 오지 않고 꿉꿉하기만한 날씨에\n축축 처져서 운동이 하기 싫을 땐 ❔❔\n\n몸이 좋아보이는 옷입고\n생각나는 대로 운동해보기.\n\n단, 몸매보정의 끝 시크릿스 나시 입고 운동하면\n사진 찍느라 운동집중 못하는게 단점…\n이름도 “개미허리” 나시.\n\n쫀쫀하고 너무 꽉끼지도 않게 보드랍게 착붙하는 소재에\n밑단 U라인이 허리라인은 살려서\n진짜 개미허리 같은 착시 효과를 주는것 같아요\n\n뱃살도 가리고 상체를 숙여도 부담스럽지 않은 넥라인에\n이 위에 셔츠 하나만 걸쳐도 이너로 입을 수 있어요.\n\n진짜 너무 맘에 들자나🩵\n\n#시크릿스 #몸",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "amo__hyunii",
       "metrics": {
-        "views": 1804,
+        "views": 1808,
         "likes": -1,
         "comments": 19
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -526,21 +544,27 @@
           "views": 1804,
           "likes": -1,
           "comments": 19
+        },
+        {
+          "d": "2026-08-06",
+          "views": 1808,
+          "likes": -1,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": 2970,
         "eng_median": 10.0,
         "n": 7,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.00042347959063639574,
-        "vs_baseline": 0.6074074074074074,
+        "vs_baseline": 0.6087542087542087,
         "cost_per_eng": 1715.2777777777778,
-        "cost_per_view": 17.114745011086473
+        "cost_per_view": 17.07688053097345
       },
       "analysis": {
         "one_liner": "평소 대비 0.70x 저조한 조회 성과에 참여 1건당 5,881원·조회당 72원으로 비용 효율이 낮아 추가 활성화 조치가 필요하다.",
@@ -551,7 +575,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "조회 1,804 · 좋아요 -1 · 댓글 19 · ER 0.0% · 평소대비 0.6x (D+25)"
+      "last_written_reaction": "조회 1,808 · 좋아요 -1 · 댓글 19 · ER 0.0% · 평소대비 0.6x (D+26)"
     }
   ],
   "flags": {

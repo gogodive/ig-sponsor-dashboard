@@ -1,0 +1,27 @@
+{
+  "page_id": "3b339eba-97ed-8098-8627-d0b733752db5",
+  "row_title_raw": "bijou.zero",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "5357",
+  "product_value_krw": 84000,
+  "delivery_date": "2026-08-05",
+  "output_link_prop": null,
+  "username": "bijou.zero",
+  "followers_notion": 5357,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "d0e39eba-97ed-838d-8c9a-0141a56ce73e",
+  "followers": 5357
+}

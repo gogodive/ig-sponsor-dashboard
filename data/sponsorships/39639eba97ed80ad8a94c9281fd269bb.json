@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T09:34:12.000Z",
       "permalink": "https://www.instagram.com/p/Da7erY6krmo/",
-      "thumbnail": "https://instagram.frex1-1.fna.fbcdn.net/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frex1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHs0z2UjeVHSIXvldiNxh9PhaZMx4I5EJIX5ySr_6H7INcc_Vfhu4hc1kkN53RYQdM&_nc_ohc=VJq1_O1UDdAQ7kNvwE-SFF4&_nc_gid=_l6bH1G1YoeF7JYptT3l0w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHJXp9-8srS_wWbkHa144MSBdmj1e_QQt25ct8UZ1INrA&oe=6A7828F2&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/751842357_18616024402017153_7786986980019158281_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGyFXS8WBDLSdtbNY6wvyAMNYNCG26X_wfgIzdfAatTUDBY1GtaKH6atyBGwprE5djcnUhRPbPxvQDwRoFgDgvS&_nc_ohc=VJq1_O1UDdAQ7kNvwHNHjTO&_nc_gid=h8SRM_ODBlV5fXEFRsS6FA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGySrClsCzcT6OCBTtmqELMBlDDnwPDwcqu7y0xZsc6Cg&oe=6A797A72&_nc_sid=c6f216",
       "caption": "#제품제공\n태풍이 지나간 뒤 노을지는 하늘을 닮은 수영복☀️🩷❤️💜\n\n핑크,보라,빨강색이 어우러진 \n강렬한 노을 빛깔 라세린 미스틱레드❣️\n\n은은한 그라데이션 컬러감이 \n물 속에서도 너무 이뻤고, \n가슴선, 사이드컷도 미들컷이라\n너무 부담스럽지 않은 노출로 편안했어요👍\n\n수모, 마스크랑 같이 핑크로 깔맞춤하니\n완전 찰떡이였던 착장 🎀\n\n📸 @drop_the_diving \n\n@laserin_swim \n@usepool_official \n\n✔️수영복 - 라세린 미스틱레드\n✔️수모 -  유즈풀 러블리본\n✔️마스크 - 유즈풀 오로라 마스크 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 137,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -119,16 +119,22 @@
           "views": null,
           "likes": 137,
           "comments": 32
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": 137,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 169.5,
         "n": 4,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.01801897856914383,
         "vs_baseline": 0.9970501474926253,
@@ -149,7 +155,7 @@
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "좋아요 137 · 댓글 32 · ER 1.8% · 평소대비 1.0x (D+17)"
+      "last_written_reaction": "좋아요 137 · 댓글 32 · ER 1.8% · 평소대비 1.0x (D+18)"
     }
   ],
   "flags": {

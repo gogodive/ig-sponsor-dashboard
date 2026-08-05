@@ -1,0 +1,72 @@
+{
+  "page_id": "3b339eba-97ed-80bf-9a03-f7497a25db2f",
+  "row_title_raw": "healthy_eun",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "4497",
+  "product_value_krw": 94000,
+  "delivery_date": "2026-07-24",
+  "output_link_prop": null,
+  "username": "healthy_eun",
+  "followers_notion": 4497,
+  "posts": [
+    {
+      "notion_row_id": "ac539eba-97ed-8305-b010-81f03f25014a",
+      "url": "https://www.instagram.com/p/DbU5MDhnUyC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbU5MDhnUyC",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-29",
+      "first_seen": "2026-08-06",
+      "posted_at": "2026-07-28T06:26:52.000Z",
+      "permalink": "https://www.instagram.com/p/DbU5MDhnUyC/",
+      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/757889342_17893485996592983_2136192954071083541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk1MTAzMTUzNjYyMzExMzk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dzg1AeJCrJ0Q7kNvwGC2qiS&_nc_oc=AdpNWukv529PfAdBBw8-Zj4-_0sjvJt6i2ypgGyVOHHachIt53mJKkT7R1N2-6EY1ak&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=rV-JKp4K4JQW3wlcvtKa8A&_nc_ss=7b60f&oh=00_AQEvjjA5nwL3DA-jTfcUxJ_YrMvkRRaCMvITJT0bUo0UMw&oe=6A799327",
+      "caption": "퀴즈⚠️ 운동 전 운동 후 입니댜! 내가 뭘 해서 저렇게 됬게룡🫪\n\n#투모어휘트니스봉명점 에서 내가 제일 좋아하는 머신을 썼답니다 모게용?\n맞히는 사람 선물로 꿀밤 줌👊\n\n오늘 착장은 #시크릿스 #V컷코르셋레깅스 에욤 \n요새 살 넘몽 안빠져서 요새 옆구리 넘 불룩한디 (현재 스펙 161/52 ㅋ)\n레깅스 덕에 완주니 잘록걸이잔오➿ 깔별로 쟁이고 싶당\n나한테 무슨 색이 젤 잘어울릴지도 추천해죠.",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "healthy__eun",
+      "metrics": {
+        "likes": 295,
+        "comments": 46
+      },
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "history": [
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": 295,
+          "comments": 46
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.07582832999777629,
+        "vs_baseline": null,
+        "cost_per_eng": 275.65982404692085,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요+댓글 341건, 팔로워 대비 참여율 7.58%로 소규모 계정 기준 우수하며 참여 1건당 276원은 합리적 비용 효율을 보임.",
+          "days": 8,
+          "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 295 · 댓글 46 · ER 7.6% (D+8)"
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "7ac39eba-97ed-83aa-8156-81179f4b9e5c",
+  "followers": 4497
+}

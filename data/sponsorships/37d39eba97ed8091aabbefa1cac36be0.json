@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T07:45:39.000Z",
       "permalink": "https://www.instagram.com/p/DaZzvkrqzHK/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/730331633_17975920731103650_6765697811621235047_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE1amxYsPOVaRCUoeyNCfjV4yPMiuN-N14TatoIiWjiITuod3tDUHp37iBoIq2o6Qk&_nc_ohc=DamxIYCKk9gQ7kNvwHHo_RT&_nc_gid=m459wWuwI2rnfNUmpsoRFw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFe7nhypc1PvhyEnO4R2MAS55kqIYfWg0LRlPMgcThzUw&oe=6A7848B2&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpll3-2.fna.fbcdn.net/v/t51.82787-15/730331633_17975920731103650_6765697811621235047_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fpll3-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGBhgcDehaEvxYMPFiFBi5Kl8goSgD0YjcQoNCJu9NODhP-jNop4LvAs7mubLJxXyw&_nc_ohc=DamxIYCKk9gQ7kNvwHK8vpO&_nc_gid=5RvEg9DGiJmVKrmcUsYYYg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFT89fPINsVtlgKUCt0CNXbxzANfCUcLXWLHX759JmFQg&oe=6A799A32&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim\nLASERIN ✨- Peach Cream \n피치 크림 타이백 우먼🍑\n\n붉은 석양을 삼킨듯한 디자인🌅\n밝고 감각적인 무드 수영복이에요 ㅎㅎ \n\n쨍하고 밝은 컬러감이 푸른 물색과 대비되어\n라세린 수영복이 더 돋보여요✨\n청량한 코타키나발루와 너무잘어울려요🌴\n\n사이즈는 평소 입는 정사이즈가 딱 맞았고 \n밀착력& 신축성 좋은 기능성 원단이라 활동성도 좋아용\nx자형 타이백이라 안정감있어 움직임이 자유로워요🌊\n\n실내 수영부터 바다에서하는 프리다이빙&\n인생샷까지 고려한 너무 이쁜 물결무늬 디자인ㅎㅎ \n상큼한 핑",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -122,8 +122,8 @@
         "n": 3,
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01691948658109685,
         "vs_baseline": 0.8082417582417583,
@@ -137,9 +137,11 @@
           "one_liner": "조회수 미확인이나 좋아요 53·댓글 4로 참여율 1.66% 양호, 참여당 1,123원 비용은 소규모 계정 협찬 대비 준수한 수준.",
           "days": 18,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 1.69%는 소규모 계정 평균 수준이나, 평소 대비 0.81배로 협찬 게시물이 오히려 유기적 성과를 하회해 콘텐츠 자체의 확산력이 부족했다. 조회 1회당 비용 14.5원, 참여 1건당 368원은 팔로워 3,428명 규모의 마이크로 계정치고 효율이 낮은 편이며, 64,000원 상품가 대비 실질적인 노출·도달 성과가 미흡하다. 브랜드 적합성이나 저장·공유 등 비공개 지표를 확인할 수 없는 상황에서 공개 지표만으로는 비용 대비 가치가 충분하지 않았다고 판단된다.",
+        "final_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "last_written_reaction": "조회 1,471 · 좋아요 54 · 댓글 4 · ER 1.7% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "조회 1,471 · 좋아요 54 · 댓글 4 · ER 1.7% · 평소대비 0.8x (확정)"
     },
     {
       "notion_row_id": "39639eba-97ed-8021-8d99-d5d69edf576a",
@@ -150,7 +152,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T08:25:30.000Z",
       "permalink": "https://www.instagram.com/p/DaZ4e4_FO1F/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/723130888_17975923800103650_8513210545754951702_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGfhzSHFvsW6Qvm5ayVQzJXuXFsdfq6G_iPEMwyYSMgSVduOjRaovuisJqugGNxqOY&_nc_ohc=EwXtpLAANlQQ7kNvwE0qZs6&_nc_gid=hJ0eS24TDmcmkWmx9AsKlw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHWN7T3KtDUYGlAayFMpV_O2qMFdZwpRebpIciZS_8kNA&oe=6A7851FD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/723130888_17975923800103650_8513210545754951702_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFxXleSSL5FTXF0P5j02zP-1H6v8J59Yb8nCkk4f16y3s82Mh7tXeO4fUcrlkEy1gs&_nc_ohc=EwXtpLAANlQQ7kNvwHYuA2-&_nc_gid=1kRBX4iLEubaOkTFuaBpLQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGprH2aE_pX8jaFn9hYx81xjP1rl4ic-9Qj58SOX6Alpw&oe=6A79A37D&_nc_sid=c6f216",
       "caption": "@laserin_swim #제품제공\n\n👾🌴 Minecraft ver. \n쨍한 컬러감이랑 너무잘어울리는 \n라세린 피치크림 타이백 수영복🍊\n\n📸 @freedive_gp \n🌊 @coral.dive @laboondive_official \n\n프롬포트는 댓글에 👇🏻👇🏻\n✔️저장&공유하고 따라해보세요 \n.\n.\n.\n#마인크레프트#라세린#laselin#수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -252,8 +254,8 @@
         "n": 12,
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.062427071178529754,
         "vs_baseline": 1.2228571428571429,
@@ -267,9 +269,11 @@
           "one_liner": "평소 대비 1.19배 참여로 팔로워 규모 감안 시 준수하며, 참여 1건당 302원은 소형 계정 기준 효율적인 비용 수준입니다.",
           "days": 18,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 6.24%는 소형 계정 기준 업계 평균(3~5%)을 상회하며, 평소 대비 1.22배의 반응을 이끌어낸 점에서 콘텐츠 자체의 주목도는 양호하다. 참여 1건당 비용 약 100원, 총 참여 214건(좋아요+댓글)에 협찬 상품 가액 64,000원을 감안하면 절대 비용 효율은 매우 우수한 편이다. 다만 팔로워 3,428명의 소규모 계정으로 브랜드 노출 총량 자체는 제한적이므로, 비용 효율성 측면에서는 명확히 긍정적이나 스케일 확장보다는 틈새 타깃 접근용으로 의미 있는 협찬이었다고 평가된다.",
+        "final_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "last_written_reaction": "좋아요 194 · 댓글 20 · ER 6.2% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 194 · 댓글 20 · ER 6.2% · 평소대비 1.2x (확정)"
     },
     {
       "notion_row_id": "1b339eba-97ed-839e-86e4-81febd3f9b28",
@@ -280,7 +284,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T08:25:30.000Z",
       "permalink": "https://www.instagram.com/p/DaZ4e4_FO1F/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/723130888_17975923800103650_8513210545754951702_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGfhzSHFvsW6Qvm5ayVQzJXuXFsdfq6G_iPEMwyYSMgSVduOjRaovuisJqugGNxqOY&_nc_ohc=EwXtpLAANlQQ7kNvwE0qZs6&_nc_gid=hJ0eS24TDmcmkWmx9AsKlw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHWN7T3KtDUYGlAayFMpV_O2qMFdZwpRebpIciZS_8kNA&oe=6A7851FD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/723130888_17975923800103650_8513210545754951702_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFxXleSSL5FTXF0P5j02zP-1H6v8J59Yb8nCkk4f16y3s82Mh7tXeO4fUcrlkEy1gs&_nc_ohc=EwXtpLAANlQQ7kNvwHYuA2-&_nc_gid=1kRBX4iLEubaOkTFuaBpLQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGprH2aE_pX8jaFn9hYx81xjP1rl4ic-9Qj58SOX6Alpw&oe=6A79A37D&_nc_sid=c6f216",
       "caption": "@laserin_swim #제품제공\n\n👾🌴 Minecraft ver. \n쨍한 컬러감이랑 너무잘어울리는 \n라세린 피치크림 타이백 수영복🍊\n\n📸 @freedive_gp \n🌊 @coral.dive @laboondive_official \n\n프롬포트는 댓글에 👇🏻👇🏻\n✔️저장&공유하고 따라해보세요 \n.\n.\n.\n#마인크레프트#라세린#laselin#수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -382,8 +386,8 @@
         "n": 12,
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.062427071178529754,
         "vs_baseline": 1.2228571428571429,
@@ -397,9 +401,11 @@
           "one_liner": "평소 대비 1.19배 참여로 소폭 상회하며, 참여 1건당 302원으로 팔로워 규모 감안 시 비용 효율은 양호한 수준.",
           "days": 18,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 6.24%는 마이크로 인플루언서 평균(3~5%)을 상회하며, 평소 게시물 대비 1.22배의 반응을 이끌어낸 점에서 콘텐츠가 팔로워 층에 자연스럽게 수용됐다고 볼 수 있다. 참여 1건당 비용 100원, 총 214건(좋아요+댓글) 기준 협찬 비용 약 21,400원 수준의 효율로, 64,000원 상품 가액 대비 실질 노출 단가는 매우 낮아 비용 효율성은 긍정적이다. 다만 피드 게시물 특성상 조회수가 집계되지 않아 도달 범위를 정량화하기 어렵고, 팔로워 수(3,428명)가 소규모인 점을 감안하면 브랜드 인지 확산보다는 소규모 충성 팬 대상 밀도 높은 참여를 얻은 협찬으로 평가된다.",
+        "final_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "last_written_reaction": "좋아요 194 · 댓글 20 · ER 6.2% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 194 · 댓글 20 · ER 6.2% · 평소대비 1.2x (확정)"
     }
   ],
   "flags": {

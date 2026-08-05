@@ -1,7 +1,7 @@
 {
   "page_id": "39c39eba-97ed-801e-bac1-e3509ed5b693",
   "row_title_raw": "heegangyee",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,57 @@
   "followers_notion": 1400,
   "posts": [
     {
+      "notion_row_id": "3b339eba-97ed-802e-8efc-fde12e5db808",
+      "url": "https://www.instagram.com/reel/DbfwG8cPqKV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbfwG8cPqKV",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-02",
+      "first_seen": "2026-08-06",
+      "posted_at": "2026-08-01T11:45:52.000Z",
+      "permalink": "https://www.instagram.com/p/DbfwG8cPqKV/",
+      "thumbnail": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/760792975_18611048059020709_6607298130192908018_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFAtlSkucUBGIMakF7FAZX-tUWYQN3XeK7u7u8PL_Ju8Q6Z6-D5n4C4YTe1em7Gc8Qc99cqrw50kTvPQJmjErTS&_nc_ohc=J0_NT2AASzkQ7kNvwEJVZVf&_nc_gid=qR2aHpmINhP83etb1qaHVg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEORwixezJ04xXOg1_7NdowwvW5jaWZOzKzEaXomN3mEg&oe=6A799D85&_nc_sid=c6f216",
+      "caption": "#협찬 \n\n내가 평생 쓸 @intotheblue_store \n고고젤로 마스크🤿 +\n딥바이브 에어로 스노클 🫧 리뷰\n\n#인투더블루 #딥바이브 #수영 #프리다이빙장비",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "heegangyee",
+      "metrics": {
+        "views": 1609,
+        "likes": -1,
+        "comments": 2
+      },
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "history": [
+        {
+          "d": "2026-08-06",
+          "views": 1609,
+          "likes": -1,
+          "comments": 2
+        }
+      ],
+      "baseline": {
+        "views_median": 2747.5,
+        "eng_median": 17.0,
+        "n": 8,
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": 0.0006988120195667365,
+        "vs_baseline": 0.5856232939035487,
+        "cost_per_eng": 51500.0,
+        "cost_per_view": 32.00745804847732
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.59x 저조한 조회 성과에 참여 1건당 비용 51,500원으로 초기 효율이 낮아 추이 모니터링 필요.",
+          "days": 4,
+          "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        }
+      },
+      "last_written_reaction": "조회 1,609 · 좋아요 -1 · 댓글 2 · ER 0.1% · 평소대비 0.6x (D+4)"
+    },
+    {
       "notion_row_id": "bf739eba-97ed-830f-9be9-81e3e0d7f2d7",
       "url": "https://www.instagram.com/p/DbYqPjgD1Fa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "DbYqPjgD1Fa",
@@ -25,7 +76,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-29T17:33:14.000Z",
       "permalink": "https://www.instagram.com/p/DbYqPjgD1Fa/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFZiuCoV-nzwU-c3Ua01V-N3LtvA4-mFthAKT8VyXlmH28h-R13ewaDGtOUiNlvl3k&_nc_ohc=kQwp5y4YxesQ7kNvwFAKYZC&_nc_gid=yVoQnBUWFL96wdGLeQjueQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFSsPp_ZmG7IiMCsCrtB1kkQO9dzo__hohgPn2pgqDnAw&oe=6A7853B5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk1MjA4OTMyMzQzMTMwMTkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_ZM0_Xcz_9kQ7kNvwG9TDrh&_nc_oc=Adp0jyrzeAslG1OfvX1GNMIJL9o4g5Dya84uXPi8u2R96ojvqQnk64hLoZ80q-XGC8c7dkz5FmJdSE15gnVgSGCj&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=6hi4DYAT-NLGj8mI5luSAw&_nc_ss=72289&oh=00_AQHS_43wINxeScUqkQp0Ni4hYWVyQn1fYpeMR1co2e3Neg&oe=6A79A535",
       "caption": "#광고 이번 여름휴가🏄‍♀️🏖️\n바다 놀러갈때 필수품 스노클+마스크\n맨날 쿠팡에서 저렴이만 쓰다가, \n\n@intotheblue_store 에서 겟한\n고고젤로 마스크🤿+에어로 스노클🐟로\n편하게 물놀이 하고 왔다.\n\n스노클 제품은 소프트한 실리콘 마우스피스로\n입에 따로 힘을 주지않아도 호흡이 편했고😌,\n\n스노클이 혹시나 마스크에서 떨어져도\n가라앉지 않도록 설계된 앙성부력 제품으로🫧,\n분실위험도 최소화 시킨 제품이었다!\n\n마스크는 시야도 깨끗하고,\n동양인 얼굴에 맞춘 디자인으로 \n코가 끼지않고 깔끔하게 옆에\n광대부분도 남는 부분없이 착!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +85,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -65,23 +116,29 @@
           "views": null,
           "likes": -1,
           "comments": 5
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": -1,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 117.5,
         "n": 8,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
         "er": 0.002795248078266946,
         "vs_baseline": 0.03404255319148936,
-        "cost_per_eng": 25750.0,
+        "cost_per_eng": 12875.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+6)",
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+7)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.03배로 성과 극히 저조, 참여 1건당 25,750원은 팔로워 1,431명 소규모 계정치고 비효율적이나 D+3 초기 단계로 추이 모니터링 필요.",
@@ -99,5 +156,5 @@
   },
   "child_db_id": "f1739eba-97ed-82d2-88c1-01be4d46714c",
   "followers": 1431,
-  "last_written_score": 3
+  "last_written_score": 31
 }

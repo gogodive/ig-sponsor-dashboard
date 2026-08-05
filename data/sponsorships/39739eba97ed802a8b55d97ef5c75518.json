@@ -15,13 +15,116 @@
   "output_link_prop": null,
   "username": "areum___choi",
   "followers_notion": 10000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3b339eba-97ed-8068-b0db-dbf8b51810e6",
+      "url": "https://www.instagram.com/reel/Da5Zy2HR6aF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da5Zy2HR6aF",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-17",
+      "first_seen": "2026-08-06",
+      "posted_at": "2026-07-17T14:21:16.000Z",
+      "permalink": "https://www.instagram.com/p/Da5Zy2HR6aF/",
+      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/749981375_18013354832870647_1361860525791345679_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fktw4-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHuBBnIbm-hTTQw7vD2yVezdbVWrP5PELla0knVKwV33avXBLOP3aNmUCIu53X9spM&_nc_ohc=GvAESLpod9sQ7kNvwHpXx6k&_nc_gid=oOeSnr1lTMH1VwYdNML1ag&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFAinfOnifOMBSCQQtGK6ZMNHxajIk3ziozjAiPIbqDpA&oe=6A798FDB&_nc_sid=c6f216",
+      "caption": "운동할 때만 입는 줄 알았는데…👀\n요즘 제일 자주 입는 운동복 🤍🤫🧊\n#시크릿스 #secrets #운동복 #운동복추천 #제품제공",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "areum___choi",
+      "metrics": {
+        "views": 4425,
+        "likes": 249,
+        "comments": 23
+      },
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "history": [
+        {
+          "d": "2026-08-06",
+          "views": 4425,
+          "likes": 249,
+          "comments": 23
+        }
+      ],
+      "baseline": {
+        "views_median": 2828.5,
+        "eng_median": 198.0,
+        "n": 6,
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 19,
+      "computed": {
+        "er": 0.025152579988903273,
+        "vs_baseline": 1.5644334452890225,
+        "cost_per_eng": 226.10294117647058,
+        "cost_per_view": 13.898305084745763
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "평소 대비 1.56배 조회·참여 호조, 참여당 226원·조회당 13.9원으로 비용 효율도 양호한 중간 성과.",
+          "days": 19,
+          "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        }
+      },
+      "last_written_reaction": "조회 4,425 · 좋아요 249 · 댓글 23 · ER 2.5% · 평소대비 1.6x (D+19)"
+    },
+    {
+      "notion_row_id": "c5739eba-97ed-8333-8566-01b21e2f353b",
+      "url": "https://www.instagram.com/p/Da7kgMQmLe0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Da7kgMQmLe0",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-18",
+      "first_seen": "2026-08-06",
+      "posted_at": "2026-07-18T10:25:06.000Z",
+      "permalink": "https://www.instagram.com/p/Da7kgMQmLe0/",
+      "thumbnail": "https://instagram.fvix22-1.fna.fbcdn.net/v/t51.82787-15/751798853_18013462268870647_5914394708133072565_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fvix22-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gE1X-AeqI7mLWRy7AGAlllbZlrCxkPyo9OcDUenIfR1Lp_wFTxD2y4aJJ7PRvUhjvk7TEdZOFqU8qzNZARcBuPc&_nc_ohc=yYTIuw4FTzcQ7kNvwGK7YMK&_nc_gid=vFOS-15cLM9H_LNOlNlpyw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHhxg-INlR5WXK7QqvvwprzMGZGCd7KroiusxSwNS2dmw&oe=6A7992D9&_nc_sid=c6f216",
+      "caption": "오늘도 꾸준히 🤍\n@secrets__fit \n#제품제공 #시크릿스 #운동복 #짐웨어 #운동복추천",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "areum___choi",
+      "metrics": {
+        "likes": 288,
+        "comments": 20
+      },
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "history": [
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": 288,
+          "comments": 20
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 282,
+        "n": 11,
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 18,
+      "computed": {
+        "er": 0.02848159792861106,
+        "vs_baseline": 1.0921985815602837,
+        "cost_per_eng": 199.67532467532467,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "평소 대비 1.09배 수준의 무난한 참여율(2.85%)로, 참여 1건당 200원의 효율적인 비용을 기록 중이나 큰 바이럴 효과는 없는 안정적 성과.",
+          "days": 18,
+          "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 288 · 댓글 20 · ER 2.8% · 평소대비 1.1x (D+18)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "91939eba-97ed-82e6-a14a-01f01e8717e3",
-  "followers": 10000
+  "followers": 10814,
+  "last_written_score": 133
 }

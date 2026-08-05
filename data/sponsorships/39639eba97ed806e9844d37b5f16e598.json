@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T01:37:43.000Z",
       "permalink": "https://www.instagram.com/p/DarK3R9PCO_/",
-      "thumbnail": "https://instagram.fslp1-1.fna.fbcdn.net/v/t51.82787-15/742391334_18207810865347379_3440197357141591370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fslp1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gEjhYwwzNfnAdZrOVAWmDT3ZTMNirhTqMR5aa_u1yKOpEwf6ZodZjxGAf17gRxto3Y&_nc_ohc=rhgRfV2-T_EQ7kNvwHZYhoo&_nc_gid=mBHXQxChWx344qGiEsir6A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHbnaTtn6RlAZcguLWGbvxIArmXn2BIPp4rDKS8Fliv7g&oe=6A782DF9&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fgdl9-1.fna.fbcdn.net/v/t51.82787-15/742391334_18207810865347379_3440197357141591370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgdl9-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHyo8stMcOdajINfEPdYdd9T78GbtMsa3TnNR7XlLqgfLWzk9w4YUeq974oiomJwwA_k9yS1M8em6aeR2um8DCP&_nc_ohc=vqnolIpiwS8Q7kNvwFM4PSp&_nc_gid=KtnfmoHzUPWzp87jLwid3A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHXX2m9hkHIDjcIRZTIsLN59zoi5YYfaSORosLkkPeawA&oe=6A797F79&_nc_sid=c6f216",
       "caption": "#제품제공 수영복 원단맛집 \n@laserin_swim \n\n이번에 착용한 라세린 글리트 차콜벨벳 픽스트백은\n고급스러운 원단과 컬러가 어울리는 수영복이었습니다.\n\n은은하게 반짝이는 차콜 벨벳 텍스처,\n결을 따라 살아나는 메탈릭 광택,\n직접 보면 사진보다 훨씬 고급스럽습니다.\n\n게다가 크레오라(Creora) 원사를 사용해\n쫀쫀한 탄성과 부드러운 착용감,\n내구성까지 모두 잡았습니다.\n\n프리다이버인 저는\n슈트를 안에 편하게 입는 수용복의\n착용감이 정말 중요한데, 거기다 세련된 디자인까지 🤩\n\n✔ 슈트 안에 말림 없이 편안한 핏\n✔ 쫀쫀한 텐",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "elephantfam_",
       "metrics": {
-        "views": 5013,
+        "views": 5022,
         "likes": 277,
         "comments": 87
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -120,21 +120,27 @@
           "views": 5013,
           "likes": 277,
           "comments": 87
+        },
+        {
+          "d": "2026-08-06",
+          "views": 5022,
+          "likes": 277,
+          "comments": 87
         }
       ],
       "baseline": {
         "views_median": 2305.5,
         "eng_median": 222.0,
         "n": 8,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.11677895412255374,
-        "vs_baseline": 2.1743656473649966,
+        "vs_baseline": 2.178269355888094,
         "cost_per_eng": 217.03296703296704,
-        "cost_per_view": 15.75902653101935
+        "cost_per_view": 15.730784547988849
       },
       "analysis": {
         "one_liner": "평소 대비 2.19배 높은 반응과 참여 1건당 223원의 효율적 비용으로, 소규모 계정임에도 뚜렷한 초과 성과를 기록했습니다.",
@@ -150,7 +156,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "조회 5,013 · 좋아요 277 · 댓글 87 · ER 11.7% · 평소대비 2.2x (D+23)"
+      "last_written_reaction": "조회 5,022 · 좋아요 277 · 댓글 87 · ER 11.7% · 평소대비 2.2x (D+24)"
     }
   ],
   "flags": {
@@ -161,5 +167,5 @@
   },
   "child_db_id": "98139eba-97ed-825f-8508-01c778702ab8",
   "followers": 3117,
-  "last_written_score": 217
+  "last_written_score": 218
 }

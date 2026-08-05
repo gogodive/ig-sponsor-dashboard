@@ -1,0 +1,27 @@
+{
+  "page_id": "3b339eba-97ed-800f-ae0c-db5cf0b2a044",
+  "row_title_raw": "yun.nu.nana",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "10000",
+  "product_value_krw": 112000,
+  "delivery_date": "2026-08-04",
+  "output_link_prop": null,
+  "username": "yun.nu.nana",
+  "followers_notion": 10000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "5b739eba-97ed-82c1-9cde-0191f1ff576c",
+  "followers": 10000
+}

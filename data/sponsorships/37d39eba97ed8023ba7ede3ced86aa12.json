@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T06:14:10.000Z",
       "permalink": "https://www.instagram.com/p/DauPWGAJ7XC/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFLKF3eVVBF3JdFDERTvYgiNoCNZ3mMltBNgUsD4eacgsEA9GLCBz637w4HkMK3g30&_nc_ohc=itLXpQfIvzwQ7kNvwHq-xxv&_nc_gid=sC8oqWSIwycN4Pyf2PuuiQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH87ix6MBNF-xGyMEKNhIyReGalN-7WEqqy14VQdHvkdA&oe=6A783E88&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF_WzqUkgmCoGEoQQNoCGWKsPMNH9qFIQNQtYf73bLMwyYZojDd3bzNb3bC26NTwhY&_nc_ohc=itLXpQfIvzwQ7kNvwG87veX&_nc_gid=_O0ep-H933SqRX25tv-oWQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH_YZ8YGHEJDGJQjk0v1EWuSgmuK21Oa0JMsWHuA4rexg&oe=6A799008&_nc_sid=c6f216",
       "caption": "#제품제공 #인투더블루 #딥바이브 #프리다이빙장비 \n\n이제 날씨가 많이 더워져서 물놀이 피크시즌인데\n저의 물놀이 필수템은 스노쿨링 마스크랍니다🤿\n코에 물도 안들어오고 시야도 넓어 물놀이하기 좋아요!\n\n여러가지 마스크 사용해봤는데\n말랑말랑 코부분 잡기도 좋고, 반짝반짝 핑크디자인도 예쁘구\n이번주에도 물놀이가는데 가장먼저 챙길예정이에요!",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -120,6 +120,12 @@
           "views": 1727,
           "likes": -1,
           "comments": 10
+        },
+        {
+          "d": "2026-08-06",
+          "views": 1727,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "baseline": {
@@ -129,7 +135,7 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.002446316933949443,
         "vs_baseline": 2.2664041994750654,
@@ -150,7 +156,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 1,727 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.3x (D+22)"
+      "last_written_reaction": "조회 1,727 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.3x (D+23)"
     },
     {
       "notion_row_id": "72d39eba-97ed-82b3-bc21-81d46f56983a",
@@ -234,7 +240,7 @@
         "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.0016308779559662953,
         "vs_baseline": 0.06060606060606061,

@@ -21,20 +21,20 @@
       "url": "https://www.instagram.com/p/DbNyvHTiWiZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "DbNyvHTiWiZ",
       "media_kind": "피드",
-      "upload_date_notion": "2026-07-26",
+      "upload_date_notion": "2026-07-25",
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T12:15:48.000Z",
       "permalink": "https://www.instagram.com/p/DbNyvHTiWiZ/",
-      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/755870244_18601055860013423_6215758858668711168_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGyJ9xWQUOnis5zIhuEwVDFPSV0fTET4icmK4XNTbvOtLWPUa6Norvg1Rx5rKdFheI&_nc_ohc=ZBVMuIJ2hIcQ7kNvwEUSjOm&_nc_gid=iHjCdEsOXbG4KH6jcd7GDw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFs6nmJ_4ker8zZxPTz0DEiosmFookkOyJ02FZd-O8ImQ&oe=6A7830B9&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/755870244_18601055860013423_6215758858668711168_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG2JMffIqcOA3wf7W4E_KXdItn2ThOiT3v-N8mvCzN0olpZGXmfnq71oHmgt65akEs&_nc_ohc=Yxao0l9mgXIQ7kNvwHoBHFh&_nc_gid=YGfOu522cOZO4KjmY0RsiA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFmO_nwJ2iAHphmLEq_IzYoaHt9fesKzTThlTejspLqrA&oe=6A798239&_nc_sid=c6f216",
       "caption": "물놀이 전 인스타용사진->현실 물놀이 되어가는 피드\n.\n⭐️미친색감 수영복 진짜 #협찬 @laserin_swim \n쫀쫀하고 신축성 너무 좋음👍\n⭐️겉멋 롱핀 잠시 협찬 @sweatlife___jessi \n\n귀여운 새끼 성게\n\n계속 비왔어서 물속 시야안보임\n잠수해야지 물속시야보이구\n올해는 성게 씨가 마름 ㅠ\n\n잠수하면서 성게찾다가 발견한\n군소친구\n귀여운데 보라색 액체 내뱉음 @_@\n\n노핀 헤드업 수영도전\n\n물 너무 조아\n\n고막 과 바꾼 멍게\n\n우리 귀여워",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "e_ehyeon_",
       "metrics": {
-        "likes": 321,
+        "likes": 329,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -89,23 +89,29 @@
           "views": null,
           "likes": 321,
           "comments": 32
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": 329,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 323,
         "n": 3,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.018713884323808515,
-        "vs_baseline": 1.0928792569659442,
-        "cost_per_eng": 223.79603399433427,
+        "er": 0.01913799501669936,
+        "vs_baseline": 1.1176470588235294,
+        "cost_per_eng": 218.8365650969529,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 321 · 댓글 32 · ER 1.9% · 평소대비 1.1x (D+10)",
+      "last_written_reaction": "좋아요 329 · 댓글 32 · ER 1.9% · 평소대비 1.1x (D+11)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.03x로 평균 수준 유지 중이나, 참여 1건당 258원은 합리적인 초기 비용 효율을 보여주는 무난한 출발.",
@@ -123,5 +129,5 @@
   },
   "child_db_id": "b0d39eba-97ed-8231-9236-0118571be883",
   "followers": 18863,
-  "last_written_score": 109
+  "last_written_score": 112
 }

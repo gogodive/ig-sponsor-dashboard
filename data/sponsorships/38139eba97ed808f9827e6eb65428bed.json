@@ -1,7 +1,7 @@
 {
   "page_id": "38139eba-97ed-808f-9827-e6eb65428bed",
   "row_title_raw": "dodocat_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-31T05:20:40.000Z",
       "permalink": "https://www.instagram.com/p/Dbcf3bbzNX3/",
-      "thumbnail": "https://instagram.fgdl17-1.fna.fbcdn.net/v/t51.82787-15/761015121_18607791409021178_7660957455576309684_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgdl17-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gGjPTZNOraQcpkgvzbTYoRYtunKYxEgZZSmpb6AlDrTkzFdOGY377G8nOJl5HWEkKY&_nc_ohc=3lszMhgHQ4AQ7kNvwFbjZph&_nc_gid=8qDVjkcjpSv-ZJt4u-JqJw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFjCnZBqz7u5fBZ4rg9RJfJlBDWZD1_paSD1daFddbs7A&oe=6A782DFC&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/761015121_18607791409021178_7660957455576309684_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGgbYHD-9UcRIn2RfMuLuXkX4IVH8R0ZEGgIAZvNdNlf6h8bUVRnIHtvdfUg6ixk-s&_nc_ohc=3lszMhgHQ4AQ7kNvwF0DKZ4&_nc_gid=KdP3q6Q4eTFrnrfuseBVxQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFJXgTxkzlEwmtUd_P_kAjiNDqYoJky73QWdjBBKhVC1g&oe=6A797F7C&_nc_sid=c6f216",
       "caption": "🧜‍♀️🩵💙#freediving \n내 두번째 #프리다이빙\n인투더블루 딥바이브 오로라 롱핀과 함께 ✨️\n\r\n @intotheblue_store\r\n #인투더블루 #딥바이브 #오로라롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "dodocat_",
       "metrics": {
-        "views": 2629,
+        "views": 2655,
         "likes": -1,
         "comments": 18
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -66,23 +66,29 @@
           "views": 2629,
           "likes": -1,
           "comments": 18
+        },
+        {
+          "d": "2026-08-06",
+          "views": 2655,
+          "likes": -1,
+          "comments": 18
         }
       ],
       "baseline": {
         "views_median": 4152.5,
         "eng_median": 1060.5,
         "n": 8,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
         "er": 0.00043624419410300496,
-        "vs_baseline": 0.633112582781457,
+        "vs_baseline": 0.6393738711619507,
         "cost_per_eng": 9235.29411764706,
-        "cost_per_view": 59.7185241536706
+        "cost_per_view": 59.133709981167605
       },
-      "last_written_reaction": "조회 2,629 · 좋아요 -1 · 댓글 18 · ER 0.0% · 평소대비 0.6x (D+4)",
+      "last_written_reaction": "조회 2,655 · 좋아요 -1 · 댓글 18 · ER 0.0% · 평소대비 0.6x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.63x로 부진한 출발—참여 1건당 9,235원·조회당 60원은 비용 효율성이 낮아 추가 모니터링 필요.",
@@ -100,7 +106,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-30T13:27:19.000Z",
       "permalink": "https://www.instagram.com/p/Dbay5UgkwOM/",
-      "thumbnail": "https://instagram.fcia2-2.fna.fbcdn.net/v/t51.82787-15/761291921_18607452751021178_3880117866999112182_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fcia2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gH5NnXFfcMG_oLK3DynV5DkKgeKxNiayvNQSs5gSao28l8YfKRHLozhNu3cyYfiWKM&_nc_ohc=L41E_N3uS6YQ7kNvwFDLQ-G&_nc_gid=igHFZ_OqH0RTTwqrKBpNOA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEQozmgSYbXTMuYCRsXD-oEpaIIVzAgkb7vnOko0PJ8Wg&oe=6A784EB9&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/761291921_18607452751021178_3880117866999112182_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFY5PEK9fEAuZPux_4IJXd-sMOOIZXxhPfWmmgCM5J2Wuqc6Fja2DNJkABuYZvL1oc&_nc_ohc=L41E_N3uS6YQ7kNvwFqQi21&_nc_gid=7yhWvmWCfA8Hi7RbFlrAJQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQETGC7ThB6xOf2lnMZZ1K31Sclqxjy6ir8KAajT7BmYnQ&oe=6A79A039&_nc_sid=c6f216",
       "caption": "🩵💙 @intotheblue_store 🧜‍♀️\n#협찬 물속에서 영롱한 인투더블루 딥바이브 오로라롱핀 ✨️\n물을 무서워 하지만 물을 넘 좋아하는 나에게 프리다이빙은 \n신세계였는데 좋은 기회로 딥바이브 오로라롱핀과 함께 예쁜풀장에서 인어가됨 야외 다이빙 풀장이라 더욱더 빛이나는 이날 물속에만 10시간 있던건 안비밀 !\n또 물놀이 빨리 가고싶다 🏊‍♀️ \r\n\n#프리다이빙 #freediving \r\n#인투더블루 #딥바이브오로라롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -109,7 +115,7 @@
         "likes": -1,
         "comments": 22
       },
-      "metrics_updated_at": "2026-08-05T07:16:17.555483+09:00",
+      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -140,23 +146,29 @@
           "views": null,
           "likes": -1,
           "comments": 22
+        },
+        {
+          "d": "2026-08-06",
+          "views": null,
+          "likes": -1,
+          "comments": 22
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 1112,
         "n": 9,
-        "captured_at": "2026-08-05T07:16:17.555483+09:00"
+        "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
         "er": 0.0005388898868331237,
         "vs_baseline": 0.018884892086330936,
         "cost_per_eng": 7476.190476190476,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 22 · ER 0.1% · 평소대비 0.0x (D+5)",
+      "last_written_reaction": "좋아요 -1 · 댓글 22 · ER 0.1% · 평소대비 0.0x (D+6)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.02x로 극히 저조한 초기 반응, 참여 1건당 비용 7,476원은 협찬 효율 재검토가 필요한 수준입니다.",

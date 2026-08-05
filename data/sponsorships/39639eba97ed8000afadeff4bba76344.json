@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T07:46:05.000Z",
       "permalink": "https://www.instagram.com/p/DaZz-KeEazh/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGO4MbAwDN_XtZ6Q4P1JPnZXAQWgV1xar2moYCf3ycNydXozqhdNXPnyc0yLiGR2eY&_nc_ohc=rRyTBtLNyy0Q7kNvwGtqrnN&_nc_gid=FgApvTWtZMKtQoVtRhKyEA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEDKDjpt6Ewk5-ehWTkD4CoYD5aiEk1-3vhAOULrrXD1g&oe=6A7825E1&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbne3-1.fna.fbcdn.net/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbne3-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFypHxj8pPGWPN3Yi_vHCjjwLQZlzpTX4bmuGAIAAgqOgrSJW6VOLRBU8c47SnJnOo&_nc_ohc=VmvdlL70PH4Q7kNvwHMCXpj&_nc_gid=VmG39Kew88R0NCQEmdC9vQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEuFd5LSAJHPQYXG4XlwYHUXSvlyDLElVfCYsijOOjAZw&oe=6A797761&_nc_sid=c6f216",
       "caption": ".\n@laserin_swim #제품제공\n\n여름에 딱 어울리는 청량한 컬러💦\n보기엔 부드러워 보이는데 입어보면 한 겹인데도 \n쫀쫀해서 몸을 챡 붙는 느낌!\n\n은은하게 반짝이는 컬러감이 맘네 들어서\npick!🩵\n\n반짝반짝 예뿌다🩵💙\n\n🫧166cm 55kg M size🫧",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -127,8 +127,8 @@
         "n": 10,
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0021080873898045227,
         "vs_baseline": 1.1578947368421053,
@@ -142,9 +142,11 @@
           "one_liner": "평소대비 1.0x로 반응 변화 없고, 참여 1건당 비용 6,273원은 협찬 가액 대비 효율이 낮아 성과 미흡 단계.",
           "days": 18,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 5,218명 규모의 소형 계정임에도 참여율 0.21%는 업계 평균(1~3%)을 크게 밑돌며, 평소 대비 1.16배 수준의 미미한 상승폭은 협찬 콘텐츠로서의 추가 도달 효과가 거의 없었음을 의미한다. 참여 1건당 비용 6,273원은 동일 예산으로 확보 가능한 마이크로 인플루언서 단가 대비 비효율적이며, 조회수 데이터 부재(피드 게시물)와 좋아요 이상값(-1)까지 고려하면 신뢰할 수 있는 성과 지표 자체가 부족하다. 69,000원의 상품 가액 대비 실질적인 브랜드 노출·전환 기여도는 낮다고 판단되며, 재협찬 시에는 릴스 형식 전환 및 사전 계정 진단이 필요하다.",
+        "final_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.2% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 12 · ER 0.2% · 평소대비 1.2x (확정)"
     }
   ],
   "flags": {

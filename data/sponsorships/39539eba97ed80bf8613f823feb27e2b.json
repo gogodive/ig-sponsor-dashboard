@@ -1,7 +1,7 @@
 {
   "page_id": "39539eba-97ed-80bf-8613-f823feb27e2b",
   "row_title_raw": "5.___.hi",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -16,6 +16,22 @@
   "username": "5.___.hi",
   "followers_notion": 12000,
   "posts": [
+    {
+      "notion_row_id": "3b339eba-97ed-80c6-b839-dbc1912e2fb6",
+      "url": "https://www.instagram.com/reel/DaxdJJXzZOO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DaxdJJXzZOO",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-14",
+      "first_seen": "2026-08-06",
+      "frozen": false,
+      "days_since_post": -8,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
     {
       "notion_row_id": "cc239eba-97ed-83d6-8114-81f58c4955c1",
       "url": "https://www.instagram.com/p/DauaJP0kesI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -74,11 +90,11 @@
         "captured_at": "2026-07-27T07:01:35.301262+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.029086439983613273,
         "vs_baseline": 0.9633649932157394,
-        "cost_per_eng": 250.70422535211267,
+        "cost_per_eng": 125.35211267605634,
         "cost_per_view": null
       },
       "analysis": {
@@ -95,7 +111,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 344 · 댓글 11 · ER 2.9% · 평소대비 1.0x (D+22)"
+      "last_written_reaction": "좋아요 344 · 댓글 11 · ER 2.9% · 평소대비 1.0x (D+23)"
     }
   ],
   "flags": {

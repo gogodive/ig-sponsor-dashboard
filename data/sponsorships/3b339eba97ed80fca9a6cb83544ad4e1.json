@@ -1,0 +1,27 @@
+{
+  "page_id": "3b339eba-97ed-80fc-a9a6-cb83544ad4e1",
+  "row_title_raw": "__inxlaf",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "15000",
+  "product_value_krw": 123000,
+  "delivery_date": "2026-08-05",
+  "output_link_prop": null,
+  "username": "__inxlaf",
+  "followers_notion": 15000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "70d39eba-97ed-82fd-a627-81c79e0d130e",
+  "followers": 15000
+}
