@@ -63,9 +63,9 @@
         "captured_at": "2026-07-25T07:08:32.246660+09:00"
       },
       "frozen": true,
-      "days_since_post": 42,
+      "days_since_post": 43,
       "computed": {
-        "er": 0.05485059353254196,
+        "er": 0.0543941546580069,
         "vs_baseline": 0.7997042963993738,
         "cost_per_eng": 128.73134328358208,
         "cost_per_view": 3.7520391517128875
@@ -81,7 +81,7 @@
         "final_verdict": "팔로워 대비 참여율 5.53%는 소규모 계정 기준으로 양호한 수준이나, 평소 대비 0.80배라는 점은 협찬 콘텐츠가 오히려 평균 이하의 반응을 얻었음을 의미해 콘텐츠 자연스러움에 개선 여지가 있다. 조회당 비용 3.8원·참여당 비용 129원은 절대 수치상 효율적으로 보이지만, 팔로워 4,842명의 마이크로 계정에서 조회 9,195회는 팔로워의 약 1.9배 수준으로 외부 확산이 제한적이었다. 상품 가액 138,000원 대비 도달·참여 규모가 작아 브랜드 인지 확대보다는 소규모 충성 커뮤니티 내 노출에 그쳤으며, 재협찬 시에는 콘텐츠 기획 방향 조율과 함께 계정 성장 추이를 추가 모니터링한 후 결정하는 것이 바람직하다.",
         "final_at": "2026-07-26T06:59:34.414324+09:00"
       },
-      "last_written_reaction": "조회 9,195 · 좋아요 230 · 댓글 38 · ER 5.5% · 평소대비 0.8x (확정)"
+      "last_written_reaction": "조회 9,195 · 좋아요 230 · 댓글 38 · ER 5.4% · 평소대비 0.8x (확정)"
     },
     {
       "notion_row_id": "38939eba-97ed-8075-9f2b-c3b01318cf3a",
@@ -117,9 +117,9 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": true,
-      "days_since_post": 43,
+      "days_since_post": 44,
       "computed": {
-        "er": 0.02885796152271797,
+        "er": 0.028617820174548406,
         "vs_baseline": 0.8757763975155279,
         "cost_per_eng": 244.68085106382978,
         "cost_per_view": null
@@ -164,9 +164,9 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 48,
+      "days_since_post": 49,
       "computed": {
-        "er": 0.040319279574293904,
+        "er": 0.039983762938908055,
         "vs_baseline": 1.131810442678774,
         "cost_per_eng": 175.12690355329948,
         "cost_per_view": 4.324934185784129
@@ -187,7 +187,7 @@
       "upload_date_notion": "2026-06-22",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -203,6 +203,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e2f39eba-97ed-828f-8dd5-81d34f71aef9",
-  "followers": 4886,
+  "followers": 4927,
   "last_written_score": 94
 }

@@ -123,9 +123,9 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.05219262846381491,
+        "er": 0.04079486909893807,
         "vs_baseline": null,
         "cost_per_eng": 66.04381443298969,
         "cost_per_view": 1.0703842940685047
@@ -144,7 +144,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 23,940 · 좋아요 311 · 댓글 77 · ER 5.2% (D+15)"
+      "last_written_reaction": "조회 23,940 · 좋아요 311 · 댓글 77 · ER 4.1% (D+16)"
     },
     {
       "notion_row_id": "39739eba-97ed-802c-894a-cf22808926e2",
@@ -155,7 +155,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-06T09:21:43.000Z",
       "permalink": "https://www.instagram.com/p/DacjnTVTyKx/",
-      "thumbnail": "https://instagram.fper10-1.fna.fbcdn.net/v/t51.71878-15/735859992_1495621655201890_563564541822403486_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fper10-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFfmoER3JWRmN-hCwsKp9cPUVvuhalIYqpqqsNbCvfReTSltK50cFINekbDIcRsU4E&_nc_ohc=Ichr-ap0nTsQ7kNvwFZ8Bdo&_nc_gid=IvYHQ4Ub8RdSkPcxRs-4AA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGk7bKpK7g5Gag5sNzQwI-sp_3gsRxhKIOSTUv1POOh1A&oe=6A7999B6&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/735859992_1495621655201890_563564541822403486_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHlAGE09eO4saILAMcSG3j6H8OLnquSuZ7lgB8cdf5jEU9LoZyyDZgleKTMH9rmFT0&_nc_ohc=-8MTG36CSvoQ7kNvwFRuOzq&_nc_gid=c4oZZewRQ8eJDwhZxcuwSQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH79wA6dOoTBm61eaOFVopjRJFkKqf_LGY69hKkKaToRw&oe=6A7B2376&_nc_sid=c6f216",
       "caption": "자기 전 누워서 딱 이 두 가지만!🤍\n\n옷 🏷️ @secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -252,10 +252,10 @@
           "comments": 83
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.1393596986817326,
+        "er": 0.10892650615077279,
         "vs_baseline": null,
         "cost_per_eng": 24.734555984555985,
         "cost_per_view": 0.2070556484780905
@@ -267,9 +267,11 @@
           "one_liner": "조회 118K·참여율 14.82%로 소규모 계정 대비 이례적 확산세, 조회당 0.9원의 극저비용으로 102,500원 협찬비 이상의 노출 효율을 달성 중.",
           "days": 17,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 9,511명 규모의 계정에서 조회수 123,759회를 기록해 팔로워 대비 약 13배의 조회 확산을 달성했으며, 참여율 10.89%는 소규모 인플루언서 평균(3~6%)을 크게 웃도는 우수한 수치다. 조회 1회당 비용 0.2원, 참여 1건당 비용 25원은 인플루언서 마케팅 업계 기준으로 매우 효율적인 수준으로, 상품 가액 102,500원 대비 노출·참여 모두 압도적인 가성비를 보였다. 다이빙·수영 브랜드 특성상 틈새 타깃 도달이 중요한데, 높은 유기적 확산 지표를 고려할 때 이번 협찬은 비용 대비 충분한 가치가 있었다고 평가된다.",
+        "final_at": "2026-08-07T10:01:11.565831+09:00"
       },
-      "last_written_reaction": "조회 123,759 · 좋아요 953 · 댓글 83 · ER 13.9% (D+30)"
+      "last_written_reaction": "조회 123,759 · 좋아요 953 · 댓글 83 · ER 10.9% (확정)"
     },
     {
       "notion_row_id": "39739eba-97ed-80ca-b193-f337c8e9d5d1",
@@ -359,9 +361,9 @@
         "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
-        "er": 0.060936238902340595,
+        "er": 0.047629061087162236,
         "vs_baseline": 1.6532846715328466,
         "cost_per_eng": 56.567328918322296,
         "cost_per_view": null
@@ -377,7 +379,7 @@
         "final_verdict": "팔로워 대비 참여율 6.09%는 마이크로 인플루언서 평균(3~5%)을 상회하며, 평소 게시물 대비 1.65배 높은 반응은 협찬 콘텐츠임에도 팔로워 거부감이 낮았음을 시사한다. 참여 1건당 비용 57원, 총 453건의 좋아요+댓글은 10만 원 초반 상품 가액 대비 효율적인 수치로, 소규모 다이빙·수중 관심 타깃층에 밀도 높게 도달했다고 평가된다. 다만 피드 게시물 특성상 조회수 데이터가 없어 노출 범위 추정에 한계가 있으므로, 향후 릴스 포맷 병행을 권장한다.",
         "final_at": "2026-08-02T06:59:26.504379+09:00"
       },
-      "last_written_reaction": "좋아요 353 · 댓글 100 · ER 6.1% · 평소대비 1.7x (확정)"
+      "last_written_reaction": "좋아요 353 · 댓글 100 · ER 4.8% · 평소대비 1.7x (확정)"
     },
     {
       "notion_row_id": "86b39eba-97ed-82ac-90b3-8189113beab7",
@@ -388,7 +390,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T09:38:48.000Z",
       "permalink": "https://www.instagram.com/p/DafKdaZk1Jj/",
-      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/735346620_17894312430546772_2915820515561045293_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpoz5-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gE50GJKWU_lSuTAECVmyaahoHkRnNqqUkqoaOuAa1LQoDO4W6bl6hOQ91OtL2fdJGE&_nc_ohc=YsjJqwNwq4cQ7kNvwFgDctO&_nc_gid=5PjMumHxEUhQ1OyMVE0wfg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE3W0yt40uP8psBgz4v2NMJDt2wAbMlEOSO9Mli4soWPA&oe=6A799FE5&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fagp3-1.fna.fbcdn.net/v/t51.82787-15/735346620_17894312430546772_2915820515561045293_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagp3-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFvJO_uj3GFtnynHch3KKUXbwTcLEoU4VVpxZFoDY3bQi4gkNI5JgBqxgMcV9fEwvI&_nc_ohc=YsjJqwNwq4cQ7kNvwH3uInr&_nc_gid=pNbdr-OHBXatgAmNH2a9sw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFtVCGdUJrjuF7nupmbQFMnJ2M9repqyz443LUP_lqx0A&oe=6A7B29A5&_nc_sid=c6f216",
       "caption": "#협찬 \n\n🏷️ @secrets__fit \n\n이 자세 완전 시원한데 함 해보세유😝🤍",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -397,7 +399,7 @@
         "likes": 325,
         "comments": 81
       },
-      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -488,19 +490,25 @@
           "views": null,
           "likes": 325,
           "comments": 81
+        },
+        {
+          "d": "2026-08-07",
+          "views": null,
+          "likes": 325,
+          "comments": 81
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 274.0,
+        "eng_median": 298.0,
         "n": 12,
-        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+        "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.054613935969868174,
-        "vs_baseline": 1.4817518248175183,
+        "er": 0.04268741457260015,
+        "vs_baseline": 1.3624161073825503,
         "cost_per_eng": 63.11576354679803,
         "cost_per_view": null
       },
@@ -513,7 +521,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 325 · 댓글 81 · ER 5.5% · 평소대비 1.5x (D+29)"
+      "last_written_reaction": "좋아요 325 · 댓글 81 · ER 4.3% · 평소대비 1.4x (D+30)"
     }
   ],
   "flags": {
@@ -523,6 +531,6 @@
     "account_unavailable": false
   },
   "child_db_id": "3ef39eba-97ed-8274-83ea-0136973ba4ac",
-  "followers": 7434,
-  "last_written_score": 157
+  "followers": 9511,
+  "last_written_score": 151
 }

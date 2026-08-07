@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T13:03:26.000Z",
       "permalink": "https://www.instagram.com/p/DaiGrIPE2L-/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/740858814_18611186956037080_5938966120832941548_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEH-DiJJfunc88EmhLTgQ_tUhpIfwlXhqMJONL0cDACsv98KzB1eO2-nFSYabftFFI&_nc_ohc=h4t6_tRYzXcQ7kNvwHmywyR&_nc_gid=qGPeGzjETTeMHmxpM63npQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFMQeCXeVJBX2LqNQ85VNV3LMPHVe3-YClmK7PeCdmgVA&oe=6A798556&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsyd14-1.fna.fbcdn.net/v/t51.82787-15/740858814_18611186956037080_5938966120832941548_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsyd14-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEKLxeFCxVfNrXZspvqWD7TM_2f2wiMI6Qf1GJdnIWVHPVHJmNuph8ULf0CHhOYA2U&_nc_ohc=h4t6_tRYzXcQ7kNvwEeEGsk&_nc_gid=Wgvo2BJKseuSbafUYtSrog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEx6CMpOOul2-huhuNGrk_b_lpb1T_fmcRp_41RTznWfw&oe=6A7B0F16&_nc_sid=c6f216",
       "caption": "라세린의 계절이 돌아왔어요👙\n반짝반짝 빛나는 아름다운 스윔웨어\n뒷태도 완벽하고 밤에도 빛나는 라세린\n수영할때 편해야 최고인 스윔웨어 \n바로 라세린 입니다.😉\n\n제품모델 ㅡ 크리스탈웨이브 더블크로스백\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -125,18 +125,24 @@
           "views": null,
           "likes": -1,
           "comments": 21
+        },
+        {
+          "d": "2026-08-07",
+          "views": null,
+          "likes": -1,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8,
         "n": 11,
-        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+        "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
-        "er": 0.0017828489926903191,
+        "er": 0.0017834849295523454,
         "vs_baseline": 2.5,
         "cost_per_eng": 3450.0,
         "cost_per_view": null
@@ -150,7 +156,7 @@
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.2% · 평소대비 2.5x (D+28)"
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 0.2% · 평소대비 2.5x (D+29)"
     }
   ],
   "flags": {
@@ -160,6 +166,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a2b39eba-97ed-8318-975e-8197875ccab4",
-  "followers": 11218,
+  "followers": 11214,
   "last_written_score": 250
 }

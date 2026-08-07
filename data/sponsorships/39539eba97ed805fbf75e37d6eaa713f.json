@@ -24,26 +24,26 @@
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.012294551572408437,
-        "vs_baseline": 1.390818128310771,
+        "vs_baseline": 1.394349617422013,
         "cost_per_eng": 336.8421052631579,
-        "cost_per_view": 13.542107490478205
+        "cost_per_view": 13.50780920219502
       },
       "posted_at": "2026-07-16T03:00:56.000Z",
       "permalink": "https://www.instagram.com/p/Da1nbBuBxJS/",
-      "thumbnail": "https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHZrFjQmO92JhKVgVtE1f7cUJikFktj9scsSxXi52w0wuFtGA0IWV742cZH1Zf8-0wIUZ5hGERZNXb6WuvQrBvS&_nc_ohc=DZBY6jE-2boQ7kNvwHTCIyR&_nc_gid=crMtVgvu7KmoTzvpPRPM7Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGIT6mridNX0UwvmmEsXJnXy-IDyVdMdy1oWjvIhytnqQ&oe=6A7982AD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHCdZwwvTflFtCrgP1bbQ5GZyINJh7n76b86R0lxtDqPMlNa9VljJPs91ACVz6Eb5E&_nc_ohc=DZBY6jE-2boQ7kNvwG8XBV6&_nc_gid=0dp_4FYsXUFR9JD34yviAA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGDWdL0u6dubD5OaxaW-XEk0EIcmfQZ-voP8VAhqwVDkw&oe=6A7B0C6D&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n물 속에서도 시크하고 우아한 수영복\n라세린 스태리블랙🖤🤍✨️\n한창 컬러풀한 걸로 입다가\n요즘 시크하게 블랙이 땡기는데 \n딱 그 마음을 충족시킬 수 있는 수영복이예요\n\n수영복 @laserin_swim \n마스크 @usepool_official \n수모 @areyou.readytokick \n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩°｡⋆",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "freeee_kay_",
       "metrics": {
-        "views": 2363,
+        "views": 2369,
         "likes": 71,
         "comments": 24
       },
-      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -122,6 +122,12 @@
           "views": 2363,
           "likes": 71,
           "comments": 24
+        },
+        {
+          "d": "2026-08-07",
+          "views": 2369,
+          "likes": 71,
+          "comments": 24
         }
       ],
       "analysis": {
@@ -136,12 +142,12 @@
           "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
         }
       },
-      "last_written_reaction": "조회 2,363 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 1.4x (D+20)",
+      "last_written_reaction": "조회 2,369 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 1.4x (D+21)",
       "baseline": {
         "views_median": 1699,
         "eng_median": 101,
         "n": 5,
-        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+        "captured_at": "2026-08-07T10:01:11.565831+09:00"
       }
     },
     {
@@ -152,25 +158,25 @@
       "upload_date_notion": "2026-07-12",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.023424356153746603,
-        "vs_baseline": 1.1753246753246753,
-        "cost_per_eng": 176.79558011049724,
+        "er": 0.023553772486087744,
+        "vs_baseline": 1.1818181818181819,
+        "cost_per_eng": 175.82417582417582,
         "cost_per_view": null
       },
       "posted_at": "2026-07-12T02:26:16.000Z",
       "permalink": "https://www.instagram.com/p/DarQ74yAcaA/",
-      "thumbnail": "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-15/743270494_17897909931504729_5706311471354239285_n.heic?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fykz1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gG-0XzTqxN0UeEDPfqH6Ye3Piw7N8Ymiuioy8smOcmZ446Pg94XgjoNm5E193WyHO8&_nc_ohc=KXNKVYJ8YGUQ7kNvwHsC4Lg&_nc_gid=PMMBcc2Q3IRh2AQfxbTidg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGpw3IlbSl88C-K1ztRaR01D-X662DvmrMYaOHDUgGcqw&oe=6A799951&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fhnd3-2.fna.fbcdn.net/v/t51.82787-15/743270494_17897909931504729_5706311471354239285_n.heic?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fhnd3-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH-XrPN2Abc3NXaOq8-WFgJgrQjkQb0j9mC4c7tZ5DRik6EEf-NWmhLev8asxeENFT9oSDm-xJnaRURL6HPYIHh&_nc_ohc=VKU6lwr_oTcQ7kNvwGeibg7&_nc_gid=IP4JJVsVSeGsrk3gVEvOrA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHdgbCL45ZGBHq0eparHfHRMWfVNQeGGRCoQoPr6i6Fcw&oe=6A7B2311&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n평소에 입던 스탈과 다르게 한번 입어봤는데\n어떤가요?😳\n풀장에서 종종 본 디자인인데\n실물이 더 예쁜 수영복이라 결국 입어본🖤✨️\n오묘한 색 조합이 진짜 예쁘고 고급스러워요\n\n백타입은 안정적이고\n컷도 미들컷으로 편안해요\n착용감도 말랑합니다\n\n라세린 | 스태리블랙 픽스드백\n@laserin_swim\nH165 W54 T150\n사이즈 S 착용\n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "freeee_kay_",
       "metrics": {
-        "likes": 144,
+        "likes": 145,
         "comments": 37
       },
-      "metrics_updated_at": "2026-08-06T07:14:38.900393+09:00",
+      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -249,6 +255,12 @@
           "views": null,
           "likes": 144,
           "comments": 37
+        },
+        {
+          "d": "2026-08-07",
+          "views": null,
+          "likes": 145,
+          "comments": 37
         }
       ],
       "analysis": {
@@ -263,12 +275,12 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 144 · 댓글 37 · ER 2.3% · 평소대비 1.2x (D+24)",
+      "last_written_reaction": "좋아요 145 · 댓글 37 · ER 2.4% · 평소대비 1.2x (D+25)",
       "baseline": {
         "views_median": null,
         "eng_median": 154.0,
         "n": 12,
-        "captured_at": "2026-08-06T07:14:38.900393+09:00"
+        "captured_at": "2026-08-07T10:01:11.565831+09:00"
       }
     }
   ],
@@ -280,5 +292,5 @@
   },
   "child_db_id": "65e39eba-97ed-83de-8707-01dcb011bf40",
   "followers": 7727,
-  "last_written_score": 128
+  "last_written_score": 129
 }
