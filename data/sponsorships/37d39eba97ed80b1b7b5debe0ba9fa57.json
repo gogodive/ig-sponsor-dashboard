@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T15:35:31.000Z",
       "permalink": "https://www.instagram.com/p/DafzDctA0nb/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzj6uB-6V1H-Jliz0_5eiNAx5T1CviHZKd0CPoN8ZwyBzREOdzNBSKwLU4LEW_dL2smLP98vmLHFnClFXoX_ni&_nc_ohc=_8rEjul2SXAQ7kNvwGtcQ2W&_nc_gid=e7ilO17TuCXO-bXGD9MukQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEH7w25tezE1eR70wBMGqfKBitAL93GvykhHLSe5jt0GQ&oe=6A7AFCD8&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/741828011_17959300332158472_931410227890272090_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH-FTeN222hzaGWW7EHULNCHY8Z6z9PVGe0U6T3pfeAS2t1yMl3S-puMVgw0xSvlEc&_nc_ohc=_8rEjul2SXAQ7kNvwED_3Gr&_nc_gid=XfbocoDYZ6it7Bo18uNvJw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFfDKamlZ3wFhio4kDhbQqNu8UEFlxoaGy4QhbB4b5fFg&oe=6A7C1618&_nc_sid=c6f216",
       "caption": "#협찬 🐟 라세린 물고기 귀여워서\n한입에 먹어봄...\n\n오늘도 내 상상속에서는 잠깐 물고기 모드🫧🐠\n\n👙 글리트 아이스모카 와이백 / XS\n📏 H: 147cm · W: 41kg\n\n#라세린 #Laserin #수영 #수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -134,8 +134,8 @@
         "n": 8,
         "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0228595178719867,
         "vs_baseline": 10.169399456795091,
@@ -149,9 +149,11 @@
           "one_liner": "평소 대비 5.54배 조회로 노출 효율은 우수하나, 댓글 0건으로 실구매 전환 연결에는 추가 액션이 필요한 시점.",
           "days": 16,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "조회 50,547회·평소 대비 10.17배라는 이례적 확산력은 콘텐츠 자체의 흡입력을 입증하며, 조회 1회당 0.8원·참여 1건당 60원은 다이빙·수영 니치 카테고리 기준으로 매우 효율적인 단가다. 팔로워 대비 참여율 2.29%도 인스타그램 평균(1~3%)의 상단에 위치해 팬덤 품질이 양호하다고 판단된다. 상품 가액 79,000원 단일 협찬으로 이 수준의 노출과 참여를 확보한 것은 비용 대비 충분한 가치가 있었으며, 향후 재협찬 또는 장기 파트너십 검토를 권장한다.",
+        "final_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "last_written_reaction": "조회 50,547 · 좋아요 621 · 댓글 39 · ER 2.3% · 평소대비 10.2x (D+30)"
+      "last_written_reaction": "조회 50,547 · 좋아요 621 · 댓글 39 · ER 2.3% · 평소대비 10.2x (확정)"
     },
     {
       "notion_row_id": "46339eba-97ed-83c3-9b33-811abf30a0aa",
@@ -179,7 +181,7 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
         "er": 0.016971460238293157,
         "vs_baseline": 2.5322997416020674,

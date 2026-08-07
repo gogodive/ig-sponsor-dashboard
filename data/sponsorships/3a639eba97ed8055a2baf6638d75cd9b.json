@@ -15,7 +15,58 @@
   "output_link_prop": null,
   "username": "_lovely.jin",
   "followers_notion": 24000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "ae539eba-97ed-8206-ae58-01b88d4e9a11",
+      "url": "https://www.instagram.com/p/DbXjwf_Ew2q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbXjwf_Ew2q",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-29",
+      "first_seen": "2026-08-08",
+      "posted_at": "2026-07-29T07:17:19.000Z",
+      "permalink": "https://www.instagram.com/p/DbXjwf_Ew2q/",
+      "thumbnail": "https://instagram.fgla4-1.fna.fbcdn.net/v/t51.82787-15/757921581_18607404775025490_1782536081465584443_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fgla4-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEmk_5vzkipRSebUSDOo5AdP2-O3nyNQL540oRBOpPV7-CSR7E3Jnj5cgRi8wjnHh4NOLCnxtxHyJkAahTKN-gE&_nc_ohc=QZd8abxr-BoQ7kNvwFMNj9U&_nc_gid=Tr7LpZuRYW70aV6ok268tA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE7OnpB668tSF0XRw6NiHdKAlaqAB07tHj8wGS8PqDM0g&oe=6A7C40E9&_nc_sid=c6f216",
+      "caption": "편안한데 라인까지 예쁜 운동복.\n운동도, 일상도 자연스럽게 함께하는 시크릿스✨\n\n📏 165cm / 48kg\nTop S / Leggings M\n👚@secrets__fit",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "_lovely.jin",
+      "metrics": {
+        "likes": 1340,
+        "comments": 33
+      },
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
+      "history": [
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": 1340,
+          "comments": 33
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 383.5,
+        "n": 12,
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 9,
+      "computed": {
+        "er": 0.055019034261671006,
+        "vs_baseline": 3.5801825293350715,
+        "cost_per_eng": 61.17989803350328,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 3.58배 높은 참여율과 참여 1건당 61원의 낮은 비용으로 초기 9일 성과가 매우 우수하다.",
+          "days": 9,
+          "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 1,340 · 댓글 33 · ER 5.5% · 평소대비 3.6x (D+9)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
@@ -23,5 +74,6 @@
     "account_unavailable": false
   },
   "child_db_id": "75a39eba-97ed-8366-9261-814987467184",
-  "followers": 24000
+  "followers": 24955,
+  "last_written_score": 358
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T23:47:32.000Z",
       "permalink": "https://www.instagram.com/p/DbRmsWyE1DV/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEXr2oCeCetlTVyXgjdIgWhW9HTIZf2xEozvyQ1lO3xoSyCktxozT-4bHFdfZ2uqMU&_nc_ohc=ikoN6C5LrG4Q7kNvwG223yX&_nc_gid=BFrUjWyDuEGx-FVziFSlvg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEG-X_wCO4xzNRw0nLTQ1SpllKUuX3_jzGyqkClTFuQAA&oe=6A7AF9C6&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEHSXkOuNVXX18UK2n6qzAZJneA_49Bl2OgYngq-Z3FeMhm0IZGfnzM2Rje4imuaVQ&_nc_ohc=PDR9wqNxD2EQ7kNvwHUC2Ai&_nc_gid=NBclHw-5LaXcI0X_Ms0qBw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGWa2I35x_FTkCLYbYBZi422yM495TiqSc6XbxGxVl3kw&oe=6A7C1306&_nc_sid=c6f216",
       "caption": "✨오늘의 수영복 리뷰\n#제품제공 @laserin_swim\n\n라세린 - 미스틱 레드 더블크로스백\n\n저녁 노을을 담은 듯한 핑크 그라데이션 컬러가 정말 마음에 드는 수영복이에요✨\n고밀도 화이트 안감이라 버블도 전혀 없어서 입수해도 너무 예쁜 수영복이에요!!\n\n백타입은 더블 크로스 픽스드백으로 백라인을 탄탄하게 잡아줘서 저 처럼 물들어오는걸 끔찍하게😱 싫어하시는 분들이라면 바로 이 수영복!!! Pick~✨\n\n안정적인 가슴선에 노출이 부담스러우신 분들께 추천할 수 있는 미들컷, 그리고 힙커버리지도 적당해서 스타트 할때도 부담스럽지 않아요~",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yojung",
       "metrics": {
-        "likes": 147,
+        "likes": 148,
         "comments": 42
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -101,23 +101,29 @@
           "views": null,
           "likes": 147,
           "comments": 42
+        },
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": 148,
+          "comments": 42
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 147,
         "n": 9,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
       "days_since_post": 11,
       "computed": {
-        "er": 0.15855704697986578,
-        "vs_baseline": 1.2857142857142858,
-        "cost_per_eng": 338.62433862433863,
+        "er": 0.1593959731543624,
+        "vs_baseline": 1.2925170068027212,
+        "cost_per_eng": 336.8421052631579,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 147 · 댓글 42 · ER 15.9% · 평소대비 1.3x (D+11)",
+      "last_written_reaction": "좋아요 148 · 댓글 42 · ER 15.9% · 평소대비 1.3x (D+11)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.94x로 소폭 하회하나, 참여율 15.2%·364원/건으로 소규모 계정 특유의 고밀도 반응이 확인되며 비용 효율은 긍정적.",

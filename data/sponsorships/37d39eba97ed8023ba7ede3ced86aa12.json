@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T06:14:10.000Z",
       "permalink": "https://www.instagram.com/p/DauPWGAJ7XC/",
-      "thumbnail": "https://instagram.fyvr2-1.fna.fbcdn.net/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyvr2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFA1Qza2hQZ2SF0pLfCWjTxmIfIOHQL6Db13x1eNlEy06KiBgaYxWxWNfQCiCsuLz0&_nc_ohc=_q3y7-jJoxYQ7kNvwFgL_Dp&_nc_gid=iG7dkHWXDUpTSaPh_KI6Bg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFkkAeBeYgG072pzZsg248q1XXs2Q3C8mwZesox0Zm03w&oe=6A7B19C8&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.71878-15/747079961_2154312981797058_1753654645329360991_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGb0fDRVA413e3Yj6ekJWIPAfJtUzyD9acb8MQsiY9uQjL3sJ6BADjLDaknL7erF1A&_nc_ohc=_q3y7-jJoxYQ7kNvwHneb0K&_nc_gid=xEiJ9QdYUo3Ej2to1_H96w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGtEHd8Mfd8RKkkAVRv9kq5sBxa7C4igIpCKClF6OUfhA&oe=6A7C3308&_nc_sid=c6f216",
       "caption": "#제품제공 #인투더블루 #딥바이브 #프리다이빙장비 \n\n이제 날씨가 많이 더워져서 물놀이 피크시즌인데\n저의 물놀이 필수템은 스노쿨링 마스크랍니다🤿\n코에 물도 안들어오고 시야도 넓어 물놀이하기 좋아요!\n\n여러가지 마스크 사용해봤는데\n말랑말랑 코부분 잡기도 좋고, 반짝반짝 핑크디자인도 예쁘구\n이번주에도 물놀이가는데 가장먼저 챙길예정이에요!",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "rimi_swim",
       "metrics": {
-        "views": 1727,
+        "views": 1728,
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -132,6 +132,12 @@
           "views": 1727,
           "likes": -1,
           "comments": 10
+        },
+        {
+          "d": "2026-08-08",
+          "views": 1728,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "baseline": {
@@ -141,12 +147,12 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.0024596884394643345,
-        "vs_baseline": 2.2664041994750654,
+        "vs_baseline": 2.267716535433071,
         "cost_per_eng": 5722.222222222223,
-        "cost_per_view": 29.820497973364215
+        "cost_per_view": 29.80324074074074
       },
       "analysis": {
         "one_liner": "평소 대비 2.18배 조회로 노출 확장은 긍정적이나, 팔로워 대비 참여율 0.30%·참여당 비용 9,364원으로 실질 반응 효율은 낮은 편.",
@@ -162,7 +168,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 1,727 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.3x (D+24)"
+      "last_written_reaction": "조회 1,728 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 2.3x (D+25)"
     },
     {
       "notion_row_id": "72d39eba-97ed-82b3-bc21-81d46f56983a",
@@ -246,7 +252,7 @@
         "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": true,
-      "days_since_post": 37,
+      "days_since_post": 38,
       "computed": {
         "er": 0.001639792292976223,
         "vs_baseline": 0.06060606060606061,

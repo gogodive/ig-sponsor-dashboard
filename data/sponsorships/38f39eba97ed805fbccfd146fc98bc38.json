@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T01:42:50.000Z",
       "permalink": "https://www.instagram.com/p/DaeT6gQSYDE/",
-      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/735658407_18447760621188111_5395392802497030935_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEjn2I0enGg-RF5J_YfjtH_Iguvurc6dzjog3-R8euUuvZPVznsE-2DjcvAE-3iZQF59--mEy5W5YO7-juOawrd&_nc_ohc=74-LNNGj0Q4Q7kNvwEW9pSe&_nc_gid=blmmp9NP5pMBAFuvIPPmBQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFGS3KutMxj7ZKyWhppNKo_c0pguw9Dair1sZlbEuE7cg&oe=6A7B2877&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fktw6-1.fna.fbcdn.net/v/t51.82787-15/735658407_18447760621188111_5395392802497030935_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fktw6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gG88tL2Vqi7nCHmu2htLni7M4zNXKK-LED1Niv6_uvJUBbPC737bcnUUEXutEE8HwY&_nc_ohc=8o8S2m8JGG8Q7kNvwGDi-h3&_nc_gid=oseutqJ5vldYYxDrOSa81Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGdUPae4_U3JUu8HmXq3y7q6dt42_dN05ZVsz3IcHRD1Q&oe=6A7C41B7&_nc_sid=c6f216",
       "caption": "별거 없어서 더 마음에 드는 하루. ☘️\n\n@secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -134,8 +134,8 @@
           "comments": 126
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.14264612787507913,
         "vs_baseline": 4.105443576031812,
@@ -149,9 +149,11 @@
           "one_liner": "조회 12,475회·참여율 13.6%로 팔로워 대비 높은 반응이나, 평소 대비 배수 미확인 상태에서 1건당 129원·조회당 6.6원은 소규모 계정 기준 준수한 비용 효율로 긍정 평가.",
           "days": 17,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 4,739명의 소규모 계정임에도 조회수 29,941회·참여율 14.26%를 기록하며 평소 대비 4.11배의 이례적인 바이럴 성과를 달성했다. 참여 1건당 61원, 조회 1회당 1.4원이라는 극도로 낮은 비용 효율은 81,800원 협찬 단가를 고려하면 가성비 측면에서 매우 우수한 결과다. 다이빙·수영 니치 타깃에 깊이 공감하는 팬층을 보유한 것으로 판단되며, 재협찬 우선 검토 대상으로 분류할 것을 권장한다.",
+        "final_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "last_written_reaction": "조회 29,941 · 좋아요 550 · 댓글 126 · ER 14.3% · 평소대비 4.1x (D+30)",
+      "last_written_reaction": "조회 29,941 · 좋아요 550 · 댓글 126 · ER 14.3% · 평소대비 4.1x (확정)",
       "baseline": {
         "views_median": 7293,
         "eng_median": 252,
@@ -271,7 +273,7 @@
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.01941337834986284,
         "vs_baseline": 1.15,

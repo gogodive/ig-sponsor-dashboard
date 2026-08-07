@@ -15,11 +15,56 @@
   "output_link_prop": null,
   "username": "yeongyohn",
   "followers_notion": 671,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "25e39eba-97ed-8208-980b-011b41a5ca87",
+      "url": "https://www.instagram.com/p/DbTPn-jFCTI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbTPn-jFCTI",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-28",
+      "first_seen": "2026-08-08",
+      "posted_at": "2026-07-27T15:04:26.000Z",
+      "permalink": "https://www.instagram.com/p/DbTPn-jFCTI/",
+      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/758481176_18370861594234219_478064670729236396_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyxd1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gG2AsjxyqjUD3sznyXxGyke4hPYIm9G3fvfXodUoZhppNT644gJixyX3XrNeUh-JcR4f7F3GH0ScYFAzIUnadMc&_nc_ohc=kOtgGqxKDWQQ7kNvwE5MG3G&_nc_gid=_72YH_ES_lX_07NUHVdxuQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFVEcGXpDrsHu3buYkOQFGKGQ5wCErcPov54V_zhb1d-w&oe=6A7C3A0A&_nc_sid=c6f216",
+      "caption": "💨\n\n운동하는 날도 핏은 포기 못해 🎧⚡️\n@secrets__fit\n\n건강합니다\n\n#activewearfashion",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yeongyohn",
+      "metrics": {
+        "likes": -1,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
+      "history": [
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": -1,
+          "comments": 0
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 11,
+      "computed": {
+        "er": -0.0014903129657228018,
+        "vs_baseline": null,
+        "cost_per_eng": -83000.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요 -1·댓글 0으로 유효 데이터 없음 — 피드 게시물 특성상 조회수 미집계, 11일차 현시점에서 성과 판단 불가.",
+          "days": 11,
+          "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+11)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "bb339eba-97ed-83d2-a1d2-01fe37957581",

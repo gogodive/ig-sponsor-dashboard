@@ -98,7 +98,7 @@
         "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": true,
-      "days_since_post": 37,
+      "days_since_post": 38,
       "computed": {
         "er": 0.1137005649717514,
         "vs_baseline": 2.3,
@@ -127,7 +127,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-07T05:43:19.000Z",
       "permalink": "https://www.instagram.com/p/DaevcPGTHbX/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/740733814_18612145372000146_386270713782141955_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGpbmIDrrf_brpNxqpxP1dFXOpv6FWYQ9TBczKp5CgH3_05DlTv45ib0PyxxiR4G4E&_nc_ohc=wggedmOkbOgQ7kNvwEkzBae&_nc_gid=bTXzUv17rAguymQV0y6WGQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGAdyyVs95wkJEty0VxHd5AbaTYp9X03EW-0XGfsVuMhg&oe=6A7B16A4&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.flhr4-3.fna.fbcdn.net/v/t51.82787-15/740733814_18612145372000146_386270713782141955_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.flhr4-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gG_I7IngaRrua8uxOVGmlLmBF_s2Bq0s_3GZn_lth3q-Ma-qvKHABmdUjV57yBHwlf5efW5vDmKi3xO0Fw46ucc&_nc_ohc=wggedmOkbOgQ7kNvwEIaff4&_nc_gid=vxhnY6kKZGAQjdDVMWXs4g&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEoJHoPgPpGZnr0YL5DAKp50xbJJsZTWuXgcH-przSxrg&oe=6A7C2FE4&_nc_sid=c6f216",
       "caption": "#제품제공 화이트 성애자 여기모여라! \n▪라세린 루미나 화이트 브이백 (미들)🫧🤍❕\n\n그냥 흰색이 아니예요 반짝이는 은은한 펄이 들어가 있어 더 독보적이라구요~\n\n ✔️브라캡 고리 o\n ✔️미들 가슴선\n ✔️168cm / 57kg size M \n ‧ 배럴L, 센티L, 라세린M, 나이키 30. \n\n#라세린 #swimwear #swinsuit #수영복추천 #수린이 #수영",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -242,8 +242,8 @@
         "n": 3,
         "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03884180790960452,
         "vs_baseline": 3.251012145748988,
@@ -257,9 +257,11 @@
           "one_liner": "평소대비 0.63x로 부진한 도달에 조회당 153원 비용 효율도 낮아, 17일차 현재 기대치 미달 수준입니다.",
           "days": 17,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1,416명의 소규모 계정임에도 조회수 2,409회·참여율 3.88%를 기록했고, 평소 대비 3.25배의 도달 상승은 협찬 콘텐츠가 알고리즘 확산에 효과적으로 작용했음을 시사한다. 참여 1건당 627원, 조회 1회당 14.3원은 나노 인플루언서 기준으로 수용 가능한 수준이나, 상품 가액 69,000원 대비 총 참여 55건(좋아요+댓글)·조회 2,409회는 브랜드 인지 확산 효과가 제한적임을 뜻한다. 다이빙·수영 같은 니치 카테고리에서 타깃 적합성이 높다면 소폭 긍정적으로 평가할 수 있지만, 팔로워 규모와 절대 수치를 고려할 때 단독 ROI보다는 커뮤니티 신뢰도 구축 목적의 보조 채널로 활용하는 것이 적절하다.",
+        "final_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "last_written_reaction": "조회 2,409 · 좋아요 50 · 댓글 5 · ER 3.9% · 평소대비 3.3x (D+30)"
+      "last_written_reaction": "조회 2,409 · 좋아요 50 · 댓글 5 · ER 3.9% · 평소대비 3.3x (확정)"
     }
   ],
   "flags": {

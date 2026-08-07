@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T14:31:07.000Z",
       "permalink": "https://www.instagram.com/p/DbLdPR6PiDv/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF3uniI5zp2FNZF_EpCz3qs4D5lbkPSx311PeiJotKsMSs1WfcH7nBiKnSS0jUqBp0&_nc_ohc=MAAw-G5ilzkQ7kNvwE_DMj2&_nc_gid=LuMOKeV6Gf-mZvZyYpmIpA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGiCXAMWH6KbPk-Su32ER6CGzn7ZrLV__RwoNSuCSeEZg&oe=6A7B0A6C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fcjs2-1.fna.fbcdn.net/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fcjs2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEvYQ31eeRHVR4Er-sI0XseIJJZX9onoxY9FP9wpqjeebZ43G6a0e0nzyKFZ0ADb7f9PPJwR_hH5RSVNKAWNjbb&_nc_ohc=MAAw-G5ilzkQ7kNvwEzCUI_&_nc_gid=7xJeKzbOTQ6SDQGHPb5YtQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHJtaH6ANJbkhrvOa4YeB2wiEsdOES46F616qPjFTM2rQ&oe=6A7C23AC&_nc_sid=c6f216",
       "caption": "제주 습도가 86도를 넘었는디..!(울집기준)🚨 💦\n\n이 무더위에 살아남았다는 건 강하다는 것..!\n날씨 예보와는 다르게 제주는 일주일 전부터 내내\n뜨거웠다는 사실! 제주 무더위를 제주답게 보내려면\n\n제주 휴가지다운 이열치열 잼컨, 의미있게 시간을 보내기\n좋은 핫플 위치 정도는 꼬옥 파악하고 오시길😏🧊\n그럼 모두 안전하고 재밌는 휴가 되세요~~~!🔥\n\n#제주살이 #제주하와 #판포포구 #웰니스트립 #wellness \n📍 @hawa_jeju @sauna_paradise_ \n🩱 @laserin_swim",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "0_dahye",
       "metrics": {
-        "likes": 871,
+        "likes": 878,
         "comments": 347,
-        "views": 152792
+        "views": 153298
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -102,30 +102,41 @@
           "views": 152792,
           "likes": 871,
           "comments": 347
+        },
+        {
+          "d": "2026-08-08",
+          "views": 153298,
+          "likes": 878,
+          "comments": 347
         }
       ],
       "baseline": {
         "views_median": 33361.0,
         "eng_median": 960.5,
         "n": 4,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.014749155374722999,
-        "vs_baseline": 4.5799586343335035,
-        "cost_per_eng": 35.03010399562123,
-        "cost_per_view": 0.27924673194059024
+        "er": 0.01483392063549727,
+        "vs_baseline": 4.595126045382333,
+        "cost_per_eng": 34.82993197278911,
+        "cost_per_view": 0.2783250053273145
       },
       "analysis": {
         "d3": {
           "one_liner": "조회수 미집계 상태나 좋아요+댓글 1,078건·참여당 40원으로 비용 효율은 양호, 평소 대비 지표 확보 후 최종 판단 필요.",
           "days": 3,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 4.6배 조회·댓글 347건으로 확산력 입증, 조회당 0.3원·참여당 35원의 효율적 비용 구조로 D+14 기준 긍정적 성과.",
+          "days": 14,
+          "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
         }
       },
-      "last_written_reaction": "조회 152,792 · 좋아요 871 · 댓글 347 · ER 1.5% · 평소대비 4.6x (D+13)"
+      "last_written_reaction": "조회 153,298 · 좋아요 878 · 댓글 347 · ER 1.5% · 평소대비 4.6x (D+14)"
     },
     {
       "notion_row_id": "39c39eba-97ed-8057-8b05-c317f1d08034",
@@ -136,7 +147,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-10T06:40:31.000Z",
       "permalink": "https://www.instagram.com/p/DamkcU-EZ4l/",
-      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/731441804_18602112568000189_8816683966551029408_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzkzNzk5NDU0MTQ0NTM1NjkzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CwZhe9FC_dYQ7kNvwEOOTj_&_nc_oc=AdrlMVfho409mA3uO6AyxunIz_8iviFJ8x9pX7bgZ3H-VjrOW3U54GlnXFehaKphDuiBnG5U3rmbPaS6w1oB5JcQ&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=pkKdUkD5Lz6zKkrME0adqg&_nc_ss=7c689&oh=00_AQExpWbFp7ICSVN_P6EzjAyNUtCv86zZ_ejFbDQObXjaoQ&oe=6A7AFB44",
+      "thumbnail": "https://instagram.fflr2-1.fna.fbcdn.net/v/t51.82787-15/731441804_18602112568000189_8816683966551029408_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fflr2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gECCczcEI4ZTQjChrFwYRCRqwxIuvHLHM0ftx5OHU39iBUAM1WEptnXnAQfKssZdYM&_nc_ohc=BUO2a1a9VL8Q7kNvwFcO6jH&_nc_gid=6BKty8CDp3lzIXP7dU87Yg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHIX1jxJh9EpUYZJXJ1dpRAt0tGwInFdB0ETlBWJct3Tg&oe=6A7C1484&_nc_sid=c6f216",
       "caption": "해가 오렌지빛으로 물들때까지 헤엄쳐 다닌 날!🍊\n\n@laserin_swim \n@sagye_marine_jeju \n\n#제주여행",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -145,7 +156,7 @@
         "likes": 539,
         "comments": 26
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -242,16 +253,22 @@
           "views": null,
           "likes": 539,
           "comments": 26
+        },
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": 539,
+          "comments": 26
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 989,
         "n": 5,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.006841767476780373,
         "vs_baseline": 0.5712841253791708,
@@ -272,7 +289,7 @@
           "analyzed_at": "2026-07-25T01:32:46.981901+09:00"
         }
       },
-      "last_written_reaction": "좋아요 539 · 댓글 26 · ER 0.7% · 평소대비 0.6x (D+27)"
+      "last_written_reaction": "좋아요 539 · 댓글 26 · ER 0.7% · 평소대비 0.6x (D+28)"
     },
     {
       "notion_row_id": "45139eba-97ed-83aa-a4c7-011b0fa6eaa0",
@@ -393,7 +410,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0054734139814242985,
         "vs_baseline": 0.1409647025734777,
@@ -422,5 +439,5 @@
   },
   "child_db_id": "62539eba-97ed-83e5-b5ad-015f6fe02c88",
   "followers": 82581,
-  "last_written_score": 176
+  "last_written_score": 177
 }

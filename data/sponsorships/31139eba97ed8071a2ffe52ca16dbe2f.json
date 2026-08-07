@@ -1,7 +1,7 @@
 {
   "page_id": "31139eba-97ed-8071-a2ff-e52ca16dbe2f",
   "row_title_raw": "geung_fit",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -19,7 +19,7 @@
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": null,

@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T07:35:05.000Z",
       "permalink": "https://www.instagram.com/p/DbKt3VVhd8V/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/755010633_18011128145928117_3659856463573465164_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGLKrAkFcpSZ42F1MbQ2-KiAaggkTfupejnJKmGzK8dD5YfF9nn-2F_EyAtePx6AUp77KiLXJqkKqA-V4o71aIA&_nc_ohc=KCcBj8kdERkQ7kNvwG2WxkO&_nc_gid=F-5XYBCMOY4xhr4tcdnOlw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGAy98Q-gwNZcXObNvA_-8Gt0mgDunUjDbNIMEA3iDLtg&oe=6A7B06F9&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbrs5-1.fna.fbcdn.net/v/t51.82787-15/755010633_18011128145928117_3659856463573465164_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbrs5-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gE0s29dyHy_LrMFF_mv6Y-A2l3KTje7tHeDbtkkVOmtTQ12dhd9rh3sGkieVndw7iMU7WtvltxtZTpXxnJ8_2yP&_nc_ohc=KCcBj8kdERkQ7kNvwHVTeap&_nc_gid=hLEm79Q8yHkSekanjWp6QA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHsa9lS3IHPn28lWB2fkiq1DEhckmMCffy3PXA2-lfOeQ&oe=6A7C2039&_nc_sid=c6f216",
       "caption": "#제품제공 #라세린 \n.\n@laserin_swim \n.\n#라세린윤슬 에메랄드🩵💚\n자세한 후기는 피드게시물에 있어요~\n여행 가서 넘 이쁘게 입었던 #라세린수영복 이랍니다\n은은한 메탈릭포일수영복 찾으시면 추천드려요!✨\n.\n더빙릴스 이번엔 배속 없이 날것의 보이스로ㅎㅎ\n아직 어색하네요 발음도 뭉개지구요😂\n그래도 조금씩 재미 붙이는 중!\n아직 반응 볼 자신은 없어서 댓글창은 클로즈ㅋㅋ\n.\n.\n#수영복추천\n.",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yeon.swim",
       "metrics": {
-        "views": 2622,
+        "views": 2678,
         "likes": 130,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -102,30 +102,41 @@
           "views": 2622,
           "likes": 130,
           "comments": 0
+        },
+        {
+          "d": "2026-08-08",
+          "views": 2678,
+          "likes": 130,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": 2350,
         "eng_median": 95,
         "n": 3,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.022101326079564772,
-        "vs_baseline": 1.1157446808510638,
+        "vs_baseline": 1.1395744680851063,
         "cost_per_eng": 303.84615384615387,
-        "cost_per_view": 15.064836003051106
+        "cost_per_view": 14.749813293502614
       },
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.91x로 소폭 하회하며 조회당 22원·참여당 376원은 무난하나, 댓글 0건이 아쉬운 무난한 초기 출발.",
           "days": 3,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.14배 조회로 무난하나, 댓글 0건·참여율 2.21%로 실구매 연결 기대는 낮고 참여 건당 304원은 개선 여지 있음.",
+          "days": 14,
+          "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
         }
       },
-      "last_written_reaction": "조회 2,622 · 좋아요 130 · 댓글 0 · ER 2.2% · 평소대비 1.1x (D+13)"
+      "last_written_reaction": "조회 2,678 · 좋아요 130 · 댓글 0 · ER 2.2% · 평소대비 1.1x (D+14)"
     },
     {
       "notion_row_id": "cbc39eba-97ed-82fa-9186-81e17a6059e5",
@@ -161,7 +172,7 @@
         "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": 0.043182590955457324,
         "vs_baseline": 1.2124105011933175,
@@ -185,5 +196,5 @@
   },
   "child_db_id": "bec39eba-97ed-82c5-a89c-0169b8f3e378",
   "followers": 5882,
-  "last_written_score": 116
+  "last_written_score": 118
 }

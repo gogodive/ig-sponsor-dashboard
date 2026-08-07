@@ -25,16 +25,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFvs2k1_a54DfB4XbGTx3hgR7fA_z3qznKuw3vWQOAJ6tu1wkdHlt3IAG8QTpdgy0OvCJBnXbCk_gngg_DPPXf-&_nc_ohc=18T8yQvNSjIQ7kNvwHFmOwR&_nc_gid=SRRP21nqkRWWwzna96KuZQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHHnMeIUeLXDWGoBZ0KsCnTEHXUHS2sAoo0vr0d8xdHWw&oe=6A7B1277&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpoz5-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gG97OBZ4qKdkoo0aebdqJUy8VEMsQOEzYJq6Vlne1rJYnqAYRIX-JOsiyktdDKziFE&_nc_ohc=18T8yQvNSjIQ7kNvwGUTeMZ&_nc_gid=tMmQbW0upPI5JWtV1arUog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFKfaAGvuZo46NENYR_9w1DFJzn8j-ZUVCtLvSKES2zDg&oe=6A7C2BB7&_nc_sid=c6f216",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "pink._0mermaid",
       "metrics": {
-        "likes": 103,
+        "likes": 104,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -131,20 +131,26 @@
           "views": null,
           "likes": 103,
           "comments": 2
+        },
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": 104,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 140.5,
         "n": 10,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.033535611625678696,
-        "vs_baseline": 0.7473309608540926,
-        "cost_per_eng": 980.952380952381,
+        "er": 0.03385499840306611,
+        "vs_baseline": 0.7544483985765125,
+        "cost_per_eng": 971.6981132075472,
         "cost_per_view": null
       },
       "analysis": {
@@ -161,7 +167,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 103 · 댓글 2 · ER 3.4% · 평소대비 0.7x (D+25)"
+      "last_written_reaction": "좋아요 104 · 댓글 2 · ER 3.4% · 평소대비 0.8x (D+26)"
     }
   ],
   "flags": {

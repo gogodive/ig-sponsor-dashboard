@@ -1,7 +1,7 @@
 {
   "page_id": "39539eba-97ed-80e0-86f3-e48b2108bd1f",
   "row_title_raw": "ha0ron",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T12:10:43.000Z",
       "permalink": "https://www.instagram.com/p/DasTzZHOTit/",
-      "thumbnail": "https://instagram.fcgb11-1.fna.fbcdn.net/v/t51.71878-15/745144464_1356563036416489_8881625179225259559_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fcgb11-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gH3NUR4aOkxZXV6ufL27_3ZGCa0Gz4mV7BSMtnPHAiIGOiwuC5g0V0msWT_KVhzDrby-UWoto7ilBhM1UymkKcY&_nc_ohc=Mhj8ecXM7dMQ7kNvwGJLCbI&_nc_gid=QSZsPCP3pVaaBYj06JyAgw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFicwZ7rNLow2Az6uIQZ-sJyL_77GSZhwo8CPtRM1xv7w&oe=6A7B22AA&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/745144464_1356563036416489_8881625179225259559_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGm0X4YsjbS0rXPjnw4mNWn9x878M72Xxf3V1CRbvQ8Uml4114zj0UI3Ogv46gPKU2mCsiahoxTQ8rXSlL46lwj&_nc_ohc=wharE1ijDh4Q7kNvwErBBYf&_nc_gid=6JlUxJqdF1mQKuSM3ByY5Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE_rlV2CIadXV2RZwJ0by88ymZhGSombQHNHX3bhPu0yg&oe=6A7C3BEA&_nc_sid=c6f216",
       "caption": "운동은 맨날 내일부터였는데…🤣\n매일 작심삼일 아가리어터의 결론?\n\n운동은 의지도 중요하지만…\n예쁜 운동복도 꽤 중요🫢\n\n여러분들은 어때요? 🏋️‍♀️💪\n\n#에슬레저룩 #운동복추천 #꿀팁 #다이어트 #secrets",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ha0ron",
       "metrics": {
-        "views": 3825,
+        "views": 3894,
         "likes": -1,
         "comments": 8
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -132,21 +132,27 @@
           "views": 3825,
           "likes": -1,
           "comments": 8
+        },
+        {
+          "d": "2026-08-08",
+          "views": 3894,
+          "likes": -1,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": 37347.0,
         "eng_median": 133.0,
         "n": 8,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0009912206173888418,
-        "vs_baseline": 0.10241786488874609,
+        "vs_baseline": 0.10426540284360189,
         "cost_per_eng": 8785.714285714286,
-        "cost_per_view": 16.07843137254902
+        "cost_per_view": 15.793528505392912
       },
       "analysis": {
         "one_liner": "평소 대비 0.09x의 극히 저조한 도달에 참여 1건당 비용 1.1만 원으로 협찬 효율이 매우 낮아 추가 팔로업이 필요합니다.",
@@ -162,7 +168,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "조회 3,825 · 좋아요 -1 · 댓글 8 · ER 0.1% · 평소대비 0.1x (D+25)"
+      "last_written_reaction": "조회 3,894 · 좋아요 -1 · 댓글 8 · ER 0.1% · 평소대비 0.1x (D+26)"
     },
     {
       "notion_row_id": "82a39eba-97ed-83e2-9362-0151e3ce38a2",
@@ -173,7 +179,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T03:30:26.000Z",
       "permalink": "https://www.instagram.com/p/DarYR1pAVHT/",
-      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/744491163_17978765472104871_437801136263935845_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFusCjrd-_dwd7RF9HCVLRcSm2ZFTzButSC2_ARG139rSYgFPLa8RWOXhbOEcnpv9r4P_YydoFbvQE8Shx9zwye&_nc_ohc=D2hyxH8dxhsQ7kNvwHptmrv&_nc_gid=XEjL7Uf4ipTsVk4xRLR3Tw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG5nHCa-zdIn1W5ouGJ-IFnxvJnkNsE7LRxt8JVartvvQ&oe=6A7B2034&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpsr1-1.fna.fbcdn.net/v/t51.82787-15/744491163_17978765472104871_437801136263935845_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpsr1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGx2Sk3nunZDhc8QTzJLQM1aqtD8AIIXKdi_vLiIGUlf8Tb_xz6sYjDBINSZ4hfZVA&_nc_ohc=D2hyxH8dxhsQ7kNvwF0k4UH&_nc_gid=-wRQaZb0zm_bwHCYvpioPQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEbZbE2w5qG3xjrYmRFOu-U81529wgiRpaXQjqiAOYgyA&oe=6A7C3974&_nc_sid=c6f216",
       "caption": "운동과 일상을 넘나드는 셋업\n여름엔 속옷 따로 안챙겨입어도 되는게 최고여…👍❤️\n\n@secrets__fit \n\n#ad #secrets #시크릿스 #운동복 #에슬레져룩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -182,7 +188,7 @@
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-07T10:01:11.565831+09:00",
+      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -279,16 +285,22 @@
           "views": null,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-08-08",
+          "views": null,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8,
         "n": 7,
-        "captured_at": "2026-08-07T10:01:11.565831+09:00"
+        "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0001416029453412631,
         "vs_baseline": 0.125,
@@ -309,7 +321,7 @@
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.1x (D+25)"
+      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.1x (D+26)"
     }
   ],
   "flags": {
