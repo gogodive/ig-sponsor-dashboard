@@ -25,17 +25,17 @@
       "first_seen": "2026-08-04",
       "posted_at": "2026-08-02T23:47:05.000Z",
       "permalink": "https://www.instagram.com/p/DbjoEvkTmch/",
-      "thumbnail": "https://instagram.fymq2-1.fna.fbcdn.net/v/t51.82787-15/761747421_18123746543493117_5725684365165775828_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fymq2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGF93tkV5HABp35hh_DUGN6kkH1wUiUWsLTdeOtaf77pkljN1ynxDyUmue9ER79uM4&_nc_ohc=SJyljJSzSjIQ7kNvwG89G1v&_nc_gid=yeIjCOA6slszWgxah4NJJw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEEhvHaTImPn4VgfjysqLeAf8ZX6shqJlTM3F1jBO8Bjg&oe=6A7C338C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.frun6-1.fna.fbcdn.net/v/t51.82787-15/761747421_18123746543493117_5725684365165775828_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frun6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gExKnJV7nQxNbdLgapuwO-e1aXKFrxLrS4-z0ai-TQ5L-CXRj5Xk69zSozJiAxLNjg&_nc_ohc=SJyljJSzSjIQ7kNvwEfTdU8&_nc_gid=FI8OfkD2XJSLJAKX3lUftg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF-Q_AtwCd62xQwhFUPXZV6tl6iAsnthwTVBf1RtICjVg&oe=6A7D850C&_nc_sid=c6f216",
       "caption": "🤿아무도 모르는 해변 스노쿨링 스팟 공유\n(2026.08.02) 실시간\n\n스토리보고 정보 원하시는 분들이 너무 많아 \n낋여와봤숩니당✨ \n\n@@야 여름에 여기는 어때??? \n(같이 갈 친구 한테 공유/ 저장)\n\n🏝️처음 가본 통영 욕지도\n진짜 지중해 그 자체인줄… 처음에 가장 유명한\n흰작살해변 갔는데.. 생각보디 진짜 작고 주차비도 내야하고\n파라솔비용도 내야해서 좀 별로라 도동해변을 가봤는데\n\n여긴 역시 사람이 정말 많더라구요 그래도 \n해변이 엄청 커서 괜찮았는데 이미 자리 잡으신 분들이 \n많아서 자리잡기가 좀 어려웠어요!! \n예쁘긴",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "o_os.ra",
       "metrics": {
-        "views": 220784,
-        "likes": 1496,
-        "comments": 62
+        "views": 225086,
+        "likes": 1538,
+        "comments": 66
       },
-      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
+      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
       "history": [
         {
           "d": "2026-08-04",
@@ -66,23 +66,29 @@
           "views": 220784,
           "likes": 1496,
           "comments": 62
+        },
+        {
+          "d": "2026-08-09",
+          "views": 225086,
+          "likes": 1538,
+          "comments": 66
         }
       ],
       "baseline": {
-        "views_median": 33887.0,
-        "eng_median": 151.0,
-        "n": 6,
-        "captured_at": "2026-08-08T06:42:07.580840+09:00"
+        "views_median": 37357.0,
+        "eng_median": 30.5,
+        "n": 8,
+        "captured_at": "2026-08-09T06:33:50.091992+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.017000938434342333,
-        "vs_baseline": 6.51530085283442,
-        "cost_per_eng": 233.3119383825417,
-        "cost_per_view": 1.6464055366330894
+        "er": 0.017458313378902,
+        "vs_baseline": 6.025269695103996,
+        "cost_per_eng": 226.6209476309227,
+        "cost_per_view": 1.614938290253503
       },
-      "last_written_reaction": "조회 220,784 · 좋아요 1,496 · 댓글 62 · ER 1.7% · 평소대비 6.5x (D+4)",
+      "last_written_reaction": "조회 225,086 · 좋아요 1,538 · 댓글 66 · ER 1.7% · 평소대비 6.0x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 6.4배 조회·참여 급등, 조회당 1.7원·참여당 236원으로 비용 효율 모두 우수한 초기 성과.",
@@ -99,25 +105,25 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.012821632002793478,
-        "vs_baseline": 2.573932092004381,
-        "cost_per_eng": 309.36170212765956,
+        "er": 0.012897818799251165,
+        "vs_baseline": 2.423312883435583,
+        "cost_per_eng": 306.7510548523207,
         "cost_per_view": null
       },
       "posted_at": "2026-07-23T13:59:52.000Z",
       "permalink": "https://www.instagram.com/p/DbI1Dj6E0s-/",
-      "thumbnail": "https://instagram.fflr4-2.fna.fbcdn.net/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fflr4-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH9cr7IXTieZlD-73_I121cSfgiHwdNVuvOQIVbzqUWij-khSbbAisGL56HcG-iJ7E&_nc_ohc=3uO8qxy5VOcQ7kNvwGr7fnx&_nc_gid=x3ML2JA8c8lmfWAjfDiBiA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF8nHxACjTYiWM2sqckKx2fT82cBkx83M0eC1kuQJ9iag&oe=6A7C4074&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/753247997_18122296256493117_6005450207926165241_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE1SdhWKsIV9xjQQ3wlVuM9Ulb9R534i-gwfu9EdzR3SGHc9YdrS44-UXnsIYqKgBZM7fV4gCzicEi-BTVejALc&_nc_ohc=3uO8qxy5VOcQ7kNvwHFCmp7&_nc_gid=pvgwZbfvngPETn2d-bqHvg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFK4b8IE75W0ttQ4wrU-y8tMrIp9TYH9hB83RvinucqGQ&oe=6A7D91F4&_nc_sid=c6f216",
       "caption": "사람없는 한적한 삼척 스팟 취사O , 텐트O, 타프O \n(7/22-23 둘다 맑음 뒤 비) *제품제공\n\n가장 좋았던게 사람이 지인짜 별로 없어서 \n거의 전세냈고 , 파라솔 강매 없는게 젤 좋음..\n화장실은 있지만 샤워실 이용은 돈내고 해야함\n(민박집 사장님들 너~~무 착함)\n\n주차장도 넉넉한편 \n해변 스팟은 한쪽은 고운모래 스팟 한쪽은 몽돌이라\n다른 느낌으로 스노쿨링 할수 있고 \n수심 낮은곳과 깊은곳 다 있고 물이 잔잔하고 \n지이이이이인짜 맑아요 물고기도 많은데..\n성게, 꽃게, 물고기, 굴 등등 많음!!!!!!\n\n🐠어쩌다 가방에 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "o_os.ra",
       "metrics": {
-        "likes": 1129,
+        "likes": 1139,
         "comments": 46
       },
-      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
+      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -208,15 +214,21 @@
           "views": null,
           "likes": 1129,
           "comments": 46
+        },
+        {
+          "d": "2026-08-09",
+          "views": null,
+          "likes": 1139,
+          "comments": 46
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 456.5,
-        "n": 10,
-        "captured_at": "2026-08-08T06:42:07.580840+09:00"
+        "eng_median": 489,
+        "n": 7,
+        "captured_at": "2026-08-09T06:33:50.091992+09:00"
       },
-      "last_written_reaction": "좋아요 1,129 · 댓글 46 · ER 1.3% · 평소대비 2.6x (D+15)",
+      "last_written_reaction": "좋아요 1,139 · 댓글 46 · ER 1.3% · 평소대비 2.4x (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.95배 참여로 준수한 출발, 참여 1건당 764원은 합리적 수준이나 3일차 추이 지속 모니터링 필요.",
@@ -238,6 +250,6 @@
     "account_unavailable": false
   },
   "child_db_id": "38239eba-97ed-8077-a9ea-f7cf165a3da4",
-  "followers": 91642,
-  "last_written_score": 454
+  "followers": 91876,
+  "last_written_score": 422
 }

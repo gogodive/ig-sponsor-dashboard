@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T05:51:26.000Z",
       "permalink": "https://www.instagram.com/p/DahVPFcCTdw/",
-      "thumbnail": "https://instagram.fcbr1-1.fna.fbcdn.net/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNjUxOTk3Mzk1MjEyODY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B9R38JtEAJgQ7kNvwEivHqD&_nc_oc=AdphbHAKijRji3hg3p_96QbIqaaEJbtsRee9tVSAfMvTTBHJRllocWkia5RxpTmLN1s&_nc_zt=23&_nc_ht=instagram.fcbr1-1.fna&_nc_gid=o6hHNcXHd9ppMrTGN6XCXA&_nc_ss=7ca8c&oh=00_AQGXT4nbYtDXjsM73GLxSAN2FMFH4aGYMD4FZcmUsOf9kA&oe=6A7C2ED9",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/742174565_17968600197083927_8720483630996081900_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH18zucIqVmlkiH25QNWfQbUSKRKHZ2t7kf4vpcsREpgtVeM8RtgMHufP-1sTiA_vxP0S1ONfWZKKbbpG_8VG6M&_nc_ohc=hI5eWIeJB00Q7kNvwH3dzCY&_nc_gid=UDyT9YU0LGXu6jZA9wdeWw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGUJdu9gMyYYgbOH_AOm-GNriAEhVI7xsOerk9T5mFNSw&oe=6A7D8059&_nc_sid=c6f216",
       "caption": "#제품제공 160cm 47kg XS착용\n\n색감이 예뻐서 야외에서 꼭 한번 입고 싶었던💛\n@laserin_swim",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -145,8 +145,8 @@
         "n": 12,
         "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.012148823082763858,
         "vs_baseline": 0.8421052631578947,
@@ -160,9 +160,11 @@
           "one_liner": "평소 대비 0.95x로 기준치 소폭 하회, 참여 1건당 457원은 무난하나 댓글 0이 브랜드 관심도 측면에서 아쉽다.",
           "days": 16,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 1.21%는 인스타그램 피드 게시물 업계 평균(1~3%)의 하단에 위치하며, 평소 게시물 대비 84% 수준에 그쳐 협찬 콘텐츠가 오히려 평균 이하의 반응을 얻었다. 참여 1건당 비용 444원은 마이크로 인플루언서 기준으로 다소 높은 편이며, 댓글이 전혀 없어 구매 의도나 브랜드 관심을 유발하는 실질적 반응이 부재했다. 64,000원 상당의 제품 협찬 대비 유의미한 노출·전환 기여가 확인되지 않아 비용 대비 효율은 낮은 것으로 판단되며, 동일 예산이라면 콘텐츠 포맷(릴스 전환)이나 인플루언서 교체를 검토하는 것이 바람직하다.",
+        "final_at": "2026-08-09T06:33:50.091992+09:00"
       },
-      "last_written_reaction": "좋아요 144 · 댓글 0 · ER 1.2% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 144 · 댓글 0 · ER 1.2% · 평소대비 0.8x (확정)"
     }
   ],
   "flags": {

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-30T05:11:22.000Z",
       "permalink": "https://www.instagram.com/p/DbZ6I2ToOq6/",
-      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/760746744_18134607667616673_8400410288365366354_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHPoxnfDa13C0cyT1qVVf_6hpZF0Rk-t5vTGMK7V4Guq3tzfuCjWfXU8_0kDAMKIO59XHD1-HImMLSF1H8zURjY&_nc_ohc=c_iKq1Kd_scQ7kNvwFll2LF&_nc_gid=1-6oJV9UhIZHrbuPQpv95A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHdtkn5S7grwW8ZOc-TJhlBu99oSn7aQkFPtnwZhD6ZFA&oe=6A7C4210&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/760746744_18134607667616673_8400410288365366354_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH74D6H2dZgIUlTFblk2GhwA_g_ojZymzSB5VzXUty56sdaWH4QxIRlCHF6AiBnx_Q&_nc_ohc=c_iKq1Kd_scQ7kNvwGIu3nW&_nc_gid=fLN3o4yWa71Z1cj6FI5b3A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHvWUt4EBmHJKt87SKRHY4irzv8wdP1bwJs5y0gwE8E5w&oe=6A7D5B50&_nc_sid=c6f216",
       "caption": "#협찬 그래서 제 핀은 무슨색일까요? 맞춰보세요 :)\n\n오랫만에 꼬까신(새 핀)을 신고 파라다이브에서 인어놀이🧜‍♀️\n핀 하나가 빛에 따라 이렇게 알록달록 변하니까 너무 신기한거 있죠?\n\n물속에서도 반짝이는 내 핀은 <딥바이브 오로라 유리섬유 롱핀 : 레드> @intotheblue_store",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yorrr_ming",
       "metrics": {
-        "likes": 357,
+        "likes": 359,
         "comments": 19
       },
-      "metrics_updated_at": "2026-08-08T06:42:07.580840+09:00",
+      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -83,23 +83,29 @@
           "views": null,
           "likes": 357,
           "comments": 19
+        },
+        {
+          "d": "2026-08-09",
+          "views": null,
+          "likes": 359,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 387,
-        "n": 11,
-        "captured_at": "2026-08-08T06:42:07.580840+09:00"
+        "eng_median": 376,
+        "n": 9,
+        "captured_at": "2026-08-09T06:33:50.091992+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.015449726753502898,
-        "vs_baseline": 0.9715762273901809,
-        "cost_per_eng": 1340.4255319148936,
+        "er": 0.015486725663716814,
+        "vs_baseline": 1.0053191489361701,
+        "cost_per_eng": 1333.3333333333333,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 357 · 댓글 19 · ER 1.5% · 평소대비 1.0x (D+8)",
+      "last_written_reaction": "좋아요 359 · 댓글 19 · ER 1.5% · 평소대비 1.0x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.85x로 다소 저조하나, 참여 1건당 비용 1,532원은 팔로워 규모 감안 시 수용 가능한 초기 성과.",
@@ -116,6 +122,6 @@
     "account_unavailable": false
   },
   "child_db_id": "7ef39eba-97ed-82b0-927b-811ba5862824",
-  "followers": 24337,
-  "last_written_score": 97
+  "followers": 24408,
+  "last_written_score": 101
 }

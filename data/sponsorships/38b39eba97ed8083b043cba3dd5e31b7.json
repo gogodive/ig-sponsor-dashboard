@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-08T15:11:26.000Z",
       "permalink": "https://www.instagram.com/p/DaiVEDoyXv4/",
-      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.71878-15/741662231_1043108801505946_7157398459220475636_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGoKp83LFDa_cQ8FUONU4G-RZsLmM_IHyg4cG4J1fWl2jxa4Qshor5zDjoo2AO8nys&_nc_ohc=1Q90wToeSQkQ7kNvwEp5vZ4&_nc_gid=pYpv8PLreMRzpE1cuPczgA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF9KVov-VvbRioGpM3xvtTzsqxLzuJLbu59Ysb1mH99aw&oe=6A7C1D6F&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fcag1-1.fna.fbcdn.net/v/t51.71878-15/741662231_1043108801505946_7157398459220475636_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fcag1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gHL_YygauGj3-vqepZmFXkXqy7D85at_ae37_NfbIJyhRJwMrTqFoSSEfXV0DGkb1U&_nc_ohc=tJQH9ytOFkIQ7kNvwE6LQMX&_nc_gid=ooggNYMGd3gZ-lKVggJ-bw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEczztm7F8aFC-benc_wvYepKt0i3S2q9icnPX8cfHgWg&oe=6A7D6EEF&_nc_sid=c6f216",
       "caption": "#협찬 이번 여름 다들 이거 때문에 난리던데?!\n\n이번 여름 트센드라는 레몬코어🍋\n왜 다들 갑자기 레몬에 빠졌나 했더니,\n무채색처럼 반복되는 일상에\n작은 생기를 더하고 싶어서라고 하더라고요.\n\n그래서 저는 레몬 같은 컬러의\n라세린 루미나 수영복과 함께\n여름을 물속에서 즐겨봤어요🌊\n\n은은하게 반짝이는 원단과\n상큼한 옐로우 컬러 덕분에\n햇살 아래에서도 물속에서도\n조금 더 특별하게 느껴지는 여름✨\n\n여러분의 여름 컬러는 무엇인가요?\n\n🧈착용 제품\n@laserin_swim 루미나 버터옐로우\n\n🧈착용 사이즈\n162/50/142 - S사이즈 ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -146,8 +146,8 @@
         "n": 6,
         "captured_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03909205548549811,
         "vs_baseline": 1.2532693461307738,
@@ -161,9 +161,11 @@
           "one_liner": "평소 대비 1.61배 조회에 참여율 3.87%로 무난한 중간 성과이나, 참여 1건당 561원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
           "days": 15,
           "analyzed_at": "2026-07-24T15:18:19.669403+09:00"
-        }
+        },
+        "final_verdict": "팔로워 3,172명 규모의 소형 계정임에도 참여율 3.91%는 인스타그램 평균(1~3%)을 상회하며, 평소 대비 1.25배의 조회 성과는 협찬 콘텐츠가 자연스럽게 수용됐음을 시사한다. 참여 1건당 278원, 조회 1회당 6.6원은 69,000원 협찬 가액 기준으로 마이크로 인플루언서 시장에서 준수한 효율이나, 절대 도달(조회 5,223회)이 제한적이어서 브랜드 인지 확산보다는 소규모 충성 오디언스 접근에 적합한 채널임을 감안해야 한다. 비용 효율과 진정성 측면에서는 긍정적이나, 규모 확장을 목표로 한다면 유사 계정 다수 활용 또는 팔로워 규모가 더 큰 채널과의 병행 전략이 필요하다.",
+        "final_at": "2026-08-09T06:33:50.091992+09:00"
       },
-      "last_written_reaction": "조회 5,223 · 좋아요 104 · 댓글 20 · ER 3.9% · 평소대비 1.3x (D+30)"
+      "last_written_reaction": "조회 5,223 · 좋아요 104 · 댓글 20 · ER 3.9% · 평소대비 1.3x (확정)"
     },
     {
       "notion_row_id": "39939eba-97ed-806e-a8f1-c38ef4b7e6ef",
@@ -289,7 +291,7 @@
         "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0617906683480454,
         "vs_baseline": 1.3243243243243243,
