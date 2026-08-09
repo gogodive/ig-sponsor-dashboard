@@ -25,7 +25,7 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-07-26T15:47:09.000Z",
       "permalink": "https://www.instagram.com/p/DbQvqVcyVXc/",
-      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/756609979_1981884229143752_4591035548049482581_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFll5K3mrtQ_ndw829uKNKmKwt5dFuczrVdCNs37uWsRIQ8n0oM8iAHLmhUuWdXKv0&_nc_ohc=msWRG6zmcKoQ7kNvwGquZLP&_nc_gid=B6FkVwqhBVxiBE2oyC3GsA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF8CUpwbF1G--_Zq7fwFjhYKhGCAr0XGtKZmK7iB4--dA&oe=6A7D7E1E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.71878-15/756609979_1981884229143752_4591035548049482581_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFh-dLmUW4oRPeTwifIkELTP0ud7TP2irPVqzakBIvuFa1HVox6uB52CXz0XTMhltU&_nc_ohc=lIS7sTySG2AQ7kNvwHumX5d&_nc_gid=qbyMrSLMW6x9oW3f5lID5Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG4CzejvvRKu5fq199BJQOm2mFZ0kXQVwitPl5X6siKEw&oe=6A7ECF9E&_nc_sid=c6f216",
       "caption": "진짜 민망하긴 한데👉🏻👈🏻😏\n다이어트가 힘들면 템빨을 쓰라 그랬습니다(?)\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n아니 근데 요거 운동복 요술이네요....ㅎ.ㅎ.ㅎ.ㅎ.ㅎ\n쫀쫀하고.. 날씬해보이는데 감쪽같아요🤭🤭🤭🤭\n\n@secrets__fit\n#시크릿스 #여자운동복추천 진짜 추천🩷🩷🩷🩷🩷",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
+      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -60,10 +60,16 @@
           "views": 2326,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-08-10",
+          "views": 2326,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0,
         "vs_baseline": null,
@@ -75,9 +81,14 @@
           "one_liner": "조회 2,317회(팔로워 대비 75%)로 도달은 있으나 좋아요 측정 불가·댓글 1개로 참여율 0%에 가까워 비용 대비 실질 반응이 극히 저조한 초기 성과.",
           "days": 10,
           "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        },
+        "d14": {
+          "one_liner": "조회 2326회(팔로워 대비 75%)로 노출 자체는 나쁘지 않으나, 좋아요 오류·댓글 1개로 실질 참여가 전무해 회당 18.9원 비용 대비 브랜드 효과는 매우 저조한 상황.",
+          "days": 14,
+          "analyzed_at": "2026-08-10T06:36:10.950262+09:00"
         }
       },
-      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 1 · ER 0.0% (D+13)"
+      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 1 · ER 0.0% (D+14)"
     },
     {
       "notion_row_id": "35739eba-97ed-8309-a1a4-8157ecb4d466",
@@ -86,8 +97,8 @@
       "media_kind": "피드",
       "upload_date_notion": "2026-07-10",
       "first_seen": "2026-07-23",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0006445375443119562,
         "vs_baseline": null,
@@ -96,7 +107,7 @@
       },
       "posted_at": "2026-07-09T02:55:24.000Z",
       "permalink": "https://www.instagram.com/p/Dajl4M8yjJO/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/741621296_17980804143042871_664253454109656541_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG7FuExVOkPQlPSfGM-ZxakRc8CsGIpOTOwEZtOuIws8cUOOePvVYXa1HDNsko8V3c&_nc_ohc=5Htva3S8HE4Q7kNvwF2VyS7&_nc_gid=ehfKGu7cFPocCsy3pX-4ZQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHUheRLX1DoyyImGzihXI6tWsBpubgzr4GGAVJ3fwp1PA&oe=6A7D644E&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpoz2-1.fna.fbcdn.net/v/t51.82787-15/741621296_17980804143042871_664253454109656541_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpoz2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFkfk-kpdfD9iqoSycRVlFa31kq9gB2VmeteTD7muut_I-dOwEgtQFvUDq9My6Vis8&_nc_ohc=cA0paYfuJL4Q7kNvwF9ajoR&_nc_gid=yBB2viCxiPgr9607EcZ-Rg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEGYjssUHIXOZClbR8R8II9JNhtRTQaKyyPcxjSFkkHeg&oe=6A7EB5CE&_nc_sid=c6f216",
       "caption": "26.07.08 THU 🍈🥥🍑💪🏻\n가슴+어깨+하체+팔\n\n휴대폰 잃어버려서\n그나마도 가뭄에 콩나듯 운동다녀온거 사진 날려먹고..\n7월업로드..🐷🐷🐷🐷\n\n그래도 오랜만에 오니까 좋아요!\n\n운동복 정보💗 @secrets__fit\n#시크릿스 #여자운동복추천\n-\n#운동하는아나운서 #fitnesslife #비키니선수",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -209,9 +220,11 @@
           "one_liner": "좋아요 데이터 오류(−1)로 정확한 평가가 불가하며, 댓글 4건·참여율 0.10%는 소규모 계정 기준으로도 저조해 1건당 비용 29,333원 대비 효율이 낮은 상태다.",
           "days": 15,
           "analyzed_at": "2026-07-25T01:46:19.223146+09:00"
-        }
+        },
+        "final_verdict": "팔로워 3,103명 계정에서 좋아요 0건(−1은 측정 오류로 사실상 0), 댓글 3건으로 참여율 0.06%는 동규모 인플루언서 평균(1~3%)에 크게 못 미치며, 참여 1건당 비용이 22,000원으로 협찬 상품 가액(88,000원)의 25%에 달해 효율이 매우 낮다. 피드 게시물 특성상 노출 수치도 확인되지 않아 도달 범위조차 검증할 수 없으므로, 비용 대비 브랜드 노출·전환 가치는 거의 없었다고 판단된다.",
+        "final_at": "2026-08-10T06:36:10.950262+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 3 · ER 0.1% (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 3 · ER 0.1% (확정)"
     }
   ],
   "flags": {

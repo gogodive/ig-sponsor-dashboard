@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T18:55:25.000Z",
       "permalink": "https://www.instagram.com/p/DayLhubTSOQ/",
-      "thumbnail": "https://instagram.fyto3-1.fna.fbcdn.net/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyto3-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGtNsht1CmrSA_xiXD0oZKpL404klefVKEFm6lYDPfhfMf9Pcj8IjI0tevICySFP1M&_nc_ohc=7vmm6zQmizYQ7kNvwFWAc8T&_nc_gid=p78fefqavMo7na8JgvH0rg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEMq9t7-fu57o2VFYfhD3KsWLE7pdeyS6qJtnMJ_3BwxQ&oe=6A7D7DDE&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHkv6Zmv8gMjFxNEUsog1cU7Lhed2Or-aUsQe7Hp8ZItiTeidxEtaVzDYneq18sCGMjrA14MFJk8VswaIMoCqDS&_nc_ohc=7vmm6zQmizYQ7kNvwE05Wt6&_nc_gid=to26WstesFXSbKvlf-0Chg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGNyiM-efb6jXWmWYj5CpR16R9s7hifYbQayypojTcBAA&oe=6A7ECF5E&_nc_sid=c6f216",
       "caption": "웨이브파크 🌊🏄‍♀️\n 수심 5미터 예쁜 야외풀장 \n찌져 ~ 야~호 ~~~~🩷\n.\n\n154/ 43~44 / xs \n🩱 Laserin \n  글리트 아이스 모카\n@laserin_swim\n\n.\n🎥 @diver.grim",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 93,
         "comments": 20
       },
-      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
+      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -144,16 +144,22 @@
           "views": 1989,
           "likes": 93,
           "comments": 20
+        },
+        {
+          "d": "2026-08-10",
+          "views": 1989,
+          "likes": 93,
+          "comments": 20
         }
       ],
       "baseline": {
         "views_median": 1013.0,
         "eng_median": 87.0,
         "n": 10,
-        "captured_at": "2026-08-09T06:33:50.091992+09:00"
+        "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.10610328638497653,
         "vs_baseline": 1.9634748272458045,
@@ -174,7 +180,7 @@
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "조회 1,989 · 좋아요 93 · 댓글 20 · ER 10.6% · 평소대비 2.0x (D+25)"
+      "last_written_reaction": "조회 1,989 · 좋아요 93 · 댓글 20 · ER 10.6% · 평소대비 2.0x (D+26)"
     }
   ],
   "flags": {

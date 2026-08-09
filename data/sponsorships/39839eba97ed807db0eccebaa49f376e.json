@@ -25,16 +25,16 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-04T05:30:30.000Z",
       "permalink": "https://www.instagram.com/p/Dbm0TU3j6FA/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF3Zg-ccuYm2aBqcHf-NxXIv27auZEe5TcvkfNBYQMXCcnIu16jlE_dx7TnnyQ5VHM&_nc_ohc=l1j4gE6QvvUQ7kNvwEaHL4o&_nc_gid=4u9WqAI0noOPIwWDTNu9_Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGTJwzwvjfdgEnIr_qqKUV6afE5OnzPQd0FdaTA2jSgwg&oe=6A7D5CD7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFsbginE8gcTG5A1FcnJHSNJBfS4BTRC5n5tS2LM6dtlsgklwpNosU-Gwf1DPve-UI&_nc_ohc=l1j4gE6QvvUQ7kNvwEyQAzo&_nc_gid=PWDrEZE7StVg_3TYiFKBDQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGBSR-Yjzjt9ONr2O2KK1iQXwMy_XlelGIq8OoBdsjVVQ&oe=6A7EAE57&_nc_sid=c6f216",
       "caption": "#AD @intotheblue_store\n\n롱핀은 처음이라 걱정했는데,\n첫 피닝부터 생각보다 훨씬 편했습니다.💙\n\n오래 차고 있어도 다리가 덜 피곤했고,\n턴도 부드럽게 돌아가더라고요.\n\n찾아보니\n✔️ 유리섬유(파이버글라스) 블레이드\n✔️ 발목에 맞춘 23° 각도 설계\n✔️ 동양인 발에 맞춘 풋포켓\n\n이런 디테일 덕분에\n초보도 부담 없이 신을 수 있었던 것 같아요.\n\n특히 오토클레이브 공법으로 제작돼\n내구성도 좋고,\n카본에 가까운 탄성감까지 느낄 수 있어서 만족했습니다.🤿\n\n앞으로 바다 갈 때마다\n가장 자주 함께할 장비가 될 것 같아",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "diving_cheodori",
       "metrics": {
-        "likes": 149,
+        "likes": 154,
         "comments": 8
       },
-      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
+      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -59,23 +59,29 @@
           "views": null,
           "likes": 149,
           "comments": 8
+        },
+        {
+          "d": "2026-08-10",
+          "views": null,
+          "likes": 154,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 200.0,
         "n": 12,
-        "captured_at": "2026-08-09T06:33:50.091992+09:00"
+        "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.014125056230319389,
-        "vs_baseline": 0.785,
-        "cost_per_eng": 1681.5286624203823,
+        "er": 0.014574898785425101,
+        "vs_baseline": 0.81,
+        "cost_per_eng": 1629.6296296296296,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 149 · 댓글 8 · ER 1.4% · 평소대비 0.8x (D+4)",
+      "last_written_reaction": "좋아요 154 · 댓글 8 · ER 1.5% · 평소대비 0.8x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.79x로 저조한 초기 반응, 참여 1건당 1,682원은 개선 여지가 있어 추가 모니터링 필요",
@@ -93,5 +99,5 @@
   },
   "child_db_id": "05f39eba-97ed-82e9-9654-81707d2b5286",
   "followers": 11115,
-  "last_written_score": 78
+  "last_written_score": 81
 }

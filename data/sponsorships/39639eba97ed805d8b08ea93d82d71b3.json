@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T05:28:33.000Z",
       "permalink": "https://www.instagram.com/p/DbH6ik5GN4D/",
-      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGuxkeSe3BPfbQyFi9_FFbh2ZKYhkH6IZQYrBW6ODuEgDmOSyXwK1PBy15bnRz106YLMB9SVtqdzZmS5WsLUKXC&_nc_ohc=G1Xw7_WPSssQ7kNvwF8m9Uj&_nc_gid=ryO9Woz6lz2W5jlA5QAiXA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHqojjveUAqVqGz6dUo5ww0025vYEt30Z-icdiE20WYPg&oe=6A7D7617&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGAWKoTp8TlTs2i-qLNdQKD1liTkkztRR6THblI9U3JIAszjUfE-SuAdhOj54lSt88&_nc_ohc=G1Xw7_WPSssQ7kNvwGfyPjx&_nc_gid=6nBIKI04ntM2BqH97ZI22Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEx4U9d9RNRsMHIwT9idWKq4c1kpRVNOvos506DlNfRfQ&oe=6A7EC797&_nc_sid=c6f216",
       "caption": "#협찬 \n\n여름에 따악 어울리는 색상 🩵\n실물이 더 영롱하고 고급진데 전하지못해 아쉽ㄷㅏ😵\n착용감은 말해 뭐해〰️\n너무 부드럽고 쫀득한 느낌 !\n\n✔️크리스탈 웨이브 더블 크로스백\n✔️xs착용\n\n#라세린 #수영복 #수영복추천 #swimwear",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 252,
         "comments": 17
       },
-      "metrics_updated_at": "2026-08-09T06:33:50.091992+09:00",
+      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -143,16 +143,22 @@
           "views": null,
           "likes": 252,
           "comments": 17
+        },
+        {
+          "d": "2026-08-10",
+          "views": null,
+          "likes": 252,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 262.0,
         "n": 12,
-        "captured_at": "2026-08-09T06:33:50.091992+09:00"
+        "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
         "er": 0.005888791593695272,
         "vs_baseline": 1.0267175572519085,
@@ -173,7 +179,7 @@
           "analyzed_at": "2026-08-07T10:01:11.565831+09:00"
         }
       },
-      "last_written_reaction": "좋아요 252 · 댓글 17 · ER 0.6% · 평소대비 1.0x (D+16)"
+      "last_written_reaction": "좋아요 252 · 댓글 17 · ER 0.6% · 평소대비 1.0x (D+17)"
     }
   ],
   "flags": {
