@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T10:34:23.000Z",
       "permalink": "https://www.instagram.com/p/DbDTZoxPXyx/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEti7iJqeuxXpcdpapu_VSQ-tgoRvuJ4nIbIVehUeVEFeVS91EGoq1efX3mtEznQQM&_nc_ohc=c3uF_PiVXEoQ7kNvwGBJ9EP&_nc_gid=Y4HHZFbxmSOfpaQSLZFKhw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG-9mQkwgUjuDR0oiQXsr5qPMqG88AsJpAJayNsG7h9sQ&oe=6A7ECA75&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEGMgxCvuzFgJx2hbdebT34aX9caUiZVJFM4Ss8ahlRI89iIWu1yoZ5whWgWH7_tB_B38PhlRXRGSsWDO-VJXxc&_nc_ohc=W6HLCMD-k-AQ7kNvwGQbbsX&_nc_gid=8OCYboyJ1rH3lqwZLtifKw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEiKmCksiVfwRNBWLM-c99DlGFp8VfKsqmL_BxQxK0f3g&oe=6A801BF5&_nc_sid=c6f216",
       "caption": "@secrets__fit \n\n#ad #시크릿스 #운동복추천 #취미발레룩",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ssen_nyy",
       "metrics": {
-        "views": 4211,
+        "views": 4217,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
+      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -150,6 +150,12 @@
           "views": 4211,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-11",
+          "views": 4217,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
@@ -159,12 +165,12 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
         "er": -9.062896501721951e-05,
-        "vs_baseline": 0.6540851196023609,
+        "vs_baseline": 0.6550170860515688,
         "cost_per_eng": -47300.0,
-        "cost_per_view": 11.232486345286155
+        "cost_per_view": 11.216504624140384
       },
       "analysis": {
         "one_liner": "평소 대비 0.40x의 저조한 도달과 팔로워 대비 참여율 0.04%로, 참여 1건당 비용 15,767원은 협찬 효율이 매우 낮은 상태다.",
@@ -180,7 +186,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 4,211 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (D+19)"
+      "last_written_reaction": "조회 4,217 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (D+20)"
     }
   ],
   "flags": {
@@ -191,5 +197,5 @@
   },
   "child_db_id": "d8639eba-97ed-83fc-8c5f-81471f8205f0",
   "followers": 11034,
-  "last_written_score": 65
+  "last_written_score": 66
 }

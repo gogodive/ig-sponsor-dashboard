@@ -68,7 +68,7 @@
         "captured_at": "2026-08-09T06:33:50.091992+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.010343167019116015,
         "vs_baseline": 0.7384155455904334,
@@ -95,16 +95,16 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-11T09:52:36.000Z",
       "permalink": "https://www.instagram.com/p/DapfOBVFGFs/",
-      "thumbnail": "https://instagram.fper9-1.fna.fbcdn.net/v/t51.82787-15/742266892_18474890692097062_724232062590641647_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fper9-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gF2_aaQL8JXM_FH0la4Vhcgoj2ne4IqN-4TzdCamra4-IrXKAXU87n8TZihMmWHatxhNy-Fk77tKVv1uP9kU554&_nc_ohc=b1xpkCScLf8Q7kNvwGFkGV2&_nc_gid=vAeEZxc6tKxaOpfGQRz3Mw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGH0p_Nh0wdh68K8K-NWqIi7T80cdEpWFfTEfZMg-ZmTw&oe=6A7EC192&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/742266892_18474890692097062_724232062590641647_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHNJBS2u_RjWY8pqydnuU6JNCwfQtrPgPT0cPYHqsF0h9tHOofSHP4lgI83_-6nE0o&_nc_ohc=b1xpkCScLf8Q7kNvwFNlLoy&_nc_gid=_5FlHe0YiQs6XdaeKQQZaw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFnk1KstNB_BUgp2Aedd_INb9jgW-_2hA4L_QAUHSB04Q&oe=6A801312&_nc_sid=c6f216",
       "caption": "이정도 여름이면 버틸만 하지요🙂‍↕️🫶\n \n #오운완 #운동하는여자 #summerinkorea #gymlife",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "do.roc.y",
       "metrics": {
-        "likes": 631,
+        "likes": 632,
         "comments": 42
       },
-      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
+      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -219,20 +219,26 @@
           "views": null,
           "likes": 631,
           "comments": 42
+        },
+        {
+          "d": "2026-08-11",
+          "views": null,
+          "likes": 632,
+          "comments": 42
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 669.0,
         "n": 12,
-        "captured_at": "2026-08-10T06:36:10.950262+09:00"
+        "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.01409099474466615,
-        "vs_baseline": 1.0059790732436473,
-        "cost_per_eng": 108.46953937592868,
+        "er": 0.01411193232972509,
+        "vs_baseline": 1.007473841554559,
+        "cost_per_eng": 108.30860534124629,
         "cost_per_view": null
       },
       "analysis": {
@@ -249,7 +255,7 @@
           "analyzed_at": "2026-07-26T06:59:34.414324+09:00"
         }
       },
-      "last_written_reaction": "좋아요 631 · 댓글 42 · ER 1.4% · 평소대비 1.0x (D+29)"
+      "last_written_reaction": "좋아요 632 · 댓글 42 · ER 1.4% · 평소대비 1.0x (D+30)"
     }
   ],
   "flags": {

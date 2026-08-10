@@ -24,16 +24,16 @@
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.0015645954403218597,
-        "vs_baseline": 0.20060534723389944,
+        "vs_baseline": 0.20077349924331594,
         "cost_per_eng": 41428.57142857143,
-        "cost_per_view": 243.08466051969825
+        "cost_per_view": 242.88107202680067
       },
       "posted_at": "2026-07-16T01:38:13.000Z",
       "permalink": "https://www.instagram.com/p/Da1ZcjSt9Bo/",
-      "thumbnail": "https://instagram.fbhx2-1.fna.fbcdn.net/v/t51.82787-15/747561639_18157757845486713_4367564663005879999_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbhx2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH6fvAZHOf7frzXXm9iCfa8tWs1N5Y0FHN48GNwhNYNTLF29Pb8HpTmGQpV26e7LDM&_nc_ohc=AOMuV-4XWJcQ7kNvwFiRMu9&_nc_gid=BnSlw1VOzTSfXz8WY-89lQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHkN7j52IJnIuWv5RMqsK7P8sliZ0gYBV5uKocQdd8m8A&oe=6A7EAF98&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/747561639_18157757845486713_4367564663005879999_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEtN0l8wscJ6dpxVvPg1T2WYSzuSfw_LN3zBeMlbwxGTd31GCUNfpuTMcHV-MGmFk0&_nc_ohc=AOMuV-4XWJcQ7kNvwF_0kxx&_nc_gid=LnMwWbBLGzDGt38BD_SKQQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGJkR4xpN89hY-4U6R_AVEnXM7TuO1VaMKleOogA8_M7w&oe=6A800118&_nc_sid=c6f216",
       "caption": "세상 영롱한 새신발 신고 물 속에서 재롱부리기 🐠🫧\n\n오늘은 링을 만들어서 통과하기 전에 턴을 돌아보았어요\n여기서 중요한 점은 링이 깨지지 않도록 링을 불고 잠시 기다려준 뒤\n아주 조심히 그르고 천천히 돌아야 해요!! 요 포인트만 참고하면 턴돌고 링통과 예쁘게 완성할 수 있답니다\n\n제가 신고 있는 영롱한 롱핀은 딥바이브 오로라 롱핀 레드컬러예요\n빛의 각도에 따라 핑크 옐로 블루 그린 등등 다양한 색을 품고 있어요 볼수록 영롱한 ✨\n비가 오는 날이어서 실물만큼 예쁘게 못 담아 아쉽지만 채광 좋은 날 얼마나 자체발광일지 벌써 기대가 되",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -41,9 +41,9 @@
       "metrics": {
         "likes": -1,
         "comments": 8,
-        "views": 1193
+        "views": 1194
       },
-      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
+      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -146,13 +146,19 @@
           "views": 1193,
           "likes": -1,
           "comments": 8
+        },
+        {
+          "d": "2026-08-11",
+          "views": 1194,
+          "likes": -1,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": 5947,
         "eng_median": 127.0,
         "n": 11,
-        "captured_at": "2026-08-10T06:36:10.950262+09:00"
+        "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "analysis": {
         "d3": {
@@ -166,7 +172,7 @@
           "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
         }
       },
-      "last_written_reaction": "조회 1,193 · 좋아요 -1 · 댓글 8 · ER 0.2% · 평소대비 0.2x (D+24)"
+      "last_written_reaction": "조회 1,194 · 좋아요 -1 · 댓글 8 · ER 0.2% · 평소대비 0.2x (D+25)"
     }
   ],
   "flags": {

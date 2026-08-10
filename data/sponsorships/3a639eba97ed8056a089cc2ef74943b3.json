@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-27T15:04:26.000Z",
       "permalink": "https://www.instagram.com/p/DbTPn-jFCTI/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZ5-5Y3QmAtMPFxcgY6NGdvCp4ff4ILXdQvwvRsUaBTEPajQONjBlU8gvYujlT7UCP3qffHZSf2MLT3cDRbImj&_nc_ohc=mYY4evdHRHEQ7kNvwF6jwls&_nc_gid=HP656W2HvIQNeCHwBpHtsQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGxFj94J9cPbK7ZYVKg5XluFAkasq1WbIciL33Rx-ZpyQ&oe=6A7EADFE&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNGgrs4cxDCyn7mcU3u0Oy62a5cSTu225SXPDzHHY0-7zKw22-VWoels0B8hvyrWk&_nc_ohc=mYY4evdHRHEQ7kNvwGN3oxQ&_nc_gid=snAHDi5AbCGbjGcaN1OZ7w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEzJtjBPlN8KSWwNjSSG13yt5bXXfoRwjdSXb5bp_0bfw&oe=6A7FFF7E&_nc_sid=c6f216",
       "caption": "@secrets__fit ⚡️🍋🎧\n\n운동하는 날도 핏은 포기 못해 ~💨\n\n#activewearfashion",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
+      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -53,10 +53,16 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-11",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,
@@ -68,9 +74,14 @@
           "one_liner": "좋아요 -1·댓글 0으로 유효 데이터 없음 — 피드 게시물 특성상 조회수 미집계, 11일차 현시점에서 성과 판단 불가.",
           "days": 11,
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
+        },
+        "d14": {
+          "one_liner": "좋아요 -1·댓글 0으로 유효 지표 전무, 비용 대비 성과 산출 불가 — 데이터 오류 또는 게시물 노출 실패 여부를 우선 확인 필요.",
+          "days": 14,
+          "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+13)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+14)"
     }
   ],
   "flags": {

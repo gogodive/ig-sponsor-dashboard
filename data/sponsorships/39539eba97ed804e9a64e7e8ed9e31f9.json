@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T15:18:57.000Z",
       "permalink": "https://www.instagram.com/p/DavOKE4CXqM/",
-      "thumbnail": "https://instagram.fmad17-1.fna.fbcdn.net/v/t51.82787-15/746308300_17950777617212106_3956088414937807608_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGVnIai2roaq8frku7beqjuRbvDxga3mi5IhBgWaNT0GuvWEUru9ZIJDCBR7fM-2oU&_nc_ohc=P-EjIyRvNYUQ7kNvwHNbyy2&_nc_gid=jqvLsoolY0fQ4LNV30GBiA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGlZ4DJsMRdVxs5kS6yEialoosP08W9wudHYwO7dbhuLA&oe=6A7EB20D&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/746308300_17950777617212106_3956088414937807608_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEaKXDWgkLjf6t9WyPDpZRmBNCC2aAAMxgyQop9KMxx7nX0uLZoqLIx8kygHMEC3k0&_nc_ohc=P-EjIyRvNYUQ7kNvwHMI52H&_nc_gid=ZnQP86NDPIe1J-bu6HjY3Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGqnL-FbFOymKkqjIzyIe4Q76uXemE3N2anDoIYvUkIQw&oe=6A80038D&_nc_sid=c6f216",
       "caption": "🍑 #라세린 윤슬선셋에이백 착용 후기\n\n햇살이 물 위에 비칠 때 반짝이는 윤슬을 담은 듯한 컬러가 정말 매력적인 수영복🤍\n\n제주 #판포포구 에서 신나게 놀면서 찍은 사진인데, 햇살을 받으니 피치 코랄 그라데이션이 더 예쁘게 보여서 사진도 정말 잘 나오더라고요.✨📸\n\n몸을 안정감 있게 잡아주면서도 신축성이 좋아 풀장은 물론 제주 투어 내내 편안하게 착용할 수 있었어요.\n\n특히 에이백 디자인이라 앞모습은 깔끔하고, 뒷모습까지 포인트가 되어 마음에 들었습니다.🤍\n\n바다, 여행, #프리다이빙 어디에서든 잘 어울리는 컬러와 디자인이라 올여름",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 330,
         "comments": 29
       },
-      "metrics_updated_at": "2026-08-10T06:36:10.950262+09:00",
+      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -149,16 +149,22 @@
           "views": null,
           "likes": 330,
           "comments": 29
+        },
+        {
+          "d": "2026-08-11",
+          "views": null,
+          "likes": 330,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 226.0,
         "n": 12,
-        "captured_at": "2026-08-10T06:36:10.950262+09:00"
+        "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.06914483821263483,
         "vs_baseline": 1.5884955752212389,
@@ -179,7 +185,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 330 · 댓글 29 · ER 6.9% · 평소대비 1.6x (D+27)"
+      "last_written_reaction": "좋아요 330 · 댓글 29 · ER 6.9% · 평소대비 1.6x (D+28)"
     }
   ],
   "flags": {
