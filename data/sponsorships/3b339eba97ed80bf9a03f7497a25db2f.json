@@ -25,16 +25,16 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-07-28T06:26:52.000Z",
       "permalink": "https://www.instagram.com/p/DbU5MDhnUyC/",
-      "thumbnail": "https://instagram.fbne5-1.fna.fbcdn.net/v/t51.82787-15/757889342_17893485996592983_2136192954071083541_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbne5-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gE6EsxADDHiGVbanmEAG5ngVBtBSFYXezZEA5o0b3fX0I-XPlIYMWvqpYCOeWXfa7E&_nc_ohc=aDvCOiPTvcgQ7kNvwGPw807&_nc_gid=a4Fhw625Pu45erbeFHBrxA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFp0mWZ-MwZJ-CVqYaB_-DF3g4fHciVk4D7Db2sokA9KQ&oe=6A802AA7&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fsvq6-1.fna.fbcdn.net/v/t51.82787-15/757889342_17893485996592983_2136192954071083541_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsvq6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGjbgW3UWS-1IzyYKNJGSPDDtU2J44X_nAKo-Ll3WvEQDL696sN8NikgQVJCpRD0xUGcdIx-Zrrz1lBo1PROcPe&_nc_ohc=aDvCOiPTvcgQ7kNvwHbXuFT&_nc_gid=mq7TxozGzwirSWirqBSWDA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHqxTCFRhY-RjY03uXcY_4AK6lRVVRoMt1f0TDhvzSYYA&oe=6A817C27&_nc_sid=c6f216",
       "caption": "퀴즈⚠️ 운동 전 운동 후 입니댜! 내가 뭘 해서 저렇게 됬게룡🫪\n\n#투모어휘트니스봉명점 에서 내가 제일 좋아하는 머신을 썼답니다 모게용?\n맞히는 사람 선물로 꿀밤 줌👊\n\n오늘 착장은 #시크릿스 #V컷코르셋레깅스 에욤 \n요새 살 넘몽 안빠져서 요새 옆구리 넘 불룩한디 (현재 스펙 161/52 ㅋ)\n레깅스 덕에 완주니 잘록걸이잔오➿ 깔별로 쟁이고 싶당\n나한테 무슨 색이 젤 잘어울릴지도 추천해죠.",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "healthy__eun",
       "metrics": {
-        "likes": 311,
+        "likes": 312,
         "comments": 46
       },
-      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
+      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -71,14 +71,20 @@
           "views": null,
           "likes": 311,
           "comments": 46
+        },
+        {
+          "d": "2026-08-12",
+          "views": null,
+          "likes": 312,
+          "comments": 46
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.07938625750500333,
+        "er": 0.07960862797420502,
         "vs_baseline": null,
-        "cost_per_eng": 263.3053221288515,
+        "cost_per_eng": 262.5698324022346,
         "cost_per_view": null
       },
       "analysis": {
@@ -86,9 +92,14 @@
           "one_liner": "좋아요+댓글 341건, 팔로워 대비 참여율 7.58%로 소규모 계정 기준 우수하며 참여 1건당 276원은 합리적 비용 효율을 보임.",
           "days": 8,
           "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
+        },
+        "d14": {
+          "one_liner": "좋아요+댓글 358건·참여율 7.96%로 소규모 계정치고 우수하며, 1건당 263원의 비용 효율도 양호한 중간 성과.",
+          "days": 14,
+          "analyzed_at": "2026-08-12T06:52:47.460628+09:00"
         }
       },
-      "last_written_reaction": "좋아요 311 · 댓글 46 · ER 7.9% (D+13)"
+      "last_written_reaction": "좋아요 312 · 댓글 46 · ER 8.0% (D+14)"
     }
   ],
   "flags": {

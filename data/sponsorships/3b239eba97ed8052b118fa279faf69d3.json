@@ -19,9 +19,9 @@
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": false,
+    "overdue_no_output": true,
     "account_unavailable": false
   },
   "child_db_id": "d4d39eba-97ed-82d8-9646-01db879636d7",
-  "followers": 1192
+  "followers": 1243
 }

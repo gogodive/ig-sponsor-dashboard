@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:32:01.000Z",
       "permalink": "https://www.instagram.com/p/Daw2peVD2ou/",
-      "thumbnail": "https://instagram.ffuk1-1.fna.fbcdn.net/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ffuk1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gETxbrUxFfRfncwsMF_f4iu6Vd37HD7C2c601FyRe6HBhHp9uQjk3aYkyYrOpgJEH45X9UgkKNKGUD_qvSwvNEj&_nc_ohc=4r8irRd6zAcQ7kNvwHp3p9j&_nc_gid=9PnuNHpCFtgUGfRF2PjW1w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFUEC8z7O2dqv8m1kOpaAmabF_jX1EUvKC1ltok9xTVIQ&oe=6A8001F2&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fntr12-1.fna.fbcdn.net/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fntr12-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHUYD4CVkikHa7_evkuX6I1L0B1blsMLpHbHaL-Y22HnlIkQVedRAyVUIhJMe7plr0&_nc_ohc=4r8irRd6zAcQ7kNvwHeDpnx&_nc_gid=622DnOUV_F5MiEQOxR4RGA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHWZ11C5EaWCoadbGfjdUEPxNk4tgxC_Db-tpbPNrTrBg&oe=6A818BB2&_nc_sid=c6f216",
       "caption": "개운하게 등 운완 ✌🏽\n헬스장 너무 시원한데 땀이 왤케 나 \n\n@secrets__fit \n코르셋 브라탑 / 화이트•M\nV컷 레깅스 3.5부 / 네이비•L\n\n#협찬 #광고 #운동복브랜드 #짐웨어브랜드",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 13
       },
-      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
+      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -155,16 +155,22 @@
           "views": null,
           "likes": -1,
           "comments": 13
+        },
+        {
+          "d": "2026-08-12",
+          "views": null,
+          "likes": -1,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 17,
         "n": 11,
-        "captured_at": "2026-08-11T06:45:30.657122+09:00"
+        "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.0005346164127238706,
         "vs_baseline": 0.7058823529411765,
@@ -185,7 +191,7 @@
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 0.7x (D+27)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 0.7x (D+28)"
     }
   ],
   "flags": {

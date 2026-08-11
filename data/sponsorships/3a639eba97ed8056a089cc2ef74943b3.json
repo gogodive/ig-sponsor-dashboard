@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-27T15:04:26.000Z",
       "permalink": "https://www.instagram.com/p/DbTPn-jFCTI/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNGgrs4cxDCyn7mcU3u0Oy62a5cSTu225SXPDzHHY0-7zKw22-VWoels0B8hvyrWk&_nc_ohc=mYY4evdHRHEQ7kNvwGN3oxQ&_nc_gid=snAHDi5AbCGbjGcaN1OZ7w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEzJtjBPlN8KSWwNjSSG13yt5bXXfoRwjdSXb5bp_0bfw&oe=6A7FFF7E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFH9o0YaNm_EgwM2UCUNJvHzdqVAoyb3Nxj2--BuB-ETOlzj-NStYVhT1zUFpNJrKBg06XBIiG_5YDZCoo0m1ij&_nc_ohc=mYY4evdHRHEQ7kNvwF2YW1G&_nc_gid=7eWpPBEdS86x6wU-ApViLQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFJqEwOs8y0O-VUIE0011RMhzO3B5esDMA5hlOD9n_Slg&oe=6A81893E&_nc_sid=c6f216",
       "caption": "@secrets__fit ⚡️🍋🎧\n\n운동하는 날도 핏은 포기 못해 ~💨\n\n#activewearfashion",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
+      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -59,10 +59,16 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-12",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,
@@ -81,7 +87,7 @@
           "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+14)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+15)"
     }
   ],
   "flags": {

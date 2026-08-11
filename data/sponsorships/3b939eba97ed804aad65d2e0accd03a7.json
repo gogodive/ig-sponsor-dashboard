@@ -1,0 +1,27 @@
+{
+  "page_id": "3b939eba-97ed-804a-ad65-d2e0accd03a7",
+  "row_title_raw": "feeling1044",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "인투더블루"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "125000",
+  "product_value_krw": 314000,
+  "delivery_date": "2026-08-11",
+  "output_link_prop": null,
+  "username": "feeling1044",
+  "followers_notion": 125000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "a9639eba-97ed-8329-a298-016484940076",
+  "followers": 125000
+}

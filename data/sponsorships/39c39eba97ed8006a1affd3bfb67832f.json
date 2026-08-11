@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
-        "er": 0.006324453108078839,
-        "vs_baseline": 0.3973870440936309,
-        "cost_per_eng": 534.2465753424658,
+        "er": 0.006385098548841239,
+        "vs_baseline": 0.40119760479041916,
+        "cost_per_eng": 529.1723202170963,
         "cost_per_view": null
       },
       "posted_at": "2026-07-23T04:36:19.000Z",
       "permalink": "https://www.instagram.com/p/DbH0kCXiWlU/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/753604838_18606844825061018_7282430076396045683_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENgCCKdKDcX4NCwiRdluIwL3fNaRu76iuPndJA0HTefV2xecDuSJFX0k58q1BId43Nysh6gk-ixYf66mO7mtqr&_nc_ohc=0MtgpaZSo3EQ7kNvwGJBuh_&_nc_gid=2GdoSLrkQ9nLBrGNvZ03_w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE_x2WjHH7sXZLSL56QvkGD8MOBgBcRnmAyNyktTh-eIw&oe=6A8019D6&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/753604838_18606844825061018_7282430076396045683_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFVPa4Kf7kxqVvlPAKmp99qdLPV43iN9ArAMT55nYYXA-3Xh1_J32xxKuvO1Fk8XWw&_nc_ohc=0MtgpaZSo3EQ7kNvwE0IZSB&_nc_gid=qWm8q9BNMxyphrgvqac3Uw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHn-f1izO5szrLtGjb5Tn8SxVkrMn788aJ3Fe-pKOCuRw&oe=6A816B56&_nc_sid=c6f216",
       "caption": "다시 도전한 프리다이빙🫧\n요즘 전 참방 데이로 하루 보내고 있어요!\n\n4년 전쯤 프리다이빙을 시작했는데\n이퀄라이징 한계로 중단했었거든요\n\n이번에 고고다이브에서 첫 수업 받자마자\n무난히 이퀄 성공하고\n인생샷까지 남겨왔지 모예요!\n\n이퀄에도 종류가 여럿이 있는데\n그간 제가 너무 힘을 많이 쓰는\n이퀄을 하고 있었더라구요!\n\n자신감이 붙으니 얼른 바다로 나가고 싶어요🌊\n앞으로 프리다이빙 피드\nㄱㅣㄷㅐㅎㅐ주ㅓ\n💙\n\n@gogodive \n#고고다이브 #프리다이빙 #프리다이빙강습 #freediving",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "okgun._.2",
       "metrics": {
-        "likes": 668,
+        "likes": 675,
         "comments": 62
       },
-      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
+      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -151,15 +151,21 @@
           "views": null,
           "likes": 668,
           "comments": 62
+        },
+        {
+          "d": "2026-08-12",
+          "views": null,
+          "likes": 675,
+          "comments": 62
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 1837,
         "n": 11,
-        "captured_at": "2026-08-11T06:45:30.657122+09:00"
+        "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
-      "last_written_reaction": "좋아요 668 · 댓글 62 · ER 0.6% · 평소대비 0.4x (D+18)",
+      "last_written_reaction": "좋아요 675 · 댓글 62 · ER 0.6% · 평소대비 0.4x (D+19)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.45x로 참여가 절반 이하이며, 참여 1건당 636원은 비용 효율도 아직 저조—추이 지속 모니터링 필요.",

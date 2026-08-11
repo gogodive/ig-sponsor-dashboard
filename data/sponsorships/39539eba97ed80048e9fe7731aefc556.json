@@ -25,7 +25,7 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-07-26T15:47:09.000Z",
       "permalink": "https://www.instagram.com/p/DbQvqVcyVXc/",
-      "thumbnail": "https://instagram.fwaw8-2.fna.fbcdn.net/v/t51.71878-15/756609979_1981884229143752_4591035548049482581_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fwaw8-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gFcu6TxeIIoVpJlYsBQQZrNOacMq3NqjX031AUPyKLzq4h3ebU8IAUVzhcCRbrv-8E&_nc_ohc=lIS7sTySG2AQ7kNvwFa0JvJ&_nc_gid=OKXbk1s8VNPyKt15iIlfew&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHyGC-AUigDcm-9tH3eYdxEq8S0smUGuds4q4B9h_szRg&oe=6A80211E&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpmi2-1.fna.fbcdn.net/v/t51.71878-15/756609979_1981884229143752_4591035548049482581_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fpmi2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gFbZ0W_HLffTTaG2HGRom89tx8ZLekkul2qg8uHXsxHuytbvb5wjB57UyiNWtTi1Do&_nc_ohc=lIS7sTySG2AQ7kNvwEDOBci&_nc_gid=5QSY_5BMuShrRVW61mfQiw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHOrgb2XC-FpMIIIBvHAPphRlvHNbJ4GOO31TQDzab3ZQ&oe=6A81729E&_nc_sid=c6f216",
       "caption": "진짜 민망하긴 한데👉🏻👈🏻😏\n다이어트가 힘들면 템빨을 쓰라 그랬습니다(?)\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n아니 근데 요거 운동복 요술이네요....ㅎ.ㅎ.ㅎ.ㅎ.ㅎ\n쫀쫀하고.. 날씬해보이는데 감쪽같아요🤭🤭🤭🤭\n\n@secrets__fit\n#시크릿스 #여자운동복추천 진짜 추천🩷🩷🩷🩷🩷",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-11T06:45:30.657122+09:00",
+      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -72,10 +72,16 @@
           "views": 2326,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-08-12",
+          "views": 2326,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.0,
         "vs_baseline": null,
@@ -94,7 +100,7 @@
           "analyzed_at": "2026-08-10T06:36:10.950262+09:00"
         }
       },
-      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 1 · ER 0.0% (D+15)"
+      "last_written_reaction": "조회 2,326 · 좋아요 -1 · 댓글 1 · ER 0.0% (D+16)"
     },
     {
       "notion_row_id": "35739eba-97ed-8309-a1a4-8157ecb4d466",
@@ -104,7 +110,7 @@
       "upload_date_notion": "2026-07-10",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0006445375443119562,
         "vs_baseline": null,
