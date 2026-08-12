@@ -1,0 +1,27 @@
+{
+  "page_id": "3b239eba-97ed-8048-aab8-d5479977ebc1",
+  "row_title_raw": "koo_eun_jung",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "26000",
+  "product_value_krw": null,
+  "delivery_date": "2026-08-12",
+  "output_link_prop": null,
+  "username": "koo_eun_jung",
+  "followers_notion": 26000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "0b839eba-97ed-8348-a447-018add69c762",
+  "followers": 26000
+}

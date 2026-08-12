@@ -1,0 +1,167 @@
+{
+  "page_id": "3ba39eba-97ed-8080-96a1-d88a7ec4b52a",
+  "row_title_raw": "q._.p7171",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "3735",
+  "product_value_krw": 165000,
+  "delivery_date": "2026-08-07",
+  "output_link_prop": null,
+  "username": "q._.p7171",
+  "followers_notion": 3735,
+  "posts": [
+    {
+      "notion_row_id": "3ba39eba-97ed-80cf-a431-e209bb9231f0",
+      "url": "https://www.instagram.com/reel/Dbzk9cfpJEV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dbzk9cfpJEV",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-09",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-09T04:28:14.000Z",
+      "permalink": "https://www.instagram.com/p/Dbzk9cfpJEV/",
+      "thumbnail": "https://instagram.flov2-1.fna.fbcdn.net/v/t51.82787-15/768361653_18003052940987094_6896996982419511076_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.flov2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHHYOwfd-o78DZsYCMvvPinERuGrWFzmQ7J-nX35MdDgOIBg-dSSPKQU40clJ-oToM&_nc_ohc=dJWMXjlvrOQQ7kNvwH3g8aV&_nc_gid=3Xt_FdIvftARd5ei4YaHPg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH0xIpQH3hhMneHK8xzWhi9nGUfHGmwyTmnpwiAOcJEbg&oe=6A82BC58&_nc_sid=c6f216",
+      "caption": "@secrets__fit \n•\n•\n•\n#fyp #시크릿스 #운동복추천",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "q._.p7171",
+      "metrics": {
+        "views": 9604,
+        "likes": -1,
+        "comments": 6
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": 9604,
+          "likes": -1,
+          "comments": 6
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.0013241525423728813,
+        "vs_baseline": null,
+        "cost_per_eng": 11000.0,
+        "cost_per_view": 5.726780508121616
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "조회수는 팔로워 대비 2.5배 수준이나 좋아요 미집계·참여율 0.13%로 비용 효율 낮음, 추이 지속 모니터링 필요",
+          "days": 3,
+          "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        }
+      },
+      "last_written_reaction": "조회 9,604 · 좋아요 -1 · 댓글 6 · ER 0.1% (D+3)"
+    },
+    {
+      "notion_row_id": "3ba39eba-97ed-8023-9f6e-e5a689bf97df",
+      "url": "https://www.instagram.com/p/Db1zoZYCV0c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db1zoZYCV0c",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-10",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-10T01:13:15.000Z",
+      "permalink": "https://www.instagram.com/p/Db1zoZYCV0c/",
+      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/767978820_18003202655987094_985670500060368637_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MDI5ODAwNzkyNjUxODk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=m0lCAsd818kQ7kNvwFryX7e&_nc_oc=Adp9S5vbSEVIqEJfgHw2xMvqC051LSnsMQYEDzoy0MwPKcYi6z9qmgSKH4Jfxug6FRk&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=M0KAWzliOKLrlIXH1ALaiQ&_nc_ss=72a8c&oh=00_AQFyoBJVjA_mlH-gxFz38KDZWB3YTgOWzj8NHroAhS9hgQ&oe=6A82AA1F",
+      "caption": "@secrets__fit \n•\n•\n•\n#시크릿스 #운동복추천",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "q._.p7171",
+      "metrics": {
+        "likes": 843,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": 843,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 416.5,
+        "n": 10,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.2232521186440678,
+        "vs_baseline": 2.0240096038415367,
+        "cost_per_eng": 65.24317912218268,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 843 · 댓글 0 · ER 22.3% · 평소대비 2.0x (D+2)"
+    },
+    {
+      "notion_row_id": "9dd39eba-97ed-83be-8e4c-013cd50e6ef0",
+      "url": "https://www.instagram.com/p/DbylR97kq5h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DbylR97kq5h",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-09",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-08T19:10:08.000Z",
+      "permalink": "https://www.instagram.com/p/DbylR97kq5h/",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/771573210_18003000305987094_1721889390467462983_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFN1K0Qrxes7yj7CjEUBYSQpca0W_5LXakbZvP9wjjasjHiKH5K7fwo3cVQzcflJxg&_nc_ohc=kJk_rD4eK6gQ7kNvwGyIJZG&_nc_gid=-e4NOYt49xnTr_L91xraKw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG9HLO_r3mXAE-rrWmBQ6CKCtTjG31Mi7936rro4D9r6A&oe=6A82D5E3&_nc_sid=c6f216",
+      "caption": "@secrets__fit \n•\n•\n•\n•\n#시크릿스 #운동복추천 #fyp",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "q._.p7171",
+      "metrics": {
+        "likes": -1,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": -1,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 416.5,
+        "n": 10,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": -0.00026483050847457627,
+        "vs_baseline": -0.0024009603841536613,
+        "cost_per_eng": -55000.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요 -1·댓글 0으로 유효 지표 없음, 평소대비·비용 산출 불가 — 추가 관찰 필요.",
+          "days": 4,
+          "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+4)"
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "e4d39eba-97ed-82be-8bd8-019025dd2f4a",
+  "followers": 3776,
+  "last_written_score": 101
+}

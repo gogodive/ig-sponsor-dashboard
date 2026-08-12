@@ -9,19 +9,64 @@
     "라세린"
   ],
   "manager": "서채윤",
-  "followers_notion_raw": "",
+  "followers_notion_raw": "9662",
   "product_value_krw": 69000,
   "delivery_date": "2026-08-04",
   "output_link_prop": null,
   "username": "sunsea_swim",
-  "followers_notion": null,
-  "posts": [],
+  "followers_notion": 9662,
+  "posts": [
+    {
+      "notion_row_id": "68a39eba-97ed-8215-ab14-81983344b221",
+      "url": "https://www.instagram.com/p/Db3GoX3EioE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db3GoX3EioE",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-11",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-10T13:18:30.000Z",
+      "permalink": "https://www.instagram.com/p/Db3GoX3EioE/",
+      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/773028748_18151831597510034_373631528983432869_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF4FEHPyVD8tQJ5tpr4zb7J0xUuaBjOM6V3fniaVdKbnkCBibYmG3R9SY3NhOXr8T1jMKR2td_tkuO3OWHOLztJ&_nc_ohc=No8YFW0meVIQ7kNvwGkHHIZ&_nc_gid=KS904rzmFA8pcWHOVqBAPg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFICZ5Ss4gifZDFTGS18kwV36T6W2PFOh3Wiu-W-_57Vw&oe=6A82BB07&_nc_sid=c6f216",
+      "caption": "#제품제공 @laserin_swim\n\n올 여름 라세린의 𝐒𝐮𝐧 𝐆𝐥𝐨𝐰 매력에 빠지실 분들 보세요~\n\n노을빛이 불꽃처럼 은은하게 번져가는 코랄 그라데이션 색감이\n너무 예뻐서 입기만 해도 기분 전환이 될 것 같아요♥️💖💛🤍\n\n영상 보시면 움직일때마다 빛에 따라 일렁이는 홀로그램 광택을 보실 수 있을거에요🥰\n입수하면 또 얼마나 영롱할지 감도 안와요 ㅎㅎ\n라세린 역시 포일 맛집 맞네요💖👍\n화이트 안감이 있어서 입수 시 톤다운도 되지 않고 비침 걱정도 없습니다👏👏👏\n\n입어 보니 기존 라세린 사이즈 보다는 조금 더 타잇한 느낌이지만\n그래도 ",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "sunsea_swim",
+      "metrics": {
+        "likes": 172,
+        "comments": 36
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": 172,
+          "comments": 36
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 261.0,
+        "n": 10,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.021541010770505385,
+        "vs_baseline": 0.7969348659003831,
+        "cost_per_eng": 331.7307692307692,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 172 · 댓글 36 · ER 2.2% · 평소대비 0.8x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "92d39eba-97ed-8395-aec0-0140804a5d4c",
-  "followers": null
+  "followers": 9656,
+  "last_written_score": 80
 }

@@ -24,26 +24,26 @@
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.012218649517684888,
-        "vs_baseline": 0.8323111967758893,
+        "vs_baseline": 0.8330120904152795,
         "cost_per_eng": 336.8421052631579,
-        "cost_per_view": 13.473684210526315
+        "cost_per_view": 13.462347496844762
       },
       "posted_at": "2026-07-16T03:00:56.000Z",
       "permalink": "https://www.instagram.com/p/Da1nbBuBxJS/",
-      "thumbnail": "https://instagram.fkix1-2.fna.fbcdn.net/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fkix1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGaBPKyNcxR57k0d_6L2RlMeAnrkDUN8T7ePFnwCY2Se1Qs0Sl_bjCYGvwc4xFW9QI&_nc_ohc=YfOcbEdhZzMQ7kNvwGWtjwv&_nc_gid=qRM-BDMJMJWSAXZiYUPQ-A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHAQJ_x5SrlMfkBMadiYbZnsrYJnTXivfFhiDrULoEM3w&oe=6A816BAD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHGkTNEAKPlPyh75X8D6O02GUFuOZsVlJwzJQNrjJ-sYkBplc1xdITdR-X2cLQKv18&_nc_ohc=YfOcbEdhZzMQ7kNvwGY6HIO&_nc_gid=v_nWjiRK3zzgfXu9mQqKUQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFXW_M0ISpXsV0ELzEo_8K-qNwo0Z9fs2xwzsKenlHg0Q&oe=6A82BD2D&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n물 속에서도 시크하고 우아한 수영복\n라세린 스태리블랙🖤🤍✨️\n한창 컬러풀한 걸로 입다가\n요즘 시크하게 블랙이 땡기는데 \n딱 그 마음을 충족시킬 수 있는 수영복이예요\n\n수영복 @laserin_swim \n마스크 @usepool_official \n수모 @areyou.readytokick \n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩°｡⋆",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "freeee_kay_sub",
       "metrics": {
-        "views": 2375,
+        "views": 2377,
         "likes": 71,
         "comments": 24
       },
-      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -158,6 +158,12 @@
           "views": 2375,
           "likes": 71,
           "comments": 24
+        },
+        {
+          "d": "2026-08-13",
+          "views": 2377,
+          "likes": 71,
+          "comments": 24
         }
       ],
       "analysis": {
@@ -172,12 +178,12 @@
           "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
         }
       },
-      "last_written_reaction": "조회 2,375 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (D+26)",
+      "last_written_reaction": "조회 2,377 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (D+27)",
       "baseline": {
         "views_median": 2853.5,
         "eng_median": 105.5,
         "n": 4,
-        "captured_at": "2026-08-12T06:52:47.460628+09:00"
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
       }
     },
     {
@@ -187,8 +193,8 @@
       "media_kind": "피드",
       "upload_date_notion": "2026-07-12",
       "first_seen": "2026-07-23",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.023794212218649517,
         "vs_baseline": 1.2542372881355932,
@@ -197,7 +203,7 @@
       },
       "posted_at": "2026-07-12T02:26:16.000Z",
       "permalink": "https://www.instagram.com/p/DarQ74yAcaA/",
-      "thumbnail": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/743270494_17897909931504729_5706311471354239285_n.heic?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE3S5bw-YZ8iS6ZTAXWebOygIEcQnM3i283VX6b3L1wQjk0m9g-YIWSJ4wYtwEVQWbXkT5VkV5-uBFycEF9AVFo&_nc_ohc=4BgPEUVIVHkQ7kNvwE12KUJ&_nc_gid=V5snbjZeHjj-Ms90xB-pWQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEYvdbCSKy2anDKevtyGMlDdrNW3MGJGgm01L9zxpSQ3g&oe=6A818251&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/743270494_17897909931504729_5706311471354239285_n.heic?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHG5-lKoQVrGjzEgZCUb0KKgcQV5HRxczzBLgIUWsDrI5ZpwUHGXSd7jFiEXo1Zwg4&_nc_ohc=vrfpbja4_gsQ7kNvwEsfc16&_nc_gid=RaRK9SuOUZPl-BwQMp2xdA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEHFpt2u0gw5Ok5X2dK2tGHyJfwWkygyKKiHvzpCM8_Jw&oe=6A82D3D1&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n평소에 입던 스탈과 다르게 한번 입어봤는데\n어떤가요?😳\n풀장에서 종종 본 디자인인데\n실물이 더 예쁜 수영복이라 결국 입어본🖤✨️\n오묘한 색 조합이 진짜 예쁘고 고급스러워요\n\n백타입은 안정적이고\n컷도 미들컷으로 편안해요\n착용감도 말랑합니다\n\n라세린 | 스태리블랙 픽스드백\n@laserin_swim\nH165 W54 T150\n사이즈 S 착용\n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -333,9 +339,11 @@
           "one_liner": "팔로워 대비 참여율 11.97%로 1건당 179원의 효율을 보이며, 소규모 계정 특유의 높은 밀착도가 협찬 비용을 충분히 정당화하는 준수한 중간 성과.",
           "days": 14,
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
-        }
+        },
+        "final_verdict": "팔로워 7,775명 규모에서 좋아요 148·댓글 37로 참여율 2.38%를 기록했으며, 평소 게시물 대비 1.25배 높은 반응은 협찬 콘텐츠가 팔로워에게 자연스럽게 수용됐음을 시사한다. 참여 1건당 비용 173원, 총 협찬 단가 64,000원 기준으로는 소규모 나노 인플루언서치고 합리적인 효율이나, 피드 게시물 특성상 조회수 데이터가 없어 실제 노출 범위를 검증할 수 없다는 한계가 있다. 브랜드 인지 확산보다 충성 팔로워 기반의 신뢰도 전달 목적이라면 재협찬을 검토할 만한 수준이며, 도달 극대화가 목표라면 릴스 포맷 전환을 조건으로 제안하는 것이 바람직하다.",
+        "final_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "last_written_reaction": "좋아요 148 · 댓글 37 · ER 2.4% · 평소대비 1.3x (D+30)",
+      "last_written_reaction": "좋아요 148 · 댓글 37 · ER 2.4% · 평소대비 1.3x (확정)",
       "baseline": {
         "views_median": null,
         "eng_median": 147.5,

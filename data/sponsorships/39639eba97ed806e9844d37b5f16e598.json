@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T01:37:43.000Z",
       "permalink": "https://www.instagram.com/p/DarK3R9PCO_/",
-      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/742391334_18207810865347379_3440197357141591370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFyEO4TMuDR3JVk9945sT8na-POeIxbFE7ISB5XA9BcZLsOi_ksdB6Ao5FEHzNO9ZwBSYKRGg7Sx0v-MmU8kMel&_nc_ohc=UwC06wAyQy0Q7kNvwGTylqs&_nc_gid=Wk5rHPRyr9yJ72yydh9pWA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFXFFFH9Ryxw8z9HWwvK2A4XSfE71E7IKlf-xr-cZxOfQ&oe=6A816879&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyvr4-1.fna.fbcdn.net/v/t51.82787-15/742391334_18207810865347379_3440197357141591370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyvr4-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHAp1Jp0MShnZbwlPwQGkZO8HFD4UfU1T2FwDcHRI3Q1xUQ9zbB9wPlQrnzGPyPG-E&_nc_ohc=UwC06wAyQy0Q7kNvwECBav6&_nc_gid=_TDfx6Y3nMFm1ULYiDhq2A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGbZwYvmAg7wyl5Adn4lT612M02C18-JhDM1nv9y3M9Yw&oe=6A82B9F9&_nc_sid=c6f216",
       "caption": "#제품제공 수영복 원단맛집 \n@laserin_swim \n\n이번에 착용한 라세린 글리트 차콜벨벳 픽스트백은\n고급스러운 원단과 컬러가 어울리는 수영복이었습니다.\n\n은은하게 반짝이는 차콜 벨벳 텍스처,\n결을 따라 살아나는 메탈릭 광택,\n직접 보면 사진보다 훨씬 고급스럽습니다.\n\n게다가 크레오라(Creora) 원사를 사용해\n쫀쫀한 탄성과 부드러운 착용감,\n내구성까지 모두 잡았습니다.\n\n프리다이버인 저는\n슈트를 안에 편하게 입는 수용복의\n착용감이 정말 중요한데, 거기다 세련된 디자인까지 🤩\n\n✔ 슈트 안에 말림 없이 편안한 핏\n✔ 쫀쫀한 텐",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -170,8 +170,8 @@
         "n": 8,
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.1159974506054812,
         "vs_baseline": 2.028405681136227,
@@ -190,9 +190,11 @@
           "one_liner": "평소 대비 2.84배 조회에 참여율 11.6%로 소규모 계정치고 탄탄한 반응, 참여 1건당 220원은 우수한 비용 효율이다.",
           "days": 14,
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
-        }
+        },
+        "final_verdict": "팔로워 3,138명의 소규모 계정임에도 조회 5,070회·참여율 11.60%를 기록하며 평소 대비 2.03배의 성과를 달성, 마이크로 인플루언서로서 높은 충성도를 입증했다. 참여 1건당 217원·조회 1회당 15.6원은 다이빙·수영 같은 니치 카테고리 기준으로 매우 효율적인 수치이며, 상품 가액 79,000원 대비 비용 대비 가치(ROI 관점)는 긍정적으로 평가된다. 단, 절대 도달 볼륨이 제한적이므로 브랜드 인지 확장보다는 커뮤니티 내 신뢰 구축 목적으로의 재협찬이 적합하다.",
+        "final_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "last_written_reaction": "조회 5,070 · 좋아요 277 · 댓글 87 · ER 11.6% · 평소대비 2.0x (D+30)"
+      "last_written_reaction": "조회 5,070 · 좋아요 277 · 댓글 87 · ER 11.6% · 평소대비 2.0x (확정)"
     }
   ],
   "flags": {

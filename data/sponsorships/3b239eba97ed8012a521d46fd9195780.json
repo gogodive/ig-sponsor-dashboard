@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-8012-a521-d46fd9195780",
   "row_title_raw": "bandal_dive",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -19,7 +19,7 @@
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "f6a39eba-97ed-8317-8c58-818bced6251b",

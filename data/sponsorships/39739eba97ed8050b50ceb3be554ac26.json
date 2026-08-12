@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T13:05:54.000Z",
       "permalink": "https://www.instagram.com/p/DasaIsmGNgg/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFqgK2KdJm6lpr4J-5SHitU61JJixPqR6_4wjzEQsvScG3M1p94mD1JCmcxPDXHyuc&_nc_ohc=JXTxNNbHCPcQ7kNvwEQc9s2&_nc_gid=kcna9ewmvOsAI1Gen2C4Fg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFcgLKFWnKEe9FG_WjcZzr4URqZ3XkebG5_VuOlM-p6vw&oe=6A8171B7&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/745906904_17998897745969921_7732840706368232973_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGYGUPY0-6Fnsqd0rV1gPSsVjxup2I3wYmR7xZs8d1s52hIDG0ZLTQ_IXuYSAWeb-NNZP6wdcAqfBLCaSfzIxTC&_nc_ohc=JXTxNNbHCPcQ7kNvwHQKMYf&_nc_gid=Su-3m6t1jh4u4SNlk9QVag&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE7Bg2vLgm2CbSU3F9y785FSrjHNCEoIPZjpUZinVRBjg&oe=6A82C337&_nc_sid=c6f216",
       "caption": "🤿🐡🐳🐙🐠🐟\n#제품제공 \n@intotheblue_store \n\n핑크미나 취향 제대로 저격한 핑크 마스크 & 핑크 스노클🩷\n편한 착용감에 물 위에 뜨는 스노클까지💕\n바다 갈 때마다 챙기게 될것같당🌊🩷\n\n-딥바이브 에어로스노쿨\n-고고 젤로 프리다이빙 오로라마스크\n\n#인투더블루 #딥바이브 #프리다이빙장비 #프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -169,8 +169,8 @@
         "n": 10,
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03417438518045353,
         "vs_baseline": 0.7615658362989324,
@@ -189,9 +189,11 @@
           "one_liner": "평소 대비 0.71x로 다소 부진하나 참여율 3.27%·참여당 1,010원은 소형 계정 기준 수용 가능한 효율 수준.",
           "days": 14,
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 3.42%는 마이크로 인플루언서 평균(3~5%) 하단에 위치하며, 참여 1건당 비용 963원은 소규모 계정 기준으로 다소 높은 편이다. 다만 평소 대비 0.76배로 해당 게시물이 계정 평균보다 낮은 반응을 얻었다는 점이 아쉽고, 릴스가 아닌 피드 형식에다 팔로워 3,131명 규모를 고려하면 상품 가액 103,000원 대비 도달·전환 효율은 충분히 정당화되기 어렵다. 차기 협찬 시에는 릴스 포맷 전환 또는 팔로워 대비 평소 참여율이 더 높은 계정 선별을 권장한다.",
+        "final_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "last_written_reaction": "좋아요 105 · 댓글 2 · ER 3.4% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 105 · 댓글 2 · ER 3.4% · 평소대비 0.8x (확정)"
     }
   ],
   "flags": {

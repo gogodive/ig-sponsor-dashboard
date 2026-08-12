@@ -9,19 +9,64 @@
     "라세린"
   ],
   "manager": "서채윤",
-  "followers_notion_raw": "",
+  "followers_notion_raw": "1308",
   "product_value_krw": 69000,
   "delivery_date": "2026-08-04",
   "output_link_prop": null,
   "username": "diving_day.g",
-  "followers_notion": null,
-  "posts": [],
+  "followers_notion": 1308,
+  "posts": [
+    {
+      "notion_row_id": "37039eba-97ed-82a3-ad40-012cd072abd0",
+      "url": "https://www.instagram.com/p/Db2zMXgEQff/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db2zMXgEQff",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-11",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-10T10:28:39.000Z",
+      "permalink": "https://www.instagram.com/p/Db2zMXgEQff/",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/770252658_17913741405443517_7756233783542749058_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFCOZ2PIpsBmkJMA-jpqcP8kFZZVx9C43K0HMXEMuhwY7uprLKKLLQ3rFc8820pDMw&_nc_ohc=_0OcILvSOMYQ7kNvwGIMMXH&_nc_gid=8MCyCzsWiBzg_p5PWb0qwQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEZaRxULRkMhW-FeNxzpQG3BvtUHGR_sQIJoEzFMfXCBw&oe=6A82BBDD&_nc_sid=c6f216",
+      "caption": "#제품제공\r\n라세린📍@laserin_swim\r\n💗 딱복 Hard Peach 💗\r\n\r\n🩰 발레코어 핑크 포일 수영복\r\n상큼한 쿨톤 핑크빛에 크림 한 방울 섞은 딱복!\r\n포일 맛집 라세린답게 영롱한 무지개빛 펄과\r\n뒷모습까지 예쁜 리본이 청순 화사해 최애 수영복 등극🩷\n완전 실물 깡패예요😭😭\r\n\r\n🎀 더블크로스 타이백으로 정밀한 핏 맞춤\r\n체형에 맞게 조절되는 리본 타이백 &\r\n더블엑스(X) 스트랩이 3중으로 상체를 잡아줘\r\n상하체 사이즈가 다른 저도 핏하게 잘 맞았어요.\r\n\r\n✨️ 안정적인 가슴선 라인과 미들컷\r\n비침 걱정 없는 두겹",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "diving_day.g",
+      "metrics": {
+        "likes": 52,
+        "comments": 10
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": 52,
+          "comments": 10
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 130.5,
+        "n": 6,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.047436878347360364,
+        "vs_baseline": 0.47509578544061304,
+        "cost_per_eng": 1112.9032258064517,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 52 · 댓글 10 · ER 4.7% · 평소대비 0.5x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "73339eba-97ed-83c8-bfea-8130616b774d",
-  "followers": null
+  "followers": 1307,
+  "last_written_score": 48
 }

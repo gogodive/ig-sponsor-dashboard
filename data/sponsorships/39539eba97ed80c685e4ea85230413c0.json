@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T01:41:03.000Z",
       "permalink": "https://www.instagram.com/p/DawU9JPpiNn/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.71878-15/733630073_793542780448094_8526632701122506501_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFEU8FqfWU5H_rpJkHdf9M7H-mvK1rK4MH4_vq5pSCm-yhEuca1PVP2mV4vh-hAAG0&_nc_ohc=kgtifQaEklUQ7kNvwF0CfOw&_nc_gid=oOXT99FrNltOJMW93cRYlg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGZftvr8jNUhEwX4A4GYj91lDfpeS1RohHt_7Rfk4EmRw&oe=6A817F92&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.71878-15/733630073_793542780448094_8526632701122506501_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGDo1LMPZcOFzUlU30xSd1c8LLNoupmhsKEBGDgEHxmOSpu5jQPhupNtpqW2cZAYNI&_nc_ohc=WI2Sz7G4-NYQ7kNvwGav821&_nc_gid=XTKhizfoJ0navcNLXKhx6w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFuFP-UQjG7-FGP9vuPpBpporp0c4DX55-gyuevoxV6EA&oe=6A82D112&_nc_sid=c6f216",
       "caption": "#제품제공 LASERIN ✨\n#라세린 #수영복 샤이닝웨이브🌊\n@laserin_swim \n\n사진에 다 안담기는 영롱함✨\n물 속에선 더 더 예쁘다구요🥹\n휴가 바다로 가신다면,, 무조건 이거에요\n예쁜데 편한 착용감까지,,🩵\n\n🧜‍♀️ 154cm 48kg XS착용\n\n🤿 @usepool_official \n📷 @insta360kr \n📍 #제주도 #월령포구",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": 45,
         "comments": 22,
-        "views": 1526
+        "views": 1528
       },
-      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -162,21 +162,27 @@
           "views": 1526,
           "likes": 45,
           "comments": 22
+        },
+        {
+          "d": "2026-08-13",
+          "views": 1528,
+          "likes": 45,
+          "comments": 22
         }
       ],
       "baseline": {
         "views_median": 11858.5,
         "eng_median": 112.5,
         "n": 12,
-        "captured_at": "2026-08-12T06:52:47.460628+09:00"
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.07436182019977802,
-        "vs_baseline": 0.12868406628157017,
+        "vs_baseline": 0.12885272167643463,
         "cost_per_eng": 477.6119402985075,
-        "cost_per_view": 20.969855832241155
+        "cost_per_view": 20.94240837696335
       },
       "analysis": {
         "one_liner": "조회수 미확인이나 참여율 8.67%·참여당 985원으로 소규모 계정 대비 비용 효율 양호한 초기 반응.",
@@ -192,7 +198,7 @@
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
         }
       },
-      "last_written_reaction": "조회 1,526 · 좋아요 45 · 댓글 22 · ER 7.4% · 평소대비 0.1x (D+28)"
+      "last_written_reaction": "조회 1,528 · 좋아요 45 · 댓글 22 · ER 7.4% · 평소대비 0.1x (D+29)"
     },
     {
       "notion_row_id": "32f39eba-97ed-828e-8b55-81c6b32824ca",
@@ -342,7 +348,7 @@
         "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.10543840177580466,
         "vs_baseline": 2.317073170731707,

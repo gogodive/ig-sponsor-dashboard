@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-807a-8130-c4bed39a2c5a",
   "row_title_raw": "yoomswim",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "yoomswim",
   "followers_notion": null,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "97939eba-97ed-8259-ad60-014ab97ed398",
+      "url": "https://www.instagram.com/p/Db2MSGMCb2p/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db2MSGMCb2p",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-10",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-10T04:48:39.000Z",
+      "permalink": "https://www.instagram.com/p/Db2MSGMCb2p/",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/769804549_18100881764167790_5943155758542306509_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2MDQwNjMzMTIxMjg4MTUwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vdIKgUms5QYQ7kNvwEI6E6Y&_nc_oc=Adp3Ag9U4ska5SyB5SQrvDb7tyYqWwfZstcmsVezxaV1NdpuRyhxKNlus7fXBMg1Hi6YOvCF8t-re13MLrIC-H6n&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=IwLUr8BnlQsM4FvxyZpZkg&_nc_ss=7c689&oh=00_AQGlZ6koVVlOPfeYtyk04IBV35Q1dqAFDGRXM3ndQZlM1g&oe=6A82C4B1",
+      "caption": "☀️라세린 신상 선글로우 후기☀️\n\n@laserin_swim 라세린의 신상 컬렉션 \n🍑Peach & Glow✨중에서\n제 픽은 바로 선글로우!\n\n선글로우는 저처럼 웜톤분들에게 강추드려요! \n코랄빛 노을같은 색감에 반짝이는 햇살이 생각나게 하는 비주얼✨\n\n야외에서나 실내에서나 빛에 따라 반짝반짝거리는게 정~말 예뻐요🫶\n\n🧡두겹\n🩷크로스 픽스드백\n🧡미들컷\n🩷미들가슴선\n\n➡️윰스읨 스펙\n159 / 50 / T146 \n착용 사이즈: S\n\n저는 타이트하게 맞아요! 강습이나 빡수할때는 좋겠지만 \n편하게 입으려면 M 입어도 될 것 같아요!\n\n지금",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yoomswim",
+      "metrics": {
+        "likes": 122,
+        "comments": 26
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": 122,
+          "comments": 26
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 103.0,
+        "n": 12,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.24462809917355371,
+        "vs_baseline": 1.4368932038834952,
+        "cost_per_eng": 466.2162162162162,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 122 · 댓글 26 · ER 24.5% · 평소대비 1.4x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "4d539eba-97ed-82c9-af19-019427656d50",
-  "followers": null
+  "followers": 605,
+  "last_written_score": 144
 }

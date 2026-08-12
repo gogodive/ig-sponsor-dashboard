@@ -15,13 +15,82 @@
   "output_link_prop": null,
   "username": "im.___.ky",
   "followers_notion": 10000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3ba39eba-97ed-8017-a0ae-ffe66e063d71",
+      "url": "https://www.instagram.com/p/Db1kdfUH7fv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db1kdfUH7fv",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-09",
+      "first_seen": "2026-08-13",
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "93f39eba-97ed-82ff-9d21-8140853fcbac",
+      "url": "https://www.instagram.com/reel/Dbzsdx6K2Ma/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Dbzsdx6K2Ma",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-09",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-09T05:41:45.000Z",
+      "permalink": "https://www.instagram.com/p/Dbzsdx6K2Ma/",
+      "thumbnail": "https://instagram.fbhx4-1.fna.fbcdn.net/v/t51.82787-15/764508872_18102547265609037_5657802264188202626_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbhx4-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEx0hHnvwBTf22Xd52qjBdy3ISbRrS6gieDyxv6P9dNIC1Baujl-_7yd90ojrTYwKA&_nc_ohc=aUxevE4PbCkQ7kNvwHcniRz&_nc_gid=KIldS3qzsPHPHXuPoeYR1Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHPVnjssWdmSrIWQabC17obyx9h-9aqMRbk0y2drv0QiQ&oe=6A82B1C1&_nc_sid=c6f216",
+      "caption": "쫘악 늘어나는 미친 스판 🍑\n\n편안함이랑 핏 둘 다 절대 포기 못 하는 분들께 완전 추천해요!\n신기하게도 힙라인은 볼륨감 있게 싹 올려준답니다\n\n✔️답답한 쪼임 ZERO : 안 입은 것 같은 편안함\n✔️ 미친 신축성 & 스판 : 격렬한 운동도 문제없는 쫀쫀함\n✔️ 뒷태 여신 핏 : 자연스럽고 예쁜 힙업 라인 연출\n\n오늘 핏 자신감 올려준 시크릿스 레깅스 🖤\n\n#운동하는여자 #눈바디 #힙업레깅스 #편한레깅스",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "im.___.ky",
+      "metrics": {
+        "views": 7323,
+        "likes": 390,
+        "comments": 38
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": 7323,
+          "likes": 390,
+          "comments": 38
+        }
+      ],
+      "baseline": {
+        "views_median": 2239.0,
+        "eng_median": 265.0,
+        "n": 6,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.03951620348998246,
+        "vs_baseline": 3.270656543099598,
+        "cost_per_eng": 213.78504672897196,
+        "cost_per_view": 12.49487914789021
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 3.27배 높은 반응과 참여당 214원의 효율로 초기 3일 성과는 기대 이상이나, 릴스 조회 7,323회는 팔로워 규모 대비 추가 확산 여지가 있음.",
+          "days": 3,
+          "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        }
+      },
+      "last_written_reaction": "조회 7,323 · 좋아요 390 · 댓글 38 · ER 4.0% · 평소대비 3.3x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "74a39eba-97ed-8255-b01a-01f94135d750",
-  "followers": 10000
+  "followers": 10831,
+  "last_written_score": 327
 }

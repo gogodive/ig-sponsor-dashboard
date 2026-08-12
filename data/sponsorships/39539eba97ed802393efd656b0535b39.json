@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T02:25:45.000Z",
       "permalink": "https://www.instagram.com/p/Dat1q6Xk6su/",
-      "thumbnail": "https://instagram.fagp1-1.fna.fbcdn.net/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagp1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFSkYX9_R6QXt64FY4DT3XclWtPSQjaTnlbo5Ja6juvjubuXv_AdnQvVYGPHXN9g6w&_nc_ohc=Qj_FJLas7NsQ7kNvwG-0B8N&_nc_gid=wacfHIvXynKlaZKriTOuvg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGSr2yWf-Rzp1VEKqSkQRr0-TPsV4Fhew3KaypAnDxqAA&oe=6A816E09&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fyhu2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFDskonUc69oasoBLc-6JF01x7EvR6itygPcpEmYR3B4LnMXNoR4jOxooxM6NQulLE&_nc_ohc=LXiaRj8zgxMQ7kNvwET7UYs&_nc_gid=lvGCqBRyCZ2KG_ePeo3gtw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGQPDyU6BZtcTW5LjVukftxUWT3iCuF3693qnhjuiQ8iA&oe=6A82BF89&_nc_sid=c6f216",
       "caption": "#광고 #시크릿스 #개미허리후드 #레이어드팬츠",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -161,16 +161,22 @@
           "views": null,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 17.5,
         "n": 12,
-        "captured_at": "2026-08-12T06:52:47.460628+09:00"
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0006608511763150939,
         "vs_baseline": 0.2857142857142857,
@@ -191,7 +197,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.3x (D+29)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.3x (D+30)"
     },
     {
       "notion_row_id": "33d39eba-97ed-8311-8ad2-8172b8044b61",
@@ -330,7 +336,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.003832936822627544,
         "vs_baseline": 0.05377332475411343,

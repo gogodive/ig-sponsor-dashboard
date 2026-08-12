@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-8052-b118-fa279faf69d3",
   "row_title_raw": "swim_yojung",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -9,19 +9,71 @@
     "라세린"
   ],
   "manager": "서채윤",
-  "followers_notion_raw": "",
+  "followers_notion_raw": "1246",
   "product_value_krw": 69000,
   "delivery_date": "2026-08-04",
   "output_link_prop": null,
   "username": "swim_yojung",
-  "followers_notion": null,
-  "posts": [],
+  "followers_notion": 1246,
+  "posts": [
+    {
+      "notion_row_id": "9f039eba-97ed-8387-bb51-814d78bbf010",
+      "url": "https://www.instagram.com/p/Db0PlQlESvX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db0PlQlESvX",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-10",
+      "first_seen": "2026-08-13",
+      "posted_at": "2026-08-09T10:39:00.000Z",
+      "permalink": "https://www.instagram.com/p/Db0PlQlESvX/",
+      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/769385895_17875234689689064_1122814933767036524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHPFeSGJusG2XfzFMbBo2SICpvR3Q3YYmt8-FkyJVIdeV6LIlxLC99gIolElQ5RNzE&_nc_ohc=31EIjSIC0LwQ7kNvwENX-HB&_nc_gid=lS5ESzMqu0bfZyM74xk3Fw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFhNJfG_Utdr1QNgmU-Etbhg0Zlnc6pOjM8QVsAi_Fw5w&oe=6A82C88A&_nc_sid=c6f216",
+      "caption": "#제품제공 @laserin_swim \n\n라세린에서 신상이 나왔어요!\n전 <리얼 리뷰어> ✨포레스트 글로우✨에 당첨되어 입어봤어요😉\n\n이름처럼 숲속 빛내림 같이 은은한 민트 아쿠아 컬러에 오로라 광택, 각도에 따라 골드 하이라이트가 더 반짝이게 해주는 정말 고급스러운 색상이에요!🌱\n\nX자 스트랩이라 어깨 움직임도 편하고 수영할 때 몸을 안정적으로 잡아줘서 편하고 미들컷과 안정적인 가슴선, 힙커버리지로 유교걸분들에게 추천!🩵\n\n✔️2026.8.3-2026.8.14 15:00 15% 할인!!🙋🏾‍♀️\n구매 생각 있으신분들은 달려가세요!!",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "swim_yojung",
+      "metrics": {
+        "likes": 159,
+        "comments": 35
+      },
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "history": [
+        {
+          "d": "2026-08-13",
+          "views": null,
+          "likes": 159,
+          "comments": 35
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 180.0,
+        "n": 10,
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.15607401448109412,
+        "vs_baseline": 1.0777777777777777,
+        "cost_per_eng": 355.6701030927835,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.08배 수준으로 무난한 초기 반응이며, 참여 1건당 356원으로 소규모 계정 기준 비용 효율은 양호하다.",
+          "days": 3,
+          "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 159 · 댓글 35 · ER 15.6% · 평소대비 1.1x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "d4d39eba-97ed-82d8-9646-01db879636d7",
-  "followers": 1243
+  "followers": 1243,
+  "last_written_score": 108
 }

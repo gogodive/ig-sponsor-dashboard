@@ -9,12 +9,12 @@
     "라세린"
   ],
   "manager": "서채윤",
-  "followers_notion_raw": "",
+  "followers_notion_raw": "665",
   "product_value_krw": 69000,
   "delivery_date": "2026-08-04",
   "output_link_prop": null,
   "username": "225m_m",
-  "followers_notion": null,
+  "followers_notion": 665,
   "posts": [],
   "flags": {
     "unresolvable_username": false,
@@ -23,5 +23,5 @@
     "account_unavailable": false
   },
   "child_db_id": "38039eba-97ed-82a5-aea9-0105e51b1838",
-  "followers": null
+  "followers": 665
 }

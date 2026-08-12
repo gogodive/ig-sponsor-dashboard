@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-12T12:45:20.000Z",
       "permalink": "https://www.instagram.com/p/DasVpALhMHc/",
-      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/743952115_18085948016637902_6601232652616648142_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF2K_jnWeIyF6M4g8lEWzlRkQqi9tH8gRkcwvrHHTMCU2X3OfCcjEYVmi86FWeEepc&_nc_ohc=yVArXK9uGKAQ7kNvwE814AH&_nc_gid=Ah9xZ-ZL9N9jF-AGpeEEaA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG39_N6s3K_Q36fxkrlHt9Ov_tSD1_t83yP4v2dLnXpMQ&oe=6A817266&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.falc1-1.fna.fbcdn.net/v/t51.82787-15/743952115_18085948016637902_6601232652616648142_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.falc1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFFWJHgkfrtRNTpwfzhHVyiTYtqFgk_CZXCMrRDNrCBP4IVMw_1t-m0FZChXppSeZ4&_nc_ohc=yVArXK9uGKAQ7kNvwHfWbvV&_nc_gid=aO5ArXlDfd5dNvL_MgrvrQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG3rK0FHZEvYflG6yDl4tfVkaQStUrVeDGqUZEk2ifKxw&oe=6A82C3E6&_nc_sid=c6f216",
       "caption": "라이브포토의 순기능Σ(º дº) ++ 사진만찍었을 뿐인데 영상은 덤으로♥ \n\n˘❥˘ 오늘처럼 예쁜 수영복입을 땐 갤러리 넘쳐나는데 라이브포토 이용하면\n영상이랑 사진이랑 각각 찍을 필요없으니까 비교적용량아끼는 중 !!٩ ⍤⃝ و \n다들 저처럼 라이브포토 꼭 이용해보세요!!👍🏾\n\n**글리터 베리말차 타이백** 수영복이 군살을 잡아줘서 몸매라인이 살지만 수영복 밖으로 튀어나온 살들은 살짝 눈감아주시면서~ >_ㅇ \n타이백이라 디자인도 살리면서~ 미들컷이라 적당한 노출감 주면서~\n\n그리고 말차그린컬러랑 베리핑크컬러가 이렇게나 잘 어울릴줄이야",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -158,8 +158,8 @@
           "comments": 3
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.014425553838227717,
         "vs_baseline": null,
@@ -178,9 +178,11 @@
           "one_liner": "조회수 미집계로 확산력 판단이 어렵지만, 참여율 1.52%·1건당 705원은 소규모 계정 기준 양호한 비용 효율이다.",
           "days": 14,
           "analyzed_at": "2026-07-27T07:01:35.301262+09:00"
-        }
+        },
+        "final_verdict": "팔로워 3,882명 소규모 계정에서 조회 1,337회·참여율 1.44%는 평범한 수준으로, 브랜드 노출 효과가 제한적이었다. 참여 1건당 705원·조회당 29.5원은 다이빙·수영 같은 니치 버티컬에서 마이크로 인플루언서 평균 단가와 비교해 크게 불리하지 않으나, 절대 도달량(조회 1,337회)이 너무 낮아 79,000원 상품 가액 대비 실질적인 브랜드 임팩트는 미흡하다. 향후 동일 예산이라면 팔로워 수보다 해당 카테고리 전문성과 평균 릴스 조회수가 검증된 계정을 우선 선별하는 것이 효율적이다.",
+        "final_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "last_written_reaction": "조회 1,337 · 좋아요 53 · 댓글 3 · ER 1.4% (D+30)"
+      "last_written_reaction": "조회 1,337 · 좋아요 53 · 댓글 3 · ER 1.4% (확정)"
     },
     {
       "notion_row_id": "7ec39eba-97ed-8208-8be0-8134026950c4",
@@ -330,7 +332,7 @@
         "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.03168469860896445,
         "vs_baseline": 1.074235807860262,

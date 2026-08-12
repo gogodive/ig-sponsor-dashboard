@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T04:31:42.000Z",
       "permalink": "https://www.instagram.com/p/DauDOkfh32M/",
-      "thumbnail": "https://instagram.flyn1-1.fna.fbcdn.net/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.flyn1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gE4ES5mD-NsyQZqQVmyIRSEDHuv3d3ghpc0eBqziim3rWESrcBjQDrPXrxJO0kuTqk&_nc_ohc=LdybZxGrwaUQ7kNvwEoMSDH&_nc_gid=1njIgaTy913DYtWqWlfB5Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH_nGssrvxBDp8qjXBNh6javAO46HIajRbGJIODxTcgQA&oe=6A816444&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE-PRNmcMUgVSmtL1Hu104F3I15Fnn3X0atazfVxrCxH56sGdtrpDOOqO97hWwJFQH0ZVlsKtFucKLoeKFYvrki&_nc_ohc=LdybZxGrwaUQ7kNvwF9OBBq&_nc_gid=OzYsvw_liHkHUc2vcukEog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGqvoO3g3T8o90zYXBN3MvVTImajRUQI5u2pJs2hZw67w&oe=6A82B5C4&_nc_sid=c6f216",
       "caption": "⭐️LASERIN 윤슬에메랄드✨\n윤슬 펄이 촤르르 + 그라데이션 컬러가 만나 \n볼수록 이쁜 수영복💗\n\n@laserin_swim \n\n#협찬 #라세린수영복 #윤슬에메랄드",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimeun",
       "metrics": {
-        "views": 2241,
+        "views": 2242,
         "likes": 73,
         "comments": 12
       },
-      "metrics_updated_at": "2026-08-12T06:52:47.460628+09:00",
+      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -162,21 +162,27 @@
           "views": 2241,
           "likes": 73,
           "comments": 12
+        },
+        {
+          "d": "2026-08-13",
+          "views": 2242,
+          "likes": 73,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": 1755.5,
         "eng_median": 115.5,
         "n": 4,
-        "captured_at": "2026-08-12T06:52:47.460628+09:00"
+        "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.11455525606469003,
-        "vs_baseline": 1.276559384790658,
+        "vs_baseline": 1.2771290230703503,
         "cost_per_eng": 464.70588235294116,
-        "cost_per_view": 17.626059794734495
+        "cost_per_view": 17.61819803746655
       },
       "analysis": {
         "one_liner": "평소 대비 2.34배 높은 확산력과 참여 1건당 975원의 효율로 소규모 계정 대비 양호한 초기 성과를 보임.",
@@ -192,7 +198,7 @@
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
         }
       },
-      "last_written_reaction": "조회 2,241 · 좋아요 73 · 댓글 12 · ER 11.5% · 평소대비 1.3x (D+29)"
+      "last_written_reaction": "조회 2,242 · 좋아요 73 · 댓글 12 · ER 11.5% · 평소대비 1.3x (D+30)"
     },
     {
       "notion_row_id": "e7339eba-97ed-820d-bb34-011a6826721c",
@@ -336,7 +342,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.23450134770889489,
         "vs_baseline": 1.5963302752293578,
