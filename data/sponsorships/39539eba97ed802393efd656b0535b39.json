@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T02:25:45.000Z",
       "permalink": "https://www.instagram.com/p/Dat1q6Xk6su/",
-      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fyhu2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFDskonUc69oasoBLc-6JF01x7EvR6itygPcpEmYR3B4LnMXNoR4jOxooxM6NQulLE&_nc_ohc=LXiaRj8zgxMQ7kNvwET7UYs&_nc_gid=lvGCqBRyCZ2KG_ePeo3gtw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGQPDyU6BZtcTW5LjVukftxUWT3iCuF3693qnhjuiQ8iA&oe=6A82BF89&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/743925659_18331146532256291_3783284159147908499_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEX9CkS3xrnSRyO4Hpox0CV6LjfCwaTlr4ZvSrESKcvNbx9ZUieB5m73xBsi1hA9WQ&_nc_ohc=LXiaRj8zgxMQ7kNvwG6MUc2&_nc_gid=U50Xr-68J__xGjBI7iDjGQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH5TZpRS53O_8zcjnBhfRJxLKEQpwHi9UdFvIxS7Yki0g&oe=6A841109&_nc_sid=c6f216",
       "caption": "#광고 #시크릿스 #개미허리후드 #레이어드팬츠",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -175,8 +175,8 @@
         "n": 12,
         "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0006608511763150939,
         "vs_baseline": 0.2857142857142857,
@@ -195,9 +195,11 @@
           "one_liner": "평소 대비 0.33x의 저조한 반응과 참여 1건당 15,500원의 높은 비용으로 현재까지 협찬 효율이 기대치를 크게 밑돌고 있음.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 0.29배에 불과한 참여 성과와 팔로워 대비 0.07%의 극히 낮은 참여율은 이 게시물이 해당 계정 내에서도 유의미한 반응을 끌어내지 못했음을 보여준다. 참여 1건당 비용이 12,400원에 달해 7,566명 규모의 마이크로 인플루언서임을 감안해도 비용 효율이 매우 낮으며, 좋아요가 집계 불가(−1) 상태인 점도 신뢰할 수 있는 성과 측정을 어렵게 한다. 124,000원의 상품 가액 대비 브랜드 노출·구매 유도 가치가 충분히 실현되지 않은 것으로 판단되며, 동일 인플루언서의 재협찬은 재고가 필요하다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.3x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.3x (확정)"
     },
     {
       "notion_row_id": "33d39eba-97ed-8311-8ad2-8172b8044b61",
@@ -336,7 +338,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.003832936822627544,
         "vs_baseline": 0.05377332475411343,

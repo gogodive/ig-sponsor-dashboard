@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T15:18:57.000Z",
       "permalink": "https://www.instagram.com/p/DavOKE4CXqM/",
-      "thumbnail": "https://instagram.fbod1-1.fna.fbcdn.net/v/t51.82787-15/746308300_17950777617212106_3956088414937807608_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MDQyNzQzNDAzOTgxODU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nQewCdN2wsYQ7kNvwF-5Eow&_nc_oc=AdqVQo7JbzM1CYPolGFBdGW8pJe71j7-YZY4XVCN0xGfFJzCH31XFYL7sQKbOmSySTE&_nc_zt=23&_nc_ht=instagram.fbod1-1.fna&_nc_gid=ChwsaG4UYLNme08YdJ5Zng&_nc_ss=72a8c&oh=00_AQHwg3bxXqZb5X-inQ3n5Y-cOAw7Xg8lSDRfjC9yOn1muQ&oe=6A82DECD",
+      "thumbnail": "https://instagram.fymq1-2.fna.fbcdn.net/v/t51.82787-15/746308300_17950777617212106_3956088414937807608_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fymq1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gH1SNF0KpDkAq6W4zWavWag1wFKJN3Vo049H8AKWhV9_R99yFkiUggXfmAXz8FgrnY&_nc_ohc=ggyrdGC9DxQQ7kNvwHCQI7x&_nc_gid=2gXYYEDSkY2h9m7iAYrkTQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGIc6TEZKjRzi43duNVNKYCyyYlMl00gVo_gZul8Ckqdw&oe=6A83F80D&_nc_sid=c6f216",
       "caption": "🍑 #라세린 윤슬선셋에이백 착용 후기\n\n햇살이 물 위에 비칠 때 반짝이는 윤슬을 담은 듯한 컬러가 정말 매력적인 수영복🤍\n\n제주 #판포포구 에서 신나게 놀면서 찍은 사진인데, 햇살을 받으니 피치 코랄 그라데이션이 더 예쁘게 보여서 사진도 정말 잘 나오더라고요.✨📸\n\n몸을 안정감 있게 잡아주면서도 신축성이 좋아 풀장은 물론 제주 투어 내내 편안하게 착용할 수 있었어요.\n\n특히 에이백 디자인이라 앞모습은 깔끔하고, 뒷모습까지 포인트가 되어 마음에 들었습니다.🤍\n\n바다, 여행, #프리다이빙 어디에서든 잘 어울리는 컬러와 디자인이라 올여름",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -175,8 +175,8 @@
         "n": 12,
         "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.06914483821263483,
         "vs_baseline": 1.5884955752212389,
@@ -195,9 +195,11 @@
           "one_liner": "평소 대비 1.54배 참여로 팔로워 대비 6.76% 참여율을 달성, 건당 239원의 효율적 비용으로 중간 점검 기준 양호한 성과.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "팔로워 5,192명 규모의 소규모 계정임에도 참여율 6.91%는 인스타그램 업계 평균(1~3%)의 두 배 이상으로, 평소 대비 1.59배 높은 반응과 함께 실제 팔로워와의 높은 유대감을 입증한다. 참여 1건당 비용 220원, 총 협찬 비용 79,000원에 359건(좋아요+댓글)의 유효 참여를 얻은 것은 다이빙·수영 타깃 니치 오디언스 대상 비용 효율 측면에서 우수한 성과다. 다만 피드 게시물 특성상 조회수 데이터가 없어 노출 규모를 직접 검증할 수 없으므로, 향후 릴스 병행 협찬을 통해 도달 지표까지 확보하면 ROI 판단의 완성도를 높일 수 있다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "좋아요 330 · 댓글 29 · ER 6.9% · 평소대비 1.6x (D+30)"
+      "last_written_reaction": "좋아요 330 · 댓글 29 · ER 6.9% · 평소대비 1.6x (확정)"
     }
   ],
   "flags": {

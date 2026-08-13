@@ -25,21 +25,27 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T10:39:00.000Z",
       "permalink": "https://www.instagram.com/p/Db0PlQlESvX/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/769385895_17875234689689064_1122814933767036524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHPFeSGJusG2XfzFMbBo2SICpvR3Q3YYmt8-FkyJVIdeV6LIlxLC99gIolElQ5RNzE&_nc_ohc=31EIjSIC0LwQ7kNvwENX-HB&_nc_gid=lS5ESzMqu0bfZyM74xk3Fw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFhNJfG_Utdr1QNgmU-Etbhg0Zlnc6pOjM8QVsAi_Fw5w&oe=6A82C88A&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/769385895_17875234689689064_1122814933767036524_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFaFzyhp6CCHfAHEgd3fnxpmKS8EFu_R7nT2YfEnHe-MHXNCO35DOFk8dvHOUcCJE8&_nc_ohc=31EIjSIC0LwQ7kNvwEbycEe&_nc_gid=q_EPf4qjga8o_0Z_hb0-ow&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGDvNokfJ1w41uX522ZKrtP8DJ9PGR3LMsSlLX-236p3A&oe=6A841A0A&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n라세린에서 신상이 나왔어요!\n전 <리얼 리뷰어> ✨포레스트 글로우✨에 당첨되어 입어봤어요😉\n\n이름처럼 숲속 빛내림 같이 은은한 민트 아쿠아 컬러에 오로라 광택, 각도에 따라 골드 하이라이트가 더 반짝이게 해주는 정말 고급스러운 색상이에요!🌱\n\nX자 스트랩이라 어깨 움직임도 편하고 수영할 때 몸을 안정적으로 잡아줘서 편하고 미들컷과 안정적인 가슴선, 힙커버리지로 유교걸분들에게 추천!🩵\n\n✔️2026.8.3-2026.8.14 15:00 15% 할인!!🙋🏾‍♀️\n구매 생각 있으신분들은 달려가세요!!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim_yojung",
       "metrics": {
-        "likes": 159,
+        "likes": 166,
         "comments": 35
       },
-      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
       "history": [
         {
           "d": "2026-08-13",
           "views": null,
           "likes": 159,
+          "comments": 35
+        },
+        {
+          "d": "2026-08-14",
+          "views": null,
+          "likes": 166,
           "comments": 35
         }
       ],
@@ -47,14 +53,14 @@
         "views_median": null,
         "eng_median": 180.0,
         "n": 10,
-        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+        "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.15607401448109412,
-        "vs_baseline": 1.0777777777777777,
-        "cost_per_eng": 355.6701030927835,
+        "er": 0.16170555108608206,
+        "vs_baseline": 1.1166666666666667,
+        "cost_per_eng": 343.2835820895522,
         "cost_per_view": null
       },
       "analysis": {
@@ -64,7 +70,7 @@
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
         }
       },
-      "last_written_reaction": "좋아요 159 · 댓글 35 · ER 15.6% · 평소대비 1.1x (D+3)"
+      "last_written_reaction": "좋아요 166 · 댓글 35 · ER 16.2% · 평소대비 1.1x (D+4)"
     }
   ],
   "flags": {
@@ -75,5 +81,5 @@
   },
   "child_db_id": "d4d39eba-97ed-82d8-9646-01db879636d7",
   "followers": 1243,
-  "last_written_score": 108
+  "last_written_score": 112
 }

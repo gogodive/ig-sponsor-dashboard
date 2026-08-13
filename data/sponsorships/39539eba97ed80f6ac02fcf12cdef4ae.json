@@ -23,8 +23,8 @@
       "media_kind": "릴스",
       "upload_date_notion": "2026-07-17",
       "first_seen": "2026-07-24",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.04297037964121819,
         "vs_baseline": 0.722943335422075,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-07-13T11:42:50.000Z",
       "permalink": "https://www.instagram.com/p/Dau0sQlyadx/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGH9PdyVbnf3ghF7VFIvAOrtX-O6wzYV9POe-BL6Wdw8fXAhSZOjH53le8lhinkngk&_nc_ohc=zo6XWpZDY-AQ7kNvwGMSWgT&_nc_gid=XguaOjbBZKVEOHyp3shGBA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH9TwGvMg8JnWFgNOurPhNKyeWw9uRZsms37BuTfEJVow&oe=6A82B6D2&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746908921_17904038604461817_623297950647239307_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEvMDlDZli6SxU0P-sWwlafWXUU27CbOIULvkN6W9f8h1_PRD8nvPw_exOnvFzmQKs&_nc_ohc=zo6XWpZDY-AQ7kNvwEk8CE4&_nc_gid=u35t_ujsaXzhDPiqyNTldQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF21946DbSZkwPBrGQB8x8lMqThgBR3JHrj0vfUgoU2LQ&oe=6A840852&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n\n화이트 수영복 조아..🤍 한강 수영장도 조아..🩷\n\n𝗟𝗔𝗦𝗘𝗥𝗜𝗡 - 𝗪𝗵𝗶𝘁𝗲 𝗦𝗵𝗲𝗹𝗹\n𓇼 미들 하이컷\n𓇼 Y자 픽스드백\n𓇼 두 겹 수영복\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 정사이즈 추천\n• 153cm / 42kg / torso 140\n\n🧢 @uhpuhpuh \n🥽 @oompaa.world",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -182,9 +182,11 @@
           "one_liner": "조회수 미집계로 도달 판단이 어렵지만, 팔로워 대비 참여율 4.32%·참여당 335원은 소규모 계정 기준 양호한 효율이다.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 4.30%는 소규모 계정 기준으로 준수한 수준이나, 평소 게시물 대비 조회수가 0.72배로 오히려 역효과가 나타나 협찬 콘텐츠의 도달 확산력이 부족했다. 조회 1회당 비용 4.3원, 참여 1건당 335원은 절대 수치로는 낮아 보이지만 베이스라인(n=3)이 협찬 전 최소값이라는 점을 감안하면 계정 자체의 바이럴 파워가 제한적임을 의미한다. 상품 가액 69,000원 대비 총 노출 8,076회·참여 103건은 브랜드 인지 효율이 낮은 편으로, 동일 예산을 팔로워 규모는 비슷하더라도 평소 도달률이 높은 계정에 재배분하는 것이 바람직하다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "조회 8,076 · 좋아요 99 · 댓글 4 · ER 4.3% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "조회 8,076 · 좋아요 99 · 댓글 4 · ER 4.3% · 평소대비 0.7x (확정)"
     },
     {
       "notion_row_id": "a6f39eba-97ed-822d-83ba-81f6d954e07d",
@@ -195,7 +197,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T08:51:08.000Z",
       "permalink": "https://www.instagram.com/p/DauhxkRGoS9/",
-      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF9lQvCpehFW2z2vqsB8qpXwAFJP2uNrxEVwxjygAfY0sawipRodwZoDddqqXKiMeE&_nc_ohc=qM21U42Ui0YQ7kNvwFt_xnh&_nc_gid=PgFAk1vDlle9NAsFs7EeXg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFuO3n8lstm9n1oknL6bNW55udZOftb5cxZMzyJ6Pal6A&oe=6A82D47D&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/747111777_17904020082461817_7564942166804804072_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHfv1ViXfchRz2PcDQnTPp1pyPBUDkP67W7uP_T8OsrUtjbuqs3U6pWg71dK8YF_1o&_nc_ohc=qODp96QCT48Q7kNvwFAVqlQ&_nc_gid=ASagy3TOBqoRQgidxX_dpw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGXSwcyHu9hYm9mr6CCACcYIh6pQQahtxWWs29HXkifWQ&oe=6A8425FD&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n𝙇𝘼𝙎𝙀𝙍𝙄𝙉 - 𝙒𝙝𝙞𝙩𝙚 𝙎𝙝𝙚𝙡𝙡 🤍\n\n화이트 수영복 찾는다면? 라세린 화이트쉘 어떠세요🐚\n\n은은하게 번지는 오팔 홀로그램✨\n반짝반짝 빛나는게 윤슬이 떠오르지 않나요••\n\n포일 수영복이지만 ! \n코튼캔디, 글로우펄에 비해 잘 늘어나서 입기 수월해요. \n정사이즈 추천드립니다🫶🏻\n\n𓇼 Size Tip\n• XS 사이즈 착용\n• 평소 XS~S, 26 사이즈 착용\n• 153/42/140\n⠀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -339,8 +341,8 @@
         "n": 12,
         "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.06299541093032958,
         "vs_baseline": 1.444976076555024,
@@ -359,9 +361,11 @@
           "one_liner": "평소 대비 1.24배 참여로 선방 중이며, 참여 1건당 228원은 소규모 계정 협찬 대비 효율적인 수준입니다.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "팔로워 2,397명 규모에서 좋아요 121·댓글 30으로 참여율 6.30%를 기록했으며, 이는 평소 게시물 대비 1.44배 높은 수준으로 협찬 콘텐츠가 팔로워 반응을 실질적으로 끌어올린 것으로 평가된다. 참여 1건당 비용 228원, 총 예상 참여 151건에 69,000원 투입은 소규모 니치 계정 기준으로 효율적인 단가이며, 다이빙·수영 특화 오디언스에 대한 브랜드 노출 측면에서 비용 대비 가치 있는 협찬으로 판단된다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.4x (D+30)"
+      "last_written_reaction": "좋아요 121 · 댓글 30 · ER 6.3% · 평소대비 1.4x (확정)"
     }
   ],
   "flags": {

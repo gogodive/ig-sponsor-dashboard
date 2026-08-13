@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T04:31:42.000Z",
       "permalink": "https://www.instagram.com/p/DauDOkfh32M/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE-PRNmcMUgVSmtL1Hu104F3I15Fnn3X0atazfVxrCxH56sGdtrpDOOqO97hWwJFQH0ZVlsKtFucKLoeKFYvrki&_nc_ohc=LdybZxGrwaUQ7kNvwF9OBBq&_nc_gid=OzYsvw_liHkHUc2vcukEog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGqvoO3g3T8o90zYXBN3MvVTImajRUQI5u2pJs2hZw67w&oe=6A82B5C4&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fnld1-1.fna.fbcdn.net/v/t51.82787-15/746484543_18136607962586220_1764001714711788710_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fnld1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFWhLzPEl4cY21HItX_trWd-aFJtK8IzkEyV3pqqMLwPzmFIvVJwFYNZdtq6ugI2Xw&_nc_ohc=LdybZxGrwaUQ7kNvwEsAeYl&_nc_gid=gyMcDQahWRgUBD8CTbesrg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG5T6zRhaOTMXtuhOn8Uwifs8WBQ4HHIhVbeMu1hQXAig&oe=6A840744&_nc_sid=c6f216",
       "caption": "⭐️LASERIN 윤슬에메랄드✨\n윤슬 펄이 촤르르 + 그라데이션 컬러가 만나 \n볼수록 이쁜 수영복💗\n\n@laserin_swim \n\n#협찬 #라세린수영복 #윤슬에메랄드",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -176,8 +176,8 @@
         "n": 4,
         "captured_at": "2026-08-13T06:51:01.340461+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.11455525606469003,
         "vs_baseline": 1.2771290230703503,
@@ -196,9 +196,11 @@
           "one_liner": "평소 대비 2.37배 조회에 참여율 11.46%로 소규모 계정치고 탄탄한 반응이며, 참여 1건당 470원·조회당 17.8원은 비용 효율 양호 수준입니다.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "팔로워 742명의 소규모 계정임에도 조회수 2,242회·참여율 11.46%는 마이크로 인플루언서 평균(3~6%)을 크게 상회하며, 평소 게시물 대비 1.28배의 조회 성과는 협찬 콘텐츠가 이탈 없이 소화됐음을 의미한다. 조회 1회당 17.6원, 참여 1건당 465원은 79,000원 상품 협찬 기준으로 효율적인 수치이며, 특히 다이빙·수영이라는 니치 타깃에 밀착된 팔로워 구성을 감안하면 도달 단가 이상의 질적 가치가 있다. 종합적으로 비용 대비 가치 있는 협찬으로 평가되며, 재협찬 또는 팔로워 성장 추이 모니터링을 통한 장기 파트너십 검토를 권장한다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "조회 2,242 · 좋아요 73 · 댓글 12 · ER 11.5% · 평소대비 1.3x (D+30)"
+      "last_written_reaction": "조회 2,242 · 좋아요 73 · 댓글 12 · ER 11.5% · 평소대비 1.3x (확정)"
     },
     {
       "notion_row_id": "e7339eba-97ed-820d-bb34-011a6826721c",
@@ -342,7 +344,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.23450134770889489,
         "vs_baseline": 1.5963302752293578,

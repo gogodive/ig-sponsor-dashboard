@@ -25,17 +25,17 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-25T14:51:34.000Z",
       "permalink": "https://www.instagram.com/p/DbOD05UJGsf/",
-      "thumbnail": "https://instagram.fmel16-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmel16-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gGnqFFpe79noNwNpTq_ZpNKK0zJlsqCnzv8gryqBiVcYIAjDRyUUBPUm0h-PvvpVgE&_nc_ohc=FcYOmITSzh8Q7kNvwHtm4Ym&_nc_gid=cZahea14PCnpSajeIr5Axw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGIqhS2zUmMWOWFYvIZbD7OmZY1Zp9fA1mau9RgW8Q5yQ&oe=6A82B885&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyvr3-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fyvr3-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gEweJ20_nTGCnNmXyowyeOdfrJc1L_VbmVKUX1hBJY_K_vT1oqZDLr_aWV8s0h1uGg&_nc_ohc=FcYOmITSzh8Q7kNvwESowNA&_nc_gid=FF0f0qm9vgdZYQ2RA7jL3A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQExwPiCWPt1rkSSG3PK4kX6YWOkby2hoFnM8A22PO69PA&oe=6A840A05&_nc_sid=c6f216",
       "caption": "프리다이빙 성공🫧\n\n저 이퀄 바보였는데\n프리다이빙도 장비빨 아니겠어요!\n카본핀 장착하고 프리다이빙 성공했지 모예요!\n\n바다로 떠날 날 얼마 안 남았쥬!\n바다 딱 기다려!\n💙\n\n딥바이브 카본 핀 정보 @intotheblue_store \n#고고다이브 #프리다이빙 #프리다이빙강습",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "okgun._.2",
       "metrics": {
-        "views": 11594,
+        "views": 12085,
         "likes": -1,
         "comments": 55
       },
-      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -126,21 +126,27 @@
           "views": 11594,
           "likes": -1,
           "comments": 55
+        },
+        {
+          "d": "2026-08-14",
+          "views": 12085,
+          "likes": -1,
+          "comments": 55
         }
       ],
       "baseline": {
         "views_median": 82690.0,
         "eng_median": 3897.5,
         "n": 4,
-        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+        "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
         "er": 0.00046783625730994154,
-        "vs_baseline": 0.14021042447696214,
+        "vs_baseline": 0.1461482646027331,
         "cost_per_eng": 11425.925925925925,
-        "cost_per_view": 53.21718130067276
+        "cost_per_view": 51.05502689284236
       },
       "analysis": {
         "d3": {
@@ -154,7 +160,7 @@
           "analyzed_at": "2026-08-09T06:33:50.091992+09:00"
         }
       },
-      "last_written_reaction": "조회 11,594 · 좋아요 -1 · 댓글 55 · ER 0.0% · 평소대비 0.1x (D+18)"
+      "last_written_reaction": "조회 12,085 · 좋아요 -1 · 댓글 55 · ER 0.0% · 평소대비 0.1x (D+19)"
     }
   ],
   "flags": {
@@ -165,5 +171,5 @@
   },
   "child_db_id": "ea439eba-97ed-8261-960d-012ffeefe81f",
   "followers": 115425,
-  "last_written_score": 14
+  "last_written_score": 15
 }

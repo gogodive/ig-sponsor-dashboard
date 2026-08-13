@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-05T08:43:17.000Z",
       "permalink": "https://www.instagram.com/p/DbpvKOemVsF/",
-      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/764862429_17942857974268965_7741547479941526550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG-xhAWLJ49aKu3aaOexMYxn9K_sLW5qOV4NGFWPsfuJ_tesG1j-9ZJkZInhrlF0F0&_nc_ohc=3-d8IbdlINYQ7kNvwGDEjir&_nc_gid=_GxqgAU458DY-hAfYnvO5w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGkOoT_oCfWxxmJLqkH3HKJnqthCAKC_gbYpC87d8HGww&oe=6A82C838&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/764862429_17942857974268965_7741547479941526550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEL9OkvR7-dlwzc57wwUvRz7lpAqci8ROqDsWIolrJHYl1KSOfAPdP4OtMs6nGWu5k&_nc_ohc=3-d8IbdlINYQ7kNvwFEBP66&_nc_gid=tpGfSB1jSJoDx4jLT2hqjQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHXzCe9xdXhPdnSyzOVOxCwQlHOOzoU2fBD0Hxf_rajVQ&oe=6A8419B8&_nc_sid=c6f216",
       "caption": "#제품제공 @intotheblue_store \n\n다이빙을 가지 못해 방구석에서 하는 다이빙용품 리뷰🤿\n\n지금까지 프리다이빙과 스쿠버다이빙을 하면서 \n마스크만 벌써 4개째 사용 중인 다이버 띵고재비입니다.\n\n처음엔 디자인이나 가격만 보고 구매했는데, \n막상 사용하다 보면 어디선가 물이 조금씩 들어오거나, \n시야가 답답하거나, 코가 딱딱해서 이퀄라이징이 불편한 등 \n마스크마다 은근한 차이들이 느껴지더라고요. \n그때마다 폭풍 검색을 하며 장비를 바꿨지만 \n가격이 늘 부담이었어요.\n\n그러다 알게 된 #인투더블루\n가격 부담이 적어서 입문용으",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -71,23 +71,29 @@
           "views": null,
           "likes": -1,
           "comments": 10
+        },
+        {
+          "d": "2026-08-14",
+          "views": null,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 194.5,
         "n": 12,
-        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+        "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.0015619576535925027,
         "vs_baseline": 0.04627249357326478,
         "cost_per_eng": 11444.444444444445,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 0.0x (D+7)",
+      "last_written_reaction": "좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 0.0x (D+8)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.05x의 극히 저조한 반응과 참여 1건당 11,444원의 높은 비용으로, 3일차 현재 협찬 효율이 매우 낮은 상태입니다.",

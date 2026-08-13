@@ -25,7 +25,7 @@
       "first_seen": "2026-07-24",
       "posted_at": "2026-07-18T12:08:58.000Z",
       "permalink": "https://www.instagram.com/p/Da7wY4ZE4vG/",
-      "thumbnail": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/749300592_17990800098007912_9065457750426020675_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGpjsJLzU_cmYzf70vSFyK5riJhIjWamHJFU-0iw3eyMYRBwr5A_qjxjcb0DJ8sHT8&_nc_ohc=Bf1NNjDiLicQ7kNvwHSp-lB&_nc_gid=LzuqxtxqDQkMFW4h7RRczQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGGBVtfdvgIWDpvWpmglWbG-ziCqLcFheETGPBfbamzVg&oe=6A82CEBF&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fpbc4-1.fna.fbcdn.net/v/t51.82787-15/749300592_17990800098007912_9065457750426020675_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fpbc4-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gEC0BM5nsR5kaBvf-AgReCbTxFLd8dfHtOtfAyjytkIFgXuNkWOuxIZTXMecVw5zgOcdo2WVrRjlhlrBnR97tzi&_nc_ohc=Bf1NNjDiLicQ7kNvwGmgk_t&_nc_gid=js4zQfkCi7XmUNQTN4wcEg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFq07k2H51PVXQbMsJ01VZF8e6merbex2oIqw_BEhwCKg&oe=6A84203F&_nc_sid=c6f216",
       "caption": "화이트 수영복을 찾고 계신다면 🤍 #협찬\n\n이 수영복을 단연 추천드립니다... 🫧\n\n연보라색 끈에.. 화이트 포일이라 비침 걱정없어요!\n두겹이에요 ✨️ \n프다 선생님들 사이에서는 이미 유명한 제품이에요⭐️\n\n✔️라세린 화이트쉘\n\n157 / 41 / 137 \nXs착용\n\n모두 행수하세요 🩷\n\n.\n#수영복 #수영복추천 #라세린 #화이트수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 17
       },
-      "metrics_updated_at": "2026-08-13T06:51:01.340461+09:00",
+      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
       "history": [
         {
           "d": "2026-07-24",
@@ -161,10 +161,16 @@
           "views": null,
           "likes": -1,
           "comments": 17
+        },
+        {
+          "d": "2026-08-14",
+          "views": null,
+          "likes": -1,
+          "comments": 17
         }
       ],
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.000711079507577441,
         "vs_baseline": 3.2,
@@ -183,12 +189,12 @@
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.1% · 평소대비 3.2x (D+25)",
+      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.1% · 평소대비 3.2x (D+26)",
       "baseline": {
         "views_median": null,
         "eng_median": 5.0,
         "n": 4,
-        "captured_at": "2026-08-13T06:51:01.340461+09:00"
+        "captured_at": "2026-08-14T06:50:43.027547+09:00"
       }
     },
     {
@@ -345,7 +351,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0004444246922359006,
         "vs_baseline": 2.0,
@@ -452,7 +458,7 @@
         "captured_at": "2026-07-31T07:09:43.533653+09:00"
       },
       "frozen": true,
-      "days_since_post": 43,
+      "days_since_post": 44,
       "computed": {
         "er": 0.0011555041998133416,
         "vs_baseline": 6.5,
@@ -506,7 +512,7 @@
         "captured_at": "2026-07-23T09:06:28.198264+09:00"
       },
       "frozen": true,
-      "days_since_post": 51,
+      "days_since_post": 52,
       "computed": {
         "er": 0.000711079507577441,
         "vs_baseline": 2.2857142857142856,

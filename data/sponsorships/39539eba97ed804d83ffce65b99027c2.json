@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T04:04:17.000Z",
       "permalink": "https://www.instagram.com/p/Dat_OQVgV3j/",
-      "thumbnail": "https://instagram.fblq3-1.fna.fbcdn.net/v/t51.82787-15/744782391_18592059508027974_8070600897721187540_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fblq3-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFnB22tNARmCDaykjvwj9ZzpMkg2kEYLcJpc6-nxxUX6UQV7OMLx_E8nXp6i3r0VH0&_nc_ohc=uvI9LPqYDMgQ7kNvwFiWRol&_nc_gid=C2mrkq1jc1bpLYZ02C3FZg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHcGhnPD2hq8CMp2QM9ZIiV2FXoOOBhef370KvaHzy8kA&oe=6A82AC2C&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/744782391_18592059508027974_8070600897721187540_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG-zGAl_tiyiLwEL6Yisqot4M9RQ3HAVGdtqJ5NQlpvmwB3DO6O5B06dxC3VFiEghfEQ_7CVVd_bI26fueRHkmW&_nc_ohc=uvI9LPqYDMgQ7kNvwFsj-Fr&_nc_gid=qG1tsGQqrbK7epfIjNO_WA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGkmWCuSJRv8D7Txnv_Xtu7yd28h4xO55S1KPHNtog-sg&oe=6A83FDAC&_nc_sid=c6f216",
       "caption": "#제품제공 Laserin🐚🫧\n라세린 화이크쉘 xs착용했어요🤍\n\n알록달록 오로라처럼 반짝거리는게\n여름무드랑 딱이에요!!!! \n\n햇살들어오는 야외수영장에서 한번\n입어보실래용???🫶🏽\n\n#협찬 #라세린 #수영복 #laserin\n@laserin_swim",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -176,8 +176,8 @@
         "n": 4,
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.00551004132530994,
         "vs_baseline": 0.4317355371900826,
@@ -196,9 +196,11 @@
           "one_liner": "평소 대비 0.26x로 부진한 도달에 참여 1건당 493원·조회당 30.5원으로 비용 효율이 낮아 추가 액션 검토가 필요합니다.",
           "days": 14,
           "analyzed_at": "2026-07-28T07:11:06.934463+09:00"
-        }
+        },
+        "final_verdict": "조회 1,306회·참여율 0.55%로 평소 대비 0.43배에 그쳐 해당 계정의 일반 게시물보다 오히려 낮은 도달을 기록했으며, 팔로워 13,793명 규모에서 기대할 수 있는 최소 성과에도 미치지 못했다. 참여 1건당 454원·조회 1회당 26.4원은 다이빙·수Swimming 니치 브랜드 기준으로도 효율이 낮은 편으로, 상품 가액 69,000원 대비 브랜드 노출 효과가 충분히 확보되지 않았다. 재협찬 시에는 게시 시점·콘텐츠 포맷 조율 또는 계정 교체를 검토할 필요가 있다.",
+        "final_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "last_written_reaction": "조회 1,306 · 좋아요 61 · 댓글 15 · ER 0.6% · 평소대비 0.4x (D+30)"
+      "last_written_reaction": "조회 1,306 · 좋아요 61 · 댓글 15 · ER 0.6% · 평소대비 0.4x (확정)"
     },
     {
       "notion_row_id": "40f39eba-97ed-822a-ba43-0152de83706a",
@@ -354,7 +356,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.06691800188501414,
         "vs_baseline": 8.546296296296296,
