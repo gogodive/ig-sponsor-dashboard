@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-13T22:47:34.000Z",
       "permalink": "https://www.instagram.com/p/DawBfxpkyeQ/",
-      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFaejdY-qFnMcfSEL3xQn7Hgn8uVx-Pqi9MYNYD5gsUgO-qW1T0noAL57ksein1lS8&_nc_ohc=lEWM69KaeP0Q7kNvwFQmmBn&_nc_gid=XsA3GARFArtPQNy-pLaoXQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGXFa-udaM8zPzc5tMFwhOLMXMGP0rtWGZqdGwrJ2x-WA&oe=6A841B3C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fgla3-2.fna.fbcdn.net/v/t51.82787-15/743975244_18416931613196439_4124651964351574685_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fgla3-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gEw9yfvl47IBbzsmEdLkWMNvTAxlR2gZlUqaAEr646iDVgLwVECbMAUCYnaxGEqMW_YnM9b5s5ofnLpH3ZB60V6&_nc_ohc=lEWM69KaeP0Q7kNvwHFDzH8&_nc_gid=P9RqpAwNu7qy2K-RVrbyxw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH-TdwctuGUBlrf7bHREAExhlQfhHgmQengJ75jm5HKtw&oe=6A856CBC&_nc_sid=c6f216",
       "caption": "#제품제공 @laserin_swim \n\n윤슬 에메랄드✨\n\n에메랄드빛 그라데이션이 매력적인 아이..\n예전 코튼캔디 출시되자마자 글로시하누매력에 한눈에 반해 구매했었는데😍\n윤슬 에메랄드는 메탈릭 원사가 은은하게 반짝이는 완전 다른 느낌임\n\n더블크로스백이라 안정적이어서 실내수영에도 무리없고 요캉스에도 다 잘어울리는걸🥰\n\n#라세린 #라세린수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -181,10 +181,10 @@
         "n": 12,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.02582093741229301,
+        "er": 0.025830603649976604,
         "vs_baseline": 1.1769722814498933,
         "cost_per_eng": 286.231884057971,
         "cost_per_view": null
@@ -201,9 +201,11 @@
           "one_liner": "평소 대비 1.17배 참여로 준수한 반응이나, 건당 299원 비용은 팔로워 규모 감안 시 합리적 수준으로 중반 이후 댓글 유입 추이 주시 필요.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1만 명 수준의 마이크로 인플루언서로서 참여율 2.58%는 인스타그램 업계 평균(1~3%)의 상단에 위치하며, 평소 대비 1.18배의 참여 상승은 협찬 콘텐츠가 자연스럽게 소화됐음을 시사한다. 참여 1건당 비용 286원, 총 276건의 좋아요+댓글을 79,000원으로 달성한 것은 다이빙·수영 니치 타깃을 고려하면 합리적인 효율이다. 다만 피드 게시물 특성상 조회수가 집계되지 않아 노출 규모 파악이 어렵고 팔로워 절대수가 작은 점을 감안하면, 브랜드 인지 확산보다는 소규모 고관여 커뮤니티 내 신뢰도 구축 목적으로는 가치 있었으나 도달 효율 면에서는 제한적이다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "좋아요 255 · 댓글 21 · ER 2.6% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 255 · 댓글 21 · ER 2.6% · 평소대비 1.2x (확정)"
     }
   ],
   "flags": {
@@ -213,6 +215,6 @@
     "account_unavailable": false
   },
   "child_db_id": "afc39eba-97ed-826a-9ec6-014ca984c684",
-  "followers": 10689,
+  "followers": 10685,
   "last_written_score": 118
 }

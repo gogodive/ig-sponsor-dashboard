@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T14:31:07.000Z",
       "permalink": "https://www.instagram.com/p/DbLdPR6PiDv/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEjIevIDSYx0We8bzlz5zEFgV-9twaEa7P6E9U0z7pyxGYGvf2j3P0nKy5EhrrFrh4&_nc_ohc=Gxht2lQa6loQ7kNvwGbNaFX&_nc_gid=uNuSmMp7AjTghrPxKoQXgg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHNqCIkN9-LvSa1f2EmfDT1Rguuyzj3EKZekSmUg8UUdQ&oe=6A840CAC&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbnu4-1.fna.fbcdn.net/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbnu4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFiqwE2pkG1Mgr6lXDsP888g8vIKWprhpyPSNsp1Tu1kGYxtvUwJ2gh-PieapSIHFM&_nc_ohc=vg0KiErx8woQ7kNvwGtDI7x&_nc_gid=7jvFpnJ7CaveuyhGiBGIRg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHR201V3Wryx9LiFPXRrDLK3UCN3pYjufFcIEoHKL_5nQ&oe=6A855E2C&_nc_sid=c6f216",
       "caption": "제주 습도가 86도를 넘었는디..!(울집기준)🚨 💦\n\n이 무더위에 살아남았다는 건 강하다는 것..!\n날씨 예보와는 다르게 제주는 일주일 전부터 내내\n뜨거웠다는 사실! 제주 무더위를 제주답게 보내려면\n\n제주 휴가지다운 이열치열 잼컨, 의미있게 시간을 보내기\n좋은 핫플 위치 정도는 꼬옥 파악하고 오시길😏🧊\n그럼 모두 안전하고 재밌는 휴가 되세요~~~!🔥\n\n#제주살이 #제주하와 #판포포구 #웰니스트립 #wellness \n📍 @hawa_jeju @sauna_paradise_ \n🩱 @laserin_swim",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": 891,
         "comments": 347,
-        "views": 154599
+        "views": 154711
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -144,21 +144,27 @@
           "views": 154599,
           "likes": 891,
           "comments": 347
+        },
+        {
+          "d": "2026-08-15",
+          "views": 154711,
+          "likes": 891,
+          "comments": 347
         }
       ],
       "baseline": {
-        "views_median": 33361.0,
-        "eng_median": 960.5,
-        "n": 4,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "views_median": 78324,
+        "eng_median": 1562,
+        "n": 7,
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
-        "er": 0.014991341834078057,
-        "vs_baseline": 4.634123677347802,
+        "er": 0.014833097697155592,
+        "vs_baseline": 1.9752693938001125,
         "cost_per_eng": 34.46418955304254,
-        "cost_per_view": 0.27598281144552467
+        "cost_per_view": 0.2757830190915104
       },
       "analysis": {
         "d3": {
@@ -172,7 +178,7 @@
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
         }
       },
-      "last_written_reaction": "조회 154,599 · 좋아요 891 · 댓글 347 · ER 1.5% · 평소대비 4.6x (D+20)"
+      "last_written_reaction": "조회 154,711 · 좋아요 891 · 댓글 347 · ER 1.5% · 평소대비 2.0x (D+21)"
     },
     {
       "notion_row_id": "39c39eba-97ed-8057-8b05-c317f1d08034",
@@ -316,9 +322,9 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
-        "er": 0.006841767476780373,
+        "er": 0.006769547818168747,
         "vs_baseline": 0.5712841253791708,
         "cost_per_eng": 75.51622418879056,
         "cost_per_view": null
@@ -350,7 +356,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-06T13:49:05.000Z",
       "permalink": "https://www.instagram.com/p/DadCOx5SSHN/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/736198327_18601105804000189_7979023830502795833_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGA5nVZr183KkzWi_82UFv4i6AY6SBMocKPLV7-dL4rjCqkf3Xk36c5Yi_tZlu-hw8&_nc_ohc=skVnh8GV1oQQ7kNvwEeUfkj&_nc_gid=2m0ZjtXTKdbOszaomsjl1A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFXktjzleOmoUBLySVaxNaoWIKlS72OeglRW3pKN-pQaA&oe=6A7B099E&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fvlc6-1.fna.fbcdn.net/v/t51.82787-15/736198327_18601105804000189_7979023830502795833_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fvlc6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFXrIiE88x1rriKMHgAekmYUOoa7XNr0sb6Ib3nenjXLT_kJUmiWUG4UdrUWKsaqxw&_nc_ohc=5j5xFJVxo7sQ7kNvwF1exN3&_nc_gid=Bi1t44qJE6x9ipGWlUvreg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF9cqqnkYZmwg4DuONqdH4WSyyZyz6iqM35xhixBKmr8g&oe=6A855D5E&_nc_sid=c6f216",
       "caption": "제주 와신디 예쁜 노을 보구가야젠!✨\n\n만약 내가 술을 안 먹는디, 시끄러운 클럽 음악말구\n좋은 음악 들으면서 예쁜 제주 노을 보고 싶다면\n세부 말구 제주로 옵서예. 물고기도 왕 많아 물 왕맑아.\n\n나두 물놀이 신나게 하고파서 예쁜 수영복 갈아입고\n왕왕 수영했신디 너무 행복하고 좋았수다🤍\n\n🩱 @laserin_swim \n🛥️ @sagye_marine_jeju \n\n#제주여행 #요트투어 #선셋투어 #제주사계해양레져 #라세린",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -460,9 +466,9 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
-        "er": 0.0054734139814242985,
+        "er": 0.005415638254534998,
         "vs_baseline": 0.1409647025734777,
         "cost_per_eng": 94.3952802359882,
         "cost_per_view": 2.4322578193288487
@@ -488,6 +494,6 @@
     "account_unavailable": false
   },
   "child_db_id": "62539eba-97ed-83e5-b5ad-015f6fe02c88",
-  "followers": 82581,
-  "last_written_score": 178
+  "followers": 83462,
+  "last_written_score": 90
 }

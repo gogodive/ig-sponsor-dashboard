@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:07:56.000Z",
       "permalink": "https://www.instagram.com/p/Da-a6dDyneW/",
-      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/752242692_18615909706020011_3104301300102016700_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fktw4-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gEPvShGjPvYNEIZUkCZ_5wETzB-vq1PGEnu8KeVsn6TeUHQLik022ySTe4EftSc4xo&_nc_ohc=du8eFTYSwEAQ7kNvwHBn43f&_nc_gid=5JjQn5a_9zOfVtrwjn9TsQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF5ODd6k1gVmXryKdqRW4NxYssMkBvAjGYUldRxFRXibw&oe=6A842864&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.ftls1-1.fna.fbcdn.net/v/t51.82787-15/752242692_18615909706020011_3104301300102016700_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ftls1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGt4g6wRbOIXF09tUlDQmvYurEhHWm3rOfF6iWikz_LkKBHD19Ncn7nBbE-AtsYq4M&_nc_ohc=du8eFTYSwEAQ7kNvwF3wKhv&_nc_gid=rTlqT_M1JW1p3VIPRShiAA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF_gGfy5v8-mWctqkwusPYcK7UxXEIUlMCcp7CU6aQegQ&oe=6A8541A4&_nc_sid=c6f216",
       "caption": "#제품제공 \n\n✨ 제주에서 라세린\n수친자들 사이에서 유명한 라세린을 저도 입어봤어요😍\n물속에서도 밖에서도 온통 저만 보였던 하루였어요\n밝은 색감에 은은한 디자인이 합쳐져서 더 예뻤던 수영복이였어요\n물속에서도 인생샷 찍고 싶다면? #라세린 하세요\n\n👙 물속에서 가장 빛나는 수영복 @laserin_swim \n📸 제주바다에 풍덩하는 횸강사 @diver_hm \n✨168 / 50 / M 사이즈 착용\n\n드라이슈트를 입는 날이 더 많지만 수영복도 좋아해요💓\n\n#제주살이 #수영복추천 #인생샷수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": 341,
         "comments": 13,
-        "views": 48034
+        "views": 48250
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -174,6 +174,12 @@
           "views": 48034,
           "likes": 341,
           "comments": 13
+        },
+        {
+          "d": "2026-08-15",
+          "views": 48250,
+          "likes": 341,
+          "comments": 13
         }
       ],
       "baseline": {
@@ -183,12 +189,12 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.050818260120585705,
-        "vs_baseline": 1.1182139864046932,
+        "er": 0.050709067468844,
+        "vs_baseline": 1.1232423875593631,
         "cost_per_eng": 90.3954802259887,
-        "cost_per_view": 0.6661947786984219
+        "cost_per_view": 0.6632124352331606
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태이나 팔로워 대비 참여율 3.87%·참여 1건당 239원으로 소규모 다이빙 계정 치고 효율적인 초기 반응을 보이고 있음.",
@@ -204,7 +210,7 @@
           "analyzed_at": "2026-08-03T06:58:43.658866+09:00"
         }
       },
-      "last_written_reaction": "조회 48,034 · 좋아요 341 · 댓글 13 · ER 5.1% · 평소대비 1.1x (D+25)"
+      "last_written_reaction": "조회 48,250 · 좋아요 341 · 댓글 13 · ER 5.1% · 평소대비 1.1x (D+26)"
     },
     {
       "notion_row_id": "45339eba-97ed-8353-8db2-015df3711e3d",
@@ -215,7 +221,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-17T09:48:59.000Z",
       "permalink": "https://www.instagram.com/p/Da47kvaEoOd/",
-      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/749788876_18615219391020011_106457718292273956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk0MzE1NjEyODY0NTExNTU3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=peZUheuMKosQ7kNvwE5JXCX&_nc_oc=AdqSmcsW77CoP3qCaXcvaie_O0BuGFjAC9iJOY6y8lCn1j5IHX07PLgRhdfloLZ_wXLdD1N_JhXkT490Bv0R2OVZ&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=ZWTRdct8lpCPBs4tw9inFw&_nc_ss=7d689&oh=00_AQEErz7nmAvI750MPhKFEuTdquLY6myhVIS0E_XwNKXDSQ&oe=6A840542",
+      "thumbnail": "https://instagram.fper11-1.fna.fbcdn.net/v/t51.82787-15/749788876_18615219391020011_106457718292273956_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fper11-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGFAqwBArqqVOf-MtRrxycHLPOpxhPnkfe6fEQS0h37SPHwG78oGQ9ET2f9lYDG9pM&_nc_ohc=8VoaAOvW9X0Q7kNvwHWPuTM&_nc_gid=opPQYqTpho5dAt8spjd4ug&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEggFTNeqPlsQHwoSVBM3m9QfrbccN1WKsqf5Wkm5t-8w&oe=6A8556C2&_nc_sid=c6f216",
       "caption": "오! 나도 드디어 라세린을 입어봤다\n그라데이션에 여성스러운 셩복은 첨이라 어울릴까 고민했는데\n어울리고를 떠나서 셩복이 참 예뻐서 맘에 들었다\n다이빙 나갈려고 수영복 입고 슈트입는데 손님분이 예쁘다고 함ㅋㅋ\n예쁜건 다들 알아보나봄 허허\n심지어 애기들도 셩복이 예쁘다고 함ㅋㅋㅋㅋ\n오늘 셩복 인기 많았음👍 마지막 쿠키영상 이씀😆\n\n✨ 물속에서 가장 빛나는 수영복 라세린 @laserin_swim \n📸 제주바다에 풍덩한 횸강사 @diver_hm \n👙168 / 50 / M 편하게 입고 싶으면 한사이즈 🆙 해도 좋을 듯\n\n#라세린 #제품제공 #",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -224,7 +230,7 @@
         "likes": 274,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -363,19 +369,25 @@
           "views": null,
           "likes": 274,
           "comments": 9
+        },
+        {
+          "d": "2026-08-15",
+          "views": null,
+          "likes": 274,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 234.0,
+        "eng_median": 264.5,
         "n": 12,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
-        "er": 0.040625897215044504,
-        "vs_baseline": 1.2094017094017093,
+        "er": 0.04053860478441484,
+        "vs_baseline": 1.0699432892249527,
         "cost_per_eng": 113.07420494699646,
         "cost_per_view": null
       },
@@ -393,7 +405,7 @@
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
         }
       },
-      "last_written_reaction": "좋아요 274 · 댓글 9 · ER 4.1% · 평소대비 1.2x (D+27)"
+      "last_written_reaction": "좋아요 274 · 댓글 9 · ER 4.1% · 평소대비 1.1x (D+28)"
     }
   ],
   "flags": {
@@ -403,6 +415,6 @@
     "account_unavailable": false
   },
   "child_db_id": "09339eba-97ed-82c3-8a58-010d736888f3",
-  "followers": 6966,
-  "last_written_score": 116
+  "followers": 6981,
+  "last_written_score": 110
 }

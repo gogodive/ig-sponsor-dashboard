@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T07:54:09.000Z",
       "permalink": "https://www.instagram.com/p/Daw_4a8S9Iq/",
-      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gERSeXDRTd3ZwkZSxlnb_FBH1Uydzv3BlRM7YNxryt7KNMTAcfpP0C-jTGjjpIl6sY&_nc_ohc=iagLPifCLeYQ7kNvwFNXbZD&_nc_gid=oqK8rX4mH29wl1U1xN9deg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEdCTUsqq3oKFlOwu-wOIk-u9H5mOrka6OCe1eMvXo3uQ&oe=6A8404C7&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmad8-1.fna.fbcdn.net/v/t51.82787-15/746908918_18476852518104971_4358918851450222852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmad8-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gG7-U8GUIwrKZRVkIDvHKT1FVS3FEQnvBXJFaX0KQnYwfmdmZBJjOzd9wWwXlMwMTA&_nc_ohc=iagLPifCLeYQ7kNvwGc1zWl&_nc_gid=m2nawQOIFNFvsw2pdUCgog&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH30oaGffWuDo4FYmlP96fLIZ5Kz0hIloia9Zb8zVo8vA&oe=6A855647&_nc_sid=c6f216",
       "caption": "-\n와 내가 지금까지 수 많은 짐웨어를 입어봤는데\n이마이 편한 탑내장 나시 처음입니다.. \n\n@secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -182,10 +182,10 @@
         "n": 3,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 9.563337987491154e-05,
+        "er": 9.56297217175098e-05,
         "vs_baseline": 0.7242268041237113,
         "cost_per_eng": 17400.0,
         "cost_per_view": 30.96085409252669
@@ -202,9 +202,11 @@
           "one_liner": "평소 대비 0.35x 저조한 조회·참여에 참여 1건당 17,400원으로 비용 효율이 매우 낮아 추가 협찬 진행은 신중 검토 필요.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "조회수 2,810회·참여율 0.01%로 팔로워 52,285명 규모 대비 도달 효율이 극히 낮으며, 평소 게시물 대비 0.72배 수준이라 협찬 콘텐츠가 오히려 일반 콘텐츠보다 저조한 반응을 얻었다. 조회 1회당 비용 31원, 참여 1건당 비용 17,400원은 다이빙·수영 니치 브랜드 기준으로도 현저히 비효율적인 수치다. 상품 가액 87,000원 투자 대비 실질적인 브랜드 노출·전환 기여가 미미하여 비용 대비 가치는 낮은 것으로 판단되며, 재협찬 시 콘텐츠 포맷·게시 조건 재검토가 필요하다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "조회 2,810 · 좋아요 -1 · 댓글 6 · ER 0.0% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "조회 2,810 · 좋아요 -1 · 댓글 6 · ER 0.0% · 평소대비 0.7x (확정)"
     }
   ],
   "flags": {
@@ -214,6 +216,6 @@
     "account_unavailable": false
   },
   "child_db_id": "4bc39eba-97ed-82c6-ae3b-0137e286b530",
-  "followers": 52283,
+  "followers": 52285,
   "last_written_score": 72
 }

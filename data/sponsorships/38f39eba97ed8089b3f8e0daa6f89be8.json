@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T01:58:35.000Z",
       "permalink": "https://www.instagram.com/p/Da_y5QpzDKB/",
-      "thumbnail": "https://instagram.fbre2-2.fna.fbcdn.net/v/t51.82787-15/752708281_17975174505111873_1991578239249406496_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbre2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHkr5yQ-jcVgd5hNl1lMlYcB4QMpJBJm0QIke_OR1tzDrp0lOvUzQe01TAJqeBoiyU&_nc_ohc=BaPWeYoGwRQQ7kNvwGILino&_nc_gid=4yKzZa9DEJ6aOB5egc6Ewg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGQbR8cPZi1lDXis5GSHsCe0oF7gduqfLFIXgbmA3Adfw&oe=6A840282&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/752708281_17975174505111873_1991578239249406496_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFne7eRi6n1_YL438Rz0mRUoQCkB08TdugClFEBm5Pkt2CaYTXUbTtn-3UJIALshUk&_nc_ohc=zNznB91KcRUQ7kNvwHGuv0B&_nc_gid=Fdc2vcq_GIKttlJC2iydiw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEBk4z0wq8BLxWQosgqCCnLmoKkl0y6RT-OYDjajc78Rg&oe=6A855402&_nc_sid=c6f216",
       "caption": "요가 필테 헬스 뭐입지???????\n어떤걸 픽 하시겠어요 ? 전 당신들 ,,😖\n\n#숭_운동복추천 \n🏷️ @secrets__fit \n\n✅ LOOK 1  나시 허리밑단이 U라인으로 얇은 허리연출+트임부트컷으로 편안함 종아리커버\n\n개미허리 필라테스복 요가복 나시 화이트 FREE\nV컷 부츠컷 코르셋 레깅스 요가 필라테스 애플힙 쉐도우차콜 M\n\n✅ LOOK 2 후들한 재질의 반팔티 U라인 + 레깅스 허리 브이컷 밴딩으로 아랫배 잡아줌\n\n글램버튼 필라테스복 요가복 반팔 브라운 S\nV컷 여자 9부 레깅스 힙업 운동 헬스 에쉬카키 M\n\n✅ LOO",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": -1,
         "comments": 108,
-        "views": 7978
+        "views": 7983
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -168,15 +168,21 @@
           "views": 7978,
           "likes": -1,
           "comments": 108
+        },
+        {
+          "d": "2026-08-15",
+          "views": 7983,
+          "likes": -1,
+          "comments": 108
         }
       ],
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.02437912964228754,
+        "er": 0.024077407740774076,
         "vs_baseline": null,
         "cost_per_eng": 483.3644859813084,
-        "cost_per_view": 6.482827776385059
+        "cost_per_view": 6.478767380683953
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태이나 댓글 108건이 이끄는 참여율 2.80%는 건당 비용 2,330원으로 소규모 계정 협찬 대비 댓글 중심 반응이 두드러진 초기 성과.",
@@ -192,7 +198,7 @@
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
         }
       },
-      "last_written_reaction": "조회 7,978 · 좋아요 -1 · 댓글 108 · ER 2.4% (D+24)"
+      "last_written_reaction": "조회 7,983 · 좋아요 -1 · 댓글 108 · ER 2.4% (D+25)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80e1-8955-e60e8c037ee7",
@@ -330,9 +336,9 @@
         "captured_at": "2026-08-09T06:33:50.091992+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
-        "er": 0.06766917293233082,
+        "er": 0.06683168316831684,
         "vs_baseline": 0.8608695652173913,
         "cost_per_eng": 174.14141414141415,
         "cost_per_view": null
@@ -348,7 +354,7 @@
         "final_verdict": "팔로워 대비 참여율 6.77%는 소규모 계정 기준으로 양호한 수준이며, 참여 1건당 비용 174원은 인플루언서 마케팅 평균 대비 효율적인 편이다. 다만 평소 대비 0.86배로 해당 게시물의 반응이 계정 평균을 하회했다는 점은 콘텐츠 또는 협찬 노출 방식의 개선 여지를 시사한다. 절대 참여 규모(좋아요 221 + 댓글 76 = 297건)와 단가(258,600원) 구조를 고려하면 브랜드 인지 확산보다는 소규모 충성 팬 대상 니치 노출에 적합한 협찬으로, 비용 대비 가치는 '보통' 수준으로 평가된다.",
         "final_at": "2026-08-10T06:36:10.950262+09:00"
       },
-      "last_written_reaction": "좋아요 221 · 댓글 76 · ER 6.8% · 평소대비 0.9x (확정)"
+      "last_written_reaction": "좋아요 221 · 댓글 76 · ER 6.7% · 평소대비 0.9x (확정)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80c0-9a74-e7501dd3ff96",
@@ -359,7 +365,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T12:12:53.000Z",
       "permalink": "https://www.instagram.com/p/DbA6bXSk_0A/",
-      "thumbnail": "https://instagram.fbne11-1.fna.fbcdn.net/v/t51.82787-15/746073675_17975263443111873_5620167288357511338_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fbne11-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gHQPTgDYUrbCyqTLlfQY00dvjUTL3XO0EeAgq44-cpDW_ekPTqOUi2l2Av8Rm2w15w&_nc_ohc=DgnOsZ4KO9cQ7kNvwE-LxSU&_nc_gid=s5GFLFk9yabuZ--CpDZOgw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGVix3kknRONIIuTgBRG_5NzLRev6KrJZB99ksHMKk2cg&oe=6A842E74&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/746073675_17975263443111873_5620167288357511338_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEn1ZMFX99RRgAPTDLujDiTcDw5qQigzfB0wElidPMuInmaFP1z2iM1dGgG3Z9T5wgI1ONE2xB020vT13Raq9Nw&_nc_ohc=G9WJplrE4n4Q7kNvwGgeYrW&_nc_gid=QY39eSJaPxP7kTlGaXnR6w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFI5Vm93PP4KfIEurYTIdaWEuWksV63K7lL0kumYicIug&oe=6A857FF4&_nc_sid=c6f216",
       "caption": "현생으로 돌아오 rrrrrrrrrrr oh 운 완\n스쿼트 40kg 5회씩 10세트\n해주고 마마 30분 타주고 월요일 끝\n\n-\n\n너무 더운거 아니냐며 이럴땐 피부도 열기로 축 쳐저서 보습🧊\n@naturie.korea \n\n요즘 수분 루틴으로 잘 쓰는 조합💙\n\n하또무기 스킨은 율무추출물 함유 워터 제형이라 끈적임 없이 촉촉하게 흡수되고, 미스트처럼 수시로 뿌려주기 좋고,알코올 프리라 부담 없이 사용 중!\n\n마무리는 하또무기 젤✨ 산뜻한 젤 타입이라 여러 번 덧발라도 밀림 없고, 수면팩이나 바디 보습까지 다양하게 활용하기 좋아서 손이 자주",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -368,7 +374,7 @@
         "likes": 247,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -507,19 +513,25 @@
           "views": null,
           "likes": 247,
           "comments": 0
+        },
+        {
+          "d": "2026-08-15",
+          "views": null,
+          "likes": 247,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 345.0,
-        "n": 12,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "eng_median": 354,
+        "n": 11,
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.05627705627705628,
-        "vs_baseline": 0.7159420289855073,
+        "er": 0.05558055805580558,
+        "vs_baseline": 0.6977401129943502,
         "cost_per_eng": 209.39271255060729,
         "cost_per_view": null
       },
@@ -537,7 +549,7 @@
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
         }
       },
-      "last_written_reaction": "좋아요 247 · 댓글 0 · ER 5.6% · 평소대비 0.7x (D+24)"
+      "last_written_reaction": "좋아요 247 · 댓글 0 · ER 5.6% · 평소대비 0.7x (D+25)"
     },
     {
       "notion_row_id": "39739eba-97ed-8012-b476-fca6fb735976",
@@ -639,9 +651,9 @@
         "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": true,
-      "days_since_post": 41,
+      "days_since_post": 42,
       "computed": {
-        "er": 0.14149008885850992,
+        "er": 0.13973897389738973,
         "vs_baseline": 1.864864864864865,
         "cost_per_eng": 83.28502415458937,
         "cost_per_view": null
@@ -657,7 +669,7 @@
         "final_verdict": "팔로워 4,180명 규모의 계정에서 참여율 14.86%와 평소 대비 1.86배의 반응을 기록한 것은 마이크로 인플루언서 기준으로 매우 우수한 성과다. 참여 1건당 비용 83원, 총 621건의 좋아요·댓글을 감안하면 258,600원의 협찬 가액 대비 비용 효율이 높다고 판단된다. 다이빙·수영처럼 관심사가 뚜렷한 니치 카테고리에서 이 수준의 오가닉 반응은 팔로워 충성도가 높다는 신호이므로, 재협찬 또는 장기 파트너십을 검토할 만한 가치 있는 계정이다.",
         "final_at": "2026-08-04T07:11:20.543194+09:00"
       },
-      "last_written_reaction": "좋아요 490 · 댓글 131 · ER 14.1% · 평소대비 1.9x (확정)"
+      "last_written_reaction": "좋아요 490 · 댓글 131 · ER 14.0% · 평소대비 1.9x (확정)"
     },
     {
       "notion_row_id": "a2d39eba-97ed-82ec-b35f-812326a96de3",
@@ -753,9 +765,9 @@
         "captured_at": "2026-08-02T06:59:26.504379+09:00"
       },
       "frozen": true,
-      "days_since_post": 42,
+      "days_since_post": 43,
       "computed": {
-        "er": 0.08179539758487127,
+        "er": 0.08078307830783078,
         "vs_baseline": 1.078078078078078,
         "cost_per_eng": 144.06685236768803,
         "cost_per_view": null
@@ -771,7 +783,7 @@
         "final_verdict": "팔로워 4,180명 규모의 소형 계정임에도 참여율 8.59%는 인스타그램 평균(1~3%)을 크게 상회하며, 참여 1건당 비용 144원은 인플루언서 마케팅 업계 기준으로 매우 낮은 수준이다. 다만 평소 대비 1.08배라는 수치는 협찬 콘텐츠가 해당 계정의 일반 게시물 수준을 간신히 넘겼을 뿐, 눈에 띄는 바이럴 효과는 없었음을 의미한다. 258,600원의 제품 협찬 비용 대비 절대 도달 규모는 제한적이나 충성도 높은 소규모 팬덤에 다이빙·수중 카테고리 메시지를 효율적으로 전달했다는 점에서 틈새 타깃팅 관점에서는 비용 대비 가치가 있었다고 평가된다.",
         "final_at": "2026-08-03T06:58:43.658866+09:00"
       },
-      "last_written_reaction": "좋아요 229 · 댓글 130 · ER 8.2% · 평소대비 1.1x (확정)"
+      "last_written_reaction": "좋아요 229 · 댓글 130 · ER 8.1% · 평소대비 1.1x (확정)"
     }
   ],
   "flags": {
@@ -781,6 +793,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c8839eba-97ed-8301-b25b-019c1a8af183",
-  "followers": 4389,
+  "followers": 4444,
   "last_written_score": 113
 }

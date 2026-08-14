@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:23:20.000Z",
       "permalink": "https://www.instagram.com/p/Daw1p9VD4EK/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGikuaaLa4eQsdYIcs-LmFLNYUJEQpGuB_4zR4f2Mmms55QRJHYi0ohW5l_mJLqG4Y&_nc_ohc=Tor46Ax1disQ7kNvwEnE0zl&_nc_gid=D6TLks67f7H8OPBw3INmGw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQElDRjnG4z8cJd7ZYppvn-4vmQea6ZjSthcluqmpiMn-g&oe=6A840C1C&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/746761599_18380578597160518_7903092742959908932_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGF_Y4YYpWztPl6bXvqPEzYxC2SZ_Tn33aSbfV9Fca4C2wqngqmfM9X12UcervjO94&_nc_ohc=58oVugZaBMIQ7kNvwE2T2V0&_nc_gid=kk8ZnToDV3JKd9kbgqZrWg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEFV7pG4I19ZpvR4OR0TIf15RAXBrgRhJcQt4L5mOnU0g&oe=6A855D9C&_nc_sid=c6f216",
       "caption": "7월의 여름🩵 @laserin_swim 🩵\n📍야크마을 @yakmaeul.official \n\n동생이랑 보물같은 수영장을 발견해서\n바로 예약하고 신나게 놀다왔수다🩵\n\n@laserin_swim 라세린 수영복 \nCrystal Wave💎크리스탈웨이브\n\nSize 160 60 L착용✨\n\n라세린 하면 가장 먼저 떠오르는 건 역시\n은은하게 반짝이는 시그니처 원단✨\n\n수영복은 몸매를 잘 못 잡아줘서 안 입는 편인데\n크리스탈웨이브는 탄탄하게 잡아주고 컬러감도\n은은한 광택이 너무 예뻤어요.🩵 특히 밤에 더 빛남💎\n\n너무 과하지 않은 반짝임이라\n햇빛 아래",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -181,10 +181,10 @@
         "n": 8,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.0001914660831509847,
+        "er": 0.00019085010087791047,
         "vs_baseline": 0.42424242424242425,
         "cost_per_eng": 4928.571428571428,
         "cost_per_view": null
@@ -201,9 +201,11 @@
           "one_liner": "평소 대비 0.71x 부진한 참여율에 참여 1건당 비용 5,750원으로 효율이 낮아 추가 액션 검토 필요.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "피드 게시물의 좋아요가 집계 불가(-1) 상태이고 댓글 8건에 그쳐, 팔로워 대비 참여율 0.02%는 인플루언서 마케팅 업계 평균(1~3%)에 크게 못 미치는 극히 저조한 수치다. 평소 대비 0.42배 성과는 협찬 게시물임에도 오히려 오가닉 콘텐츠보다 반응이 떨어졌음을 의미하며, 참여 1건당 비용 4,929원은 소규모 팔로워 계정 협찬치고 효율이 낮다. 상품 가액 69,000원 대비 실질적인 브랜드 노출·전환 기여도가 확인되지 않아 비용 대비 가치는 없었던 것으로 판단된다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 8 · ER 0.0% · 평소대비 0.4x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 8 · ER 0.0% · 평소대비 0.4x (확정)"
     },
     {
       "notion_row_id": "18939eba-97ed-8280-9e96-0192bb6ac141",
@@ -214,7 +216,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T13:10:02.000Z",
       "permalink": "https://www.instagram.com/p/DaxkKmjPPM9/",
-      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/747625958_18380625196160518_9041078260740874799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gH3nKwFNAAb0IHrVof5mUi3b6TWtHE-yvQmJsVwK5slnWTHCXTQqKa9GAL9gBrc3W21CUpr4pNQjB5opn7dNic6&_nc_ohc=G-9m_rGVckgQ7kNvwFPysiH&_nc_gid=WGKPYUGQwrVzMI8eopVZyg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFPipKNYdKUxI2ls4M8y8jBlpzwFP7SeHEKHfG5RVMQxw&oe=6A84163B&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyka2-1.fna.fbcdn.net/v/t51.82787-15/747625958_18380625196160518_9041078260740874799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyka2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEP6wkGkw-dKgnEfFHtZvDZgNU2u5U3y5zxH71E_ghgzPnE3q4KEPxb3xbJ_bYzzN-jyXV3bbG_0GnuPNQ3wFzz&_nc_ohc=G-9m_rGVckgQ7kNvwEhS9j-&_nc_gid=dp2TfOaFTej623qC_moqOQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHuQQhmUN0dKd7FDPXWCnTbtO_1eMHk0kF0E6doP8tZEA&oe=6A8567BB&_nc_sid=c6f216",
       "caption": "제주에서 보물 같았던 장소를 발견하고 예약했던 날\n\n📍#야크마을 @yakmaeul.official \n아름다웠던 물 속 예쁜 공간에서 \n더 예쁜 하루를 보내고 싶어 선택한 \n🧜🏻‍♀️라세린 수영복 @laserin_swim \n\n제품명 : 크리스탈 웨이브💎\nSize 160 / 60kg / L 착용✨\n\n평소에는 몸매가 신경 쓰여 수영복을 \n잘 입지 않는 편이라 늘 망설였는데,\n생각보다 신축성이 정말 좋고 착용감도 \n편안해서 부담 없이 입을 수 있었어요.\n\n몸을 탄탄하게 잡아주는 느낌은 물론,\n은은하게 반짝이는 컬러감과 디자인까지 \n예뻐서 ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -365,10 +367,10 @@
         "n": 3,
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 5.4704595185995626e-05,
+        "er": 5.452860025083156e-05,
         "vs_baseline": 0.33715033535089156,
         "cost_per_eng": 17250.0,
         "cost_per_view": 16.739446870451236
@@ -385,9 +387,11 @@
           "one_liner": "평소 대비 0.31x 저조한 도달에 참여 1건당 비용 17,250원으로 협찬 효율이 극히 낮아 추가 조치가 필요한 상황.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "조회수 2,061회, 팔로워 대비 참여율 0.01%로 평소 게시물 대비 0.34배 수준에 불과해 협찬 게시물이 오히려 유기적 도달보다 저조한 성과를 기록했다. 조회 1회당 비용 16.7원, 참여 1건당 비용 17,250원은 극히 낮은 콘텐츠 반응률을 감안하면 실질적인 브랜드 노출 효율이 매우 낮은 수준이다. 상품 가액 69,000원 기준으로도 도달·참여 지표 모두 기대치를 크게 밑돌아 비용 대비 가치가 없었던 협찬으로 판단된다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "조회 2,061 · 좋아요 -1 · 댓글 3 · ER 0.0% · 평소대비 0.3x (D+30)"
+      "last_written_reaction": "조회 2,061 · 좋아요 -1 · 댓글 3 · ER 0.0% · 평소대비 0.3x (확정)"
     }
   ],
   "flags": {
@@ -397,6 +401,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d7339eba-97ed-833f-954f-81a037b9867b",
-  "followers": 36560,
+  "followers": 36678,
   "last_written_score": 38
 }

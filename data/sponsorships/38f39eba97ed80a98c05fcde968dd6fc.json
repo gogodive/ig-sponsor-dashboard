@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T04:27:55.000Z",
       "permalink": "https://www.instagram.com/p/DbCp6r3TM0q/",
-      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-15/751833213_17896755813546772_1965762897328828800_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH-DjvRb1xTJ0WgiH1LdMfwZlB_xYk_mEJZImumeagV78oNJx2gWduH5t1mCo9pn6I&_nc_ohc=NeW-_OgdaBsQ7kNvwG6mwzK&_nc_gid=G6IV7uY6ri4VLOLq9_8hjQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF38ZuuNfcfXsv1Xmj3HpbhVyLXXX8zuUo3t5hv7OVH2Q&oe=6A841A64&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fhnd2-1.fna.fbcdn.net/v/t51.82787-15/751833213_17896755813546772_1965762897328828800_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fhnd2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFyri6bdAivYu4EVpH7Twk4nxRYr_Erxusx1IwyzKv7Ye-fg-jcR6uRXaM0_4KXeZOVuuaY00GfXI5s6pQ8wx_H&_nc_ohc=NeW-_OgdaBsQ7kNvwFg1INH&_nc_gid=RyH8bV3-i6IJQ8fD4AX6tQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEVhl4bioU9NQ03Ayl4YYGYcb2Fc1ho_DKWTYr6lPTXyQ&oe=6A856BE4&_nc_sid=c6f216",
       "caption": "라운드숄더 확 잡아주는 등 운동!\n인버티드 로우💖\n\n1️⃣ 바를 허리~ 골반 넢이 정도에 맞춰 고정해 주세요\n \n2️⃣바는 어깨너비 보다 약간 넓게 잡아주세요!\n\n3️⃣ 바 아래로 들어가 머리부터 발뒤꿈치까지 일직선을 만듭니다!\n\n✔️ 복부와 엉덩이에 힘을 주어 허리가 꺾이지 않게 주의!\n✔️발끝은 하늘을 향하게 고정!\n \n4️⃣ 가슴을 바 쪽으로 끌어 당깁니다!\n올라갔을 때 날개뼈를 모아 1초 정도 수축합니다\n\n5️⃣내려올 때는 힘을 빼지말고 천천히 내려와 주세요!\n\n굽은 어깨를 펴고 날개뼈를 안정적으로 사용하는 데 도움이 되는 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hellzzzzang",
       "metrics": {
-        "views": 25475,
+        "views": 25935,
         "likes": 317,
         "comments": 77
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -162,15 +162,21 @@
           "views": 25475,
           "likes": 317,
           "comments": 77
+        },
+        {
+          "d": "2026-08-15",
+          "views": 25935,
+          "likes": 317,
+          "comments": 77
         }
       ],
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.04142571759015876,
+        "er": 0.03730354099602348,
         "vs_baseline": null,
         "cost_per_eng": 65.03807106598985,
-        "cost_per_view": 1.0058881256133465
+        "cost_per_view": 0.9880470406786196
       },
       "analysis": {
         "one_liner": "D+1 기준 팔로워 대비 참여율 4.91%로 양호하며, 조회당 5.7원·참여당 317원은 소규모 계정 협찬 대비 효율적인 초기 성과.",
@@ -186,7 +192,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 25,475 · 좋아요 317 · 댓글 77 · ER 4.1% (D+23)"
+      "last_written_reaction": "조회 25,935 · 좋아요 317 · 댓글 77 · ER 3.7% (D+24)"
     },
     {
       "notion_row_id": "39739eba-97ed-802c-894a-cf22808926e2",
@@ -295,9 +301,9 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
-        "er": 0.10892650615077279,
+        "er": 0.09808748343116834,
         "vs_baseline": null,
         "cost_per_eng": 24.734555984555985,
         "cost_per_view": 0.2070556484780905
@@ -313,7 +319,7 @@
         "final_verdict": "팔로워 9,511명 규모의 계정에서 조회수 123,759회를 기록해 팔로워 대비 약 13배의 조회 확산을 달성했으며, 참여율 10.89%는 소규모 인플루언서 평균(3~6%)을 크게 웃도는 우수한 수치다. 조회 1회당 비용 0.2원, 참여 1건당 비용 25원은 인플루언서 마케팅 업계 기준으로 매우 효율적인 수준으로, 상품 가액 102,500원 대비 노출·참여 모두 압도적인 가성비를 보였다. 다이빙·수영 브랜드 특성상 틈새 타깃 도달이 중요한데, 높은 유기적 확산 지표를 고려할 때 이번 협찬은 비용 대비 충분한 가치가 있었다고 평가된다.",
         "final_at": "2026-08-07T10:01:11.565831+09:00"
       },
-      "last_written_reaction": "조회 123,759 · 좋아요 953 · 댓글 83 · ER 10.9% (확정)"
+      "last_written_reaction": "조회 123,759 · 좋아요 953 · 댓글 83 · ER 9.8% (확정)"
     },
     {
       "notion_row_id": "39739eba-97ed-80ca-b193-f337c8e9d5d1",
@@ -403,9 +409,9 @@
         "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": true,
-      "days_since_post": 43,
+      "days_since_post": 44,
       "computed": {
-        "er": 0.047629061087162236,
+        "er": 0.0428896042416209,
         "vs_baseline": 1.6532846715328466,
         "cost_per_eng": 56.567328918322296,
         "cost_per_view": null
@@ -421,7 +427,7 @@
         "final_verdict": "팔로워 대비 참여율 6.09%는 마이크로 인플루언서 평균(3~5%)을 상회하며, 평소 게시물 대비 1.65배 높은 반응은 협찬 콘텐츠임에도 팔로워 거부감이 낮았음을 시사한다. 참여 1건당 비용 57원, 총 453건의 좋아요+댓글은 10만 원 초반 상품 가액 대비 효율적인 수치로, 소규모 다이빙·수중 관심 타깃층에 밀도 높게 도달했다고 평가된다. 다만 피드 게시물 특성상 조회수 데이터가 없어 노출 범위 추정에 한계가 있으므로, 향후 릴스 포맷 병행을 권장한다.",
         "final_at": "2026-08-02T06:59:26.504379+09:00"
       },
-      "last_written_reaction": "좋아요 353 · 댓글 100 · ER 4.8% · 평소대비 1.7x (확정)"
+      "last_written_reaction": "좋아요 353 · 댓글 100 · ER 4.3% · 평소대비 1.7x (확정)"
     },
     {
       "notion_row_id": "86b39eba-97ed-82ac-90b3-8189113beab7",
@@ -547,9 +553,9 @@
         "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
       "frozen": true,
-      "days_since_post": 37,
+      "days_since_post": 38,
       "computed": {
-        "er": 0.04268741457260015,
+        "er": 0.03843968945275516,
         "vs_baseline": 1.3624161073825503,
         "cost_per_eng": 63.11576354679803,
         "cost_per_view": null
@@ -565,7 +571,7 @@
         "final_verdict": "팔로워 9,511명 규모 계정에서 참여율 4.27%는 인스타그램 평균(1~3%)을 상회하며, 평소 게시물 대비 1.36배의 반응을 이끌어낸 점은 팔로워층의 실질적 관심도가 높음을 시사한다. 참여 1건당 비용 63원, 총 협찬 가액 102,500원 대비 좋아요+댓글 406건의 반응은 소규모 계정 기준으로 효율적인 결과다. 다만 피드 게시물 특성상 노출 수(조회수) 데이터가 없어 도달 범위를 정량화할 수 없다는 한계가 있으나, 참여 지표만으로는 비용 대비 가치 있는 협찬으로 평가된다.",
         "final_at": "2026-08-08T06:42:07.580840+09:00"
       },
-      "last_written_reaction": "좋아요 325 · 댓글 81 · ER 4.3% · 평소대비 1.4x (확정)"
+      "last_written_reaction": "좋아요 325 · 댓글 81 · ER 3.8% · 평소대비 1.4x (확정)"
     }
   ],
   "flags": {
@@ -575,6 +581,6 @@
     "account_unavailable": false
   },
   "child_db_id": "3ef39eba-97ed-8274-83ea-0136973ba4ac",
-  "followers": 9511,
+  "followers": 10562,
   "last_written_score": 151
 }

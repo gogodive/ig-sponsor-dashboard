@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T12:07:32.000Z",
       "permalink": "https://www.instagram.com/p/DaxdC6fj294/",
-      "thumbnail": "https://instagram.fman1-2.fna.fbcdn.net/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fman1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gH6MDYKeO7pYgNbGBrrj-f0HGA8AfDIUSnhsXgq8mW_Enf1AAtXvL9wCz-Q_ur_fTA&_nc_ohc=YvzmDbEyP6QQ7kNvwFplSgB&_nc_gid=OLhW46ZLkVR9aUf1iGVJhw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEa_dkWSJMS5RA9mBYkBXlvXrtVFGXyv-wl87SC_bg-qQ&oe=6A840677&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fyyc3-1.fna.fbcdn.net/v/t51.82787-15/745045899_18197453905371469_5040567513465621892_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fyyc3-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEHRoycwtqc2GKOtilUZXxGjLjhGhH8NP6aU93z9ovSxRRxLCVrIrsVq8KQYFLlyBGo_HFXFeF8UhJNPoLa8Jjw&_nc_ohc=YvzmDbEyP6QQ7kNvwEcq2Kn&_nc_gid=eTp4z7ZWZ8_1dArIZzxk3A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGmeIbzl1Wl2FcwOAx58OP59QhPACufzE3OZpGnu0wBYg&oe=6A8557F7&_nc_sid=c6f216",
       "caption": "글리터 맛집 라세린입어봤어요✨\n이름부터 윤슬 선셋인데 \n이렇게 이름을 잘 표현한 수영복은 처음이에요,,\n\n레몬 오렌지 핑크 조합으로 따듯한 느낌 가득\n실내,실외 상관없이 반짝반짝 눈부셔요✨\n날씬해보이는 펄이라 너무 맘에 들어요🥹👍\n\n지금 여름 할인기간 최대 50%🤍\n얼른 구경해보세요\n\n✔️사이즈 추천\n171/ 55 / S사이즈 착용\n신축성 좋고, 가슴 넓이가 좁은편이라 사이즈 참고하셔 \n구매해야할것 같아요\n비슷한 스펙이신분들 S-M추천합니다\n\n✔️ 착용제품\n윤슬 선셋 에이백\n\n#제품제공 #라세린 #라세린수영복 #윤슬선셋 #수영코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -181,10 +181,10 @@
         "n": 11,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.07407407407407407,
+        "er": 0.07369758576874205,
         "vs_baseline": 0.8169014084507042,
         "cost_per_eng": 1362.0689655172414,
         "cost_per_view": null
@@ -201,9 +201,11 @@
           "one_liner": "평소 대비 0.88x로 소폭 하회하나, 팔로워 대비 참여율 6.86%·참여당 1,519원은 소규모 계정 특성상 양호한 수준.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "팔로워 787명 소규모 계정임에도 참여율 7.37%는 마이크로 인플루언서 평균(3~5%)을 상회하며, 참여 1건당 비용 1,362원은 79,000원 상품가 기준으로 준수한 효율을 보인다. 다만 평소 대비 성과가 0.82배로 기준선을 하회해 협찬 콘텐츠가 팔로워의 평소 반응을 이끌어내지 못했고, 피드 게시물 특성상 조회수 추적이 불가해 노출 도달 규모를 검증할 수 없다는 점은 한계다. 절대 참여 수(58건)와 계정 규모를 감안하면 브랜드 인지보다 충성 팬덤 침투 목적으로는 소폭 유효하나, 재협찬 시 평소 성과를 회복할 콘텐츠 방향성 조율이 선행되어야 한다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "좋아요 54 · 댓글 4 · ER 7.4% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 54 · 댓글 4 · ER 7.4% · 평소대비 0.8x (확정)"
     }
   ],
   "flags": {
@@ -213,6 +215,6 @@
     "account_unavailable": false
   },
   "child_db_id": "df039eba-97ed-83d4-bbbf-01857f35d728",
-  "followers": 783,
+  "followers": 787,
   "last_written_score": 82
 }

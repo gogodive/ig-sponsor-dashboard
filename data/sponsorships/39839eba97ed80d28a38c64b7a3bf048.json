@@ -25,17 +25,17 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-30T03:22:02.000Z",
       "permalink": "https://www.instagram.com/p/DbZtkIupXJX/",
-      "thumbnail": "https://instagram.ficn3-3.fna.fbcdn.net/v/t51.82787-15/761703375_17961770022140236_2992897210141758458_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ficn3-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gF-DZkyTsp-7I_81cnEBhUKWMCBmBAp8V2eJWBinaumoShCwAImozRCk2eHKUAkLQk&_nc_ohc=fV34vy6xHQMQ7kNvwGdNm5J&_nc_gid=Dn6NX1G87dOgFkbFv2gY5w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHldIZkT0_ThxIHY6gyKilAVuS4Mjjjn5pjyCnylLNS_Q&oe=6A842108&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/761703375_17961770022140236_2992897210141758458_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGOugMPhxuX1oFKxr9MRUmjFmS2WQue-MHITZ0xkIXmKIOmvbPYjcUNeNKSiJxCP2g&_nc_ohc=fV34vy6xHQMQ7kNvwFfvif0&_nc_gid=3wwrFBqXqyQ0V4u7pnrH5A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQExzzqc7u-4MzxfmOyQWVqk71MpMu5gkfWQ3jrblL_j1g&oe=6A857288&_nc_sid=c6f216",
       "caption": "제품제공) 난 래쉬가드 말고 이거 -! 🤍\n\n@intotheblue_store \n✷ 딥바이브 트루화이트 스프링 슈트 2mm\n\n슈트 하나 있으면 얼마나 유용한지 .. 😖\n프리다이빙은 물론 바다 수영까지,\n활용도 높은 인투더블루 스프링 슈트예요 ✨\n\n2mm 두께에 집업 타입이라 입고 벗기도 정말 편하고,\n체형별로 사이즈도 다양하게 준비되어 있어\n내 몸에 맞는 핏을 찾기 좋았어요 💓\n\n✷ 171 / 59 / 151 · M size 착용\n\n따뜻한데 예쁘기까지 하면 끝 아닌가요? 🫶🏻\n스프링 슈트는 딥바이브 하세요 -! 🤍\n\n#인투더블루 #",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swim.__.hey",
       "metrics": {
-        "views": 16368,
-        "likes": 230,
+        "views": 17315,
+        "likes": 237,
         "comments": 22
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -78,21 +78,27 @@
           "views": 16368,
           "likes": 230,
           "comments": 22
+        },
+        {
+          "d": "2026-08-15",
+          "views": 17315,
+          "likes": 237,
+          "comments": 22
         }
       ],
       "baseline": {
         "views_median": 111564.5,
         "eng_median": 1985.0,
         "n": 4,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
-        "er": 0.010741230126593069,
-        "vs_baseline": 0.14671333623150734,
-        "cost_per_eng": 376.984126984127,
-        "cost_per_view": 5.804007820136852
+        "er": 0.011039597630109544,
+        "vs_baseline": 0.15520169946533172,
+        "cost_per_eng": 366.7953667953668,
+        "cost_per_view": 5.486572336124747
       },
       "analysis": {
         "d3": {
@@ -106,7 +112,7 @@
           "analyzed_at": "2026-08-14T06:50:43.027547+09:00"
         }
       },
-      "last_written_reaction": "조회 16,368 · 좋아요 230 · 댓글 22 · ER 1.1% · 평소대비 0.1x (D+14)"
+      "last_written_reaction": "조회 17,315 · 좋아요 237 · 댓글 22 · ER 1.1% · 평소대비 0.2x (D+15)"
     },
     {
       "notion_row_id": "54a39eba-97ed-82e6-b70d-81d2a8f16a47",
@@ -116,25 +122,25 @@
       "upload_date_notion": "2026-07-21",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.02843016069221261,
-        "vs_baseline": 1.0646448523543495,
-        "cost_per_eng": 142.4287856071964,
+        "er": 0.02847278462128639,
+        "vs_baseline": 1.066241021548284,
+        "cost_per_eng": 142.21556886227546,
         "cost_per_view": null
       },
       "posted_at": "2026-07-21T02:44:17.000Z",
       "permalink": "https://www.instagram.com/p/DbCeJqAGFig/",
-      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NTg0NjEyNDI0MDg1ODg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dHX5ZA4df-cQ7kNvwFDC1UE&_nc_oc=AdoqafHZd4EKAVZfscyA5pleu1tsaiyENz26O2bu11hr44RK3GkxvfuILabNRs6VCy0f9_D3TnZGaiYHvwzp3uH7&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=_HAJnUwj9GY0btSYAOyp7Q&_nc_ss=7c689&oh=00_AQFU5X07hK4DIMNlu9Q6nZ__5PHXCX64EzCv1XmgIAnqsQ&oe=6A83F8B6",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/751798876_17960371359140236_2448043161534095472_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFd8xjjMOnazsNPl9TzFRxubejlMoIXY_FObCyky7PwXJGWitP_FBRCjlmAOfUGCVw&_nc_ohc=jpvZofgo4psQ7kNvwHJsaGq&_nc_gid=V42crtBKMwkzEwTOKO9qTw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHF9eEC_DqzhIIspbfPJ5NgF7SmmAWXWYrpMns_BHXdmQ&oe=6A858276&_nc_sid=c6f216",
       "caption": "바다수영 추천템 모음zip. 🌊😎⛱️🍉🏊🏻‍♀️\n\n@intotheblue_store \n✷ 딥바이브 프리다이빙 웻슈트 스프링 2mm\n\n슈트 = 살 안 타, 안 추워 아이템 •• 🫶🏻\n\n래쉬가드 말고 스프링슈트 !\n\n래쉬가드는 물에 젖으면 찝찝하고 금방 추워지는데,\n스프링슈트는 몸에 착 감기면서 뽀송하고 훨씬 따뜻해요 💓\n\n여름에도 바닷물은 차가와 ❄️❄️❄️\n\n2mm 두께라 사계절 내내 부담 없이 입기 좋고,\n바다수영은 물론 한강수영, 프리다이빙, 스노클링까지 은근 활용도가 정말 높아요 👀\n\n(매번 대여하는 것 보다 하나 장만해두는게",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swim.__.hey",
       "metrics": {
-        "likes": 617,
+        "likes": 618,
         "comments": 50
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -261,13 +267,19 @@
           "views": null,
           "likes": 617,
           "comments": 50
+        },
+        {
+          "d": "2026-08-15",
+          "views": null,
+          "likes": 618,
+          "comments": 50
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 626.5,
         "n": 12,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "analysis": {
         "d3": {
@@ -281,7 +293,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "좋아요 617 · 댓글 50 · ER 2.8% · 평소대비 1.1x (D+23)"
+      "last_written_reaction": "좋아요 618 · 댓글 50 · ER 2.8% · 평소대비 1.1x (D+24)"
     }
   ],
   "flags": {

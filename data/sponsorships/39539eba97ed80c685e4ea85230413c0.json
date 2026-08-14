@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T01:41:03.000Z",
       "permalink": "https://www.instagram.com/p/DawU9JPpiNn/",
-      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/733630073_793542780448094_8526632701122506501_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHrbPDc_f_gWT0avQ3qKCfB46vV9F9exWGKN4QlXoE-G-J7sd4FhSUvtSw8QNjx-U7awkpg5DtRn_p2mqlJeJQs&_nc_ohc=WI2Sz7G4-NYQ7kNvwFhm_og&_nc_gid=pRri3NGpxBD73WmKdPLQ1Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEQHyl8u4cYkwFEO6nImqiOY7F_2mLwa5AyIPNVPkYPFw&oe=6A842292&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.71878-15/733630073_793542780448094_8526632701122506501_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFW828R0AHhkBy5SLsumG3LV2TEbM330GbgPUaHAzUTGOHzMeVMnSpg_xWW98Ky70Y&_nc_ohc=WI2Sz7G4-NYQ7kNvwEGlMLw&_nc_gid=mHvHfXgRgRttoeacdbJwbQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHzUifqh_wIRsFuiYAneZzlyS8aQOkU1mG-g1wBXteJyw&oe=6A857412&_nc_sid=c6f216",
       "caption": "#제품제공 LASERIN ✨\n#라세린 #수영복 샤이닝웨이브🌊\n@laserin_swim \n\n사진에 다 안담기는 영롱함✨\n물 속에선 더 더 예쁘다구요🥹\n휴가 바다로 가신다면,, 무조건 이거에요\n예쁜데 편한 착용감까지,,🩵\n\n🧜‍♀️ 154cm 48kg XS착용\n\n🤿 @usepool_official \n📷 @insta360kr \n📍 #제주도 #월령포구",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -182,10 +182,10 @@
         "n": 12,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.07436182019977802,
+        "er": 0.0703781512605042,
         "vs_baseline": 0.12885272167643463,
         "cost_per_eng": 477.6119402985075,
         "cost_per_view": 20.94240837696335
@@ -202,9 +202,11 @@
           "one_liner": "평소 대비 0.84x로 소폭 아래지만 참여율 8.63%·참여당 485원은 소규모 계정 기준 양호한 비용 효율.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 7.04%는 소규모 계정 기준으로 양호한 수치이나, 조회수가 평소 대비 0.13배에 그쳐 이 게시물이 계정 내에서도 이례적으로 낮은 도달을 기록했다는 점이 치명적이다. 조회 1회당 비용 20.9원, 참여 1건당 비용 478원은 절대 수치로는 저렴해 보이지만 실제 노출 모수(1,528뷰)가 너무 작아 브랜드 인지 확산 효과는 사실상 미미하다. 상품 가액 64,000원 투입 대비 확보한 도달·참여 규모를 고려하면 비용 효율성이 낮은 협찬으로 판단되며, 향후 동일 계정 재협찬 시에는 게시 시점·콘텐츠 포맷 개선 또는 협찬 단가 재협상이 필요하다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "조회 1,528 · 좋아요 45 · 댓글 22 · ER 7.4% · 평소대비 0.1x (D+30)"
+      "last_written_reaction": "조회 1,528 · 좋아요 45 · 댓글 22 · ER 7.0% · 평소대비 0.1x (확정)"
     },
     {
       "notion_row_id": "32f39eba-97ed-828e-8b55-81c6b32824ca",
@@ -354,9 +356,9 @@
         "captured_at": "2026-08-11T06:45:30.657122+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
-        "er": 0.10543840177580466,
+        "er": 0.09978991596638656,
         "vs_baseline": 2.317073170731707,
         "cost_per_eng": 336.8421052631579,
         "cost_per_view": null
@@ -377,7 +379,7 @@
         "final_verdict": "팔로워 901명의 소규모 계정임에도 좋아요+댓글 합산 95건, 팔로워 대비 참여율 10.54%는 인스타그램 평균(1~3%)을 크게 웃도는 우수한 수치이며, 평소 게시물 대비 2.32배의 반응을 이끌어낸 점도 협찬 콘텐츠로서의 전달력을 입증한다. 참여 1건당 비용 337원, 총 협찬 가액 64,000원 기준으로 보면 다이빙·수영이라는 니치 타깃에 정확히 닿은 고효율 집행으로 평가할 수 있다. 팔로워 규모가 작아 절대적 노출 볼륨은 제한적이지만, 충성도 높은 팔로워층 덕분에 비용 대비 가치는 충분히 긍정적이다.",
         "final_at": "2026-08-12T06:52:47.460628+09:00"
       },
-      "last_written_reaction": "좋아요 75 · 댓글 20 · ER 10.5% · 평소대비 2.3x (확정)"
+      "last_written_reaction": "좋아요 75 · 댓글 20 · ER 10.0% · 평소대비 2.3x (확정)"
     }
   ],
   "flags": {
@@ -387,6 +389,6 @@
     "account_unavailable": false
   },
   "child_db_id": "63339eba-97ed-837e-9ae2-811b2eab27bc",
-  "followers": 901,
+  "followers": 952,
   "last_written_score": 122
 }

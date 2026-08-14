@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T06:32:01.000Z",
       "permalink": "https://www.instagram.com/p/Daw2peVD2ou/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFMO2GT_1lLRPX83ulYHa5cMRwFejxVhfzGQulQYkPI2bAlSkanc04RCyf44vnyV6bH6nd5XRy0rPiKaz1iQIe3&_nc_ohc=d9EyQZXg1lQQ7kNvwHVx_d3&_nc_gid=ymQ_F4RYAu2Da27BsGkqUA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG88nynpxyu-ZLvKUVAR5QhbG-7AloZBhhr_N6kMSn0VQ&oe=6A83F672&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/746853067_18610865683052320_974104591236496339_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gElIuoHXSVWwcicyOUK6TnRs1F-QFkpEtPKJ5-aLaoNOhszLJaQ2hWrALFW0uO0enw&_nc_ohc=d9EyQZXg1lQQ7kNvwHPlFDB&_nc_gid=l8acO11Q7_NB2vxAA4mTIA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF7Mnaoyxgu3F_rVAACgWvYF_cgl6gB9CS4BaAd6kmfuQ&oe=6A8547F2&_nc_sid=c6f216",
       "caption": "개운하게 등 운완 ✌🏽\n헬스장 너무 시원한데 땀이 왤케 나 \n\n@secrets__fit \n코르셋 브라탑 / 화이트•M\nV컷 레깅스 3.5부 / 네이비•L\n\n#협찬 #광고 #운동복브랜드 #짐웨어브랜드",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -181,10 +181,10 @@
         "n": 11,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.0005346164127238706,
+        "er": 0.0005414429454496233,
         "vs_baseline": 0.7058823529411765,
         "cost_per_eng": 12666.666666666666,
         "cost_per_view": null
@@ -201,9 +201,11 @@
           "one_liner": "평소 대비 0.92x로 소폭 하회하며 참여 1건당 비용 13,818원은 팔로워 규모 감안 시 효율 개선이 필요한 수준.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "팔로워 22,163명 규모 계정에서 확정 참여율 0.05%(좋아요 집계 오류·댓글 13건)는 업계 통상 기준인 1~3%에 크게 못 미치며, 평소 게시물 대비 71% 수준으로 협찬 콘텐츠가 오히려 평균 이하 반응을 받았다. 참여 1건당 비용 12,667원은 동일 규모 인플루언서 협찬 효율로는 매우 높은 편으로, 152,000원 상품 가액 대비 인지도·트래픽 측면에서 실질적 환수가 어려운 수준이다. 비용·성과 양면에서 이번 협찬의 효율은 낮았으며, 재협찬 시에는 릴스 포맷 전환 및 콘텐츠 가이드 강화를 조건으로 검토할 필요가 있다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 0.7x (확정)"
     }
   ],
   "flags": {
@@ -213,6 +215,6 @@
     "account_unavailable": false
   },
   "child_db_id": "46e39eba-97ed-82a2-8a63-81b53b702742",
-  "followers": 22446,
+  "followers": 22163,
   "last_written_score": 71
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-14T18:55:25.000Z",
       "permalink": "https://www.instagram.com/p/DayLhubTSOQ/",
-      "thumbnail": "https://instagram.flhr11-1.fna.fbcdn.net/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.flhr11-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH4R3_-DbiBkzmajRrSQGkMuja--4YiVnhlwrTyUgwcUQzErcB3GhCJDG2SKGFdTaQ&_nc_ohc=iBB1fOlnZBYQ7kNvwEcsLA-&_nc_gid=oUrHEYMPvEYfidSQQg8XZw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGlLwzLnMpiZKGC1vuKfO1xhU6E1P_KdA7HVp_dAoJzfg&oe=6A84155E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/746041503_18029999579831985_5754917783777665778_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF0UBp0n8O6BzLKb_m9FYfWHrRdzpX4v4hG8OMoEmSymW7cnf7TggPmz9piLUBLoKZFAQnEP1xv8C46jXlrgXPN&_nc_ohc=9GhnDEteBsoQ7kNvwHuCgaM&_nc_gid=u9J8Ql7oY_k15Byd27GgjA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFx6TxWWnGd3GZGreosYF-csIbt8InFXoLyvtnOt5gfFg&oe=6A8566DE&_nc_sid=c6f216",
       "caption": "웨이브파크 🌊🏄‍♀️\n 수심 5미터 예쁜 야외풀장 \n찌져 ~ 야~호 ~~~~🩷\n.\n\n154/ 43~44 / xs \n🩱 Laserin \n  글리트 아이스 모카\n@laserin_swim\n\n.\n🎥 @diver.grim",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -182,10 +182,10 @@
         "n": 10,
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.107981220657277,
+        "er": 0.10859301227573183,
         "vs_baseline": 1.977295162882527,
         "cost_per_eng": 686.9565217391304,
         "cost_per_view": 39.44083874188717
@@ -202,9 +202,11 @@
           "one_liner": "평소 대비 2.15배 조회·참여율 10.55%로 소규모 계정 치고 우수하나, 팔로워 1,062명 기준 절대 도달은 제한적—7.9만원 협찬 대비 참여 1건 705원은 양호한 편.",
           "days": 14,
           "analyzed_at": "2026-07-29T07:07:49.880116+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1,059명의 소규모 계정임에도 조회 2,003회·참여율 10.86%를 기록했으며, 평소 게시물 대비 1.98배의 반응을 이끌어내 해당 계정 내에서 협찬 콘텐츠가 뚜렷한 주목을 받았다. 참여 1건당 687원·조회 1회당 39.4원은 나노 인플루언서 기준으로 준수한 효율이며, 79,000원의 상품 가액을 고려하면 비용 대비 도달·참여 측면에서 충분히 납득 가능한 성과다. 다만 절대적 도달 규모가 작아 브랜드 인지 확산보다는 소규모 충성 팬층 내 신뢰도 제고에 적합한 협찬으로 평가된다.",
+        "final_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "last_written_reaction": "조회 2,003 · 좋아요 95 · 댓글 20 · ER 10.8% · 평소대비 2.0x (D+30)"
+      "last_written_reaction": "조회 2,003 · 좋아요 95 · 댓글 20 · ER 10.9% · 평소대비 2.0x (확정)"
     }
   ],
   "flags": {
@@ -214,6 +216,6 @@
     "account_unavailable": false
   },
   "child_db_id": "44139eba-97ed-8393-bdd2-01a39a27d7a9",
-  "followers": 1065,
+  "followers": 1059,
   "last_written_score": 198
 }

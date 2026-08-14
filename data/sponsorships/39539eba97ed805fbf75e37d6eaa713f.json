@@ -24,26 +24,26 @@
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-23",
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.012218649517684888,
-        "vs_baseline": 0.8330120904152795,
+        "vs_baseline": 0.8340634308743649,
         "cost_per_eng": 336.8421052631579,
-        "cost_per_view": 13.462347496844762
+        "cost_per_view": 13.445378151260504
       },
       "posted_at": "2026-07-16T03:00:56.000Z",
       "permalink": "https://www.instagram.com/p/Da1nbBuBxJS/",
-      "thumbnail": "https://instagram.ftij3-1.fna.fbcdn.net/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftij3-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFCaEdq4cg7PZwlA81h9NG7tdpIof9Zlqwj8dF_Q-dFsPRevYyzuLUYEE7o_NhjMjTCpp-UWAwj-HxqQE9DKaPi&_nc_ohc=Xbg6dcYBJhwQ7kNvwECHrti&_nc_gid=02r566o1k_Xq6JMOYOqXIQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHNIhH_95d6SB1rDfszPEeBeIh0YuTZkPaPFAt3J25Hig&oe=6A840EAD&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.faus1-1.fna.fbcdn.net/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.faus1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFgjiuT0h-LzJb2ouSry34hHybER2C21nv1cgOSjv4SgAll-W9weq7F3lnLhOrCGlGfDW-g6YPr0uhzb4DvU6A1&_nc_ohc=Xbg6dcYBJhwQ7kNvwFM7JKr&_nc_gid=5F3u8qJe4bGVSyFOYKA9zQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQG_VzylEe73BmfFUOrWMtPArT6PrwsciJa6HzKF-u7PnA&oe=6A85602D&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n물 속에서도 시크하고 우아한 수영복\n라세린 스태리블랙🖤🤍✨️\n한창 컬러풀한 걸로 입다가\n요즘 시크하게 블랙이 땡기는데 \n딱 그 마음을 충족시킬 수 있는 수영복이예요\n\n수영복 @laserin_swim \n마스크 @usepool_official \n수모 @areyou.readytokick \n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩°｡⋆",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "freeee_kay_sub",
       "metrics": {
-        "views": 2377,
+        "views": 2380,
         "likes": 71,
         "comments": 24
       },
-      "metrics_updated_at": "2026-08-14T06:50:43.027547+09:00",
+      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -170,6 +170,12 @@
           "views": 2377,
           "likes": 71,
           "comments": 24
+        },
+        {
+          "d": "2026-08-15",
+          "views": 2380,
+          "likes": 71,
+          "comments": 24
         }
       ],
       "analysis": {
@@ -184,12 +190,12 @@
           "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
         }
       },
-      "last_written_reaction": "조회 2,377 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (D+28)",
+      "last_written_reaction": "조회 2,380 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (D+29)",
       "baseline": {
         "views_median": 2853.5,
         "eng_median": 105.5,
         "n": 4,
-        "captured_at": "2026-08-14T06:50:43.027547+09:00"
+        "captured_at": "2026-08-15T06:28:26.204907+09:00"
       }
     },
     {
@@ -200,7 +206,7 @@
       "upload_date_notion": "2026-07-12",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.023794212218649517,
         "vs_baseline": 1.2542372881355932,
