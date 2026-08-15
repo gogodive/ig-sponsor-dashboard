@@ -24,7 +24,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.005386958203950436,
         "vs_baseline": 2.0763509629203796,
@@ -202,7 +202,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.007063562138513279,
         "vs_baseline": 29.666666666666668,
@@ -211,7 +211,7 @@
       },
       "posted_at": "2026-07-18T03:10:08.000Z",
       "permalink": "https://www.instagram.com/p/Da6yuavkq0b/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHsZxojnwJLLr7qUURUXx07I4L9VviWZKu4beEGlNrY2u2XzO2ye6eBxsP8ZgS8AtTKITNeV-DiYiHISJiqM47m&_nc_ohc=_RfWXNV4FB4Q7kNvwFANN08&_nc_gid=eLtfBLpncia5ltbBoyXBEg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGvCYmm9xtVH9Z1JF6ABjgs0oLSNLuiFdoruwXShnmJvg&oe=6A8574A6&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGnLdAjJMOFlKKd-jPo2A48xD-up4PuTGEeSxFvslWTdXd7vdPVxwUGxXfG-V2j_ow&_nc_ohc=_RfWXNV4FB4Q7kNvwFKewkC&_nc_gid=qrszHYaiV8d344TlMnHBwg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFL1o5JmQotXxpouao7THEzlqqh-RKOcgSK0dZVPnMRjw&oe=6A86C626&_nc_sid=c6f216",
       "caption": ".코우리대교를 지나 코우리섬에 들어가면\n코우리지마비치가 있거든요.\n다음엔 여기에 몇일 머물러보고싶어요.\n여기는 사람들도 너무 친절해요. \n다정한 웃음이 오래 기억에 남을 거에요. \n\n#수영복  @laserin_swim \n\n#코우리해변#오키나와여행#라세린수영복#수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -220,7 +220,7 @@
         "likes": 683,
         "comments": 29
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -353,13 +353,19 @@
           "views": null,
           "likes": 683,
           "comments": 29
+        },
+        {
+          "d": "2026-08-16",
+          "views": null,
+          "likes": 683,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 24,
         "n": 9,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "analysis": {
         "d3": {
@@ -373,7 +379,7 @@
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "좋아요 683 · 댓글 29 · ER 0.7% · 평소대비 29.7x (D+27)"
+      "last_written_reaction": "좋아요 683 · 댓글 29 · ER 0.7% · 평소대비 29.7x (D+28)"
     },
     {
       "notion_row_id": "3a739eba-97ed-80d6-82bd-e811933970de",
@@ -383,7 +389,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.008392940406154823,
         "vs_baseline": 35.25,
@@ -392,7 +398,7 @@
       },
       "posted_at": "2026-07-17T02:33:57.000Z",
       "permalink": "https://www.instagram.com/p/Da4JyeOEq2e/",
-      "thumbnail": "https://instagram.fgig17-1.fna.fbcdn.net/v/t51.82787-15/749329845_18622095298003531_4817756364574041550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fgig17-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFozGjtIsnnBytk-7e8kTKBw-6ZyCnwSnb-BlKr7q68kao2x2QnzKvkhC5PF5YcAAc&_nc_ohc=Pki7n2mOJMwQ7kNvwHOfbM4&_nc_gid=fkYZEYj2V0JpIX21io36vw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEeEXv5Lzik0ijG8u32YSz2Z7ntCnpvtSFI1E-kUiIqhA&oe=6A855340&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/749329845_18622095298003531_4817756364574041550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHYBdglvenRhfguJRbouXrzMVdO0ovQ8XskSOlX6W6pvFCS0NunGUagk4j2nF6rpP3XKSt44_r-xxbvPKpPbipa&_nc_ohc=I1TdM5pC95oQ7kNvwFB6IFw&_nc_gid=ab_7Pwm3dHZnKJXp6zu70A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGK2MUJq-LeBagW2lUITmUwR5ND5o9-U7SJu7aUWKKyOw&oe=6A86A4C0&_nc_sid=c6f216",
       "caption": ".\n7월의 오키나와는 숨막히게 더워요. \n그래도 여긴 파라다이스\n\n#수영복 은 @laserin_swim \n\n#오키나와#오키나와여행#swimwear#라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -401,7 +407,7 @@
         "likes": 812,
         "comments": 34
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -534,13 +540,19 @@
           "views": null,
           "likes": 812,
           "comments": 34
+        },
+        {
+          "d": "2026-08-16",
+          "views": null,
+          "likes": 812,
+          "comments": 34
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 24,
         "n": 9,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "analysis": {
         "d3": {
@@ -554,7 +566,7 @@
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
         }
       },
-      "last_written_reaction": "좋아요 812 · 댓글 34 · ER 0.8% · 평소대비 35.2x (D+28)"
+      "last_written_reaction": "좋아요 812 · 댓글 34 · ER 0.8% · 평소대비 35.2x (D+29)"
     },
     {
       "notion_row_id": "74939eba-97ed-8313-98e9-01bc15b17f54",
@@ -563,8 +575,8 @@
       "media_kind": "피드",
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.008065556205914742,
         "vs_baseline": 33.875,
@@ -573,7 +585,7 @@
       },
       "posted_at": "2026-07-15T08:24:17.000Z",
       "permalink": "https://www.instagram.com/p/DazoSpkEgix/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/747753048_18621532723003531_5494361944418192534_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF048E7t7ewJWLDBNTJTASu8evMfgfwX0Uw6ggGqEEs8IOUqDVJN8Ia2Se8ECsqwuI&_nc_ohc=DGySJoPid28Q7kNvwHXZnX_&_nc_gid=RjrxGsk6xbG2XJ49vMU-FQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEPUdKi-GaY0pq1buIu-U_BS9u1XtWfMr2rMKIsUKciTg&oe=6A854E4B&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/747753048_18621532723003531_5494361944418192534_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEcfOgEY0KlMBrz0gbhAQuaN_Y-B3KqCwDNfz4lwp5QrXMQ1Hud-9rG3OjbvQOH-WY&_nc_ohc=DGySJoPid28Q7kNvwEeejhH&_nc_gid=TwSwk-_slxlGxI7hGXJCCw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFHZcTJgDF67mu60H6pCp2ye0nTIvT_HGo6i2UPe8hprw&oe=6A869FCB&_nc_sid=c6f216",
       "caption": "오키나와 오늘도 맑음.\n수영복은 @laserin_swim\n라세린은 역시 바다\n\n#오키나와여행#라세린#수영복추천#수영복#라세린수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -733,9 +745,11 @@
           "one_liner": "평소 대비 25.9배의 이례적 반응으로 참여 1건당 86원의 극히 낮은 비용을 달성, 중간 점검 기준 매우 우수한 성과.",
           "days": 14,
           "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 33.88배라는 이례적으로 높은 참여 배수는 해당 게시물이 계정 내에서 큰 반향을 일으켰음을 보여주며, 참여 1건당 비용 85원은 인플루언서 마케팅 기준으로 매우 낮은 수준이다. 다만 팔로워 대비 절대 참여율 0.81%는 10만 팔로워 규모 계정치고 평범한 수치이며, 피드 게시물이라 도달 범위 측정이 제한적이다. 비용 효율성(276,000원 투입 대비 813건 반응) 면에서는 긍정적으로 평가할 수 있으나, 실제 구매 전환 추적이 불가한 점을 감안하면 인지도 확산 목적에는 합격점, 직접 판매 기여도는 미확인 상태로 '조건부 가치 있음'으로 판단된다.",
+        "final_at": "2026-08-16T06:24:21.250821+09:00"
       },
-      "last_written_reaction": "좋아요 766 · 댓글 47 · ER 0.8% · 평소대비 33.9x (D+30)"
+      "last_written_reaction": "좋아요 766 · 댓글 47 · ER 0.8% · 평소대비 33.9x (확정)"
     }
   ],
   "flags": {

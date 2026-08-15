@@ -182,7 +182,7 @@
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.008509711862481542,
         "vs_baseline": 1.1938911022576362,
@@ -216,7 +216,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-15T05:26:18.000Z",
       "permalink": "https://www.instagram.com/p/DazTE2kxUC0/",
-      "thumbnail": "https://instagram.ftrc3-1.fna.fbcdn.net/v/t51.82787-15/748306270_18073635326703230_4210855082029712913_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ftrc3-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gH0BCyMxzn_6v0ZwZVe_pEEDNXrhm0CXwGyeDioWN2YMa1fCUsC3K1XMuB6O-HaD1g0OSVkltANrELsbNLvJ0mD&_nc_ohc=4WLwznlP4TIQ7kNvwHuFb5p&_nc_gid=GT4temMf62mxpC6EZ6hgmQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHH6hfzmKyWUkT7q-S5Y8ljWcK2h0qFJF6qkLRhorOlEw&oe=6A8573D6&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/748306270_18073635326703230_4210855082029712913_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGbTRlfi24sEpXc1y4Z3mzrOIPkalfg24GCURTPSyNdsNyUTTsSk9mmWyCbZreLksjWwoGGr1wU-YUM3YNHji7V&_nc_ohc=4WLwznlP4TIQ7kNvwFNIKyw&_nc_gid=5wE5YNBYOpcL1vKmfYYEmA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGW_K8xCEmAttLHLTF2h7akJmNR-G_tZhdG9SRpq_JNBA&oe=6A86C556&_nc_sid=c6f216",
       "caption": "@laserin_swim \n영상으로 말아보는 개인연습 로그북\n\n#라세린수영복 #프리다이빙 #언더워터댄스 #수영장 #수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -379,8 +379,8 @@
         "n": 12,
         "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.005310287380258225,
         "vs_baseline": 0.7389884956767525,
@@ -399,9 +399,11 @@
           "one_liner": "평소 대비 0.83x로 기대치를 밑돌며 조회당 1.2원·참여당 65원의 비용 효율도 아직 낮아, 추가 액션 없인 협찬비 회수가 어려울 수 있음.",
           "days": 14,
           "analyzed_at": "2026-07-30T07:04:09.898778+09:00"
-        }
+        },
+        "final_verdict": "조회수 35,426회, 조회 1회당 비용 1.0원은 인플루언서 마케팅 기준으로 수용 가능한 수준이나, 평소 대비 0.74배라는 점은 협찬 콘텐츠가 해당 계정의 일반 게시물보다 알고리즘 도달 및 팬 반응 면에서 저조했음을 의미한다. 팔로워 대비 참여율 0.53%와 댓글 17건은 브랜드 인지 확산보다 실질적 구매 의도나 관심 유도 효과가 미미했음을 시사하며, 69,000원 상품 가액 대비 전환 기여도를 낙관하기 어렵다. 비용 효율 지표(참여 1건당 61원, 조회당 1원)만 보면 최소한의 가성비는 충족하지만, 평소대비 미달 성과를 고려할 때 동일 조건 재협찬보다는 콘텐츠 방향성 조율 후 재검토를 권장한다.",
+        "final_at": "2026-08-16T06:24:21.250821+09:00"
       },
-      "last_written_reaction": "조회 35,426 · 좋아요 544 · 댓글 17 · ER 0.5% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "조회 35,426 · 좋아요 544 · 댓글 17 · ER 0.5% · 평소대비 0.7x (확정)"
     }
   ],
   "flags": {

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-29T07:17:19.000Z",
       "permalink": "https://www.instagram.com/p/DbXjwf_Ew2q/",
-      "thumbnail": "https://instagram.fnce2-1.fna.fbcdn.net/v/t51.82787-15/757921581_18607404775025490_1782536081465584443_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fnce2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHg42ZoskpYCsSvhslVP0yB7Lm7sapT-fjsEukxhwxpWMrwx11g2rL45qD-DYSnFsDMnc0BDfauSKYIptpfZbi6&_nc_ohc=SbQG8aeHGxEQ7kNvwET3TAT&_nc_gid=acmZWBkjmRHxmTjNON5ttw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEfpWazBtIzlXrfBdoRhcbm_BMExBWRet-vcXGDrMTMjw&oe=6A857B69&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/757921581_18607404775025490_1782536081465584443_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG79fUQ7ajpyx4lMoWrqLB3gb5Vfuv0ISaK7Ao50lzcnRhVNmqux5kiohnlYILzsKif0zIpxDaIhaMSvr0fZc6c&_nc_ohc=SbQG8aeHGxEQ7kNvwHy8Wp6&_nc_gid=MXzmBHp0RbMn7EYfzY3W4A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEYSl_aNLiN4fXbXSwo3jHrDS7D8e0AAGW_jrBYcKJdnA&oe=6A8694A9&_nc_sid=c6f216",
       "caption": "편안한데 라인까지 예쁜 운동복.\n운동도, 일상도 자연스럽게 함께하는 시크릿스✨\n\n📏 165cm / 48kg\nTop S / Leggings M\n👚@secrets__fit",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "_lovely.jin",
       "metrics": {
-        "likes": 1433,
-        "comments": 34
+        "likes": 1480,
+        "comments": 35
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -83,20 +83,26 @@
           "views": null,
           "likes": 1433,
           "comments": 34
+        },
+        {
+          "d": "2026-08-16",
+          "views": null,
+          "likes": 1480,
+          "comments": 35
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 383.5,
+        "eng_median": 423.0,
         "n": 12,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
-        "er": 0.05878581446603887,
-        "vs_baseline": 3.8252933507170797,
-        "cost_per_eng": 57.259713701431494,
+        "er": 0.059739747634069404,
+        "vs_baseline": 3.5815602836879434,
+        "cost_per_eng": 55.445544554455445,
         "cost_per_view": null
       },
       "analysis": {
@@ -111,7 +117,7 @@
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
         }
       },
-      "last_written_reaction": "좋아요 1,433 · 댓글 34 · ER 5.9% · 평소대비 3.8x (D+16)"
+      "last_written_reaction": "좋아요 1,480 · 댓글 35 · ER 6.0% · 평소대비 3.6x (D+17)"
     }
   ],
   "flags": {
@@ -121,6 +127,6 @@
     "account_unavailable": false
   },
   "child_db_id": "75a39eba-97ed-8366-9261-814987467184",
-  "followers": 24955,
-  "last_written_score": 383
+  "followers": 25360,
+  "last_written_score": 358
 }

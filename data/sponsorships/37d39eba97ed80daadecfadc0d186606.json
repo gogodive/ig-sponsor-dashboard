@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T14:31:07.000Z",
       "permalink": "https://www.instagram.com/p/DbLdPR6PiDv/",
-      "thumbnail": "https://instagram.fbnu4-1.fna.fbcdn.net/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fbnu4-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFiqwE2pkG1Mgr6lXDsP888g8vIKWprhpyPSNsp1Tu1kGYxtvUwJ2gh-PieapSIHFM&_nc_ohc=vg0KiErx8woQ7kNvwGtDI7x&_nc_gid=7jvFpnJ7CaveuyhGiBGIRg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHR201V3Wryx9LiFPXRrDLK3UCN3pYjufFcIEoHKL_5nQ&oe=6A855E2C&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmao1-1.fna.fbcdn.net/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmao1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFQcSPyITvYS6T54cFnALbXPdcg5qDhjm5-UcJkksk7ExJ9uZGqha5k8rt9Zzf7lzInAGNQkx6R-ciANnddvo4D&_nc_ohc=vg0KiErx8woQ7kNvwGWb8zI&_nc_gid=iwBKnIvqgz8ezNJQyFe27A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF6HUp-82FbK7gQYLK2WWgKEh4Zb7VlyIP88guKjEPuxQ&oe=6A86AFAC&_nc_sid=c6f216",
       "caption": "제주 습도가 86도를 넘었는디..!(울집기준)🚨 💦\n\n이 무더위에 살아남았다는 건 강하다는 것..!\n날씨 예보와는 다르게 제주는 일주일 전부터 내내\n뜨거웠다는 사실! 제주 무더위를 제주답게 보내려면\n\n제주 휴가지다운 이열치열 잼컨, 의미있게 시간을 보내기\n좋은 핫플 위치 정도는 꼬옥 파악하고 오시길😏🧊\n그럼 모두 안전하고 재밌는 휴가 되세요~~~!🔥\n\n#제주살이 #제주하와 #판포포구 #웰니스트립 #wellness \n📍 @hawa_jeju @sauna_paradise_ \n🩱 @laserin_swim",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "0_dahye",
       "metrics": {
-        "likes": 891,
+        "likes": 893,
         "comments": 347,
-        "views": 154711
+        "views": 154824
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -150,21 +150,27 @@
           "views": 154711,
           "likes": 891,
           "comments": 347
+        },
+        {
+          "d": "2026-08-16",
+          "views": 154824,
+          "likes": 893,
+          "comments": 347
         }
       ],
       "baseline": {
         "views_median": 78324,
         "eng_median": 1562,
         "n": 7,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
-        "er": 0.014833097697155592,
-        "vs_baseline": 1.9752693938001125,
-        "cost_per_eng": 34.46418955304254,
-        "cost_per_view": 0.2757830190915104
+        "er": 0.014857060698281853,
+        "vs_baseline": 1.9767121188907615,
+        "cost_per_eng": 34.40860215053763,
+        "cost_per_view": 0.2755817358204585
       },
       "analysis": {
         "d3": {
@@ -178,7 +184,7 @@
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
         }
       },
-      "last_written_reaction": "조회 154,711 · 좋아요 891 · 댓글 347 · ER 1.5% · 평소대비 2.0x (D+21)"
+      "last_written_reaction": "조회 154,824 · 좋아요 893 · 댓글 347 · ER 1.5% · 평소대비 2.0x (D+22)"
     },
     {
       "notion_row_id": "39c39eba-97ed-8057-8b05-c317f1d08034",
@@ -322,7 +328,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.006769547818168747,
         "vs_baseline": 0.5712841253791708,
@@ -466,7 +472,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
         "er": 0.005415638254534998,
         "vs_baseline": 0.1409647025734777,

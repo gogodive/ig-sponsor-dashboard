@@ -25,16 +25,16 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T08:01:44.000Z",
       "permalink": "https://www.instagram.com/p/DbSfQDZkf4P/",
-      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFTyveCid5l_7b6dMfMbTc69sQ3gcB0-LbOANk1_XpuL_awb3wEUJQcJNwF1nS_vaYwkYhKl7iQdgd5GB8cR8SX&_nc_ohc=tFQBmlFH5oUQ7kNvwHarwzl&_nc_gid=3y9okE26Ibff4Bzg-3jyHA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHJxoIMWwS_ZHUc7hC2O4T5w7tTVJdFvrulEmNH524Vag&oe=6A858222&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fgdl5-2.fna.fbcdn.net/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fgdl5-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gEQ-GmWe24G_mDVhbReJ5n47pyxabbXsFCim4hmdsu_xmNZSixlZ0K4y6qUWh6_B3Q&_nc_ohc=i6z12Hy6X80Q7kNvwFivOVY&_nc_gid=ug8wwThjoSz0jlxEby7_dQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGKhOgy2zZZSxSctTMwTU4vDchEnTg4x6DlHberPoRSzA&oe=6A869B62&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store\n\n반짝반짝 너무 예쁜 오로라 빛이 나는 롱핀🧜🏻‍♀️\n❤️딥바이브 오로라 롱핀❤️\n움직임에 따라 다른빛을 내는 신비로운 컬러의 롱핀인데\n신어보니 발도 편하고 가벼워서 좋았어요🩷\n\n수중장비 멀티샵 인투더블루에 딥바이브 제품들이 있는데\n프리다이빙 슈트도 탐나더라구요😊🤍\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구경가봐요~🫧🏊🏻‍♂️\n\n✔️제품명 - 딥바이브 오로라 롱핀✨️\n🦶발사이즈 235 기준 35-36 사이즈 착용\n\n#인투더블루 #딥바이브 #딥바이브롱핀\r\n#프리다이빙 프리다이빙핀❤️",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "s.y.mimi",
       "metrics": {
-        "likes": 185,
+        "likes": 187,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -149,23 +149,29 @@
           "views": null,
           "likes": 185,
           "comments": 6
+        },
+        {
+          "d": "2026-08-16",
+          "views": null,
+          "likes": 187,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 80,
         "n": 11,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
-        "er": 0.008422259458506042,
-        "vs_baseline": 2.3875,
-        "cost_per_eng": 759.1623036649214,
+        "er": 0.008510450657024429,
+        "vs_baseline": 2.4125,
+        "cost_per_eng": 751.2953367875648,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 185 · 댓글 6 · ER 0.8% · 평소대비 2.4x (D+18)",
+      "last_written_reaction": "좋아요 187 · 댓글 6 · ER 0.9% · 평소대비 2.4x (D+19)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.21배 수준으로 무난한 초기 반응이나, 참여율 0.55%·1건당 1,160원은 비용 효율 개선 여지가 있어 추이 지속 모니터링 필요.",
@@ -187,26 +193,26 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.0018079195696269511,
-        "vs_baseline": 0.3904455672944419,
-        "cost_per_eng": 3536.5853658536585,
-        "cost_per_view": 170.58823529411765
+        "er": 0.0018520151688861451,
+        "vs_baseline": 0.39182361047312814,
+        "cost_per_eng": 3452.3809523809523,
+        "cost_per_view": 169.98827667057444
       },
       "posted_at": "2026-07-22T07:49:47.000Z",
       "permalink": "https://www.instagram.com/p/DbFj2w_xFEb/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHjJXBAw9bcSj6XJcNYAVCggxx1cKTVsF3Dz_svfSPMz0MnnEwpKkx6G7n-Lpxb4ot94SREFya-GbOyGa04KUrn&_nc_ohc=9kOT8ae8ye0Q7kNvwEqEXPi&_nc_gid=dIe23FbQ1NxhWYYhiou23A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHN7tEXKriwdt4HAhya7i1J7m4TEaeOqRPqZifz9hGgbw&oe=6A855C54&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fmex33-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fmex33-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFKaBqUxSzuKmhbtzAtc_L3BnnmkTR3MGKvmIl8hNVeiyh5ITwAY4WyhD3wBNfg8Xo&_nc_ohc=-qSEI_z1bPsQ7kNvwFF_z6y&_nc_gid=nUXw1RXKPrrs3-Supi08zQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEt61DhBkku77XTB8Atb6lZcVxmfCOtzCb66i_UqkAmZQ&oe=6A86ADD4&_nc_sid=c6f216",
       "caption": "#협찬 @intotheblue_store\n\n🩵 물속에서 인어가 되는 방법🩵🧜🏻‍♀️\n\n수중장비 멀티샵 \"인투더블루\" 스토어에서\n판매하고 있는 딥바이브 오로라 롱핀💕\n오로라 롱핀은 움직임마다 다른색으로 예쁘게 변하고🤍\n유리 섬유라서 가볍고 두께도 얇은데다가\n유연한 탄성과 탄력성👍\n동양인 맞춤 풋포켓에 소프트한 강도로 부드러운 \n피닝감을 줘서 여성 다이버나 발목이 약한분들께 추천해요!\n롱핀인데 엄청 가볍고 잘나가서 놀랬어요~ \n부드럽게 쭉쭉 나가니 마치 인어가 된 듯한 느낌이예요🧜🏻‍♀️\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "s.y.mimi",
       "metrics": {
-        "views": 850,
-        "likes": 39,
+        "views": 853,
+        "likes": 40,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-15T06:28:26.204907+09:00",
+      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -339,15 +345,21 @@
           "views": 850,
           "likes": 39,
           "comments": 2
+        },
+        {
+          "d": "2026-08-16",
+          "views": 853,
+          "likes": 40,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 2177,
         "eng_median": 51,
         "n": 7,
-        "captured_at": "2026-08-15T06:28:26.204907+09:00"
+        "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
-      "last_written_reaction": "조회 850 · 좋아요 39 · 댓글 2 · ER 0.2% · 평소대비 0.4x (D+23)",
+      "last_written_reaction": "조회 853 · 좋아요 40 · 댓글 2 · ER 0.2% · 평소대비 0.4x (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.36x 저조한 초기 반응에 조회당 492원·참여당 1만원으로 비용 효율이 낮아 추가 모니터링 필요.",
@@ -370,5 +382,5 @@
   },
   "child_db_id": "8b739eba-97ed-83f4-a00c-017c805272b5",
   "followers": 22678,
-  "last_written_score": 139
+  "last_written_score": 140
 }
