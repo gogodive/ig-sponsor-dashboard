@@ -25,7 +25,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-30T23:29:29.000Z",
       "permalink": "https://www.instagram.com/p/Dbb3zoyk3Sg/",
-      "thumbnail": "https://instagram.fplu33-1.fna.fbcdn.net/v/t51.82787-15/759974060_18476494135107756_5372266666187113825_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fplu33-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gG3XXAfDVcMblH3psP6VbzI6mSQ30Ow9du-RgAhv0rvYTzzSROYARWwlcnlTZ5DybI&_nc_ohc=aQDugout380Q7kNvwE8we-6&_nc_gid=rovfY5qU4VsY-cr9_NI5pg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHU3hKmQlrXDi1kIgbSoMFbDxAVPVO2PtFsKS2Eqqeazg&oe=6A86A41F&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/759974060_18476494135107756_5372266666187113825_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF-U5Y3CoRMfUHANNnxrSCnCQtKM3qO-TEObHluvXSMuufWxNdP3MslHLjGYHk4aIQ&_nc_ohc=aQDugout380Q7kNvwE3vbxv&_nc_gid=jcWScKkxgK3OM72nd5oRPg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEpSI9yhrk2Jhpe3zjIh4M5q_cYV9MUNkMlKDS1y2TUUw&oe=6A87F59F&_nc_sid=c6f216",
       "caption": "#AD @intotheblue_store 첫 프리다이빙 슈트💙🤿 \n\n첫 슈트라 은근 기대했는데…\n실물 보자마자 컬러에 먼저 반했어요🥹🤍\n\n직접 입고 다이빙해보니까\n2mm 스프링이라 움직임도 정말 편하고,\n가동성이 좋아서 첫 슈트인데도 부담 없이 잘 입었어요!☺️\n\n무엇보다 이 컬러가 진짜 예술✨\n바다 배경이랑 너무 잘 어울려서 사진 찍는 내내 만족💙📸\n기능도 예쁘기도 둘 다 잡은 첫 슈트라 더 마음에 들어요!\n\n앞으로도 다이빙 갈 때 자주 함께할 것 같은 최애 슈트🤿\n\n✔️딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm(ST)\n\n#인",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 443,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -131,23 +131,29 @@
           "views": null,
           "likes": 443,
           "comments": 32
+        },
+        {
+          "d": "2026-08-17",
+          "views": null,
+          "likes": 443,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 550.0,
-        "n": 10,
-        "captured_at": "2026-08-16T06:24:21.250821+09:00"
+        "eng_median": 504.5,
+        "n": 12,
+        "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.04452568428946382,
-        "vs_baseline": 0.8636363636363636,
+        "er": 0.04455909943714822,
+        "vs_baseline": 0.9415262636273538,
         "cost_per_eng": 400.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 443 · 댓글 32 · ER 4.5% · 평소대비 0.9x (D+15)",
+      "last_written_reaction": "좋아요 443 · 댓글 32 · ER 4.5% · 평소대비 0.9x (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.0배로 무난한 출발이며, 참여 1건당 431원은 합리적 수준—3일 기준 안정적 초기 성과.",
@@ -169,6 +175,6 @@
     "account_unavailable": false
   },
   "child_db_id": "83839eba-97ed-8347-94c5-01f2a07ba8f0",
-  "followers": 10668,
-  "last_written_score": 86
+  "followers": 10660,
+  "last_written_score": 94
 }

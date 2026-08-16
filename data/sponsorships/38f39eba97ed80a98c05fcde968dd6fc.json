@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T04:27:55.000Z",
       "permalink": "https://www.instagram.com/p/DbCp6r3TM0q/",
-      "thumbnail": "https://instagram.fsvq2-2.fna.fbcdn.net/v/t51.82787-15/751833213_17896755813546772_1965762897328828800_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsvq2-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHNQL2P1HIqwppFxMC17sXn0IGNS9YnVE2APTZLTnBErMzfV90WruxNnujyMI0n6D8&_nc_ohc=NeW-_OgdaBsQ7kNvwE5TB6P&_nc_gid=OLBc6XycZxTzgnNCWNLbOA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHvY36l7tor5ZkP4QcRieckJTZCpSmqVJSdb_uah9lIWg&oe=6A86BD64&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-15/751833213_17896755813546772_1965762897328828800_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFxgNOeFEEkxWZUwQ_j1aFIRX8wq4-QeeCmhZu0vN8YJ-hHu74SwoliqEU3TQXuVMc05YeUAb2-qCpodSWx8TYd&_nc_ohc=wVGKfuTiWXcQ7kNvwGYPP7p&_nc_gid=sWUVvwJwLwpEwsn69rrksQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHnKGJentmukKeY2T1OsKUNJ9_7BKVvvvgBHixRJyUuQw&oe=6A880EE4&_nc_sid=c6f216",
       "caption": "라운드숄더 확 잡아주는 등 운동!\n인버티드 로우💖\n\n1️⃣ 바를 허리~ 골반 넢이 정도에 맞춰 고정해 주세요\n \n2️⃣바는 어깨너비 보다 약간 넓게 잡아주세요!\n\n3️⃣ 바 아래로 들어가 머리부터 발뒤꿈치까지 일직선을 만듭니다!\n\n✔️ 복부와 엉덩이에 힘을 주어 허리가 꺾이지 않게 주의!\n✔️발끝은 하늘을 향하게 고정!\n \n4️⃣ 가슴을 바 쪽으로 끌어 당깁니다!\n올라갔을 때 날개뼈를 모아 1초 정도 수축합니다\n\n5️⃣내려올 때는 힘을 빼지말고 천천히 내려와 주세요!\n\n굽은 어깨를 펴고 날개뼈를 안정적으로 사용하는 데 도움이 되는 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hellzzzzang",
       "metrics": {
-        "views": 26170,
+        "views": 26240,
         "likes": 317,
         "comments": 77
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -174,15 +174,21 @@
           "views": 26170,
           "likes": 317,
           "comments": 77
+        },
+        {
+          "d": "2026-08-17",
+          "views": 26240,
+          "likes": 317,
+          "comments": 77
         }
       ],
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.03730354099602348,
         "vs_baseline": null,
         "cost_per_eng": 65.03807106598985,
-        "cost_per_view": 0.9791746274359954
+        "cost_per_view": 0.9765625
       },
       "analysis": {
         "one_liner": "D+1 기준 팔로워 대비 참여율 4.91%로 양호하며, 조회당 5.7원·참여당 317원은 소규모 계정 협찬 대비 효율적인 초기 성과.",
@@ -198,7 +204,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 26,170 · 좋아요 317 · 댓글 77 · ER 3.7% (D+25)"
+      "last_written_reaction": "조회 26,240 · 좋아요 317 · 댓글 77 · ER 3.7% (D+26)"
     },
     {
       "notion_row_id": "39739eba-97ed-802c-894a-cf22808926e2",
@@ -307,7 +313,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.09808748343116834,
         "vs_baseline": null,
@@ -415,7 +421,7 @@
         "captured_at": "2026-08-01T07:08:59.113028+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": 0.0428896042416209,
         "vs_baseline": 1.6532846715328466,
@@ -559,7 +565,7 @@
         "captured_at": "2026-08-07T10:01:11.565831+09:00"
       },
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
         "er": 0.03843968945275516,
         "vs_baseline": 1.3624161073825503,

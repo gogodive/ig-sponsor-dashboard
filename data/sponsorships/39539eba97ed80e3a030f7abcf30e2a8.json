@@ -24,9 +24,9 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
-        "er": 0.005386958203950436,
+        "er": 0.005387065091222953,
         "vs_baseline": 2.0763509629203796,
         "cost_per_eng": 127.07182320441989,
         "cost_per_view": 1.1939988579141358
@@ -202,25 +202,25 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
-        "er": 0.007063562138513279,
-        "vs_baseline": 29.666666666666668,
-        "cost_per_eng": 96.91011235955057,
+        "er": 0.007073623222913381,
+        "vs_baseline": 33.95238095238095,
+        "cost_per_eng": 96.7741935483871,
         "cost_per_view": null
       },
       "posted_at": "2026-07-18T03:10:08.000Z",
       "permalink": "https://www.instagram.com/p/Da6yuavkq0b/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGnLdAjJMOFlKKd-jPo2A48xD-up4PuTGEeSxFvslWTdXd7vdPVxwUGxXfG-V2j_ow&_nc_ohc=_RfWXNV4FB4Q7kNvwFKewkC&_nc_gid=qrszHYaiV8d344TlMnHBwg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFL1o5JmQotXxpouao7THEzlqqh-RKOcgSK0dZVPnMRjw&oe=6A86C626&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fflr2-1.fna.fbcdn.net/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fflr2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFMHL5zuxtdvvENrYgXMXPDcs_GJm7bAE-tgTmO3ANmy2ziRuoVdyNHFrwuQY99w-k&_nc_ohc=_RfWXNV4FB4Q7kNvwEup_jP&_nc_gid=vVF5eDeGRUkjO0byQaxTBg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGAoZfSbm1CmdXwGQc-bOh3UrZKnb_jQ1iTtkBVc4rFcQ&oe=6A8817A6&_nc_sid=c6f216",
       "caption": ".코우리대교를 지나 코우리섬에 들어가면\n코우리지마비치가 있거든요.\n다음엔 여기에 몇일 머물러보고싶어요.\n여기는 사람들도 너무 친절해요. \n다정한 웃음이 오래 기억에 남을 거에요. \n\n#수영복  @laserin_swim \n\n#코우리해변#오키나와여행#라세린수영복#수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "10.12.16yp",
       "metrics": {
-        "likes": 683,
+        "likes": 684,
         "comments": 29
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -359,13 +359,19 @@
           "views": null,
           "likes": 683,
           "comments": 29
+        },
+        {
+          "d": "2026-08-17",
+          "views": null,
+          "likes": 684,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 24,
+        "eng_median": 21,
         "n": 9,
-        "captured_at": "2026-08-16T06:24:21.250821+09:00"
+        "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "analysis": {
         "d3": {
@@ -379,7 +385,7 @@
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
         }
       },
-      "last_written_reaction": "좋아요 683 · 댓글 29 · ER 0.7% · 평소대비 29.7x (D+28)"
+      "last_written_reaction": "좋아요 684 · 댓글 29 · ER 0.7% · 평소대비 34.0x (D+29)"
     },
     {
       "notion_row_id": "3a739eba-97ed-80d6-82bd-e811933970de",
@@ -389,16 +395,16 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.008392940406154823,
-        "vs_baseline": 35.25,
+        "er": 0.00839310693770648,
+        "vs_baseline": 40.285714285714285,
         "cost_per_eng": 81.56028368794327,
         "cost_per_view": null
       },
       "posted_at": "2026-07-17T02:33:57.000Z",
       "permalink": "https://www.instagram.com/p/Da4JyeOEq2e/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/749329845_18622095298003531_4817756364574041550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHYBdglvenRhfguJRbouXrzMVdO0ovQ8XskSOlX6W6pvFCS0NunGUagk4j2nF6rpP3XKSt44_r-xxbvPKpPbipa&_nc_ohc=I1TdM5pC95oQ7kNvwFB6IFw&_nc_gid=ab_7Pwm3dHZnKJXp6zu70A&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQGK2MUJq-LeBagW2lUITmUwR5ND5o9-U7SJu7aUWKKyOw&oe=6A86A4C0&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/749329845_18622095298003531_4817756364574041550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHSiFTO8PUp5Dwv426FZqNvCb_qQlJfpLRT0TU23oZOXy_NyJpjAx0B4g4FZc2hmyg&_nc_ohc=I1TdM5pC95oQ7kNvwHz0P_O&_nc_gid=Kmz64ebWFks0ZBzTA_kK2Q&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFSObZjtX8pG7ad1rpqW00TUj-rxfvJVFEjiApmwFiubQ&oe=6A87F640&_nc_sid=c6f216",
       "caption": ".\n7월의 오키나와는 숨막히게 더워요. \n그래도 여긴 파라다이스\n\n#수영복 은 @laserin_swim \n\n#오키나와#오키나와여행#swimwear#라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -407,7 +413,7 @@
         "likes": 812,
         "comments": 34
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -546,13 +552,19 @@
           "views": null,
           "likes": 812,
           "comments": 34
+        },
+        {
+          "d": "2026-08-17",
+          "views": null,
+          "likes": 812,
+          "comments": 34
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 24,
+        "eng_median": 21,
         "n": 9,
-        "captured_at": "2026-08-16T06:24:21.250821+09:00"
+        "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "analysis": {
         "d3": {
@@ -566,7 +578,7 @@
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
         }
       },
-      "last_written_reaction": "좋아요 812 · 댓글 34 · ER 0.8% · 평소대비 35.2x (D+29)"
+      "last_written_reaction": "좋아요 812 · 댓글 34 · ER 0.8% · 평소대비 40.3x (D+30)"
     },
     {
       "notion_row_id": "74939eba-97ed-8313-98e9-01bc15b17f54",
@@ -576,9 +588,9 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
-        "er": 0.008065556205914742,
+        "er": 0.008065716241554808,
         "vs_baseline": 33.875,
         "cost_per_eng": 84.87084870848709,
         "cost_per_view": null
@@ -759,6 +771,6 @@
     "account_unavailable": false
   },
   "child_db_id": "4c339eba-97ed-83e2-b8c1-01f46f06ee17",
-  "followers": 100799,
-  "last_written_score": 2522
+  "followers": 100797,
+  "last_written_score": 2755
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T10:28:39.000Z",
       "permalink": "https://www.instagram.com/p/Db2zMXgEQff/",
-      "thumbnail": "https://instagram.ftij6-1.fna.fbcdn.net/v/t51.82787-15/770252658_17913741405443517_7756233783542749058_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.ftij6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH6PKi4oTM9APjWlbFq978wqXUsrLjBb_KaAZVsunuUmXP1K5aGd0SgflODs5AuYfLVda-d0RH6lVB-Rm7l66H3&_nc_ohc=ovBddOma4KwQ7kNvwHEUhlJ&_nc_gid=T3wo1SK-K5o-yMH6i-Y1pQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFTZHnpP6b6Giveovq4yS2MkXxdvszy_coRsdBmze16Ow&oe=6A86B05D&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fwaw9-1.fna.fbcdn.net/v/t51.82787-15/770252658_17913741405443517_7756233783542749058_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fwaw9-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFE23XQafkTXO5jRJVu0EhaVvhY2g46Z-NLPKGEz_u2Hw7oRvXj3ijRDmVFJegI7Yc&_nc_ohc=eRobjIETkXwQ7kNvwHFqt1H&_nc_gid=bXlPb8E2bifQjA2vTTB2gg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQHlgsK7nA7f-pjz_qZTXPwyl-KFsR-nYg6ieVZB9enIIw&oe=6A8801DD&_nc_sid=c6f216",
       "caption": "#제품제공\r\n라세린📍@laserin_swim\r\n💗 딱복 Hard Peach 💗\r\n\r\n🩰 발레코어 핑크 포일 수영복\r\n상큼한 쿨톤 핑크빛에 크림 한 방울 섞은 딱복!\r\n포일 맛집 라세린답게 영롱한 무지개빛 펄과\r\n뒷모습까지 예쁜 리본이 청순 화사해 최애 수영복 등극🩷\n완전 실물 깡패예요😭😭\r\n\r\n🎀 더블크로스 타이백으로 정밀한 핏 맞춤\r\n체형에 맞게 조절되는 리본 타이백 &\r\n더블엑스(X) 스트랩이 3중으로 상체를 잡아줘\r\n상하체 사이즈가 다른 저도 핏하게 잘 맞았어요.\r\n\r\n✨️ 안정적인 가슴선 라인과 미들컷\r\n비침 걱정 없는 두겹",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "diving_day.g",
       "metrics": {
-        "likes": 57,
+        "likes": 59,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -59,23 +59,29 @@
           "views": null,
           "likes": 57,
           "comments": 10
+        },
+        {
+          "d": "2026-08-17",
+          "views": null,
+          "likes": 59,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 130.5,
         "n": 6,
-        "captured_at": "2026-08-16T06:24:21.250821+09:00"
+        "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
-        "er": 0.051262433052792655,
-        "vs_baseline": 0.5134099616858238,
-        "cost_per_eng": 1029.8507462686566,
+        "er": 0.05279265493496557,
+        "vs_baseline": 0.5287356321839081,
+        "cost_per_eng": 1000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 57 · 댓글 10 · ER 5.1% · 평소대비 0.5x (D+5)",
+      "last_written_reaction": "좋아요 59 · 댓글 10 · ER 5.3% · 평소대비 0.5x (D+6)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.50x로 기대 이하 출발이나, 참여당 비용 1,062원·참여율 4.97%는 소규모 계정 기준 수용 가능한 수준으로 추이 지켜볼 필요 있음.",
@@ -93,5 +99,5 @@
   },
   "child_db_id": "73339eba-97ed-83c8-bfea-8130616b774d",
   "followers": 1307,
-  "last_written_score": 51
+  "last_written_score": 53
 }

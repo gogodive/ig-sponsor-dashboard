@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-17T09:19:05.000Z",
       "permalink": "https://www.instagram.com/p/Da43CwXT6hv/",
-      "thumbnail": "https://instagram.fymq1-2.fna.fbcdn.net/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fymq1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGycxeBMWAMDB7-J0k3NhQVWHwvtK1v61jBV4s3RWLM2izRyLWRSSK19AP41vMJDNU&_nc_ohc=EplxtBMkDrcQ7kNvwG9xkdP&_nc_gid=__hppyGhpQqM_u3ZQKDJRw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEpBX1pfwdSpzR0O_CRqLhCXanHjrqSd9QL36CSkgYoaA&oe=6A869B72&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-gru2-2.cdninstagram.com/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHK4RMQydrgsb_XHyPov-KnWHffO3GotINRDverdyGoEXIWS5SeLF78KQVQ6fzbUzw&_nc_ohc=lBgW67S8qkgQ7kNvwHykfuX&_nc_gid=AHIQT4OH0fzOhRFsqUoaYA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEFT1i2GMygV_44-YyyJJ5gK-jhgUwGDVmBuN1r72__bg&oe=6A87ECF2&_nc_sid=c6f216",
       "caption": "#협찬 @laserin_swim \n\n물은 저에게 안정감과 고요함, 평화를 가져다주는거같아요\n물안에서 놀든 수영을 하든 \n물이 주는 평온함 덕분에 행복하더라구요ㅎㅎ \n\n물과 너무 잘어울리는 수영복을 입었더니 \n더 행복한 수영이였던거 같아요🫶\n\n착용제품 \n-라세린 크리스탈웨이브 더블크로스백 \n착용사이즈 \n-M\n신체사이즈 \n-168/60 \n\n#라세린 #수영복 #수영장 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ssssoo_yyy",
       "metrics": {
-        "likes": 107,
+        "likes": 108,
         "comments": 3,
-        "views": 4629
+        "views": 4657
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -186,21 +186,27 @@
           "views": 4629,
           "likes": 107,
           "comments": 3
+        },
+        {
+          "d": "2026-08-17",
+          "views": 4657,
+          "likes": 108,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 5955.0,
         "eng_median": 149.5,
         "n": 6,
-        "captured_at": "2026-08-16T06:24:21.250821+09:00"
+        "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.017109970446414685,
-        "vs_baseline": 0.7773299748110831,
-        "cost_per_eng": 313.6363636363636,
-        "cost_per_view": 7.45301360985094
+        "er": 0.01726551563229118,
+        "vs_baseline": 0.782031905961377,
+        "cost_per_eng": 310.81081081081084,
+        "cost_per_view": 7.408202705604467
       },
       "analysis": {
         "one_liner": "조회수 미집계로 정확한 평가는 어렵지만, 참여율 1.23%·참여당 896원은 소형 계정 기준 무난한 수준이나 추가 지표 확인 필요.",
@@ -216,7 +222,7 @@
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
         }
       },
-      "last_written_reaction": "조회 4,629 · 좋아요 107 · 댓글 3 · ER 1.7% · 평소대비 0.8x (D+29)"
+      "last_written_reaction": "조회 4,657 · 좋아요 108 · 댓글 3 · ER 1.7% · 평소대비 0.8x (D+30)"
     },
     {
       "notion_row_id": "f6d39eba-97ed-8257-aa0d-812de5e0b894",
@@ -390,7 +396,7 @@
         "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.040752838699642246,
         "vs_baseline": 0.5764576457645765,

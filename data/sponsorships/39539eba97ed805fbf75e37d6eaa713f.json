@@ -23,8 +23,8 @@
       "media_kind": "릴스",
       "upload_date_notion": "2026-07-16",
       "first_seen": "2026-07-23",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.012218649517684888,
         "vs_baseline": 0.834764324513755,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-07-16T03:00:56.000Z",
       "permalink": "https://www.instagram.com/p/Da1nbBuBxJS/",
-      "thumbnail": "https://instagram.fvlc4-1.fna.fbcdn.net/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fvlc4-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGIDAVgPM40a35gExjmo7ryt5nUO18Fe4_Hp09fpUOrg6uu7FReEew-hr0aKdP3m5Y&_nc_ohc=Xbg6dcYBJhwQ7kNvwHEPHJ_&_nc_gid=NO076-z9HstNwP6Cltzm_w&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQE0Stspygk52ey7fFzi8VZaDbl5cuLxyCJOYEoB7C0H7w&oe=6A86B1AD&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.71878-15/746429362_878948048606884_8314942616291902121_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG3EAzqeyuH1yis61JNWXCbg8b0KqqX9_ELuDwgxAKKS7ny4P_oEisb3-RtK1IaQfQ&_nc_ohc=JFcwTxIBevcQ7kNvwFJyIqh&_nc_gid=NewRWX4TiUsTJ43joCaSzA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFzUQ3xh1LMrqnPcpqq2mE6oSP6G7mBkCl-Un1iW6dYSQ&oe=6A88032D&_nc_sid=c6f216",
       "caption": "#제품제공 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 × Kay\n물 속에서도 시크하고 우아한 수영복\n라세린 스태리블랙🖤🤍✨️\n한창 컬러풀한 걸로 입다가\n요즘 시크하게 블랙이 땡기는데 \n딱 그 마음을 충족시킬 수 있는 수영복이예요\n\n수영복 @laserin_swim \n마스크 @usepool_official \n수모 @areyou.readytokick \n\n⋆｡°✩ 𓆝 𓆟 𓆞\n케이의 물옷장 & 물속세상 @freeee_kay_ 🫧\n⁀➷ 𝚏𝚛𝚎𝚎𝚍𝚒𝚟𝚒𝚗𝚐 · 𝚖𝚎𝚛𝚖𝚊𝚒𝚍𝚎 · 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛 𝚕𝚒𝚏𝚎\n𓇼 🐚 🌊 ✩°｡⋆",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -194,9 +194,11 @@
           "one_liner": "팔로워 1,496명 소규모 계정임에도 참여율 6.28%로 양호하나, 조회 2,353회는 평소 대비 확인이 필요하며 1건당 340원 비용은 합리적 수준.",
           "days": 14,
           "analyzed_at": "2026-07-31T07:09:43.533653+09:00"
-        }
+        },
+        "final_verdict": "조회 2,382회·참여율 1.22%로 팔로워 7,775명 대비 절대 수치가 낮고, 평소 게시물 대비 0.83배에 그쳐 협찬 콘텐츠가 오히려 해당 계정의 평균 반응도를 밑돌았다. 참여 1건당 337원, 조회 1회당 13.4원은 소규모 다이빙·수영 니치 계정 기준으로 허용 가능한 범위이나, 상품 가액 64,000원 대비 도달 임팩트가 충분하지 않아 비용 효율은 보통 이하로 평가된다. 재협찬 시에는 콘텐츠 포맷 또는 게시 타이밍 조율이 필요하며, 평소 대비 지수가 1.0을 상회하는지 여부를 핵심 기준으로 삼을 것을 권장한다.",
+        "final_at": "2026-08-17T06:23:14.585902+09:00"
       },
-      "last_written_reaction": "조회 2,382 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (D+30)",
+      "last_written_reaction": "조회 2,382 · 좋아요 71 · 댓글 24 · ER 1.2% · 평소대비 0.8x (확정)",
       "baseline": {
         "views_median": 2853.5,
         "eng_median": 105.5,
@@ -212,7 +214,7 @@
       "upload_date_notion": "2026-07-12",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.023794212218649517,
         "vs_baseline": 1.2542372881355932,

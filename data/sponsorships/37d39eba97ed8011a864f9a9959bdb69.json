@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T07:48:44.000Z",
       "permalink": "https://www.instagram.com/p/DbDAz5LTfnC/",
-      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHBPXIssnh5ia_IaaI-9bflSEcp1MFaHISRn43PUZ9wq2T7k5z32pzH8TzlUyQwjPg&_nc_ohc=p2gqy_vrD6UQ7kNvwHg7HVk&_nc_gid=Jdp1gWevItOBe9aWRwCUpw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQELjBlwIlUsYZ2aqeU7exdL82yjjleVZsDDqJKNWD2AUw&oe=6A8693E0&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fagp5-1.fna.fbcdn.net/v/t51.82787-15/753205106_18596421268062820_3959525398895149926_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagp5-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFqL0Odwew6EcTVBz2ONOKzH2DeIKeH77MXjymeStXEIaWQ8D17UGIQTabrrHnbZ9k&_nc_ohc=p2gqy_vrD6UQ7kNvwE6zyjx&_nc_gid=wWM6mvGCwDYPNJxJVeTDGg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF9JpJoDxaqEi3hDMon85Wad2svMs89FI5CSlUGYIo4iw&oe=6A87E560&_nc_sid=c6f216",
       "caption": "요즘 가장 자주 손이 가는 세트🤍\n\n시크릿스 리브 슬리브리스 SET\n\n편안한 착용감에 핏까지 예뻐서 데일리로 가볍게 입기 좋아요! 심플한 디자인이라 여기저기 매치하기도 쉬운 아이템✨",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": -1,
         "comments": 4,
-        "views": 2148
+        "views": 2157
       },
-      "metrics_updated_at": "2026-08-16T06:24:21.250821+09:00",
+      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -186,15 +186,21 @@
           "views": 2148,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-08-17",
+          "views": 2157,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0001827151470856934,
         "vs_baseline": null,
         "cost_per_eng": 18333.333333333332,
-        "cost_per_view": 25.605214152700185
+        "cost_per_view": 25.498377375985164
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태에서 좋아요+댓글 6건·참여당 비용 18,333원으로 팔로워 대비 참여율 0.04%에 그쳐 초기 반응이 극히 저조함.",
@@ -210,7 +216,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 2,148 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+25)"
+      "last_written_reaction": "조회 2,157 · 좋아요 -1 · 댓글 4 · ER 0.0% (D+26)"
     },
     {
       "notion_row_id": "c3039eba-97ed-82a2-bcde-012a5d6c396b",
@@ -330,7 +336,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.0012181009805712893,
         "vs_baseline": 2.3529411764705883,
