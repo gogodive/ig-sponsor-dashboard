@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-17T09:19:05.000Z",
       "permalink": "https://www.instagram.com/p/Da43CwXT6hv/",
-      "thumbnail": "https://scontent-gru2-2.cdninstagram.com/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHK4RMQydrgsb_XHyPov-KnWHffO3GotINRDverdyGoEXIWS5SeLF78KQVQ6fzbUzw&_nc_ohc=lBgW67S8qkgQ7kNvwHykfuX&_nc_gid=AHIQT4OH0fzOhRFsqUoaYA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEFT1i2GMygV_44-YyyJJ5gK-jhgUwGDVmBuN1r72__bg&oe=6A87ECF2&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/748593215_18087076040545878_6061233910031767297_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0MzE0MzU1NTY5MDYzNzQyMzE4MDg3MDc2MDM0NTQ1ODc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=W6mX_30sa98Q7kNvwERzptG&_nc_oc=AdpI5u3kFtC62JcQBD7ZjdanGbEyXalU_aG-ViwAgawDft8wRyp3434SCUSzsFuiGEsR5l9xK1M_VNH1gJtFV8TM&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=8_IuR3UjCH1uZfDa2lMZ9g&_nc_ss=7c689&oh=00_AQFCiBlMYyRFujfFmarXa12Qt_vC6Nz_1HrvXkV0eh9DMA&oe=6A893E72",
       "caption": "#협찬 @laserin_swim \n\n물은 저에게 안정감과 고요함, 평화를 가져다주는거같아요\n물안에서 놀든 수영을 하든 \n물이 주는 평온함 덕분에 행복하더라구요ㅎㅎ \n\n물과 너무 잘어울리는 수영복을 입었더니 \n더 행복한 수영이였던거 같아요🫶\n\n착용제품 \n-라세린 크리스탈웨이브 더블크로스백 \n착용사이즈 \n-M\n신체사이즈 \n-168/60 \n\n#라세린 #수영복 #수영장 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -200,8 +200,8 @@
         "n": 6,
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01726551563229118,
         "vs_baseline": 0.782031905961377,
@@ -220,9 +220,11 @@
           "one_liner": "평소 대비 0.71x 저조한 도달에 참여율 1.62%·조회당 8.7원으로 비용 효율도 미흡, 추가 액션 없이는 협찬 가성비 확보가 어렵다.",
           "days": 14,
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
-        }
+        },
+        "final_verdict": "팔로워 6,429명 규모 대비 조회수 4,657회·참여율 1.73%는 소형 계정 평균 수준이나, 평소 게시물 대비 0.78배로 협찬 콘텐츠 반응이 오히려 저조해 브랜드 노출 효율이 기대치를 밑돌았다. 조회 1회당 비용 7.4원은 표면상 나쁘지 않지만 댓글 3건에 그친 낮은 구매 의도 신호와 결합하면 실질적 전환 기여도는 미미할 것으로 판단된다. 69,000원 협찬 가액 대비 성과가 평균 이하이므로, 재협찬 시에는 콘텐츠 가이드 강화 또는 팔로워 대비 실제 도달률이 높은 계정으로 교체를 검토하는 것이 적절하다.",
+        "final_at": "2026-08-18T06:28:59.912384+09:00"
       },
-      "last_written_reaction": "조회 4,657 · 좋아요 108 · 댓글 3 · ER 1.7% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "조회 4,657 · 좋아요 108 · 댓글 3 · ER 1.7% · 평소대비 0.8x (확정)"
     },
     {
       "notion_row_id": "f6d39eba-97ed-8257-aa0d-812de5e0b894",
@@ -396,7 +398,7 @@
         "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.040752838699642246,
         "vs_baseline": 0.5764576457645765,

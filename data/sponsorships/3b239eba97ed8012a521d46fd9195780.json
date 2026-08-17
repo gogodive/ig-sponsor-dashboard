@@ -25,7 +25,7 @@
       "first_seen": "2026-08-14",
       "posted_at": "2026-08-07T09:34:04.000Z",
       "permalink": "https://www.instagram.com/p/Dbu-j7fExVz/",
-      "thumbnail": "https://instagram.fymq2-1.fna.fbcdn.net/v/t51.82787-15/765263347_17951878923229389_1458277243089636000_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fymq2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gExkqUTpsEV88m5HqtjeCt5A7ZUNC9QO3ujcq4hCPP2_eALKDsF9h92-dsWyPFWtbo&_nc_ohc=AOMzymvQvzcQ7kNvwE-kaZN&_nc_gid=JlOmM0-HEw_Wu1zSFiRVCQ&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQH9qqjLTveQj0A61X9AvpO-C9z5NwGk_UU7WJHmVvQsmw&oe=6A87E8A5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/765263347_17951878923229389_1458277243089636000_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1ODM3MTM5OTA1MjI3Nzk1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Ni7pPUbRuVMQ7kNvwF_9pIE&_nc_oc=AdrGNSvpFYSsKgND6UFV18trr2mPLuKTFzhyDclFrxaDMl4ple-Jm_1s2M-zzPp99kg&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=DxsQgVNi-Rmz2q33zkJ2_g&_nc_ss=72689&oh=00_AQG9xe7LS3kerNBYXRmJpR0RH9Y6_xda8oGCjS1evfiOqA&oe=6A893A25",
       "caption": "@laserin_swim 의 신상 🩵 포레스트글로우 🩵 후기 \n#라세린수영복 #수영복추천 #신상추천 #제품제공 \n.\n.\n요즘 너무 더워 퇴근 후 친구랑 한강수영장 접선👍\n반짝임이 예술인 이번신상의 장점 소개해볼게요 ✨\n\n🦋 쿨톤의 정수 \n이번 피치&글로우 라인에서 쿨톤인 피부톤과 맞는 색으로 \n화사함 미쳤습니다 🫶 쿨톤러들 기존 템들과 입어도 어색하지 않아요 \n\n🦋360도 펄감\n위아래 양옆 어디로 보나 햇빛이면 햇빛, 조명이면 조명 어디서나 영롱보쓰입니다 ✨ 해가 떨어져서 펄감 없나 했는데 존재감이 은은하니 있어요\n\n🦋픽스드백 & ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 59,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
+      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
       "history": [
         {
           "d": "2026-08-14",
@@ -59,16 +59,22 @@
           "views": null,
           "likes": 59,
           "comments": 10
+        },
+        {
+          "d": "2026-08-18",
+          "views": null,
+          "likes": 59,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 93,
         "n": 9,
-        "captured_at": "2026-08-17T06:23:14.585902+09:00"
+        "captured_at": "2026-08-18T06:28:59.912384+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 0.13690476190476192,
         "vs_baseline": 0.7419354838709677,
@@ -82,7 +88,7 @@
           "analyzed_at": "2026-08-14T06:50:43.027547+09:00"
         }
       },
-      "last_written_reaction": "좋아요 59 · 댓글 10 · ER 13.7% · 평소대비 0.7x (D+9)"
+      "last_written_reaction": "좋아요 59 · 댓글 10 · ER 13.7% · 평소대비 0.7x (D+10)"
     }
   ],
   "flags": {

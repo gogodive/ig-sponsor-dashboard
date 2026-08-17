@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-17T14:56:30.000Z",
       "permalink": "https://www.instagram.com/p/Da5eSuUAtYB/",
-      "thumbnail": "https://instagram.fcag2-1.fna.fbcdn.net/v/t51.82787-15/750033385_17876220438683257_4415839028491912532_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fcag2-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHyVVGuRdEFh7quld0SsRZnV6XAZdQgsd8DlMzqVpys5hmBQC5kG97YPZCwpImY9Uc&_nc_ohc=RpMdxbyNwl0Q7kNvwHYKeNz&_nc_gid=hw5TwRVk77SaiGxTKum8HA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF7gw3UeCEexe9GXs7TUpPDU57UXwKA4L97GK94D5EKJA&oe=6A8814FE&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fbne11-1.fna.fbcdn.net/v/t51.82787-15/750033385_17876220438683257_4415839028491912532_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0MzMxNjE3NjgxMzM0ODM1MzE3ODc2MjIwNDMyNjgzMjU3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=F5It-P6vK00Q7kNvwFjUoBp&_nc_oc=AdpFxwNPQuJuxpc0vM9n1koAo91fhxQLoXc_2GWQtQKEsrYCXVjs40GuhOeaKbmQUnY&_nc_zt=23&_nc_ht=instagram.fbne11-1.fna&_nc_gid=LgAVYGePC7hQlpFqA2kD4g&_nc_ss=72689&oh=00_AQGmU4FE21k8l5uNxIdAe5tCXxfKwg_j3sUfX08nb3ngQw&oe=6A89667E",
       "caption": "#제품제공\n@laserin_swim\n\n🦋 𝐶𝑟𝑦𝑠𝑡𝑎𝑙 𝑊𝑎𝑣𝑒\n\n그냥 입기만 했는데도 웃음이 나오는\n너무 이쁜 수영복이랍니다 \n\n이 날 사실 구름도 많고 햇빛도 예쁘게 안비췄는데\n라세린 혼자 블링블링 다 해요💜💜\n\n야외에서 입기에 딱 좋아서\n수린이분들 & 유교걸 분들에게 너~~무 추천해요\n높은 가슴선과 안정적인 컷 덕분에\n저도 워터파크에서 맘놓고 입었답니다☺️\n\n두겹 수영복으로 비칠 걱정 No!\n흰색 안감으로 신문지 걱정도 No!!\n\n편하고 튼튼한 라세린과 함께 행복한 수영라이프 즐겨보세요\n⋆.˚✮🌊⋆˖°𓇼\n\n🫧 Size Tip\n",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -194,8 +194,8 @@
           "comments": 6
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.06960227272727272,
         "vs_baseline": 0.12959833614974653,
@@ -214,9 +214,11 @@
           "one_liner": "팔로워 695명 대비 조회 913회·참여율 6.47%로 소규모 계정치고 준수하나, 건당 767원·회당 37.8원 비용 효율은 평소대비 데이터 확보 후 최종 판단 필요.",
           "days": 14,
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 6.96%는 소규모 계정 기준으로 양호한 수치이나, 조회수(997)가 평소 대비 0.13x에 그쳐 이 게시물이 계정 내에서도 낮은 도달력을 기록했음을 의미한다. 조회 1회당 비용 34.6원, 참여 1건당 비용 704원은 절대 금액 자체는 작지만 704명 팔로워 규모에서 실제 브랜드 노출 범위가 극히 제한적이어서 69,000원 상품가 대비 인지 효과는 낮다고 판단된다. 비용 대비 가치는 미흡하며, 재협찬 시 콘텐츠 방향성 조율 또는 채널 적합성 재검토가 필요하다.",
+        "final_at": "2026-08-18T06:28:59.912384+09:00"
       },
-      "last_written_reaction": "조회 997 · 좋아요 43 · 댓글 6 · ER 7.0% · 평소대비 0.1x (D+30)",
+      "last_written_reaction": "조회 997 · 좋아요 43 · 댓글 6 · ER 7.0% · 평소대비 0.1x (확정)",
       "baseline": {
         "views_median": 7693,
         "eng_median": 1001,
@@ -402,7 +404,7 @@
         "captured_at": "2026-08-16T06:24:21.250821+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.09943181818181818,
         "vs_baseline": 0.9655172413793104,

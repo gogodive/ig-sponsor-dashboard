@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T10:34:23.000Z",
       "permalink": "https://www.instagram.com/p/DbDTZoxPXyx/",
-      "thumbnail": "https://scontent-gru2-1.cdninstagram.com/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFioW8Unu9Q-FRAZZ3G_qjqn8hf9Wq6LdDFEom5T7gUUGIEeJprsPEeuQmBB5iz-HE&_nc_ohc=ct3mvj06V3EQ7kNvwF7oWFd&_nc_gid=w5kbQ_w2Ilh8U2g70GASTw&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFyb5hzJiPTqkyTJ7xFThTO9Zm6r4eXd3IflWq8SOva8g&oe=6A8804F5&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk0NjA4MzAyMzE1MzEwMjAwMTE4NDgwNDUwNTExMDk2ODMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=c4Sp1SNC63UQ7kNvwGylhjm&_nc_oc=AdpInTfHl25t8p6rU074TXBeOsImseIczYTrt_zR8lj75oGCQy5wlCcuEf6NdAykib4&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=OyR0uxLkl5Ny7JYGtz9-QA&_nc_ss=72a8c&oh=00_AQGytevtPkuXZEx6hMuEmDYC5Z-BSkmfrVjkPstLeFMT1g&oe=6A895675",
       "caption": "@secrets__fit \n\n#ad #시크릿스 #운동복추천 #취미발레룩",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
+      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -192,6 +192,12 @@
           "views": 4291,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-18",
+          "views": 4291,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
@@ -201,7 +207,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": -9.276437847866419e-05,
         "vs_baseline": 0.666511338925132,
@@ -222,7 +228,7 @@
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
         }
       },
-      "last_written_reaction": "조회 4,291 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (D+26)"
+      "last_written_reaction": "조회 4,291 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (D+27)"
     }
   ],
   "flags": {

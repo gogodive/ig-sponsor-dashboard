@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-22T12:10:32.000Z",
       "permalink": "https://www.instagram.com/p/DbGDq1_s90s/",
-      "thumbnail": "https://instagram.fngo4-2.fna.fbcdn.net/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fngo4-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gE9QJ1H-etSGFNVZO0H0LBgyW6dwJ9UjdbjcsjA7fZ3XSYjtrYOIDYtZ7ZM8_uN1xc0JrVNAukC9pvBn14wvsG7&_nc_ohc=bRr-UHmGDb4Q7kNvwH2SsNZ&_nc_gid=So6pm1JbLUktS8zZAljqrg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEX-6GcNwy4r-WHZTsmkgKMygrk10jdp1jBgtBRNqVUCw&oe=6A8802E9&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk0Njg1ODI2MTc3MTQ0MzUwMDE3ODk5NzYxNjE4NTM4OTQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=6lA_8Lzfu-cQ7kNvwFOCAY0&_nc_oc=AdpfqylcPURy60bDXECnLJGRYSGbg98M2p8lRVTva8ICAv4ZuFtQ-j_vkAoKI2tjGVYS1MuCOAamKfVxbGVb12Xm&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=YfAzdSH1PszPIacd7zde7Q&_nc_ss=7c689&oh=00_AQEuy2VhmNfw0O_ycjHaJ2u1sbTfMdcOEMhl-50aLT9N7w&oe=6A895469",
       "caption": "#광고 #시크릿스\n\n이거 입고 예쁘다 소리 백번 들음..🩵\n연하늘이라 입자마자 얼굴까지 화사해 보이는 느낌☁️\n\n레깅스 쫀쫀하게 잡아줘서 핏이 진짜 개굳\n운동 갈 때도 좋고 그냥 툭 입고 나가기에도 너무 편한🤍\n안 입을 이유가 없다✨\n\n#시크릿스 #레깅스추천 #애슬레저",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "oh_a.min",
       "metrics": {
         "views": 7720,
-        "likes": 449,
+        "likes": 450,
         "comments": 84
       },
-      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
+      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -192,14 +192,20 @@
           "views": 7720,
           "likes": 449,
           "comments": 84
+        },
+        {
+          "d": "2026-08-18",
+          "views": 7720,
+          "likes": 450,
+          "comments": 84
         }
       ],
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.04037878787878788,
+        "er": 0.04045454545454545,
         "vs_baseline": null,
-        "cost_per_eng": 55.347091932457786,
+        "cost_per_eng": 55.243445692883896,
         "cost_per_view": 3.821243523316062
       },
       "analysis": {
@@ -216,7 +222,7 @@
           "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
         }
       },
-      "last_written_reaction": "조회 7,720 · 좋아요 449 · 댓글 84 · ER 4.0% (D+25)"
+      "last_written_reaction": "조회 7,720 · 좋아요 450 · 댓글 84 · ER 4.0% (D+26)"
     },
     {
       "notion_row_id": "91839eba-97ed-83fd-8ae2-817d3a15f61f",
@@ -318,7 +324,7 @@
         "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.08356060606060606,
         "vs_baseline": 1.7949552481692432,

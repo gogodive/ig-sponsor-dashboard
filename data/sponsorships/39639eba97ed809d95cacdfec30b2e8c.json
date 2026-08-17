@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-17T03:54:42.000Z",
       "permalink": "https://www.instagram.com/p/Da4TB5okxgf/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/746862655_17978585598063390_1396641600288095110_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFf9AwAJCMRBj5x5V2vz3m6FSjHZCzc1G7avbVDMwzYBo6hJQlC74YpwjsPSQZ2_OI&_nc_ohc=QjEgmANQgmMQ7kNvwFvtExy&_nc_gid=B_zCsjXt7yodMFDezAy-bg&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQFAi9I9MIhcnQHBd67t8P4x86yVW4udp4-dwXdyooZ5TQ&oe=6A881B7E&_nc_sid=c6f216",
+      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/746862655_17978585598063390_1396641600288095110_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0Mjk4NDkzNjU4MzkwMjk2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gwredhFOT3QQ7kNvwFKTNqX&_nc_oc=AdoxPokWc93yWg_6-8cPo0Ou0mmYa-6ZcBBzTohMmd4rZRNGuMfDlkY-q2auPDROP1Q&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=qHAiN_aQKncuD93CMuxkUA&_nc_ss=7c689&oh=00_AQEqq9BkD7tm9C56OrazU7ZFIFP4740crl1gbFNAqwsV2g&oe=6A8934BE",
       "caption": "@laserin_swim \n#협찬 #제품제공\n\n윤슬이 반짝이는 바다와 정말 잘 어울렸던\n라세린 레이나 선셋코랄 와이백🪸✨\n\n선셋코랄 컬러에 은은한 반짝임이 더해져\n햇빛을 받을 때마다 윤슬처럼 빛나는 게 정말 예뻤어요.\n사진에도 담기긴 했지만,\n실물의 반짝임은 다 표현되지 않는 게 조금 아쉽더라고요.🥹\n\n와이백이라 착용감도 편안했고,\n글리트 시리즈보다 살짝 여유 있게 느껴져서\n저는 한 사이즈 다운해도 괜찮았겠다는 생각이 들었어요.\n\n📏 171cm / 54kg / T149\nS 사이즈 착용 🤍\n\n#라세린수영복 #라세린 #수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -169,8 +169,8 @@
         "n": 9,
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.031161473087818695,
         "vs_baseline": 0.6666666666666666,
@@ -187,9 +187,11 @@
           "one_liner": "평소 대비 0.71x로 다소 부진하나 참여율 3.08%·569원/건으로 소형 계정 효율은 준수한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-01T07:08:59.113028+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 3.12%는 소규모 계정(마이크로 인플루언서) 기준으로 양호한 수준이나, 평소 게시물 대비 0.67배에 그쳐 협찬 콘텐츠가 오히려 평균 이하의 반응을 얻었다는 점은 아쉽다. 참여 1건당 비용 561원은 마이크로 인플루언서 협찬 단가로 수용 가능한 범위이지만, 팔로워 2,118명 규모에서 절대 노출량 자체가 매우 제한적이어서 브랜드 인지 확산 효과는 미미했을 것으로 판단된다. 148,000원 상품 가액 대비 확보한 참여(좋아요+댓글 66건)의 실질 마케팅 가치는 낮은 편으로, 동일 예산이라면 팔로워 규모가 더 크거나 다이빙·수영 전문 커뮤니티와 접점이 높은 계정에 집행하는 것이 효율적이다.",
+        "final_at": "2026-08-18T06:28:59.912384+09:00"
       },
-      "last_written_reaction": "좋아요 63 · 댓글 3 · ER 3.1% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "좋아요 63 · 댓글 3 · ER 3.1% · 평소대비 0.7x (확정)"
     },
     {
       "notion_row_id": "3aa39eba-97ed-8031-8452-c6b94dad6a4f",
@@ -200,7 +202,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T09:39:34.000Z",
       "permalink": "https://www.instagram.com/p/DbNgsOOzeeN/",
-      "thumbnail": "https://instagram.fmad17-1.fna.fbcdn.net/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGbyBJg4BJzR2sjXN25vSZONsrKTtYsODEHJlAOL9uPwADZ8zRsXunTK7CgwyZavlU&_nc_ohc=VHyo1sB5mW8Q7kNvwHvCdmD&_nc_gid=gzdQ6N7mIF1vklt-en87NA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQF5rLGWSLODLf6ONCIhVd4CQKD6TbEJ3URo3J-L9cBJSw&oe=6A881A96&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fblq4-1.fna.fbcdn.net/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0ODk1NjIyNDY5OTg4NTQ1MzE3OTc5OTAyNzg0MDYzMzkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7a00u67yxu4Q7kNvwH8X5F6&_nc_oc=Adoh3sh3yZolQsmgvLxv1dyaJyxWzIVgp881TGcYfE5D3M4JYaXg1Ci90_XUajJOtvc&_nc_zt=23&_nc_ht=instagram.fblq4-1.fna&_nc_gid=8HxpQ2xTIXrzOaAN0gXSAw&_nc_ss=72a8c&oh=00_AQENZMBe1Lr4ye_lH4KyDY42rHsl_4O3kF3oGmHEewYAIg&oe=6A896C16",
       "caption": "@laserin_swim \n\n#협찬 #제품제공 \n \n\n보고 또 보고 또 봐도 \n말도안되는 반짝임이 너무 예쁜\n라세린 선셋코랄✨\n\n#라세린수영복 #라세린 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -210,7 +212,7 @@
         "likes": 44,
         "comments": 3
       },
-      "metrics_updated_at": "2026-08-17T06:23:14.585902+09:00",
+      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -337,23 +339,29 @@
           "views": 1093,
           "likes": 44,
           "comments": 3
+        },
+        {
+          "d": "2026-08-18",
+          "views": 1093,
+          "likes": 44,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 681.5,
         "eng_median": 28.0,
         "n": 4,
-        "captured_at": "2026-08-17T06:23:14.585902+09:00"
+        "captured_at": "2026-08-18T06:28:59.912384+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.022190745986779982,
         "vs_baseline": 1.6038151137197358,
         "cost_per_eng": 787.2340425531914,
         "cost_per_view": 33.85178408051235
       },
-      "last_written_reaction": "조회 1,093 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.6x (D+22)",
+      "last_written_reaction": "조회 1,093 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.6x (D+23)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.66x로 부진한 출발이나, 팔로워 2천 소규모 계정 특성상 참여 1건당 1,028원·조회당 44.8원은 아직 관망 단계.",
@@ -521,7 +529,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.03918791312559018,
         "vs_baseline": 0.9222222222222223,
@@ -671,7 +679,7 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.05004721435316336,
         "vs_baseline": 1.1462639109697934,
