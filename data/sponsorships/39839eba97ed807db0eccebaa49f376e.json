@@ -25,7 +25,7 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-04T05:30:30.000Z",
       "permalink": "https://www.instagram.com/p/Dbm0TU3j6FA/",
-      "thumbnail": "https://instagram.fein1-1.fna.fbcdn.net/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NjA3OTIxNjgzNDg1MTA3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EbFyx0QZjsEQ7kNvwFE-6Me&_nc_oc=AdoaU9-AFxx9vFL4z8GjonKQy2d4pyDF2BBNUYp2vc3XoV9stNaWI7VpnDTtE4ELOPQ&_nc_zt=23&_nc_ht=instagram.fein1-1.fna&_nc_gid=-Jr3CW-NYHKXcmO3LaeI0w&_nc_ss=72a8c&oh=00_AQGhdJgoYzJ18UEKDKibQSLruJNIZFw5kzK5hPx_5aThEQ&oe=6A893A57",
+      "thumbnail": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NjA3OTIxNjgzNDg1MTA3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EbFyx0QZjsEQ7kNvwFVctc6&_nc_oc=Ado8s4SOAbiTkYPWoDuvu91pDo8WlzJmELMYgZgtNVD5x88pCUvGDIHVQyZ8V7rxNCrx6_Q4R27Utbz5bnucier8&_nc_zt=23&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_gid=dhCot-Tc4zCnPOwlr5onWQ&_nc_ss=72289&oh=00_AQEpxhoiNKJ76skKxYT-9eU1jtRU8SXUH5XIpn-6Znc_pg&oe=6A8A8BD7",
       "caption": "#AD @intotheblue_store\n\n롱핀은 처음이라 걱정했는데,\n첫 피닝부터 생각보다 훨씬 편했습니다.💙\n\n오래 차고 있어도 다리가 덜 피곤했고,\n턴도 부드럽게 돌아가더라고요.\n\n찾아보니\n✔️ 유리섬유(파이버글라스) 블레이드\n✔️ 발목에 맞춘 23° 각도 설계\n✔️ 동양인 발에 맞춘 풋포켓\n\n이런 디테일 덕분에\n초보도 부담 없이 신을 수 있었던 것 같아요.\n\n특히 오토클레이브 공법으로 제작돼\n내구성도 좋고,\n카본에 가까운 탄성감까지 느낄 수 있어서 만족했습니다.🤿\n\n앞으로 바다 갈 때마다\n가장 자주 함께할 장비가 될 것 같아",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 176,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -113,28 +113,39 @@
           "views": null,
           "likes": 176,
           "comments": 9
+        },
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": 176,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 186.0,
         "n": 12,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.015978580065641734,
         "vs_baseline": 0.9946236559139785,
         "cost_per_eng": 1427.027027027027,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 176 · 댓글 9 · ER 1.6% · 평소대비 1.0x (D+13)",
+      "last_written_reaction": "좋아요 176 · 댓글 9 · ER 1.6% · 평소대비 1.0x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.79x로 저조한 초기 반응, 참여 1건당 1,682원은 개선 여지가 있어 추가 모니터링 필요",
           "days": 3,
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.99x로 팔로워 반응이 사실상 변화 없고, 참여 1건당 1,427원은 업계 평균 대비 양호하나 협찬 효과가 뚜렷하지 않아 추가 액션 검토 필요.",
+          "days": 14,
+          "analyzed_at": "2026-08-19T06:27:53.581135+09:00"
         }
       }
     }

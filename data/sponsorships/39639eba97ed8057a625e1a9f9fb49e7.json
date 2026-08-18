@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T10:56:37.000Z",
       "permalink": "https://www.instagram.com/p/Da-MqwfpFj7/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.71878-15/752708335_1963100697643527_8105339318585615244_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDY0NjAzODQ2OTc2MTI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=mdNHG3ZhKpoQ7kNvwElb2Ob&_nc_oc=AdrZBfjqy43Sl_OGue65ai32oX6hhq_SC-iB4xpwPra3jTXOIAQ7EqEc9ysAOniThQw&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=yZsC6DQeV7B_-y6IkYJB6g&_nc_ss=7ca8c&oh=00_AQFaXueTKRY0J4faikNm8zGyg4LFqHKJetC7RkEjGqo1Lg&oe=6A89679A",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.71878-15/752708335_1963100697643527_8105339318585615244_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDY0NjAzODQ2OTc2MTI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=JcbEufMlXdwQ7kNvwFJZOm4&_nc_oc=AdrdxdH5m4CcMO933xu-fBSlSJVtXY47MGqciIniFpjQttMzS8lel3Z0Nlwef_ts4x0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=B0YjQsOz030aCpugpjCsGw&_nc_ss=72689&oh=00_AQEWjQGZjU4T66M4M920XbS6RNL1vye9QwUxsYonLBRFHw&oe=6A8AB91A",
       "caption": "🤿💚🩷\n\nScuba Diving Check 🙋🏼‍♀️\n.\n.\n.\n🩱 @laserin_swim \n\n#scubadiving #scuba #swimwear #스쿠버다이빙 #scubagirl",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -33,9 +33,9 @@
       "metrics": {
         "likes": 356,
         "comments": 10,
-        "views": 11167
+        "views": 11219
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -192,21 +192,27 @@
           "views": 11167,
           "likes": 356,
           "comments": 10
+        },
+        {
+          "d": "2026-08-19",
+          "views": 11219,
+          "likes": 356,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": 12647,
         "eng_median": 422,
         "n": 5,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.010114129383480256,
-        "vs_baseline": 0.8829761998893018,
+        "vs_baseline": 0.8870878469202182,
         "cost_per_eng": 107.92349726775956,
-        "cost_per_view": 3.537207844541954
+        "cost_per_view": 3.5208129066761744
       },
       "analysis": {
         "one_liner": "조회수 미집계 상태이나 참여율 0.89%·건당 245원은 무난한 초기 수치로, 평소 대비 지표 확인 후 최종 판단 필요.",
@@ -222,7 +228,7 @@
           "analyzed_at": "2026-08-03T06:58:43.658866+09:00"
         }
       },
-      "last_written_reaction": "조회 11,167 · 좋아요 356 · 댓글 10 · ER 1.0% · 평소대비 0.9x (D+29)"
+      "last_written_reaction": "조회 11,219 · 좋아요 356 · 댓글 10 · ER 1.0% · 평소대비 0.9x (D+30)"
     },
     {
       "notion_row_id": "e7739eba-97ed-826b-ad47-01923d90bb9c",
@@ -408,7 +414,7 @@
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.013153895045181972,
         "vs_baseline": 1.8666666666666667,
@@ -442,5 +448,5 @@
   },
   "child_db_id": "85e39eba-97ed-83ad-b76a-012cdfff9369",
   "followers": 36187,
-  "last_written_score": 137
+  "last_written_score": 138
 }

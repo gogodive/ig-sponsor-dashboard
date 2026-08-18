@@ -25,17 +25,17 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-22T12:10:32.000Z",
       "permalink": "https://www.instagram.com/p/DbGDq1_s90s/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk0Njg1ODI2MTc3MTQ0MzUwMDE3ODk5NzYxNjE4NTM4OTQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=6lA_8Lzfu-cQ7kNvwFOCAY0&_nc_oc=AdpfqylcPURy60bDXECnLJGRYSGbg98M2p8lRVTva8ICAv4ZuFtQ-j_vkAoKI2tjGVYS1MuCOAamKfVxbGVb12Xm&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=YfAzdSH1PszPIacd7zde7Q&_nc_ss=7c689&oh=00_AQEuy2VhmNfw0O_ycjHaJ2u1sbTfMdcOEMhl-50aLT9N7w&oe=6A895469",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk0Njg1ODI2MTc3MTQ0MzUwMDE3ODk5NzYxNjE4NTM4OTQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=8DMM1bQSTHYQ7kNvwHBML1h&_nc_oc=AdpJyBe6JyTHC5FqYNHT-eCfEH2dq7NWO-_QToCfhC6X4ZSrL2mho1-YAvrWE7EG3tE&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=jYJMcpxwXT_iC4QvPmGK6A&_nc_ss=72689&oh=00_AQG-oP6VnCqCRWQPxs3yDiSfulAfm6fqtghBwA8R3AISLQ&oe=6A8AA5E9",
       "caption": "#광고 #시크릿스\n\n이거 입고 예쁘다 소리 백번 들음..🩵\n연하늘이라 입자마자 얼굴까지 화사해 보이는 느낌☁️\n\n레깅스 쫀쫀하게 잡아줘서 핏이 진짜 개굳\n운동 갈 때도 좋고 그냥 툭 입고 나가기에도 너무 편한🤍\n안 입을 이유가 없다✨\n\n#시크릿스 #레깅스추천 #애슬레저",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "oh_a.min",
       "metrics": {
-        "views": 7720,
+        "views": 7815,
         "likes": 450,
         "comments": 84
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-23",
@@ -198,15 +198,21 @@
           "views": 7720,
           "likes": 450,
           "comments": 84
+        },
+        {
+          "d": "2026-08-19",
+          "views": 7815,
+          "likes": 450,
+          "comments": 84
         }
       ],
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.04045454545454545,
         "vs_baseline": null,
         "cost_per_eng": 55.243445692883896,
-        "cost_per_view": 3.821243523316062
+        "cost_per_view": 3.7747920665387076
       },
       "analysis": {
         "one_liner": "D+0 기준 팔로워 대비 참여율 2.58%로 안정적이나, 평소대비 조회·참여 배수 확인 전 최종 판단 유보 권장.",
@@ -222,7 +228,7 @@
           "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
         }
       },
-      "last_written_reaction": "조회 7,720 · 좋아요 450 · 댓글 84 · ER 4.0% (D+26)"
+      "last_written_reaction": "조회 7,815 · 좋아요 450 · 댓글 84 · ER 4.0% (D+27)"
     },
     {
       "notion_row_id": "91839eba-97ed-83fd-8ae2-817d3a15f61f",
@@ -324,7 +330,7 @@
         "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": 0.08356060606060606,
         "vs_baseline": 1.7949552481692432,

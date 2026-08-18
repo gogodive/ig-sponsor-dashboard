@@ -24,7 +24,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.005387065091222953,
         "vs_baseline": 2.0763509629203796,
@@ -201,8 +201,8 @@
       "media_kind": "피드",
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.007073623222913381,
         "vs_baseline": 33.95238095238095,
@@ -211,7 +211,7 @@
       },
       "posted_at": "2026-07-18T03:10:08.000Z",
       "permalink": "https://www.instagram.com/p/Da6yuavkq0b/",
-      "thumbnail": "https://instagram.fsyd7-1.fna.fbcdn.net/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0MzY4NzQwMzgzNTMyNTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4YWUKKscfZQQ7kNvwESrSRj&_nc_oc=Adp4Tcb2GHQaERpRtXKTK9_T_Xf3RZzQPUypPXLmEPj3H2cmH619XuRb9jwyYzYWD57q1ZZ_NEU4plt19kAcLKMP&_nc_zt=23&_nc_ht=instagram.fsyd7-1.fna&_nc_gid=2kObMdyOa-lazQWhPohCaw&_nc_ss=72689&oh=00_AQGvgZdDS60QlWCBxl3rdv2zBejnbo82xw0MBzyNQKRRgw&oe=6A896926",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/750741425_18622418365003531_3106256431146893975_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0MzY4NzQwMzgzNTMyNTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4YWUKKscfZQQ7kNvwFa1q3Y&_nc_oc=Adozob_6jXSS4ua2Vtzw2fmLTT5mBiBMDxkYx_bRA3f8pLzUXRsoiOPqVyPAXnbJ9PlUOjKTaMm3R40miANmtVHa&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wyzRfFoLRTL3w7mNJRrorw&_nc_ss=72689&oh=00_AQHTrq9wD4u5_t8y27e9KXMEv2YywihpmOF1rhVKuhJvKw&oe=6A8ABAA6",
       "caption": ".코우리대교를 지나 코우리섬에 들어가면\n코우리지마비치가 있거든요.\n다음엔 여기에 몇일 머물러보고싶어요.\n여기는 사람들도 너무 친절해요. \n다정한 웃음이 오래 기억에 남을 거에요. \n\n#수영복  @laserin_swim \n\n#코우리해변#오키나와여행#라세린수영복#수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -389,9 +389,11 @@
           "one_liner": "평소 대비 29x 이상의 이례적 반응으로 참여 1건당 98원의 극히 효율적인 비용을 기록 중인 고성과 협찬.",
           "days": 14,
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 33.95배라는 극히 높은 참여 배율은 이 게시물이 해당 계정에서 이례적인 바이럴 반응을 이끌어냈음을 의미하며, 참여 1건당 97원이라는 비용은 인플루언서 마케팅 시장 기준으로 매우 효율적인 수준이다. 다만 팔로워 대비 절대 참여율이 0.71%로 낮고 피드 게시물 특성상 조회수 데이터가 없어 실제 도달 규모를 검증할 수 없다는 점은 한계로 남는다. 전반적으로 276,000원의 협찬 비용 대비 참여 효율과 평소 대비 반응 폭발력을 고려하면 비용 대비 가치 있는 협찬으로 평가된다.",
+        "final_at": "2026-08-19T06:27:53.581135+09:00"
       },
-      "last_written_reaction": "좋아요 684 · 댓글 29 · ER 0.7% · 평소대비 34.0x (D+30)"
+      "last_written_reaction": "좋아요 684 · 댓글 29 · ER 0.7% · 평소대비 34.0x (확정)"
     },
     {
       "notion_row_id": "3a739eba-97ed-80d6-82bd-e811933970de",
@@ -401,7 +403,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.00839310693770648,
         "vs_baseline": 40.285714285714285,
@@ -596,7 +598,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.008065716241554808,
         "vs_baseline": 33.875,

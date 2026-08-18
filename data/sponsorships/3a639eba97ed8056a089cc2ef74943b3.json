@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-27T15:04:26.000Z",
       "permalink": "https://www.instagram.com/p/DbTPn-jFCTI/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MDU2NTE2Mzc5NzgzNzI5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vmZROHkhteEQ7kNvwHRgNZo&_nc_oc=AdpWLUBpKdq3Gyv4NN79QIZGp7G0rK7mhVCUuPtB8os0pB07peeRzi_5X5RSW3G8P69Fjr4pUN3R06217jVykMDi&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=dirH77HQIDvVV4sacv9h8Q&_nc_ss=7c289&oh=00_AQFuZOB3XL5hn4ugdG6z-0InZEdzGAw5QJOp-DYbhAvqrw&oe=6A8939FE",
+      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/758357167_18370861585234219_7364247967749115390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MDU2NTE2Mzc5NzgzNzI5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=shYfKEZt7DAQ7kNvwHbFym_&_nc_oc=Adr0i_Yj96f5r1WJzsIi1TQeJMs90THpX6wVyf20iIum9quPsbdCJiaZs2uybo2bVv4&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=rUHSq--Cz2-OUDS_JDlCUw&_nc_ss=72289&oh=00_AQF3jRadDKPTPgMmn6R6ofmNdEROOq8QXlyrSBbEZRLFhA&oe=6A8A8B7E",
       "caption": "@secrets__fit ⚡️🍋🎧\n\n운동하는 날도 핏은 포기 못해 ~💨\n\n#activewearfashion",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -101,10 +101,16 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,
@@ -123,7 +129,7 @@
           "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+21)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+22)"
     }
   ],
   "flags": {

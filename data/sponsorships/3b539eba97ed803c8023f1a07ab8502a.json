@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "jisuda_",
   "followers_notion": 110000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "82b39eba-97ed-82f7-b2a7-81b1d6e0e129",
+      "url": "https://www.instagram.com/p/Db_8GtZE5nx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "Db_8GtZE5nx",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-14",
+      "first_seen": "2026-08-19",
+      "posted_at": "2026-08-13T23:39:42.000Z",
+      "permalink": "https://www.instagram.com/p/Db_8GtZE5nx/",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/771708842_18416747818149631_5896624631939337328_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzE1MDQ4MTcxOTUwNDk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Kbw09p0q7esQ7kNvwEIpgub&_nc_oc=AdqNPM3etAIDklfnhtQZWZlN8Wze_0UjM-rm5rDEUYtQ4PUDFmrkw5C20-PVjULTtno&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=lWZ0R-oETiaxLcWR_SbwsA&_nc_ss=72289&oh=00_AQEKUmh7yPN3iOUUjfWI7UxHsdQm650t1qycCoe_SGqemg&oe=6A8AAAC7",
+      "caption": "많은 분들이 물어보셨던 그 수트!🤍\n@intotheblue_store  에서 구매가능하세요\n\n-딥바이브 트루화이트 오픈백 프리다이빙 스프링수트 2mm\n화이트라 바다에서 정말 눈에 띄어요. \n오픈백은 부담스러울까 걱정했는데, 생각보다 안정적이고 뒷모습이 정말 예뻐서 인생샷 제조기 그 자체!\n2mm 두께가 딱 적당해서 움직임이 정말 편함\n신축성도 좋고, 몸을 꽉 잡아주는 느낌\n\n프리다이빙 시작하시는 분들이나, 예쁜 수트 찾고 계신 분들에게 강력 추천합니다!\n\n-고고테르소마스크\n시크한 무광 실리콘 스커트는 3D 안면핏 설계로 들뜸없이 부",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "jisuda_",
+      "metrics": {
+        "likes": 330,
+        "comments": 39
+      },
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "history": [
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": 330,
+          "comments": 39
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 442,
+        "n": 9,
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 4,
+      "computed": {
+        "er": 0.030571665285832644,
+        "vs_baseline": 0.834841628959276,
+        "cost_per_eng": 701.8970189701897,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.83x로 소폭 부진하나 참여당 702원·참여율 3.06%는 소규모 계정 기준 준수한 초기 효율.",
+          "days": 4,
+          "analyzed_at": "2026-08-19T06:27:53.581135+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 330 · 댓글 39 · ER 3.1% · 평소대비 0.8x (D+4)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "5fc39eba-97ed-835f-8875-81403a3d20d2",
-  "followers": 110000
+  "followers": 12070,
+  "last_written_score": 83
 }

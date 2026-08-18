@@ -25,7 +25,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T07:12:32.000Z",
       "permalink": "https://www.instagram.com/p/DbU-ae8D6xe/",
-      "thumbnail": "https://instagram.fbne11-1.fna.fbcdn.net/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk1MTA1NjExOTI3ODgxNDk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6B0PK6ivm3cQ7kNvwEu2Ygo&_nc_oc=AdrP1o0MTIDXdmXpx9rU185cfVDn7wBENL4OaZR0JCiOBpz3NIjE5lN3ik3eMrsQ7r8&_nc_zt=23&_nc_ht=instagram.fbne11-1.fna&_nc_gid=5z4lwcp0dnUHWjqbd8W-4Q&_nc_ss=7c689&oh=00_AQG8GGibe3Y9p-LTz4yRlXC7Q7eYVrlZdL6-CAeVVErxFw&oe=6A89385C",
+      "thumbnail": "https://instagram.fman2-2.fna.fbcdn.net/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk1MTA1NjExOTI3ODgxNDk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6B0PK6ivm3cQ7kNvwEWJPr4&_nc_oc=AdpJJEWBIVMpXF76s1OgkDvLzEOOaNz9WqwQQunp-3qaxtfpJ0C6DCYQ5gBb3mgquu8&_nc_zt=23&_nc_ht=instagram.fman2-2.fna&_nc_gid=hLVjML1G8RBusEMjfGIM5g&_nc_ss=72a8c&oh=00_AQFsIaa1wRhZ4_mtGUbFa3671DekcdmD1fM3DiScx9Hh5Q&oe=6A8A89DC",
       "caption": "#협찬 @intotheblue_store \n울릉도에서 첫 시착💙🌊\n\n이번에 여행에 함께하게 된\n🩵딥바이브 크리스탈 유리섬유 롱핀과\n💙딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm\n\n사진으로도 예뻤지만,\n바다에서 보니 그라데이션 블루 컬러가 더 매력적이더라고요.✨\n\n2mm 슈트는 몸에 편안하게 밀착되면서도\n움직임이 정말 편해서 첫 착용인데도 \n부담 없이 다이빙을 즐길 수 있었어요🤿💦\n\n앞으로 이 장비와 함께 더 많은 바다를 기록해볼게요🫧💙\n.\n.\n.\n.\n#인투더블루 #딥바이브 #딥바이브롱핀 #크리스탈롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 244,
         "comments": 15
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -155,23 +155,29 @@
           "views": null,
           "likes": 244,
           "comments": 15
+        },
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": 244,
+          "comments": 15
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 256.0,
         "n": 4,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.013159900411564453,
         "vs_baseline": 1.01171875,
         "cost_per_eng": 1660.2316602316603,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 244 · 댓글 15 · ER 1.3% · 평소대비 1.0x (D+20)",
+      "last_written_reaction": "좋아요 244 · 댓글 15 · ER 1.3% · 평소대비 1.0x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.82x로 기대 이하 출발, 참여 1건당 1,972원은 준수하나 3일차 기준 추가 확산 여부를 지켜볼 필요 있음.",

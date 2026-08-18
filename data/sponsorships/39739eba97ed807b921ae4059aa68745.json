@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-18T15:14:28.000Z",
       "permalink": "https://www.instagram.com/p/Da8FnjqlBDJ/",
-      "thumbnail": "https://instagram.fsyd11-1.fna.fbcdn.net/v/t51.82787-15/750117628_17978019093103650_6652418501423511532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk0NDA1MDIzNDY2Nzc5NjkwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FlJZd8PIPBcQ7kNvwEobcuK&_nc_oc=AdriaUfPGxVxzGojIYebQQA4N9jZ_vvXpCb1fuOv7G7_9ojBVLkbryvuUX7nSmvwIRU&_nc_zt=23&_nc_ht=instagram.fsyd11-1.fna&_nc_gid=sjsDXVxJc05sgRe9dk2bAw&_nc_ss=72689&oh=00_AQFtpf8HpZyUq5MUBEhvhi3iJgkzoOmWGN8pBsnzMJ3qtQ&oe=6A893C78",
+      "thumbnail": "https://instagram.fbps3-1.fna.fbcdn.net/v/t51.82787-15/750117628_17978019093103650_6652418501423511532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0NDA1MDIzNDY2Nzc5NjkwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FlJZd8PIPBcQ7kNvwGqGpjf&_nc_oc=Adq7ahu2EOGmoQYHCVYidRQxsQj1gu5CInz-ZsdWBFSYXHhgUYrD1q5aFFnXF_RAzo0&_nc_zt=23&_nc_ht=instagram.fbps3-1.fna&_nc_gid=5cqMbAmirHKjGlY2oCZpZQ&_nc_ss=7ca8c&oh=00_AQEP8chgyFG2J3hwMVQ_if4tWSwLiuSFC_T5QI4Ep4VJzQ&oe=6A8A8DF8",
       "caption": "✨ @laserin_swim \n“이 색감… 실물이 사진보다 더 예쁜 거 실화인가요?💜🩷✨”\n\n햇살 아래서는 코튼캔디처럼 은은하게,\n물속에서는 더 영롱하게 빛나는 💫\n\n이번에 착용한 수영복은\n라세린 코튼캔디 더블크로스백🍬\n\n🤍 두겹 원단-화이트 컬러도 비침 걱정x\n🤍 물속에서도 형태가 잘 유지되는 크레오라 원사를 사용\n🤍 미들컷 디자인이라 활동하기 편하고 부담 없이 착용 가능!\n🤍 등 라인을 예쁘게 잡아주는 더블 크로스백 디자인까지💕\n\n특히 빛에 따라 핑크, 라벤더, 하늘빛으로\n계속 달라지는 오로라 같은 컬러감이 정말 예뻤어요.☁️🌈",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -205,8 +205,8 @@
         "n": 12,
         "captured_at": "2026-08-18T06:28:59.912384+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03577661431064572,
         "vs_baseline": 0.6059113300492611,
@@ -225,9 +225,11 @@
           "one_liner": "평소 대비 0.68x로 다소 부진하나 참여당 686원·참여율 3.53%는 소형 계정 기준 무난한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 3.58%는 소규모 계정 기준으로 양호한 수준이나, 평소 대비 0.61배라는 점은 협찬 게시물이 오히려 해당 계정의 평균 반응을 밑돌았음을 의미해 콘텐츠 자연스러움이나 팔로워 관심도 측면에서 아쉬움이 있다. 참여 1건당 비용 675원은 마이크로 인플루언서 시장에서 수용 가능한 범위이나, 피드 게시물 특성상 조회수 데이터가 없어 실제 노출 효율을 검증하기 어렵다. 83,000원의 투자 대비 123건(좋아요+댓글)의 참여를 확보한 것은 인지도 확산보다는 소규모 팬덤 내 제품 노출에 그친 수준으로, 동일 예산 재집행 시 릴스 형식 전환 또는 평소 참여율이 더 높은 계정 발굴을 권장한다.",
+        "final_at": "2026-08-19T06:27:53.581135+09:00"
       },
-      "last_written_reaction": "좋아요 117 · 댓글 6 · ER 3.6% · 평소대비 0.6x (D+30)"
+      "last_written_reaction": "좋아요 117 · 댓글 6 · ER 3.6% · 평소대비 0.6x (확정)"
     }
   ],
   "flags": {

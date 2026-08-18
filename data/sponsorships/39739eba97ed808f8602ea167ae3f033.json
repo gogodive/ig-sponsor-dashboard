@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T08:01:44.000Z",
       "permalink": "https://www.instagram.com/p/DbSfQDZkf4P/",
-      "thumbnail": "https://instagram.flcj1-1.fna.fbcdn.net/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?_nc_cat=100&ig_cache_key=Mzk1MDM1MTU4MTQ1MDYyODY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jgzoojMJYFAQ7kNvwFbhwnM&_nc_oc=AdqCIhfADbA4q1erdQclVgi_x5Ivfd0fKS5NkyzBgrSrZZnLgr8t9hfzg7rHfXhS-yw&_nc_zt=23&_nc_ht=instagram.flcj1-1.fna&_nc_gid=G2Lfnmz7QW0eXXQ_Y6arXA&_nc_ss=72689&oh=00_AQEHluk2MpeNGYaFPzCDr_Vfzv-lr-wne8ANXe45k1wSKw&oe=6A893E62",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?_nc_cat=100&ig_cache_key=Mzk1MDM1MTU4MTQ1MDYyODY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jgzoojMJYFAQ7kNvwFNZDc6&_nc_oc=AdrlggL6QCB5KrAd0oixFRYIobHd_aajX18i1EdpO-FbuNDtGIDl8CnvUJ98yEfYHy0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=0HkiM8SBs3AewFKnN9_OlQ&_nc_ss=72689&oh=00_AQE2BdweaVvgTVYvGUxw9WJZDLjJX5mW70UMw8jszt_o_w&oe=6A8A8FE2",
       "caption": "#협찬 @intotheblue_store\n\n반짝반짝 너무 예쁜 오로라 빛이 나는 롱핀🧜🏻‍♀️\n❤️딥바이브 오로라 롱핀❤️\n움직임에 따라 다른빛을 내는 신비로운 컬러의 롱핀인데\n신어보니 발도 편하고 가벼워서 좋았어요🩷\n\n수중장비 멀티샵 인투더블루에 딥바이브 제품들이 있는데\n프리다이빙 슈트도 탐나더라구요😊🤍\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구경가봐요~🫧🏊🏻‍♂️\n\n✔️제품명 - 딥바이브 오로라 롱핀✨️\n🦶발사이즈 235 기준 35-36 사이즈 착용\n\n#인투더블루 #딥바이브 #딥바이브롱핀\r\n#프리다이빙 프리다이빙핀❤️",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 189,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -167,23 +167,29 @@
           "views": null,
           "likes": 189,
           "comments": 6
+        },
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": 189,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 117,
         "n": 11,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.008597125473944096,
         "vs_baseline": 1.6666666666666667,
         "cost_per_eng": 743.5897435897435,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 189 · 댓글 6 · ER 0.9% · 평소대비 1.7x (D+21)",
+      "last_written_reaction": "좋아요 189 · 댓글 6 · ER 0.9% · 평소대비 1.7x (D+22)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.21배 수준으로 무난한 초기 반응이나, 참여율 0.55%·1건당 1,160원은 비용 효율 개선 여지가 있어 추이 지속 모니터링 필요.",
@@ -205,26 +211,26 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.0018516885636187285,
-        "vs_baseline": 0.38989990900818927,
+        "vs_baseline": 0.39126478616924476,
         "cost_per_eng": 3452.3809523809523,
-        "cost_per_view": 169.1948658109685
+        "cost_per_view": 168.6046511627907
       },
       "posted_at": "2026-07-22T07:49:47.000Z",
       "permalink": "https://www.instagram.com/p/DbFj2w_xFEb/",
-      "thumbnail": "https://instagram.fgdl12-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk0NjcxODM0MzU0OTE3ODEzOTE4NjAwNzQzMTEwMDEyNjQ2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=hqPWvGPYEsgQ7kNvwEZB2zl&_nc_oc=AdqCyz5Zi52ZZQpI7pI0L9GVqTWnzhKBRxwgBi1J0_cLVGBRAY60LeE_ee8CKDkGExk&_nc_zt=23&_nc_ht=instagram.fgdl12-1.fna&_nc_gid=vCHIa8wcjd5D7OYCniIIVA&_nc_ss=7ca8c&oh=00_AQHlSfq7ruZ4Y4P7N6lFuZdGLsSLt83JIL6M3wyKL-touQ&oe=6A8950D4",
+      "thumbnail": "https://instagram.fsvq2-1.fna.fbcdn.net/v/t51.82787-15/753429489_18600743113012646_3633539093812207447_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk0NjcxODM0MzU0OTE3ODEzOTE4NjAwNzQzMTEwMDEyNjQ2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=X2uKBt6kbZsQ7kNvwFmXX8y&_nc_oc=AdphRcJzP8pm0vCTCl8tYBuR9DvA9rcsfIdaRXswlUwVzNxWrhFrLhnGKXVCpVOGN-I&_nc_zt=23&_nc_ht=instagram.fsvq2-1.fna&_nc_gid=KeDaqZRNf3i0A5ypSAGjZw&_nc_ss=7c689&oh=00_AQGCt5PpgKU4y8JKDvrxaU8fGLiI5rU29DoC-VYplnH-ng&oe=6A8AA254",
       "caption": "#협찬 @intotheblue_store\n\n🩵 물속에서 인어가 되는 방법🩵🧜🏻‍♀️\n\n수중장비 멀티샵 \"인투더블루\" 스토어에서\n판매하고 있는 딥바이브 오로라 롱핀💕\n오로라 롱핀은 움직임마다 다른색으로 예쁘게 변하고🤍\n유리 섬유라서 가볍고 두께도 얇은데다가\n유연한 탄성과 탄력성👍\n동양인 맞춤 풋포켓에 소프트한 강도로 부드러운 \n피닝감을 줘서 여성 다이버나 발목이 약한분들께 추천해요!\n롱핀인데 엄청 가볍고 잘나가서 놀랬어요~ \n부드럽게 쭉쭉 나가니 마치 인어가 된 듯한 느낌이예요🧜🏻‍♀️\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "s.y.mimi",
       "metrics": {
-        "views": 857,
+        "views": 860,
         "likes": 40,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-25",
@@ -375,15 +381,21 @@
           "views": 857,
           "likes": 40,
           "comments": 2
+        },
+        {
+          "d": "2026-08-19",
+          "views": 860,
+          "likes": 40,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 2198,
         "eng_median": 55,
         "n": 7,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
-      "last_written_reaction": "조회 857 · 좋아요 40 · 댓글 2 · ER 0.2% · 평소대비 0.4x (D+26)",
+      "last_written_reaction": "조회 860 · 좋아요 40 · 댓글 2 · ER 0.2% · 평소대비 0.4x (D+27)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.36x 저조한 초기 반응에 조회당 492원·참여당 1만원으로 비용 효율이 낮아 추가 모니터링 필요.",

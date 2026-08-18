@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T12:30:41.000Z",
       "permalink": "https://www.instagram.com/p/DbN0VHoSLbK/",
-      "thumbnail": "https://instagram.fyyc2-1.fna.fbcdn.net/v/t51.82787-15/756609984_18032572289826786_493566060540140727_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0OTA0MjU5Nzk5MzQyODY4MjE4MDMyNTcyMjgzODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjc2MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Y2SFu_GdKeQQ7kNvwFwXYLY&_nc_oc=AdpeuzRATQ5bB3iHTkUjbIZLezevXD6T6h_d8RLDykg2ycgWk6veP548gZNq-TP13js&_nc_zt=23&_nc_ht=instagram.fyyc2-1.fna&_nc_gid=iu1kS6GP_Ezw7u21-KMEtw&_nc_ss=72a8c&oh=00_AQH937xFdcOoAKB4m9SO4OvhbdC-TKsyZhthI2qyACS2Ag&oe=6A896687",
+      "thumbnail": "https://scontent-gru1-2.cdninstagram.com/v/t51.82787-15/756609984_18032572289826786_493566060540140727_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0OTA0MjU5Nzk5MzQyODY4MjE4MDMyNTcyMjgzODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjc2MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lQyH4geS09cQ7kNvwE1YQK0&_nc_oc=Adra_0mBI263KwAjd4qiCjGrC1x0DwEbQyTL0jugHYfkZR0asq0vrIr6yWXn494X_zU&_nc_zt=23&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_gid=HsX1A4ieY6mH6x6Kq7TM4A&_nc_ss=7ca8c&oh=00_AQFbuREXwj-zvVJhXZ6sN8ePzhjJCJ-zBGg2q0kfPeWgHQ&oe=6A8AB807",
       "caption": "LASERIN 🩵 \n폼폼폼폼폼폼폼🫧❕ 근데 \n나 어디까지 떠내려가요??\n@laserin_swim \n@nerea_flagship \n#수영복 #라세린 #수영복추천#협찬\n#네레아",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "modu_love_dive",
       "metrics": {
-        "views": 4870,
+        "views": 4913,
         "likes": 215,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -168,23 +168,29 @@
           "views": 4870,
           "likes": 215,
           "comments": 9
+        },
+        {
+          "d": "2026-08-19",
+          "views": 4913,
+          "likes": 215,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": 8771.5,
         "eng_median": 216.0,
         "n": 8,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.16,
-        "vs_baseline": 0.5552072051530526,
+        "vs_baseline": 0.5601094453628228,
         "cost_per_eng": 176.33928571428572,
-        "cost_per_view": 8.11088295687885
+        "cost_per_view": 8.039894158355384
       },
-      "last_written_reaction": "조회 4,870 · 좋아요 215 · 댓글 9 · ER 16.0% · 평소대비 0.6x (D+23)",
+      "last_written_reaction": "조회 4,913 · 좋아요 215 · 댓글 9 · ER 16.0% · 평소대비 0.6x (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.55x로 부진하나 참여율 15%·건당 198원으로 비용 효율은 양호—D+7까지 추이 관찰 필요.",
@@ -205,8 +211,8 @@
       "media_kind": "피드",
       "upload_date_notion": "2026-07-19",
       "first_seen": "2026-07-24",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.14642857142857144,
         "vs_baseline": 0.9050772626931567,
@@ -215,7 +221,7 @@
       },
       "posted_at": "2026-07-18T11:54:52.000Z",
       "permalink": "https://www.instagram.com/p/Da7uxqwEwW2/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/742031413_18031547429826786_5962882566414380845_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0Mzk1MTUyMDg4NjQ0MzE4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xObdk7-TcUMQ7kNvwHG4TDU&_nc_oc=Adp-tnmU_AGWviS6pDLFVCQHuJBOCd5hC2CdVxa7EtT4B4nLut5PqsL_yCOmQ69tvMY&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=BXkyYxYfpu7l46T48Y_TCQ&_nc_ss=7ca8c&oh=00_AQEmsyvXVLq0FcbvsHHsO8EzgG6sxpu66HQWgWbLwpdrJQ&oe=6A895D96",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/750920042_18031547489826786_1349231930101188212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0Mzk1MTUyNTc1MTk0NTA4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JrLEwZYjdrgQ7kNvwG80g5W&_nc_oc=AdrjcgasWvujFEwSg802XjeBcwsaePKc1JzmETf50fhQjGbzPWbSuuyCOrOXJyNSYlzX9pmAFWmsqLilUaV9o0dw&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=Khklin6MUFaW7cSsGyvzlg&_nc_ss=7d289&oh=00_AQEK2ZE_hLsFTu4gAM8qFg5btzFPlCJ2nh0Fmvc2V94CMQ&oe=6A8A9540",
       "caption": "올 여름 내 픽은 @laserin_swim \n\n일단 색감이 미쳤음...🩵 실물이 훨씬 영롱한\n\n보자마자 반해버린 윤슬 에메랄드 더블크로스백🩱\n\n#협찬 #라세린 #laserin #수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -393,9 +399,11 @@
           "one_liner": "평소 대비 0.53배로 부진하나 팔로워 대비 참여율 15%·참여 1건당 194원으로 소규모 계정 특유의 비용 효율은 유지 중.",
           "days": 14,
           "analyzed_at": "2026-08-02T06:59:26.504379+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 14.64%는 소규모 계정 기준으로도 매우 높은 수치이며, 참여 1건당 비용 193원은 인플루언서 마케팅 단가로 볼 때 극히 효율적인 수준이다. 다만 평소 대비 0.91배로 해당 게시물의 반응이 계정 평균을 소폭 하회한 점은 콘텐츠 자체의 흡인력이 다소 아쉬웠음을 시사한다. 전반적으로 79,000원이라는 낮은 협찬 비용 대비 205건의 참여를 이끌어낸 점에서 비용 효율성은 충분히 긍정적으로 평가할 수 있다.",
+        "final_at": "2026-08-19T06:27:53.581135+09:00"
       },
-      "last_written_reaction": "좋아요 199 · 댓글 6 · ER 14.6% · 평소대비 0.9x (D+30)"
+      "last_written_reaction": "좋아요 199 · 댓글 6 · ER 14.6% · 평소대비 0.9x (확정)"
     }
   ],
   "flags": {

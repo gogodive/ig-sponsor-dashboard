@@ -25,17 +25,17 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-08-01T04:26:19.000Z",
       "permalink": "https://www.instagram.com/p/Dbe-ZQKvjvi/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.71878-15/758456348_1428235269128706_8440374085196557842_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1Mzg3MTkzNzEwODU4OTUzODIwMDEyNzg1NjM4MzAyMzc%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=fKVd4_z-4coQ7kNvwGUptRY&_nc_oc=Ado70ClXtplL2bcc6kU9eOHQvmJEN2KUYJ2oxP_7ME-F-tP0NBll6tZlgTxiaJufDnw0j4-oLxK0giYensKVTFPN&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=xsR0TOwPON4MyfBVrE1iKw&_nc_ss=7c689&oh=00_AQFrvVH4LpoH5PngWSEXJDs2YFk5lChKcRsQfhvE_NDLvg&oe=6A896226",
+      "thumbnail": "https://instagram.fslw1-1.fna.fbcdn.net/v/t51.71878-15/758456348_1428235269128706_8440374085196557842_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1Mzg3MTkzNzEwODU4OTUzODIwMDEyNzg1NjM4MzAyMzc%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=fKVd4_z-4coQ7kNvwEYgt8B&_nc_oc=AdpOyf8zzatJzNOwmAOXQ57Me17wQwwZbAJzVI_xX2Xq7WU-vbdRzdY5HGcyfXwCwuc&_nc_zt=23&_nc_ht=instagram.fslw1-1.fna&_nc_gid=663yNA3h1MAXXiitJSw1iA&_nc_ss=7c689&oh=00_AQG6KJ37LtkkqvW9WjmJAYW3KGbScwmWwJnAz36QTXq4Rg&oe=6A8AB3A6",
       "caption": "퇴근 송 💙🧡\n날이 더워서 수트없이 시원하게 근무 중 🧚‍♀️\n\n#라세린 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sol_freediver",
       "metrics": {
-        "views": 2147,
+        "views": 2149,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -120,21 +120,27 @@
           "views": 2147,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-08-19",
+          "views": 2149,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": 2258,
         "eng_median": 3.0,
         "n": 7,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
         "er": -0.00041017227235438887,
-        "vs_baseline": 0.9508414526129318,
+        "vs_baseline": 0.9517271922054916,
         "cost_per_eng": -42200.0,
-        "cost_per_view": 19.655333022822543
+        "cost_per_view": 19.63704048394602
       },
       "analysis": {
         "d3": {
@@ -148,7 +154,7 @@
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
         }
       },
-      "last_written_reaction": "조회 2,147 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 1.0x (D+16)"
+      "last_written_reaction": "조회 2,149 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 1.0x (D+17)"
     },
     {
       "notion_row_id": "92039eba-97ed-82de-896d-01b5d3967d88",
@@ -159,7 +165,7 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-08-04T07:25:02.000Z",
       "permalink": "https://www.instagram.com/p/DbnBaJ9j3HH/",
-      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/763249270_18383678296163544_358115870396658130_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NjEzMzUxMjE3NTY2ODk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lCYgvIaD9-4Q7kNvwExac-R&_nc_oc=AdpJQvl7Ivz0SoxPfMmwKVBstdKEVlbQtDnGa8iz4YnnvP9irDxV01FCIXf4HJ3XQbE&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=jjI9BtJhw43fekypXk0lBw&_nc_ss=72689&oh=00_AQHcizLBgTqI7nz5FPUPjNdAfozwzvJiEcxJmJ3B40aY3g&oe=6A8936E2",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/763249270_18383678296163544_358115870396658130_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NjEzMzUxMjE3NTY2ODk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lCYgvIaD9-4Q7kNvwGhE5xN&_nc_oc=AdrVukrHHoWoGJFb0xEAHkclQ8ygvmuMu391tyNs4B5hgL7ZaIFnElZAx7Bsgf0N-EQ&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=A2fWIYGNaMSwPyQlbOIW-g&_nc_ss=72289&oh=00_AQGMdXGErsta9-3V4lL9deHMpGyIfcs9IGfnpeQTdDDZug&oe=6A8A8862",
       "caption": "으음 8월이어라💙 \n물놀이 다들 잘 즐기고 계신가요, 수영장도 복작복작합니다.\n다들 더위 피해 물로 나오시라요😘\n\n+)수영복 모델명은 윤슬 입니다😉 \n@laserin_swim #라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -168,7 +174,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-18T06:28:59.912384+09:00",
+      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -253,28 +259,39 @@
           "views": null,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-08-19",
+          "views": null,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 5.0,
         "n": 6,
-        "captured_at": "2026-08-18T06:28:59.912384+09:00"
+        "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.002050861361771944,
         "vs_baseline": 1.0,
         "cost_per_eng": 8440.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.0x (D+13)",
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.0x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.0배 수준의 무난한 초기 반응이나 참여당 비용 8,440원은 팔로워 규모 감안 시 효율 개선 여지 있음",
           "days": 3,
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.0x 수준으로 협찬 효과 없이 참여율 0.21%에 그쳐, 1건당 비용 8,440원은 팔로워 규모 대비 다소 과중한 상황.",
+          "days": 14,
+          "analyzed_at": "2026-08-19T06:27:53.581135+09:00"
         }
       }
     }
