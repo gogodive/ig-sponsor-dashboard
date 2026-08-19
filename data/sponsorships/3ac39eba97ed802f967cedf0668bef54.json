@@ -25,7 +25,7 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-18T04:24:45.000Z",
       "permalink": "https://www.instagram.com/p/DcKv6BnH6uY/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/777150423_18618838717022856_6946131909552398272_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NjE5Mjg1ODg4OTM0NzU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DuAaN51KXsYQ7kNvwGJ2Pvb&_nc_oc=AdpTT0Zh62EHm7S1auGPjtRPAHq-ldame7x21nav-H8zmNeac2OiE3swdiZFQOMWUnxxnn03jGIfnfQXd3AKFxSK&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=B-4fcc5PDjEyTT60F7AyZQ&_nc_ss=72689&oh=00_AQEHWzzsn2PUQ_KcP8Cege4HdUh3TUyFTqZ3s9Ti8if_aw&oe=6A8A9769",
+      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.82787-15/777150423_18618838717022856_6946131909552398272_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NjE5Mjg1ODg4OTM0NzU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dSgI9544R0kQ7kNvwH9ESrd&_nc_oc=AdpZiTjiUIhdwnpZvp9ujYLErx9mZPE-NGPdh55lnp5z20WnvrF4p5Ngfeie4RL7lpyyAkj92I4YVk5mn26nB-IO&_nc_zt=23&_nc_ht=instagram.fyhu2-1.fna&_nc_gid=GT7L1cCqZzfCSzGgS5lA8Q&_nc_ss=7ca8c&oh=00_AQFSrMpLXIkW0FU9YL--sy-Jvx0LS1Y94EavrdW_AS4UNw&oe=6A8BE8E9",
       "caption": "#AD 강원도 조각모음🐚🐙🫧\n\n무려 7년만에 장만한 영롱한 롱핀 개시하고 싶어서\n급 떠났던 주말 강원도 여행🌊\n\n도착한 날 새벽까지도 비가내려서\n바다 시야는 조금 아쉬웠지만\n다행히 구름사이로 해가 쨍 나서\n여름 강원도 듬뿍 즐기기 성공❣️\n\n이번에 롱핀 선물 받으면서\n딥바이브라는 브랜드를 처음 알게되었는데\n롱핀 색감들이 너무 예뻐서\n어떤 컬러를 사야할지 고민만 몇시간을 했는지..🥺\n\n물 밖에서도 중요하지만\n물속에서 어떤 색감일지 너무 궁금했는데\n찾아보니 물속 후기 영상이나 사진이 많이 없더라구요?\n그래서 제가 이번에 많이 담아보려고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,10 +34,16 @@
         "likes": -1,
         "comments": 24
       },
-      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
       "history": [
         {
           "d": "2026-08-19",
+          "views": null,
+          "likes": -1,
+          "comments": 24
+        },
+        {
+          "d": "2026-08-20",
           "views": null,
           "likes": -1,
           "comments": 24
@@ -47,17 +53,17 @@
         "views_median": null,
         "eng_median": 19,
         "n": 3,
-        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": 0.002147926783713112,
         "vs_baseline": 1.2105263157894737,
         "cost_per_eng": 9565.217391304348,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.2% · 평소대비 1.2x (D+0)"
+      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.2% · 평소대비 1.2x (D+1)"
     }
   ],
   "flags": {

@@ -25,7 +25,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-30T23:29:29.000Z",
       "permalink": "https://www.instagram.com/p/Dbb3zoyk3Sg/",
-      "thumbnail": "https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.82787-15/759974060_18476494135107756_5372266666187113825_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1Mjk5NzA5Mzk5NjM1NjQ0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tZeenPeJk4cQ7kNvwGPvj4Y&_nc_oc=AdrvYOYOhVw3WAg01xqDwFasibH4TLKoPkmppT-p4EPtE3GSK6crptxtsfjiCYKDBOc&_nc_zt=23&_nc_ht=instagram.fsyd3-1.fna&_nc_gid=edMTkpVnxmHj7l4m6gongQ&_nc_ss=72a8c&oh=00_AQGCohaPzBHQ5kCr1rK2OS90eE2joukueJPQ_G4jsaN_1Q&oe=6A8A989F",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/759974060_18476494135107756_5372266666187113825_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk1Mjk5NzA5Mzk5NjM1NjQ0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hGP6FizWLqgQ7kNvwHaWKVQ&_nc_oc=AdoPDn-ReFQW-8rV_kZi-hgS6aWpnGgHnlDztVgdMVG3BkjtBgnZtFpAb1abNyY5Frk&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=ccF72Zdhf22ZTRGBiKdQdg&_nc_ss=72689&oh=00_AQEwHGrFbkkiTvv2LVRmLWt4HghzCJRk47E9tfxEk1PtkQ&oe=6A8BEA1F",
       "caption": "#AD @intotheblue_store 첫 프리다이빙 슈트💙🤿 \n\n첫 슈트라 은근 기대했는데…\n실물 보자마자 컬러에 먼저 반했어요🥹🤍\n\n직접 입고 다이빙해보니까\n2mm 스프링이라 움직임도 정말 편하고,\n가동성이 좋아서 첫 슈트인데도 부담 없이 잘 입었어요!☺️\n\n무엇보다 이 컬러가 진짜 예술✨\n바다 배경이랑 너무 잘 어울려서 사진 찍는 내내 만족💙📸\n기능도 예쁘기도 둘 다 잡은 첫 슈트라 더 마음에 들어요!\n\n앞으로도 다이빙 갈 때 자주 함께할 것 같은 최애 슈트🤿\n\n✔️딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm(ST)\n\n#인",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 444,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -149,23 +149,29 @@
           "views": null,
           "likes": 444,
           "comments": 32
+        },
+        {
+          "d": "2026-08-20",
+          "views": null,
+          "likes": 444,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 504.5,
         "n": 12,
-        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
         "er": 0.04465290806754221,
         "vs_baseline": 0.9435084241823588,
         "cost_per_eng": 399.15966386554624,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 444 · 댓글 32 · ER 4.5% · 평소대비 0.9x (D+18)",
+      "last_written_reaction": "좋아요 444 · 댓글 32 · ER 4.5% · 평소대비 0.9x (D+19)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.0배로 무난한 출발이며, 참여 1건당 431원은 합리적 수준—3일 기준 안정적 초기 성과.",

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T13:07:56.000Z",
       "permalink": "https://www.instagram.com/p/Da-a6dDyneW/",
-      "thumbnail": "https://instagram.fssa15-1.fna.fbcdn.net/v/t51.82787-15/752242692_18615909706020011_3104301300102016700_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDcwODY4OTc2NDE4NjAwNjE4NjE1OTA5NzAwMDIwMDEx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=oLzShV_V8h0Q7kNvwH3pmBL&_nc_oc=AdpOL_T8gxlc6HrlzLlMbpxhBmg2laO56KOp4Mux4DcBS2NGuHbn148uChKlCzkCPGc&_nc_zt=23&_nc_ht=instagram.fssa15-1.fna&_nc_gid=4Qm-jF2fP3LepTWvupjCuw&_nc_ss=72a8c&oh=00_AQFpXJ_Nnh-0PQFN0kQvdtA5hRog-iliY7kRiwZFsZ84xg&oe=6A8A87A4",
+      "thumbnail": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/752242692_18615909706020011_3104301300102016700_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDcwODY4OTc2NDE4NjAwNjE4NjE1OTA5NzAwMDIwMDEx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyOTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=oLzShV_V8h0Q7kNvwG6iK7M&_nc_oc=AdpuxdMFkicL97ZPWAYGd_Y-iDZJyQEQ2n-JI4oEHAwD49i2bn2XUPNoU94geGRKSmkCdsHRSVGsTssnYNisrKrC&_nc_zt=23&_nc_ht=instagram.fsac1-2.fna&_nc_gid=UCgPP96zkR7tWhrCsytHiQ&_nc_ss=72a8c&oh=00_AQEF913F02RJdKQopxSVC3QH4aU9VvsSQx7MdCkUugNUcA&oe=6A8C1164",
       "caption": "#제품제공 \n\n✨ 제주에서 라세린\n수친자들 사이에서 유명한 라세린을 저도 입어봤어요😍\n물속에서도 밖에서도 온통 저만 보였던 하루였어요\n밝은 색감에 은은한 디자인이 합쳐져서 더 예뻤던 수영복이였어요\n물속에서도 인생샷 찍고 싶다면? #라세린 하세요\n\n👙 물속에서 가장 빛나는 수영복 @laserin_swim \n📸 제주바다에 풍덩하는 횸강사 @diver_hm \n✨168 / 50 / M 사이즈 착용\n\n드라이슈트를 입는 날이 더 많지만 수영복도 좋아해요💓\n\n#제주살이 #수영복추천 #인생샷수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -212,8 +212,8 @@
         "n": 3,
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.05128205128205128,
         "vs_baseline": 1.1405158767110533,
@@ -232,9 +232,11 @@
           "one_liner": "평소 대비 1.02x로 도달 확장 효과는 미미하나, 조회당 0.7원·참여당 95원의 효율적 비용 구조로 브랜드 노출 가성비는 양호한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-03T06:58:43.658866+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 5.13%는 소규모 계정 평균(3~4%)을 상회하며, 조회수 약 49,000회·참여 1건당 89원·조회당 0.7원은 6만 4천 원의 협찬 비용 대비 효율적인 수치다. 다만 평소 대비 1.14배 수준의 성과는 협찬 콘텐츠가 유기적 확산보다는 기존 팔로워 내 소비에 그쳤음을 시사하며, 신규 도달 확장 효과는 제한적이었다고 볼 수 있다. 전반적으로 소액 협찬 기준에서는 비용 대비 수용 가능한 성과이나, 콘텐츠 바이럴성 제고를 위한 방향 가이드가 보완되면 다음 협찬에서 더 높은 ROI를 기대할 수 있다.",
+        "final_at": "2026-08-20T06:28:30.502002+09:00"
       },
-      "last_written_reaction": "조회 48,992 · 좋아요 345 · 댓글 13 · ER 5.1% · 평소대비 1.1x (D+30)"
+      "last_written_reaction": "조회 48,992 · 좋아요 345 · 댓글 13 · ER 5.1% · 평소대비 1.1x (확정)"
     },
     {
       "notion_row_id": "45339eba-97ed-8353-8db2-015df3711e3d",
@@ -420,7 +422,7 @@
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.04053860478441484,
         "vs_baseline": 1.0699432892249527,

@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "mul.bbang.gae",
   "followers_notion": 3006,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "57b39eba-97ed-8337-b21f-81b517df2175",
+      "url": "https://www.instagram.com/p/DcGf9n2FOg2/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcGf9n2FOg2",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-17",
+      "first_seen": "2026-08-20",
+      "posted_at": "2026-08-16T12:48:28.000Z",
+      "permalink": "https://www.instagram.com/p/DcGf9n2FOg2/",
+      "thumbnail": "https://instagram.fsvq1-1.fna.fbcdn.net/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GaHQgNphLqwQ7kNvwGZjrVx&_nc_oc=Adpe3n-Z_OWsQm78ZnC_r7rh8-vFg3bKGbdX2nL1Ef83YtAdvhtYYhjr8HM0WeyHedo&_nc_zt=23&_nc_ht=instagram.fsvq1-1.fna&_nc_gid=-TG-3xNWz292vofoHbihpQ&_nc_ss=72a8c&oh=00_AQFNUPqg84Ix9MIpaQnZVZq5O65YvbJ-5i0IA-BWLnCiOA&oe=6A8BEB51",
+      "caption": "#제품제공 \n🍑라세린표 물복 떴다-!🍑\n쿨톤 탄피부에도 만족스러웠던 물복 색감..🫶🏽\n핑크+레드+옐로우 피치 그라데이션 톤이\n물 잔뜩 머금은 과즙팡팡 복숭아 색감 그자체••🍑\n여름엔 또 영롱한 빤딱 셩복 입어줘야 하잖아오🙂‍↕️\n\n어깨~등 쑉 잡아주는 더블크로스 백타입-‧₊˚ ✌🏽\n스트랩이 치즈 같이 쫀쫀해서 오래 입어도 편안〰\n유교걸도 부담없는 미들컷+넉넉 엉천 :)\n\n༶ LASERIN Soft Peach(s) ༶\n₊˚ 부담없는 높은 가슴선 / 미들컷 \n₊˚ 비침 없는 흰 안감 두겹 수영복\n₊˚ 더블 크로스 백타입\n₊˚ 브라고리 ",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "mul.bbang.gae",
+      "metrics": {
+        "likes": 203,
+        "comments": 54
+      },
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "history": [
+        {
+          "d": "2026-08-20",
+          "views": null,
+          "likes": 203,
+          "comments": 54
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 259.5,
+        "n": 12,
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.08322538860103627,
+        "vs_baseline": 0.9903660886319846,
+        "cost_per_eng": 268.4824902723735,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.99x로 무난한 출발이나, 참여 1건당 268원·팔로워 대비 참여율 8.32%는 소규모 계정 기준 양호한 비용 효율을 보임.",
+          "days": 3,
+          "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 203 · 댓글 54 · ER 8.3% · 평소대비 1.0x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "e0f39eba-97ed-834a-a931-81ccd51b5d9b",
-  "followers": 3006
+  "followers": 3088,
+  "last_written_score": 99
 }

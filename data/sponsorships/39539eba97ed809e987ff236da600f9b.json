@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T23:47:32.000Z",
       "permalink": "https://www.instagram.com/p/DbRmsWyE1DV/",
-      "thumbnail": "https://instagram.fgru9-1.fna.fbcdn.net/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk1MDEwNjk5MTc3NTY4NjcyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=keAgkkj5GDoQ7kNvwHixKxx&_nc_oc=AdriZxTtiZtUmbmXgmxMJqzQWktdCRXcPIHHUSqtB9ey9KG434VmyUjUsiwTOdo9cEGn5i3XAmcIpa_ViRlip9lg&_nc_zt=23&_nc_ht=instagram.fgru9-1.fna&_nc_gid=aTziUYGzg-rtJkd8iS5dJQ&_nc_ss=72689&oh=00_AQFOjSow7XFzgg_Hj6kYIeFvoBjZ5N6UnObtAMFvfFe-eg&oe=6A8A9386",
+      "thumbnail": "https://instagram.fbhx4-1.fna.fbcdn.net/v/t51.82787-15/756620323_17873150262689064_5729540720718931201_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk1MDEwNjk5MTc3NTY4NjcyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=keAgkkj5GDoQ7kNvwHLR2iE&_nc_oc=Adrt1KVAQYBLNV-QBJ9UH7pz2GPFOdV7lRBGSFMOzOIJ2MBo9URbSnHTL5MA--jw9rD76HSmuhRoJNTnIpKaVohF&_nc_zt=23&_nc_ht=instagram.fbhx4-1.fna&_nc_gid=1Ql4DTWthlbX8SRqHg76og&_nc_ss=7b60f&oh=00_AQGwyz5hGHVguUbmiloB1hxsD2Lqjlnxs8e9TWjC_amCwg&oe=6A8BE506",
       "caption": "✨오늘의 수영복 리뷰\n#제품제공 @laserin_swim\n\n라세린 - 미스틱 레드 더블크로스백\n\n저녁 노을을 담은 듯한 핑크 그라데이션 컬러가 정말 마음에 드는 수영복이에요✨\n고밀도 화이트 안감이라 버블도 전혀 없어서 입수해도 너무 예쁜 수영복이에요!!\n\n백타입은 더블 크로스 픽스드백으로 백라인을 탄탄하게 잡아줘서 저 처럼 물들어오는걸 끔찍하게😱 싫어하시는 분들이라면 바로 이 수영복!!! Pick~✨\n\n안정적인 가슴선에 노출이 부담스러우신 분들께 추천할 수 있는 미들컷, 그리고 힙커버리지도 적당해서 스타트 할때도 부담스럽지 않아요~",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 152,
         "comments": 42
       },
-      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -173,23 +173,29 @@
           "views": null,
           "likes": 152,
           "comments": 42
+        },
+        {
+          "d": "2026-08-20",
+          "views": null,
+          "likes": 152,
+          "comments": 42
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 180.0,
-        "n": 10,
-        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+        "eng_median": 194,
+        "n": 11,
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
-        "er": 0.15607401448109412,
-        "vs_baseline": 1.0777777777777777,
+        "er": 0.14946070878274267,
+        "vs_baseline": 1.0,
         "cost_per_eng": 329.89690721649487,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 152 · 댓글 42 · ER 15.6% · 평소대비 1.1x (D+22)",
+      "last_written_reaction": "좋아요 152 · 댓글 42 · ER 14.9% · 평소대비 1.0x (D+23)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.94x로 소폭 하회하나, 참여율 15.2%·364원/건으로 소규모 계정 특유의 고밀도 반응이 확인되며 비용 효율은 긍정적.",
@@ -211,6 +217,6 @@
     "account_unavailable": false
   },
   "child_db_id": "fc139eba-97ed-8244-8c61-81a81d69d44a",
-  "followers": 1243,
-  "last_written_score": 108
+  "followers": 1298,
+  "last_written_score": 100
 }

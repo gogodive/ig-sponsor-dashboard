@@ -25,17 +25,17 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-01T11:45:52.000Z",
       "permalink": "https://www.instagram.com/p/DbfwG8cPqKV/",
-      "thumbnail": "https://instagram.flpa4-1.fna.fbcdn.net/v/t51.82787-15/760792975_18611048059020709_6607298130192908018_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk1NDA5MDU4MTMwMjM1NDU4MTE4NjExMDQ4MDUzMDIwNzA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=C2ewpgYBBz8Q7kNvwEn5i_u&_nc_oc=AdoPhgn2E1VCx8W7JZfHbOu9JqE5bjbsz6P_x29UXP3Zi1JPI5dEB88nNoZYNAwuy9o&_nc_zt=23&_nc_ht=instagram.flpa4-1.fna&_nc_gid=X9pshekag2cVRz-shfciSg&_nc_ss=7ca8c&oh=00_AQEQsdCR5Pp87oCw4gwPu0w3capBCfGrrjhhW35zyYVwUg&oe=6A8A88C5",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/760792975_18611048059020709_6607298130192908018_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk1NDA5MDU4MTMwMjM1NDU4MTE4NjExMDQ4MDUzMDIwNzA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=4_8jiLUIlngQ7kNvwEB-gmi&_nc_oc=Adpo6MeBA7b8BaEggkjgnhGMWmBrnbyTHmuzpfXMiGtkFrk3F32mQ07cVtog7MniF9g&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=VTJhaEaKA62HsNhpHASvAw&_nc_ss=7c689&oh=00_AQHws9geHFd5GnmOhRi31006wlpEGeK_vTnHj1fF49wJ5w&oe=6A8C1285",
       "caption": "#협찬 \n\n내가 평생 쓸 @intotheblue_store \n고고젤로 마스크🤿 +\n딥바이브 에어로 스노클 🫧 리뷰\n\n#인투더블루 #딥바이브 #수영 #프리다이빙장비",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "heegangyee",
       "metrics": {
-        "views": 1893,
+        "views": 1899,
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -114,21 +114,27 @@
           "views": 1893,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-08-20",
+          "views": 1899,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 3433.0,
         "eng_median": 17.0,
         "n": 6,
-        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.0006939625260235947,
-        "vs_baseline": 0.5514127585202447,
+        "vs_baseline": 0.5531605010195164,
         "cost_per_eng": 51500.0,
-        "cost_per_view": 27.205493924986794
+        "cost_per_view": 27.119536598209585
       },
       "analysis": {
         "d3": {
@@ -142,7 +148,7 @@
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
         }
       },
-      "last_written_reaction": "조회 1,893 · 좋아요 -1 · 댓글 2 · ER 0.1% · 평소대비 0.6x (D+17)"
+      "last_written_reaction": "조회 1,899 · 좋아요 -1 · 댓글 2 · ER 0.1% · 평소대비 0.6x (D+18)"
     },
     {
       "notion_row_id": "bf739eba-97ed-830f-9be9-81e3e0d7f2d7",
@@ -153,7 +159,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-29T17:33:14.000Z",
       "permalink": "https://www.instagram.com/p/DbYqPjgD1Fa/",
-      "thumbnail": "https://instagram.fper13-1.fna.fbcdn.net/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk1MjA4OTMyMzQzMTMwMTkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=W8AUBhhhDmwQ7kNvwEY3qLA&_nc_oc=AdpXU-fCS26HJJ0iNM4FVSL0E_AyAej5jituuqQpAQReSeq1FRqjHo9acnRZClsXdX4&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=WL-k7uHZPaTWwBUlh2zR5w&_nc_ss=72289&oh=00_AQFSxvvJpkd_xhfHcth9glbLaY-wLoZKtKYMwRbazDBTaQ&oe=6A8A9075",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/760827783_18610173151020709_2075268279985759973_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk1MjA4OTMyMzQzMTMwMTkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=W8AUBhhhDmwQ7kNvwE7RRnf&_nc_oc=AdoHMHQT4IuS1DcCOYzfW0YbvocWSTyHa0WubOaojV5m9CMaCS9Yr2o0MwYHKYG45IM&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=s7kfwgP25pb9yEqRGAVI1g&_nc_ss=72689&oh=00_AQEKrfW2f6mKACtJf581METRP0z1YcXKBhLpCyyUrmaEpQ&oe=6A8BE1F5",
       "caption": "#광고 이번 여름휴가🏄‍♀️🏖️\n바다 놀러갈때 필수품 스노클+마스크\n맨날 쿠팡에서 저렴이만 쓰다가, \n\n@intotheblue_store 에서 겟한\n고고젤로 마스크🤿+에어로 스노클🐟로\n편하게 물놀이 하고 왔다.\n\n스노클 제품은 소프트한 실리콘 마우스피스로\n입에 따로 힘을 주지않아도 호흡이 편했고😌,\n\n스노클이 혹시나 마스크에서 떨어져도\n가라앉지 않도록 설계된 앙성부력 제품으로🫧,\n분실위험도 최소화 시킨 제품이었다!\n\n마스크는 시야도 깨끗하고,\n동양인 얼굴에 맞춘 디자인으로 \n코가 끼지않고 깔끔하게 옆에\n광대부분도 남는 부분없이 착!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -162,7 +168,7 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-08-19T06:27:53.581135+09:00",
+      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
       "history": [
         {
           "d": "2026-08-01",
@@ -277,23 +283,29 @@
           "views": null,
           "likes": -1,
           "comments": 5
+        },
+        {
+          "d": "2026-08-20",
+          "views": null,
+          "likes": -1,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 103,
         "n": 9,
-        "captured_at": "2026-08-19T06:27:53.581135+09:00"
+        "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.002775850104094379,
         "vs_baseline": 0.038834951456310676,
         "cost_per_eng": 12875.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+20)",
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.3% · 평소대비 0.0x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.03배로 성과 극히 저조, 참여 1건당 25,750원은 팔로워 1,431명 소규모 계정치고 비효율적이나 D+3 초기 단계로 추이 모니터링 필요.",

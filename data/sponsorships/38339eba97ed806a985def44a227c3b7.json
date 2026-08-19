@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-07-28",
       "first_seen": "2026-07-30",
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -39,8 +39,8 @@
       "media_kind": "릴스",
       "upload_date_notion": "2026-07-20",
       "first_seen": "2026-07-23",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": null,
         "vs_baseline": null,

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-19T10:56:37.000Z",
       "permalink": "https://www.instagram.com/p/Da-MqwfpFj7/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.71878-15/752708335_1963100697643527_8105339318585615244_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDY0NjAzODQ2OTc2MTI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=JcbEufMlXdwQ7kNvwFJZOm4&_nc_oc=AdrdxdH5m4CcMO933xu-fBSlSJVtXY47MGqciIniFpjQttMzS8lel3Z0Nlwef_ts4x0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=B0YjQsOz030aCpugpjCsGw&_nc_ss=72689&oh=00_AQEWjQGZjU4T66M4M920XbS6RNL1vye9QwUxsYonLBRFHw&oe=6A8AB91A",
+      "thumbnail": "https://instagram.flhr1-2.fna.fbcdn.net/v/t51.71878-15/752708335_1963100697643527_8105339318585615244_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0NDY0NjAzODQ2OTc2MTI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=JcbEufMlXdwQ7kNvwG8rUAZ&_nc_oc=AdpkelOkOO5YmBeoFuLvxW8h47TMDHdZ9vGoceKsEVLMgxhg1u4AC577fHE8uhjFeO0&_nc_zt=23&_nc_ht=instagram.flhr1-2.fna&_nc_gid=ylFlAZjY7Pi7vTLK4MjAUQ&_nc_ss=72689&oh=00_AQFit8JyF3Mj7ybMnZEqRwS7pFLrh8PVKlxdqtdjOr9e5g&oe=6A8C0A9A",
       "caption": "🤿💚🩷\n\nScuba Diving Check 🙋🏼‍♀️\n.\n.\n.\n🩱 @laserin_swim \n\n#scubadiving #scuba #swimwear #스쿠버다이빙 #scubagirl",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -206,8 +206,8 @@
         "n": 5,
         "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.010114129383480256,
         "vs_baseline": 0.8870878469202182,
@@ -226,9 +226,11 @@
           "one_liner": "평소 대비 0.29x로 저조한 노출에 참여율 0.96%·조회당 3.8원은 효율 미달—14일차 현재 추가 액션 검토 필요.",
           "days": 14,
           "analyzed_at": "2026-08-03T06:58:43.658866+09:00"
-        }
+        },
+        "final_verdict": "조회수와 좋아요·댓글을 합산한 팔로워 대비 참여율 1.01%는 인스타그램 평균(1~3%) 하단에 머물며, 평소 게시물 대비 0.89배로 협찬 콘텐츠가 오히려 계정 내 반응을 끌어내지 못했다. 다만 조회 1회당 비용 3.5원·참여 1건당 108원은 업계 기준으로 비교적 낮은 수준이어서 단순 노출 효율 자체는 준수하다. 결론적으로 7만 9천 원 상품 협찬 대비 도달·반응 모두 기대치를 소폭 하회하므로 재협찬 시에는 콘텐츠 방향 조율 또는 성과 조건부 계약을 권장한다.",
+        "final_at": "2026-08-20T06:28:30.502002+09:00"
       },
-      "last_written_reaction": "조회 11,219 · 좋아요 356 · 댓글 10 · ER 1.0% · 평소대비 0.9x (D+30)"
+      "last_written_reaction": "조회 11,219 · 좋아요 356 · 댓글 10 · ER 1.0% · 평소대비 0.9x (확정)"
     },
     {
       "notion_row_id": "e7739eba-97ed-826b-ad47-01923d90bb9c",
@@ -414,7 +416,7 @@
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.013153895045181972,
         "vs_baseline": 1.8666666666666667,
