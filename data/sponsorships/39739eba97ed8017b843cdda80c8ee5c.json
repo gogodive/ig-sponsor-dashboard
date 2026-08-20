@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T04:45:03.000Z",
       "permalink": "https://www.instagram.com/p/DbAHLWaEzWy/",
-      "thumbnail": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-15/749330735_18605405377055372_3781949592786706101_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk0NTE4MTM2NTEzNDAwMTM3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUxMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UaHsUo0LgqIQ7kNvwEmr2xY&_nc_oc=Adq3IcD70ZpO0skj-toMdciqflv1Jihr-oMX3kBHYRMzwDob7CiPEYHdFGRFw10iNBk&_nc_zt=23&_nc_ht=scontent-qro3-1.cdninstagram.com&_nc_gid=CfROCV3M2PBKLESOSZirhg&_nc_ss=72a8c&oh=00_AQE3t_0ltE-hHQbTBwpda_jM12iCJj3u1wla42AKaBGlcA&oe=6A8C03E0",
+      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/749330735_18605405377055372_3781949592786706101_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk0NTE4MTM2NTEzNDAwMTM3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUxMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UaHsUo0LgqIQ7kNvwGIipuA&_nc_oc=AdrL28zSg1mgZPVH_gBRC9MlozmwIT_LnDCnDnaa9olkBuo_DeQ84v7C0re-l4-ZyO65Hg_ST9Anhl_hHX5wIMWu&_nc_zt=23&_nc_ht=instagram.fktw4-1.fna&_nc_gid=BeSxyxdQkcYDgoWc2zgN3g&_nc_ss=72689&oh=00_AQHUZsapQG5E9xy31KMOP1d_-9loO9jEo-DAMlI4vdQlQw&oe=6A8D5560",
       "caption": "#협찬\n\n같은 날 같은 몸, 다른 옷\n부츠컷 레깅스도 다리가 얇아보여서 교복처럼 입었는데\n📌 #시크릿스 V컷 레깅스는 허리라인 무슨 일이냐며\n골반이 좁거나 통허리인 분들에게 완전 추천입니다👍🏻\n\n거기다가 글램버튼 반팔이나 개미허리 나시 조합으로\n여성스러운 라인이 더 배가 된답니다🙌🏻\n\n#운동복추천 #gymwear #ootd",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,8 +217,8 @@
         "n": 9,
         "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
@@ -237,9 +237,11 @@
           "one_liner": "좋아요 집계 오류(-1)로 실질 성과 확인 불가, 평소 대비 0.00x·댓글 1건으로 현재까지 123,500원 협찬 효과 사실상 없음.",
           "days": 14,
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
-        }
+        },
+        "final_verdict": "협찬 피드 게시물의 좋아요가 집계 불가(-1) 상태이고 댓글 1건에 그쳐, 팔로워 42,517명 대비 실질적인 도달·참여가 사실상 0에 수렴한다. 평소 대비 성과 배수 0.00x는 협찬 콘텐츠가 계정 내에서도 유의미한 반응을 전혀 이끌어내지 못했음을 의미하며, 123,500원의 상품 가액에 대한 노출·전환 가치를 인정하기 어렵다. 비용 대비 가치 측면에서 이번 협찬은 효과 없음으로 판단되며, 향후 동일 계정 재협찬 시 콘텐츠 형식(릴스 전환 등) 및 게시 조건 재검토가 필요하다.",
+        "final_at": "2026-08-21T06:31:39.407472+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (확정)"
     },
     {
       "notion_row_id": "3a539eba-97ed-80ba-a37a-d0e0ad5da608",
@@ -413,7 +415,7 @@
         "captured_at": "2026-08-15T06:28:26.204907+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.001011360161817626,
         "vs_baseline": 1.2647058823529411,
@@ -629,7 +631,7 @@
         "captured_at": "2026-08-18T06:28:59.912384+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0005409600865536138,
         "vs_baseline": 0.5476107429368678,
@@ -797,7 +799,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.00042336006773761083,
         "vs_baseline": 1.5865384615384615,

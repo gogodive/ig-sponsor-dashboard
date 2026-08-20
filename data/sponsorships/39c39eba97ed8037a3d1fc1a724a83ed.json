@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "_ch_lee",
   "followers_notion": 12000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "25339eba-97ed-8261-8b8b-8139456a9d9c",
+      "url": "https://www.instagram.com/p/DcLVU4MlL6H/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DcLVU4MlL6H",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-18",
+      "first_seen": "2026-08-21",
+      "posted_at": "2026-08-18T09:51:44.000Z",
+      "permalink": "https://www.instagram.com/p/DcLVU4MlL6H/",
+      "thumbnail": "https://instagram.fcwb2-3.fna.fbcdn.net/v/t51.82787-15/775941030_18606716542034487_8889906478178453797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2NjM0NTY3MDcxMzMxODE0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjc2Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LPCRobwvqmwQ7kNvwGVVa9P&_nc_oc=AdoS2B6G8756XjGeiHbtw7YZcIYGKT-kIWGJng-bnJhhlyFvDALtC0O_haS0i8N32vE&_nc_zt=23&_nc_ht=instagram.fcwb2-3.fna&_nc_gid=mzasATQ9Ovm-hkTpYnMP6A&_nc_ss=7c689&oh=00_AQHyXOCA2QIRewYckyMY3ZFMPKzHp3ol1uFtoqEkOQM0tw&oe=6A8D5E2C",
+      "caption": "@gogodive\n여름휴가 준비 겸 시작한 프리다이빙\n\n@hhk9161 강사님의 친절한 수업 덕에\n호흡법, 이퀄라이징, 입수법 등 기본기를 배우고\n무사히 여름휴가에서 써먹고 왔습니다.\n\n아직 프렌젤은 잘 안 되지만 열심히 연습해서\n레벨2 자격증에도 도전해 보겠습니다.\n\n#고고다이브 #프리다이빙\n#프리다이빙강습",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "_ch_lee",
+      "metrics": {
+        "likes": 206,
+        "comments": 7
+      },
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "history": [
+        {
+          "d": "2026-08-21",
+          "views": null,
+          "likes": 206,
+          "comments": 7
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 618.0,
+        "n": 12,
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.017533750411590384,
+        "vs_baseline": 0.3446601941747573,
+        "cost_per_eng": 1830.9859154929577,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 206 · 댓글 7 · ER 1.8% · 평소대비 0.3x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "b6139eba-97ed-834f-9d19-01820132ed2b",
-  "followers": 12000
+  "followers": 12148,
+  "last_written_score": 34
 }

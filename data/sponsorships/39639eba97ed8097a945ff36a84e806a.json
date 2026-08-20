@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T12:30:41.000Z",
       "permalink": "https://www.instagram.com/p/DbN0VHoSLbK/",
-      "thumbnail": "https://instagram.fyyc7-1.fna.fbcdn.net/v/t51.82787-15/756609984_18032572289826786_493566060540140727_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0OTA0MjU5Nzk5MzQyODY4MjE4MDMyNTcyMjgzODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjc2MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lQyH4geS09cQ7kNvwF11aEd&_nc_oc=Adr0dOoGnVMwey7snajAljPeLvWpaaBJizc_DqrC1rveKXDoMNT0u_UjC44UnlaT2h0&_nc_zt=23&_nc_ht=instagram.fyyc7-1.fna&_nc_gid=ZM5U_X6Vac89KnRNEqlDAw&_nc_ss=72a8c&oh=00_AQEejS4p4E7dp5wyIHqXqOrn_tKcyQVBRlrDQSbTjGadEw&oe=6A8C0987",
+      "thumbnail": "https://instagram.ficn3-4.fna.fbcdn.net/v/t51.82787-15/756609984_18032572289826786_493566060540140727_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk0OTA0MjU5Nzk5MzQyODY4MjE4MDMyNTcyMjgzODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjc2MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lQyH4geS09cQ7kNvwHfQun0&_nc_oc=AdrD5MMxFP-liPjpnTkYQVcjAIWrikfntoJtXr3hZJHq6ey8VXDbiN0JyEyz-PJzyxU&_nc_zt=23&_nc_ht=instagram.ficn3-4.fna&_nc_gid=dCqJt1sr3J79zxebaHRYjA&_nc_ss=7c689&oh=00_AQFqYNZSKvdmfvY36HA0Qf-2tDcKz76X0oRNbsgFaU15_g&oe=6A8D5B07",
       "caption": "LASERIN 🩵 \n폼폼폼폼폼폼폼🫧❕ 근데 \n나 어디까지 떠내려가요??\n@laserin_swim \n@nerea_flagship \n#수영복 #라세린 #수영복추천#협찬\n#네레아",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "modu_love_dive",
       "metrics": {
-        "views": 4928,
+        "views": 4939,
         "likes": 215,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -180,23 +180,29 @@
           "views": 4928,
           "likes": 215,
           "comments": 9
+        },
+        {
+          "d": "2026-08-21",
+          "views": 4939,
+          "likes": 215,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": 8771.5,
         "eng_median": 216.0,
         "n": 8,
-        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.16,
-        "vs_baseline": 0.5618195291569287,
+        "vs_baseline": 0.5630735906059396,
         "cost_per_eng": 176.33928571428572,
-        "cost_per_view": 8.015422077922079
+        "cost_per_view": 7.9975703583721405
       },
-      "last_written_reaction": "조회 4,928 · 좋아요 215 · 댓글 9 · ER 16.0% · 평소대비 0.6x (D+25)",
+      "last_written_reaction": "조회 4,939 · 좋아요 215 · 댓글 9 · ER 16.0% · 평소대비 0.6x (D+26)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.55x로 부진하나 참여율 15%·건당 198원으로 비용 효율은 양호—D+7까지 추이 관찰 필요.",
@@ -218,7 +224,7 @@
       "upload_date_notion": "2026-07-19",
       "first_seen": "2026-07-24",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.14642857142857144,
         "vs_baseline": 0.9050772626931567,

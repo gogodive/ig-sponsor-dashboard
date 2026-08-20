@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-08-09",
       "first_seen": "2026-08-13",
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -41,17 +41,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T05:41:45.000Z",
       "permalink": "https://www.instagram.com/p/Dbzsdx6K2Ma/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/764508872_18102547265609037_5657802264188202626_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1OTcwNDA1Nzg4OTM4MzE5NDE4MTAyNTQ3MjU5NjA5MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTcuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=O4GRv2qjdpsQ7kNvwHHGnxR&_nc_oc=AdoLofdzB4lBPEE6OOc2I-rKjWtZYb_1ke88Q1Jgd6C6DIkgr-HaAFn6RCiYGdH5Pi4&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=URpF0d4XlY7wlchksD3cZg&_nc_ss=72a8c&oh=00_AQGAC4O00cBTxnoqO0MBSb3vxRfezKTPEa8hVgOa9y4cUA&oe=6A8BEC41",
+      "thumbnail": "https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.82787-15/764508872_18102547265609037_5657802264188202626_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1OTcwNDA1Nzg4OTM4MzE5NDE4MTAyNTQ3MjU5NjA5MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTcuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=5yiTrFtDqowQ7kNvwErD8iw&_nc_oc=AdqDglVXdQAsnam11VI87AVx6eVR4SDKFDLJGh-1qCN2h7ZroQeB6o0toYl314Alx-s&_nc_zt=23&_nc_ht=instagram.fsyd3-1.fna&_nc_gid=VVcymVuMD5w9mLTSLMIR6Q&_nc_ss=7ca8c&oh=00_AQGuy0LT1UCPhdhAgIhHzUEEfckSGUpQTjtsKofd-IGuNg&oe=6A8D3DC1",
       "caption": "쫘악 늘어나는 미친 스판 🍑\n\n편안함이랑 핏 둘 다 절대 포기 못 하는 분들께 완전 추천해요!\n신기하게도 힙라인은 볼륨감 있게 싹 올려준답니다\n\n✔️답답한 쪼임 ZERO : 안 입은 것 같은 편안함\n✔️ 미친 신축성 & 스판 : 격렬한 운동도 문제없는 쫀쫀함\n✔️ 뒷태 여신 핏 : 자연스럽고 예쁜 힙업 라인 연출\n\n오늘 핏 자신감 올려준 시크릿스 레깅스 🖤\n\n#운동하는여자 #눈바디 #힙업레깅스 #편한레깅스",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "im.___.ky",
       "metrics": {
-        "views": 7609,
+        "views": 7623,
         "likes": 402,
         "comments": 38
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -100,21 +100,27 @@
           "views": 7609,
           "likes": 402,
           "comments": 38
+        },
+        {
+          "d": "2026-08-21",
+          "views": 7623,
+          "likes": 402,
+          "comments": 38
         }
       ],
       "baseline": {
-        "views_median": 2239.0,
-        "eng_median": 265.0,
-        "n": 6,
-        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+        "views_median": 2427,
+        "eng_median": 233,
+        "n": 5,
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.04062413442895393,
-        "vs_baseline": 3.3983921393479233,
+        "er": 0.04063163727029273,
+        "vs_baseline": 3.1409147095179235,
         "cost_per_eng": 207.95454545454547,
-        "cost_per_view": 12.025233276383231
+        "cost_per_view": 12.00314836678473
       },
       "analysis": {
         "d3": {
@@ -123,7 +129,7 @@
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
         }
       },
-      "last_written_reaction": "조회 7,609 · 좋아요 402 · 댓글 38 · ER 4.1% · 평소대비 3.4x (D+10)"
+      "last_written_reaction": "조회 7,623 · 좋아요 402 · 댓글 38 · ER 4.1% · 평소대비 3.1x (D+11)"
     }
   ],
   "flags": {
@@ -133,6 +139,6 @@
     "account_unavailable": false
   },
   "child_db_id": "74a39eba-97ed-8255-b01a-01f94135d750",
-  "followers": 10831,
-  "last_written_score": 340
+  "followers": 10829,
+  "last_written_score": 314
 }

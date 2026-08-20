@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-20T07:21:14.000Z",
       "permalink": "https://www.instagram.com/p/DbAZDTNkhBz/",
-      "thumbnail": "https://instagram.faca1-2.fna.fbcdn.net/v/t51.82787-15/752617171_18432914857132602_7642253365868243924_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0NTI1ODM0MTI4MjQ1MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-_X0HhqOgWgQ7kNvwFmwZDM&_nc_oc=AdrrIhHqujVH6fn8yzxU484upDTWM4Gs2r0aJfqyIQBl_ajD3YeLvkrDRZynjpkHHhuaLVsABn24IXf-QxGXYUq8&_nc_zt=23&_nc_ht=instagram.faca1-2.fna&_nc_gid=cwu5rlzjvQ2a3UqFV441qA&_nc_ss=72a8c&oh=00_AQEsGli7y1fcPoSDE6pAeA79UwZ5HbqNczEE2TipRMepaQ&oe=6A8C0490",
+      "thumbnail": "https://instagram.fsyd14-1.fna.fbcdn.net/v/t51.82787-15/752617171_18432914857132602_7642253365868243924_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0NTI1ODM0MTI4MjQ1MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-_X0HhqOgWgQ7kNvwGAk50b&_nc_oc=AdpSIoYsXI7TJGNGNLKnai8GpxrDPi9jxUhnpQm4B_nfX6SCja3sTHBp4P0V4LbMZC4&_nc_zt=23&_nc_ht=instagram.fsyd14-1.fna&_nc_gid=2xoyZSpXS-OY3BnMcTRLSw&_nc_ss=7c289&oh=00_AQG3NV8lJ3m0FO7JOuorWMJxUn6T1UYOOKSPTlPhw6nzmQ&oe=6A8D5610",
       "caption": "여름맛 민트 🩵\n올 여름 함께할 수영복 추천 🩵\n\n#광고 #라세린 #라세린수영복 #민트코어 #해운대 \n\n@laserin_swim \n청량한 민트색상 🩵\n민트코어 26년, 해운대 민트 파라솔과 잘어울리는 윤슬 에메랄드🩵\n\nM 사이즈 기장감 걱정했는데 어깨결림 없이 딱 맞았습니다!\n쫀쫀하고 부드러워서 활동하기도 너무 편해요 🩵🍀\n\n* 👙🩱 : 윤슬 에메랄드 더블크로스백\n* size : M\n* model : 169cm 53kg\n\n#수영복 #수영복추천 #수린이 #라세린 #라세린수영복 \n\n#프리다이빙 #해운대해수욕장 #수영복 #수영복추천 #라",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,8 +217,8 @@
         "n": 10,
         "captured_at": "2026-08-20T06:28:30.502002+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0015787518573551263,
         "vs_baseline": 3.7777777777777777,
@@ -237,9 +237,11 @@
           "one_liner": "평소 대비 3.78배 참여 반응은 긍정적이나, 참여율 0.16%·1건당 4,647원은 팔로워 규모 대비 비용 효율 개선이 필요한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-04T07:11:20.543194+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 3.78배의 참여 상승은 긍정적 신호이나, 팔로워 대비 참여율 0.16%는 인플루언서 마케팅 업계 평균(1~3%)에 크게 못 미치는 저조한 수치다. 참여 1건당 비용 4,647원은 7만 9천 원의 상품 가액 대비 과도하게 높으며, 좋아요 값이 비정상(-1)으로 기록된 점도 데이터 신뢰도를 낮춘다. 비용 대비 실질적인 브랜드 노출·전환 효과가 충분히 확인되지 않아, 동일 조건의 재협찬은 재검토가 필요하다.",
+        "final_at": "2026-08-21T06:31:39.407472+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 18 · ER 0.2% · 평소대비 3.8x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 18 · ER 0.2% · 평소대비 3.8x (확정)"
     }
   ],
   "flags": {

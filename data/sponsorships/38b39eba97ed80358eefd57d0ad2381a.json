@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "cado.step",
   "followers_notion": 3284,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "d0d39eba-97ed-8313-84cf-01fd96f1e43d",
+      "url": "https://www.instagram.com/p/DcOZudRmm5B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "shortcode": "DcOZudRmm5B",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-19",
+      "first_seen": "2026-08-21",
+      "posted_at": "2026-08-19T14:27:54.000Z",
+      "permalink": "https://www.instagram.com/p/DcOZudRmm5B/",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/777947358_18554067922074809_8431028646454831832_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2NzIyMDg0NDc4MTQzODc4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkwNi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=VS7LJXNS08gQ7kNvwHHBb8t&_nc_oc=AdqQyyPktBm6zQ55Ir5JMHK_qEbF8dvJdGLvxhHwNifR0YdQR11oF51B91rO_WezuqngSAwFi7cdNB-b5mPaNSR3&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=G87W2UcL0c_dV_i39waZlQ&_nc_ss=72689&oh=00_AQGqB3sEP1snKGnsaxmnf61oLR_dy6WOum8JDAwQ_wjxNQ&oe=6A8D3011",
+      "caption": "#협찬 1위 다이빙 업체 ’고고다이브‘에서 프리다이빙을 배움 🥽\n\n평소 땀 흘리며 산에 오르는 아웃도어 활동을 정말 좋아하지만, 푹푹 찌는 여름엔 시원한 물속으로 훌쩍 떠나고 싶을 때 다들 있죠? 🥲\n\n여름 물놀이를 자주 즐기다 보니 예전부터 프리다이빙에 대한 로망이 컸거든요 👀\n\n여행에서도 멋지게 잠수하는 분들을 보며 ’나도 저렇게 자유롭게 헤엄치고 싶다‘고 생각만 하다가...\n\n드디어 제대로 된 기회를 잡아 프리다이빙의 세계에 입문했습니다! 🫡\n\n막상 시작하려니 ”수영도 잘 못하는데 숨을 어떻게 참지?“, ”비싸지 않을까?“ 하",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "cado.step",
+      "metrics": {
+        "likes": 167,
+        "comments": 23
+      },
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "history": [
+        {
+          "d": "2026-08-21",
+          "views": null,
+          "likes": 167,
+          "comments": 23
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 351.5,
+        "n": 12,
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.057803468208092484,
+        "vs_baseline": 0.5405405405405406,
+        "cost_per_eng": 2052.6315789473683,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 167 · 댓글 23 · ER 5.8% · 평소대비 0.5x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "d2939eba-97ed-8267-aa1a-01eec7931d69",
-  "followers": 3284
+  "followers": 3287,
+  "last_written_score": 54
 }

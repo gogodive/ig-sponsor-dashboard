@@ -1,7 +1,7 @@
 {
   "page_id": "39839eba-97ed-8064-943a-e4cd4600644d",
   "row_title_raw": "pting_gozebi",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-16T12:35:42.000Z",
       "permalink": "https://www.instagram.com/p/DcGeSjHKErY/",
-      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=c0hqHSafOkIQ7kNvwF7p3sV&_nc_oc=AdrhQPTA3QURCVyy0b9wbO81GBWW7-bfmWBQEo8S3Hbi6YhBs_auq3f3__vzDcjK0T0&_nc_zt=23&_nc_ht=instagram.fpoz5-1.fna&_nc_gid=fesRdFVFVt4w1VhebNjW1g&_nc_ss=72a8c&oh=00_AQGn3S7Umzp_6JSWK9zXyFgDFCW3sCvAEqSV9Ptxx7oefw&oe=6A8BE539",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=c0hqHSafOkIQ7kNvwGyfrII&_nc_oc=Adp7Dbk07qWQtoL3PuNq-JlL_PkDVPQ5ozSSUMPtojmNPYwvFl7uE9yCiSCOzh9VO_g&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=OJF0rHBNkXJyIOrZ0Do0LA&_nc_ss=72a8c&oh=00_AQGZLzkYYmILnOT6zBu7gzJH_kTnzltZ4siEGcJmhxZOpQ&oe=6A8D36B9",
       "caption": "민물 말고 짠물에서 다이빙하는 그날까지🫧\n\n@intotheblue_store #인투더블루\n🤿 #고고젤로마스크\n🤿 #딥바이브 에어로 스노클",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "pting_gozebi",
       "metrics": {
-        "views": 1900,
+        "views": 1923,
         "likes": -1,
-        "comments": 7
+        "comments": 8
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-08-19",
@@ -48,23 +48,29 @@
           "views": 1900,
           "likes": -1,
           "comments": 7
+        },
+        {
+          "d": "2026-08-21",
+          "views": 1923,
+          "likes": -1,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": 1017,
         "eng_median": 95,
         "n": 3,
-        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.0010395010395010396,
-        "vs_baseline": 1.8682399213372665,
-        "cost_per_eng": 8583.333333333334,
-        "cost_per_view": 27.105263157894736
+        "er": 0.0012127512127512127,
+        "vs_baseline": 1.8908554572271385,
+        "cost_per_eng": 7357.142857142857,
+        "cost_per_view": 26.781071242849713
       },
-      "last_written_reaction": "조회 1,900 · 좋아요 -1 · 댓글 7 · ER 0.1% · 평소대비 1.9x (D+3)",
+      "last_written_reaction": "조회 1,923 · 좋아요 -1 · 댓글 8 · ER 0.1% · 평소대비 1.9x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.87배 조회로 기대 이상이나, 참여율 0.10%·참여 1건당 8,583원은 비용 효율이 낮아 추이 주시 필요.",
@@ -82,7 +88,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-05T08:43:17.000Z",
       "permalink": "https://www.instagram.com/p/DbpvKOemVsF/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/764862429_17942857974268965_7741547479941526550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1NjkwMDI4MTQ0NDkzNjY5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tPR-NOSNePgQ7kNvwGAL0t-&_nc_oc=Adr8WoIOJzTtyYbXS8hSJFijKohKkWePcXFr5nJ30UmvJc7kN3i8qBKPhxaj4RMX5Lk&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tkDI6dDlhttW-YqSdKmB8Q&_nc_ss=72a8c&oh=00_AQHr1VbzjHqtvsNcIbt2C6tG-WzSuNZ9MrsQW0LcF-cZMA&oe=6A8C02B8",
+      "thumbnail": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-15/764862429_17942857974268965_7741547479941526550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1NjkwMDI4MTQ0NDkzNjY5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tPR-NOSNePgQ7kNvwHuOL6B&_nc_oc=AdoBavLeIZumCyXpZWPl5tQj2-d4E7PKLDUHX7Ky05pP0xZD0npwbnZoF3ct9h_1xEakbVs21FhoMilMI4EHd9tt&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_gid=r8fzohIV37lS53GaCETD7Q&_nc_ss=7da8c&oh=00_AQGcNnAOm1papynGe98FZV1Ddkd9hKsi23kBz3ygasDhlQ&oe=6A8D5438",
       "caption": "#제품제공 @intotheblue_store \n\n다이빙을 가지 못해 방구석에서 하는 다이빙용품 리뷰🤿\n\n지금까지 프리다이빙과 스쿠버다이빙을 하면서 \n마스크만 벌써 4개째 사용 중인 다이버 띵고재비입니다.\n\n처음엔 디자인이나 가격만 보고 구매했는데, \n막상 사용하다 보면 어디선가 물이 조금씩 들어오거나, \n시야가 답답하거나, 코가 딱딱해서 이퀄라이징이 불편한 등 \n마스크마다 은근한 차이들이 느껴지더라고요. \n그때마다 폭풍 검색을 하며 장비를 바꿨지만 \n가격이 늘 부담이었어요.\n\n그러다 알게 된 #인투더블루\n가격 부담이 적어서 입문용으",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -91,7 +97,7 @@
         "likes": -1,
         "comments": 16
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -170,23 +176,29 @@
           "views": null,
           "likes": -1,
           "comments": 16
+        },
+        {
+          "d": "2026-08-21",
+          "views": null,
+          "likes": -1,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 195.0,
         "n": 12,
-        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.002598752598752599,
         "vs_baseline": 0.07692307692307693,
         "cost_per_eng": 3433.3333333333335,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.3% · 평소대비 0.1x (D+14)",
+      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.3% · 평소대비 0.1x (D+15)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.05x의 극히 저조한 반응과 참여 1건당 11,444원의 높은 비용으로, 3일차 현재 협찬 효율이 매우 낮은 상태입니다.",
@@ -209,5 +221,5 @@
   },
   "child_db_id": "43d39eba-97ed-82fb-ae56-01146355fae8",
   "followers": 5772,
-  "last_written_score": 97
+  "last_written_score": 98
 }

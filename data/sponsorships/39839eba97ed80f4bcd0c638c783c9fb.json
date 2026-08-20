@@ -25,17 +25,17 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-01T04:53:34.000Z",
       "permalink": "https://www.instagram.com/p/DbfBjgcvIz8/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/760444095_18610273903009678_3103237276716682427_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1Mzg4NTgzNTkyNDYzODk3MjE4NjEwMjczOTAwMDA5Njc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjkwMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vAXJ-U51B9QQ7kNvwHaYMk8&_nc_oc=AdqZizgqKrxBbaIcJxLV8CrfGmQNxxOvnNgEZatDBwdUZzTsH_VxiNt6-QWbkxSmpuJEPvwIDITvDnJYedHWtFxP&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=lCXXd28y0CkH-SO2kbcY3g&_nc_ss=72689&oh=00_AQHyocn-dcIYeIlzVwxOnKLrvKSNeaH4QwwiKzR0TkyRKg&oe=6A8C0FAE",
+      "thumbnail": "https://instagram.fjal2-1.fna.fbcdn.net/v/t51.82787-15/760444095_18610273903009678_3103237276716682427_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1Mzg4NTgzNTkyNDYzODk3MjE4NjEwMjczOTAwMDA5Njc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjkwMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vAXJ-U51B9QQ7kNvwFzWGhi&_nc_oc=AdrGG1YcHt1HPZXfeGfEs0igbqphoFxhwsknf5dAC_o0LWRmRlfJwGZOJ0dXBrvFnNo&_nc_zt=23&_nc_ht=instagram.fjal2-1.fna&_nc_gid=pNbTGUXY1M-5kah50xHaJw&_nc_ss=72a8c&oh=00_AQH7z8yLuVljtBSbZwGEQ4p3iptOzmZS5R94XLkZsM98sw&oe=6A8D612E",
       "caption": "#협찬 @intotheblue_store\n요즘 올라운드로 착용중인 🤿딥바이브 그라데이션 카본 롱핀\n장비는 직접 써봐야 진짜 차이를 알게 되는 것 같아요!💦\n⠀\n물속에서 가장 마음에 들었던 건\n✔️ 부드러운 풋포켓이라 발이 편하고\n✔️ 자연스럽게 이어지는 추진력!\n오랫동안 신고 있어도 부담이 적어서 손이 자주 가고☺️\n\n화이트 그라데이션 컬러는\n물속에서 봤을 때 더 깔끔하고 존재감 있는 느낌🤍\n\n편안한 착용감과 퍼포먼스를 함께 원하는 분들께 추천🫧\n⠀\n\n🎥 @gonomcham1244 \n⠀\n⠀\n⠀\n#인투더블루 #딥바이브핀 #프리다이빙장",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yolobooboo_",
       "metrics": {
-        "views": 30418,
-        "likes": 406,
+        "views": 30522,
+        "likes": 408,
         "comments": 15
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -126,21 +126,27 @@
           "views": 30418,
           "likes": 406,
           "comments": 15
+        },
+        {
+          "d": "2026-08-21",
+          "views": 30522,
+          "likes": 408,
+          "comments": 15
         }
       ],
       "baseline": {
         "views_median": 100348.0,
         "eng_median": 1262.5,
         "n": 12,
-        "captured_at": "2026-08-20T06:28:30.502002+09:00"
+        "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
-        "er": 0.003111557848368834,
-        "vs_baseline": 0.30312512456650853,
-        "cost_per_eng": 581.9477434679335,
-        "cost_per_view": 8.054441449141956
+        "er": 0.0031263395958670234,
+        "vs_baseline": 0.30416151791764656,
+        "cost_per_eng": 579.1962174940899,
+        "cost_per_view": 8.026996920254243
       },
       "analysis": {
         "d3": {
@@ -154,7 +160,7 @@
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
         }
       },
-      "last_written_reaction": "조회 30,418 · 좋아요 406 · 댓글 15 · ER 0.3% · 평소대비 0.3x (D+18)"
+      "last_written_reaction": "조회 30,522 · 좋아요 408 · 댓글 15 · ER 0.3% · 평소대비 0.3x (D+19)"
     },
     {
       "notion_row_id": "b7839eba-97ed-8339-8b06-016aceb1ae4d",
@@ -165,7 +171,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T11:15:35.000Z",
       "permalink": "https://www.instagram.com/p/DbQQo5SD8PN/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/753989725_18608454739009678_5270317959086359271_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0OTcyOTg1OTc5MzM1NTkwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=avbQkQnktxcQ7kNvwHVD-rP&_nc_oc=AdqMy5jwCSWAx1fRYyLXGt45D-ucZEN2wz93-SWFP9P-2QkTJijrrVLeC70KKJh8XzwhmeTGfeMg7hrNX5suq-2D&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=sp_UC3_e_l8_s-rXF0S6ww&_nc_ss=7c689&oh=00_AQHqWni2W8tT8MJGbsMH_bSotCulVB7jE24noeEl64TqDw&oe=6A8BDA38",
+      "thumbnail": "https://instagram.fbne8-1.fna.fbcdn.net/v/t51.82787-15/753989725_18608454739009678_5270317959086359271_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk0OTcyOTg1OTc5MzM1NTkwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=avbQkQnktxcQ7kNvwEyGttz&_nc_oc=AdrnRGnn2SIBJ97_7iUiE-HhFTKUBoINwfFmO7IspR-JzL0qkCuN6yOPj79TT1rRxkA&_nc_zt=23&_nc_ht=instagram.fbne8-1.fna&_nc_gid=xUkljB-zPCtwYBd2kawh0g&_nc_ss=72289&oh=00_AQHHomWh6Qs9X2AimCspLe4LixELZk7WQXE_AENr4nzACQ&oe=6A8D63F8",
       "caption": "#협찬 @intotheblue_store\n부드러운 착용감의 프리다이빙 카본 롱핀 소개해요🙋🏻‍♀️\n⠀\n🤿딥바이브 그라데이션 카본 롱핀\n⠀\n풋포켓이 굉장히 부드러워 발이 편하고,추진력도 좋아서\n☑️ 트레이닝 ☑️ 펀다이빙 ☑️ 투어\n다양하게 활용하기 좋은 올라운드 카본 롱핀으로 추천!\n⠀\n핀 강도도 선택할 수 있고,\n블루 · 라임 · 핑크 · 화이트까지 그라데이션 컬러 조합이 예쁜🫧\n⠀\n특히 저는 역시 올화이트🤍\n부드러운 착용감이랑 깔끔한 컬러 조합이 잘 어울리는 느낌!\n⠀\n카본핀 중에서도 비교적 부담 없는 가격대로,\n편안한 착용감과",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -174,7 +180,7 @@
         "likes": 258,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-20T06:28:30.502002+09:00",
+      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -319,17 +325,23 @@
           "views": null,
           "likes": 258,
           "comments": 32
+        },
+        {
+          "d": "2026-08-21",
+          "views": null,
+          "likes": 258,
+          "comments": 32
         }
       ],
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.0021433533872374393,
         "vs_baseline": null,
         "cost_per_eng": 844.8275862068965,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 258 · 댓글 32 · ER 0.2% (D+24)",
+      "last_written_reaction": "좋아요 258 · 댓글 32 · ER 0.2% (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 201·댓글 27로 참여율 0.18%는 팔로워 규모 대비 낮은 수준이며, 참여 1건당 2,149원의 비용 효율도 개선이 필요합니다.",
