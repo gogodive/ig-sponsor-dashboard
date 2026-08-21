@@ -25,17 +25,17 @@
       "first_seen": "2026-08-12",
       "posted_at": "2026-08-10T22:43:34.000Z",
       "permalink": "https://www.instagram.com/p/Db4G7qOTb6v/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/771756325_18642670933032631_6645727216594780706_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MDk0NjM2MDMzNzY3Nzk5OTE4NjQyNjcwOTI3MDMyNjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMiJ9&_nc_ohc=kpN_Tb8NSisQ7kNvwEhfJ4h&_nc_oc=Adp1q83w917Ip-Gw7pSAhm9JMwk9PTKJnnbs0xalwo4U-j2lEVQ8dsceWNSTO2m9G0U&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=ih_r4DM2rsVtK6yHC90X6Q&_nc_ss=72a8c&oh=00_AQHNX44zC-S_VXv1cSg2QkG_qXzOxacG7cUy7YirNAD8Nw&oe=6A8D4B33",
+      "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/771756325_18642670933032631_6645727216594780706_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MDk0NjM2MDMzNzY3Nzk5OTE4NjQyNjcwOTI3MDMyNjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=kpN_Tb8NSisQ7kNvwFgF9b7&_nc_oc=AdrCLuaSSKu9eSSX-jItZ7hC9TSJjaB121LTl2ODuC3a0jpNWdYpEA1ldBUj_e56EFKC_IaPPkH8xT9zqY02qTDh&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_gid=N9lp7mQPb49iGujVafZj-A&_nc_ss=7c689&oh=00_AQHYCH3VvVZwP24c-CEkYR7K-VngPxSU6t15T02zRUNJ2g&oe=6A8E9CB3",
       "caption": "오랜만에 바다에 왔는데 태풍도 같이 왔음ㅎㅎㅎ\n\n요즘 내 최애 프다템🖤🤿\n마스크-고고 테르소 마스크(강화유리)\n스노클-딥바이브 에어로 스노클(양성부력)\n\n@intotheblue_store \n#인투더블루#딥바이브#에어로스노클#테르소마스크#프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "zzozzo_h",
       "metrics": {
-        "views": 6712,
-        "likes": 74,
+        "views": 6740,
+        "likes": 75,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-08-12",
@@ -96,23 +96,29 @@
           "views": 6712,
           "likes": 74,
           "comments": 9
+        },
+        {
+          "d": "2026-08-22",
+          "views": 6740,
+          "likes": 75,
+          "comments": 9
         }
       ],
       "baseline": {
-        "views_median": 58940,
-        "eng_median": 1477,
+        "views_median": 59343,
+        "eng_median": 1714,
         "n": 7,
-        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
-        "er": 0.01609150833656456,
-        "vs_baseline": 0.11387852052935188,
-        "cost_per_eng": 620.4819277108434,
-        "cost_per_view": 7.672824791418355
+        "er": 0.01623502126014689,
+        "vs_baseline": 0.11357700149975566,
+        "cost_per_eng": 613.0952380952381,
+        "cost_per_view": 7.640949554896142
       },
-      "last_written_reaction": "조회 6,712 · 좋아요 74 · 댓글 9 · ER 1.6% · 평소대비 0.1x (D+9)",
+      "last_written_reaction": "조회 6,740 · 좋아요 75 · 댓글 9 · ER 1.6% · 평소대비 0.1x (D+10)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.11x로 유입이 크게 저조하며, 조회당 8원·참여당 644원의 비용 효율도 개선이 필요한 초기 성과입니다.",
@@ -130,7 +136,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T09:21:54.000Z",
       "permalink": "https://www.instagram.com/p/DbVNOE0k8LJ/",
-      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/758350393_18637971877032631_5119311519546997638_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk1MTEyMTYzMzQxMDU2MTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AY5qC8GCPNoQ7kNvwElfXyu&_nc_oc=Adq7dyaGQmO-kMznnmLRbjG4ylCGreBvQ2jSnKmaCb6xRWd5V52qnaK25Ibspw0Z-BU&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=1qunvkU3L0Sp5LjkhgigLA&_nc_ss=7ca8c&oh=00_AQHWCewgVURbD_uUw1K0rlhcvJxYVolxCMY0osqt3U4ndg&oe=6A8D4292",
+      "thumbnail": "https://scontent-mel1-1.cdninstagram.com/v/t51.82787-15/758350393_18637971877032631_5119311519546997638_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk1MTEyMTYzMzQxMDU2MTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AY5qC8GCPNoQ7kNvwHhOlHh&_nc_oc=Adqc7FU1zSU24CcQX_nLo-3ruy7IAd24j1f0B1ohdjrTxMI2-nMgObPI0zRimd5OMKI&_nc_zt=23&_nc_ht=scontent-mel1-1.cdninstagram.com&_nc_gid=yH1UxDFmTABarn1lyn-Txw&_nc_ss=72a8c&oh=00_AQGFq-QSU2JzNbvi8BsJDLktOzjF31JInbl4DAFNGQ5q2w&oe=6A8E9412",
       "caption": "#광고 프다 감.다. 뒤지기 전에 간만에 스태틱도 해보고\n잠영도 하고😝 오늘도 해지는 거 보고 퇴수!! 🦭🌅\n\n프리다이빙을 통 못 가니까\n수영장에 스노클이랑 마스크 챙겨온 나ㅋㅋㅋ\n\n유리 렌즈 무겁고 비싸서 비추천이라고 했던 사람 나와!!🔥\n나 이제 플라스틱 못 쓸 거 같오..\n\n핏,착용감,시야도 완전 마음에 들고 디자인까지 너무 내 취향!!!\n일단 썼을 때 예쁜데 멋있어져!! ㅋㅋㅋ 프다 잘해 보임++ ✨\n\n저도 아직 초보지만 프리다이빙 시작하면 제일 먼저 사게 되는 장비가 마스크랑 스노클인데 처음 구입당시 가격대도 너무 다양하고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -139,7 +145,7 @@
         "likes": 55,
         "comments": 9
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-07-30",
@@ -278,23 +284,29 @@
           "views": null,
           "likes": 55,
           "comments": 9
+        },
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": 55,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 65,
+        "eng_median": 69,
         "n": 9,
-        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.01240791004265219,
-        "vs_baseline": 0.9846153846153847,
+        "er": 0.012369540007730962,
+        "vs_baseline": 0.927536231884058,
         "cost_per_eng": 804.6875,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 55 · 댓글 9 · ER 1.2% · 평소대비 1.0x (D+23)",
+      "last_written_reaction": "좋아요 55 · 댓글 9 · ER 1.2% · 평소대비 0.9x (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.89배로 소폭 부진하나, 참여 1건당 1,776원은 팔로워 규모 감안 시 수용 가능한 초기 수치.",
@@ -316,6 +328,6 @@
     "account_unavailable": false
   },
   "child_db_id": "8f639eba-97ed-8256-8b79-81eb30876d92",
-  "followers": 5158,
-  "last_written_score": 55
+  "followers": 5174,
+  "last_written_score": 52
 }

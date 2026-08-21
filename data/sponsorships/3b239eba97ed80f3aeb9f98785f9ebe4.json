@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-80f3-aeb9-f98785f9ebe4",
   "row_title_raw": "milky_swim",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "milky_swim",
   "followers_notion": 1342,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "4e739eba-97ed-827b-aa53-81b6e5306fcb",
+      "url": "https://www.instagram.com/p/DcODcwEFJka/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcODcwEFJka",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-20",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-19T11:13:14.000Z",
+      "permalink": "https://www.instagram.com/p/DcODcwEFJka/",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/778565184_18612381577022923_2427769107569202812_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2NzExNDU5ODk1NTQ5OTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WCi3TMvbdUQQ7kNvwH9kMq2&_nc_oc=AdrsThZNwnQymRBq7Zov74wtkHHO_SUHy7wnXYkWCifKETjVESbp4jctPkkPbFkDEYE&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=tmvjQ2Qk4xGKbDpcegy4Dg&_nc_ss=72a8c&oh=00_AQEzkpV5-G8TciRDiblZ6VhA4oZZYAePU_Xl75e-xtGKew&oe=6A8E9560",
+      "caption": "#이벤트당첨 #제품제공\n\n🍑라세린수영복 물복🍑\n@laserin_swim \n\n✔️더블크로스백\n✔️두겹 수영복(화이트 안감이 덧대져 비침걱정 없음)\n✔️미들컷\n✔️패드고리 있음\n✔️고밀도 직조 원단\n\n🏊🏻‍♂️170/62\n평소 일반수영복 M사이즈/포일수영복 L사이즈 착용(움파, 루프루프, 아레나, 제이커스 등)\n해당 수영복 L사이즈 착용\n\n🔍처음 보자마자 반해버린 영롱 그 자체 수영복 물복🍑❤️\n사진으로도 예뻤지만 실물로 보면 \n정말 감탄이 나올 정도로 예쁜 아이에요,,🤤😘\n\n전체적으로는 핑크와 코랄 그 어디쯤의 컬러에 \n매끄러운 반짝",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "milky_swim",
+      "metrics": {
+        "likes": -1,
+        "comments": 21
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": -1,
+          "comments": 21
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 8,
+        "n": 7,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.014814814814814815,
+        "vs_baseline": 2.5,
+        "cost_per_eng": 3450.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 21 · ER 1.5% · 평소대비 2.5x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "90839eba-97ed-837f-8113-01d6714404fb",
-  "followers": 1342
+  "followers": 1350,
+  "last_written_score": 250
 }

@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "hyuneoni",
   "followers_notion": 21000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "74c39eba-97ed-83af-9603-81c6e938ef64",
+      "url": "https://www.instagram.com/reel/DbkuLT9zan1/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DbkuLT9zan1",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-03",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-03T09:58:54.000Z",
+      "permalink": "https://www.instagram.com/p/DbkuLT9zan1/",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/762737454_18606417094002137_2466272028294186101_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk1NTQ4OTQ2MDIyOTg3NjIxMzE4NjA2NDE3MDg4MDAyMTM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=YT2uDlM6C94Q7kNvwFYj5rB&_nc_oc=AdqT4KJPZapWVrjXEi6E7utDhioNP49ER8zJGq2ymXpBsm3b989gy3OObJnN_lgjw60&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=Mi0hywy6Ki38ReZdm5TXPg&_nc_ss=7c689&oh=00_AQFH5mAfOZmbJDYIHdpkhW2iTUu10FUVfeOsoBnWoG0hsg&oe=6A8E9D30",
+      "caption": "💪 요즘 최애 운동복, 드디어 공개! @secrets__fit 브라탑이에요! \n\n웨이트 할 때도, 유산소 할 때도\n찰떡같이 붙어있어서 움직임이 너무 편해요✨\n\n보들보들한 소재에 볼레로랑 같이 입으면\n꾸안꾸 스타일 완성!🤍\n상반기 빅세일 중이니까 얼른 쟁여두세요🏃‍♀️🏃‍♂️\n\n#운동복추천 #브라탑 #브라탑추천 #운동 #운동일지",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "hyuneoni",
+      "metrics": {
+        "views": 8424,
+        "likes": 95,
+        "comments": 12
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": 8424,
+          "likes": 95,
+          "comments": 12
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 18,
+      "computed": {
+        "er": 0.005038850953614316,
+        "vs_baseline": null,
+        "cost_per_eng": 518.6915887850467,
+        "cost_per_view": 6.588319088319088
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "조회 8,424회·참여율 0.50%로 팔로워 규모 대비 평범한 수준이며, 조회당 6.6원·참여당 519원의 비용 효율은 추가 관찰이 필요한 중간 성과다.",
+          "days": 18,
+          "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        }
+      },
+      "last_written_reaction": "조회 8,424 · 좋아요 95 · 댓글 12 · ER 0.5% (D+18)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "09a39eba-97ed-8353-aa6b-012bad147626",
-  "followers": 20000
+  "followers": 21235
 }

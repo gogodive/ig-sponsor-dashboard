@@ -25,17 +25,17 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-08-01T12:27:44.000Z",
       "permalink": "https://www.instagram.com/p/Dbf1ckwPXII/",
-      "thumbnail": "https://instagram.frtm1-2.fna.fbcdn.net/v/t51.82787-15/762688553_18621603064039216_6894082819775190564_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk1NDExNDA1NzkyOTA2MDg3MjE4NjIxNjAzMDYxMDM5MjE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=kyDBTkL1ArQQ7kNvwEmQFdH&_nc_oc=AdqP4GhLOUUpdO-BgFbsgq8_wog22DDJe5NGnruwrOizwsUddAl1QseKSOrpHNHKxr0&_nc_zt=23&_nc_ht=instagram.frtm1-2.fna&_nc_gid=sPbEcu02N5HEaV8wBdlRPA&_nc_ss=7ca8c&oh=00_AQHVoyKkmMTcW579bWJ8oy36KyC8CkMRfJg-6SpUCkaVcA&oe=6A8D62E3",
+      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/762688553_18621603064039216_6894082819775190564_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk1NDExNDA1NzkyOTA2MDg3MjE4NjIxNjAzMDYxMDM5MjE2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xW39CnXAgu0Q7kNvwHw3GxD&_nc_oc=AdrBHvdtsiVUMEd6LS5-8uSNoSiRH_GVjZdDU2XKOZrpBQzaI2JhQDELN7BYpfPour0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=57huGI9ghDh7raKM6khF0w&_nc_ss=7ca8c&oh=00_AQEpCxhHdGA14BRsNGLkJLxki_4J3h9AqhVmcUUsjcpmJw&oe=6A8EB463",
       "caption": "#협찬 요즘 빠져있는 레몬코어 감성🍋💛 @laserin_swim \n\n실내 프리다이빙부터 바다 스노클링까지\n한 벌로 정말 잘 입고 있는 수영복이에요🐠👙\n\n은은한 옐로우 컬러라 물속에서 더 예쁘고,\n백라인 디자인도 포인트가 돼서 사진도 정말 잘 나와요✨\n\n착용감도 편해서 움직임이 많은 프리다이빙이나\n수영할 때도 부담 없이 즐길 수 있었어요.\n\n올여름 가장 손이 많이 가는 스윔웨어💛\n\n🏷️ 라세린\n트위디 체크 옐로우 더블크로스백 69,000\n\n#라세린 #수영복 #스윔웨어 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "cogi._.v",
       "metrics": {
-        "views": 3802,
+        "views": 3819,
         "likes": -1,
         "comments": 8
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -138,15 +138,21 @@
           "views": 3802,
           "likes": -1,
           "comments": 8
+        },
+        {
+          "d": "2026-08-22",
+          "views": 3819,
+          "likes": -1,
+          "comments": 8
         }
       ],
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
         "er": 0.00027041644131963225,
         "vs_baseline": null,
         "cost_per_eng": 4928.571428571428,
-        "cost_per_view": 9.074171488690164
+        "cost_per_view": 9.03377847604085
       },
       "analysis": {
         "d3": {
@@ -160,7 +166,7 @@
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
         }
       },
-      "last_written_reaction": "조회 3,802 · 좋아요 -1 · 댓글 8 · ER 0.0% (D+19)"
+      "last_written_reaction": "조회 3,819 · 좋아요 -1 · 댓글 8 · ER 0.0% (D+20)"
     },
     {
       "notion_row_id": "b5b39eba-97ed-8298-890f-01d74a376dfd",
@@ -232,7 +238,7 @@
         "captured_at": "2026-07-29T07:07:49.880116+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0005022019624507456,
         "vs_baseline": 2.1666666666666665,

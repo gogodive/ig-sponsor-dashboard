@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T10:34:23.000Z",
       "permalink": "https://www.instagram.com/p/DbDTZoxPXyx/",
-      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk0NjA4MzAyMzE1MzEwMjAwMTE4NDgwNDUwNTExMDk2ODMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Z4Fea7h1b6IQ7kNvwG1Aqa3&_nc_oc=AdpwC-_pG4V7mp-8tqW-ZH8oSCD-4dyAzpfPuIKKD-3lqM4FDNU3uZx6HUflRzZUMn0&_nc_zt=23&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=7aPM5O4IxNqudvGU_dl4XA&_nc_ss=7ca8c&oh=00_AQE_C82MvkwVV1UAp4ZJhrFdHjFpgwnDLQjvl8Fi5qTk3g&oe=6A8D4AF5",
+      "thumbnail": "https://instagram.ffsz1-1.fna.fbcdn.net/v/t51.82787-15/753893561_18480450514096833_2727026761057145821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk0NjA4MzAyMzE1MzEwMjAwMTE4NDgwNDUwNTExMDk2ODMz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uLisjSpIydUQ7kNvwEaSUPa&_nc_oc=Adpy0cFnBU2-DBVPf62RXXNyJJ1TTiLMaUq2IawpAATxEyTxjDWEGisZt-WFWxtsznU&_nc_zt=23&_nc_ht=instagram.ffsz1-1.fna&_nc_gid=XvazJabd0cwufFW1VjeMfQ&_nc_ss=72689&oh=00_AQEFkraU6kAhI_IBg-rHQQyNn8ZgdLmxanvs1zdVt12buQ&oe=6A8E9C75",
       "caption": "@secrets__fit \n\n#ad #시크릿스 #운동복추천 #취미발레룩",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,8 +224,8 @@
         "n": 3,
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": -9.276437847866419e-05,
         "vs_baseline": 0.6769182976079527,
@@ -244,9 +244,11 @@
           "one_liner": "평소 대비 0.65x 저조한 조회에 좋아요·댓글 0건으로 사실상 참여가 없어, 조회당 11.4원 비용 대비 실질 마케팅 효과가 거의 없는 상태.",
           "days": 14,
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
-        }
+        },
+        "final_verdict": "조회수 4,358회로 조회 1회당 비용 약 10.9원은 표면상 낮아 보이나, 좋아요 -1·댓글 0으로 실질적 참여가 전무해 브랜드 인지 이상의 효과를 기대하기 어렵다. 평소 대비 0.68배라는 수치는 협찬 콘텐츠가 오히려 팔로워 반응을 끌어내지 못했음을 나타내며, 팔로워 대비 참여율이 사실상 0%에 수렴해 47,300원 상당의 제품 협찬 비용을 정당화하기 힘들다. 비용 대비 가치 측면에서 이번 협찬은 미흡한 성과로 판단되며, 동일 인플루언서 재협찬 시에는 콘텐츠 방향성 및 참여 유도 장치에 대한 사전 협의가 필요하다.",
+        "final_at": "2026-08-22T06:28:03.167813+09:00"
       },
-      "last_written_reaction": "조회 4,358 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "조회 4,358 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.7x (확정)"
     }
   ],
   "flags": {

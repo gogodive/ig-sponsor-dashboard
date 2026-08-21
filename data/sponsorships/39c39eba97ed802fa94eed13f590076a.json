@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T05:49:07.000Z",
       "permalink": "https://www.instagram.com/p/DbCyq_VTLUH/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/754143209_17888276841667398_8176101706222131498_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0NTkzOTA4MDA3NjYzNzQ0NzE3ODg4Mjc2ODM1NjY3Mzk4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=55fan5nILbsQ7kNvwGSXGFU&_nc_oc=Adp_qj-yTwLy45VX4GL3O94xYqJSLz6DNGGOh5EMSg_UkmLBjWc01fL__uh6OgGubUEFBGex9LrwYo9YCcv38yLI&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=sBW2atej1qHSX4a0Zyqk4g&_nc_ss=72689&oh=00_AQHfUnOtriAo2QezTZ1nRj3DFe-Uj7_utXu_MURHTORD4w&oe=6A8D42A7",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/754143209_17888276841667398_8176101706222131498_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0NTkzOTA4MDA3NjYzNzQ0NzE3ODg4Mjc2ODM1NjY3Mzk4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=55fan5nILbsQ7kNvwFdppov&_nc_oc=AdrXEQpX8a4uTj0UN7T2Lx0nx91UVDnnSGMfHGi-6XBNvJpAxJYQpLyc80i3o__8YBphz3CSUYRukeLBFadUM-EG&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=trQLa2BwVLMaOFOxJKrprw&_nc_ss=7ca8c&oh=00_AQHXeCeKKEx5T1WkVzJIgs7p8S6Lz7yc3e4awzYMeduk4w&oe=6A8E9427",
       "caption": "#협찬 은은한 반짝임이 매력적인 라세린 글로우펄✨\n디자인, 착용감 모두 너무 만족스러운\n인생 포일 수영복 등극 🫧🥹👙\n\n#라세린 #라세린글로우펄 #라세린수영복 #수코디",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,8 +224,8 @@
         "n": 8,
         "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0602125147579693,
         "vs_baseline": 0.28658291745540065,
@@ -244,9 +244,11 @@
           "one_liner": "평소 대비 0.28x로 부진한 조회 성과지만, 참여율 10%·1건당 406원은 소규모 계정 효율로 수용 가능한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 6.02%는 소형 계정 기준으로 양호한 수치이나, 평소 대비 0.29x라는 심각한 도달 저조가 치명적이다—협찬 게시물이 오히려 평상시보다 훨씬 낮은 노출을 기록했다는 뜻으로, 브랜드 노출 효과 자체가 미미했다고 볼 수 있다. 댓글 0건은 구매 전환이나 브랜드 관심 유발 가능성이 사실상 없었음을 시사하며, 조회 1회당 비용 13.8원·참여 1건당 676원은 절대 수치로는 저렴해 보이지만 847명 팔로워 규모와 극히 낮은 도달 실적을 감안하면 69,000원 상품 협찬의 ROI는 부정적으로 판단된다.",
+        "final_at": "2026-08-22T06:28:03.167813+09:00"
       },
-      "last_written_reaction": "조회 2,498 · 좋아요 51 · 댓글 0 · ER 6.0% · 평소대비 0.3x (D+30)"
+      "last_written_reaction": "조회 2,498 · 좋아요 51 · 댓글 0 · ER 6.0% · 평소대비 0.3x (확정)"
     },
     {
       "notion_row_id": "fd839eba-97ed-83ff-869e-0182d66aa489",
@@ -257,7 +259,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T05:35:41.000Z",
       "permalink": "https://www.instagram.com/p/DbCxxBWE4Dh/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/751738107_17887846668667398_3106880117708676801_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0NTkzMzkxMDczNTg0NzIxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Ngz-yLJegOoQ7kNvwH42rks&_nc_oc=Adqa3djUTBweX7t3WzLIFf-bPWEuOvEMiPiLJq7_qAZN7Qsaon87MJx4ntTS52Z4Ek9ovQn5ui1YcigBgyK1lF2H&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=t3F18Eh2f0mS7vKLoreZTQ&_nc_ss=72a8c&oh=00_AQFKd9Zl1au3ppFR9Ziyx_wGnggUzEtIQ8H_lEIK3YYKSA&oe=6A8D32D3",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/751738107_17887846668667398_3106880117708676801_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0NTkzMzkxMDczNTg0NzIxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=1Q_U0zOK0EgQ7kNvwEJy1UC&_nc_oc=Adp6ar4I-BfvlW2dMTQoLpX2NaX_EEnbfdouaPc7p67Rl98kE3I6x4emihQFds2mZEs&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=LK2bI4WybESkYhffqUfxYQ&_nc_ss=7ca8c&oh=00_AQF7i2QlY7cSpROcHrg2i_gjK6jHZk5f34ESLxd3syH2-Q&oe=6A8E8453",
       "caption": "#협찬 @laserin_swim \n✨은은하게 반짝이는 라세린 글로우펄 더블크로스백✨\n\n포일 수영복은 처음이라\n처음에는 조금 화려하지 않을까 생각했는데, \n막상 착용해보니 물속과 조명 아래에서\n은은하게 빛나는 정도라 전혀 부담스럽지 않았어요.\n\n가슴과 레그컷 모두 미들컷이라\n수영할 때 움직임도 편하고 안정적으로 몸을 잡아줘요.\n\n평소 타이트한 착용감을 선호하는 편이라\nXS 사이즈를 선택했는데 제 기준에는 잘 맞았습니다!\n\n키 161, 몸무게 52, 토르소 143\n타사 수영복 사이즈 26, XS~S\n\n#라세린 #라세린글로우펄 #수코디 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -455,8 +457,8 @@
         "n": 9,
         "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.08146399055489964,
         "vs_baseline": 0.9078947368421053,
@@ -475,9 +477,11 @@
           "one_liner": "평소 대비 0.89x로 소폭 미달이나 팔로워 848명 대비 참여율 8%·건당 507원은 소규모 계정 효율로 양호한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
-        }
+        },
+        "final_verdict": "팔로워 847명의 소규모 계정임에도 참여율 8.15%는 마이크로 인플루언서 평균(3~6%)을 크게 상회하며, 참여 1건당 비용 500원은 동급 계정 대비 효율적인 수준이다. 다만 협찬 게시물 성과가 평소 대비 0.91배로 오히려 소폭 하회한 점은 콘텐츠 설득력 또는 팔로워 적합도 측면에서 개선 여지를 시사한다. 상품 가액 69,000원 투자 대비 69건의 유효 참여를 확보한 것은 비용 효율 면에서 수용 가능한 수준이나, 평소 대비 성과 저하를 고려하면 재협찬 시 콘텐츠 방향성 조율이 권장된다.",
+        "final_at": "2026-08-22T06:28:03.167813+09:00"
       },
-      "last_written_reaction": "좋아요 59 · 댓글 10 · ER 8.1% · 평소대비 0.9x (D+30)"
+      "last_written_reaction": "좋아요 59 · 댓글 10 · ER 8.1% · 평소대비 0.9x (확정)"
     }
   ],
   "flags": {

@@ -122,7 +122,7 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,
@@ -141,7 +141,7 @@
           "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+24)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+25)"
     }
   ],
   "flags": {

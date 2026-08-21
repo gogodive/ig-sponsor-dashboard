@@ -17,6 +17,39 @@
   "followers_notion": 19000,
   "posts": [
     {
+      "notion_row_id": "3c339eba-97ed-8079-8a7e-f4eb606749bd",
+      "url": "https://www.instagram.com/p/DaZSXqhlIUD/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==",
+      "shortcode": "DaZSXqhlIUD",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-07-05",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-07-05T02:52:28.000Z",
+      "permalink": "https://www.instagram.com/p/DaZSXqhlIUD/",
+      "thumbnail": "https://instagram.fbne10-2.fna.fbcdn.net/v/t51.82787-15/734089591_18446949985188050_6040564332372939385_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzkzNDI1NjQ2MTg5NDgyMDc2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjUxOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=phEJh2kH180Q7kNvwEWOPXp&_nc_oc=Adr3qEPtVt-PRxknSIGZnd4OQQJPY5EJG29kmjxYEI2pZXTyoq8n4KCgLYjW32EX-XM&_nc_zt=23&_nc_ht=instagram.fbne10-2.fna&_nc_gid=KK0soYOEqDXAlwT6vnT6SQ&_nc_ss=7ca8c&oh=00_AQFoDVMh_jaG8q62eO3z8-QTVP80r326gAhkzdYSD6dvzw&oe=6A8EA74D",
+      "caption": "밤산책 가기 딱 🩶",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "__0ne.f",
+      "metrics": {
+        "likes": -1,
+        "comments": 58
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "frozen": true,
+      "days_since_post": 47,
+      "computed": {
+        "er": 0.003,
+        "vs_baseline": null,
+        "cost_per_eng": 1473.6842105263158,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "final_verdict": "댓글 58건은 팔로워 1.9만 규모 대비 콘텐츠 관여도 측면에서 긍정적이나, 좋아요가 집계 불가(-1) 처리되고 조회수 데이터가 없어 실제 노출 규모를 검증할 수 없다. 팔로워 대비 참여율 0.30%는 인플루언서 마케팅 업계 평균(1~3%)에 크게 못 미치며, 참여 1건당 비용 1,474원은 168,000원 상품 협찬 기준으로 효율이 낮은 편이다. 지표 누락과 낮은 참여율을 종합하면 이번 협찬은 비용 대비 가치가 충분히 입증되지 않았으며, 재협찬 시 조회수·저장수 등 추가 지표 확보와 참여율 기준선 설정이 선행되어야 한다.",
+        "final_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 58 · ER 0.3% (확정)"
+    },
+    {
       "notion_row_id": "6b939eba-97ed-82ec-8b04-013058922c68",
       "url": "https://www.instagram.com/p/DaW8RgQAbg6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "DaW8RgQAbg6",
@@ -24,11 +57,11 @@
       "upload_date_notion": "2026-07-06",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 47,
+      "days_since_post": 48,
       "computed": {
         "er": 0.006789473684210527,
         "vs_baseline": null,
-        "cost_per_eng": 1302.3255813953488,
+        "cost_per_eng": 651.1627906976744,
         "cost_per_view": null
       },
       "posted_at": "2026-07-04T05:00:55.000Z",

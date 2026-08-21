@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "ggom_ming",
   "followers_notion": 15000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "a0539eba-97ed-8243-a432-016641dd4f19",
+      "url": "https://www.instagram.com/p/DcQy5FFD3Do/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcQy5FFD3Do",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-20",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-20T12:46:17.000Z",
+      "permalink": "https://www.instagram.com/p/DcQy5FFD3Do/",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/778082009_18062387981773335_2053953992216929959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2Nzg5NDk3Nzg1ODQxOTc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X6fjtYueaOsQ7kNvwENSWik&_nc_oc=AdoJl0X7bCtXji-cR6Bg7v9URT0FFvbejO2Iu0UTTQgnSno9Wq5-H8fATJORIXjeVpg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=fdnYbuBNZM5-OxQL9R9E_g&_nc_ss=7da8c&oh=00_AQEeVcsicVhkDZMC1Kqw1fQwe7bCr9FNFpgzSk0mCniO4Q&oe=6A8E9FA9",
+      "caption": "#제품제공 @laserin_swim \n실내에서 먼저 먹어.. 아니 입어본 𝐋𝐀𝐒𝐄𝐑𝐈𝐍 딱복!🍑\n화보 보자마자 한눈에 반했던 수영복이에요😍\n역시나 실물이 훨씬 반짝이고 예쁘더라구요💗\n\n이름 그대로 새콤달콤한 느낌의 패턴 보이시나요!?\n쨍한 핑크컬러에 더블크로스 타이백이 포인트!!🎀\n너무 예뻐서 계곡에서 바다에서 수영장에서 이미 여러번 입었답니다!🏖️\n\n• 두겹수영복\n• 더블크로스 타이백\n• 미들컷\n• 브라고리\n\n• 스펙\n키154 몸무게46 토르소140 \n🙋‍♀️착용사이즈 XS\n\n#라세린 #수영복 #딱복 #수영",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "ggom_ming",
+      "metrics": {
+        "likes": 167,
+        "comments": 21
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": 167,
+          "comments": 21
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 281.0,
+        "n": 12,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.012513312034078808,
+        "vs_baseline": 0.6690391459074733,
+        "cost_per_eng": 367.02127659574467,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 167 · 댓글 21 · ER 1.3% · 평소대비 0.7x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a5039eba-97ed-8366-8f6f-01864fbef8e9",
-  "followers": 15000
+  "followers": 15024,
+  "last_written_score": 67
 }

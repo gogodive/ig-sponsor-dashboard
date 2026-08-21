@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-800e-a698-d69b4180c541",
   "row_title_raw": "soha.swim",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,16 +25,16 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-12T13:10:38.000Z",
       "permalink": "https://www.instagram.com/p/Db8PUdclPeK/",
-      "thumbnail": "https://instagram.fagp4-1.fna.fbcdn.net/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BhrOMhTUKKIQ7kNvwEkZFcd&_nc_oc=AdqG64Km4EqlG3k5qiun0BP7SJmJrbsfZV78u9ZUPfB3DNVBZU45mglnUihb88y5uSU&_nc_zt=23&_nc_ht=instagram.fagp4-1.fna&_nc_gid=PKUnwqDYFftwm-NbcGU1mA&_nc_ss=72a8c&oh=00_AQFvnSctWhPbmrUx7XRHgzlCbr6VRWrGnxOjP_ah_T1nlA&oe=6A8D4A89",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BhrOMhTUKKIQ7kNvwHPtEWq&_nc_oc=Adrw7lEUvzBZDDZC42tP_hZ0VBwVsYINFTk7mG0xO1TmkyvASkpdL9bdICPtsu6VDA0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=xHofZZBRzSLjfIDY2hXKEA&_nc_ss=72a8c&oh=00_AQGeNnczsl42fCMAfz7O4eUIAj77uS9Bkg4hA91XjlXkBg&oe=6A8E9C09",
       "caption": "#제품제공 입자마자 인어공주 되는 수영복🧜‍♀️\n\n@laserin_swim 선글로우\n\n택배박스 열자마자 든 생각은 와 진짜 반짝반짝 빛난다✨ 였어요! 선글로우 컷 사진보고 반해버렸는데 사진보다 실물이 더 예쁘고 영롱한 수영복이에요!\n\n특히 야외에서 입으면 진가를 발휘하는 수영복이에요.\n바다에서 진짜 얘만보임🧡\n햇빛 받으면 반짝반짝 빛나서 사진도 잘 나와요! 물 속에서도 예쁨❤️\n\n특히 웜톤 분들 아주아주 추천하고 싶은 수영복이에요! 요즘 야외에서 수영 많이해서 탔는데 탄톤에게도 추천..👍\n\nx백으로 몸을 잘 잡아주고, 안감까지 두 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "soha.swim",
       "metrics": {
-        "likes": 102,
+        "likes": 105,
         "comments": 46
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -47,20 +47,26 @@
           "views": null,
           "likes": 102,
           "comments": 46
+        },
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": 105,
+          "comments": 46
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 112.0,
         "n": 6,
-        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.07287050713934022,
-        "vs_baseline": 1.3214285714285714,
-        "cost_per_eng": 466.2162162162162,
+        "er": 0.07434761201378631,
+        "vs_baseline": 1.3482142857142858,
+        "cost_per_eng": 456.95364238410593,
         "cost_per_view": null
       },
       "analysis": {
@@ -70,7 +76,7 @@
           "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
         }
       },
-      "last_written_reaction": "좋아요 102 · 댓글 46 · ER 7.3% · 평소대비 1.3x (D+8)"
+      "last_written_reaction": "좋아요 105 · 댓글 46 · ER 7.4% · 평소대비 1.3x (D+9)"
     }
   ],
   "flags": {
@@ -81,5 +87,5 @@
   },
   "child_db_id": "24539eba-97ed-8283-8855-01dd5f81e655",
   "followers": 2031,
-  "last_written_score": 132
+  "last_written_score": 135
 }

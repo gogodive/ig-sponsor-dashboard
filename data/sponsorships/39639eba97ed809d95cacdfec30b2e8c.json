@@ -170,7 +170,7 @@
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.031161473087818695,
         "vs_baseline": 0.6666666666666666,
@@ -202,17 +202,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T09:39:34.000Z",
       "permalink": "https://www.instagram.com/p/DbNgsOOzeeN/",
-      "thumbnail": "https://instagram.fmex28-1.fna.fbcdn.net/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0ODk1NjIyNDY5OTg4NTQ1MzE3OTc5OTAyNzg0MDYzMzkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=nQD91nGTcQUQ7kNvwENP001&_nc_oc=AdpCzBMhNI_BvVToJe-ouC1kEA6OU1_cTChYRecDv_qr8t3Ki4hv8GV6poy4q80YDu4&_nc_zt=23&_nc_ht=instagram.fmex28-1.fna&_nc_gid=wPwiXP8-Y6_6Yq4THi7EXw&_nc_ss=72a8c&oh=00_AQGEodKUQEOcIKebaLdHa9ZCvLOdq2_GB0Q5yhZwk9ml2w&oe=6A8D6096",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0ODk1NjIyNDY5OTg4NTQ1MzE3OTc5OTAyNzg0MDYzMzkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzIifQ%3D%3D&_nc_ohc=7J3sSibv2YUQ7kNvwHxHckj&_nc_oc=AdrTvHaLNwiGLpPiUvHKijqFQ7oSbGwoKP-i-KviSCN1b3BjMbwLZZ5cXfonG1-TjaeJtkaIq90bMCH2rpNS9uAp&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=nn3-EznrQUjhXg3W0VXG3A&_nc_ss=72a8c&oh=00_AQF8pQe8HPc-202K-k3sc0HZ1TKcn6tDqgcqnHKHf0E2Tw&oe=6A8EB216",
       "caption": "@laserin_swim \n\n#협찬 #제품제공 \n \n\n보고 또 보고 또 봐도 \n말도안되는 반짝임이 너무 예쁜\n라세린 선셋코랄✨\n\n#라세린수영복 #라세린 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "upoo_poo_",
       "metrics": {
-        "views": 1129,
+        "views": 1139,
         "likes": 44,
         "comments": 3
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -363,23 +363,29 @@
           "views": 1129,
           "likes": 44,
           "comments": 3
+        },
+        {
+          "d": "2026-08-22",
+          "views": 1139,
+          "likes": 44,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 681.5,
         "eng_median": 28.0,
         "n": 4,
-        "captured_at": "2026-08-21T06:31:39.407472+09:00"
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.022190745986779982,
-        "vs_baseline": 1.656639765223771,
+        "vs_baseline": 1.6713132795304475,
         "cost_per_eng": 787.2340425531914,
-        "cost_per_view": 32.772364924712136
+        "cost_per_view": 32.484635645302895
       },
-      "last_written_reaction": "조회 1,129 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.7x (D+26)",
+      "last_written_reaction": "조회 1,139 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.7x (D+27)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.66x로 부진한 출발이나, 팔로워 2천 소규모 계정 특성상 참여 1건당 1,028원·조회당 44.8원은 아직 관망 단계.",
@@ -547,7 +553,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
         "er": 0.03918791312559018,
         "vs_baseline": 0.9222222222222223,
@@ -697,7 +703,7 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.05004721435316336,
         "vs_baseline": 1.1462639109697934,

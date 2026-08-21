@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "yorrr_ming",
   "followers_notion": 24000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3d839eba-97ed-83f1-bf63-01c9b6ff8a0a",
+      "url": "https://www.instagram.com/reel/DcSYBswvYpC/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcSYBswvYpC",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-21",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-21T03:33:25.000Z",
+      "permalink": "https://www.instagram.com/p/DcSYBswvYpC/",
+      "thumbnail": "https://instagram.ffcm1-1.fna.fbcdn.net/v/t15.5256-10/775243082_1716418802992158_4182357025122707630_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk2ODMzOTg5MTU2NDkzOTg0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=GbFNuNnH9GIQ7kNvwHESOCo&_nc_oc=AdroUXF-Jf2HJC3D8wL33JSx3S4C2C9DXz70Sksn_WGn8CQgYOg0KoqJaAUAUClIcSQLgUYe0GX5AAHz8Os9--wr&_nc_zt=23&_nc_ht=instagram.ffcm1-1.fna&_nc_gid=gNKlcT1YPPCab3rd-U9-LA&_nc_ss=72a8c&oh=00_AQE-66HwYNQj9XK2vLFM1ean1oLjVxogSPgHufaciCOrMg&oe=6A8EB628",
+      "caption": "물속에서 인어가 되어보기🫧\n\n물방울 놀이하다가 너무 재밌어서 시간 가는줄 몰랐던 프리디이빙\n예쁜 수영복 입어서 더 기분이 좋았나...?\n@laserin_swim sun glow ❤️\n\n🎥 @whats__sub @shin_yoon_jae_",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "yorrr_ming",
+      "metrics": {
+        "views": 3933,
+        "likes": 164,
+        "comments": 24
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": 3933,
+          "likes": 164,
+          "comments": 24
+        }
+      ],
+      "baseline": {
+        "views_median": 6472.5,
+        "eng_median": 313.5,
+        "n": 8,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.007696086458162764,
+        "vs_baseline": 0.6076477404403244,
+        "cost_per_eng": 367.02127659574467,
+        "cost_per_view": 17.54385964912281
+      },
+      "last_written_reaction": "조회 3,933 · 좋아요 164 · 댓글 24 · ER 0.8% · 평소대비 0.6x (D+0)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a0f39eba-97ed-8239-90e5-811fc8ebae7c",
-  "followers": 24428
+  "followers": 24428,
+  "last_written_score": 61
 }

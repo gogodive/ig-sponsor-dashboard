@@ -15,13 +15,66 @@
   "output_link_prop": null,
   "username": "hxxon_1029",
   "followers_notion": 2312,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "fd139eba-97ed-822e-b625-011b89bf4640",
+      "url": "https://www.instagram.com/reel/DcK5wrzhn4h/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcK5wrzhn4h",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-18",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-18T08:00:01.000Z",
+      "permalink": "https://www.instagram.com/p/DcK5wrzhn4h/",
+      "thumbnail": "https://instagram.fntr8-1.fna.fbcdn.net/v/t51.82787-15/775814328_18336289432253587_5131152319606899284_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NjIzNjQ1NjA3NDUwOTg1NzE4MzM2Mjg5NDI2MjUzNTg3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=AxzIAMMv2wAQ7kNvwFDE7ZD&_nc_oc=AdpQAJ2Q8bXay_HPHX9SxgrOBWtP-1GU_bCCwCY9xtKl3RmX7TBdhtsqmD420WhoqmorF7QtvUroI2eTHOe2gkCK&_nc_zt=23&_nc_ht=instagram.fntr8-1.fna&_nc_gid=OG_NaEV7fwr2zcJpJsmWOw&_nc_ss=72a8c&oh=00_AQG-zvpu3Okgcp0_4Kb93j5Pred09xeKTHLZ-GbmauaZVQ&oe=6A8EAF2C",
+      "caption": "#제품제공 @laserin_swim \n\n머메이딩할때 애용하는 수영복🧜‍♀️\n블랙 베이스에 글리터포인트가 있어서 더 예쁜거같아요😆\n\n𝚜𝚠𝚒𝚖 𝚠𝚎𝚊𝚛 라세린 루미나 블랙 브이백\n\n🖤 SIZE INFO \n155 / 50 / T143\nM착용 / 선호사이즈 M \n정핏 또는 여유로운핏 선호",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "hxxon_1029",
+      "metrics": {
+        "views": 1638,
+        "likes": -1,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": 1638,
+          "likes": -1,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": 8359.5,
+        "eng_median": 26.5,
+        "n": 4,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": -0.00036859565057132326,
+        "vs_baseline": 0.19594473353669478,
+        "cost_per_eng": -138000.0,
+        "cost_per_view": 84.24908424908425
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.20x의 극히 저조한 초기 반응으로, 조회당 비용 84원·유효 참여 0건 수준의 가성비 미달 상태입니다.",
+          "days": 3,
+          "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        }
+      },
+      "last_written_reaction": "조회 1,638 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.2x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "39239eba-97ed-83b3-91e8-81ee8a9e13a7",
-  "followers": 2312
+  "followers": 2713,
+  "last_written_score": 20
 }

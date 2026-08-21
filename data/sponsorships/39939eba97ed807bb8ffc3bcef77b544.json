@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-21T09:27:14.000Z",
       "permalink": "https://www.instagram.com/p/DbDMQ_mEXrY/",
-      "thumbnail": "https://instagram.fmex3-3.fna.fbcdn.net/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0NjA1MDEyMDI1NjQzNDg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dGlp6fk_r18Q7kNvwE_Ktly&_nc_oc=AdpbbHg3jsTgWvRCpjvZ3H8YkSF8MIuDvBy85BkA_Gdt0bX90MGRbUnLWJk3v8DEcow&_nc_zt=23&_nc_ht=instagram.fmex3-3.fna&_nc_gid=q9K764-N4FX3PqC4TCsxYQ&_nc_ss=72689&oh=00_AQFKpZIyQIbYrFvynKZBFGkfSzxM-Z7_dOa-fwmQxONIvQ&oe=6A8D5125",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/752761325_17898749091540086_7546085107768179665_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk0NjA1MDEyMDI1NjQzNDg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dGlp6fk_r18Q7kNvwGBQ6wi&_nc_oc=Adqu1VC0kQUWYRTbHUo9_XyKTqYWE78ByldwWDbwXgKYGCCt-MNAH0wmXiT2Tz5bpTEk4KBXJlpitj_m7N9UHzCy&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=FrHk2jSUYknQlmtggBwBYw&_nc_ss=72a8c&oh=00_AQH6gZJR5SFJMwosapnmoO8bAw89hIZek35KT3jgYDQgsg&oe=6A8EA2A5",
       "caption": "#협찬  @laserin_swim \n진짜 너무 예쁘자나 이수영복?\n너무 좋아하는 색 조합💚🩷\n\n울릉도 또와야지~~💦",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -223,8 +223,8 @@
         "n": 12,
         "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.14018691588785046,
         "vs_baseline": 0.6912442396313364,
@@ -243,9 +243,11 @@
           "one_liner": "평소 대비 0.62x로 부진하나, 팔로워 531명 소계정에서 참여율 13.4%·건당 1,324원은 비용 효율 양호 수준.",
           "days": 14,
           "analyzed_at": "2026-08-05T07:16:17.555483+09:00"
-        }
+        },
+        "final_verdict": "팔로워 535명의 소규모 계정임에도 참여율 14.02%는 인플루언서 마케팅 업계 평균(1~3%)을 크게 상회하며, 참여 1건당 비용 1,253원은 94,000원 상품 협찬 기준으로 매우 효율적인 수준이다. 다만 평소 대비 0.69배로 콘텐츠 반응이 해당 계정의 일반 게시물보다 저조했다는 점은 협찬 콘텐츠 자체의 흡입력이 다소 부족했음을 시사한다. 절대적 도달 규모(팔로워 535명)의 한계를 감안하면 브랜드 인지도 확장보다는 소규모 충성 팬층을 통한 진성 참여 확보 측면에서 비용 대비 합격점을 줄 수 있다.",
+        "final_at": "2026-08-22T06:28:03.167813+09:00"
       },
-      "last_written_reaction": "좋아요 72 · 댓글 3 · ER 14.0% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "좋아요 72 · 댓글 3 · ER 14.0% · 평소대비 0.7x (확정)"
     }
   ],
   "flags": {

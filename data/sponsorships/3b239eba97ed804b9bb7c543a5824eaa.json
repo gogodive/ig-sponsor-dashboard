@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "jiyoooooou",
   "followers_notion": 12000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "d8f39eba-97ed-83d7-919d-810e32741a97",
+      "url": "https://www.instagram.com/p/DcA2QzSD7oy/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcA2QzSD7oy",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-14",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-14T08:07:53.000Z",
+      "permalink": "https://www.instagram.com/p/DcA2QzSD7oy/",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VK5A46I3_c8Q7kNvwHk4WZJ&_nc_oc=Adrh7LUZVqpW8Q09vsnmhyFIi9eQgGrF3mpflV1G2573o7MFLb-kiGC5j8WJ4K2ktS8&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=8fNAZzBGaLlSSXWATYwjwg&_nc_ss=72a8c&oh=00_AQGZJm7BzkHwSBhZWvPSYlF8LvF4K6Pyq1PVpq15F7nMrA&oe=6A8E99D9",
+      "caption": "산청 여름방학🍉🍃⛱️👙💙\n\n다합패밀리들(찐가족2)과 함께한 행복했던 여름방학💗\n\n이 특별한 여정에 나으ㅣ 최애 수영복👙\n블링블링 너무 예쁜 @laserin_swim 신상과 함께…💕\n\n시원해지니까 좋은데 시렁😭\nㅇㅕ름ㅇㅏ 가지마 나랑 놀ㅇㅏ✨\n\n👙 @laserin_swim \n🕶️ @ballonblanc_life \n📸 @jin__dalrae",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "jiyoooooou",
+      "metrics": {
+        "likes": -1,
+        "comments": 11
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": -1,
+          "comments": 11
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 13.5,
+        "n": 8,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": 0.0007908264136022143,
+        "vs_baseline": 0.7407407407407407,
+        "cost_per_eng": 6900.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.74x 저조한 참여율(0.08%)에 건당 비용 6,900원으로, 현시점 투자 효율이 미흡하며 추가 모니터링이 필요합니다.",
+          "days": 7,
+          "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+7)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "d3039eba-97ed-8282-9281-01221772bfc5",
-  "followers": 12645
+  "followers": 12645,
+  "last_written_score": 74
 }

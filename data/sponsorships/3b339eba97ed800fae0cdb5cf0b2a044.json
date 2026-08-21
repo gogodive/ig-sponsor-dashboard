@@ -15,13 +15,110 @@
   "output_link_prop": null,
   "username": "yun.nu.nana",
   "followers_notion": 10000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3c339eba-97ed-8083-817d-ed73208fb1d9",
+      "url": "https://www.instagram.com/p/DcAFhiPiVoE/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcAFhiPiVoE",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-14",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-14T01:02:00.000Z",
+      "permalink": "https://www.instagram.com/p/DcAFhiPiVoE/",
+      "thumbnail": "https://instagram.fbcn12-1.fna.fbcdn.net/v/t51.82787-15/773469519_18110771926998643_2087432753371423113_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MzE5MTMwNTA3MDUwMDE4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WSnxLYoJb7YQ7kNvwHvhScD&_nc_oc=Ado9dZgYTcmJXsjzsFxgH7IMOQthfExcwF31RuOY-D_0gXqZJvjTzK1KPOWZa9SMVVY&_nc_zt=23&_nc_ht=instagram.fbcn12-1.fna&_nc_gid=WW3-4VI2N5ak0AWBcu1Rxg&_nc_ss=72a8c&oh=00_AQHZVI_uwtjfdmGQFzp-uWcPLBRSlT_SUprkmlImBhc3fw&oe=6A8E7F67",
+      "caption": "#협찬 #시크릿스#여자운동복추천#애슬레저브랜드 #인생팬츠 \n💚",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yun.nu.nana",
+      "metrics": {
+        "likes": 86,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": 86,
+          "comments": 9
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 114.0,
+        "n": 12,
+        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": 0.009062291328818086,
+        "vs_baseline": 0.8333333333333334,
+        "cost_per_eng": 589.4736842105264,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.83x로 기대 이하 성과이나, 참여 1건당 589원은 수용 가능한 수준으로 추이 지속 모니터링 필요.",
+          "days": 7,
+          "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 86 · 댓글 9 · ER 0.9% · 평소대비 0.8x (D+7)"
+    },
+    {
+      "notion_row_id": "a5639eba-97ed-8316-837c-815b8b9078c5",
+      "url": "https://www.instagram.com/reel/DcAExTAJa3d/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcAExTAJa3d",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-14",
+      "first_seen": "2026-08-22",
+      "posted_at": "2026-08-14T00:58:49.000Z",
+      "permalink": "https://www.instagram.com/p/DcAExTAJa3d/",
+      "thumbnail": "https://instagram.ftij6-1.fna.fbcdn.net/v/t51.82787-15/775028075_18110771719998643_863420455102793556_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MzE4ODY1MTkzMDAwNDk1NzE4MTEwNzcxNzEzOTk4NjQz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=4edwD5rpzpEQ7kNvwGkiPCt&_nc_oc=AdrmRRVvjtjym9cgM7_U3aNP5xtU2QKwItvQ8hB8HOySxL1-C5MzfGBelZasPOHXag8&_nc_zt=23&_nc_ht=instagram.ftij6-1.fna&_nc_gid=aVaoPmD3DPzPay5S-JL4Mg&_nc_ss=7ca8c&oh=00_AQGZVr8BNO1_ovYyFU5P4cQQOQ1bA284CB8xZhhmy-oe_A&oe=6A8EA424",
+      "caption": "#협찬 #시크릿스#여자운동복추천#애슬레저브랜드 #운동복코디 \n운동 일상 출근 모두 쪼아💚\n개미허리 탄생",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "yun.nu.nana",
+      "metrics": {
+        "views": 3079,
+        "likes": 57,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "history": [
+        {
+          "d": "2026-08-22",
+          "views": 3079,
+          "likes": 57,
+          "comments": 9
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": 0.0062959076600209865,
+        "vs_baseline": null,
+        "cost_per_eng": 848.4848484848485,
+        "cost_per_view": 18.187723286781424
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "조회 3,079회·참여율 0.63%로 조회당 18원 수준이며, 팔로워 규모 대비 초기 반응이 저조해 추가 확산 여부를 주시할 필요가 있음.",
+          "days": 7,
+          "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        }
+      },
+      "last_written_reaction": "조회 3,079 · 좋아요 57 · 댓글 9 · ER 0.6% (D+7)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "5b739eba-97ed-82c1-9cde-0191f1ff576c",
-  "followers": 10000
+  "followers": 10483,
+  "last_written_score": 83
 }

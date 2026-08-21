@@ -1,7 +1,7 @@
 {
   "page_id": "3b339eba-97ed-80bf-9a03-f7497a25db2f",
   "row_title_raw": "healthy_eun",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-07-28T13:46:18.000Z",
       "permalink": "https://www.instagram.com/p/DbVraqJSrBs/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/759941983_17893547967592983_3863721072669190874_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1MTI1NTE5NjA0Njg5NzI2MDE3ODkzNTQ3OTY0NTkyOTgz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uVY45dkCfIoQ7kNvwH8CQw5&_nc_oc=AdpVAYuKP01fuzsZIXh1z9yJevEszo8EFjrfPkZ7xHxHMP_NwqMiypjcuTXTvd1U_P17cC9k3JEWhYFvxvxvIi3I&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=2m-pFxAc7eRmRXCTCvCBgw&_nc_ss=7ca8c&oh=00_AQEQsLdmXoKNK1mJBEBahxhRl0lFuFI9oqNA7ulPBN_Qpw&oe=6A8D3180",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/759941983_17893547967592983_3863721072669190874_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1MTI1NTE5NjA0Njg5NzI2MDE3ODkzNTQ3OTY0NTkyOTgz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uVY45dkCfIoQ7kNvwGTZf2Y&_nc_oc=AdpdW5PlwfE45XQeJCRIEKQUb9SDDTl8L9tsH_eQLMzKsPyiSANg4QXtrR1DbKIQ0K4&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=Rc5UDiUiJcPpD0CQQfLqlQ&_nc_ss=72a8c&oh=00_AQGtAc8aoyClmP9zT3Y7wIGPrHXLIVLcoRNJagUcQOwvbA&oe=6A8E8300",
       "caption": "@secrets__fit \n\n강사들 사이 꿀템 #시크릿스\n헬시은 착장 구경하고 가세용💗",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "healthy__eun",
       "metrics": {
-        "views": 2422,
-        "likes": 173,
+        "views": 2544,
+        "likes": 178,
         "comments": 56
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -90,15 +90,21 @@
           "views": 2422,
           "likes": 173,
           "comments": 56
+        },
+        {
+          "d": "2026-08-22",
+          "views": 2544,
+          "likes": 178,
+          "comments": 56
         }
       ],
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.050922837447187015,
+        "er": 0.05203468979319546,
         "vs_baseline": null,
-        "cost_per_eng": 205.24017467248908,
-        "cost_per_view": 19.40545004128819
+        "cost_per_eng": 200.85470085470087,
+        "cost_per_view": 18.4748427672956
       },
       "analysis": {
         "d14": {
@@ -107,7 +113,7 @@
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
         }
       },
-      "last_written_reaction": "조회 2,422 · 좋아요 173 · 댓글 56 · ER 5.1% (D+23)"
+      "last_written_reaction": "조회 2,544 · 좋아요 178 · 댓글 56 · ER 5.2% (D+24)"
     },
     {
       "notion_row_id": "ac539eba-97ed-8305-b010-81f03f25014a",
@@ -118,16 +124,16 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-07-28T06:26:52.000Z",
       "permalink": "https://www.instagram.com/p/DbU5MDhnUyC/",
-      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/757889342_17893485996592983_2136192954071083541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk1MTAzMTUzNjYyMzExMzk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=V9uWgrMgZRAQ7kNvwEQntgu&_nc_oc=Adpgs49w2mbpFeyTFimQ_XkDnziMVDN4K14WeP5110dclid0lapxMQ-RgZCbzsTK1YEPOKJQ67ujD4n7p60tEvcl&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=olU6ZyJsgkkeFOBddFqi0g&_nc_ss=7c689&oh=00_AQHIz0y_fLtHtbKoymZYoMasrfFl_ZsiJu8otpL9zjhY2w&oe=6A8D59A7",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/757889342_17893485996592983_2136192954071083541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk1MTAzMTUzNjYyMzExMzk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=V9uWgrMgZRAQ7kNvwFGFFz8&_nc_oc=AdoVXjKaxyZYonj2YqHpf5A4RedayXWo23BqhtUwMQOyGsk4wk1J5r84ze-8y_YBZpc&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=InHlza6crfWct9CnsrUN5Q&_nc_ss=72a8c&oh=00_AQFVqjqU1Evkaut-NI1TNqCzQACwiXDkMWevsOoEy2C8kw&oe=6A8EAB27",
       "caption": "퀴즈⚠️ 운동 전 운동 후 입니댜! 내가 뭘 해서 저렇게 됬게룡🫪\n\n#투모어휘트니스봉명점 에서 내가 제일 좋아하는 머신을 썼답니다 모게용?\n맞히는 사람 선물로 꿀밤 줌👊\n\n오늘 착장은 #시크릿스 #V컷코르셋레깅스 에욤 \n요새 살 넘몽 안빠져서 요새 옆구리 넘 불룩한디 (현재 스펙 161/52 ㅋ)\n레깅스 덕에 완주니 잘록걸이잔오➿ 깔별로 쟁이고 싶당\n나한테 무슨 색이 젤 잘어울릴지도 추천해죠.",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "healthy__eun",
       "metrics": {
-        "likes": 333,
+        "likes": 336,
         "comments": 48
       },
-      "metrics_updated_at": "2026-08-21T06:31:39.407472+09:00",
+      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -224,14 +230,20 @@
           "views": null,
           "likes": 333,
           "comments": 48
+        },
+        {
+          "d": "2026-08-22",
+          "views": null,
+          "likes": 336,
+          "comments": 48
         }
       ],
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.0847231487658439,
+        "er": 0.08539026017344896,
         "vs_baseline": null,
-        "cost_per_eng": 123.35958005249344,
+        "cost_per_eng": 122.39583333333333,
         "cost_per_view": null
       },
       "analysis": {
@@ -246,7 +258,7 @@
           "analyzed_at": "2026-08-12T06:52:47.460628+09:00"
         }
       },
-      "last_written_reaction": "좋아요 333 · 댓글 48 · ER 8.5% (D+23)"
+      "last_written_reaction": "좋아요 336 · 댓글 48 · ER 8.5% (D+24)"
     }
   ],
   "flags": {
