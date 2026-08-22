@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-22T12:10:32.000Z",
       "permalink": "https://www.instagram.com/p/DbGDq1_s90s/",
-      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk0Njg1ODI2MTc3MTQ0MzUwMDE3ODk5NzYxNjE4NTM4OTQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Vj-uBg02PGIQ7kNvwHaqsmL&_nc_oc=Ado1aO64WLyVbWc3b7XfiV2uZ8ZG-WaKs3XyTz5WCnN_Qo1cUv5L-cZF9NmfpSPO8oE&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=BnGdZYMBqmWWgudxCo6O-A&_nc_ss=7ca8c&oh=00_AQGNXDhspZs5QtAyck-DBSs0vXUhg8PnEEsrVkWnalpB1g&oe=6A8E9A69",
+      "thumbnail": "https://instagram.fbne15-1.fna.fbcdn.net/v/t51.82787-15/754143667_17899761621538945_1728089521704156969_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk0Njg1ODI2MTc3MTQ0MzUwMDE3ODk5NzYxNjE4NTM4OTQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Vj-uBg02PGIQ7kNvwFzHwEF&_nc_oc=Adrqm-duxdjlK7wluaA6fg56aR6JmnYWYu6ZxPFtkidLIfn1zSlgFIeILCY4hHtSwtE&_nc_zt=23&_nc_ht=instagram.fbne15-1.fna&_nc_gid=vWfaddZeTFoQPP_bpfaYvA&_nc_ss=72a8c&oh=00_AQHwABNJknuIkP_8qAzy6yKviHm9R5UdhoB-kYc3WfYLKg&oe=6A8FEBE9",
       "caption": "#광고 #시크릿스\n\n이거 입고 예쁘다 소리 백번 들음..🩵\n연하늘이라 입자마자 얼굴까지 화사해 보이는 느낌☁️\n\n레깅스 쫀쫀하게 잡아줘서 핏이 진짜 개굳\n운동 갈 때도 좋고 그냥 툭 입고 나가기에도 너무 편한🤍\n안 입을 이유가 없다✨\n\n#시크릿스 #레깅스추천 #애슬레저",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,10 +224,10 @@
           "comments": 84
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.040606060606060604,
+        "er": 0.04076045627376426,
         "vs_baseline": null,
         "cost_per_eng": 55.03731343283582,
         "cost_per_view": 3.7261588985726917
@@ -244,9 +244,11 @@
           "one_liner": "팔로워 대비 참여율 3.88%·참여 1건당 57원으로 비용 효율은 양호하나, 조회수 7,025회는 평소 대비 배수 확인이 필요한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-06T07:14:38.900393+09:00"
-        }
+        },
+        "final_verdict": "팔로워 13,150명 규모 계정에서 참여율 4.08%는 인플루언서 마케팅 업계 평균(1~3%)을 상회하는 수치로, 팔로워 대비 실질 반응은 양호하다. 그러나 릴스 조회수 7,917회는 팔로워 수의 약 60% 수준으로 릴스 확산력은 제한적이었으며, 상품 가액 59,000원 기준 조회당 비용 3.7원·참여당 비용 55원은 소규모 계정 협찬으로서 비교적 효율적인 수치다. 전반적으로 대규모 노출보다는 소규모 충성 팬덤을 겨냥한 타겟 마케팅으로서 비용 대비 수용 가능한 성과로 평가된다.",
+        "final_at": "2026-08-23T06:25:41.150876+09:00"
       },
-      "last_written_reaction": "조회 7,917 · 좋아요 452 · 댓글 84 · ER 4.1% (D+30)"
+      "last_written_reaction": "조회 7,917 · 좋아요 452 · 댓글 84 · ER 4.1% (확정)"
     },
     {
       "notion_row_id": "91839eba-97ed-83fd-8ae2-817d3a15f61f",
@@ -257,7 +259,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-03T13:11:56.000Z",
       "permalink": "https://www.instagram.com/p/DaVPq8Lmj2q/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/730437044_17895997164538945_1240272073126595312_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGA-3NvNrZ5vPbtuEbHWA06c9wxqFNZagT0VKkVhGkud2w00Dk5ENqcDWg_fNz2p7XmqA4kH7bQWXqhNySviJMY&_nc_ohc=goVZybkmmUoQ7kNvwHbDk7S&_nc_gid=6xu66wjWu5leWfKasmF8aA&edm=ADp7STQBAAAA&ccb=7-5&oh=00_AQEgCROkN42lEHCbWY1E-gBRuxkQpwHE5htVvsK2f_3w4w&oe=6A855648&_nc_sid=c6f216",
+      "thumbnail": "https://instagram.fthe2-1.fna.fbcdn.net/v/t51.82787-15/730437044_17895997164538945_1240272073126595312_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkzMzExODQxNDYxNTMyMjE5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ao2uZFL9SlQQ7kNvwGauvVn&_nc_oc=AdqGm_HVtmWuQQwP6chsZSqBFvWvJLkR-up1egrs9XEUQ9Q7TC0PVjuD8aHeCGXoI3k&_nc_zt=23&_nc_ht=instagram.fthe2-1.fna&_nc_gid=ZxfdOh7SQ8Fbj8ykqjVM5w&_nc_ss=72a8c&oh=00_AQG7NwQ6jNBhzCjHeVXTTc-nAqoZYpcKtjFQmDGb8kp8UQ&oe=6A8FE248",
       "caption": "#광고\n\n이거 입고 오늘 예쁘다는 말 오백만번 들음❤️\n색감도 트렌디한데 완죤 쫀쫀핏✨\n브라탑도 안흘러내리고 예쁜데 편하기까지,,🫶🏻\n\n#시크릿스 #애슬레저 #레깅스추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -348,9 +350,9 @@
         "captured_at": "2026-08-03T06:58:43.658866+09:00"
       },
       "frozen": true,
-      "days_since_post": 49,
+      "days_since_post": 50,
       "computed": {
-        "er": 0.08356060606060606,
+        "er": 0.08387832699619772,
         "vs_baseline": 1.7949552481692432,
         "cost_per_eng": 26.74524025385313,
         "cost_per_view": null
@@ -376,6 +378,6 @@
     "account_unavailable": false
   },
   "child_db_id": "75339eba-97ed-83cf-b243-8130c0f110bb",
-  "followers": 13200,
+  "followers": 13150,
   "last_written_score": 179
 }

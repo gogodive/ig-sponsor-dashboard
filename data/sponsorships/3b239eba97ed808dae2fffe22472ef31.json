@@ -25,16 +25,16 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-13T16:05:13.000Z",
       "permalink": "https://www.instagram.com/p/Db_IF_pEzkQ/",
-      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/773028724_18477229528107784_5327644671246414326_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2MjkwODkxODk4OTE1MjQyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=C_aJK8BM2swQ7kNvwGsD9yS&_nc_oc=AdqYDogPTnBw8NULxa2sR0gJ4_QpDcDNn9VSMNqdc9iwk1b9XFRO959YF1QXrud_TCb348yjtfDdW1XB7ephBxiL&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=PaDQVWO9W01AHAZFXkJyaA&_nc_ss=7c689&oh=00_AQF7A9TGi5dAIXUzuQAkjwMY66RHk7BRT4d-hL44bQyhdg&oe=6A8E9FA4",
+      "thumbnail": "https://instagram.fsyd5-1.fna.fbcdn.net/v/t51.82787-15/773028724_18477229528107784_5327644671246414326_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2MjkwODkxODk4OTE1MjQyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=C_aJK8BM2swQ7kNvwEDG0Zh&_nc_oc=AdrhR6zUujnqLO04mi5GDs0GIthbi9kVG0GUakHFRURDVdN_4g-TpcsHYfPoHO_mcDSATGc0yLYKzL5SiPgAox-b&_nc_zt=23&_nc_ht=instagram.fsyd5-1.fna&_nc_gid=LF0NPtWdiwFZ_9XN9BqxdQ&_nc_ss=7ca8c&oh=00_AQEThlEXCsgrccY1sLkl836thboCm4OsHJeUy23CeeHKcw&oe=6A8FF124",
       "caption": "🛍️제품제공 •라세린 🍑물복 \n \n다들 이쁘다 해주셨던 물복이유 \n물속에서 더 이쁘네요? \n\n수영복이라함은 모름지기 물 속에서 그 빛을 발해야 하는 법\n\n합격입니다 🈴\n\n🍑물복 \n더블크로스백 / 미들컷 \n161/48 M사이즈 착용 \n(동일한 스펙이시면 S하시면 될거에요) \n\n@laserin_swim \n\n•신축성 좋고 착용감 good\n•더블크로스백이라 안정적\n•엉덩이 부분도 편했어요 \n\n🤗영롱한거 좋아하시는 분들은 세일할 때 장만하세유 \n공홈 가니까 5만원대로 할인중이네요? 뛰어🐢\n\n🤭오늘 깜빡하고 \n샤워실에 염소샴푸 놔두고 놀고왔더",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "_sunny_jeong_",
       "metrics": {
-        "likes": 145,
+        "likes": 147,
         "comments": 17
       },
-      "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
+      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -53,20 +53,26 @@
           "views": null,
           "likes": 145,
           "comments": 17
+        },
+        {
+          "d": "2026-08-23",
+          "views": null,
+          "likes": 147,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 185.0,
         "n": 4,
-        "captured_at": "2026-08-22T06:28:03.167813+09:00"
+        "captured_at": "2026-08-23T06:25:41.150876+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.029556650246305417,
-        "vs_baseline": 0.8756756756756757,
-        "cost_per_eng": 425.9259259259259,
+        "er": 0.029921547162926474,
+        "vs_baseline": 0.8864864864864865,
+        "cost_per_eng": 420.7317073170732,
         "cost_per_view": null
       },
       "analysis": {
@@ -76,7 +82,7 @@
           "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
         }
       },
-      "last_written_reaction": "좋아요 145 · 댓글 17 · ER 3.0% · 평소대비 0.9x (D+8)"
+      "last_written_reaction": "좋아요 147 · 댓글 17 · ER 3.0% · 평소대비 0.9x (D+9)"
     }
   ],
   "flags": {
@@ -87,5 +93,5 @@
   },
   "child_db_id": "e0d39eba-97ed-835f-b3ea-01bde6a299f7",
   "followers": 5481,
-  "last_written_score": 88
+  "last_written_score": 89
 }
