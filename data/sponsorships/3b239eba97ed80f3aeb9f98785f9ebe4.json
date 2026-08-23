@@ -25,16 +25,16 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-19T11:13:14.000Z",
       "permalink": "https://www.instagram.com/p/DcODcwEFJka/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/778565184_18612381577022923_2427769107569202812_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2NzExNDU5ODk1NTQ5OTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WCi3TMvbdUQQ7kNvwHoqphM&_nc_oc=AdoEe0-FhnC3WEli3wlyCA99CjQJluJ6wSDbgZbypUeOzE13hrqBcRldg4_N5DOiykY&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=XhcamjcQqj2gZDaiJ3jcEw&_nc_ss=7ca8c&oh=00_AQF3Ilfb0BkWaIse76YLWqQF35Y6Z9VGIkHW3XKNLrzdSA&oe=6A8FE6E0",
+      "thumbnail": "https://instagram.fbio3-2.fna.fbcdn.net/v/t51.82787-15/778565184_18612381577022923_2427769107569202812_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2NzExNDU5ODk1NTQ5OTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WCi3TMvbdUQQ7kNvwHrAeki&_nc_oc=AdpedHgG5Qnv-CLIPes_REU21vIshyVXxTxbSkrlYjnhYKg1vSKF7YMeecgOVK_cpQo&_nc_zt=23&_nc_ht=instagram.fbio3-2.fna&_nc_gid=Rjdoq_cR5NxMSQ_qUafg-A&_nc_ss=7ca8c&oh=00_AQEx8G0YdTLZDjOCjlzl-3VQKFGhwsgLe_Z7Ktwp9c4vMw&oe=6A913860",
       "caption": "#이벤트당첨 #제품제공\n\n🍑라세린수영복 물복🍑\n@laserin_swim \n\n✔️더블크로스백\n✔️두겹 수영복(화이트 안감이 덧대져 비침걱정 없음)\n✔️미들컷\n✔️패드고리 있음\n✔️고밀도 직조 원단\n\n🏊🏻‍♂️170/62\n평소 일반수영복 M사이즈/포일수영복 L사이즈 착용(움파, 루프루프, 아레나, 제이커스 등)\n해당 수영복 L사이즈 착용\n\n🔍처음 보자마자 반해버린 영롱 그 자체 수영복 물복🍑❤️\n사진으로도 예뻤지만 실물로 보면 \n정말 감탄이 나올 정도로 예쁜 아이에요,,🤤😘\n\n전체적으로는 핑크와 코랄 그 어디쯤의 컬러에 \n매끄러운 반짝",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "milky_swim",
       "metrics": {
         "likes": -1,
-        "comments": 22
+        "comments": 23
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": -1,
           "comments": 22
+        },
+        {
+          "d": "2026-08-24",
+          "views": null,
+          "likes": -1,
+          "comments": 23
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 8,
         "n": 7,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.015555555555555555,
-        "vs_baseline": 2.625,
-        "cost_per_eng": 3285.714285714286,
+        "er": 0.016296296296296295,
+        "vs_baseline": 2.75,
+        "cost_per_eng": 3136.3636363636365,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 22 · ER 1.6% · 평소대비 2.6x (D+3)",
+      "last_written_reaction": "좋아요 -1 · 댓글 23 · ER 1.6% · 평소대비 2.8x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 2.62배 참여로 선전 중이나, 팔로워 1,350명 소규모 계정 특성상 참여 1건당 3,286원 비용 효율은 추가 관찰이 필요하다.",
@@ -81,5 +87,5 @@
   },
   "child_db_id": "90839eba-97ed-837f-8113-01d6714404fb",
   "followers": 1350,
-  "last_written_score": 262
+  "last_written_score": 275
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-21T07:43:33.000Z",
       "permalink": "https://www.instagram.com/p/DcS1CpzE4VU/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/775375461_18375827314233378_1087905768508528682_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2ODQ2NjEyMTY1Mjk5MjU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8dpHVIZ9xtgQ7kNvwHuyIyl&_nc_oc=AdpUccbdOq2546xWVc9F75zwe_UMALXhZHdG1EWOq5I7_6rj2FnBTGACNh46iumlKPA&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=ja3JhnLMScTgUZj9IN18uQ&_nc_ss=7c689&oh=00_AQFex-bgB2SlmmvZZZKXeaYi4dFoetjvxPpsQNS_qTCzMw&oe=6A8FEEDD",
+      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/775375461_18375827314233378_1087905768508528682_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2ODQ2NjEyMTY1Mjk5MjU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8dpHVIZ9xtgQ7kNvwFQPnq0&_nc_oc=Adp0ARqxS6Rg1SzBSTyzwArX8WluZ5zYQskSYs1rpkLQomRL5GtBriB1MHM1AQG9IQKiofJiHlymPEGMeIE64Kym&_nc_zt=23&_nc_ht=instagram.fyxd1-1.fna&_nc_gid=R3bh13kqY3YwnIcUVX3JyQ&_nc_ss=7ca8c&oh=00_AQE60SEnxdBIRY-PgaKzMnTNSFhBo0DtykFv-Vz5I5xyaA&oe=6A91405D",
       "caption": "#제품제공 LASERIN 포레스트 글로우 | Forest Glow ✨\n\n🏝️ 울릉도의 맑고 푸른 바다에서 입어본 라세린 포레스트 글로우 🥝🫧\n\n민트 아쿠아 컬러에 은은하게 반짝이는 광택이 더해져\n맑고 청순하면서도 상큼한 느낌이 가득해요 🍋\n\n특히 쿨톤인 저한테도 찰떡이라\n피부톤이 한층 더 맑아 보이는 느낌!\n\n픽스드백이라 물속에서도 안정감 있게 잡아줘서 \n\n바다부터 실내 수영장, 야외 수영 어디서든 편하게 입기 좋을 것 같아요 🦦👙\n\n* Back Type: Fixed Back\n\nSize Tip . 153cm/44~55\n• 포레스트 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 4
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-08-24",
+          "views": null,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 19,
         "n": 11,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": 0.0045045045045045045,
         "vs_baseline": 0.15789473684210525,
         "cost_per_eng": 23000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.2x (D+1)"
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.2x (D+2)"
     }
   ],
   "flags": {

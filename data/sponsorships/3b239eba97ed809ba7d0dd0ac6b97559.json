@@ -25,16 +25,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T14:36:38.000Z",
       "permalink": "https://www.instagram.com/p/Db0qxr2kiLY/",
-      "thumbnail": "https://instagram.fcia6-1.fna.fbcdn.net/v/t51.82787-15/771870408_18092355530169046_2669490073068598861_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk1OTk3MzI4NTYyNjE0MzE1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kRrZ00rGTOMQ7kNvwGgG8uh&_nc_oc=AdqaJYItYTCPjPuNp5iv4RTYJea0U-K3t0ofbR_g6zwKcyFuw_92Jgoj3LP76-PlbbU&_nc_zt=23&_nc_ht=instagram.fcia6-1.fna&_nc_gid=BdS5SjdE37yuoKRKtRWZPQ&_nc_ss=7ca8c&oh=00_AQHafwtRt4oDs7Ua46WsDecPqNizSzN0hhc6Fr9ySkyLNA&oe=6A8FF107",
+      "thumbnail": "https://instagram.fgig14-2.fna.fbcdn.net/v/t51.82787-15/771870408_18092355530169046_2669490073068598861_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk1OTk3MzI4NTYyNjE0MzE1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kRrZ00rGTOMQ7kNvwHjZtuR&_nc_oc=AdoL_hxWDzQH8UCpDneVdgJfmO1hrvehDw9HdkQlOb7SDqp5FevEMxU7iUh4cJhs8Ug&_nc_zt=23&_nc_ht=instagram.fgig14-2.fna&_nc_gid=fjbO-d3w0sKIlBipGiC4Iw&_nc_ss=72a8c&oh=00_AQGBn0jlk1b4Uh5yHCWJNBYYkEipnlL_kq7gypehWe3teA&oe=6A914287",
       "caption": "#제품제공 라세린 딱복 더블크로스 타이백 S\n-\n-\n라세린 영롱빔 딱복이 리뷰입니다. 🍑💖\n쿨톤 다 모이시고 더불어 웜톤도 여기 붙어\n크림 베이스에 마젠타 핑크라 톤그로 🙅🏻‍♀️ \n걍 대한민국 수영인 다 입으세요 ㅎㅎ \n-\n-\n-\n미틀컷이 오랜만이라 간만에 입을 때 허벅지에서\n트위스트 조금 했지만 입고 나니 사이즈 딱 좋았어요.\n더블 크로스 + 타이백이라 안정감 있었고요,\n가슴선은 높고 엉덩이 천 또한 혜자입니다. 🍑\n-\n-\n저는 원래도 캡을 잘 사용하지 않는 편이라,\n요번에도 캡 없이 바로 착용했고 비침 1도 없었습니다.\n그러나",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "orrrn.frog",
       "metrics": {
-        "likes": 51,
+        "likes": 52,
         "comments": 28
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -101,20 +101,26 @@
           "views": null,
           "likes": 51,
           "comments": 28
+        },
+        {
+          "d": "2026-08-24",
+          "views": null,
+          "likes": 52,
+          "comments": 28
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 61.5,
         "n": 8,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.33905579399141633,
-        "vs_baseline": 1.2845528455284554,
-        "cost_per_eng": 436.7088607594937,
+        "er": 0.34334763948497854,
+        "vs_baseline": 1.3008130081300813,
+        "cost_per_eng": 431.25,
         "cost_per_view": null
       },
       "analysis": {
@@ -122,9 +128,14 @@
           "one_liner": "평소 대비 1.05x로 무난하나, 팔로워 146명 소규모 계정에서 참여율 41.78%·566원/건은 비용 효율 양호 수준.",
           "days": 3,
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        },
+        "d14": {
+          "one_liner": "팔로워 233명 소규모 계정임에도 평소 대비 1.30x·참여율 34%로 431원/참여의 높은 효율을 보이며 중간 성과 양호.",
+          "days": 14,
+          "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
         }
       },
-      "last_written_reaction": "좋아요 51 · 댓글 28 · ER 33.9% · 평소대비 1.3x (D+13)"
+      "last_written_reaction": "좋아요 52 · 댓글 28 · ER 34.3% · 평소대비 1.3x (D+14)"
     },
     {
       "notion_row_id": "48139eba-97ed-820b-8967-812096ce9569",
@@ -135,17 +146,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-11T04:21:13.000Z",
       "permalink": "https://www.instagram.com/p/Db4tnp8SYME/",
-      "thumbnail": "https://instagram.fnap4-1.fna.fbcdn.net/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Y19CxQe_yCoQ7kNvwGPUVQs&_nc_oc=Ado84AWz1mzKQ-WJ8xw_mZKX-KFcYJmXeF6adnFrFBoPfjlNNVTdRRyNFxgGDE_BYoI&_nc_zt=23&_nc_ht=instagram.fnap4-1.fna&_nc_gid=RmjIT5vdpn-JYSWIQiDsWw&_nc_ss=72689&oh=00_AQGSBbvCz2uQflCWTTRRwTUqYbq2Sb11AGwRDlC_LdHOoQ&oe=6A8FE67B",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Y19CxQe_yCoQ7kNvwE40e61&_nc_oc=AdrK4H9lbB1Vj6WiGscFADO5tL-UyxFoRHWsHEQlRNr03cDAtero2MNIupPEO8mxGp8&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=oo0qDp5p0kfCeUtX622FAA&_nc_ss=72689&oh=00_AQFxU1sTQ143vdSLiSs5F-qCH0Uxg36nOkMo3UlKaKBaaA&oe=6A9137FB",
       "caption": "나도 이런거 함 해보고싶었다네\n겉멋만 잔뜩 들었어 🤦‍♀️💦💦\n\n#수영 #수영을좋아하는이유 #수친자 #수영조아해 #수영인",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "orrrn.frog",
       "metrics": {
-        "views": 5167,
-        "likes": 103,
+        "views": 5201,
+        "likes": 104,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -212,23 +223,29 @@
           "views": 5167,
           "likes": 103,
           "comments": 32
+        },
+        {
+          "d": "2026-08-24",
+          "views": 5201,
+          "likes": 104,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": 3816.0,
         "eng_median": 41.0,
         "n": 10,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.5793991416309013,
-        "vs_baseline": 1.354035639412998,
-        "cost_per_eng": 255.55555555555554,
-        "cost_per_view": 6.676988581381846
+        "er": 0.5836909871244635,
+        "vs_baseline": 1.3629454926624738,
+        "cost_per_eng": 253.6764705882353,
+        "cost_per_view": 6.633339742357239
       },
-      "last_written_reaction": "조회 5,167 · 좋아요 103 · 댓글 32 · ER 57.9% · 평소대비 1.4x (D+11)",
+      "last_written_reaction": "조회 5,201 · 좋아요 104 · 댓글 32 · ER 58.4% · 평소대비 1.4x (D+12)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.34x 조회·참여율 84%로 소규모 계정 치고 초기 반응 양호, 참여 1건당 280원·조회당 7.9원은 효율적인 수준.",
@@ -246,5 +263,5 @@
   },
   "child_db_id": "9ca39eba-97ed-829e-b5d7-011ae7a49724",
   "followers": 233,
-  "last_written_score": 132
+  "last_written_score": 133
 }

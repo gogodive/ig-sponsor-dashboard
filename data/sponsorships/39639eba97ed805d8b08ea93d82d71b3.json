@@ -25,7 +25,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-23T05:28:33.000Z",
       "permalink": "https://www.instagram.com/p/DbH6ik5GN4D/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NzM3OTg5MDM0Njk3ODEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zEMNSSjE22kQ7kNvwHLbxhY&_nc_oc=AdpGsIWTB3IyS1P1_OuioeJcAz57w2eHdJK2cfOsZoZvH1fijqiPFkCd0YfB9_vAB9Q&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=Du6qpaF5pZGv1I3P0vFjLQ&_nc_ss=7ca8c&oh=00_AQHj8OwHwVTd65pOCLO-yKQ68Wz3FKhaW-S_pJZ7MfyKRg&oe=6A8FEB17",
+      "thumbnail": "https://instagram.fper9-1.fna.fbcdn.net/v/t51.82787-15/751938398_18602937760013804_2066380178127047524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NzM3OTg5MDM0Njk3ODEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjk2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zEMNSSjE22kQ7kNvwGlOwvg&_nc_oc=AdoABQYR5pIWEvX8VNN-vXcvhOWj82knU1WMY6EKZhlpizeuOgL99CQXuQ4SX_Ayez9tYchvQCAw9-rm3B88bt_e&_nc_zt=23&_nc_ht=instagram.fper9-1.fna&_nc_gid=vy5Y9i72fvBsjjgtjys5LQ&_nc_ss=7ca8c&oh=00_AQHZMGavasTx3vKn2i15wzMvt6C-MssuQ9x2KDWTC4dviw&oe=6A913C97",
       "caption": "#협찬 \n\n여름에 따악 어울리는 색상 🩵\n실물이 더 영롱하고 고급진데 전하지못해 아쉽ㄷㅏ😵\n착용감은 말해 뭐해〰️\n너무 부드럽고 쫀득한 느낌 !\n\n✔️크리스탈 웨이브 더블 크로스백\n✔️xs착용\n\n#라세린 #수영복 #수영복추천 #swimwear",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -235,8 +235,8 @@
         "n": 12,
         "captured_at": "2026-08-23T06:25:41.150876+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0060108810108810105,
         "vs_baseline": 0.8,
@@ -255,9 +255,11 @@
           "one_liner": "평소 대비 1.02x로 사실상 변화 없고, 참여 1건당 257원은 팔로워 규모 대비 비효율—현 추이라면 협찬 효과 미미.",
           "days": 14,
           "analyzed_at": "2026-08-07T10:01:11.565831+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 0.60%는 인스타그램 피드 평균(1~3%)을 크게 하회하며, 평소 대비 성과도 0.80배로 협찬 게시물임에도 오히려 평소보다 낮은 반응을 얻었다. 참여 1건당 비용 252원은 마이크로 인플루언서 기준으로 다소 높은 편이며, 좋아요 257건·댓글 17건의 절대 수치 역시 45,584 팔로워 규모에 비해 저조하다. 브랜드 노출 효과가 제한적이고 비용 효율도 낮아, 동일 예산 대비 가치는 미흡한 협찬으로 평가된다.",
+        "final_at": "2026-08-24T06:24:52.774248+09:00"
       },
-      "last_written_reaction": "좋아요 257 · 댓글 17 · ER 0.6% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 257 · 댓글 17 · ER 0.6% · 평소대비 0.8x (확정)"
     }
   ],
   "flags": {

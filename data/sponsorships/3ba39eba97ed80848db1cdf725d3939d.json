@@ -25,16 +25,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T05:32:41.000Z",
       "permalink": "https://www.instagram.com/p/Dbzsht-kaEN/",
-      "thumbnail": "https://instagram.fyyc2-1.fna.fbcdn.net/v/t51.82787-15/768303698_18181852825414513_712652809193311546_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1OTcwMTA2NDA2NDAyNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CSeUfDgkX_MQ7kNvwH3JBlV&_nc_oc=AdormkQtXwUyAdNtiB87GVb7vHp9yIgJcHMUvsByZN-H9kt117SZnY2R4hF1MXUanPOS_1PhSMZFAPfGknbAIEzV&_nc_zt=23&_nc_ht=instagram.fyyc2-1.fna&_nc_gid=vHEzGkTTZ68dg2UYS7b3UQ&_nc_ss=7ca8c&oh=00_AQG8lxbo8ljFRqWgdtaDmCUb92cg1sTImvTfLdNIreejZg&oe=6A8FF8F2",
+      "thumbnail": "https://scontent-mrs2-2.cdninstagram.com/v/t51.82787-15/768303698_18181852825414513_712652809193311546_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1OTcwMTA2NDA2NDAyNDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CSeUfDgkX_MQ7kNvwFeMdKf&_nc_oc=Adonhs0sJWFUx2u5cY3vvfU9erIgKDoQYvVUYnws9pekHYUlaE2WQ7MviyI3xwRim4iWo1XCA73v5rZKN6QDD5uA&_nc_zt=23&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_gid=v69NlN1auCj7qKGd0L7f_A&_nc_ss=72289&oh=00_AQHnnGwDff4F0EkRpKU6tnwokyjePJ5mwKnK8VTLy_n8_g&oe=6A914A72",
       "caption": "어제 야식 먹어서 오늘 운동 3시간 함 \n오늘은 뭐먹지 😽 \n\n와중에 운동복 핏 머야 깔별로 쟁기고 시푸다 🫢\n\n제품제공 @secrets__fit 🤎🖤 \n\n#협찬 #시크릿핏 #오운완 #헬스 #운동",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "jiyoung_vo",
       "metrics": {
-        "likes": 448,
+        "likes": 450,
         "comments": 54
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -101,20 +101,26 @@
           "views": null,
           "likes": 448,
           "comments": 54
+        },
+        {
+          "d": "2026-08-24",
+          "views": null,
+          "likes": 450,
+          "comments": 54
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 532.5,
         "n": 12,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.0946277097078228,
-        "vs_baseline": 0.9427230046948357,
-        "cost_per_eng": 87.64940239043824,
+        "er": 0.09500471253534401,
+        "vs_baseline": 0.9464788732394366,
+        "cost_per_eng": 87.3015873015873,
         "cost_per_view": null
       },
       "analysis": {
@@ -122,9 +128,14 @@
           "one_liner": "평소 대비 0.85x로 소폭 하회하나 참여율 8.27%·CPE 104원은 팔로워 규모 감안 시 우수한 초기 성과.",
           "days": 3,
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.95x로 팔로워 반응은 평이하나, 참여 1건당 87원의 낮은 비용으로 9.5% 참여율을 확보해 효율은 양호한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
         }
       },
-      "last_written_reaction": "좋아요 448 · 댓글 54 · ER 9.5% · 평소대비 0.9x (D+13)"
+      "last_written_reaction": "좋아요 450 · 댓글 54 · ER 9.5% · 평소대비 0.9x (D+14)"
     },
     {
       "notion_row_id": "95539eba-97ed-83da-bdae-012bd42170bf",
@@ -135,17 +146,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-11T03:01:19.000Z",
       "permalink": "https://www.instagram.com/p/Db4kIKZzcRt/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/775036900_18182856070414513_1755069015182587131_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2MTA3NDc2Mjg3Mjg5ODY2OTE4MTgyODU2MDY3NDE0NTEz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=3QSVG91I8rAQ7kNvwHCutiI&_nc_oc=AdpI1acPIOiK0DcA16vymgkGigGYj4jCRZEO5Fet5RAE0d1JCXNjeP3GxNBh6zhp2f4&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=c71c-xVjFpP8aS1klQ4fog&_nc_ss=72a8c&oh=00_AQFnBgRrc_Xt1zNzRxBsmtQYWgmUYitvguFyaD6XE57y0A&oe=6A8FE680",
+      "thumbnail": "https://instagram.fcju1-1.fna.fbcdn.net/v/t51.82787-15/775036900_18182856070414513_1755069015182587131_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2MTA3NDc2Mjg3Mjg5ODY2OTE4MTgyODU2MDY3NDE0NTEz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=3QSVG91I8rAQ7kNvwE_K8v7&_nc_oc=Adpq6FttN8D2pcZoeZTXCuF-vL9nxJdn-BGrDToGx31THFZ2RAOJde4KQTAYiJWgsO8&_nc_zt=23&_nc_ht=instagram.fcju1-1.fna&_nc_gid=PEnBSPoBCPIDi_H7WcGLHQ&_nc_ss=72689&oh=00_AQEsC98OsYeAIS6SKD0QDtxa3lNipgkSb5yy_BFAcbCvDA&oe=6A913800",
       "caption": "시크릿스 운동복 추천해요🤍\n\n그나저나 요즘 식욕이 늘어 걱정이에요 ,, 전날 해물찜 야식으로 부종 팅팅.. 다들 어떻게 참으시나유..🥹\n\n#제품제공 @secrets__fit 🤎\n\n#시크릿스 #운동 #운동복 #헬스",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "jiyoung_vo",
       "metrics": {
-        "views": 8002,
-        "likes": 288,
+        "views": 8242,
+        "likes": 291,
         "comments": 38
       },
-      "metrics_updated_at": "2026-08-23T06:25:41.150876+09:00",
+      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -212,23 +223,29 @@
           "views": 8002,
           "likes": 288,
           "comments": 38
+        },
+        {
+          "d": "2026-08-24",
+          "views": 8242,
+          "likes": 291,
+          "comments": 38
         }
       ],
       "baseline": {
         "views_median": 4670.5,
         "eng_median": 254.5,
         "n": 6,
-        "captured_at": "2026-08-23T06:25:41.150876+09:00"
+        "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.06145146088595665,
-        "vs_baseline": 1.7133069264532705,
-        "cost_per_eng": 134.96932515337423,
-        "cost_per_view": 5.498625343664084
+        "er": 0.062016965127238456,
+        "vs_baseline": 1.7646932876565677,
+        "cost_per_eng": 133.7386018237082,
+        "cost_per_view": 5.338510070371269
       },
-      "last_written_reaction": "조회 8,002 · 좋아요 288 · 댓글 38 · ER 6.1% · 평소대비 1.7x (D+11)",
+      "last_written_reaction": "조회 8,242 · 좋아요 291 · 댓글 38 · ER 6.2% · 평소대비 1.8x (D+12)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.15x 조회·참여율 5.56%로 안정적 출발, 참여당 155원·조회당 7.5원은 8.8만원 협찬비 기준 무난한 효율이나 D+7까지 추이 확인 필요.",
@@ -246,5 +263,5 @@
   },
   "child_db_id": "81a39eba-97ed-82a1-ba31-8130eb4de58b",
   "followers": 5305,
-  "last_written_score": 133
+  "last_written_score": 136
 }
