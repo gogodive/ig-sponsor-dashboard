@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "jjung.a__",
   "followers_notion": 39000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "77b39eba-97ed-83ef-8bae-816b944525bc",
+      "url": "https://www.instagram.com/p/DcVo6KHiYDR/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcVo6KHiYDR",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-23",
+      "first_seen": "2026-08-25",
+      "posted_at": "2026-08-22T09:55:15.000Z",
+      "permalink": "https://www.instagram.com/p/DcVo6KHiYDR/",
+      "thumbnail": "https://instagram.ffcm1-2.fna.fbcdn.net/v/t51.82787-15/784077401_18615640666054735_8349759400601234217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTI1NjgyOTEzOTQ5OTM4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TgI-u4PW-8EQ7kNvwHkpL1q&_nc_oc=AdqLzmnyyvlM_H4nhxYUiTqC3p1XUd9nMAd2edhFmZeudqh2YrsgwY04Z1wmEE1wKI2ug1DPSCMJ0Ffm2WI7c4lW&_nc_zt=23&_nc_ht=instagram.ffcm1-2.fna&_nc_gid=ZOC-bffseNqP6QuPHJdzPA&_nc_ss=7d289&oh=00_AQGP9cKN1rGFSl6dl0lXCnXZgOCxCyy4R_WJOW-lSi6rVg&oe=6A927838",
+      "caption": "요즘 내 최애 딥바이브 롱핀 @intotheblue_store \n나 오로라 사랑하는데 딥바이브 오로라 빛이 너무 이뽀✨\n가벼워서 나한테 더 찰떡🤍\n문의사항 많았는데 친절하고 빠르게 답변해주셔서 감사했어요!\n\n#인투더블루#딥바이브#프리다이빙장비#프리다이빙",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "jjung.a__",
+      "metrics": {
+        "likes": 1084,
+        "comments": 20
+      },
+      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
+      "history": [
+        {
+          "d": "2026-08-25",
+          "views": null,
+          "likes": 1084,
+          "comments": 20
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 456.5,
+        "n": 6,
+        "captured_at": "2026-08-25T06:33:18.500073+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.027571738967558254,
+        "vs_baseline": 2.4184008762322016,
+        "cost_per_eng": 262.6811594202899,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 1,084 · 댓글 20 · ER 2.8% · 평소대비 2.4x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "e1239eba-97ed-83bf-966e-01ecff90a0de",
-  "followers": 39543
+  "followers": 40041,
+  "last_written_score": 242
 }

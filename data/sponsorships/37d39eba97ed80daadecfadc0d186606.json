@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-24T14:31:07.000Z",
       "permalink": "https://www.instagram.com/p/DbLdPR6PiDv/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0ODM3ODA5MTY5MjEwNTk2NzE4NjA2Mzk1MTUyMDAwMTg5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=UeJKmUiDkpAQ7kNvwGXd0zX&_nc_oc=AdoHUxF95XMcvp-n6dxaJLGNLNYo91-KNAxokVjso2-hs99pIou1za9D3NrZaSjTMGU&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=LPYxYzATOxIY45FlC2MAFg&_nc_ss=72a8c&oh=00_AQFX0DSo2eXqI8NbM5pWAQN8xjxD37cu4J0LcsUvxowWtQ&oe=6A913BAC",
+      "thumbnail": "https://instagram.fscn1-1.fna.fbcdn.net/v/t51.82787-15/753534893_18606395155000189_3155902409845600551_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0ODM3ODA5MTY5MjEwNTk2NzE4NjA2Mzk1MTUyMDAwMTg5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Uvct5KSpdygQ7kNvwFX3kmk&_nc_oc=AdrG8NdF8CB5fV7zm74YvLDcflbwe-SLcSoJjujfZxicKzbsWQ68XvVpUIaiOx4LvoU&_nc_zt=23&_nc_ht=instagram.fscn1-1.fna&_nc_gid=oj8HWMFfi4rc-Ixj8-tEtw&_nc_ss=7d689&oh=00_AQGDk9B2tiDYsUxj0K55sXWk9AA_CMdERluILMgCixeYeA&oe=6A928D2C",
       "caption": "제주 습도가 86도를 넘었는디..!(울집기준)🚨 💦\n\n이 무더위에 살아남았다는 건 강하다는 것..!\n날씨 예보와는 다르게 제주는 일주일 전부터 내내\n뜨거웠다는 사실! 제주 무더위를 제주답게 보내려면\n\n제주 휴가지다운 이열치열 잼컨, 의미있게 시간을 보내기\n좋은 핫플 위치 정도는 꼬옥 파악하고 오시길😏🧊\n그럼 모두 안전하고 재밌는 휴가 되세요~~~!🔥\n\n#제주살이 #제주하와 #판포포구 #웰니스트립 #wellness \n📍 @hawa_jeju @sauna_paradise_ \n🩱 @laserin_swim",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -212,8 +212,8 @@
         "n": 6,
         "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.014917879939754715,
         "vs_baseline": 1.1256139284913453,
@@ -230,9 +230,11 @@
           "one_liner": "평소 대비 4.6배 조회·댓글 347건으로 확산력 입증, 조회당 0.3원·참여당 35원의 효율적 비용 구조로 D+14 기준 긍정적 성과.",
           "days": 14,
           "analyzed_at": "2026-08-08T06:42:07.580840+09:00"
-        }
+        },
+        "final_verdict": "조회수 155,615회·참여율 1.49%로 평소 대비 1.13배 수준을 기록해 유의미한 바이럴 증폭은 제한적이었으나, 조회당 비용 0.3원·참여 건당 34원은 인플루언서 마케팅 업계 평균 대비 매우 낮은 수준으로 비용 효율성은 우수하다. 다만 댓글 347건은 팔로워 규모(83,658명)와 조회수에 비해 상당히 높은 편으로 실제 구매·관심 전환 가능성을 시사하며, 128,000원의 제품 협찬 단가를 고려하면 전반적으로 비용 대비 납득 가능한 성과를 거둔 협찬으로 평가된다.",
+        "final_at": "2026-08-25T06:33:18.500073+09:00"
       },
-      "last_written_reaction": "조회 155,615 · 좋아요 901 · 댓글 347 · ER 1.5% · 평소대비 1.1x (D+30)"
+      "last_written_reaction": "조회 155,615 · 좋아요 901 · 댓글 347 · ER 1.5% · 평소대비 1.1x (확정)"
     },
     {
       "notion_row_id": "39c39eba-97ed-8057-8b05-c317f1d08034",
@@ -376,7 +378,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.0067536876329819025,
         "vs_baseline": 0.5712841253791708,
@@ -520,7 +522,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 48,
+      "days_since_post": 49,
       "computed": {
         "er": 0.005402950106385522,
         "vs_baseline": 0.1409647025734777,

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-15T13:18:22.000Z",
       "permalink": "https://www.instagram.com/p/DcD-lscgdKD/",
-      "thumbnail": "https://instagram.fbri6-1.fna.fbcdn.net/v/t51.82787-15/774886579_18561857890074533_50947571693136976_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NDI4NDU3NTYzMDU5NTM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjcwNy5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XqJRDXyuoecQ7kNvwFUqZYF&_nc_oc=AdprY327WP8Gv9Y67AUJ4CsMWSwoThD-dMea4i4SIlJajxewNkoiBy_0dEFvwfb_3c0&_nc_zt=23&_nc_ht=instagram.fbri6-1.fna&_nc_gid=wPOCZt-KMILISIAhNQKQGA&_nc_ss=72a8c&oh=00_AQG6h8zQ_l_yGBUQlP56-yOhl_MdK5tljNJ5s3L37Dbxbg&oe=6A9137FF",
+      "thumbnail": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/774886579_18561857890074533_50947571693136976_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NDI4NDU3NTYzMDU5NTM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjcwNy5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VYYUlXOuFCgQ7kNvwFdlU3n&_nc_oc=Adre8fKhhDhjdEuXv2DRt40aZ9Q7I3nD4EBMquZLY-WUE7dRZZh1y3-NulCG51QnnJU&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=xRmbmslBCyZApLL0OA8hZA&_nc_ss=7ca8c&oh=00_AQHoerJszLK26X8-GKAvPzWRtOGoNZgx49lewRo_vE_Mqw&oe=6A92897F",
       "caption": "@secrets__fit  #시크릿스 [174cm/62kg]\n\n캡 안비치는 화이트 나시 지쨔 이뿌다….❤️\n여자들은 캡내장 나시 얼마나 편한지 다 알자나!?\n\n👚 : @secrets__fit  리브 슬리브리스 (오프화이트)\n\n#짐웨어 #운동복 #오운완 #운동소통",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "__1_7_4mon",
       "metrics": {
-        "likes": 212,
+        "likes": 220,
         "comments": 7
       },
-      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
+      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -53,20 +53,26 @@
           "views": null,
           "likes": 212,
           "comments": 7
+        },
+        {
+          "d": "2026-08-25",
+          "views": null,
+          "likes": 220,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 360.0,
         "n": 12,
-        "captured_at": "2026-08-24T06:24:52.774248+09:00"
+        "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.011682492265016537,
-        "vs_baseline": 0.6083333333333333,
-        "cost_per_eng": 1230.593607305936,
+        "er": 0.012109249973327643,
+        "vs_baseline": 0.6305555555555555,
+        "cost_per_eng": 1187.2246696035243,
         "cost_per_view": null
       },
       "analysis": {
@@ -76,7 +82,7 @@
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
         }
       },
-      "last_written_reaction": "좋아요 212 · 댓글 7 · ER 1.2% · 평소대비 0.6x (D+8)"
+      "last_written_reaction": "좋아요 220 · 댓글 7 · ER 1.2% · 평소대비 0.6x (D+9)"
     }
   ],
   "flags": {
@@ -87,5 +93,5 @@
   },
   "child_db_id": "4c339eba-97ed-8271-ae2b-01771dfeee9f",
   "followers": 18746,
-  "last_written_score": 61
+  "last_written_score": 63
 }

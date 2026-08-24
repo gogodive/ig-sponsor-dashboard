@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T08:01:44.000Z",
       "permalink": "https://www.instagram.com/p/DbSfQDZkf4P/",
-      "thumbnail": "https://instagram.fmel14-2.fna.fbcdn.net/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?_nc_cat=100&ig_cache_key=Mzk1MDM1MTU4MTQ1MDYyODY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DLltBHmoLIQQ7kNvwFMg4cP&_nc_oc=AdqWJAXw2u-uPPlQKYzyd--JTDy1rgFxdWyCZdeN_pxf8SajHDOzWwdE-R5RMp310BU&_nc_zt=23&_nc_ht=instagram.fmel14-2.fna&_nc_gid=AQkMq1tf0324g5G4fQLkKw&_nc_ss=72a8c&oh=00_AQHgfDkcZRgu2air9oLGEmzelqgmLc4Jt5mb-wpNeWZH7A&oe=6A912762",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/758427196_18601592317012646_5483422132690517889_n.webp?_nc_cat=100&ig_cache_key=Mzk1MDM1MTU4MTQ1MDYyODY5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DLltBHmoLIQQ7kNvwHUJ1tp&_nc_oc=AdoghK3ZB8VcSFGwVYo_LewKEfhYoZtjzhtDusy62769LsuxlgrWMFv-_G-T4rSlPpU&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=34nbisT14HqDku8bYWkLmA&_nc_ss=7ca8c&oh=00_AQFT1hKhPcmC8Bq016aROexJ1PtP1ksRIKvEpYtSZlvHNg&oe=6A9278E2",
       "caption": "#협찬 @intotheblue_store\n\n반짝반짝 너무 예쁜 오로라 빛이 나는 롱핀🧜🏻‍♀️\n❤️딥바이브 오로라 롱핀❤️\n움직임에 따라 다른빛을 내는 신비로운 컬러의 롱핀인데\n신어보니 발도 편하고 가벼워서 좋았어요🩷\n\n수중장비 멀티샵 인투더블루에 딥바이브 제품들이 있는데\n프리다이빙 슈트도 탐나더라구요😊🤍\n\n✅️인투더블루 스토어에 다양하게 있으니\n꼭 구경가봐요~🫧🏊🏻‍♂️\n\n✔️제품명 - 딥바이브 오로라 롱핀✨️\n🦶발사이즈 235 기준 35-36 사이즈 착용\n\n#인투더블루 #딥바이브 #딥바이브롱핀\r\n#프리다이빙 프리다이빙핀❤️",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 191,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-24T06:24:52.774248+09:00",
+      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -203,23 +203,29 @@
           "views": null,
           "likes": 191,
           "comments": 6
+        },
+        {
+          "d": "2026-08-25",
+          "views": null,
+          "likes": 191,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 113,
         "n": 11,
-        "captured_at": "2026-08-24T06:24:52.774248+09:00"
+        "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.008690281882747364,
         "vs_baseline": 1.7433628318584071,
         "cost_per_eng": 736.0406091370559,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 191 · 댓글 6 · ER 0.9% · 평소대비 1.7x (D+27)",
+      "last_written_reaction": "좋아요 191 · 댓글 6 · ER 0.9% · 평소대비 1.7x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.21배 수준으로 무난한 초기 반응이나, 참여율 0.55%·1건당 1,160원은 비용 효율 개선 여지가 있어 추이 지속 모니터링 필요.",
@@ -241,7 +247,7 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0018527504521593365,
         "vs_baseline": 0.39490445859872614,
