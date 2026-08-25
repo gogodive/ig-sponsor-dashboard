@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-8015-a844-cf1c4b582360",
   "row_title_raw": "haa.diya__",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,109 @@
   "output_link_prop": null,
   "username": "haa.diya__",
   "followers_notion": 17000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "3c739eba-97ed-800e-8b5e-f85c8ca5e52c",
+      "url": "https://www.instagram.com/reel/DcapGigRGSY/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcapGigRGSY",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-24",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-08-24T08:36:19.000Z",
+      "permalink": "https://www.instagram.com/p/DcapGigRGSY/",
+      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=FSdQFgYC6UAQ7kNvwEna-Rp&_nc_oc=AdqzSdjgOcYZj7oonxQGsNAAAfWdwUksNv-cd8tUV0L51sn8Y3lP3Q3LHn8jUYz4Uck7BNlmAE7AbfkajbUEoxtp&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=Cw4g6f8ZnPK2-bpaVlMsrA&_nc_ss=7ca8c&oh=00_AQGL_XcOYYi999czNhFfsl1I1FYK0qHys0nB5pVCHwgu3A&oe=6A93F075",
+      "caption": ".\n아직도 안타봤어?\n여름엔 e-foil\n\n👙 @laserin_swim \n\n#전동포일 #efoil\n#라세린수영복",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "haa.diya__",
+      "metrics": {
+        "views": 3448,
+        "likes": 124,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "history": [
+        {
+          "d": "2026-08-26",
+          "views": 3448,
+          "likes": 124,
+          "comments": 9
+        }
+      ],
+      "baseline": {
+        "views_median": 2845,
+        "eng_median": 187,
+        "n": 3,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.0077168552364374815,
+        "vs_baseline": 1.21195079086116,
+        "cost_per_eng": 240.6015037593985,
+        "cost_per_view": 9.280742459396752
+      },
+      "last_written_reaction": "조회 3,448 · 좋아요 124 · 댓글 9 · ER 0.8% · 평소대비 1.2x (D+1)"
+    },
+    {
+      "notion_row_id": "b8939eba-97ed-8211-87b6-812923208867",
+      "url": "https://www.instagram.com/p/Dbo7c-9mQ-Y/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "Dbo7c-9mQ-Y",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-05",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-08-05T01:11:28.000Z",
+      "permalink": "https://www.instagram.com/p/Dbo7c-9mQ-Y/",
+      "thumbnail": "https://instagram.flux3-1.fna.fbcdn.net/v/t51.82787-15/763980737_18613150276017741_9135252101489096815_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NjY3MDg0NzYyMzk3MTA4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA4NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Unm8cb9XTTwQ7kNvwEnlIAi&_nc_oc=AdqwVDiP8iqV25hN0XlBDjwdZX7ItwjAtAXnkZO3nbPNHuA5zsQbEeZIaIEeO_rsBf8&_nc_zt=23&_nc_ht=instagram.flux3-1.fna&_nc_gid=inMwpHRgFliqsarpeubtvw&_nc_ss=72a8c&oh=00_AQGHW9Znt_1KPHznyx1f7BvDgtl0x9yUXfW-Kn9ooOXabg&oe=6A93D268",
+      "caption": ".\n요즘 블랙이 좋아🖤\n바람 없을 땐 e-foil\n\n👙 코어베이직 브이백 우먼\n\n@laserin_swim\n\n#라세린 #laserinswim\n#라세린수영복 #수영복추천",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "haa.diya__",
+      "metrics": {
+        "likes": 103,
+        "comments": 11
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "history": [
+        {
+          "d": "2026-08-26",
+          "views": null,
+          "likes": 103,
+          "comments": 11
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 122.5,
+        "n": 12,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 20,
+      "computed": {
+        "er": 0.006614447345517842,
+        "vs_baseline": 0.9306122448979591,
+        "cost_per_eng": 280.70175438596493,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "평소 대비 0.93x로 소폭 하회하며 참여 1건당 281원·참여율 0.66%로 비용 효율은 무난하나 두드러진 성과는 없는 수준.",
+          "days": 20,
+          "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 103 · 댓글 11 · ER 0.7% · 평소대비 0.9x (D+20)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "93939eba-97ed-822c-9d69-8141a0c902d7",
-  "followers": 17000
+  "followers": 17235,
+  "last_written_score": 107
 }

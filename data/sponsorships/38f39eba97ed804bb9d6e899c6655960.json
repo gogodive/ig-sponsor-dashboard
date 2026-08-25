@@ -36,7 +36,7 @@
       },
       "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "frozen": true,
-      "days_since_post": 50,
+      "days_since_post": 51,
       "computed": {
         "er": 0.003,
         "vs_baseline": null,
@@ -57,7 +57,7 @@
       "upload_date_notion": "2026-07-06",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 51,
+      "days_since_post": 52,
       "computed": {
         "er": 0.006789473684210527,
         "vs_baseline": null,

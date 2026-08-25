@@ -213,7 +213,7 @@
         "captured_at": "2026-08-24T06:24:52.774248+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.014917879939754715,
         "vs_baseline": 1.1256139284913453,
@@ -378,7 +378,7 @@
         "captured_at": "2026-08-10T06:36:10.950262+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": 0.0067536876329819025,
         "vs_baseline": 0.5712841253791708,
@@ -522,7 +522,7 @@
         "captured_at": "2026-08-06T07:14:38.900393+09:00"
       },
       "frozen": true,
-      "days_since_post": 49,
+      "days_since_post": 50,
       "computed": {
         "er": 0.005402950106385522,
         "vs_baseline": 0.1409647025734777,

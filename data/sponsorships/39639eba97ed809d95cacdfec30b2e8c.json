@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-809d-95ca-cdfec30b2e8c",
   "row_title_raw": "upoo_poo_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -170,7 +170,7 @@
         "captured_at": "2026-08-17T06:23:14.585902+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": 0.030942334739803096,
         "vs_baseline": 0.6666666666666666,
@@ -202,7 +202,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T09:39:34.000Z",
       "permalink": "https://www.instagram.com/p/DbNgsOOzeeN/",
-      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0ODk1NjIyNDY5OTg4NTQ1MzE3OTc5OTAyNzg0MDYzMzkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=R1vVIga9w4sQ7kNvwGcabHL&_nc_oc=AdryvDF3IKxgr2_6PfmkFavZQy0k4CG5qhCByoFjsCn-mO4sYoLiv_bdrfW5HYzoPH4&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=RDJXzD-8GzGXHNT-x0n6jQ&_nc_ss=7ca8c&oh=00_AQFoVdmk7OXQYAkwtQZb2ghvXhdeMTCfU8h7EEZ6JeiCSg&oe=6A92A696",
+      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/755807084_17979902781063390_6895945479074154860_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk0ODk1NjIyNDY5OTg4NTQ1MzE3OTc5OTAyNzg0MDYzMzkw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=R1vVIga9w4sQ7kNvwEZOVHT&_nc_oc=AdpzuzsyGrqZoJ0M_mvwHKQnsa-TgjLpELvQuxxs5vnzCzj6zka-VqJNUduUOucIk0KD1TVoiEDJ278UgpMmGT2X&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=fiSmzonHbRjtGwtScfbztA&_nc_ss=7ca8c&oh=00_AQGQdhE5ITkI9Gp0essXaYZA3PZk87WSBpiZUz2Qv0WYmQ&oe=6A93F816",
       "caption": "@laserin_swim \n\n#협찬 #제품제공 \n \n\n보고 또 보고 또 봐도 \n말도안되는 반짝임이 너무 예쁜\n라세린 선셋코랄✨\n\n#라세린수영복 #라세린 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -395,15 +395,15 @@
         "n": 5,
         "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.02203469292076887,
         "vs_baseline": 1.806501547987616,
         "cost_per_eng": 787.2340425531914,
         "cost_per_view": 31.70522707797772
       },
-      "last_written_reaction": "조회 1,167 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.8x (D+30)",
+      "last_written_reaction": "조회 1,167 · 좋아요 44 · 댓글 3 · ER 2.2% · 평소대비 1.8x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.66x로 부진한 출발이나, 팔로워 2천 소규모 계정 특성상 참여 1건당 1,028원·조회당 44.8원은 아직 관망 단계.",
@@ -414,7 +414,9 @@
           "one_liner": "평소 대비 0.81x로 기대 이하 조회 성과에, 참여 1건당 822원·조회당 36원대 비용 효율도 낮아 추가 액션 검토 필요.",
           "days": 14,
           "analyzed_at": "2026-08-09T06:33:50.091992+09:00"
-        }
+        },
+        "final_verdict": "팔로워 2,133명의 소규모 계정임에도 평소 대비 1.81배의 조회 성과를 기록했고, 팔로워 대비 참여율 2.20%는 마이크로 인플루언서 평균 수준을 유지하며 긍정적 신호다. 다만 절대 조회수 1,167회에 조회당 비용 31.7원, 참여 1건당 787원은 148,000원 상품가 대비 실질 도달 효율이 낮아 비용 회수 측면에서는 아쉬운 성과다. 브랜드 인지보다 소규모 충성 커뮤니티와의 진정성 접점을 노린 협찬이라면 수용 가능한 수준이나, 순수 퍼포먼스 관점에서는 재협찬 우선순위를 낮게 두는 것이 합리적이다.",
+        "final_at": "2026-08-26T06:32:00.985216+09:00"
       }
     },
     {
@@ -571,7 +573,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 43,
+      "days_since_post": 44,
       "computed": {
         "er": 0.038912330051570555,
         "vs_baseline": 0.9222222222222223,
@@ -721,7 +723,7 @@
         "captured_at": "2026-07-30T07:04:09.898778+09:00"
       },
       "frozen": true,
-      "days_since_post": 48,
+      "days_since_post": 49,
       "computed": {
         "er": 0.049695264885138306,
         "vs_baseline": 1.1462639109697934,

@@ -25,17 +25,17 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-03T08:17:26.000Z",
       "permalink": "https://www.instagram.com/p/Dbkh6DzttQt/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=y_Tw2D_2C0IQ7kNvwG70P-n&_nc_oc=Adqf3JB_ia_ohVGX_Vca1b48U_QhJup79q3Vl0aXAzQTBcY0n1Qz7rREIjpjY8Ol6hE&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=5HV2GiirEzen4g2NRmmXEQ&_nc_ss=72689&oh=00_AQFZjGxdhzcjdBPzrJWpKZhb9l0dseUvkcQyJMRrayaUrQ&oe=6A9280E4",
+      "thumbnail": "https://instagram.fpll3-2.fna.fbcdn.net/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=y_Tw2D_2C0IQ7kNvwEsp4ZT&_nc_oc=AdpDtkl2NU-8t0gcPuPI3Sqm_p-Y55SZJz8zBIPYXD3sYUEg9raMqAKzIDLk33Jk1B0&_nc_zt=23&_nc_ht=instagram.fpll3-2.fna&_nc_gid=KFmF8ywDb5SeDfbQrYnGDA&_nc_ss=72689&oh=00_AQGGI0A-cGPdBk3fb48iKdXDEfpCAeWS9f9TpLk-beQTEA&oe=6A93D264",
       "caption": "해녀가 추천하는 대마도 바다 222222 🌊\n\n물속에서 가장 눈에 띈 건 보랏빛으로 펼쳐진 산호\n바다펜(Virgularia gustaviana)🪶💜\n\n해삼과 성게도 곳곳에서 볼 수 있었고, 제 얼굴보다 훨씬 큰 전복 껍데기까지 발견 이 포인트가 정말 마음에 들었어요\n\n맑고 아름다운 어촌이라 오래 기억에 남는 곳이었습니다 \n다만 이곳은 다리 아래에 위치해 유속이 빠른 편이라 초보자에게는 다소 어려운 포인트 입니다 \n충분한 경험과 안전 장비를 갖춘 상태에서 즐기시는 것을 추천드립니다👍\n\n영상은 Insta360 Ace Pro 2로 촬영했",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "haenyeo_sohee",
       "metrics": {
-        "views": 27854,
-        "likes": 305,
+        "views": 28047,
+        "likes": 306,
         "comments": 33
       },
-      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -156,23 +156,29 @@
           "views": 27854,
           "likes": 305,
           "comments": 33
+        },
+        {
+          "d": "2026-08-26",
+          "views": 28047,
+          "likes": 306,
+          "comments": 33
         }
       ],
       "baseline": {
         "views_median": 129093.5,
         "eng_median": 1328.0,
         "n": 8,
-        "captured_at": "2026-08-25T06:33:18.500073+09:00"
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
-        "er": 0.01870193105737841,
-        "vs_baseline": 0.2157660920185757,
-        "cost_per_eng": 428.9940828402367,
-        "cost_per_view": 5.205715516622388
+        "er": 0.018757262214352904,
+        "vs_baseline": 0.21726113243501802,
+        "cost_per_eng": 427.7286135693215,
+        "cost_per_view": 5.169893393232788
       },
-      "last_written_reaction": "조회 27,854 · 좋아요 305 · 댓글 33 · ER 1.9% · 평소대비 0.2x (D+21)",
+      "last_written_reaction": "조회 28,047 · 좋아요 306 · 댓글 33 · ER 1.9% · 평소대비 0.2x (D+22)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 0.17x로 기대치를 크게 밑돌고 있으며, 참여 1건당 516원·조회 1회당 6.6원은 현 시점 비용 효율이 저조한 상태다.",
@@ -195,7 +201,7 @@
       "first_seen": "2026-08-04",
       "posted_at": "2026-07-31T02:53:02.000Z",
       "permalink": "https://www.instagram.com/p/DbcPGj7IK8N/",
-      "thumbnail": "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MzA5MDczMDk1MjEyMjczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WsqNCHnxptEQ7kNvwHeJeN4&_nc_oc=Adro39dw5hJvWY0VK_u01NkZ7P7GZhhIBeVuWvbQSBprhJwVGKS4Cgv_xUnkM_RV81I&_nc_zt=23&_nc_ht=instagram.fymq3-1.fna&_nc_gid=yzgG5jMQNqZTDiz99S6zLQ&_nc_ss=7ca8c&oh=00_AQHuiHiTMJH45KQrp0H5AjszNN3O4SB19VJEAjHia2Rf0Q&oe=6A92820A",
+      "thumbnail": "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MzA5MDczMDk1MjEyMjczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WsqNCHnxptEQ7kNvwFKQk8K&_nc_oc=AdoIj8vIxH_JmD6TEiwB0Bk3uHJSQn7znhNkwc2Fak7iUVKnsDN6xSZTQ20zA3296PA&_nc_zt=23&_nc_ht=instagram.fymq3-1.fna&_nc_gid=BvknWgv92nnGzg7YGsg2UA&_nc_ss=72289&oh=00_AQHKiSeDO3550Cv5dBTXP77vxRJE5PnV6sN3M3Eo4TqIpA&oe=6A93D38A",
       "caption": "🌊 해녀가 추천하는 대마도 바다 1탄!!\n\n일본의 해변 100선에 선정된 미우다 해변도 정말 예쁘지만, 사람이 너무 많아서 이번에는 구글 지도를 보며 에메랄드빛 바다를 찾아 가봤어요 !! +_+\n\n결과는 대성공!\n무보정인데도 맑고 투명한 바다와 다양한 바다 생물들까지 🐟🐠 무료 사워장도 있어서 쾌적했습니다!✨\n\n찐 물질할 때는 고무핀이 최고지만, 놀러 갈 때는 역시 롱핀이 사진도 예쁘게 나오더라고요 ㅎㅎ\n\n선물로 받은 딥바이브 오로라 롱핀💛\n오로라처럼 색감이 달라지는 신비로운 컬러가 정말 예뻤고, \n발도 편하고 가벼워서 더욱 만족스",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -204,7 +210,7 @@
         "likes": 617,
         "comments": 42
       },
-      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
       "history": [
         {
           "d": "2026-08-04",
@@ -337,16 +343,22 @@
           "views": null,
           "likes": 617,
           "comments": 42
+        },
+        {
+          "d": "2026-08-26",
+          "views": null,
+          "likes": 617,
+          "comments": 42
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 979,
         "n": 3,
-        "captured_at": "2026-08-25T06:33:18.500073+09:00"
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.03646323244619045,
         "vs_baseline": 0.6731358529111338,
@@ -365,7 +377,7 @@
           "analyzed_at": "2026-08-15T06:28:26.204907+09:00"
         }
       },
-      "last_written_reaction": "좋아요 617 · 댓글 42 · ER 3.6% · 평소대비 0.7x (D+24)"
+      "last_written_reaction": "좋아요 617 · 댓글 42 · ER 3.6% · 평소대비 0.7x (D+25)"
     }
   ],
   "flags": {
@@ -376,5 +388,5 @@
   },
   "child_db_id": "ecd39eba-97ed-8286-8d73-81c8702b7e36",
   "followers": 18073,
-  "last_written_score": 44
+  "last_written_score": 45
 }

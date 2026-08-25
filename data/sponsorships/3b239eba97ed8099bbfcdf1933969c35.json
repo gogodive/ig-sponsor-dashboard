@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "joooo0_tpr",
   "followers_notion": 578,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "08739eba-97ed-83da-872f-81e1fd8f0e8a",
+      "url": "https://www.instagram.com/p/DcVSSnBlBAF/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcVSSnBlBAF",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-23",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-08-22T06:37:36.000Z",
+      "permalink": "https://www.instagram.com/p/DcVSSnBlBAF/",
+      "thumbnail": "https://instagram.fmcz13-1.fna.fbcdn.net/v/t51.82787-15/780949600_18098156039356140_4920765349249528916_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2OTE1ODkzMzc4ODQ5OTQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IxKnhPyS_MwQ7kNvwHwC0e2&_nc_oc=Adov2CaS8b4yDdMdl0DTtAbvh9MWh6UujUXpm3oSsAVHDWTqCmnTsYkWTsKh2vqjk7I&_nc_zt=23&_nc_ht=instagram.fmcz13-1.fna&_nc_gid=r8sxBuVgeiskaIR471kySA&_nc_ss=72a8c&oh=00_AQHhY4llJLRi1Pb9R8Tjm91duMy-HwXGJ4CVv4EU6xsN9w&oe=6A93E2B2",
+      "caption": "라세린 포레스트 글로우 🌳🍏🧚🏼✨\n민트 아쿠아 컬러에 청량한 오로라 광택이 올라가 있어 빛이랑 각도에 따라 달라지는데, 진짜 매순간 영롱함이 미쳐요..˙✧˖° 🫧 💎\n⠀\n픽스드백은 가슴과 몸을 딱 잡아줘서 수영하는데 불편함이 없고 미들컷에 안정적인 가슴선으로 키큰 제가 입어도 너무 편했어요!\n전 컷을 살짝 올려 입었는데 그래서 더 만족합니동ㅎㅎ\n노출이 부담스러운 분들도 입기 좋을 것 같아요!\n⠀\n🌳🍏✨ @laserin_swim \n포레스트글로우 l Forest Glow [size S]\n• 두겹수영복(비침없음)\n• 포일수영복\n• 브라고",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "joooo0_tpr",
+      "metrics": {
+        "likes": 97,
+        "comments": 33
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "history": [
+        {
+          "d": "2026-08-26",
+          "views": null,
+          "likes": 97,
+          "comments": 33
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 124.0,
+        "n": 8,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.2127659574468085,
+        "vs_baseline": 1.0483870967741935,
+        "cost_per_eng": 530.7692307692307,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.05배 수준으로 무난한 초기 반응이며, 참여 1건당 531원은 소규모 계정 기준 준수한 효율이다.",
+          "days": 3,
+          "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 97 · 댓글 33 · ER 21.3% · 평소대비 1.0x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "90c39eba-97ed-8267-a9a5-01258b6a98a9",
-  "followers": 578
+  "followers": 611,
+  "last_written_score": 105
 }

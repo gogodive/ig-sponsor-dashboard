@@ -25,17 +25,17 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-30T03:22:02.000Z",
       "permalink": "https://www.instagram.com/p/DbZtkIupXJX/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/761703375_17961770022140236_2992897210141758458_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk1MjM5MDU0MzM2MTAxMjMxMTE3OTYxNzcwMDE2MTQwMjM2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Bxnjo1WQ2DMQ7kNvwEyeya_&_nc_oc=Adqlc9rrwzlFz5E4oc6ZmhlsyxMI7PDxBuONLrJRphC5u6QDqi8Hr_-JBso0UJZskzE&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=RDIcT86mIGCb8e8R4hsqyQ&_nc_ss=72a8c&oh=00_AQEIg-0ULi6l8Gn2fND19bGJjbq9drW1piBndpHSMyhbdA&oe=6A92A188",
+      "thumbnail": "https://instagram.ftij6-1.fna.fbcdn.net/v/t51.82787-15/761703375_17961770022140236_2992897210141758458_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk1MjM5MDU0MzM2MTAxMjMxMTE3OTYxNzcwMDE2MTQwMjM2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Bxnjo1WQ2DMQ7kNvwEqTZZ3&_nc_oc=AdoAqsQePlER8nnemztEdAQtOWAlB21MPw7fNARa6j8WEUg8ytgYOCSSRHJ6BdWlbts&_nc_zt=23&_nc_ht=instagram.ftij6-1.fna&_nc_gid=0dGNra_8PEAWVDPjyb4HvA&_nc_ss=7ca8c&oh=00_AQHYbFDFMV4xoKXdEXRYKIQr_Yh5ZoBHqFLjZ96PfIvKKQ&oe=6A93F308",
       "caption": "제품제공) 난 래쉬가드 말고 이거 -! 🤍\n\n@intotheblue_store \n✷ 딥바이브 트루화이트 스프링 슈트 2mm\n\n슈트 하나 있으면 얼마나 유용한지 .. 😖\n프리다이빙은 물론 바다 수영까지,\n활용도 높은 인투더블루 스프링 슈트예요 ✨\n\n2mm 두께에 집업 타입이라 입고 벗기도 정말 편하고,\n체형별로 사이즈도 다양하게 준비되어 있어\n내 몸에 맞는 핏을 찾기 좋았어요 💓\n\n✷ 171 / 59 / 151 · M size 착용\n\n따뜻한데 예쁘기까지 하면 끝 아닌가요? 🫶🏻\n스프링 슈트는 딥바이브 하세요 -! 🤍\n\n#인투더블루 #",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swim.__.hey",
       "metrics": {
-        "views": 46048,
-        "likes": 328,
+        "views": 47137,
+        "likes": 331,
         "comments": 25
       },
-      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -144,21 +144,27 @@
           "views": 46048,
           "likes": 328,
           "comments": 25
+        },
+        {
+          "d": "2026-08-26",
+          "views": 47137,
+          "likes": 331,
+          "comments": 25
         }
       ],
       "baseline": {
         "views_median": 208753,
         "eng_median": 2802,
         "n": 5,
-        "captured_at": "2026-08-25T06:33:18.500073+09:00"
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.013452231241187454,
-        "vs_baseline": 0.22058605145794313,
-        "cost_per_eng": 269.1218130311615,
-        "cost_per_view": 2.0630646282140375
+        "er": 0.013566556152585648,
+        "vs_baseline": 0.22580274295459227,
+        "cost_per_eng": 266.85393258426967,
+        "cost_per_view": 2.01540191357108
       },
       "analysis": {
         "d3": {
@@ -172,7 +178,7 @@
           "analyzed_at": "2026-08-14T06:50:43.027547+09:00"
         }
       },
-      "last_written_reaction": "조회 46,048 · 좋아요 328 · 댓글 25 · ER 1.3% · 평소대비 0.2x (D+25)"
+      "last_written_reaction": "조회 47,137 · 좋아요 331 · 댓글 25 · ER 1.4% · 평소대비 0.2x (D+26)"
     },
     {
       "notion_row_id": "54a39eba-97ed-82e6-b70d-81d2a8f16a47",
@@ -182,7 +188,7 @@
       "upload_date_notion": "2026-07-21",
       "first_seen": "2026-07-25",
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.02564688845699478,
         "vs_baseline": 1.179666958808063,

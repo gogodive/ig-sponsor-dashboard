@@ -25,7 +25,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-25T14:51:34.000Z",
       "permalink": "https://www.instagram.com/p/DbOD05UJGsf/",
-      "thumbnail": "https://instagram.fwaw3-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk0OTExMDc1MjM0NDA0MjI3MTE4NjA3NTg4MzE4MDYxMDE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-iXyPFOULuwQ7kNvwFKa850&_nc_oc=AdqDg544ldZEQAUeaBzCIkcpykENJgXQN45EPiNNMvS4pevjhsW7Dg-Bwpq4fjrfm_M&_nc_zt=23&_nc_ht=instagram.fwaw3-1.fna&_nc_gid=t70G3WAxFCDvEZCRSs-FvQ&_nc_ss=7ca8c&oh=00_AQEYzMaXRTWAJ-MFd2IXhQgVp32gzPK5IQ2P393tQApklg&oe=6A928A85",
+      "thumbnail": "https://instagram.fsyd13-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0OTExMDc1MjM0NDA0MjI3MTE4NjA3NTg4MzE4MDYxMDE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ACCLAL5Nwi0Q7kNvwGt8F82&_nc_oc=AdoZiWe-MIyXc1MDdGX6eVplxavRqrCwhr_v2YsA58ujiOy1TIqtiPAz-kMRzLLG96c&_nc_zt=23&_nc_ht=instagram.fsyd13-1.fna&_nc_gid=S7mX6liMTLgge61xeTSs0g&_nc_ss=7ca8c&oh=00_AQGTTFQT0giZlVIeHDlDJeBpoEd-go6giEymKuLz87d8eg&oe=6A93DC05",
       "caption": "프리다이빙 성공🫧\n\n저 이퀄 바보였는데\n프리다이빙도 장비빨 아니겠어요!\n카본핀 장착하고 프리다이빙 성공했지 모예요!\n\n바다로 떠날 날 얼마 안 남았쥬!\n바다 딱 기다려!\n💙\n\n딥바이브 카본 핀 정보 @intotheblue_store \n#고고다이브 #프리다이빙 #프리다이빙강습",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -206,8 +206,8 @@
         "n": 4,
         "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.00045868052901154344,
         "vs_baseline": 0.13921037868926567,
@@ -224,9 +224,11 @@
           "one_liner": "평소 대비 0.12x의 극도로 저조한 반응에 참여 1건당 비용 11,642원으로, 현 시점 투자 대비 성과 회수가 매우 미흡한 상태.",
           "days": 14,
           "analyzed_at": "2026-08-09T06:33:50.091992+09:00"
-        }
+        },
+        "final_verdict": "평소 게시물 대비 조회수가 0.14배에 불과하고 팔로워 대비 참여율이 0.05%로 극히 저조하며, 참여 1건당 비용 11,426원·조회 1회당 48.3원은 동급 규모 인플루언서 업계 평균을 크게 상회하는 비효율적 수치다. 좋아요가 사실상 0에 가깝고 댓글 55건이 유일한 반응이라는 점에서 콘텐츠가 팔로워층에 거의 도달하지 못했거나 알고리즘 노출에 실패한 것으로 판단된다. 617,000원의 협찬 가치 대비 실질적인 브랜드 노출·구매 유입 효과는 매우 낮았으며, 재협찬 시 콘텐츠 포맷·게시 시점 조율 또는 계정 변경을 강력히 권고한다.",
+        "final_at": "2026-08-26T06:32:00.985216+09:00"
       },
-      "last_written_reaction": "조회 12,780 · 좋아요 -1 · 댓글 55 · ER 0.0% · 평소대비 0.1x (D+30)"
+      "last_written_reaction": "조회 12,780 · 좋아요 -1 · 댓글 55 · ER 0.0% · 평소대비 0.1x (확정)"
     }
   ],
   "flags": {

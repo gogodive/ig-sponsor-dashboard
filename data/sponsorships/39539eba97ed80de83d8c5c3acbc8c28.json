@@ -15,13 +15,55 @@
   "output_link_prop": null,
   "username": "diver.mirana",
   "followers_notion": 1881,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "ef739eba-97ed-83ae-a0c6-015357a37473",
+      "url": "https://www.instagram.com/reel/DbAmPcxSj1x/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DbAmPcxSj1x",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-07-28",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-07-20T09:23:38.000Z",
+      "permalink": "https://www.instagram.com/p/DbAmPcxSj1x/",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.71878-15/753225430_2263528567728554_7523892411147484599_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk0NTMyMTQ2MTAyNzg0NzUzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=EvEIUPHSfIcQ7kNvwHsnoZE&_nc_oc=AdrSOQld6oetwVvRPy4EmExNGQ4LdcdjeonUh-D2pjaEN-CwsJfG1NJm7FkwR_DsuSk&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=q5-Jfih7huJ1Y80Rd6pElg&_nc_ss=72689&oh=00_AQF6N7ECG30ZSVfWKc_x7-dJyDRtFH5hiW7vinWAKG5ZDA&oe=6A93C482",
+      "caption": "#제품제공 #라세린 \n덕다이빙 후 제자리로 자연스럽게 돌아오는 방법🫧\n\n노핀 덕다이빙으로 하강 후\n머리 위로 팔을 올려 스컬링으로 제자리 가기!👍🏽\n\n이번 영상에서 착용한 라세린 @laserin_swim 윤슬은\n노핀처럼 움직임이 많은 동작에서도\n착용감이 안정적이라 강습할 때도 자주 입고 있어요!✨\n\n👙 라세린 윤슬 에메랄드 더블크로스백 M 사이즈\n🩱 다른 브랜드도 미듐 입어요! 172/60/토르소 154",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "diver.mirana",
+      "metrics": {
+        "views": 8878,
+        "likes": 83,
+        "comments": 3
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "baseline": {
+        "views_median": 2392,
+        "eng_median": 59.0,
+        "n": 7,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 36,
+      "computed": {
+        "er": 0.04449042938437662,
+        "vs_baseline": 3.7115384615384617,
+        "cost_per_eng": 918.6046511627907,
+        "cost_per_view": 8.898400540662312
+      },
+      "analysis": {
+        "final_verdict": "팔로워 1,933명의 소규모 계정임에도 조회수 8,878회를 기록하며 평소 대비 3.71배의 높은 확산력을 보였고, 참여율 4.45%는 마이크로 인플루언서 평균(3~5%)의 상단에 해당해 콘텐츠 자체의 반응은 양호하다. 다만 좋아요 83·댓글 3건으로 댓글 기반 직접 반응은 매우 약했으며, 조회 1회당 비용 8.9원은 수용 가능한 수준이지만 상품 가액 79,000원 대비 구매 전환 가능성을 가늠할 하드 지표(링크 클릭·저장 수 등)가 없어 확정적인 ROI 판단은 어렵다. 결론적으로 브랜드 노출·인지도 확장 목적으로는 비용 대비 값어치가 있었으나, 직접 매출 견인 목적으로는 효과 검증이 불충분하다.",
+        "final_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "last_written_reaction": "조회 8,878 · 좋아요 83 · 댓글 3 · ER 4.4% · 평소대비 3.7x (확정)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a4339eba-97ed-8398-af2a-813d2daffd1b",
-  "followers": 1881
+  "followers": 1933,
+  "last_written_score": 371
 }

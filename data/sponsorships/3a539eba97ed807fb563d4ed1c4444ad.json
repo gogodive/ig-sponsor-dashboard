@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-25T12:15:48.000Z",
       "permalink": "https://www.instagram.com/p/DbNyvHTiWiZ/",
-      "thumbnail": "https://instagram.fgdl5-5.fna.fbcdn.net/v/t51.82787-15/755870244_18601055860013423_6215758858668711168_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0OTAzNTMwMTY2MzkwOTgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GCvD6OLIWmEQ7kNvwHO37hQ&_nc_oc=AdrrjH9bL5nHqMtQHA4GlAXKgQY7ALVWfywmEMIGZpTmyohsoHcjZy2SyJLu9guxFRU&_nc_zt=23&_nc_ht=instagram.fgdl5-5.fna&_nc_gid=vdkKiHceBPXcEfnnCukk9A&_nc_ss=72a8c&oh=00_AQG8DwcbOLtk2KwxFd55Fat2_uRGw6TyBzrLDZni1V7DhQ&oe=6A928EB9",
+      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/755870244_18601055860013423_6215758858668711168_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0OTAzNTMwMTY2MzkwOTgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Mx7lJbwRfhsQ7kNvwFFPbEZ&_nc_oc=AdqeGq8jJi49VA86_npMhe79257CaebXVDg21RllXhXQwPYy89rBoLxFL_Roy95SJPU&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=5UP5zUjtDe46hMwzBcqNTQ&_nc_ss=7ba02&oh=00_AQFV-EMZaFtL51Gfpv51O3wv-qLXgQLMoUhA2msQHmZRhw&oe=6A93E039",
       "caption": "물놀이 전 인스타용사진->현실 물놀이 되어가는 피드\n.\n⭐️미친색감 수영복 진짜 #협찬 @laserin_swim \n쫀쫀하고 신축성 너무 좋음👍\n⭐️겉멋 롱핀 잠시 협찬 @sweatlife___jessi \n\n귀여운 새끼 성게\n\n계속 비왔어서 물속 시야안보임\n잠수해야지 물속시야보이구\n올해는 성게 씨가 마름 ㅠ\n\n잠수하면서 성게찾다가 발견한\n군소친구\n귀여운데 보라색 액체 내뱉음 @_@\n\n노핀 헤드업 수영도전\n\n물 너무 조아\n\n고막 과 바꾼 멍게\n\n우리 귀여워",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 4,
         "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01937414680247821,
         "vs_baseline": 1.1319018404907975,
         "cost_per_eng": 214.09214092140923,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 337 · 댓글 32 · ER 1.9% · 평소대비 1.1x (D+30)",
+      "last_written_reaction": "좋아요 337 · 댓글 32 · ER 1.9% · 평소대비 1.1x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.03x로 평균 수준 유지 중이나, 참여 1건당 258원은 합리적인 초기 비용 효율을 보여주는 무난한 출발.",
@@ -236,7 +236,9 @@
           "one_liner": "평소 대비 1.12x의 안정적 반응이나 참여율 1.92%·건당 218원은 무난한 수준으로, 잔여 기간 댓글 유입 확대 여부가 최종 효율을 가를 열쇠다.",
           "days": 14,
           "analyzed_at": "2026-08-09T06:33:50.091992+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 1.94%는 마이크로 인플루언서 평균(1~3%)에 부합하며, 평소 대비 1.13배의 소폭 상승은 협찬 게시물임에도 이탈 없이 팔로워 반응을 유지했음을 보여준다. 참여 1건당 비용 214원은 동규모 계정 기준으로 효율적인 수준이며, 상품 가액 79,000원 대비 총 369건의 유의미한 참여를 이끌어냈다는 점에서 비용 대비 납득 가능한 성과로 평가된다. 다만 피드 게시물 특성상 도달 확산력이 제한적이고 베이스라인 샘플(n=4)이 적어 신뢰도에 한계가 있으므로, 향후 릴스 포맷 협업 또는 반복 협찬을 통해 데이터를 보완하는 것이 권장된다.",
+        "final_at": "2026-08-26T06:32:00.985216+09:00"
       }
     }
   ],

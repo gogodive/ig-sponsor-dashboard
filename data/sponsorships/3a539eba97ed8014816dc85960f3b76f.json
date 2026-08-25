@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "areum_iiiii",
   "followers_notion": 2250,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "5c939eba-97ed-8326-a0bc-81fa130ec526",
+      "url": "https://www.instagram.com/p/DcJftisGAqV/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcJftisGAqV",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-18",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-08-17T16:44:00.000Z",
+      "permalink": "https://www.instagram.com/p/DcJftisGAqV/",
+      "thumbnail": "https://instagram.fbri7-1.fna.fbcdn.net/v/t51.82787-15/774156981_18609570631001307_5408230043179321675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NTg0MDE2Mzg3NDg5NzA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8ksc493sFxUQ7kNvwEcYkZj&_nc_oc=AdqB0cWsyS37EtTpmxWZ-VbsWUb7p_hCssEfydERPz6g2M5zJlkqx1MZB6Qhs4yoWlE&_nc_zt=23&_nc_ht=instagram.fbri7-1.fna&_nc_gid=xNsIWz9egGuUg4mTV75ROA&_nc_ss=72a8c&oh=00_AQH79Z8DPrTTPManth49PSYhXCOeHnALli42AD9CJKAcyQ&oe=6A93CFEC",
+      "caption": "#협찬 @laserin_swim\n\n여름만 기다리는 물개였던 내가 올해는 첫 물놀이💦\n동네 한강수영장 덕분에 퇴근하고 잠시나마 힐링하기⭐️\n\n동네지만 꾸안꾸로 입은 \n🤍라세린 루미나 화이트 브이백 우먼👙\n세미하이컷으로 노출이 과하지 않으면서도 흔흔한 펄감이 있어 밤에도 빛나는 수영복✨\n화이트라 걱정했는데 전혀 비침없이 편하게 입을 수 있어서 너무 예쁜 #라세린 \n\n이거 입고 보홀 가고싶다..........🌈🥹\n\n#수영복추천 #수영복",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "areum_iiiii",
+      "metrics": {
+        "likes": -1,
+        "comments": 1
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "history": [
+        {
+          "d": "2026-08-26",
+          "views": null,
+          "likes": -1,
+          "comments": 1
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 5.5,
+        "n": 12,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.0,
+        "vs_baseline": 0.0,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요 미집계·댓글 1건으로 평소대비 0.00x, 69,000원 협찬 대비 유의미한 초기 반응 없음.",
+          "days": 8,
+          "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+8)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "6df39eba-97ed-8314-b0a5-81d2c5d793ef",
-  "followers": 2250
+  "followers": 2346,
+  "last_written_score": 0
 }

@@ -1,7 +1,7 @@
 {
   "page_id": "39639eba-97ed-801e-b18c-ef9d6ddea166",
   "row_title_raw": "doi_sea",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,66 @@
   "output_link_prop": null,
   "username": "doi_sea",
   "followers_notion": 10000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "f9139eba-97ed-838e-ab16-8130e03391ce",
+      "url": "https://www.instagram.com/reel/Dbez5xgM1GY/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "Dbez5xgM1GY",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-01",
+      "first_seen": "2026-08-26",
+      "posted_at": "2026-08-01T02:56:09.000Z",
+      "permalink": "https://www.instagram.com/p/Dbez5xgM1GY/",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/757753823_18617547490042281_8867133725515154085_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk1MzgyNTc5MzQxMzY5Nzk0NDE4NjE3NTQ3NDg3MDQyMjgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=8edTUT6F2VEQ7kNvwHtYmY1&_nc_oc=AdrKn5BTcshDtugiWJiYJMO2nsEo5LxkslfQS8o2ttfQUU443gzaDkQNz-e0VzrKAQ8&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=SM-AReDa8W7NUXf3IhK-6g&_nc_ss=7ca8c&oh=00_AQH40Sctfk9CT_7TiPIaXxE6U6rwMbGJwBNQxAaLx5UPmg&oe=6A93E51D",
+      "caption": "🤎 햇살 아래 더 예뻐지는 반짝임✨\n한번 라세린걸은 영원한것 아니겠어요!\n@laserin_swim #제품제공 \n\n이번에 입어본 라세린 글리트 아이스모카 와이백 우먼🤍\n\n은은한 글리터 원단이라 햇빛을 받을 때마다\n과하지 않게 반짝여서 사진이 정말 예쁘게 나와요.\n\n와이백 디자인이라 어깨 움직임도 편하고,\n수영할 때도 안정감 있게 잡아줘서\n강습부터 자유수영, 야외 물놀이까지 \n모두 잘 어울리는 수영복!!\n\n컬러도 흔하지 않은 아이스모카라\n피부 톤이 자연스럽게 화사해 보이는 점도 마음에 듬🩵\n\n편안함과 디자인을 모두 챙기고 싶은분들께 추",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "doi_sea",
+      "metrics": {
+        "views": 3213,
+        "likes": -1,
+        "comments": 26
+      },
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "history": [
+        {
+          "d": "2026-08-26",
+          "views": 3213,
+          "likes": -1,
+          "comments": 26
+        }
+      ],
+      "baseline": {
+        "views_median": 3089.0,
+        "eng_median": 18.0,
+        "n": 6,
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 24,
+      "computed": {
+        "er": 0.0023208317861121426,
+        "vs_baseline": 1.0401424409193913,
+        "cost_per_eng": 5920.0,
+        "cost_per_view": 46.06286959228136
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "평소 대비 1.04배로 조회수는 유지됐으나 참여율 0.23%·조회당 46원으로 비용 효율이 낮아 성과 부진 수준",
+          "days": 24,
+          "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
+        }
+      },
+      "last_written_reaction": "조회 3,213 · 좋아요 -1 · 댓글 26 · ER 0.2% · 평소대비 1.0x (D+24)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "38039eba-97ed-82b4-91d3-8199e7fc9260",
-  "followers": 10000
+  "followers": 10772,
+  "last_written_score": 104
 }

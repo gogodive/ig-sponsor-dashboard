@@ -25,17 +25,17 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T05:52:43.000Z",
       "permalink": "https://www.instagram.com/p/DbPrmuNiRmC/",
-      "thumbnail": "https://instagram.fvlc6-1.fna.fbcdn.net/v/t51.82787-15/753225160_18548634601076209_2292675290958056241_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0OTU2NzE3NTE4NjUyMDQ1MDE4NTQ4NjM0NTkyMDc2MjA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=V6Ibch1dDJwQ7kNvwEb3yf6&_nc_oc=AdqTcOt69do_dxQ_b9iaj1Hc1oM9KpwTqoKuRSf8Hny3we7Dc69l8mrqBQA4EF7bHpw&_nc_zt=23&_nc_ht=instagram.fvlc6-1.fna&_nc_gid=9TZR7q9iRMMBaSHUptSkng&_nc_ss=7ca8c&oh=00_AQH-WLkI2tHBmhSKWs-deBlRBD7jYX-LoYASBg_wPV4WYA&oe=6A928D5F",
+      "thumbnail": "https://instagram.fein1-2.fna.fbcdn.net/v/t51.82787-15/753225160_18548634601076209_2292675290958056241_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0OTU2NzE3NTE4NjUyMDQ1MDE4NTQ4NjM0NTkyMDc2MjA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=V6Ibch1dDJwQ7kNvwHVqY54&_nc_oc=AdqVgA3iaBf51z7xWnqBVyUwLKQGin9xvB0VvRTrO6gcgM9eQd1eue2u97Z-AyfrHS8&_nc_zt=23&_nc_ht=instagram.fein1-2.fna&_nc_gid=6hAS8ZXM4blVEULu1HxHXw&_nc_ss=7ca8c&oh=00_AQF3-o4ra9zoIDFZz-j20WwLqAXjv19rJLHsFWFOs4UrgQ&oe=6A93DEDF",
       "caption": "오늘도 나와의 약속 지키기🔥\n이번주 주6일 성공!!!\n\n운동복 @secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hi___zero_",
       "metrics": {
-        "views": 2772,
+        "views": 2789,
         "likes": 152,
         "comments": 20
       },
-      "metrics_updated_at": "2026-08-25T06:33:18.500073+09:00",
+      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -210,23 +210,29 @@
           "views": 2772,
           "likes": 152,
           "comments": 20
+        },
+        {
+          "d": "2026-08-26",
+          "views": 2789,
+          "likes": 152,
+          "comments": 20
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 418.5,
         "n": 12,
-        "captured_at": "2026-08-25T06:33:18.500073+09:00"
+        "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0014966542815624375,
         "vs_baseline": null,
         "cost_per_eng": 284.8837209302326,
-        "cost_per_view": 17.67676767676768
+        "cost_per_view": 17.569021154535676
       },
-      "last_written_reaction": "조회 2,772 · 좋아요 152 · 댓글 20 · ER 0.1% (D+29)",
+      "last_written_reaction": "조회 2,789 · 좋아요 152 · 댓글 20 · ER 0.1% (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 참여율 0.13%로 초기 반응이 매우 저조하며, 참여 1건당 340원·조회당 25.4원은 9.8만 원 협찬 가치 대비 효율이 낮은 출발점이다.",
@@ -460,7 +466,7 @@
         "captured_at": "2026-08-23T06:25:41.150876+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.003202144044273122,
         "vs_baseline": 0.8793309438470729,
