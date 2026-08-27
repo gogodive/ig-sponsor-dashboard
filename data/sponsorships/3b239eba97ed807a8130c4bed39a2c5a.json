@@ -25,16 +25,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T04:48:39.000Z",
       "permalink": "https://www.instagram.com/p/Db2MSGMCb2p/",
-      "thumbnail": "https://instagram.fhnd3-1.fna.fbcdn.net/v/t51.82787-15/769804549_18100881764167790_5943155758542306509_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2MDQwNjMzMTIxMjg4MTUwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XniLWyqtagsQ7kNvwHEP2dF&_nc_oc=AdreT5ZRO2RFvtKLP5AnAswxYyU3xFFB4PKx1OEuE2tB7SHXXUz3XWQAN-VUOuK_YZk&_nc_zt=23&_nc_ht=instagram.fhnd3-1.fna&_nc_gid=IWoC3GhcPIN4SmzSQ6HPPw&_nc_ss=72689&oh=00_AQFIrsUg5g1pxOTamRu0TAM9awN5nkX_YHpUIr_4bmT8bQ&oe=6A93E831",
+      "thumbnail": "https://instagram.fmel17-1.fna.fbcdn.net/v/t51.82787-15/769804549_18100881764167790_5943155758542306509_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2MDQwNjMzMTIxMjg4MTUwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XniLWyqtagsQ7kNvwHTAc13&_nc_oc=AdqRcg7PzTNBpovpVr3qsB_3VFc2QdkEuB9Q0NJAzqexIHRyPKPlonbqIOGXf3-zCB8&_nc_zt=23&_nc_ht=instagram.fmel17-1.fna&_nc_gid=NCcWPkAxOi_8lW0Oad0lQQ&_nc_ss=7d689&oh=00_AQHQf4so17jwOGf1fnNwC-YXML9OS9MdupCtp9WE4QVeIQ&oe=6A9571F1",
       "caption": "☀️라세린 신상 선글로우 후기☀️\n\n@laserin_swim 라세린의 신상 컬렉션 \n🍑Peach & Glow✨중에서\n제 픽은 바로 선글로우!\n\n선글로우는 저처럼 웜톤분들에게 강추드려요! \n코랄빛 노을같은 색감에 반짝이는 햇살이 생각나게 하는 비주얼✨\n\n야외에서나 실내에서나 빛에 따라 반짝반짝거리는게 정~말 예뻐요🫶\n\n🧡두겹\n🩷크로스 픽스드백\n🧡미들컷\n🩷미들가슴선\n\n➡️윰스읨 스펙\n159 / 50 / T146 \n착용 사이즈: S\n\n저는 타이트하게 맞아요! 강습이나 빡수할때는 좋겠지만 \n편하게 입으려면 M 입어도 될 것 같아요!\n\n지금",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yoomswim",
       "metrics": {
-        "likes": 202,
-        "comments": 30
+        "likes": 203,
+        "comments": 31
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -119,23 +119,29 @@
           "views": null,
           "likes": 202,
           "comments": 30
+        },
+        {
+          "d": "2026-08-27",
+          "views": null,
+          "likes": 203,
+          "comments": 31
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 129.5,
         "n": 12,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.3314285714285714,
-        "vs_baseline": 1.7915057915057915,
-        "cost_per_eng": 297.41379310344826,
+        "er": 0.3342857142857143,
+        "vs_baseline": 1.806949806949807,
+        "cost_per_eng": 294.87179487179486,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 202 · 댓글 30 · ER 33.1% · 평소대비 1.8x (D+15)",
+      "last_written_reaction": "좋아요 203 · 댓글 31 · ER 33.4% · 평소대비 1.8x (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.61배 참여로 팔로워 605명 소규모 계정치고 참여율 27%·건당 416원은 우수한 초기 성과.",
@@ -158,5 +164,5 @@
   },
   "child_db_id": "4d539eba-97ed-82c9-af19-019427656d50",
   "followers": 700,
-  "last_written_score": 179
+  "last_written_score": 181
 }

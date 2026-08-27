@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "1iberis_",
   "followers_notion": 8273,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "24939eba-97ed-82f7-b3f3-01f379a7ba02",
+      "url": "https://www.instagram.com/p/DcdIT2NFKOJ/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcdIT2NFKOJ",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-25",
+      "first_seen": "2026-08-27",
+      "posted_at": "2026-08-25T07:44:19.000Z",
+      "permalink": "https://www.instagram.com/p/DcdIT2NFKOJ/",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/786106791_18102890504215521_7610522710918231249_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MTM2NjI3NDU3MTI5MDA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6HbOTvj9cpkQ7kNvwFnxnlm&_nc_oc=AdoXuWL-l6OPEr0nVaSOThLphGSl7Aqa9QxAG6Nrc-tV2S5q1p4UeHdnduNUZ9I7BCw18xaOgxJorlN_qCSrfMA-&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=ucsfm8y2nXZXiVzoZrBhGg&_nc_ss=7d689&oh=00_AQEa6m01FF5XbgPEyjn3O5J8CoDFeh9wRQdJwvmGhckRag&oe=6A955765",
+      "caption": "💪🏻\n\n#시크릿스 #운동복추천 @secrets__fit",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "1iberis_",
+      "metrics": {
+        "likes": 194,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
+      "history": [
+        {
+          "d": "2026-08-27",
+          "views": null,
+          "likes": 194,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 137.0,
+        "n": 12,
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.023892424060511466,
+        "vs_baseline": 1.4525547445255473,
+        "cost_per_eng": 919.5979899497487,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 194 · 댓글 5 · ER 2.4% · 평소대비 1.5x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "25c39eba-97ed-82c0-beeb-81b784a131f7",
-  "followers": 8273
+  "followers": 8329,
+  "last_written_score": 145
 }

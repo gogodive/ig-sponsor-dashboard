@@ -25,16 +25,16 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-12T13:10:38.000Z",
       "permalink": "https://www.instagram.com/p/Db8PUdclPeK/",
-      "thumbnail": "https://instagram.flcj1-1.fna.fbcdn.net/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=69MStqg1DIMQ7kNvwEnif--&_nc_oc=Adp0-JSZunP-KDSTbJ3ubMlYSzm2KsuiyPAvRD_lWMpLyLhax5JO7DneWvpG1PvmQOM&_nc_zt=23&_nc_ht=instagram.flcj1-1.fna&_nc_gid=4qpsZ9n5cBTbcPl2BKbFMw&_nc_ss=7ba02&oh=00_AQHmWUzCIy0UKaNQET9_HJXq12fOjQo-YJagY4SfHN1PcA&oe=6A93E209",
+      "thumbnail": "https://instagram.fbrs4-1.fna.fbcdn.net/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=69MStqg1DIMQ7kNvwGcOgS3&_nc_oc=Adp77GwnXcgdqU9idQp-jcAOspzdd77yQLGA_Om6wsUBsBZDubtiI1-cioPeuXzPbOY&_nc_zt=23&_nc_ht=instagram.fbrs4-1.fna&_nc_gid=wj_6GxZonhUEbANkVcikaQ&_nc_ss=73a8c&oh=00_AQHtWSjCS8XKSNDaTbFWJjFr_tJAELxMUVxGybr223mxXA&oe=6A956BC9",
       "caption": "#제품제공 입자마자 인어공주 되는 수영복🧜‍♀️\n\n@laserin_swim 선글로우\n\n택배박스 열자마자 든 생각은 와 진짜 반짝반짝 빛난다✨ 였어요! 선글로우 컷 사진보고 반해버렸는데 사진보다 실물이 더 예쁘고 영롱한 수영복이에요!\n\n특히 야외에서 입으면 진가를 발휘하는 수영복이에요.\n바다에서 진짜 얘만보임🧡\n햇빛 받으면 반짝반짝 빛나서 사진도 잘 나와요! 물 속에서도 예쁨❤️\n\n특히 웜톤 분들 아주아주 추천하고 싶은 수영복이에요! 요즘 야외에서 수영 많이해서 탔는데 탄톤에게도 추천..👍\n\nx백으로 몸을 잘 잡아주고, 안감까지 두 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "soha.swim",
       "metrics": {
-        "likes": 112,
+        "likes": 113,
         "comments": 46
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -77,20 +77,26 @@
           "views": null,
           "likes": 112,
           "comments": 46
+        },
+        {
+          "d": "2026-08-27",
+          "views": null,
+          "likes": 113,
+          "comments": 46
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 112.0,
+        "eng_median": 123.5,
         "n": 6,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.07779419005416051,
-        "vs_baseline": 1.4107142857142858,
-        "cost_per_eng": 436.7088607594937,
+        "er": 0.07391910739191074,
+        "vs_baseline": 1.2874493927125505,
+        "cost_per_eng": 433.9622641509434,
         "cost_per_view": null
       },
       "analysis": {
@@ -98,9 +104,14 @@
           "one_liner": "평소 대비 1.28배 참여를 기록하며 참여당 483원으로 소규모 계정 대비 효율적인 초기 성과를 보임.",
           "days": 7,
           "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.29배 참여로 소규모 계정 치고 준수하나, 1건당 434원·7.39% 참여율은 추가 협찬 전 ROI 검증 필요.",
+          "days": 14,
+          "analyzed_at": "2026-08-27T09:33:46.172753+09:00"
         }
       },
-      "last_written_reaction": "좋아요 112 · 댓글 46 · ER 7.8% · 평소대비 1.4x (D+13)"
+      "last_written_reaction": "좋아요 113 · 댓글 46 · ER 7.4% · 평소대비 1.3x (D+14)"
     }
   ],
   "flags": {
@@ -110,6 +121,6 @@
     "account_unavailable": false
   },
   "child_db_id": "24539eba-97ed-8283-8855-01dd5f81e655",
-  "followers": 2031,
-  "last_written_score": 141
+  "followers": 2151,
+  "last_written_score": 129
 }

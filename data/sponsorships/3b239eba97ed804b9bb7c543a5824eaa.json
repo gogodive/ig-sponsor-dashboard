@@ -1,7 +1,7 @@
 {
   "page_id": "3b239eba-97ed-804b-9bb7-c543a5824eaa",
   "row_title_raw": "jiyoooooou",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-14T08:07:53.000Z",
       "permalink": "https://www.instagram.com/p/DcA2QzSD7oy/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vouGGvAxAX4Q7kNvwFXQvtG&_nc_oc=AdpuZV4aVCNMb6xDmHIEa9bcor9dbz6iHw0EXK3tOi_xymSjFl_j_5bpLFrVhNfRPXI&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=WGkxbqdQ2xI-eMxWFdzw6w&_nc_ss=7c689&oh=00_AQF1ZNueC2x6_6FueqhaBkpK6vvNRkXQ_nlhyNMssGq2VQ&oe=6A93DFD9",
+      "thumbnail": "https://instagram.fman4-1.fna.fbcdn.net/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vouGGvAxAX4Q7kNvwFSdJvv&_nc_oc=AdqMvulLtqU7MXepIwaM0Jd4E8NOiTgraoIkVeOVyC2acQB_8iznB6L71K1gtXJEuU8&_nc_zt=23&_nc_ht=instagram.fman4-1.fna&_nc_gid=Nh4q_9M8R3KTlSxG8Gss3Q&_nc_ss=73289&oh=00_AQE4-4R9wQCjWo1ab8n3VtWy9yTW6mJxLVkSNjIBZUL3yw&oe=6A956999",
       "caption": "산청 여름방학🍉🍃⛱️👙💙\n\n다합패밀리들(찐가족2)과 함께한 행복했던 여름방학💗\n\n이 특별한 여정에 나으ㅣ 최애 수영복👙\n블링블링 너무 예쁜 @laserin_swim 신상과 함께…💕\n\n시원해지니까 좋은데 시렁😭\nㅇㅕ름ㅇㅏ 가지마 나랑 놀ㅇㅏ✨\n\n👙 @laserin_swim \n🕶️ @ballonblanc_life \n📸 @jin__dalrae",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -65,18 +65,24 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-08-27",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 13.5,
         "n": 8,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.0007908264136022143,
+        "er": 0.0007900142202559646,
         "vs_baseline": 0.7407407407407407,
         "cost_per_eng": 6900.0,
         "cost_per_view": null
@@ -88,7 +94,7 @@
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+11)"
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+12)"
     }
   ],
   "flags": {
@@ -98,6 +104,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d3039eba-97ed-8282-9281-01221772bfc5",
-  "followers": 12645,
+  "followers": 12658,
   "last_written_score": 74
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T02:23:22.000Z",
       "permalink": "https://www.instagram.com/p/DbR4hyPCe1h/",
-      "thumbnail": "https://instagram.fltn4-1.fna.fbcdn.net/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1MDE4NTc5MTU1MDEzNzQwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-hGT5jZOKfcQ7kNvwEYRzs9&_nc_oc=AdqelLqJy0Y9FLlgo4dJCQHOpBHe1UaUN7340H9haWVcRS80wPDP6H_Bq5gdj3LLhDTOmQ5ZtEjmXEOyUs8-PEYy&_nc_zt=23&_nc_ht=instagram.fltn4-1.fna&_nc_gid=dJmLZuT3uLhsZ5upv6cf4w&_nc_ss=72a8c&oh=00_AQEEt2xRaToQYyvJtb9oi885GQ1PybyXmEduTJYyvSzwcA&oe=6A93EAD4",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1MDE4NTc5MTU1MDEzNzQwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-hGT5jZOKfcQ7kNvwE_WSwp&_nc_oc=Adoy1e3GzZLq2GjpifKvDr-9dwadSmIrToA71rm7vQT1IalASNIbdxsKFJ-Ao938gFc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=7z10sUMhmTDiI5lkUV8Ing&_nc_ss=7d689&oh=00_AQHux644Fq_MYxDBrBFeso1HG6OsWQXglIkFfUImglhMlQ&oe=6A957494",
       "caption": "#제품제공 @laserin_swim \n👙: 크리스탈 웨이브\n(167cm / 50kg / S사이즈 착용)\n\n라세린 수영복으로 여름 분위기 완성!!\n\n펄감이 영롱 그 자체..\n실물로 보니 더 예뻤어요🥺\n\n물속에서는 색감이 더 맑아 보이고,\n햇빛에서는 또 다른 분위기가 느껴져서\n사진마다 느낌이 다르게 나오더라구요🩵 \n\n디자인 예쁘고 착용감도 편해서\n사진 찍고 수영도 맘껏 즐기다 왔답니다🙈\n(살 탐 , 잔뜩 탐^___^,,,,)\n\n#수영복 #라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 15
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-07-28",
@@ -215,23 +215,29 @@
           "views": null,
           "likes": -1,
           "comments": 15
+        },
+        {
+          "d": "2026-08-27",
+          "views": null,
+          "likes": -1,
+          "comments": 15
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 11.0,
+        "eng_median": 11.5,
         "n": 12,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.014256619144602852,
-        "vs_baseline": 1.2727272727272727,
+        "er": 0.014314928425357873,
+        "vs_baseline": 1.2173913043478262,
         "cost_per_eng": 2464.285714285714,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 15 · ER 1.4% · 평소대비 1.3x (D+29)",
+      "last_written_reaction": "좋아요 -1 · 댓글 15 · ER 1.4% · 평소대비 1.2x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.60x 참여로 소규모 계정 치고 양호하나, 참여당 비용 2,875원은 팔로워 규모 감안 시 개선 여지 있음.",
@@ -254,7 +260,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-26T16:54:09.000Z",
       "permalink": "https://www.instagram.com/p/DbQ3JN3pRBg/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/757524310_17895986160564922_3508489157697492522_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0OTg5OTM5OTEyOTUzNDU2MDE3ODk1OTg2MTU3NTY0OTIy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ukiiv3MRL1AQ7kNvwHeKiOu&_nc_oc=Ado83JsnPah3hm9ICR6CNXwvQIP_1xTqImFi_w5L4GWeUURbRDayGXbkS_uA2z5V0Pc&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=4ukdGebfWrpkJcfaf5sv3w&_nc_ss=72a8c&oh=00_AQGmMAPXWAwWSlE36sF3Wiw6xxCzgRUEYh10NDeSOy9QMw&oe=6A93F5B3",
+      "thumbnail": "https://scontent-bog2-1.cdninstagram.com/v/t51.82787-15/757524310_17895986160564922_3508489157697492522_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk0OTg5OTM5OTEyOTUzNDU2MDE3ODk1OTg2MTU3NTY0OTIy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ukiiv3MRL1AQ7kNvwF_WJYp&_nc_oc=Adokmnf-Nytv6MeQeh1tFaN4ljP-YuWalygeV_d8WtPwew7oKdJGp_J_seJRgof6nGU&_nc_zt=23&_nc_ht=scontent-bog2-1.cdninstagram.com&_nc_gid=2OggFOHlFL-_2xMgVG7n0w&_nc_ss=73a8c&oh=00_AQEuAcpA5oqUC88UrxrPShH3Bpk8qcKe-zoyVOXQtsT7Cw&oe=6A954733",
       "caption": "#제품제공 @laserin_swim \n\n물이랑 가장 잘 어울리는 색은 역시 👉🏻🩵\n\n크리스탈웨이브의 은은한 펄감이\n물이랑 너무 잘 어울리더라구요🌊\n\n몸을 편안하게 감싸주는 핏이라\n프리다이빙이나 수영할때도 \n움직임이 편했어요🩵\n\n시원한 컬러감 덕분에 여름 느낌 제대로!\n하나쯤은 갖고싶었던 글로우 수영복이었는데🥺\n⭐️소원 성취 올 여름 물놀이 룩으로 완전 추천⭐️\n\n#수영 #수영복 #수린이 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -453,15 +459,15 @@
         "n": 3,
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": -0.0010183299389002036,
+        "er": -0.0010224948875255625,
         "vs_baseline": 0.7218644587549832,
         "cost_per_eng": -34500.0,
         "cost_per_view": 14.65590484282073
       },
-      "last_written_reaction": "조회 2,354 · 좋아요 -1 · 댓글 0 · ER -0.1% · 평소대비 0.7x (D+30)",
+      "last_written_reaction": "조회 2,354 · 좋아요 -1 · 댓글 0 · ER -0.1% · 평소대비 0.7x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.48x로 저조한 초기 반응이며, 조회당 비용 14.8원·유효 참여 부재로 협찬 효율이 매우 낮은 상태입니다.",
@@ -472,7 +478,9 @@
           "one_liner": "평소 대비 0.57배 저조한 조회수에 좋아요 마이너스로 유효 참여가 사실상 전무해, 6.9만 원 협찬 대비 비용 효율이 매우 낮은 상태입니다.",
           "days": 14,
           "analyzed_at": "2026-08-10T06:36:10.950262+09:00"
-        }
+        },
+        "final_verdict": "조회수 2,354회로 팔로워 대비 약 2.4배의 노출은 달성했으나, 좋아요 -1·댓글 0이라는 사실상 제로에 가까운 참여 지표는 콘텐츠가 유의미한 반응을 이끌어내지 못했음을 보여준다. 평소 대비 0.72x의 저조한 성과와 함께, 좋아요 마이너스 값으로 인한 참여 1건당 비용 산출 불가(-34,500원)는 협찬 효과가 사실상 역효과 수준임을 시사한다. 조회 1회당 14.7원의 단순 노출 비용 자체는 나쁘지 않으나, 참여가 전무한 노출은 브랜드 인지 전환으로 이어질 가능성이 낮아 69,000원 상당의 협찬 가치를 충족했다고 보기 어렵다.",
+        "final_at": "2026-08-27T09:33:46.172753+09:00"
       }
     }
   ],
@@ -483,6 +491,6 @@
     "account_unavailable": false
   },
   "child_db_id": "f6639eba-97ed-82d7-9ab7-01f7d9b7cc93",
-  "followers": 982,
-  "last_written_score": 100
+  "followers": 978,
+  "last_written_score": 97
 }

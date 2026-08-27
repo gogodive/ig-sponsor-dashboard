@@ -42,7 +42,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": -0.00036859565057132326,
         "vs_baseline": -0.05,
@@ -64,17 +64,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-18T08:00:01.000Z",
       "permalink": "https://www.instagram.com/p/DcK5wrzhn4h/",
-      "thumbnail": "https://instagram.fper6-1.fna.fbcdn.net/v/t51.82787-15/775814328_18336289432253587_5131152319606899284_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NjIzNjQ1NjA3NDUwOTg1NzE4MzM2Mjg5NDI2MjUzNTg3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=2v8eTRQ7cgQQ7kNvwFrd_zU&_nc_oc=AdoCyVKwQ7YuoI9NHSA8naSN6ZU3qjcbqlikjd_elu9BSIJuOMSkD6YuTDoyiGNMyjOOCSbA1PsrQuTXAHrlEdUw&_nc_zt=23&_nc_ht=instagram.fper6-1.fna&_nc_gid=1-E54EsTDEttFi4YKCYWgg&_nc_ss=7c689&oh=00_AQGn1hRubmeM9C0cgvCZHx68E7jV4ZJVlikrYYds89VqLg&oe=6A93F52C",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/775814328_18336289432253587_5131152319606899284_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NjIzNjQ1NjA3NDUwOTg1NzE4MzM2Mjg5NDI2MjUzNTg3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=2v8eTRQ7cgQQ7kNvwGmR0Ab&_nc_oc=AdrWTq4-0Gx8yGe8AnhgY95V2a73RRv3BUivVBct4v-TYcQtG74UFHdlxjAZV8LOeDs&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=8VRzqBa7aSS1Udnx976fjA&_nc_ss=7d689&oh=00_AQHFsLK3pv-3n97MomINbNXt9yYCJQaZFkzUqvV65P2q2g&oe=6A9546AC",
       "caption": "#제품제공 @laserin_swim \n\n머메이딩할때 애용하는 수영복🧜‍♀️\n블랙 베이스에 글리터포인트가 있어서 더 예쁜거같아요😆\n\n𝚜𝚠𝚒𝚖 𝚠𝚎𝚊𝚛 라세린 루미나 블랙 브이백\n\n🖤 SIZE INFO \n155 / 50 / T143\nM착용 / 선호사이즈 M \n정핏 또는 여유로운핏 선호",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hxxon_1029",
       "metrics": {
-        "views": 1986,
+        "views": 2011,
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -105,21 +105,27 @@
           "views": 1986,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-08-27",
+          "views": 2011,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": 8359.5,
         "eng_median": 26.5,
         "n": 4,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.0,
-        "vs_baseline": 0.23757401758478378,
+        "vs_baseline": 0.24056462707099707,
         "cost_per_eng": null,
-        "cost_per_view": 34.74320241691843
+        "cost_per_view": 34.31128791645947
       },
       "analysis": {
         "d3": {
@@ -128,7 +134,7 @@
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
         }
       },
-      "last_written_reaction": "조회 1,986 · 좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.2x (D+7)"
+      "last_written_reaction": "조회 2,011 · 좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.2x (D+8)"
     }
   ],
   "flags": {
@@ -139,5 +145,5 @@
   },
   "child_db_id": "39239eba-97ed-83b3-91e8-81ee8a9e13a7",
   "followers": 2713,
-  "last_written_score": 9
+  "last_written_score": 10
 }

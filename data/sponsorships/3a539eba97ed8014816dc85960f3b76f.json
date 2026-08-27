@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-17T16:44:00.000Z",
       "permalink": "https://www.instagram.com/p/DcJftisGAqV/",
-      "thumbnail": "https://instagram.fbri7-1.fna.fbcdn.net/v/t51.82787-15/774156981_18609570631001307_5408230043179321675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NTg0MDE2Mzg3NDg5NzA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8ksc493sFxUQ7kNvwEcYkZj&_nc_oc=AdqB0cWsyS37EtTpmxWZ-VbsWUb7p_hCssEfydERPz6g2M5zJlkqx1MZB6Qhs4yoWlE&_nc_zt=23&_nc_ht=instagram.fbri7-1.fna&_nc_gid=xNsIWz9egGuUg4mTV75ROA&_nc_ss=72a8c&oh=00_AQH79Z8DPrTTPManth49PSYhXCOeHnALli42AD9CJKAcyQ&oe=6A93CFEC",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/774156981_18609570631001307_5408230043179321675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NTg0MDE2Mzg3NDg5NzA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8ksc493sFxUQ7kNvwGFy7DN&_nc_oc=AdrDFeg9YX3g00srGd9rcx-GBVAV55YiaRGXmIgqvjYaz1dEYl3IxhBBD_rIVLkV3ZA&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=qOQ5OyvvVJQwJW3s9gtS7Q&_nc_ss=7da8c&oh=00_AQGhKtG8V5WG4zXMhqWF6hL46c5uIY8VsD2c7xten1VYSg&oe=6A9559AC",
       "caption": "#협찬 @laserin_swim\n\n여름만 기다리는 물개였던 내가 올해는 첫 물놀이💦\n동네 한강수영장 덕분에 퇴근하고 잠시나마 힐링하기⭐️\n\n동네지만 꾸안꾸로 입은 \n🤍라세린 루미나 화이트 브이백 우먼👙\n세미하이컷으로 노출이 과하지 않으면서도 흔흔한 펄감이 있어 밤에도 빛나는 수영복✨\n화이트라 걱정했는데 전혀 비침없이 편하게 입을 수 있어서 너무 예쁜 #라세린 \n\n이거 입고 보홀 가고싶다..........🌈🥹\n\n#수영복추천 #수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,10 +34,16 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-08-26T06:32:00.985216+09:00",
+      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
       "history": [
         {
           "d": "2026-08-26",
+          "views": null,
+          "likes": -1,
+          "comments": 1
+        },
+        {
+          "d": "2026-08-27",
           "views": null,
           "likes": -1,
           "comments": 1
@@ -47,10 +53,10 @@
         "views_median": null,
         "eng_median": 5.5,
         "n": 12,
-        "captured_at": "2026-08-26T06:32:00.985216+09:00"
+        "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
@@ -64,7 +70,7 @@
           "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+8)"
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+9)"
     }
   ],
   "flags": {
