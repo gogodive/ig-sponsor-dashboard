@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "feeling1044",
   "followers_notion": 125000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "99739eba-97ed-8247-85d5-01cd15b7dfac",
+      "url": "https://www.instagram.com/p/DcfIkFckxYC/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcfIkFckxYC",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-26",
+      "first_seen": "2026-08-28",
+      "posted_at": "2026-08-26T02:25:01.000Z",
+      "permalink": "https://www.instagram.com/p/DcfIkFckxYC/",
+      "thumbnail": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/785925487_18625771795057426_8836744760693363196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTkzMDQ5MzIzNDgwNzE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n4elEZ7tFwUQ7kNvwE3C32M&_nc_oc=AdrMujYJ60JGMnGp55-wnGMbDl9YaW7M40h2zK7UeNP24b5jHBU7z9MAZc76-ArHg5Jtdu9O4umS3qddXdRUEh1d&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=fnNbOTVhf4OXEl5iYknQ0Q&_nc_ss=7a22e&oh=00_AQFS10L44zcHRyQkT7-CFC3mWa3R9QOXiQaWJijv_sFV1g&oe=6A96ECE5",
+      "caption": "나의 첫  #프리다이빙 도전🧜🏻‍♀️\n\n스쿠버다이빙 이후 너무 배워보고 싶었는데\n또 하나의 목표가 생겼다⁽̨̡ ¨̮ ⁾̧̢\n\n물속에서 더 빛나는 나의 첫 핀 ,\n인어의 꼬리가 되어주렴💙✨\n\n\r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "feeling1044",
+      "metrics": {
+        "likes": -1,
+        "comments": 41
+      },
+      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "history": [
+        {
+          "d": "2026-08-28",
+          "views": null,
+          "likes": -1,
+          "comments": 41
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 43,
+        "n": 11,
+        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.0003193740269072618,
+        "vs_baseline": 0.9302325581395349,
+        "cost_per_eng": 7850.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 41 · ER 0.0% · 평소대비 0.9x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a9639eba-97ed-8329-a298-016484940076",
-  "followers": 125000
+  "followers": 125245,
+  "last_written_score": 93
 }

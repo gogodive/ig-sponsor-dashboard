@@ -57,7 +57,7 @@
         "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 27,
       "computed": {
         "er": 0.0023208317861121426,
         "vs_baseline": 1.0430560051796698,
@@ -71,7 +71,7 @@
           "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
         }
       },
-      "last_written_reaction": "조회 3,222 · 좋아요 -1 · 댓글 26 · ER 0.2% · 평소대비 1.0x (D+25)"
+      "last_written_reaction": "조회 3,222 · 좋아요 -1 · 댓글 26 · ER 0.2% · 평소대비 1.0x (D+27)"
     }
   ],
   "flags": {

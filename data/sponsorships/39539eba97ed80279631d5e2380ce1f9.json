@@ -25,7 +25,7 @@
       "first_seen": "2026-07-28",
       "posted_at": "2026-07-27T02:23:22.000Z",
       "permalink": "https://www.instagram.com/p/DbR4hyPCe1h/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1MDE4NTc5MTU1MDEzNzQwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-hGT5jZOKfcQ7kNvwE_WSwp&_nc_oc=Adoy1e3GzZLq2GjpifKvDr-9dwadSmIrToA71rm7vQT1IalASNIbdxsKFJ-Ao938gFc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=7z10sUMhmTDiI5lkUV8Ing&_nc_ss=7d689&oh=00_AQHux644Fq_MYxDBrBFeso1HG6OsWQXglIkFfUImglhMlQ&oe=6A957494",
+      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/755033957_17896046754564922_1875359184086091510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1MDE4NTc5MTU1MDEzNzQwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=k_Oh1ys88AgQ7kNvwEssdAr&_nc_oc=AdpsD-k-FWlk5zxAfAzjbf-Sf317XBAqJYFmi6Xa2exAr3GhSLYtHXnzfAMXRHaynkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=1TDbKsZnHVlT6V9LF1yovg&_nc_ss=7a22e&oh=00_AQGaDckFVSMZL0RUGPx4BP_5MuXQCM7GaQN7cgf-Mgx6ZQ&oe=6A96FE54",
       "caption": "#제품제공 @laserin_swim \n👙: 크리스탈 웨이브\n(167cm / 50kg / S사이즈 착용)\n\n라세린 수영복으로 여름 분위기 완성!!\n\n펄감이 영롱 그 자체..\n실물로 보니 더 예뻤어요🥺\n\n물속에서는 색감이 더 맑아 보이고,\n햇빛에서는 또 다른 분위기가 느껴져서\n사진마다 느낌이 다르게 나오더라구요🩵 \n\n디자인 예쁘고 착용감도 편해서\n사진 찍고 수영도 맘껏 즐기다 왔답니다🙈\n(살 탐 , 잔뜩 탐^___^,,,,)\n\n#수영복 #라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -229,15 +229,15 @@
         "n": 12,
         "captured_at": "2026-08-27T09:33:46.172753+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 32,
       "computed": {
         "er": 0.014314928425357873,
         "vs_baseline": 1.2173913043478262,
         "cost_per_eng": 2464.285714285714,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 15 · ER 1.4% · 평소대비 1.2x (D+30)",
+      "last_written_reaction": "좋아요 -1 · 댓글 15 · ER 1.4% · 평소대비 1.2x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.60x 참여로 소규모 계정 치고 양호하나, 참여당 비용 2,875원은 팔로워 규모 감안 시 개선 여지 있음.",
@@ -248,7 +248,9 @@
           "one_liner": "평소 대비 1.56배 참여로 선방 중이나, 팔로워 994명 소규모 계정에서 건당 2,464원 비용은 다소 높아 최종 성과 확인이 필요하다.",
           "days": 14,
           "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
-        }
+        },
+        "final_verdict": "팔로워 978명의 소규모 계정임에도 참여율 1.43%와 평소 대비 1.22배 성과를 기록해 콘텐츠 자체의 반응은 양호한 편이다. 다만 피드 게시물에 조회수가 집계되지 않고 좋아요가 -1로 기록된 점은 데이터 신뢰성에 의문을 남기며, 댓글 15건이 실질적인 참여의 전부로 보인다. 참여 1건당 비용 2,464원·총 협찬가 69,000원 규모는 나노 인플루언서 기준으로 과도하지 않으나, 조회 지표 부재로 브랜드 노출 효과를 검증할 수 없어 재협찬 시 릴스 형식 전환 또는 조회 데이터 확보 조건을 추가하는 것이 바람직하다.",
+        "final_at": "2026-08-28T14:09:22.597852+09:00"
       }
     },
     {
@@ -460,7 +462,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": -0.0010224948875255625,
         "vs_baseline": 0.7218644587549832,

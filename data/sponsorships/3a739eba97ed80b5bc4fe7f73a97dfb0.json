@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "wave_yuli",
   "followers_notion": 3232,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "a6939eba-97ed-828a-9719-010b25eb8980",
+      "url": "https://www.instagram.com/reel/DcfrUJQvteN/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcfrUJQvteN",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-08-27",
+      "first_seen": "2026-08-28",
+      "posted_at": "2026-08-26T07:31:02.000Z",
+      "permalink": "https://www.instagram.com/p/DcfrUJQvteN/",
+      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/786453173_17942154216323919_5581934060741161992_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3MjA4Mzg5NjY5ODE5NzkwMTE3OTQyMTU0MjEwMzIzOTE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=HahCJvGoCPIQ7kNvwHTFwo4&_nc_oc=AdqsA8QIEejMFdWOy_hCrtAubR86NB-47Da8Ou94CSmGlR_DqAlqgg0ZPA8InpmJ9s0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=ryYMr7Ph-TtfkbYpDen0Sg&_nc_ss=7a22e&oh=00_AQG9IUAjsF-aFLa8Lxf_J4BwncnZeAkKRaANk9v1T-JuwA&oe=6A96EEC4",
+      "caption": "태양을 피하고 싶었어.. feat. 민트코어 다이빙룩✨\n\n햇빛 피하려고 판초 챙겼는데 무겁고 푹 젖어서 마르는데 반나절이었던 분이라면 주목! 🩵 (그게 바로 저예요🙄)\n\n이번에 인투더블루 제품들로 민트코어 다이빙룩 맞춰봤는데, 착용감부터 실물 색감까지 완전 취향저격 맞아버렸지 뭐예요\n\n✅ 고고 젤로 오로라 마스크_𝐌𝐢𝐧𝐭 𝐀𝐮𝐫𝐨𝐫𝐚\n• 부담스럽지 않은 민트컬러의 영롱한 오로라 마스크\n• 여유있고 스커트 라인과, 안정적으로 두상 잡아주는 마스크 밴드\n• 타사 대비 가성비가 좋아서 입문용으로 추천✔️\n\n✅ 딥바이브 에어로 스노클_𝐖𝐡",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "wave_yuli",
+      "metrics": {
+        "views": 3030,
+        "likes": -1,
+        "comments": 17
+      },
+      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "history": [
+        {
+          "d": "2026-08-28",
+          "views": 3030,
+          "likes": -1,
+          "comments": 17
+        }
+      ],
+      "baseline": {
+        "views_median": 10169,
+        "eng_median": 247.5,
+        "n": 7,
+        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.004478029666946544,
+        "vs_baseline": 0.2979644016127446,
+        "cost_per_eng": 13937.5,
+        "cost_per_view": 73.5973597359736
+      },
+      "last_written_reaction": "조회 3,030 · 좋아요 -1 · 댓글 17 · ER 0.4% · 평소대비 0.3x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "93f39eba-97ed-8233-80ce-0175089f81ee",
-  "followers": 3232
+  "followers": 3573,
+  "last_written_score": 30
 }

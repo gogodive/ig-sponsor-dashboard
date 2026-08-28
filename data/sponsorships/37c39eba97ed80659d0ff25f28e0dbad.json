@@ -25,17 +25,17 @@
       "first_seen": "2026-08-04",
       "posted_at": "2026-08-02T23:47:05.000Z",
       "permalink": "https://www.instagram.com/p/DbjoEvkTmch/",
-      "thumbnail": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/761747421_18123746543493117_5725684365165775828_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1NTE4MTE0NTU3NDc2MjI3MzE4MTIzNzQ2NTM3NDkzMTE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FxKdQvGI0Z4Q7kNvwHgBLKR&_nc_oc=Adr9wA72tfkQvXQzo7G2ZyH1RdTJY6vm5hFm5W-tRmGR_l0ia34a57XkQlgAH1wXzg8&_nc_zt=23&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_gid=UB-onFNIIMLJ381dxfu87Q&_nc_ss=73a8c&oh=00_AQE8BxlRZ3pvYJyyzSFRzZuAB7QmzhCqMRWNzgrp1q06AQ&oe=6A95784C",
+      "thumbnail": "https://instagram.ftlc1-1.fna.fbcdn.net/v/t51.82787-15/761747421_18123746543493117_5725684365165775828_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1NTE4MTE0NTU3NDc2MjI3MzE4MTIzNzQ2NTM3NDkzMTE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FxKdQvGI0Z4Q7kNvwHQwnp3&_nc_oc=AdpKF0kWhLRQ7WAoR1Z0p8lmWQ1VjW1D76oPLak6sJMt54NRPWba65K4MVdRRCn8vpc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftlc1-1.fna&_nc_gid=CiySLqgUGSoLDL_ja3SRww&_nc_ss=7a22e&oh=00_AQGLnKwnbLIi1Uw3Sm_hI0X-7HVBqEIhGWldm1aqb2N7ng&oe=6A97020C",
       "caption": "🤿아무도 모르는 해변 스노쿨링 스팟 공유\n(2026.08.02) 실시간\n\n스토리보고 정보 원하시는 분들이 너무 많아 \n낋여와봤숩니당✨ \n\n@@야 여름에 여기는 어때??? \n(같이 갈 친구 한테 공유/ 저장)\n\n🏝️처음 가본 통영 욕지도\n진짜 지중해 그 자체인줄… 처음에 가장 유명한\n흰작살해변 갔는데.. 생각보디 진짜 작고 주차비도 내야하고\n파라솔비용도 내야해서 좀 별로라 도동해변을 가봤는데\n\n여긴 역시 사람이 정말 많더라구요 그래도 \n해변이 엄청 커서 괜찮았는데 이미 자리 잡으신 분들이 \n많아서 자리잡기가 좀 어려웠어요!! \n예쁘긴",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "o_os.ra",
       "metrics": {
-        "views": 257936,
-        "likes": 1794,
-        "comments": 79
+        "views": 258590,
+        "likes": 1796,
+        "comments": 81
       },
-      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
+      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
       "history": [
         {
           "d": "2026-08-04",
@@ -180,23 +180,29 @@
           "views": 257936,
           "likes": 1794,
           "comments": 79
+        },
+        {
+          "d": "2026-08-28",
+          "views": 258590,
+          "likes": 1796,
+          "comments": 81
         }
       ],
       "baseline": {
         "views_median": 26911,
         "eng_median": 22,
         "n": 7,
-        "captured_at": "2026-08-27T09:33:46.172753+09:00"
+        "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.020363122417916938,
-        "vs_baseline": 9.584779458214113,
-        "cost_per_eng": 194.07367859049654,
-        "cost_per_view": 1.4092643136281868
+        "er": 0.02040661013263753,
+        "vs_baseline": 9.609081788116384,
+        "cost_per_eng": 193.6600958977091,
+        "cost_per_view": 1.405700143083646
       },
-      "last_written_reaction": "조회 257,936 · 좋아요 1,794 · 댓글 79 · ER 2.0% · 평소대비 9.6x (D+24)",
+      "last_written_reaction": "조회 258,590 · 좋아요 1,796 · 댓글 81 · ER 2.0% · 평소대비 9.6x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 6.4배 조회·참여 급등, 조회당 1.7원·참여당 236원으로 비용 효율 모두 우수한 초기 성과.",
@@ -218,7 +224,7 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.012872363557295064,
         "vs_baseline": 2.4262295081967213,
@@ -450,5 +456,5 @@
   },
   "child_db_id": "38239eba-97ed-8077-a9ea-f7cf165a3da4",
   "followers": 91980,
-  "last_written_score": 601
+  "last_written_score": 602
 }

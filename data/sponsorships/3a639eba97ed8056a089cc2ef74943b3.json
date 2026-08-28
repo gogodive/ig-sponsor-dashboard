@@ -25,32 +25,38 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-23T07:41:37.000Z",
       "permalink": "https://www.instagram.com/p/DcX-ThAsCLp/",
-      "thumbnail": "https://instagram.fmii9-1.fna.fbcdn.net/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=mH2mrba_xAwQ7kNvwEk4cC8&_nc_oc=Adqm358N50JVqp1g33q7wVqg7yDwjpGvNZUkU1WejXl8V5kKPBdoSrZv51rbNbizpZ0&_nc_zt=23&_nc_ht=instagram.fmii9-1.fna&_nc_gid=FjZs9WJKfNSlbSBpMsGphg&_nc_ss=7da8c&oh=00_AQFcttLrAcUep1Viy1R3972a7Q5928vOwVzKM2RuK9Idcg&oe=6A954FDF",
+      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=mH2mrba_xAwQ7kNvwF9Pgqk&_nc_oc=Adr8jI92PQ_7e86Irs-I8w6GFOM2bBI4F4se258PlOK13ba8XPMCVfRFCWhr3aHXBQHAL8137-K-U_UAxplPcL5x&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=CrvkXpxEjkyE34UKQkXk7g&_nc_ss=7a22e&oh=00_AQEBUz0bRZyT4Nc5SHXbFXiMshErCwE1ST71VN6i30kyzQ&oe=6A96D99F",
       "caption": "@secrets__fit \n\n필테가는 날도, 각 잡고 운동하는 날도\n편하고 예쁘게 🤍\n\n운동할 때만 입기엔 아까운\n데일리한 나만의 애슬레저 룩 \n@secrets__fit 🫧",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yeongyohn",
       "metrics": {
-        "views": 1556,
+        "views": 1578,
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-27T09:33:46.172753+09:00",
+      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
       "history": [
         {
           "d": "2026-08-27",
           "views": 1556,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-08-28",
+          "views": 1578,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.007451564828614009,
         "vs_baseline": null,
         "cost_per_eng": 8300.0,
-        "cost_per_view": 26.67095115681234
+        "cost_per_view": 26.29911280101394
       },
       "analysis": {
         "d3": {
@@ -59,7 +65,7 @@
           "analyzed_at": "2026-08-27T09:33:46.172753+09:00"
         }
       },
-      "last_written_reaction": "조회 1,556 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+3)"
+      "last_written_reaction": "조회 1,578 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+4)"
     },
     {
       "notion_row_id": "25e39eba-97ed-8208-980b-011b41a5ca87",
@@ -166,8 +172,8 @@
           "comments": 0
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,
@@ -184,9 +190,11 @@
           "one_liner": "좋아요 -1·댓글 0으로 유효 지표 전무, 비용 대비 성과 산출 불가 — 데이터 오류 또는 게시물 노출 실패 여부를 우선 확인 필요.",
           "days": 14,
           "analyzed_at": "2026-08-11T06:45:30.657122+09:00"
-        }
+        },
+        "final_verdict": "팔로워 671명의 초소형 계정에 83,000원 상당 협찬을 진행했으나, 30일 확정 지표 기준 좋아요 -1(데이터 오류 또는 삭제 추정)·댓글 0으로 실질적인 참여가 전무하다. 팔로워 대비 참여율 -0.15%와 참여 1건당 비용 -41,500원은 정상적인 성과 지표 자체가 성립하지 않음을 의미하며, 브랜드 노출·전환 어느 측면에서도 투자 회수 가능성이 없는 협찬으로 판단된다. 향후 동일 계정 재협찬은 지양하고, 계정 활성도·과거 협찬 게시물 지속성 여부를 사전 검증하는 프로세스 보완이 필요하다.",
+        "final_at": "2026-08-28T14:09:22.597852+09:00"
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.1% (확정)"
     }
   ],
   "flags": {
