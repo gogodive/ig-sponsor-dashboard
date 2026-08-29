@@ -25,17 +25,17 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-01T04:53:34.000Z",
       "permalink": "https://www.instagram.com/p/DbfBjgcvIz8/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/760444095_18610273903009678_3103237276716682427_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1Mzg4NTgzNTkyNDYzODk3MjE4NjEwMjczOTAwMDA5Njc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjkwMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=zIkEU3tTUfIQ7kNvwHT4pcE&_nc_oc=AdoTt_2MHjCKKEUGRSWlJ6StoT_IXiMsqEJPF8ZvclFj2xt002fMuudWQPpVHvatjMETISx3FCCelZhQuPZKIwNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=bSe7D29PFCnOAzyS3tTpWw&_nc_ss=7a22e&oh=00_AQHZz4uYm6IvKGpx0sx-7SI6-Q9ztOQ75II2B-ymBQBvsQ&oe=6A96D3EE",
+      "thumbnail": "https://instagram.fsyd4-1.fna.fbcdn.net/v/t51.82787-15/760444095_18610273903009678_3103237276716682427_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1Mzg4NTgzNTkyNDYzODk3MjE4NjEwMjczOTAwMDA5Njc4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjkwMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=zIkEU3tTUfIQ7kNvwGYVT9N&_nc_oc=AdrMzUcjB6SCZidx4tTlV_Arue2v2ynNaDX9fCv_Y_XRkaC5NoxuAnFpoIvsBVsDycc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd4-1.fna&_nc_gid=2wcPRHquoC5J6ALEQFPJgw&_nc_ss=7a22e&oh=00_AQIi7w2HwgeF5PIYIFvRj-OIaOV7OzhZ5y3YTLTondahcg&oe=6A98256E",
       "caption": "#협찬 @intotheblue_store\n요즘 올라운드로 착용중인 🤿딥바이브 그라데이션 카본 롱핀\n장비는 직접 써봐야 진짜 차이를 알게 되는 것 같아요!💦\n⠀\n물속에서 가장 마음에 들었던 건\n✔️ 부드러운 풋포켓이라 발이 편하고\n✔️ 자연스럽게 이어지는 추진력!\n오랫동안 신고 있어도 부담이 적어서 손이 자주 가고☺️\n\n화이트 그라데이션 컬러는\n물속에서 봤을 때 더 깔끔하고 존재감 있는 느낌🤍\n\n편안한 착용감과 퍼포먼스를 함께 원하는 분들께 추천🫧\n⠀\n\n🎥 @gonomcham1244 \n⠀\n⠀\n⠀\n#인투더블루 #딥바이브핀 #프리다이빙장",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yolobooboo_",
       "metrics": {
-        "views": 32147,
-        "likes": 424,
+        "views": 32293,
+        "likes": 425,
         "comments": 16
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -174,21 +174,27 @@
           "views": 32147,
           "likes": 424,
           "comments": 16
+        },
+        {
+          "d": "2026-08-29",
+          "views": 32293,
+          "likes": 425,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": 96708.5,
         "eng_median": 1272.0,
         "n": 12,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
       "days_since_post": 27,
       "computed": {
-        "er": 0.0032365316150292757,
-        "vs_baseline": 0.3324113185500757,
-        "cost_per_eng": 556.8181818181819,
-        "cost_per_view": 7.621239929075808
+        "er": 0.003243887368699797,
+        "vs_baseline": 0.33392101004565267,
+        "cost_per_eng": 555.5555555555555,
+        "cost_per_view": 7.586783513454928
       },
       "analysis": {
         "d3": {
@@ -202,7 +208,7 @@
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
         }
       },
-      "last_written_reaction": "조회 32,147 · 좋아요 424 · 댓글 16 · ER 0.3% · 평소대비 0.3x (D+27)"
+      "last_written_reaction": "조회 32,293 · 좋아요 425 · 댓글 16 · ER 0.3% · 평소대비 0.3x (D+27)"
     },
     {
       "notion_row_id": "b7839eba-97ed-8339-8b06-016aceb1ae4d",
@@ -406,7 +412,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.002140524318121635,
         "vs_baseline": null,

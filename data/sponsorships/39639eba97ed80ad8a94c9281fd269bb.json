@@ -25,7 +25,7 @@
       "first_seen": "2026-08-07",
       "posted_at": "2026-07-29T02:50:06.000Z",
       "permalink": "https://www.instagram.com/p/DbXEYy9Sujq/",
-      "thumbnail": "https://instagram.fsyd12-1.fna.fbcdn.net/v/t51.82787-15/760441899_18619346482017153_588640178083203451_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk1MTY0NjQ5NDIwOTc5NjMzMDE4NjE5MzQ2NDc2MDE3MTUz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=gY4lTyY7VToQ7kNvwEvr-NQ&_nc_oc=AdpRhiKb4CoD10R0erxkTq1AegAJP-lKHm4_POVZnV869ZYj4puoyYBTY7JGo9LsL08OTFJzrm4mnYMCmdxWVKVv&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd12-1.fna&_nc_gid=h1y_HgbyNM9JtJGW-55v3w&_nc_ss=7a22e&oh=00_AQEgX7kYyLMzv65sT5VIzB2kN-4wjIDUB5oJMFcVdTrbPQ&oe=6A96E5E0",
+      "thumbnail": "https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.82787-15/760441899_18619346482017153_588640178083203451_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MTY0NjQ5NDIwOTc5NjMzMDE4NjE5MzQ2NDc2MDE3MTUz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=gY4lTyY7VToQ7kNvwGwQStS&_nc_oc=AdoVxVf0Osqy9yr64mMkUYXEp3qOUr1TfO5_pkpjQL3iZ3L02NnrAuXFn6m-BYAFcDk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd3-1.fna&_nc_gid=5lltHsa3izb2H-cq2_OVQg&_nc_ss=7a22e&oh=00_AQLGML1JLOGJl1pWhLrcIOEzs5l11qZJSvv-h9BNQ_uiyg&oe=6A983760",
       "caption": "3명처럼 보이지만 4명이서 해야 찐 완성임⭐️\n\n박자쪼개기 제대로 안한 수박언니와\n물 속 클럽(?)만 열면 춤추다 도망가는 망내\n그리고 머리만 붙잡고 있었을 뿐인데\n수모 벗김 오해를 받은 톨쌤...🫶\n\n내가 너무 격하게 흔들어서 벗겨졌구나...?!👀\n\n오늘은 또 뭐하고 놀지!!!!\n뭐하고 놀지이!!!!나랑 같이 물에서 놀사람💖\n\n수영복 - 라세린 미스틱 레드 XS\n수모 - 유즈풀 반다나 러블리본 \n마스크 - 유즈풀오로라마스크 핑크\n\n👙 @laserin_swim \n🤿 @usepool_official \n🎥 @drop_the_diving",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -176,8 +176,8 @@
         "n": 10,
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01926481307924607,
         "vs_baseline": 1.0679627852642997,
@@ -194,9 +194,11 @@
           "one_liner": "평소대비 0.85x로 기준 미달이나 조회당 1.4원·참여당 178원의 효율적 비용 구조로 손실 리스크는 낮은 수준.",
           "days": 14,
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
-        }
+        },
+        "final_verdict": "조회수 25,598회·참여율 1.93%는 팔로워 9,603명 규모 계정 기준으로 평균적인 수준이며, 평소 대비 1.07배로 협찬 게시물임에도 유의미한 바이럴 리프트는 발생하지 않았다. 다만 조회 1회당 비용 1.3원, 참여 1건당 173원은 소규모 인플루언서 협찬 시장에서 비교적 효율적인 단가이며, 상품 가액 64,000원으로 25,000회 이상의 노출을 확보한 점은 비용 대비 브랜드 인지도 측면에서 나쁘지 않은 결과다. 단, 댓글 24개에 그쳐 실질적 구매 전환이나 커뮤니티 반응 유도 효과는 제한적으로 보이므로, 재협찬 시 콘텐츠 방향성(다이빙·수영 상황 연출 강화)과 CTA 명확화를 조건으로 걸어 전환율을 보완할 필요가 있다.",
+        "final_at": "2026-08-29T12:06:27.647284+09:00"
       },
-      "last_written_reaction": "조회 25,598 · 좋아요 161 · 댓글 24 · ER 1.9% · 평소대비 1.1x (D+30)"
+      "last_written_reaction": "조회 25,598 · 좋아요 161 · 댓글 24 · ER 1.9% · 평소대비 1.1x (확정)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-8370-b524-01b6078d3729",
@@ -388,7 +390,7 @@
         "captured_at": "2026-08-18T06:28:59.912384+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.017702801207955848,
         "vs_baseline": 0.7657657657657657,

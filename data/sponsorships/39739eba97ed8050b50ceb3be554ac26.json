@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-8050-b50c-eb3be554ac26",
   "row_title_raw": "*pink._0mermaid",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-25T05:18:32.000Z",
       "permalink": "https://www.instagram.com/p/Dcc3G2ugYf4/",
-      "thumbnail": "https://instagram.fhnd2-1.fna.fbcdn.net/v/t51.71878-15/784664954_28189076700723963_2211145308426339129_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3MTI5MTMzNTA3MTIwNTM2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-ehGCP5fcyEQ7kNvwFJuu_t&_nc_oc=Adraa1bw7Fi3PQsZG_wyvMPzQtwM44trwXlrfy8k1MkSKt-Jz1G54TWyj66-9-rFudw&_nc_ad=z-m&_nc_cid=1700&_nc_zt=23&_nc_ht=instagram.fhnd2-1.fna&_nc_gid=5iHnHNp8qpGa62o_O59PuQ&_nc_ss=7a22e&oh=00_AQFfB-t4KjVxN1g1UPzsXYogS-G9QsgE9Py87iVoxQlbdA&oe=6A96D5D6",
+      "thumbnail": "https://scontent-mrs2-3.cdninstagram.com/v/t51.71878-15/784664954_28189076700723963_2211145308426339129_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3MTI5MTMzNTA3MTIwNTM2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1gEssBEjJgkQ7kNvwG7dRSc&_nc_oc=AdpCALunPpePvoQfWka8gEnsrSzprUa3KbvaGZBonxXdvqEqEyg99GLOYTrZWbinup8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_gid=Q9Ni5fXBRgGIFoCrAuDHng&_nc_ss=7a22e&oh=00_AQLQTBpiFgkOIUHGPz8o-mUOosUmVBoGjLdBKhfCPppIiQ&oe=6A982756",
       "caption": "🤿🤿🤿\n마스크 추천😎\n\n핑크핑크 한 디자인이 너무 이쁜 마스크 추천💫\n코가 말랑말랑해서 이퀄 하기도 너무 좋고 \n시야도 넓어서 물놀이 할때 너무 좋아요💕\n무엇보다 물 속에서 굴욕 없이 얼굴도 너무 이뻐보이게 해주는 마스크 왕왕 추천드림💪💪\n게다가 스노클은 잃어버릴 걱정 없이 물에 둥둥 뜬다구요🫧\n\n이번주도 물놀이 가는데 1등으로 챙겨갑니당😘\n\n@intotheblue_store #프리다이빙마스크\n\n#제품제공 #인투더블루 #딥바이브 #마스크추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "pink._0mermaid",
       "metrics": {
-        "views": 4437,
-        "likes": 71,
+        "views": 4490,
+        "likes": 73,
         "comments": 10
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -54,23 +54,36 @@
           "views": 4437,
           "likes": 71,
           "comments": 10
+        },
+        {
+          "d": "2026-08-29",
+          "views": 4490,
+          "likes": 73,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": 3812.0,
         "eng_median": 165.5,
         "n": 4,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.02587859424920128,
-        "vs_baseline": 1.1639559286463799,
-        "cost_per_eng": 635.8024691358024,
-        "cost_per_view": 11.606941627225602
+        "er": 0.026517571884984027,
+        "vs_baseline": 1.1778593913955928,
+        "cost_per_eng": 620.4819277108434,
+        "cost_per_view": 11.469933184855234
       },
-      "last_written_reaction": "조회 4,437 · 좋아요 71 · 댓글 10 · ER 2.6% · 평소대비 1.2x (D+2)"
+      "last_written_reaction": "조회 4,490 · 좋아요 73 · 댓글 10 · ER 2.7% · 평소대비 1.2x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.18x 조회로 소폭 상회하나, 팔로워 3천대 소규모 계정에서 참여당 620원·조회당 11.5원은 비용 효율이 낮아 3일 차 단계에서 아직 긍정 판단은 이르다.",
+          "days": 3,
+          "analyzed_at": "2026-08-29T12:06:27.647284+09:00"
+        }
+      }
     },
     {
       "notion_row_id": "ab039eba-97ed-8376-9920-01af1cafbc40",
@@ -226,7 +239,7 @@
         "captured_at": "2026-08-12T06:52:47.460628+09:00"
       },
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
         "er": 0.034185303514377,
         "vs_baseline": 0.7615658362989324,
@@ -260,5 +273,5 @@
   },
   "child_db_id": "e5039eba-97ed-82ce-81b4-818fb77029d4",
   "followers": 3130,
-  "last_written_score": 96
+  "last_written_score": 97
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T11:05:00.000Z",
       "permalink": "https://www.instagram.com/p/DbVY_XLzKH7/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/758518285_18614421091051912_6770263052531385093_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk1MTE3NDE1NTQyNDgwMTI3NTE4NjE0NDIxMDg1MDUxOTEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=wlC5Ic5yX9wQ7kNvwGx_SDE&_nc_oc=AdphtAZLWyx8ZUU-YHsaB6xA1ChabCpE1smZ5dv_pnWve5rB6uANZ1MXSmdnTWNXOVJ8k72wWtxQO_FF97I-7Yrl&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=Ts5rJqiJnBcUQPYPB--8pA&_nc_ss=7a22e&oh=00_AQG6-e1dUfn9uWvn_TquZupx0On9lNWXhcRcFFNkZAAF8Q&oe=6A96D533",
+      "thumbnail": "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/758518285_18614421091051912_6770263052531385093_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk1MTE3NDE1NTQyNDgwMTI3NTE4NjE0NDIxMDg1MDUxOTEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QXgXRlJ6RYcQ7kNvwF-uF7M&_nc_oc=AdowtHdufBnEwcAFtdXJj0eTgaksDthc_FF466sxT72ndo6OzhTPPU2e6Tl_jXxqKD0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fymq3-1.fna&_nc_gid=ZQ388hlvKPRMvGhtg5Vn7g&_nc_ss=7a22e&oh=00_AQK69nwU1oS7RqwDbKmhHzvqSbFyWYOcJAt4S5MzbgStfg&oe=6A9826B3",
       "caption": "내 수중사진이 예쁜이유 ,,💛\n시야각 넓고 코도 말랑해서 이퀄하기도 좋고 호흡하기도 편한 마기꾼 가능 스노클마스크 👉🏻 #고고젤로마스크 #에어로스노클 \n\n#인투더블루  #프리다이빙마스크 #딥바이브",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -218,15 +218,15 @@
           "comments": 2
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.00012313754463735992,
         "vs_baseline": 4.837423312883436,
         "cost_per_eng": 51500.0,
         "cost_per_view": 8.164235890932149
       },
-      "last_written_reaction": "조회 6,308 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 4.8x (D+30)",
+      "last_written_reaction": "조회 6,308 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 4.8x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "조회 3,254회·참여 1건으로 조회당 비용 15.8원은 수용 가능하나, 팔로워 대비 참여율 0.01%는 극히 저조해 협찬 효율이 우려됨.",
@@ -237,7 +237,9 @@
           "one_liner": "조회수는 평소 대비 4.36배로 양호하나, 좋아요 -1·댓글 2건으로 참여율 0.01%에 그쳐 1건당 비용 51,500원은 협찬 효율로 보기 어렵다.",
           "days": 14,
           "analyzed_at": "2026-08-12T06:52:47.460628+09:00"
-        }
+        },
+        "final_verdict": "조회수 6,308회는 팔로워 대비 77% 수준으로 릴스 도달 자체는 나쁘지 않으나, 좋아요가 사실상 0(−1)·댓글 2건에 그쳐 팔로워 대비 참여율 0.01%는 업계 최저 수준에 해당한다. '평소 대비 4.84×'라는 수치는 베이스라인 n=3으로 신뢰도가 낮고, 절대적인 참여 총량(3건)이 너무 적어 브랜드 인지나 구매 유도 효과는 거의 없었다고 판단된다. 참여 1건당 비용 51,500원·조회 1회당 비용 8.2원을 고려하면, 103,000원 상품 가액 대비 실질적인 마케팅 ROI는 낮아 비용 대비 가치가 없었던 협찬으로 평가된다.",
+        "final_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "baseline": {
         "views_median": 1304,
@@ -454,7 +456,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.020933382588351188,
         "vs_baseline": 1.1111111111111112,

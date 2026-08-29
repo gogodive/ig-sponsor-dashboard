@@ -25,7 +25,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T12:49:39.000Z",
       "permalink": "https://www.instagram.com/p/DbVjhMjvZ77/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/757969573_18401468293080035_6104145416152159134_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk1MTIyMDQ2MDk0MjYzMDY1MTE4NDAxNDY4MjkwMDgwMDM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=3-KayTQYJKAQ7kNvwFJRYnC&_nc_oc=Adomaw78Nm-tG-pq4mlAsu3ltroxvmRQn2JvwKB8qsKX7Hfk4TlvKtXGYWRAJWC-RZU0W1bDv9qJh3_C2s_m319J&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=jk4gTt5zzgtF2biESL1gOw&_nc_ss=7a22e&oh=00_AQFu3WFWIyi5Sjr3oOn-T1T7gNGy1ZukiB88g0DRaS2gIA&oe=6A96D49A",
+      "thumbnail": "https://instagram.fyqm1-1.fna.fbcdn.net/v/t51.82787-15/757969573_18401468293080035_6104145416152159134_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MTIyMDQ2MDk0MjYzMDY1MTE4NDAxNDY4MjkwMDgwMDM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=RqgSYn-Aa3YQ7kNvwEDSWOa&_nc_oc=AdqCuI8srHaPbCtORlsSpBkYDiL1cT6uQTT_ApCHoDqcTplGr3g0oNLz9CXhsTt-XY1-Wv3SWXFBQ-03-aVHxR78&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyqm1-1.fna&_nc_gid=xfrheUYEGudwBxMtP7h3Rw&_nc_ss=7a22e&oh=00_AQKudhZHGboMmBP6yK3LJN-0DUQUs2CkfBC-hUPf-5Mu9w&oe=6A98261A",
       "caption": "💎 윤슬 에메랄드 더블 크로스백 #제품제공\n\n지나가던 남성분이 \n수영복 완전 내스타일이다💙라고 한건 안비밀\n\n햇빛 아래서는 맑고\n물속에서는 더욱 깊게 빛나는 에메랄드 컬러🩵\n탄탄한 원단이 몸을 안정감 있게 잡아주면서도 \n움직임은 편안해요\n\n저는 153.4cm / 40kg 이고\n라세린 원단이 탄탄한 편이라 S사이즈를 선택했어요.\n(성향이 꽉 맞는걸 좋아하지 않아서🤭)\n\n✨ 물속에서 가장 빛나는 수영복, LASERIN\n인데 물밖부터 빛나요\n\n물속영상도 곧 데려올게요오😃\n\n@laserin_swim\n\n#라세린 #LASERIN #수영복추천 ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,15 +224,15 @@
         "n": 10,
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.09536692593845113,
+        "er": 0.09523809523809523,
         "vs_baseline": 1.5724415282040427,
         "cost_per_eng": 280.1418439716312,
         "cost_per_view": 10.634001884506663
       },
-      "last_written_reaction": "조회 7,429 · 좋아요 243 · 댓글 39 · ER 9.5% · 평소대비 1.6x (D+30)",
+      "last_written_reaction": "조회 7,429 · 좋아요 243 · 댓글 39 · ER 9.5% · 평소대비 1.6x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.49배 조회·참여율 8.4%로 양호한 초기 반응, 참여당 321원·조회당 11.5원은 팔로워 규모 감안 시 합리적 수준.",
@@ -243,7 +243,9 @@
           "one_liner": "평소 대비 1.56배 조회에 참여율 9.07%로 준수하나, 참여당 296원·조회당 10.9원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
           "days": 14,
           "analyzed_at": "2026-08-12T06:52:47.460628+09:00"
-        }
+        },
+        "final_verdict": "팔로워 9.52%의 참여율은 소규모 계정 평균(3~5%)을 크게 웃돌고, 평소 게시물 대비 1.57배의 조회 성과는 협찬 콘텐츠임에도 자연스러운 확산이 이뤄졌음을 보여준다. 참여 1건당 280원, 조회 1회당 10.6원은 인플루언서 마케팅 단가 기준으로 매우 효율적인 수치로, 7만 9천 원의 상품 가액 대비 비용 효율은 충분히 긍정적이다. 다만 절대 도달 규모(조회 7,429회)는 제한적이므로 브랜드 인지 확대보다는 소규모 타깃 밀착형 채널로서의 가치에 집중해 재협찬 여부를 판단하는 것이 적절하다.",
+        "final_at": "2026-08-29T12:06:27.647284+09:00"
       }
     }
   ],
@@ -254,6 +256,6 @@
     "account_unavailable": false
   },
   "child_db_id": "8dd39eba-97ed-8208-8383-8164472e84df",
-  "followers": 2957,
+  "followers": 2961,
   "last_written_score": 157
 }

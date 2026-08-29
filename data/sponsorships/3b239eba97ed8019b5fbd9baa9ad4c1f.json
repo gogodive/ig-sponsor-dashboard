@@ -25,16 +25,16 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-16T12:48:28.000Z",
       "permalink": "https://www.instagram.com/p/DcGf9n2FOg2/",
-      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XFafnCP29lsQ7kNvwGBoA6R&_nc_oc=Adq1vvxkfE_0mmqkRfQ-TWOUjd8_JQ87DyAvZsEdkewIp8PjzkiH3M2GVKEm2q3T8onxGC2CdixckUmmTTuJ5rx1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_gid=kcCO1YhofUIhgcG0rMsc3w&_nc_ss=7a22e&oh=00_AQHQBKSKqGYrWlnXtHZydbIMKSDd7H_JUAsDl0yCFPDzQg&oe=6A96E7D1",
+      "thumbnail": "https://instagram.ftrn5-1.fna.fbcdn.net/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XFafnCP29lsQ7kNvwHOGrqQ&_nc_oc=AdqNm-n-Cx0Q5ZapeaKImduexJPPkFJbmNjMpPjtgj92iAzwXn09GOflIYEy1Fp8nW0&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.ftrn5-1.fna&_nc_gid=SffPE7wsGSirCRRPWUJPkA&_nc_ss=7a22e&oh=00_AQLMzpE9psyt5WYalZVLJ_0zRorCavIXurHJebR6PuuOow&oe=6A983951",
       "caption": "#제품제공 \n🍑라세린표 물복 떴다-!🍑\n쿨톤 탄피부에도 만족스러웠던 물복 색감..🫶🏽\n핑크+레드+옐로우 피치 그라데이션 톤이\n물 잔뜩 머금은 과즙팡팡 복숭아 색감 그자체••🍑\n여름엔 또 영롱한 빤딱 셩복 입어줘야 하잖아오🙂‍↕️\n\n어깨~등 쑉 잡아주는 더블크로스 백타입-‧₊˚ ✌🏽\n스트랩이 치즈 같이 쫀쫀해서 오래 입어도 편안〰\n유교걸도 부담없는 미들컷+넉넉 엉천 :)\n\n༶ LASERIN Soft Peach(s) ༶\n₊˚ 부담없는 높은 가슴선 / 미들컷 \n₊˚ 비침 없는 흰 안감 두겹 수영복\n₊˚ 더블 크로스 백타입\n₊˚ 브라고리 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "mul.bbang.gae",
       "metrics": {
-        "likes": 259,
+        "likes": 260,
         "comments": 58
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -89,20 +89,26 @@
           "views": null,
           "likes": 259,
           "comments": 58
+        },
+        {
+          "d": "2026-08-29",
+          "views": null,
+          "likes": 260,
+          "comments": 58
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 251.5,
         "n": 12,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.10150496317643291,
-        "vs_baseline": 1.260437375745527,
-        "cost_per_eng": 217.66561514195584,
+        "er": 0.10182516810758886,
+        "vs_baseline": 1.2644135188866799,
+        "cost_per_eng": 216.9811320754717,
         "cost_per_view": null
       },
       "analysis": {
@@ -112,7 +118,7 @@
           "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
         }
       },
-      "last_written_reaction": "좋아요 259 · 댓글 58 · ER 10.2% · 평소대비 1.3x (D+11)"
+      "last_written_reaction": "좋아요 260 · 댓글 58 · ER 10.2% · 평소대비 1.3x (D+12)"
     }
   ],
   "flags": {

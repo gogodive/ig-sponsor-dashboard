@@ -25,21 +25,27 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-17T14:30:43.000Z",
       "permalink": "https://www.instagram.com/p/DcJQdXPmpcs/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IxoPuUMSvJIQ7kNvwG4adxi&_nc_oc=AdpEImcxE6oQDwp7jS1PIi5g0FJBREGdujt7D05XDxt9Yo9QFSjjBThQGiwmZC6UgJo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=oRS8yNkr1gTpKoL65jLzGw&_nc_ss=7a22e&oh=00_AQHwow4XlPu-OHFhfs9dDwLoNyR-jWCKkphLXRrqtkY-Gw&oe=6A96D6A8",
+      "thumbnail": "https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IxoPuUMSvJIQ7kNvwHI6DXB&_nc_oc=Adr0DFI71zYC1agy3Wcs78qyRC4BnnNedStSURrF4-IYyzNObIV87y2xXTDzi8AqIs2BBKSCllt5GpEx5DMalkaI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyyz1-1.fna&_nc_gid=Gs4zg5o1zp_1dVF05uzXPA&_nc_ss=7a22e&oh=00_AQKYwcUEeJKSRlF2aC3w69Ieo9uxmwRqKiHcMh1x92TueQ&oe=6A982828",
       "caption": "프리다이빙을 하면 \n스노쿨링을 사랑할 수 밖에 없어 ⋆ 🪼ྀི ⋆ *광고\n\n역시 수영복은 르망고에\n인투더블루 롱핀까지.. 완벽 조합 아닌가요 🫧\n\n래쉬가드는 색감이랑 핏이 너무 예쁘고\n롱핀은 깊은 곳에서도 안정감있게 놀기 편하답니다 🏊🏻\n\n• 인투더블루 | 딥바이브 크리스탈 롱핀 | 실버 \n\n#스노쿨링 #르망고 #인투더블루 #딥바이브 #딥바이브롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "j_hyun110",
       "metrics": {
-        "likes": 550,
+        "likes": 555,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-28",
           "views": null,
           "likes": 550,
+          "comments": 21
+        },
+        {
+          "d": "2026-08-29",
+          "views": null,
+          "likes": 555,
           "comments": 21
         }
       ],
@@ -47,14 +53,14 @@
         "views_median": null,
         "eng_median": 348,
         "n": 11,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
-        "er": 0.049725681442131846,
-        "vs_baseline": 1.6408045977011494,
-        "cost_per_eng": 462.34676007005254,
+        "er": 0.05016110772446225,
+        "vs_baseline": 1.6551724137931034,
+        "cost_per_eng": 458.3333333333333,
         "cost_per_view": null
       },
       "analysis": {
@@ -64,7 +70,7 @@
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
         }
       },
-      "last_written_reaction": "좋아요 550 · 댓글 21 · ER 5.0% · 평소대비 1.6x (D+10)"
+      "last_written_reaction": "좋아요 555 · 댓글 21 · ER 5.0% · 평소대비 1.7x (D+11)"
     }
   ],
   "flags": {
@@ -75,5 +81,5 @@
   },
   "child_db_id": "3af39eba-97ed-8310-b26c-0112b1d738cd",
   "followers": 11483,
-  "last_written_score": 164
+  "last_written_score": 166
 }

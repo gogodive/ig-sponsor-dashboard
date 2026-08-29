@@ -25,7 +25,7 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-07-31T11:45:46.000Z",
       "permalink": "https://www.instagram.com/p/DbdMEWWGp_b/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/760242124_17893311366572019_7346599121960208806_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk1MzM2NTM2ODUwODc4MzI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qtXivCgpmWgQ7kNvwGPuTn_&_nc_oc=AdpsXG9H9gA724wJOGhURZg4HIT5SRXMqgkBgrGzvl0tnGDESRY_gdzV02WE1F2RbEk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=7UXtyroBmSo6u-ntqzrTgg&_nc_ss=7a22e&oh=00_AQFK7PsdEDfYw_YG_qMsK09jNF7Ksj-dxxegNtjaAf26Sw&oe=6A96E1D2",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/760242124_17893311366572019_7346599121960208806_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk1MzM2NTM2ODUwODc4MzI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qtXivCgpmWgQ7kNvwFiZwfr&_nc_oc=Adrnflpk112E0DlFaQ8RQuUQlOHgKvLkPWQ9ngALTHVRJDGFBwCwwkUjKjDb3a8h7CU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=39XMTmzhuoz2WXk_WSqgZg&_nc_ss=7a22e&oh=00_AQId2Mx_B8HSTeY3piZaWsaWmFYfTsvbjNBTJcJ0T3VHaw&oe=6A983352",
       "caption": "🩵🧜🏼‍♀️🐬\n#고고다이브 \n\n‘물속에서 느끼는 평온함‘🫧\n\n너무 즐거웠던 나의 첫 프리다이빙 !\n예쁜 사진들을 남겨주셨다 🥹\n\n다음 수업때는 좀 더 잘해봐야지 😇\n\n올 여름 모두 프리다이빙의 매력속으로..\n같이 빠져보실래여?? 😆\n\n🔎프리다이빙 강습은\n@gogodive \n\n📌예쁜사진을 남겨주신 강사님🫶🏻\n@hoo__yaaaaa \n\n#프리다이빙 #프리다이빙강습 #프리다이빙입문",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 111,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -179,19 +179,25 @@
           "views": null,
           "likes": 111,
           "comments": 6
+        },
+        {
+          "d": "2026-08-29",
+          "views": null,
+          "likes": 111,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 239,
-        "n": 5,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "eng_median": 256,
+        "n": 7,
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
-        "er": 0.024208566108007448,
-        "vs_baseline": 0.4895397489539749,
+        "er": 0.0242788960365221,
+        "vs_baseline": 0.45703125,
         "cost_per_eng": 1666.6666666666667,
         "cost_per_view": null
       },
@@ -207,7 +213,7 @@
           "analyzed_at": "2026-08-15T06:28:26.204907+09:00"
         }
       },
-      "last_written_reaction": "좋아요 111 · 댓글 6 · ER 2.4% · 평소대비 0.5x (D+27)"
+      "last_written_reaction": "좋아요 111 · 댓글 6 · ER 2.4% · 평소대비 0.5x (D+28)"
     },
     {
       "notion_row_id": "07439eba-97ed-83dd-8f90-819f515619fd",
@@ -218,7 +224,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T11:50:01.000Z",
       "permalink": "https://www.instagram.com/p/DbVcUZ5TvG0/",
-      "thumbnail": "https://scontent-gru2-1.cdninstagram.com/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk1MTE4ODc5NTU4NDM0NDUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cXXEo6fCrZQQ7kNvwFZV7cA&_nc_oc=AdpzxUG60TxuLW3j1oxvHJe5Ia9WucdN1FdT-8NcabSpzyY76uHpK9TfJFLBiPn37vU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_gid=dE4oroLpyKSwU-BuQ5Zt3Q&_nc_ss=7a22e&oh=00_AQEI0V2NpiClCfkjSOUN_hQufe9tg5fyoqUrNPv4nMLaAQ&oe=6A96E072",
+      "thumbnail": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/755868131_2269551407148490_3213785681917071699_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk1MTE4ODc5NTU4NDM0NDUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cXXEo6fCrZQQ7kNvwEUEf8T&_nc_oc=AdqAsGfiog8xH7RQIeNH5XUEc4zE6umPSX2zMsidgEJn_gFVmoYq_0K_GppbgzHRzP1n0LfPyuvbf_-1Jkdxapu7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=mHJMmybPelJxF0_QVCMbSg&_nc_ss=7a22e&oh=00_AQILSHkdUkWuj_rIuUnL3u6ce3BAsJLGfY8vki8rnad1Rw&oe=6A9831F2",
       "caption": "🩵💦🤿🧜🏼‍♀️협찬\n@gogodive \n\n수영할줄 안다고 쉽게봤다가\n코만 열심히 쥐어짜고 옴!👃💥\n\n수영 잘하면\n프리다이빙도 껌일 줄 알았던 과거의 나,\n반성해라... 😇\n\n물 안 무서워하는 거랑\n5m 내려가는 건 완전히 별개였다..헤헿\n\n1️⃣ 프리이멀전\n내 귀가 내 말을 안 들음. 3m 내려갔나?\n귀 찢어질 거 같아서 중도 하차 😭 (최고 난이도)\n\n2️⃣ 덕다이빙\n몸 쓰는 건 수영 짬바로 어찌저찌 잘 꺾었는데... \n네, 역시나 이퀄라이징 벽에 막혀 5m 실패 📉\n\n3️⃣ 다이나믹 \n와.. 이거 하려고 프다하는구나!!\n수평으로",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -417,15 +423,15 @@
         "n": 11,
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.02813987171529071,
+        "er": 0.02822162274330774,
         "vs_baseline": 1.9890965732087227,
         "cost_per_eng": 1433.8235294117646,
         "cost_per_view": 21.814520639892606
       },
-      "last_written_reaction": "조회 8,939 · 좋아요 118 · 댓글 18 · ER 2.8% · 평소대비 2.0x (D+30)",
+      "last_written_reaction": "조회 8,939 · 좋아요 118 · 댓글 18 · ER 2.8% · 평소대비 2.0x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.67x로 저조한 출발—참여 1건당 3,611원·조회당 77.7원은 팔로워 규모 대비 비용 효율 개선이 필요하다.",
@@ -436,7 +442,9 @@
           "one_liner": "평소 대비 1.72배 조회로 준수한 확산력을 보이나, 참여 1건당 1,466원·조회당 26.5원은 팔로워 5천 미만 계정 기준 비용 효율 개선 여지가 있음.",
           "days": 14,
           "analyzed_at": "2026-08-12T06:52:47.460628+09:00"
-        }
+        },
+        "final_verdict": "팔로워 4,819명의 소규모 계정임에도 평소 대비 1.99배의 조회수를 기록하며 콘텐츠 자체의 확산력은 양호한 편이나, 절대 조회수 8,939회·참여율 2.82%는 니치 다이빙·수영 타깃 내 적정 수준에 머문다. 조회 1회당 비용 21.8원은 마이크로 인플루언서 기준으로 다소 높은 편이며, 참여 1건당 1,434원 역시 브랜드 인지 확대보다 전환 유도 목적이라면 효율이 제한적이다. 결론적으로 상품 가액 39만 원 대비 도달·참여 규모가 크지 않아 비용 효율성은 보통 이하로 평가되며, 차기 협찬 시에는 팔로워 수 대비 저변동 계정보다 평소 조회수 베이스가 더 높은 계정을 우선 검토할 것을 권장한다.",
+        "final_at": "2026-08-29T12:06:27.647284+09:00"
       }
     }
   ],
@@ -447,6 +455,6 @@
     "account_unavailable": false
   },
   "child_db_id": "15539eba-97ed-8298-b9ca-01716c7f563b",
-  "followers": 4833,
-  "last_written_score": 124
+  "followers": 4819,
+  "last_written_score": 122
 }

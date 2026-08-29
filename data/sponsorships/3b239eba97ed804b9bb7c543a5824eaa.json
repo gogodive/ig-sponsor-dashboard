@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-14T08:07:53.000Z",
       "permalink": "https://www.instagram.com/p/DcA2QzSD7oy/",
-      "thumbnail": "https://instagram.fbne10-1.fna.fbcdn.net/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vouGGvAxAX4Q7kNvwHBWrHG&_nc_oc=AdrVsbaRXJw45_RjgtqfWsTQjy3IH_txlc5i8okUSsDyBd-DRk-ItzxEjUNw5gp7_WM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbne10-1.fna&_nc_gid=KhcmukvzOdpN8bkjjBojRw&_nc_ss=7a22e&oh=00_AQGVMnUXLfELeIOUUZiVhuZsKQ9_VRIAMlFs3a6kTcv7pw&oe=6A96F359",
+      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1e2Gbt60wcQQ7kNvwHWS8Ir&_nc_oc=AdqfPYLASrqskvMR2JGZ3kRATv-NWDkQmzAPpIjBeH3SAWGJNhHRzYs3mD2Feabz9sM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=hw9549dh6L4xPuFgcJI9PA&_nc_ss=7a22e&oh=00_AQLR_b__nr2jTiK9WpuIfeAruvluEZ43FGB3MdpR9MBiaw&oe=6A980C99",
       "caption": "산청 여름방학🍉🍃⛱️👙💙\n\n다합패밀리들(찐가족2)과 함께한 행복했던 여름방학💗\n\n이 특별한 여정에 나으ㅣ 최애 수영복👙\n블링블링 너무 예쁜 @laserin_swim 신상과 함께…💕\n\n시원해지니까 좋은데 시렁😭\nㅇㅕ름ㅇㅏ 가지마 나랑 놀ㅇㅏ✨\n\n👙 @laserin_swim \n🕶️ @ballonblanc_life \n📸 @jin__dalrae",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-08-28T14:09:22.597852+09:00",
+      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -77,16 +77,22 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-08-29",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 13.5,
         "n": 8,
-        "captured_at": "2026-08-28T14:09:22.597852+09:00"
+        "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0007900142202559646,
         "vs_baseline": 0.7407407407407407,
@@ -98,9 +104,14 @@
           "one_liner": "평소 대비 0.74x 저조한 참여율(0.08%)에 건당 비용 6,900원으로, 현시점 투자 효율이 미흡하며 추가 모니터링이 필요합니다.",
           "days": 7,
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.74x의 저조한 참여율과 건당 6,900원의 높은 비용으로, 현 시점 성과는 기대치를 하회하는 수준입니다.",
+          "days": 14,
+          "analyzed_at": "2026-08-29T12:06:27.647284+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+13)"
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+14)"
     }
   ],
   "flags": {
