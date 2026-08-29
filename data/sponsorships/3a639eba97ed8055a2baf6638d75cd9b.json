@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-07-29T07:17:19.000Z",
       "permalink": "https://www.instagram.com/p/DbXjwf_Ew2q/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/757921581_18607404775025490_1782536081465584443_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk1MTc4MzE3Mzk5NDUyODA3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzQ5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MQwOPiOIR4sQ7kNvwHnEP4D&_nc_oc=Ado8iYVagt2nmfa63OoioFpwPbyo5ADltIPWE-jeTys-BVskEge2LLkQCxmI-Gvr3r9esE-XaX2sQhiddlcPWdXT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=W1l9IHm86hSWTSTfj2I3xw&_nc_ss=7a22e&oh=00_AQKDfL1COkdbGlnFCLlM6vTGY_7HZpbEbs5xfPj4Rxi5_w&oe=6A9828A9",
+      "thumbnail": "https://instagram.fosu2-1.fna.fbcdn.net/v/t51.82787-15/757921581_18607404775025490_1782536081465584443_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk1MTc4MzE3Mzk5NDUyODA3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzQ5Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MQwOPiOIR4sQ7kNvwGJYBJI&_nc_oc=AdosDyex_h4LfZgEGEy6u3PAWytTEqwQ0Vdb1uIOH1ZdxW6VpuZWTYGNv4rSqPpgWZlFP_E5wk4jvSstpO4RGRlo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fosu2-1.fna&_nc_gid=miV59VivfESUegay-AYZRg&_nc_ss=7a22e&oh=00_AQKgBHuTYuLoLRREZ2VV_4yZOgeUv6zH_nuF2K4skeLjDw&oe=6A9941E9",
       "caption": "편안한데 라인까지 예쁜 운동복.\n운동도, 일상도 자연스럽게 함께하는 시크릿스✨\n\n📏 165cm / 48kg\nTop S / Leggings M\n👚@secrets__fit",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -175,10 +175,10 @@
         "n": 12,
         "captured_at": "2026-08-29T12:06:27.647284+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.06414492423379287,
+        "er": 0.06366377685638899,
         "vs_baseline": 3.478887744593203,
         "cost_per_eng": 49.733570159857905,
         "cost_per_view": null
@@ -193,9 +193,11 @@
           "one_liner": "평소 대비 3.71배 참여를 이끌며 참여 1건당 59원의 효율적 비용으로 협찬 효과가 뚜렷하게 나타나고 있음.",
           "days": 14,
           "analyzed_at": "2026-08-13T06:51:01.340461+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 6.37%는 인스타그램 평균(1~3%)의 2배 이상으로 매우 우수하며, 평소 게시물 대비 3.48배의 인게이지먼트를 기록해 협찬 콘텐츠임에도 팔로워 반응이 높았음을 확인할 수 있다. 참여 1건당 비용이 50원으로 극히 낮고, 상품 가액 84,000원 대비 총 1,689건(좋아요+댓글)의 유효 참여를 획득해 비용 효율성은 매우 뛰어난 편이다. 피드 게시물 특성상 조회수 집계가 불가해 노출 규모를 정확히 측정할 수 없다는 한계가 있으나, 주어진 지표 범위 내에서 이 협찬은 비용 대비 충분한 가치를 입증했다고 판단된다.",
+        "final_at": "2026-08-30T08:06:50.536958+09:00"
       },
-      "last_written_reaction": "좋아요 1,649 · 댓글 40 · ER 6.4% · 평소대비 3.5x (D+30)"
+      "last_written_reaction": "좋아요 1,649 · 댓글 40 · ER 6.4% · 평소대비 3.5x (확정)"
     }
   ],
   "flags": {
@@ -205,6 +207,6 @@
     "account_unavailable": false
   },
   "child_db_id": "75a39eba-97ed-8366-9261-814987467184",
-  "followers": 26331,
+  "followers": 26530,
   "last_written_score": 348
 }

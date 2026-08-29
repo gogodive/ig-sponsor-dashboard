@@ -25,17 +25,17 @@
       "first_seen": "2026-08-25",
       "posted_at": "2026-08-21T13:45:25.000Z",
       "permalink": "https://www.instagram.com/p/DcTeaFMz-9F/",
-      "thumbnail": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/780580679_18418107754149631_2421275579293213407_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2ODY0OTQzMDMyODkzMDExNzE4NDE4MTA3NzUxMTQ5NjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=DPJGfdYVCGoQ7kNvwG-wnSm&_nc_oc=Adpek0gIqqVqd0puCWhnGplcwFyoElH6VWD92wO9q6IrqPTeNkWAUTt9ppRcP1dw9oRqHYuzg5MqsquMNTtsCQ1Y&_nc_ad=z-m&_nc_cid=3&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=rcVSRDcScV3M00r0bgyiMw&_nc_ss=7a22e&oh=00_AQItt_o2UiJN405ANrROem44SSb3BxQifuC8PZl1gfGDWw&oe=6A9830CC",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/780580679_18418107754149631_2421275579293213407_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2ODY0OTQzMDMyODkzMDExNzE4NDE4MTA3NzUxMTQ5NjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=DPJGfdYVCGoQ7kNvwFZ1U2t&_nc_oc=Adq4qGsNIIYeNboRcCwSHyX360Eo6Rhr49GmNMSDc0_EH-pK280SJEcIVQ36GCXcCA0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=L5CjQEFmfw1G34CZnqns1w&_nc_ss=7a22e&oh=00_AQKKmRK0RPj6_O5_3ac8RlTuAvTO28cZBfuCB1S2dr0mEw&oe=6A994A0C",
       "caption": "-딥바이브 트루화이트 오픈백 프리다이빙 스프링수트 2mm\n화이트라 바다에서 정말 눈에 띄어요. \n오픈백은 부담스러울까 걱정했는데, 생각보다 안정적이고 뒷모습이 정말 예뻐서 인생샷 제조기 그 자체!\n2mm 두께가 딱 적당해서 움직임이 정말 편함\n신축성도 좋고, 몸을 꽉 잡아주는 느낌\n\n프리다이빙 시작하시는 분들이나, 예쁜 수트 찾고 계신 분들에게 추천합니다!\n\n@intotheblue_store\n\r\n#인투더블루 #딥바이브 #딥바이브슈트 #트루화이트슈트",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "jisuda_",
       "metrics": {
-        "views": 5321,
-        "likes": 212,
+        "views": 5384,
+        "likes": 213,
         "comments": 11
       },
-      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
+      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
       "history": [
         {
           "d": "2026-08-25",
@@ -66,21 +66,27 @@
           "views": 5321,
           "likes": 212,
           "comments": 11
+        },
+        {
+          "d": "2026-08-30",
+          "views": 5384,
+          "likes": 213,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": 4478.5,
         "eng_median": 121.0,
         "n": 4,
-        "captured_at": "2026-08-29T12:06:27.647284+09:00"
+        "captured_at": "2026-08-30T08:06:50.536958+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
-        "er": 0.018454154253558425,
-        "vs_baseline": 1.1881210226638383,
-        "cost_per_eng": 580.7174887892377,
-        "cost_per_view": 24.3375305393723
+        "er": 0.018536908308507117,
+        "vs_baseline": 1.2021882326671878,
+        "cost_per_eng": 578.125,
+        "cost_per_view": 24.052748885586926
       },
       "analysis": {
         "d3": {
@@ -89,7 +95,7 @@
           "analyzed_at": "2026-08-25T06:33:18.500073+09:00"
         }
       },
-      "last_written_reaction": "조회 5,321 · 좋아요 212 · 댓글 11 · ER 1.8% · 평소대비 1.2x (D+7)"
+      "last_written_reaction": "조회 5,384 · 좋아요 213 · 댓글 11 · ER 1.9% · 평소대비 1.2x (D+8)"
     },
     {
       "notion_row_id": "82b39eba-97ed-82f7-b2a7-81b1d6e0e129",
@@ -100,7 +106,7 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-13T23:39:42.000Z",
       "permalink": "https://www.instagram.com/p/Db_8GtZE5nx/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/771708842_18416747818149631_5896624631939337328_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzE1MDQ4MTcxOTUwNDk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7E37L-03TksQ7kNvwEJYzKT&_nc_oc=Adq0a9L0XKMnu1fi27np8RwR-3O2H3sPCZdwScxfhEuIu4o-U2qn4UgLGO_fKhpGygs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=eHykbNy27ABn92-k68BBnQ&_nc_ss=7a22e&oh=00_AQJ0pZmUXKJn-pqKnnkJswlrhYi1kDK2alyQXoSRULw1ig&oe=6A981207",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/771708842_18416747818149631_5896624631939337328_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzE1MDQ4MTcxOTUwNDk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=99vc83V1E3AQ7kNvwFazlZY&_nc_oc=Ado_Rd9gKiVHSKpVYy0O5NVskxL_fLQeD0jdRveS_pqXOBhTFA0RvBKcBN120GSfCmc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=MoII3prA-c5qbtjxC04aPA&_nc_ss=7a22e&oh=00_AQJ7-5qgwyDnatI20k2xed_k2U55jMa0XrOY9ZS5U0P39Q&oe=6A992B47",
       "caption": "많은 분들이 물어보셨던 그 수트!🤍\n@intotheblue_store  에서 구매가능하세요\n\n-딥바이브 트루화이트 오픈백 프리다이빙 스프링수트 2mm\n화이트라 바다에서 정말 눈에 띄어요. \n오픈백은 부담스러울까 걱정했는데, 생각보다 안정적이고 뒷모습이 정말 예뻐서 인생샷 제조기 그 자체!\n2mm 두께가 딱 적당해서 움직임이 정말 편함\n신축성도 좋고, 몸을 꽉 잡아주는 느낌\n\n프리다이빙 시작하시는 분들이나, 예쁜 수트 찾고 계신 분들에게 강력 추천합니다!\n\n📍 @maeryo.__ \n #인투더블루 #딥바이브 #딥바이브슈트  #협찬",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -109,7 +115,7 @@
         "likes": 356,
         "comments": 39
       },
-      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
+      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
       "history": [
         {
           "d": "2026-08-19",
@@ -176,13 +182,19 @@
           "views": null,
           "likes": 356,
           "comments": 39
+        },
+        {
+          "d": "2026-08-30",
+          "views": null,
+          "likes": 356,
+          "comments": 39
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 420.5,
         "n": 10,
-        "captured_at": "2026-08-29T12:06:27.647284+09:00"
+        "captured_at": "2026-08-30T08:06:50.536958+09:00"
       },
       "frozen": false,
       "days_since_post": 15,
@@ -215,5 +227,5 @@
   },
   "child_db_id": "5fc39eba-97ed-835f-8875-81403a3d20d2",
   "followers": 12084,
-  "last_written_score": 106
+  "last_written_score": 107
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T14:36:38.000Z",
       "permalink": "https://www.instagram.com/p/Db0qxr2kiLY/",
-      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/767772296_18092355557169046_6879431102547831833_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1OTk3MzI5MDgxMDQxMzQ1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RzqGMT_SL7QQ7kNvwHC81kk&_nc_oc=AdpDDMOVaHbkqu9v042Hf7FhjY5z-VepwPbnYlwhtGaTWHh3TP0rsuMtgO2DNNNiPJ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=KvxnVWh_pY4gZnLpF_itlQ&_nc_ss=7a22e&oh=00_AQLKzD_CIbqKztIxhkYVNFhmA1Rpo7NYVMNqAhy2mHkj8g&oe=6A983BD6",
+      "thumbnail": "https://instagram.ffab1-1.fna.fbcdn.net/v/t51.82787-15/767772296_18092355557169046_6879431102547831833_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1OTk3MzI5MDgxMDQxMzQ1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RzqGMT_SL7QQ7kNvwE-5Bdm&_nc_oc=Adq5Pmr4lv3pcHhIGGMdA7WyU8Yy9Vxbsc_krofnLwK5l6_1aVRlF4blskr8LH2ERO8reQFbxoM-MxM5dmxxewle&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffab1-1.fna&_nc_gid=i9sC40VpyqyX6EmfT43r8w&_nc_ss=7a22e&oh=00_AQId4NFK_2NP6T_Vif7jwaSL71ivxDxNQOC3JaGt3-Sx8g&oe=6A995516",
       "caption": "#제품제공 라세린 딱복 더블크로스 타이백 S\n-\n-\n라세린 영롱빔 딱복이 리뷰입니다. 🍑💖\n쿨톤 다 모이시고 더불어 웜톤도 여기 붙어\n크림 베이스에 마젠타 핑크라 톤그로 🙅🏻‍♀️ \n걍 대한민국 수영인 다 입으세요 ㅎㅎ \n-\n-\n-\n미틀컷이 오랜만이라 간만에 입을 때 허벅지에서\n트위스트 조금 했지만 입고 나니 사이즈 딱 좋았어요.\n더블 크로스 + 타이백이라 안정감 있었고요,\n가슴선은 높고 엉덩이 천 또한 혜자입니다. 🍑\n-\n-\n저는 원래도 캡을 잘 사용하지 않는 편이라,\n요번에도 캡 없이 바로 착용했고 비침 1도 없었습니다.\n그러나",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "orrrn.frog",
       "metrics": {
-        "likes": 54,
+        "likes": 55,
         "comments": 28
       },
-      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
+      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -137,20 +137,26 @@
           "views": null,
           "likes": 54,
           "comments": 28
+        },
+        {
+          "d": "2026-08-30",
+          "views": null,
+          "likes": 55,
+          "comments": 28
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 68.0,
         "n": 10,
-        "captured_at": "2026-08-29T12:06:27.647284+09:00"
+        "captured_at": "2026-08-30T08:06:50.536958+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
-        "er": 0.3037037037037037,
-        "vs_baseline": 1.2058823529411764,
-        "cost_per_eng": 420.7317073170732,
+        "er": 0.3074074074074074,
+        "vs_baseline": 1.2205882352941178,
+        "cost_per_eng": 415.66265060240966,
         "cost_per_view": null
       },
       "analysis": {
@@ -165,7 +171,7 @@
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
         }
       },
-      "last_written_reaction": "좋아요 54 · 댓글 28 · ER 30.4% · 평소대비 1.2x (D+19)"
+      "last_written_reaction": "좋아요 55 · 댓글 28 · ER 30.7% · 평소대비 1.2x (D+20)"
     },
     {
       "notion_row_id": "48139eba-97ed-820b-8967-812096ce9569",
@@ -176,17 +182,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-11T04:21:13.000Z",
       "permalink": "https://www.instagram.com/p/Db4tnp8SYME/",
-      "thumbnail": "https://instagram.fbcn14-1.fna.fbcdn.net/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lN7KHK2R560Q7kNvwGbfl44&_nc_oc=AdpD8VJyHxaVH0uA_a5BDeOoMABhlfHJCLSq4E7pomK2I0VPpaPGpiOuFcnhIcKysF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn14-1.fna&_nc_gid=vZOAIRwu7WkaDWTQzSn4vg&_nc_ss=7a22e&oh=00_AQLdWwaJ20czu7rfNuFkTXafxZFrwaTHFa7cWrYBRX2beg&oe=6A9807BB",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lN7KHK2R560Q7kNvwFqEbL5&_nc_oc=Adq60jAq-h47rYncEYIjFZeED_AIrcCWRbIz4B6J2_WP9cUEaIp_Kd1z4taAbAaKyDc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=32fg2CZW__8L61auZN2xgQ&_nc_ss=7a22e&oh=00_AQIVC5ZZkXXfSdnZS8Sy59bQHkh1jUS-o7pmDduNBf_HNg&oe=6A9920FB",
       "caption": "나도 이런거 함 해보고싶었다네\n겉멋만 잔뜩 들었어 🤦‍♀️💦💦\n\n#수영 #수영을좋아하는이유 #수친자 #수영조아해 #수영인",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "orrrn.frog",
       "metrics": {
-        "views": 5304,
-        "likes": 107,
+        "views": 5336,
+        "likes": 108,
         "comments": 32
       },
-      "metrics_updated_at": "2026-08-29T12:06:27.647284+09:00",
+      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -289,23 +295,29 @@
           "views": 5304,
           "likes": 107,
           "comments": 32
+        },
+        {
+          "d": "2026-08-30",
+          "views": 5336,
+          "likes": 108,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": 4650.5,
         "eng_median": 61.0,
         "n": 8,
-        "captured_at": "2026-08-29T12:06:27.647284+09:00"
+        "captured_at": "2026-08-30T08:06:50.536958+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
-        "er": 0.5148148148148148,
-        "vs_baseline": 1.1405225244597355,
-        "cost_per_eng": 248.20143884892087,
-        "cost_per_view": 6.504524886877828
+        "er": 0.5185185185185185,
+        "vs_baseline": 1.1474035049994624,
+        "cost_per_eng": 246.42857142857142,
+        "cost_per_view": 6.4655172413793105
       },
-      "last_written_reaction": "조회 5,304 · 좋아요 107 · 댓글 32 · ER 51.5% · 평소대비 1.1x (D+17)",
+      "last_written_reaction": "조회 5,336 · 좋아요 108 · 댓글 32 · ER 51.9% · 평소대비 1.1x (D+18)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.34x 조회·참여율 84%로 소규모 계정 치고 초기 반응 양호, 참여 1건당 280원·조회당 7.9원은 효율적인 수준.",
@@ -328,5 +340,5 @@
   },
   "child_db_id": "9ca39eba-97ed-829e-b5d7-011ae7a49724",
   "followers": 270,
-  "last_written_score": 117
+  "last_written_score": 118
 }
