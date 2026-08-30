@@ -25,7 +25,7 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-07-31T11:45:46.000Z",
       "permalink": "https://www.instagram.com/p/DbdMEWWGp_b/",
-      "thumbnail": "https://scontent-gig4-1.cdninstagram.com/v/t51.82787-15/760242124_17893311366572019_7346599121960208806_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk1MzM2NTM2ODUwODc4MzI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GWFRs5LAyaYQ7kNvwHTszz1&_nc_oc=AdqIZkAcOMrfD-oyrZqT49zNYqcIgj7vZISD_Q-poE-8k511rJYMUy2PkHypGOaicLA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gig4-1.cdninstagram.com&_nc_gid=LuHLhzL3mtw6EgvUvI9UVA&_nc_ss=7a22e&oh=00_AQJBE7Y2gktOyGDHMaz9k-l2FeZddCEUkHbSaMYSMpZwIA&oe=6A994C92",
+      "thumbnail": "https://instagram.fmex33-1.fna.fbcdn.net/v/t51.82787-15/760242124_17893311366572019_7346599121960208806_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk1MzM2NTM2ODUwODc4MzI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GWFRs5LAyaYQ7kNvwFNzkSt&_nc_oc=AdoT8PywCfqvaDKIJwohZJLdlB7ZDrCP_NGt2K2ZciuTm79Lxc8jYLjdr9Vvn1Jgzos&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex33-1.fna&_nc_gid=fwkVoRahQfB31CDrOmmKgA&_nc_ss=7a22e&oh=00_AQKFEzlJIVYwNtpEUz49uynED7pS4bNEMQrWLSLLnpO5yA&oe=6A9A9E12",
       "caption": "🩵🧜🏼‍♀️🐬\n#고고다이브 \n\n‘물속에서 느끼는 평온함‘🫧\n\n너무 즐거웠던 나의 첫 프리다이빙 !\n예쁜 사진들을 남겨주셨다 🥹\n\n다음 수업때는 좀 더 잘해봐야지 😇\n\n올 여름 모두 프리다이빙의 매력속으로..\n같이 빠져보실래여?? 😆\n\n🔎프리다이빙 강습은\n@gogodive \n\n📌예쁜사진을 남겨주신 강사님🫶🏻\n@hoo__yaaaaa \n\n#프리다이빙 #프리다이빙강습 #프리다이빙입문",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 111,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
+      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -191,16 +191,22 @@
           "views": null,
           "likes": 111,
           "comments": 6
+        },
+        {
+          "d": "2026-08-31",
+          "views": null,
+          "likes": 111,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 256,
         "n": 7,
-        "captured_at": "2026-08-30T08:06:50.536958+09:00"
+        "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0242788960365221,
         "vs_baseline": 0.45703125,
@@ -219,7 +225,7 @@
           "analyzed_at": "2026-08-15T06:28:26.204907+09:00"
         }
       },
-      "last_written_reaction": "좋아요 111 · 댓글 6 · ER 2.4% · 평소대비 0.5x (D+29)"
+      "last_written_reaction": "좋아요 111 · 댓글 6 · ER 2.4% · 평소대비 0.5x (D+30)"
     },
     {
       "notion_row_id": "07439eba-97ed-83dd-8f90-819f515619fd",
@@ -430,7 +436,7 @@
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.02822162274330774,
         "vs_baseline": 1.9890965732087227,

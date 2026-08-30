@@ -25,16 +25,16 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-16T12:48:28.000Z",
       "permalink": "https://www.instagram.com/p/DcGf9n2FOg2/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XFafnCP29lsQ7kNvwHaUjKC&_nc_oc=Ado7PERO0nL-uPNiFKbOrspmAJnW5jrcqJyeq4QqJ22CWpPsKYjm2xAOgIeFblPiSxU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=WD2zjWhG_Wpr2su0VbJdlw&_nc_ss=7a22e&oh=00_AQI9h_hOT7l-yzxdM7bShUvJKnsfTOcgvXm5Ed04vzrMGg&oe=6A995291",
+      "thumbnail": "https://instagram.fqro2-1.fna.fbcdn.net/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GXGM-aCovaQQ7kNvwHT1Wv4&_nc_oc=AdqcxMwKtKth65HCPR1TqPJF0wNbSLOg26Ofa73HDmJLQ66lPLGRo-_UDSO2q-w4_gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fqro2-1.fna&_nc_gid=m12GGhQqU3-vAP5fu0SSHA&_nc_ss=7a22e&oh=00_AQLdKvcF-7FcvzVLxS0qmT03MjLLGa1clZIiM8k0AjU4Ig&oe=6A9AA411",
       "caption": "#제품제공 \n🍑라세린표 물복 떴다-!🍑\n쿨톤 탄피부에도 만족스러웠던 물복 색감..🫶🏽\n핑크+레드+옐로우 피치 그라데이션 톤이\n물 잔뜩 머금은 과즙팡팡 복숭아 색감 그자체••🍑\n여름엔 또 영롱한 빤딱 셩복 입어줘야 하잖아오🙂‍↕️\n\n어깨~등 쑉 잡아주는 더블크로스 백타입-‧₊˚ ✌🏽\n스트랩이 치즈 같이 쫀쫀해서 오래 입어도 편안〰\n유교걸도 부담없는 미들컷+넉넉 엉천 :)\n\n༶ LASERIN Soft Peach(s) ༶\n₊˚ 부담없는 높은 가슴선 / 미들컷 \n₊˚ 비침 없는 흰 안감 두겹 수영복\n₊˚ 더블 크로스 백타입\n₊˚ 브라고리 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "mul.bbang.gae",
       "metrics": {
-        "likes": 265,
+        "likes": 266,
         "comments": 58
       },
-      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
+      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -101,20 +101,26 @@
           "views": null,
           "likes": 265,
           "comments": 58
+        },
+        {
+          "d": "2026-08-31",
+          "views": null,
+          "likes": 266,
+          "comments": 58
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 251.5,
         "n": 12,
-        "captured_at": "2026-08-30T08:06:50.536958+09:00"
+        "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.10342619276336855,
-        "vs_baseline": 1.2842942345924453,
-        "cost_per_eng": 213.62229102167183,
+        "er": 0.1037463976945245,
+        "vs_baseline": 1.2882703777335984,
+        "cost_per_eng": 212.96296296296296,
         "cost_per_view": null
       },
       "analysis": {
@@ -122,9 +128,14 @@
           "one_liner": "평소 대비 0.99x로 무난한 출발이나, 참여 1건당 268원·팔로워 대비 참여율 8.32%는 소규모 계정 기준 양호한 비용 효율을 보임.",
           "days": 3,
           "analyzed_at": "2026-08-20T06:28:30.502002+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.29배 참여로 팔로워 규모 감안 시 준수한 반응, 참여 1건당 213원은 소형 계정치고 효율적인 수준.",
+          "days": 14,
+          "analyzed_at": "2026-08-31T08:18:04.136186+09:00"
         }
       },
-      "last_written_reaction": "좋아요 265 · 댓글 58 · ER 10.3% · 평소대비 1.3x (D+13)"
+      "last_written_reaction": "좋아요 266 · 댓글 58 · ER 10.4% · 평소대비 1.3x (D+14)"
     }
   ],
   "flags": {
@@ -135,5 +146,5 @@
   },
   "child_db_id": "e0f39eba-97ed-834a-a931-81ccd51b5d9b",
   "followers": 3123,
-  "last_written_score": 128
+  "last_written_score": 129
 }

@@ -25,16 +25,16 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-25T07:44:19.000Z",
       "permalink": "https://www.instagram.com/p/DcdIT2NFKOJ/",
-      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/786106791_18102890504215521_7610522710918231249_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MTM2NjI3NDU3MTI5MDA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vUVHrFx1a10Q7kNvwEC4eK_&_nc_oc=AdoKdJ9F-pO4gN_PZ0F7SrB963ItZ0us6WHPKMGMgWUbyQ--5915gJGRIwfDncoBD2c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=RvnF_lfnf2FIVnNYSpr29Q&_nc_ss=7a22e&oh=00_AQIZdERm0PZmKGrPk0cLEv6mk4I4EZkTCd9lR76nCBgsWw&oe=6A994BE5",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/786106791_18102890504215521_7610522710918231249_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MTM2NjI3NDU3MTI5MDA1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vUVHrFx1a10Q7kNvwF3Dv28&_nc_oc=AdrOWIMrS0JXG8IunBrhYIVqquCqD1XR2WXYinQStFOQ9Y64VDJn4v11zCAC2fasU6ny0UOE9ulv0PQn3DwGEmCn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=RDBWJqFPCpAhKKdUEzbgcg&_nc_ss=7a22e&oh=00_AQIsST5NRNAp8byxJFzFoe76zGq2pcMOZABsFHFE5_DXhw&oe=6A9A9D65",
       "caption": "💪🏻\n\n#시크릿스 #운동복추천 @secrets__fit",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "1iberis_",
       "metrics": {
-        "likes": 275,
+        "likes": 297,
         "comments": 5
       },
-      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
+      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
       "history": [
         {
           "d": "2026-08-27",
@@ -59,23 +59,29 @@
           "views": null,
           "likes": 275,
           "comments": 5
+        },
+        {
+          "d": "2026-08-31",
+          "views": null,
+          "likes": 297,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 137.0,
         "n": 12,
-        "captured_at": "2026-08-30T08:06:50.536958+09:00"
+        "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.033617481090166886,
-        "vs_baseline": 2.0437956204379564,
-        "cost_per_eng": 653.5714285714286,
+        "er": 0.036258854604394285,
+        "vs_baseline": 2.204379562043796,
+        "cost_per_eng": 605.9602649006622,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 275 · 댓글 5 · ER 3.4% · 평소대비 2.0x (D+4)",
+      "last_written_reaction": "좋아요 297 · 댓글 5 · ER 3.6% · 평소대비 2.2x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.98배 참여로 팔로워 규모 감안 시 양호한 출발, 참여 1건당 675원은 합리적 수준으로 지속 모니터링 권장.",
@@ -93,5 +99,5 @@
   },
   "child_db_id": "25c39eba-97ed-82c0-beeb-81b784a131f7",
   "followers": 8329,
-  "last_written_score": 204
+  "last_written_score": 220
 }

@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-03T09:58:54.000Z",
       "permalink": "https://www.instagram.com/p/DbkuLT9zan1/",
-      "thumbnail": "https://instagram.fpoj7-1.fna.fbcdn.net/v/t51.82787-15/762737454_18606417094002137_2466272028294186101_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk1NTQ4OTQ2MDIyOTg3NjIxMzE4NjA2NDE3MDg4MDAyMTM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=A721VdujXtYQ7kNvwEhRYLo&_nc_oc=AdpDi-OF0iA5TmGD_PKiqF1MLB8JJldupSE3LvEAFKD2hj0Gz3F1_xqZtn169PLuSN8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoj7-1.fna&_nc_gid=J2njcLjnBlC5pG31XdAwlg&_nc_ss=7a22e&oh=00_AQIx6SLOiIFRNtgKjtTOubBXDVdPg4FjQ6vlnnB4uapItA&oe=6A992930",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/762737454_18606417094002137_2466272028294186101_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk1NTQ4OTQ2MDIyOTg3NjIxMzE4NjA2NDE3MDg4MDAyMTM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-a1wn9hsjDUQ7kNvwGRYvaw&_nc_oc=Adq_WAClwOVyILB-qdpCO6QSL6WMNJ2olQFBhn3lrKivl8KmNodhBR377Z9dqVjB1WsVS0GykRJGjvAYAP9cofeX&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=AEFwjJ32c-7-qmdOvmOdMg&_nc_ss=7a22e&oh=00_AQIP-5nhRP23A4DszhtWI8W7nJQIEm5QuUZJeCCQa-qO6g&oe=6A9A7AB0",
       "caption": "💪 요즘 최애 운동복, 드디어 공개! @secrets__fit 브라탑이에요! \n\n웨이트 할 때도, 유산소 할 때도\n찰떡같이 붙어있어서 움직임이 너무 편해요✨\n\n보들보들한 소재에 볼레로랑 같이 입으면\n꾸안꾸 스타일 완성!🤍\n상반기 빅세일 중이니까 얼른 쟁여두세요🏃‍♀️🏃‍♂️\n\n#운동복추천 #브라탑 #브라탑추천 #운동 #운동일지",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hyuneoni",
       "metrics": {
-        "views": 8985,
+        "views": 9017,
         "likes": 100,
         "comments": 12
       },
-      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
+      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -90,15 +90,21 @@
           "views": 8985,
           "likes": 100,
           "comments": 12
+        },
+        {
+          "d": "2026-08-31",
+          "views": 9017,
+          "likes": 100,
+          "comments": 12
         }
       ],
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.005254515599343186,
         "vs_baseline": null,
         "cost_per_eng": 495.5357142857143,
-        "cost_per_view": 6.176961602671119
+        "cost_per_view": 6.155040479095042
       },
       "analysis": {
         "d14": {
@@ -107,7 +113,7 @@
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
         }
       },
-      "last_written_reaction": "조회 8,985 · 좋아요 100 · 댓글 12 · ER 0.5% (D+26)"
+      "last_written_reaction": "조회 9,017 · 좋아요 100 · 댓글 12 · ER 0.5% (D+27)"
     }
   ],
   "flags": {

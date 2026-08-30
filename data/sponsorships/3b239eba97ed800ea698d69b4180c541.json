@@ -25,7 +25,7 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-12T13:10:38.000Z",
       "permalink": "https://www.instagram.com/p/Db8PUdclPeK/",
-      "thumbnail": "https://instagram.flhr2-4.fna.fbcdn.net/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HxC3A2U5PcYQ7kNvwHTQm_x&_nc_oc=AdqLFokZycpt710Jg29_HbAXkdhU2jdorS4gf0e-Tl90RuEWcB330mmRbdVsLaQ-Bw1y8vA9VxxagsbG07UBw_J4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flhr2-4.fna&_nc_gid=Idn9kG4y0WeNNuUMlV25vw&_nc_ss=7a22e&oh=00_AQKUqRhw2jAfJGZH7Za3fWECD6lbHMAM06cuRallOpNVGQ&oe=6A992809",
+      "thumbnail": "https://scontent-gru1-2.cdninstagram.com/v/t51.82787-15/773155486_17895488856663006_1112460927092706150_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2MjEwODQzNDA2MDk3NzU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=inxrYw09XpgQ7kNvwGrAI7y&_nc_oc=Adoqevuu7fof98OnBhXp4HCbJyLb4oXei7gVTGKUurcy2cHO05ET676ESCM8wu5ZcDU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_gid=lAF7dGiAk9EspOKkvFF0XQ&_nc_ss=7a22e&oh=00_AQJfxpc--aGhbtXtDtHHeZBiCtx_PrkoDmNtowXJftN5ig&oe=6A9A7989",
       "caption": "#제품제공 입자마자 인어공주 되는 수영복🧜‍♀️\n\n@laserin_swim 선글로우\n\n택배박스 열자마자 든 생각은 와 진짜 반짝반짝 빛난다✨ 였어요! 선글로우 컷 사진보고 반해버렸는데 사진보다 실물이 더 예쁘고 영롱한 수영복이에요!\n\n특히 야외에서 입으면 진가를 발휘하는 수영복이에요.\n바다에서 진짜 얘만보임🧡\n햇빛 받으면 반짝반짝 빛나서 사진도 잘 나와요! 물 속에서도 예쁨❤️\n\n특히 웜톤 분들 아주아주 추천하고 싶은 수영복이에요! 요즘 야외에서 수영 많이해서 탔는데 탄톤에게도 추천..👍\n\nx백으로 몸을 잘 잡아주고, 안감까지 두 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 115,
         "comments": 46
       },
-      "metrics_updated_at": "2026-08-30T08:06:50.536958+09:00",
+      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -101,16 +101,22 @@
           "views": null,
           "likes": 115,
           "comments": 46
+        },
+        {
+          "d": "2026-08-31",
+          "views": null,
+          "likes": 115,
+          "comments": 46
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 123.5,
         "n": 6,
-        "captured_at": "2026-08-30T08:06:50.536958+09:00"
+        "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.07484890748489074,
         "vs_baseline": 1.3036437246963564,
@@ -129,7 +135,7 @@
           "analyzed_at": "2026-08-27T09:33:46.172753+09:00"
         }
       },
-      "last_written_reaction": "좋아요 115 · 댓글 46 · ER 7.5% · 평소대비 1.3x (D+17)"
+      "last_written_reaction": "좋아요 115 · 댓글 46 · ER 7.5% · 평소대비 1.3x (D+18)"
     }
   ],
   "flags": {
