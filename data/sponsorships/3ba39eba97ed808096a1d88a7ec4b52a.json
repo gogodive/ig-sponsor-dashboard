@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-13T01:31:49.000Z",
       "permalink": "https://www.instagram.com/p/Db9j9zEpKG8/",
-      "thumbnail": "https://instagram.fper7-1.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=eeDABDlWl44Q7kNvwEeVGnL&_nc_oc=Ado7TaKGnODwir78ktE8XGukogCz41cCZsN7h03h-P38A6_dXACW42k4kJ0vHNJvSnvpvVKdfzzL57zmXk-rWEg4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper7-1.fna&_nc_gid=nh6zhwzy_USrhwZnVo2ibg&_nc_ss=7a22e&oh=00_AQKKtqtzq1Z6WPrjjpjcqQVfLOYazo3HKFwU310cFskByA&oe=6A9A7736",
+      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=BDUxhfBJescQ7kNvwEVAaGq&_nc_oc=AdrtpjWwKw4AEbtn21JMyQRopovyzmZ2KxHHCiingVUR1ehCfWvadZ1fpZb4Gqofgv0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=XjL_nXNWDR63vI5gfLaNxw&_nc_ss=7a22e&oh=00_AQJa0E8U-4kKQS07yWVulcFKugmIj6KKEpDJQFT2IhdLBw&oe=6A9C00F6",
       "caption": "•\n•\n•\n• \n@secrets__fit \n#시크릿스 #fyp #07",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "q._.p7171",
       "metrics": {
-        "views": 6263,
-        "likes": 119,
+        "views": 6267,
+        "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -96,15 +96,21 @@
           "views": 6263,
           "likes": 119,
           "comments": 0
+        },
+        {
+          "d": "2026-09-01",
+          "views": 6267,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
-        "er": 0.028066037735849057,
+        "er": -0.0002358490566037736,
         "vs_baseline": null,
-        "cost_per_eng": 346.6386554621849,
-        "cost_per_view": 6.5863004949704615
+        "cost_per_eng": -41250.0,
+        "cost_per_view": 6.582096696984203
       },
       "analysis": {
         "d3": {
@@ -118,7 +124,7 @@
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
         }
       },
-      "last_written_reaction": "조회 6,263 · 좋아요 119 · 댓글 0 · ER 2.8% (D+17)"
+      "last_written_reaction": "조회 6,267 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+18)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-80cf-a431-e209bb9231f0",
@@ -257,7 +263,7 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.0014150943396226414,
         "vs_baseline": null,
@@ -276,7 +282,7 @@
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
         }
       },
-      "last_written_reaction": "조회 11,668 · 좋아요 -1 · 댓글 7 · ER 0.1% (D+21)"
+      "last_written_reaction": "조회 11,668 · 좋아요 -1 · 댓글 7 · ER 0.1% (D+22)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-8023-9f6e-e5a689bf97df",
@@ -287,16 +293,16 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T01:13:15.000Z",
       "permalink": "https://www.instagram.com/p/Db1zoZYCV0c/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/767978820_18003202655987094_985670500060368637_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MDI5ODAwNzkyNjUxODk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Z1CerbG02LUQ7kNvwFZXbpt&_nc_oc=Ado-eaFUrIra1N7G5qQ9xza1jHHagN7FQrh6HgaJd7DtpcMTpCSK1suBvUQKR__cZOA&_nc_ad=z-m&_nc_cid=1753&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=7TjQ-XJ6lOjjnJLWxqJF6Q&_nc_ss=7a22e&oh=00_AQLz-YiwMfNGcPDbpmUJxqSzF5Wqknb_lQyK2f6yNL083g&oe=6A9A9D5F",
+      "thumbnail": "https://instagram.fymq2-1.fna.fbcdn.net/v/t51.82787-15/767978820_18003202655987094_985670500060368637_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MDI5ODAwNzkyNjUxODk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Z1CerbG02LUQ7kNvwHFvFyC&_nc_oc=AdqxXYiI3of5RTP-iuY5liQUyQP258xzUeg0fsNpCTpkV9SMn1JqGEt56VsRpg9BEBM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fymq2-1.fna&_nc_gid=zAzQjR6gL5jaGpffwC_UtA&_nc_ss=7a22e&oh=00_AQItmV0KWg1CB3OeZ9rEnTqAxC6GrFVOOD_gxRkmUouNbQ&oe=6A9BEEDF",
       "caption": "@secrets__fit \n•\n•\n•\n#시크릿스 #운동복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "q._.p7171",
       "metrics": {
-        "likes": 1115,
+        "likes": 1125,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -411,23 +417,29 @@
           "views": null,
           "likes": 1115,
           "comments": 0
+        },
+        {
+          "d": "2026-09-01",
+          "views": null,
+          "likes": 1125,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 336.5,
         "n": 8,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
-        "er": 0.26297169811320753,
-        "vs_baseline": 3.3135215453194653,
-        "cost_per_eng": 36.99551569506726,
+        "er": 0.2653301886792453,
+        "vs_baseline": 3.3432392273402676,
+        "cost_per_eng": 36.666666666666664,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 1,115 · 댓글 0 · ER 26.3% · 평소대비 3.3x (D+20)",
+      "last_written_reaction": "좋아요 1,125 · 댓글 0 · ER 26.5% · 평소대비 3.3x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 2.11배 참여율로 팔로워 23% 참여 달성, 참여 1건당 63원의 매우 효율적인 초기 성과.",
@@ -450,7 +462,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-08T19:10:08.000Z",
       "permalink": "https://www.instagram.com/p/DbylR97kq5h/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/771573210_18003000305987094_1721889390467462983_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk1OTM4OTE4OTA2NTkyNTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Te5qU1XYnPYQ7kNvwG1mAyT&_nc_oc=AdoZ6j8DRrdtAfBWG3Pm_FMH6bzj4zqzKpRNr9tNc1QVBLrEDPSI7dxz2C93d8hnaSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=jcAW3Zt7llg133EMKGh2hQ&_nc_ss=7a22e&oh=00_AQIbSIkb8rrFE-lwCJcXNHUbSkw5qTTZgmRC914zbxoW1w&oe=6A9A90E3",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/771573210_18003000305987094_1721889390467462983_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk1OTM4OTE4OTA2NTkyNTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Te5qU1XYnPYQ7kNvwGtdx7n&_nc_oc=Adp4z0CYaFKnhsq04NDrdlQlzZfH4p_O0fLteBpqxMG9t98Sx9txAytHA5syA3nbcpsnAvJb3jWpJ5Nz5-gEXQ5f&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=1LQjlxM9E2BhYvxEtwNvLg&_nc_ss=7a22e&oh=00_AQKvL2Jp1SPQ9JiDUJXbWvjXsPKNzQDfZ7dX3_RmLF1Ufg&oe=6A9BE263",
       "caption": "@secrets__fit \n•\n•\n•\n•\n#시크릿스 #운동복추천 #fyp",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -459,7 +471,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -574,16 +586,22 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-09-01",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 336.5,
         "n": 8,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": -0.0002358490566037736,
         "vs_baseline": -0.0029717682020802376,
@@ -602,7 +620,7 @@
           "analyzed_at": "2026-08-23T06:25:41.150876+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+22)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+23)"
     }
   ],
   "flags": {
@@ -613,5 +631,5 @@
   },
   "child_db_id": "e4d39eba-97ed-82be-8bd8-019025dd2f4a",
   "followers": 4240,
-  "last_written_score": 166
+  "last_written_score": 167
 }

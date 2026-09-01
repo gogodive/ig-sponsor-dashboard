@@ -25,7 +25,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-31T07:10:56.000Z",
       "permalink": "https://www.instagram.com/p/DbcscKzpnc2/",
-      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.71878-15/760503580_27409864965380238_220785773259719849_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk1MzIzMDAyMjcyMDI1NTc5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=LGCbHBPt9DoQ7kNvwEYtsh5&_nc_oc=Adpaj_6Be_8os1GernXWuZZWivk3d8zn0Ydbk3o61zAhEHJTL0HwXN3XgCdpbvwNJU4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyhu2-1.fna&_nc_gid=8h3aHMjvuksXz0UtQ_NIIg&_nc_ss=7a22e&oh=00_AQKdVQ5lydh0J-WL9j66qva0KLyo_EP003AmdEwDLf7HnQ&oe=6A9A7E6D",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.71878-15/760503580_27409864965380238_220785773259719849_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk1MzIzMDAyMjcyMDI1NTc5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=LGCbHBPt9DoQ7kNvwH38cmC&_nc_oc=AdrjbICtsT9LHR_EPujjdeYlPGPG94t6H45UgilOBJrNTXGxgjJeHoPWIweMWvtHisY&_nc_ad=z-m&_nc_cid=1753&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=u0INKnWC9-mOFAwGe1bThg&_nc_ss=7a22e&oh=00_AQLapmh0ZLM9GIguLMRL5U9bDki3ic4dJzD83rCFxg-OJA&oe=6A9C082D",
       "caption": "못생김 은 내몫 \n첫 프리다이빙 첫 롱핀 💛\n너무 예쁘구 잊을수없는추억 \n너무신난우리는 10시간 을놀았당\n첫눈에 반한 롱핀 😍\n\n✅딥바이브 오로라 롱핀 \n✅고고 프리다이빙 메쉬백 \n\n수중장비 멀티샵  인투더블루 스토어에 \n다양하게 있어요 💛\n@intotheblue_store \n\n#인투더블루 #딥바이브 #딥바이브롱핀\n#프리다이빙 #웨이브파크",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,15 +224,15 @@
           "comments": 9
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0052687278810155105,
         "vs_baseline": 0.4228810238996996,
         "cost_per_eng": 339.0928725701944,
         "cost_per_view": 48.48672019765287
       },
-      "last_written_reaction": "조회 3,238 · 좋아요 454 · 댓글 9 · ER 0.5% · 평소대비 0.4x (D+30)",
+      "last_written_reaction": "조회 3,238 · 좋아요 454 · 댓글 9 · ER 0.5% · 평소대비 0.4x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회수 3% 미만으로 초기 확산이 매우 저조하며, 참여 1건당 359원·조회당 58원은 수영·다이빙 니치 브랜드 기준으로도 비효율 구간에 해당한다.",
@@ -243,7 +243,9 @@
           "one_liner": "평소 대비 0.44x의 저조한 도달로 조회당 비용 51.5원·참여당 343원 모두 비효율 구간, 추가 액션 없이는 대비 효과 미흡.",
           "days": 14,
           "analyzed_at": "2026-08-15T06:28:26.204907+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 0.42배라는 조회수는 협찬 게시물이 오히려 계정 평균을 크게 밑돌았음을 의미하며, 팔로워 대비 참여율 0.53%도 인플루언서 마케팅 업계 평균(1~3%)에 현저히 못 미치는 수준이다. 조회 1회당 비용 48.5원, 참여 1건당 339원은 3만 1,400원 상당의 소규모 협찬치고는 절대 수치가 낮지 않으나, 노출 모수 자체(조회 3,238회)가 너무 작아 브랜드 인지도 제고 효과를 기대하기 어렵다. 종합적으로 이번 협찬은 비용 대비 성과가 미흡하며, 동일 예산이라면 해당 계정과의 재협찬보다는 콘텐츠 유형·게시 시점 등 조건을 재협의하거나 다른 채널로 전환하는 것이 바람직하다.",
+        "final_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "baseline": {
         "views_median": 7657,
@@ -261,7 +263,7 @@
       "first_seen": "2026-08-01",
       "posted_at": "2026-07-31T06:39:02.000Z",
       "permalink": "https://www.instagram.com/p/Dbco9wUGlrm/",
-      "thumbnail": "https://instagram.fper9-1.fna.fbcdn.net/v/t51.82787-15/759768939_18614323315007136_8355709251943576407_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1MzIxNDY1MTE2NDY0ODM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=BIyfl2bVjj4Q7kNvwGmpwDP&_nc_oc=AdqJN2wULvsVJxE5P2bUn8O0X5ZBxzqMxbGhqMDiHSGWwlCUiJa26CyvvCDLiLoY_6E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper9-1.fna&_nc_gid=wknDE1O5u2bPCigMU4E4Ag&_nc_ss=7a22e&oh=00_AQIhGddbLGL6WmhRE9ekIvBQWUkMEtkhSJ1tkz2ft7HzYQ&oe=6A9A7A71",
+      "thumbnail": "https://instagram.fvix24-1.fna.fbcdn.net/v/t51.82787-15/759768939_18614323315007136_8355709251943576407_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1MzIxNDY1MTE2NDY0ODM3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=PukxaPWotPwQ7kNvwGScs7X&_nc_oc=Adq6bE3H6pi5_zVrJRUWcf2AcPNscaLHKh5VbJE3cGUdLxLoHAOpGmAq7mLHWWK-GOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvix24-1.fna&_nc_gid=Z5dcaQFxX70rsYKgjYUauA&_nc_ss=7a22e&oh=00_AQLNb_BPAjVxRPgWvwbHp0rM4evc3s5xEC2RTATyVn27Yw&oe=6A9C0431",
       "caption": "물이 너무좋아 💦\n나의 첫 프리다이빙 나의 첫 롱핀 💛\n가방 까지 컬러 셋투 넘예쁘쥬 ? \n오로라빛이 너무 영롱하구 예뻐 ✨\n너무신나 예쁜 롱핀신구 또가쟈 💛\n\n✅딥바이브 오로라 롱핀 \n✅고고 프리다이빙 메쉬백 \n\n수중장비 멀티샵  인투더블루 스토어에 \n다양하게 있어요 💛\n@intotheblue_store \n\n#인투더블루 #딥바이브 #딥바이브롱핀\n#프리다이빙 #웨이브파크",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -465,15 +467,15 @@
         "n": 12,
         "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.006042536727471352,
         "vs_baseline": 0.9414893617021277,
         "cost_per_eng": 295.66854990583806,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 509 · 댓글 22 · ER 0.6% · 평소대비 0.9x (D+30)",
+      "last_written_reaction": "좋아요 509 · 댓글 22 · ER 0.6% · 평소대비 0.9x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.97배로 평균 수준 유지 중이나, 참여 1건당 305원·참여율 0.58%는 다소 낮아 추가 반응 유도가 필요한 초기 단계.",
@@ -484,7 +486,9 @@
           "one_liner": "평소 대비 1.0배 수준의 무난한 참여율(0.60%)로, 참여 1건당 298원은 준수하나 바이럴 확산 없이 기대치에 그친 무난한 중간 성과.",
           "days": 14,
           "analyzed_at": "2026-08-15T06:28:26.204907+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 0.60%는 인스타그램 피드 게시물 업계 평균(1~3%) 대비 낮은 수준이며, 평소대비 0.94배로 협찬 게시물이 오히려 해당 계정의 일반 게시물보다 반응을 끌어내지 못했다. 참여 1건당 비용 296원은 절대 수치상 나쁘지 않으나, 총 531건(좋아요+댓글)의 참여량은 31만 4천 원 협찬 가액 대비 실질적 노출 및 전환 기여가 제한적이었을 것으로 판단된다. 종합하면, 이번 협찬은 비용 대비 가치가 다소 낮으며, 재협찬 시 릴스 형식 전환 또는 협찬 단가 조정을 검토할 필요가 있다.",
+        "final_at": "2026-09-01T09:27:49.712538+09:00"
       }
     }
   ],

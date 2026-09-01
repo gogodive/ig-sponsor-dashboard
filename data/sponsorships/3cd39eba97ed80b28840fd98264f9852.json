@@ -1,21 +1,20 @@
 {
-  "page_id": "38e39eba-97ed-80c2-adf5-d9602c405606",
-  "row_title_raw": "seoli_trip",
+  "page_id": "3cd39eba-97ed-80b2-8840-fd98264f9852",
+  "row_title_raw": "hyuniverse___",
   "status": "진행 중",
   "media": [
-    "인스타",
-    "블로그"
+    "인스타"
   ],
   "brands": [
     "고고다이브"
   ],
   "manager": "김호진",
-  "followers_notion_raw": "5375",
+  "followers_notion_raw": "98000",
   "product_value_krw": 390000,
-  "delivery_date": "2026-06-29",
+  "delivery_date": "2026-08-27",
   "output_link_prop": null,
-  "username": "seoli_trip",
-  "followers_notion": 5375,
+  "username": "hyuniverse___",
+  "followers_notion": 98000,
   "posts": [],
   "flags": {
     "unresolvable_username": false,
@@ -23,6 +22,6 @@
     "overdue_no_output": false,
     "account_unavailable": false
   },
-  "child_db_id": "ed939eba-97ed-835c-abfa-8189607f5a48",
-  "followers": 5375
+  "child_db_id": "96139eba-97ed-82bd-9af7-8182c3eebb0a",
+  "followers": 98000
 }

@@ -25,17 +25,17 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-06T11:12:10.000Z",
       "permalink": "https://www.instagram.com/p/Dbsk20lCY_r/",
-      "thumbnail": "https://instagram.ffco2-1.fna.fbcdn.net/v/t51.82787-15/762688885_18105091127599476_4189855257261363377_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1NzcwMDI2OTUzMzkyNTM1NTE4MTA1MDkxMTI0NTk5NDc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjUwOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=zQd2riCxYLoQ7kNvwFvvDlt&_nc_oc=AdqdVU7K2jDUnBiK7e-6IVFhYhYz0izPsE72aLmvErxSkbBcpAgqbvJRleeYNBtgh5o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffco2-1.fna&_nc_gid=0HIdOgG1joJC6NniVRGnVg&_nc_ss=7a22e&oh=00_AQI4OjIIvjRKgijzpzQbt-4kjc_rBeChkHzg9zDSOxCSHA&oe=6A9A8638",
+      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/762688885_18105091127599476_4189855257261363377_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1NzcwMDI2OTUzMzkyNTM1NTE4MTA1MDkxMTI0NTk5NDc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjUwOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=sZUFVEPFZYIQ7kNvwFaF1zo&_nc_oc=Adq1_9f8N_n0uPITSAGHA31FlXEa4UIMCK_qu6Ol4mw9KvwzXqYU_nEYZ-Xtx_H8Prw&_nc_ad=z-m&_nc_cid=4&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=is05I9F8ieQnKy7ZJX1gGA&_nc_ss=7a22e&oh=00_AQLHp_RPIx9cACfGw1421Jrdq0p5Qdtcn9B6KBRhVqzmrQ&oe=6A9BD7B8",
       "caption": "뱃살아 많이빠져라🥹 @secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "bijou.zero",
       "metrics": {
-        "views": 10457,
+        "views": 10510,
         "likes": 195,
         "comments": 6
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -180,17 +180,23 @@
           "views": 10457,
           "likes": 195,
           "comments": 6
+        },
+        {
+          "d": "2026-09-01",
+          "views": 10510,
+          "likes": 195,
+          "comments": 6
         }
       ],
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.029244871235268442,
-        "vs_baseline": 3.4845051649450185,
+        "vs_baseline": 3.502165944685105,
         "cost_per_eng": 208.955223880597,
-        "cost_per_view": 4.016448312135411
+        "cost_per_view": 3.9961941008563273
       },
-      "last_written_reaction": "조회 10,457 · 좋아요 195 · 댓글 6 · ER 2.9% · 평소대비 3.5x (D+24)",
+      "last_written_reaction": "조회 10,510 · 좋아요 195 · 댓글 6 · ER 2.9% · 평소대비 3.5x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "조회 3,006회·참여율 1.45%로 초기 수치는 낮은 편이며, 조회당 14원·참여당 532원 비용 효율도 아직 개선이 필요한 수준입니다.",
@@ -207,7 +213,7 @@
         "views_median": 3001,
         "eng_median": 42,
         "n": 3,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       }
     },
     {
@@ -219,16 +225,16 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-06T11:09:56.000Z",
       "permalink": "https://www.instagram.com/p/DbskvJeGq2b/",
-      "thumbnail": "https://instagram.fsxb1-1.fna.fbcdn.net/v/t51.82787-15/764906904_18105090869599476_782908431187424558_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NzY5OTM3MDc0NDk1NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4Q2b1f0AmDcQ7kNvwHN1LGd&_nc_oc=AdqcrL5qO69nIBoVzJ1k6VPZYIQ2m2lrkBzI234hCtW-TZYP0wn9wf6pjfnMoHUA-HFvEsdiQRXpdtub2PPrWM4L&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsxb1-1.fna&_nc_gid=06WWvpUXg31I1z3txvRXBg&_nc_ss=7a22e&oh=00_AQJw48BwzKvRhbrJzVBR49GKpdbJAzDa2pq1l3oN7gFagQ&oe=6A9A994F",
+      "thumbnail": "https://scontent-vie1-1.cdninstagram.com/v/t51.82787-15/764906904_18105090869599476_782908431187424558_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NzY5OTM3MDc0NDk1NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=4Q2b1f0AmDcQ7kNvwEEQTGy&_nc_oc=AdqXrwogeE1n0NQLyhHwz8eHzbhWl4uSv2NgFXBYvxX0rkuA_iMQALCvvOxnBNMwehg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=MY0TM3blDO6OTBiqap5F2A&_nc_ss=7a22e&oh=00_AQI1oyl4j9-hcMlzGnGOTHS7whQn5XDHclUc0fkwAh7o8g&oe=6A9BEACF",
       "caption": "#협찬 @secrets__fit \n운동복 고를때 어디가 좋은지 고민하고 둘러 보다가 지체되는 경우가 많지? \n이번에 좋은 운동복 낋여왔는데 소개해볼까해👏🏻👏🏻\n#시크릿스 운동복은 신축성 라인 다 고려해서 디자인이 잘나왔고 컬러도 파스텔 색깔처럼 이뻐서 운동,요가 뿐만 아니라 데일리에도 입기 좋은 디자인이라서 활용도는 up‼️ 고민하지말고 \n시크릿스 방문하기🤍🍀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "bijou.zero",
       "metrics": {
-        "likes": 349,
+        "likes": 348,
         "comments": 8
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-08",
@@ -373,23 +379,29 @@
           "views": null,
           "likes": 349,
           "comments": 8
+        },
+        {
+          "d": "2026-09-01",
+          "views": null,
+          "likes": 348,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 550.0,
         "n": 12,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.05194238323876037,
-        "vs_baseline": 0.649090909090909,
-        "cost_per_eng": 117.6470588235294,
+        "er": 0.05179688636694311,
+        "vs_baseline": 0.6472727272727272,
+        "cost_per_eng": 117.97752808988764,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 349 · 댓글 8 · ER 5.2% · 평소대비 0.6x (D+24)",
+      "last_written_reaction": "좋아요 348 · 댓글 8 · ER 5.2% · 평소대비 0.6x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.19x로 팔로워 반응이 저조하나, 참여 1건당 235원으로 비용 효율은 준수한 수준—3일차 추이 지속 모니터링 필요.",

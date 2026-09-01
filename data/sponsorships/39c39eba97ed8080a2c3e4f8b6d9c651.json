@@ -25,16 +25,16 @@
       "first_seen": "2026-08-25",
       "posted_at": "2026-08-22T04:41:04.000Z",
       "permalink": "https://www.instagram.com/p/DcVE9F5kod9/",
-      "thumbnail": "https://instagram.fktw1-1.fna.fbcdn.net/v/t51.82787-15/780087486_18617604835057174_607759985026693525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2OTA5OTY0NzQ1Njc2NDMzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vOBIJWaGC4YQ7kNvwGhuR9e&_nc_oc=Adq0oby7r6Uw0bIVUV8URbIXxHbm1Qzw5y5ysGvFRNBTUb0G4mKUrT5Y-LOJF5rQ4BM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw1-1.fna&_nc_gid=kEhNUI1EQ-uYz5Ym16s3vQ&_nc_ss=7a22e&oh=00_AQKbhfB73RJxN4eZ92PSk5x12VbQiS8gscwrChU_fFTEZQ&oe=6A9A9075",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/780087486_18617604835057174_607759985026693525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk2OTA5OTY0NzQ1Njc2NDMzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vOBIJWaGC4YQ7kNvwH1iX6I&_nc_oc=AdoA3vwLonHXqr3NYQiGuZAAtLOvkFwutVViZSVl8pwZX717RkpotiKz-XeRxxmB6YsCnsxvnGgmawGql9z_mETW&_nc_ad=z-m&_nc_cid=1005&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=HjVxC_ytoZ6k2NFCesCjnw&_nc_ss=7a22e&oh=00_AQImwEO7XIY17CcUXnOOk_xt8xZT2Pfv7oD0Dz2vBUoLhg&oe=6A9BE1F5",
       "caption": "드디어 로망이었던 프리다이빙 입문! 🤿✨ #협찬 \n시원한 물속에서 새로운 움직임을 배워보고 싶어서, 이번에 고고다이브( @gogodive ) 와 함께 했습니다🤍\n\n수영은 원래 좋아하지만 프리다이빙은 처음이라 걱정했는데 직접 경험해 보니 너무 재미있었습니다!\n\n✔️ 스케줄 유동적인 프리랜서나 직장인들에게 가장 중요한 건 시간 효율이잖아요? 어플 하나로 원격 예약부터 가까운 센터 선택까지 막힘없이 해결돼서 진짜 편리했어요🤍\n\n✔️ 고고다이브 강사님들은 자잘한 디테일이나 자세 교정까지 꼼꼼하게 짚어주셔서 실력이 느는 게 눈에 보여 감동이",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "aaoong",
       "metrics": {
-        "likes": 199,
+        "likes": 200,
         "comments": 56
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-25",
@@ -77,23 +77,29 @@
           "views": null,
           "likes": 199,
           "comments": 56
+        },
+        {
+          "d": "2026-09-01",
+          "views": null,
+          "likes": 200,
+          "comments": 56
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 162.5,
-        "n": 8,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "eng_median": 177,
+        "n": 7,
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.0058292376271573895,
-        "vs_baseline": 1.5692307692307692,
-        "cost_per_eng": 1529.4117647058824,
+        "er": 0.005833162439902477,
+        "vs_baseline": 1.4463276836158192,
+        "cost_per_eng": 1523.4375,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 199 · 댓글 56 · ER 0.6% · 평소대비 1.6x (D+8)",
+      "last_written_reaction": "좋아요 200 · 댓글 56 · ER 0.6% · 평소대비 1.4x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.48배 참여로 양호한 출발이나, 참여 1건당 1,618원은 비용 효율 개선 여지가 있어 추이 지속 모니터링 필요.",
@@ -110,6 +116,6 @@
     "account_unavailable": false
   },
   "child_db_id": "bff39eba-97ed-8236-9287-816839828e0f",
-  "followers": 43745,
-  "last_written_score": 157
+  "followers": 43887,
+  "last_written_score": 145
 }

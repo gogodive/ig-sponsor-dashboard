@@ -25,16 +25,16 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-17T14:30:43.000Z",
       "permalink": "https://www.instagram.com/p/DcJQdXPmpcs/",
-      "thumbnail": "https://instagram.fjal3-1.fna.fbcdn.net/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QAn55C3YNJIQ7kNvwGnjws5&_nc_oc=AdrC5dbAPukmC5NkUUkVEWbJT1sm6bBxFs2PRGVgh5jotq0hy6A384cXR8leIYL1Q54&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fjal3-1.fna&_nc_gid=925yr1eRVSZxF-rai0acuw&_nc_ss=7a22e&oh=00_AQLhCtYLpOauO-qYAkho-idI76qHbC84FsTIwu-rm0DC8w&oe=6A9A92E8",
+      "thumbnail": "https://instagram.fmxp13-2.fna.fbcdn.net/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QAn55C3YNJIQ7kNvwGFk_I2&_nc_oc=AdoDGuTSYklv2fbS4wbHm4ck9OpUYB0HigSEPCa12eGBVcmGIFBJ92HQfurHgXt42d0k3oQup8fH0URL67KOMuW3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp13-2.fna&_nc_gid=M47A_eSKaYZnuZvI3MAm3Q&_nc_ss=7a22e&oh=00_AQJtngrXBPBXjtRfH1h3CxA6INDIEtKnp3ScuiwagfwNBQ&oe=6A9BE468",
       "caption": "프리다이빙을 하면 \n스노쿨링을 사랑할 수 밖에 없어 ⋆ 🪼ྀི ⋆ *광고\n\n역시 수영복은 르망고에\n인투더블루 롱핀까지.. 완벽 조합 아닌가요 🫧\n\n래쉬가드는 색감이랑 핏이 너무 예쁘고\n롱핀은 깊은 곳에서도 안정감있게 놀기 편하답니다 🏊🏻\n\n• 인투더블루 | 딥바이브 크리스탈 롱핀 | 실버 \n\n#스노쿨링 #르망고 #인투더블루 #딥바이브 #딥바이브롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "j_hyun110",
       "metrics": {
-        "likes": 564,
+        "likes": 573,
         "comments": 21
       },
-      "metrics_updated_at": "2026-08-31T08:18:04.136186+09:00",
+      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
       "history": [
         {
           "d": "2026-08-28",
@@ -59,20 +59,26 @@
           "views": null,
           "likes": 564,
           "comments": 21
+        },
+        {
+          "d": "2026-09-01",
+          "views": null,
+          "likes": 573,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 348,
         "n": 11,
-        "captured_at": "2026-08-31T08:18:04.136186+09:00"
+        "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.05094487503265697,
-        "vs_baseline": 1.6810344827586208,
-        "cost_per_eng": 451.28205128205127,
+        "er": 0.05172864234085169,
+        "vs_baseline": 1.706896551724138,
+        "cost_per_eng": 444.44444444444446,
         "cost_per_view": null
       },
       "analysis": {
@@ -80,9 +86,14 @@
           "one_liner": "평소 대비 1.64배 참여로 팔로워 대비 참여율 4.97%를 기록, 건당 비용 462원은 협찬 효율 양호 수준이나 지속 모니터링 필요.",
           "days": 10,
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.71배 참여율로 팔로워 5.17% 참여 달성, 참여당 444원은 협찬비 효율 측면에서 양호한 중간 성과.",
+          "days": 14,
+          "analyzed_at": "2026-09-01T09:27:49.712538+09:00"
         }
       },
-      "last_written_reaction": "좋아요 564 · 댓글 21 · ER 5.1% · 평소대비 1.7x (D+13)"
+      "last_written_reaction": "좋아요 573 · 댓글 21 · ER 5.2% · 평소대비 1.7x (D+14)"
     }
   ],
   "flags": {
@@ -93,5 +104,5 @@
   },
   "child_db_id": "3af39eba-97ed-8310-b26c-0112b1d738cd",
   "followers": 11483,
-  "last_written_score": 168
+  "last_written_score": 171
 }
