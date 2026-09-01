@@ -325,6 +325,6 @@
     }
   ],
   "fetched_at": "2026-08-26T06:32:00.985216+09:00",
-  "empty_streak": 0,
-  "ok": true
+  "empty_streak": 1,
+  "ok": false
 }

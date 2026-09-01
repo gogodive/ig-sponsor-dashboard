@@ -25,7 +25,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-04T11:42:31.000Z",
       "permalink": "https://www.instagram.com/p/Dbne4HJCRx_/",
-      "thumbnail": "https://instagram.flba3-1.fna.fbcdn.net/v/t51.82787-15/762291799_18044637260805264_1422628690813303881_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1NjI2NDkwOTgzNjYwNjM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hXXKgOCrYNsQ7kNvwEYcwDJ&_nc_oc=AdrMPX36ZP8fpCKWJOXjO5cUxN2v0CbLDVlVA1DlRq2O_H4mFNJsk-ZcNSLsikU_3zX9foCwhnSGjiaKdDRIWTZZ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flba3-1.fna&_nc_gid=Po5ogEfIbnksjbFaYvFfMQ&_nc_ss=7a22e&oh=00_AQL17NpzpEwaAJk4JYg2ye8hdQb4qIbpAkBKyCWu7h2MHA&oe=6A9BF7F7",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/762291799_18044637260805264_1422628690813303881_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1NjI2NDkwOTgzNjYwNjM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hXXKgOCrYNsQ7kNvwGRl1sY&_nc_oc=AdojquMBfV4QN0KpNQWsDdB71xLWSis0cPP_JXf4Z7Dtnh4k8aBg_O3n1_7GD0sSNDuXc7arYIuM9RD0Wk6Cu14T&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=fJA4NPhWdshROrAy6FJ0Kg&_nc_ss=7a22e&oh=00_AQKKvuN3vb440tmjaud1IrOmV1itnqg6ytEbSrZTrv2BYw&oe=6A9D4977",
       "caption": "요즘 필라테스에 푸욱 빠져 사는즁입니댜ꔛ♡˒˒\n레깅스랑 티 짱짱하게 잘잡아줘서 교복처럼 입는중..야르💗\n@secrets__fit \n@logue_pila \n\n#필라테스 #운동복 #운동스타그램 #workouts #운동녀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 817,
         "comments": 44
       },
-      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
+      "metrics_updated_at": "2026-09-02T08:08:59.553879+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -155,16 +155,22 @@
           "views": null,
           "likes": 817,
           "comments": 44
+        },
+        {
+          "d": "2026-09-02",
+          "views": null,
+          "likes": 817,
+          "comments": 44
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 329.5,
         "n": 10,
-        "captured_at": "2026-09-01T09:27:49.712538+09:00"
+        "captured_at": "2026-09-02T08:08:59.553879+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.016214689265536722,
         "vs_baseline": 2.6130500758725344,
@@ -183,7 +189,7 @@
           "analyzed_at": "2026-08-19T06:27:53.581135+09:00"
         }
       },
-      "last_written_reaction": "좋아요 817 · 댓글 44 · ER 1.6% · 평소대비 2.6x (D+27)"
+      "last_written_reaction": "좋아요 817 · 댓글 44 · ER 1.6% · 평소대비 2.6x (D+28)"
     }
   ],
   "flags": {

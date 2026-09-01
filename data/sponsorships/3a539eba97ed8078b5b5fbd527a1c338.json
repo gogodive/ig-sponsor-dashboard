@@ -20,12 +20,12 @@
       "notion_row_id": "b8a39eba-97ed-8200-be69-018defa54f05",
       "url": "https://www.instagram.com/p/DbuNXVjGEc7/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
       "shortcode": "DbuNXVjGEc7",
-      "media_kind": "원본 자료",
+      "media_kind": "피드",
       "upload_date_notion": "2026-08-07",
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-07T02:24:11.000Z",
       "permalink": "https://www.instagram.com/p/DbuNXVjGEc7/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/766074402_18606717427029996_5944028706696919074_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1ODE1MzczOTMzOTE3Nzg4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KU3wlSXA3eYQ7kNvwEHW-Hh&_nc_oc=Adp16dutBi-nplMB36J1anBI7JIn5bIoDOQ6jxXw51RLsEUS5nfqECGJWuZyruDedek&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=Yp51GXqSnNPPLhR5TJaT2Q&_nc_ss=7a22e&oh=00_AQL1bV2q5hfavUG3m1bpzLca4zsYlDASs6z9vg0tZ7s2zQ&oe=6A9BF3A1",
+      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t51.82787-15/766074402_18606717427029996_5944028706696919074_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1ODE1MzczOTMzOTE3Nzg4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6VVFb8HqyM8Q7kNvwHzxdn4&_nc_oc=AdqbVDE7hyPZ2JgHA4KbO4d9AtrhhU3Ndy1bUHP_6DF6Q98DLENOQmS_KOE2XIbMnuwE5Bt0bCHl2X3RgJA1AIS7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=bU7QdNKoWH8slRkY5UyExA&_nc_ss=7a22e&oh=00_AQIbflZXUjTI0W_RrXDkWlvmDofhRKV8IOZf1dc9M8tuzQ&oe=6A9D4521",
       "caption": "#제품협찬 \n🌊 바다를 즐기고, 바다를 지키는 순간까지 함께한 스윔웨어🩷\n\n이번 플로빙에서 착용한 라세린 레이나 선셋코랄 와이백 우먼🥥\n\n바다에서 플로빙을 할 때도, 풀장에서 스쿠버 슈트 이너웨어로도 착용해봤는데 활동성이 정말 좋았어요!!\n\n와이백 디자인이라 어깨 가동 범위가 넓어 핀킥이나 장비 착용 시에도 움직임이 편안했고, 슈트 안에서도 들뜸 없이 몸을 안정감 있게 잡아줘서 장시간 착용에도 부담이 없었고 어깨쓸림도 없었어요!\n\n은은한 잔 펄이 있는 선셋 코랄 컬러는 물 밖에서는 화사하고, 물속에서도 예쁘게 표현되어 사진까지 만족",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 118,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
+      "metrics_updated_at": "2026-09-02T08:08:59.553879+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -77,19 +77,25 @@
           "views": null,
           "likes": 118,
           "comments": 6
+        },
+        {
+          "d": "2026-09-02",
+          "views": null,
+          "likes": 118,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 140.0,
+        "eng_median": 150.5,
         "n": 12,
-        "captured_at": "2026-09-01T09:27:49.712538+09:00"
+        "captured_at": "2026-09-02T08:08:59.553879+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.06048780487804878,
-        "vs_baseline": 0.8857142857142857,
+        "vs_baseline": 0.8239202657807309,
         "cost_per_eng": 556.4516129032259,
         "cost_per_view": null
       },
@@ -100,7 +106,7 @@
           "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
         }
       },
-      "last_written_reaction": "좋아요 118 · 댓글 6 · ER 6.0% · 평소대비 0.9x (D+24)"
+      "last_written_reaction": "좋아요 118 · 댓글 6 · ER 6.0% · 평소대비 0.8x (D+25)"
     }
   ],
   "flags": {
@@ -111,5 +117,5 @@
   },
   "child_db_id": "4bb39eba-97ed-8255-afac-817574231b52",
   "followers": 2050,
-  "last_written_score": 89
+  "last_written_score": 82
 }

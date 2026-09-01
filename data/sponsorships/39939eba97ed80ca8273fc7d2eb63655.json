@@ -25,7 +25,7 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-08-01T04:26:19.000Z",
       "permalink": "https://www.instagram.com/p/Dbe-ZQKvjvi/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.71878-15/758456348_1428235269128706_8440374085196557842_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1Mzg3MTkzNzEwODU4OTUzODIwMDEyNzg1NjM4MzAyMzc%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=klkGllpf1VcQ7kNvwFvWEDz&_nc_oc=AdoDe3-vJYAShS8vcakx2KyuriHwVmsDDZKDNCNtRE0QhDNAjXQ8n20W1thiwNNRON8&_nc_ad=z-m&_nc_cid=1340&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=RLrD-WU3O9BcLWmDJ3IWCQ&_nc_ss=7a22e&oh=00_AQKDLDaAJfiba8IuYIaxBaoOKM8z4A-EygMNsQ93xqfgYQ&oe=6A9BD726",
+      "thumbnail": "https://instagram.fakj1-1.fna.fbcdn.net/v/t51.71878-15/758456348_1428235269128706_8440374085196557842_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1Mzg3MTkzNzEwODU4OTUzODIwMDEyNzg1NjM4MzAyMzc%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7YLmGUZRKtsQ7kNvwGacvFD&_nc_oc=Adqax0X5p4NdwEVZ_huRYN9ZxwMTi9gymus7XvJCis7zvmX6ITGmmCq3zspSGrMBedkjBatZ9j_3uvHZU-3wQM5G&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fakj1-1.fna&_nc_gid=JE6wY46r7VpPlWlMC26mVA&_nc_ss=7a22e&oh=00_AQItr5zbZ87exjoLj3s0mOc3rewofZSnGSZMdimMHzTi7w&oe=6A9D28A6",
       "caption": "퇴근 송 💙🧡\n날이 더워서 수트없이 시원하게 근무 중 🧚‍♀️\n\n#라세린 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -212,8 +212,8 @@
         "n": 7,
         "captured_at": "2026-09-01T09:27:49.712538+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": -0.0004095004095004095,
         "vs_baseline": 0.9589585172109444,
@@ -230,9 +230,11 @@
           "one_liner": "평소 대비 0.95x로 평균 수준이나 좋아요 -1·댓글 0으로 실질 참여가 전무해 조회당 19.7원 비용 대비 효율이 매우 낮음.",
           "days": 14,
           "analyzed_at": "2026-08-16T06:24:21.250821+09:00"
-        }
+        },
+        "final_verdict": "조회수 2,173회로 팔로워 대비 89% 도달률을 기록했으나, 좋아요 -1(데이터 오류 추정)·댓글 0으로 실질적인 참여가 전무하며 평소 대비 성과도 0.96배에 그쳐 콘텐츠 자체의 반응 유도력이 부재했다. 조회 1회당 비용 19.4원은 소규모 계정 기준으로 허용 범위이나, 참여율이 사실상 0%인 상황에서 브랜드 인지 외 구매 전환·팬덤 유입 효과를 기대하기 어렵다. 상품 가액 84,400원 대비 유의미한 마케팅 성과를 얻지 못했으며, 동일 예산을 참여율이 검증된 계정 또는 복수의 마이크로 인플루언서에 분산하는 방향이 더 효율적이었을 것으로 판단된다.",
+        "final_at": "2026-09-02T08:08:59.553879+09:00"
       },
-      "last_written_reaction": "조회 2,173 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 1.0x (D+30)"
+      "last_written_reaction": "조회 2,173 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 1.0x (확정)"
     },
     {
       "notion_row_id": "92039eba-97ed-82de-896d-01b5d3967d88",
@@ -243,7 +245,7 @@
       "first_seen": "2026-08-05",
       "posted_at": "2026-08-04T07:25:02.000Z",
       "permalink": "https://www.instagram.com/p/DbnBaJ9j3HH/",
-      "thumbnail": "https://instagram.fmxp4-1.fna.fbcdn.net/v/t51.82787-15/763249270_18383678296163544_358115870396658130_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NjEzMzUxMjE3NTY2ODk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FqFVap6VrZMQ7kNvwGxfDDr&_nc_oc=AdpLTU0jOCf-7hlZN5beQoPAzQR9CryAd0l8B2Tqq3gW_CliJWLMZJi2eSkHAvkobcw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp4-1.fna&_nc_gid=-s1NsTfVFqbQ4y5GKEDS2w&_nc_ss=7a22e&oh=00_AQJg_khKRaKhmmcAIh7pxaKa1JKSUujLUzUXocK4ujdBPQ&oe=6A9BE422",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/763249270_18383678296163544_358115870396658130_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk1NjEzMzUxMjE3NTY2ODk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VVdQ8q87p6AQ7kNvwEk0M0_&_nc_oc=Adqmvj4EXJZw5fCwUfxf9xfJMve90r3PzbrMoMdRM4_4bxL25okYz2P__Sp70ia-yUw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=AYMYBlj6jPgoEImCDXbzkQ&_nc_ss=7a22e&oh=00_AQJZpsNfUd94ZxNtJ5vrprs3OTH8EV4rX8L1EjqaX-1_Eg&oe=6A9D35A2",
       "caption": "으음 8월이어라💙 \n물놀이 다들 잘 즐기고 계신가요, 수영장도 복작복작합니다.\n다들 더위 피해 물로 나오시라요😘\n\n+)수영복 모델명은 윤슬 입니다😉 \n@laserin_swim #라세린",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -252,7 +254,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-01T09:27:49.712538+09:00",
+      "metrics_updated_at": "2026-09-02T08:08:59.553879+09:00",
       "history": [
         {
           "d": "2026-08-05",
@@ -421,23 +423,29 @@
           "views": null,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-09-02",
+          "views": null,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 5.0,
         "n": 6,
-        "captured_at": "2026-09-01T09:27:49.712538+09:00"
+        "captured_at": "2026-09-02T08:08:59.553879+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.0020475020475020475,
         "vs_baseline": 1.0,
         "cost_per_eng": 8440.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.0x (D+27)",
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.0x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.0배 수준의 무난한 초기 반응이나 참여당 비용 8,440원은 팔로워 규모 감안 시 효율 개선 여지 있음",

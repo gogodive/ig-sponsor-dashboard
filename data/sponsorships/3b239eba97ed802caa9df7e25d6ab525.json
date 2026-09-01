@@ -74,14 +74,14 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.0045045045045045045,
         "vs_baseline": 0.15789473684210525,
         "cost_per_eng": 23000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.2x (D+10)",
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.2x (D+11)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.16x의 극히 저조한 반응에 참여 1건당 비용 23,000원으로, 팔로워 666명 소규모 계정치고도 초기 성과가 기대에 크게 못 미침.",
