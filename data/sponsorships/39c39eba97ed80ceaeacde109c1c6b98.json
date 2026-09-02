@@ -25,17 +25,17 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-03T08:17:26.000Z",
       "permalink": "https://www.instagram.com/p/Dbkh6DzttQt/",
-      "thumbnail": "https://instagram.fbcn2-1.fna.fbcdn.net/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=brIfnYmfj_0Q7kNvwF-V39d&_nc_oc=AdrLuX06rFs2itaWxfO4ng_m6jueGZcWUqzPtIsFPDb43vif7fef2uSbXKHz_hOjKiY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn2-1.fna&_nc_gid=o1XSfZtAVkmo4tWMX7j3KA&_nc_ss=7a22e&oh=00_AQIWUnJ4rV_BvlsXKsafDBjzl3bXRvoVGM2RVy3_iYFa-g&oe=6A9D4524",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=brIfnYmfj_0Q7kNvwFJHYjL&_nc_oc=AdoVK4UM10aTgIMvAci5cxit4A5pxdI_jo8q_jt8hlU7zA7Iulbb_95XYm9Yj6FSheg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=iWJYoIDQ7jx9axrUoxFYtA&_nc_ss=7a22e&oh=00_AQKnoOo0F1AhnKnZK_C7yNp0b6ERD_EUmqSku9CxQyHHbQ&oe=6A9E96A4",
       "caption": "해녀가 추천하는 대마도 바다 222222 🌊\n\n물속에서 가장 눈에 띈 건 보랏빛으로 펼쳐진 산호\n바다펜(Virgularia gustaviana)🪶💜\n\n해삼과 성게도 곳곳에서 볼 수 있었고, 제 얼굴보다 훨씬 큰 전복 껍데기까지 발견 이 포인트가 정말 마음에 들었어요\n\n맑고 아름다운 어촌이라 오래 기억에 남는 곳이었습니다 \n다만 이곳은 다리 아래에 위치해 유속이 빠른 편이라 초보자에게는 다소 어려운 포인트 입니다 \n충분한 경험과 안전 장비를 갖춘 상태에서 즐기시는 것을 추천드립니다👍\n\n영상은 Insta360 Ace Pro 2로 촬영했",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "haenyeo_sohee",
       "metrics": {
-        "views": 28540,
+        "views": 28567,
         "likes": 312,
         "comments": 34
       },
-      "metrics_updated_at": "2026-09-02T08:08:59.553879+09:00",
+      "metrics_updated_at": "2026-09-03T08:08:08.101587+09:00",
       "history": [
         {
           "d": "2026-08-06",
@@ -204,23 +204,29 @@
           "views": 28540,
           "likes": 312,
           "comments": 34
+        },
+        {
+          "d": "2026-09-03",
+          "views": 28567,
+          "likes": 312,
+          "comments": 34
         }
       ],
       "baseline": {
         "views_median": 97977,
         "eng_median": 778,
         "n": 9,
-        "captured_at": "2026-09-02T08:08:59.553879+09:00"
+        "captured_at": "2026-09-03T08:08:08.101587+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0190864960282436,
-        "vs_baseline": 0.29129285444543107,
+        "vs_baseline": 0.2915684293252498,
         "cost_per_eng": 419.0751445086705,
-        "cost_per_view": 5.080588647512264
+        "cost_per_view": 5.075786746945776
       },
-      "last_written_reaction": "조회 28,540 · 좋아요 312 · 댓글 34 · ER 1.9% · 평소대비 0.3x (D+29)",
+      "last_written_reaction": "조회 28,567 · 좋아요 312 · 댓글 34 · ER 1.9% · 평소대비 0.3x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 0.17x로 기대치를 크게 밑돌고 있으며, 참여 1건당 516원·조회 1회당 6.6원은 현 시점 비용 효율이 저조한 상태다.",
@@ -430,7 +436,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.03635260370697264,
         "vs_baseline": 0.6731358529111338,
