@@ -224,14 +224,14 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 37,
+      "days_since_post": 38,
       "computed": {
-        "er": 0.14696969696969697,
+        "er": 0.14391691394658754,
         "vs_baseline": 1.0,
         "cost_per_eng": 329.89690721649487,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 152 · 댓글 42 · ER 14.7% · 평소대비 1.0x (확정)",
+      "last_written_reaction": "좋아요 152 · 댓글 42 · ER 14.4% · 평소대비 1.0x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.94x로 소폭 하회하나, 참여율 15.2%·364원/건으로 소규모 계정 특유의 고밀도 반응이 확인되며 비용 효율은 긍정적.",
@@ -255,6 +255,6 @@
     "account_unavailable": false
   },
   "child_db_id": "fc139eba-97ed-8244-8c61-81a81d69d44a",
-  "followers": 1320,
+  "followers": 1348,
   "last_written_score": 100
 }

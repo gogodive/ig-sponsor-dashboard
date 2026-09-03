@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "n_axyee",
   "followers_notion": 7820,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "53339eba-97ed-8229-8287-01ac084cf718",
+      "url": "https://www.instagram.com/p/DcUGALaEizX/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcUGALaEizX",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-22",
+      "first_seen": "2026-09-04",
+      "posted_at": "2026-08-21T19:31:00.000Z",
+      "permalink": "https://www.instagram.com/p/DcUGALaEizX/",
+      "thumbnail": "https://instagram.fitm3-1.fna.fbcdn.net/v/t51.82787-15/780087492_18113370581060224_4650497433759646002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2ODgyMzUwMTIwOTAxNTQ1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rsyiae7Z5owQ7kNvwFsUTj-&_nc_oc=AdrgCQDsvktCRq48zKIAJ5-Lrik-byLYB6izgUvRfyqh26xpXhsVins7Ep5vPpF6HZA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fitm3-1.fna&_nc_gid=G2I1tNSK-610le5sHTY-IA&_nc_ss=7a22e&oh=00_AQJjFsp29695VPFCDV9c9znNyRVR4B2MAPM3cWdT0Duf7Q&oe=6A9FC07C",
+      "caption": "운동할 때도 편하고 예쁜 게 최고 🤎✨ \n@secrets__fit\n\n허리 딱 잡아주는 레깅스라 허리라인이 잡히는데 브이컷으로 더더 얇아보이는 •••🫶🏻\n\n뒷태도 깔끔하게 예쁜 나시탑… 쫀쫀해서 몸에 촥 감겨요\n\n시크릿스 SECRETS \n#헬스 #운동복추천 #시크릿스 #SECRETS",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "n_axyee",
+      "metrics": {
+        "likes": 213,
+        "comments": 9
+      },
+      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "history": [
+        {
+          "d": "2026-09-04",
+          "views": null,
+          "likes": 213,
+          "comments": 9
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 343.0,
+        "n": 12,
+        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 13,
+      "computed": {
+        "er": 0.028019689511548655,
+        "vs_baseline": 0.6472303206997084,
+        "cost_per_eng": 441.44144144144144,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.65x로 저조한 참여를 보이나, 참여 1건당 441원은 팔로워 규모 감안 시 수용 가능한 수준으로 D+13 시점 추가 확산 여부를 지켜볼 필요 있음.",
+          "days": 13,
+          "analyzed_at": "2026-09-04T08:05:32.290830+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 213 · 댓글 9 · ER 2.8% · 평소대비 0.6x (D+13)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "1b839eba-97ed-8384-822b-81ff3df62171",
-  "followers": 7820
+  "followers": 7923,
+  "last_written_score": 65
 }

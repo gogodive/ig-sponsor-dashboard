@@ -1,7 +1,7 @@
 {
   "page_id": "3ba39eba-97ed-80f0-b874-e307122d79a6",
   "row_title_raw": "10.12.16yp",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,16 +25,16 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-25T03:55:45.000Z",
       "permalink": "https://www.instagram.com/p/DccuJu1knH4/",
-      "thumbnail": "https://instagram.fflr4-2.fna.fbcdn.net/v/t51.82787-15/784250674_18635366866003531_2109589801910507445_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTI1MTg0OTE5MzQ4Njc2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pYP_mQDWR7UQ7kNvwEjq7hP&_nc_oc=AdoErRMMs0WI2z7vd0rbntXApC306Zx3ia92x4ziRVwIZzjkUYd2JAjC8oFKPLZgyq0&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.fflr4-2.fna&_nc_gid=itVkZfLWWz1bwMsP_JQ3qg&_nc_ss=7a22e&oh=00_AQISjUrxD21XHKRH-g_Q5kZeeK--GlBJT0JkVMLYlB60Zg&oe=6A9E9A41",
+      "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/784250674_18635366866003531_2109589801910507445_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTI1MTg0OTE5MzQ4Njc2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XxOp-3y9p8EQ7kNvwHDG95J&_nc_oc=AdqwQNUlwhekkjyB3WOAww-Wu5HppLtVKniE2F_zAWPYrQKVSPm7fvyG_3DwIbZ41TM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=baRxXUVxg5HqE3hAx5Tc2w&_nc_ss=7a22e&oh=00_AQL65BvTwTpkP17gsJ46u3EtFNyg5mS_yydr9ygCbT3ocg&oe=6A9FEBC1",
       "caption": "거의 우리뿐이었던 #난지한강물놀이장 :)\n이번에 베리피아 아쿠아팟 수영가방 선물받아서 가져갔는데요\n@verypia_official \n미니닷포함으로 취향대로 꾸밀수 있어서 좋더라구요. 닷츠들 넘 귀욤\n\n수영복은 @laserin_swim \n이번 신상도 진짜 예쁘죠? ✨\n\n#수영복#라세린#베리피아아쿠아팟#수영하는여자",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "10.12.16yp",
       "metrics": {
-        "likes": 649,
+        "likes": 664,
         "comments": 29
       },
-      "metrics_updated_at": "2026-09-03T08:08:08.101587+09:00",
+      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -89,23 +89,29 @@
           "views": null,
           "likes": 649,
           "comments": 29
+        },
+        {
+          "d": "2026-09-04",
+          "views": null,
+          "likes": 664,
+          "comments": 29
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 22.5,
         "n": 10,
-        "captured_at": "2026-09-03T08:08:08.101587+09:00"
+        "captured_at": "2026-09-04T08:05:32.290830+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.006709018583387757,
-        "vs_baseline": 30.133333333333333,
-        "cost_per_eng": 50.88495575221239,
+        "er": 0.0068574481980644775,
+        "vs_baseline": 30.8,
+        "cost_per_eng": 49.78354978354978,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 649 · 댓글 29 · ER 0.7% · 평소대비 30.1x (D+8)",
+      "last_written_reaction": "좋아요 664 · 댓글 29 · ER 0.7% · 평소대비 30.8x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 29.78배의 이례적 참여 급등으로 1건당 63원의 매우 효율적인 비용 구조를 초기 3일 만에 달성했습니다.",
@@ -123,17 +129,17 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-21T11:59:02.000Z",
       "permalink": "https://www.instagram.com/p/DcTRa9iSeq6/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/779145656_18634072417003531_8827241713821899121_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2ODU5MjMxNjIxNDE0MzY3NDE4NjM0MDcyNDE0MDAzNTMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=PoRcxhRlm7YQ7kNvwG5IrDa&_nc_oc=AdquzwsaJypN72TgQ7srWn1sVvdOvR0MtnNXYfo1KtEo4NVHYR5FMTieprCjYHR0Ufp7toRG5zcfS-MRgHo6Ofui&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=hc4PtEp2nUPbzqPwxSx04Q&_nc_ss=7a22e&oh=00_AQIdj4LGaieJmdPAzSsVSodIJn3DN181CPaFWRzaSUu9LA&oe=6A9E991C",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/779145656_18634072417003531_8827241713821899121_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2ODU5MjMxNjIxNDE0MzY3NDE4NjM0MDcyNDE0MDAzNTMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=PoRcxhRlm7YQ7kNvwFvpg4e&_nc_oc=AdrJ-mH8nzC9onzxd4-zBCijw08Eov7YMw0loyAhHedqUiw7c_7XhH2kxAWCE3QSq_I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=P4sFWBamkVJ3Zt6kjDSSrQ&_nc_ss=7a22e&oh=00_AQK3tuIZxBxnAoxgVztxZcK64ONbrjPizlluq5P7RaEutg&oe=6A9FEA9C",
       "caption": "이거 해보고싶었거든요.\n오늘 낭비한시간. 💙\n행복했어요 울팸 \nㅋ̆̎ㅋ̊̈ㅋ̌̈ㅋㅋㅋㅋ̆̎ㅋ̊̈ㅋ̌̈\n\n수영복은 @laserin_swim \n귀여운수영가방 @verypia_official \n\n#한강수영장#베리피아아쿠아팟#라세린수영복#수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "10.12.16yp",
       "metrics": {
-        "views": 9244,
+        "views": 9385,
         "likes": -1,
         "comments": 48
       },
-      "metrics_updated_at": "2026-09-03T08:08:08.101587+09:00",
+      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -188,21 +194,27 @@
           "views": 9244,
           "likes": -1,
           "comments": 48
+        },
+        {
+          "d": "2026-09-04",
+          "views": 9385,
+          "likes": -1,
+          "comments": 48
         }
       ],
       "baseline": {
         "views_median": 9225.5,
         "eng_median": 34.0,
         "n": 8,
-        "captured_at": "2026-09-03T08:08:08.101587+09:00"
+        "captured_at": "2026-09-04T08:05:32.290830+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.0004650794593203903,
-        "vs_baseline": 1.0020053113652376,
+        "vs_baseline": 1.0172890358246165,
         "cost_per_eng": 734.0425531914893,
-        "cost_per_view": 3.7321505841627003
+        "cost_per_view": 3.6760788492274905
       },
       "analysis": {
         "d3": {
@@ -211,7 +223,7 @@
           "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
         }
       },
-      "last_written_reaction": "조회 9,244 · 좋아요 -1 · 댓글 48 · ER 0.0% · 평소대비 1.0x (D+12)"
+      "last_written_reaction": "조회 9,385 · 좋아요 -1 · 댓글 48 · ER 0.0% · 평소대비 1.0x (D+13)"
     }
   ],
   "flags": {
@@ -222,5 +234,5 @@
   },
   "child_db_id": "80b39eba-97ed-8218-8dfd-818674680330",
   "followers": 101058,
-  "last_written_score": 1557
+  "last_written_score": 1591
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-03T08:17:26.000Z",
       "permalink": "https://www.instagram.com/p/Dbkh6DzttQt/",
-      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=brIfnYmfj_0Q7kNvwFJHYjL&_nc_oc=AdoVK4UM10aTgIMvAci5cxit4A5pxdI_jo8q_jt8hlU7zA7Iulbb_95XYm9Yj6FSheg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=iWJYoIDQ7jx9axrUoxFYtA&_nc_ss=7a22e&oh=00_AQKnoOo0F1AhnKnZK_C7yNp0b6ERD_EUmqSku9CxQyHHbQ&oe=6A9E96A4",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.71878-15/763607303_1812318193469182_2375990825484043854_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk1NTQzNTQ5ODA5MTUwMDU4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=brIfnYmfj_0Q7kNvwGdnBBS&_nc_oc=AdoIam-ne0dDGNzpdN1H7859N4bBqa7F3rGBb-lQfPznfW9kyF3lAI-BcWmGxIx1rJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=qLBYkkNdPUS7zXAaoLxxTg&_nc_ss=7a22e&oh=00_AQKJrJtv5wqSi-pweh1rOTAu-SqoxR2Ou8xe7isPywAghg&oe=6A9FE824",
       "caption": "해녀가 추천하는 대마도 바다 222222 🌊\n\n물속에서 가장 눈에 띈 건 보랏빛으로 펼쳐진 산호\n바다펜(Virgularia gustaviana)🪶💜\n\n해삼과 성게도 곳곳에서 볼 수 있었고, 제 얼굴보다 훨씬 큰 전복 껍데기까지 발견 이 포인트가 정말 마음에 들었어요\n\n맑고 아름다운 어촌이라 오래 기억에 남는 곳이었습니다 \n다만 이곳은 다리 아래에 위치해 유속이 빠른 편이라 초보자에게는 다소 어려운 포인트 입니다 \n충분한 경험과 안전 장비를 갖춘 상태에서 즐기시는 것을 추천드립니다👍\n\n영상은 Insta360 Ace Pro 2로 촬영했",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -218,15 +218,15 @@
         "n": 9,
         "captured_at": "2026-09-03T08:08:08.101587+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.0190864960282436,
+        "er": 0.01903190319031903,
         "vs_baseline": 0.2915684293252498,
         "cost_per_eng": 419.0751445086705,
         "cost_per_view": 5.075786746945776
       },
-      "last_written_reaction": "조회 28,567 · 좋아요 312 · 댓글 34 · ER 1.9% · 평소대비 0.3x (D+30)",
+      "last_written_reaction": "조회 28,567 · 좋아요 312 · 댓글 34 · ER 1.9% · 평소대비 0.3x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 0.17x로 기대치를 크게 밑돌고 있으며, 참여 1건당 516원·조회 1회당 6.6원은 현 시점 비용 효율이 저조한 상태다.",
@@ -237,7 +237,9 @@
           "one_liner": "평소 대비 0.16x로 계정 내 최저 수준 도달률을 기록했으며, 참여 1건당 437원·조회당 5.6원은 비용 효율도 낮아 추가 협업 시 조건 재검토가 필요합니다.",
           "days": 14,
           "analyzed_at": "2026-08-18T06:28:59.912384+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 0.29x라는 낮은 도달 배수는 협찬 콘텐츠가 해당 계정의 일반 게시물보다 확산력이 크게 떨어졌음을 의미하며, 팔로워 대비 참여율 1.90%는 다이빙·수영 특화 소규모 계정으로서 준수한 수준이나 절대 참여량(좋아요+댓글 346건)이 제품 가액 29만 원을 정당화하기엔 다소 부족하다. 참여 1건당 419원·조회 1회당 5.1원은 초소형 인플루언서 기준 평균 범위 안에 있지만, 평소 대비 성과 저조가 콘텐츠 품질 또는 협찬 노출 방식의 문제일 수 있어 동일 조건 재협찬 전에 콘텐츠 포맷과 게시 시점 조정이 선행되어야 한다.",
+        "final_at": "2026-09-04T08:05:32.290830+09:00"
       }
     },
     {
@@ -249,7 +251,7 @@
       "first_seen": "2026-08-04",
       "posted_at": "2026-07-31T02:53:02.000Z",
       "permalink": "https://www.instagram.com/p/DbcPGj7IK8N/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MzA5MDczMDk1MjEyMjczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DALR8q_chJsQ7kNvwFSjq_M&_nc_oc=AdqpYe3AlItr8YXkpZczV8SQeG6-NArNBrdmyzs8p5MuaAVgC_ITyvdw-cpTHCHgPDXnR5D7A4oomK1V8-paaeMY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=QX9HQ65ynoPi-hASZGaRHQ&_nc_ss=7a22e&oh=00_AQK9LHnq-77AOMs1qAX3cNINrJnK4fpf20IEtB1-MvlhSw&oe=6A9BF4CA",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/761200101_18464685433118749_2220964475213485032_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1MzA5MDczMDk1MjEyMjczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1gKc-_MdPnsQ7kNvwFjqPX5&_nc_oc=AdoH7OTuxVocWT1F_qWKAt5AxH9EwrkiZUZzzd1-fSbObqcOYPS22jXIzFbTwb2wGwrcDGAjwsBh9pTUXIw3sVNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=KsyP2TLCI5NvYD0fTRTG_A&_nc_ss=7a22e&oh=00_AQKukNlqfXi4N3uUu_MSiHUQFYSPe9RkkMsKnLJTjxUi6Q&oe=6A9FE94A",
       "caption": "🌊 해녀가 추천하는 대마도 바다 1탄!!\n\n일본의 해변 100선에 선정된 미우다 해변도 정말 예쁘지만, 사람이 너무 많아서 이번에는 구글 지도를 보며 에메랄드빛 바다를 찾아 가봤어요 !! +_+\n\n결과는 대성공!\n무보정인데도 맑고 투명한 바다와 다양한 바다 생물들까지 🐟🐠 무료 사워장도 있어서 쾌적했습니다!✨\n\n찐 물질할 때는 고무핀이 최고지만, 놀러 갈 때는 역시 롱핀이 사진도 예쁘게 나오더라고요 ㅎㅎ\n\n선물로 받은 딥바이브 오로라 롱핀💛\n오로라처럼 색감이 달라지는 신비로운 컬러가 정말 예뻤고, \n발도 편하고 가벼워서 더욱 만족스",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -436,9 +438,9 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
-        "er": 0.03635260370697264,
+        "er": 0.03624862486248625,
         "vs_baseline": 0.6731358529111338,
         "cost_per_eng": 220.03034901365706,
         "cost_per_view": null
@@ -467,6 +469,6 @@
     "account_unavailable": false
   },
   "child_db_id": "ecd39eba-97ed-8286-8d73-81c8702b7e36",
-  "followers": 18128,
+  "followers": 18180,
   "last_written_score": 48
 }

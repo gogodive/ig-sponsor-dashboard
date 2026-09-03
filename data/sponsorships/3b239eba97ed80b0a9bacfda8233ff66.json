@@ -25,7 +25,7 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-15T06:24:16.000Z",
       "permalink": "https://www.instagram.com/p/DcDPMx5lCcH/",
-      "thumbnail": "https://instagram.fmel14-1.fna.fbcdn.net/v/t51.82787-15/772697579_18306442549304096_1303916656203910811_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDA3ODAyMzA5MDEyNjEyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7OVuNSqfGDEQ7kNvwEu6kz6&_nc_oc=AdoKC6D9P3mO-mvfjDqMglLCQLipSCvT_gwYk0TD2eSme8gfw0XwzsA3gGtmWfFKlu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmel14-1.fna&_nc_gid=kIkcUXWUNMtekmAvIJqbig&_nc_ss=7a22e&oh=00_AQIMBefL4bY5ebBJsozSq7IIs4eU6RQrLOREqo2kHZzo2A&oe=6A9E7BA8",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/772697579_18306442549304096_1303916656203910811_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDA3ODAyMzA5MDEyNjEyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7OVuNSqfGDEQ7kNvwHiMbZA&_nc_oc=AdoNl9ACA5yXRubqSRqA1NuEz8pz0l_2PpZ30aLSiVUyRtLnxZ6t73zRO18gZuuysW4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=Y5kp64PWHF5k_byT7hgQZg&_nc_ss=7a22e&oh=00_AQKyDUHz2li0ZnyeqzWI5CXjaghU2QY9A5vmA11dQEf_tg&oe=6A9FCD28",
       "caption": "#제품제공 🍑🍑🍑 딱복이 왔어유✨\n\n여름은 딱복이쥬🫶\n아삭아삭 반짝반짝\n\n저는 가끔 포일 입어주는데\n포일은 입을 때마다 정말 기분이 업업🫶\n\n핑크톤에 포일재질이라 상큼하고\n더블타이로 뒷구리도 쌱\n\n이번 신상은 칭구랑\n맞춰입기도 너무 좋쟈네용 🥹🩷🩵\n\n________\n\n𝑺𝒊𝒛𝒆 𝑻𝒊𝒑\nh160cm | w42kg | t135cm | size XS\n안정적인 엉천과 높은 가슴선, 사이즈도 편했어요💖\n\n________\n#라세린 #laserin #실내수영복 #수영복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 178,
         "comments": 60
       },
-      "metrics_updated_at": "2026-09-03T08:08:08.101587+09:00",
+      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
       "history": [
         {
           "d": "2026-08-20",
@@ -125,19 +125,25 @@
           "views": null,
           "likes": 178,
           "comments": 60
+        },
+        {
+          "d": "2026-09-04",
+          "views": null,
+          "likes": 178,
+          "comments": 60
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 194,
-        "n": 11,
-        "captured_at": "2026-09-03T08:08:08.101587+09:00"
+        "eng_median": 199.0,
+        "n": 10,
+        "captured_at": "2026-09-04T08:05:32.290830+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
-        "er": 0.07209936382914268,
-        "vs_baseline": 1.2268041237113403,
+        "er": 0.07145001501050735,
+        "vs_baseline": 1.1959798994974875,
         "cost_per_eng": 289.9159663865546,
         "cost_per_view": null
       },
@@ -153,7 +159,7 @@
           "analyzed_at": "2026-08-30T08:06:50.536958+09:00"
         }
       },
-      "last_written_reaction": "좋아요 178 · 댓글 60 · ER 7.2% · 평소대비 1.2x (D+18)"
+      "last_written_reaction": "좋아요 178 · 댓글 60 · ER 7.1% · 평소대비 1.2x (D+19)"
     }
   ],
   "flags": {
@@ -163,6 +169,6 @@
     "account_unavailable": false
   },
   "child_db_id": "bea39eba-97ed-8388-be95-01cf3dd98e94",
-  "followers": 3301,
-  "last_written_score": 123
+  "followers": 3331,
+  "last_written_score": 120
 }
