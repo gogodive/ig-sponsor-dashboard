@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "1eejane",
   "followers_notion": 17000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "99739eba-97ed-822e-b059-018582d3f32f",
+      "url": "https://www.instagram.com/p/DcSPOt9gWku/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "DcSPOt9gWku",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-08-21",
+      "first_seen": "2026-09-05",
+      "posted_at": "2026-08-21T02:13:08.000Z",
+      "permalink": "https://www.instagram.com/p/DcSPOt9gWku/",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/779996525_18616530742017769_3152063656357742151_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2ODI5OTgyNzE1MDAyMjQwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=J4gvNyLsHKsQ7kNvwFt4voZ&_nc_oc=Adq5GpE9giiie8zokvm-8PbCYlhl59l_RSphokP2C-Hri7PoyNUCAiwxJ_Ge-KVMcdo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=h9zxXgZyzqgDY3QryZdC6g&_nc_ss=7a22e&oh=00_AQIKiHcI5gZAYNS_YK12EKZchOdFY2OQJTzgdeJoUTpJLQ&oe=6AA13354",
+      "caption": "프리다이빙 자격증 도전 시작 🤿🩵\n\n프리다이빙 체험은 이곳저곳 다니면서 몇 번 해봤지만 제대로 배우면서 자격증에 도전하는 건 이번이 처음!\n\n그동안은 그냥 물속에 들어가는 것 자체가 좋아서 즐겼는데 이번에는 제대로 배워보기로 해따 😎\n\n첫 수업에서는 이론부터 호흡법, 이퀄라이징 등 기본적인 것부터 차근차근 배웠는데 역시 이퀄라이징이 제일 어렵더라구여…🥹\n\n그래도 @hhk9161 강사님이 하나씩 잘 알려주시고 예쁜 사진도 찍어주셔서 넘 재미있었던 하루 🫧🩵\n\n앞으로 열심히 해서 예쁘고 편안하게 잠수하는 것까지 제대로 배워보는 걸로🤿\n",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "1eejane",
+      "metrics": {
+        "likes": 210,
+        "comments": 19
+      },
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
+      "history": [
+        {
+          "d": "2026-09-05",
+          "views": null,
+          "likes": 210,
+          "comments": 19
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 448.5,
+        "n": 12,
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 14,
+      "computed": {
+        "er": 0.012913776574747645,
+        "vs_baseline": 0.5105908584169454,
+        "cost_per_eng": 1703.056768558952,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d14": {
+          "one_liner": "평소 대비 0.51x로 저조한 반응, 참여 1건당 1,703원은 협찬 효율 재검토가 필요한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-09-05T07:52:56.308501+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 210 · 댓글 19 · ER 1.3% · 평소대비 0.5x (D+14)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "11339eba-97ed-8221-9c28-81508581bc66",
-  "followers": 17000
+  "followers": 17733,
+  "last_written_score": 51
 }

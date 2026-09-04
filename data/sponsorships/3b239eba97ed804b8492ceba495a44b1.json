@@ -25,16 +25,16 @@
       "first_seen": "2026-09-02",
       "posted_at": "2026-08-28T10:45:52.000Z",
       "permalink": "https://www.instagram.com/p/DclLeJ9GQ07/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/785281331_17946514317268965_3241215470301442207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk3MzYzMTg1MTcxNTM0Njc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7zwuluS58JwQ7kNvwG8pP8r&_nc_oc=AdqsSvU4LPYZYdTon3269_sYfAQtgTwV7p3QDzAX0_d8kQzMnV7jsOGm0wmPh9gYyDM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=zNFVvOAnVB9Wc21Yjj_kDg&_nc_ss=7a22e&oh=00_AQIC63F8UH_VHucbK9M9TgJ14W00_a2JvywEcA-ViCFFeQ&oe=6A9FBB2E",
+      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/785281331_17946514317268965_3241215470301442207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk3MzYzMTg1MTcxNTM0Njc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7zwuluS58JwQ7kNvwF_5lEq&_nc_oc=AdpSjdJL4k-_yuWZ9xOsFTPfI0_j9d3NZegeMSymHl7GvTTGg4IZEBAY8njeJPOKHDA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_gid=VfQBhrClxNKW8zeiNfkbkA&_nc_ss=7a22e&oh=00_AQIhg9DxfCG5n17gxI30dAZ3sSV2Ov0I1Ci39AUH_vpndw&oe=6AA10CAE",
       "caption": "#제품제공 @laserin_swim \n\n🩱 물옷 이야기 #69\n\n포일 맛집 라세린의 복숭아맛 수영복🍑✨\n\n여름 내내 밥 대신 복숭아만 주구장창 먹을 만큼\n복숭아를 무지막지하게 좋아하는 복숭아 러버🧡\n\n이번에 착용해본 제품은 그중에서도 물복 수영복인데요, \n물복의 달콤부드러운 느낌을 그대로 담은 디자인 좀 보세요🥺✨\n\n전체적으로 웜한 컬러라 저한테 안 어울리면 어쩌나 걱정했는데, \n막상 입어보니 생각보다 피부톤에 자연스럽게 어우러져서 마음에 들었어요. 무엇보다 포일 맛집 라세린답게 물속에서도 반짝반짝✨\n\n더블 크로스백에 미들컷이라 움",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "pting_gozebi",
       "metrics": {
-        "likes": 175,
-        "comments": 21
+        "likes": 182,
+        "comments": 37
       },
-      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
       "history": [
         {
           "d": "2026-09-02",
@@ -53,20 +53,26 @@
           "views": null,
           "likes": 175,
           "comments": 21
+        },
+        {
+          "d": "2026-09-05",
+          "views": null,
+          "likes": 182,
+          "comments": 37
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 166.0,
         "n": 12,
-        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
-        "er": 0.03403368640388956,
-        "vs_baseline": 1.180722891566265,
-        "cost_per_eng": 352.0408163265306,
+        "er": 0.03802743531863171,
+        "vs_baseline": 1.319277108433735,
+        "cost_per_eng": 315.06849315068496,
         "cost_per_view": null
       },
       "analysis": {
@@ -76,7 +82,7 @@
           "analyzed_at": "2026-09-02T08:08:59.553879+09:00"
         }
       },
-      "last_written_reaction": "좋아요 175 · 댓글 21 · ER 3.4% · 평소대비 1.2x (D+6)"
+      "last_written_reaction": "좋아요 182 · 댓글 37 · ER 3.8% · 평소대비 1.3x (D+7)"
     }
   ],
   "flags": {
@@ -87,5 +93,5 @@
   },
   "child_db_id": "33239eba-97ed-8392-9c68-8186fff86fd8",
   "followers": 5759,
-  "last_written_score": 118
+  "last_written_score": 132
 }

@@ -25,17 +25,17 @@
       "first_seen": "2026-08-11",
       "posted_at": "2026-08-08T09:14:45.000Z",
       "permalink": "https://www.instagram.com/p/DbxgQZ3Toac/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/771462585_18612007993003984_3824304174924408598_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1OTA4NzQxMjIwNjc5ODQ5MjE4NjEyMDA3OTg3MDAzOTg0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=C81Rgvh2ECIQ7kNvwExWZYv&_nc_oc=AdoMf43fNrJ0XjxknPE8KSwvqbgl8wVRcHNk2SI4S7XDDKsUf-ZQ0gbEqczKg7T339x7pn8DPiUQP0mm0_IxTrxt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=Yt28qmsiQF3vfskhwsZR7g&_nc_ss=7a22e&oh=00_AQJN5jTtQfIcf7aF386GQpcxRpvE9eWkbzNOY8G7RrFIcQ&oe=6A9FBE5C",
+      "thumbnail": "https://instagram.ffcm1-1.fna.fbcdn.net/v/t51.82787-15/771462585_18612007993003984_3824304174924408598_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1OTA4NzQxMjIwNjc5ODQ5MjE4NjEyMDA3OTg3MDAzOTg0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=C81Rgvh2ECIQ7kNvwGPTb_G&_nc_oc=AdqhCVFzx8GD5hmn0fuFlDa3OW71vsAw-GqQIDhntEBNerMup76J3QDo7I66Vb-P32AMqSGz9sB6nbMpiv9UFkib&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffcm1-1.fna&_nc_gid=rpyAfNi7JYzt496QwQjzJA&_nc_ss=7a22e&oh=00_AQKF3ch7tmKHKbKfAScItZtkKKxsSEPCzB9MH1DX4UWLYw&oe=6AA10FDC",
       "caption": "역시 수영복은 바다에서 !\n\n바다에서 피닝하다보면 저항 때문에 \n수영복이 들리지 않을까 걱정 되기도 하는데\n\n가슴선이 안정적으로 잡혀 있어서\n상승중에도 신경 쓰이지 않고 풀피닝 가능!!!\n\n드라이 상태로도 색감 체크했던 @laserin_swim \n울릉도 바다에서 제대로 담아봤어요 🐠🫧\n\n#프리다이빙 #바다여행 #울릉도 #제품후기 #협찬리뷰",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "2_eunchu",
       "metrics": {
-        "views": 3787,
+        "views": 3804,
         "likes": -1,
         "comments": 33
       },
-      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
       "history": [
         {
           "d": "2026-08-11",
@@ -186,23 +186,29 @@
           "views": 3787,
           "likes": -1,
           "comments": 33
+        },
+        {
+          "d": "2026-09-05",
+          "views": 3804,
+          "likes": -1,
+          "comments": 33
         }
       ],
       "baseline": {
         "views_median": 59131.5,
         "eng_median": 941.0,
         "n": 6,
-        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.012213740458015267,
-        "vs_baseline": 0.06404369921277153,
+        "vs_baseline": 0.0643311940336369,
         "cost_per_eng": 1109.375,
-        "cost_per_view": 9.374174808555585
+        "cost_per_view": 9.332281808622502
       },
-      "last_written_reaction": "조회 3,787 · 좋아요 -1 · 댓글 33 · ER 1.2% · 평소대비 0.1x (D+26)",
+      "last_written_reaction": "조회 3,804 · 좋아요 -1 · 댓글 33 · ER 1.2% · 평소대비 0.1x (D+27)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.03배의 극히 저조한 조회 성과로, 조회당 비용 10.7원·참여당 1,109원 모두 소규모 팔로워 감안해도 효율 개선이 시급합니다.",
@@ -424,7 +430,7 @@
         "captured_at": "2026-08-21T06:31:39.407472+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.014885496183206106,
         "vs_baseline": 2.0526315789473686,

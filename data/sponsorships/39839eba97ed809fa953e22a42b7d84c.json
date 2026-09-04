@@ -25,17 +25,17 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-20T04:39:10.000Z",
       "permalink": "https://www.instagram.com/p/DcP6tNLP2AD/",
-      "thumbnail": "https://instagram.flba1-1.fna.fbcdn.net/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Rp6HBoYaowUQ7kNvwGFz5YB&_nc_oc=AdoK1XvO5-8GYMhxHXW_SBCgZLboR4CUDcrH6r7KT8xVuice0iYBOxkzKO_zYC8bOFNJ1DFUvbcausger8rIglKn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flba1-1.fna&_nc_gid=5VmXLeeLO4JN0FXgRa0DWg&_nc_ss=7a22e&oh=00_AQJRiYnkoLKO0eR6swvuzckYz_4H-5Dae32JkXqK981M9Q&oe=6A9FB8CC",
+      "thumbnail": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Rp6HBoYaowUQ7kNvwH0XcQk&_nc_oc=AdoY7FuExzipegbHHO1mLcAZN3txnDnwey1BNBYanK8QVxphN9BMuv27315yW61Parz7pMr1CXs2jQ6Ry6hZRori&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=USKGw2Lds0-SM1wDxQVahA&_nc_ss=7a22e&oh=00_AQJafrfJlD65Fw9QY8YGVCqHxLf1RV7EcTFVOfeZlDw0FA&oe=6AA10A4C",
       "caption": "#협찬 \n울릉도에서 첫 시착해본 프리다이빙 장비💙🌊\n\n이번에 함께한 장비는\n딥바이브 크리스탈 유리섬유 롱핀과\n딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm✨\n\n오로라 핀은 그라데이션 블루 컬러가 물속에서 더 예뻐 보였고,\n2mm 슈트는 착용감이 편해서 움직일 때도 부담이 없었어요.\n\n특히 울릉도처럼 기온이 조금 낮은 바다에서도\n덕분에 따뜻하게, 편하게 놀다 왔어요🫧\n\n첫 시착부터 마음에 쏙 든 조합💙\n앞으로 이 장비들과 함께할 바다도 기대됩니다!\n\n@intotheblue_store\n\n#인투더블루 #딥바이브 #딥바이브슈트 #크리스탈롱",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "park_bin",
       "metrics": {
-        "views": 5042,
+        "views": 5069,
         "likes": 160,
         "comments": 16
       },
-      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
       "history": [
         {
           "d": "2026-08-21",
@@ -126,23 +126,29 @@
           "views": 5042,
           "likes": 160,
           "comments": 16
+        },
+        {
+          "d": "2026-09-05",
+          "views": 5069,
+          "likes": 160,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": 9740.5,
         "eng_median": 223.0,
         "n": 10,
-        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.008914100486223663,
-        "vs_baseline": 0.5176325650633951,
+        "vs_baseline": 0.5204044966890816,
         "cost_per_eng": 1221.590909090909,
-        "cost_per_view": 42.64180880602935
+        "cost_per_view": 42.4146774511738
       },
-      "last_written_reaction": "조회 5,042 · 좋아요 160 · 댓글 16 · ER 0.9% · 평소대비 0.5x (D+14)",
+      "last_written_reaction": "조회 5,069 · 좋아요 160 · 댓글 16 · ER 0.9% · 평소대비 0.5x (D+15)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.49x로 기대 이하 출발, 참여당 1,344원·조회당 50원대 비용 효율 개선이 3일 차 핵심 과제.",
@@ -364,7 +370,7 @@
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": true,
-      "days_since_post": 37,
+      "days_since_post": 38,
       "computed": {
         "er": 0.013219205834683955,
         "vs_baseline": 0.9125874125874126,

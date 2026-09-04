@@ -25,7 +25,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T13:18:30.000Z",
       "permalink": "https://www.instagram.com/p/Db3GoX3EioE/",
-      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/773028748_18151831597510034_373631528983432869_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MDY2MDQzNzYzNjk4OTgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5mZdkA2Hh0QQ7kNvwHMJj-2&_nc_oc=AdobQV1upnwke08ktz58aoo4E6oiFysynLUGlpD5ycl6Zg9MItFlbeuZ_TF7YaWSOgk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=tXk_vSi-3_7-Qg3ZSKkmpg&_nc_ss=7a22e&oh=00_AQKBx_anb9UwSjlQctTtH9wfTa5qKpK5_76LQJvLCbWsRw&oe=6A9FBC07",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/773028748_18151831597510034_373631528983432869_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MDY2MDQzNzYzNjk4OTgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cZaVWaBI-Q8Q7kNvwFbdFt8&_nc_oc=AdrmFCH07MD5chQmk5yS236O-X7VVOyP-M5UkZk-1ImiFBcK9LH2dBusbsTH2z0IBeY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=PBdJy8Mjue36jo-g5iP6Tg&_nc_ss=7a22e&oh=00_AQJbE-4ld8rGuvr47TYWdD98bkvoCW8FYOYER05aH_mBPQ&oe=6AA10D87",
       "caption": "#제품제공 @laserin_swim\n\n올 여름 라세린의 𝐒𝐮𝐧 𝐆𝐥𝐨𝐰 매력에 빠지실 분들 보세요~\n\n노을빛이 불꽃처럼 은은하게 번져가는 코랄 그라데이션 색감이\n너무 예뻐서 입기만 해도 기분 전환이 될 것 같아요♥️💖💛🤍\n\n영상 보시면 움직일때마다 빛에 따라 일렁이는 홀로그램 광택을 보실 수 있을거에요🥰\n입수하면 또 얼마나 영롱할지 감도 안와요 ㅎㅎ\n라세린 역시 포일 맛집 맞네요💖👍\n화이트 안감이 있어서 입수 시 톤다운도 되지 않고 비침 걱정도 없습니다👏👏👏\n\n입어 보니 기존 라세린 사이즈 보다는 조금 더 타잇한 느낌이지만\n그래도 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 220,
         "comments": 60
       },
-      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -173,23 +173,29 @@
           "views": null,
           "likes": 220,
           "comments": 60
+        },
+        {
+          "d": "2026-09-05",
+          "views": null,
+          "likes": 220,
+          "comments": 60
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 248.0,
-        "n": 10,
-        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+        "eng_median": 274,
+        "n": 11,
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
-        "er": 0.0288481351741191,
-        "vs_baseline": 1.1290322580645162,
+        "er": 0.0288421920065925,
+        "vs_baseline": 1.0218978102189782,
         "cost_per_eng": 246.42857142857142,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 220 · 댓글 60 · ER 2.9% · 평소대비 1.1x (D+24)",
+      "last_written_reaction": "좋아요 220 · 댓글 60 · ER 2.9% · 평소대비 1.0x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.88x로 소폭 하회하나 참여율 2.37%·CPE 301원은 안정적—3일차 추이 지속 모니터링 권장.",
@@ -211,6 +217,6 @@
     "account_unavailable": false
   },
   "child_db_id": "92d39eba-97ed-8395-aec0-0140804a5d4c",
-  "followers": 9706,
-  "last_written_score": 113
+  "followers": 9708,
+  "last_written_score": 102
 }

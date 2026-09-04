@@ -1,0 +1,27 @@
+{
+  "page_id": "3d139eba-97ed-8097-9790-d4824fb5e681",
+  "row_title_raw": "body__barbie",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "40000",
+  "product_value_krw": 390000,
+  "delivery_date": "2026-09-04",
+  "output_link_prop": null,
+  "username": "body__barbie",
+  "followers_notion": 40000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "78939eba-97ed-83b6-998a-011bf45926e5",
+  "followers": 40000
+}

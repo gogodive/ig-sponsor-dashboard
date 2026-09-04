@@ -1,0 +1,27 @@
+{
+  "page_id": "3d139eba-97ed-80e2-bcdd-cf3363fb2b58",
+  "row_title_raw": "meow_swim",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "4494",
+  "product_value_krw": 69000,
+  "delivery_date": "2026-08-31",
+  "output_link_prop": null,
+  "username": "meow_swim",
+  "followers_notion": 4494,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "9b039eba-97ed-83ad-bda6-814af4d018ad",
+  "followers": 4494
+}

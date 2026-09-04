@@ -1,7 +1,7 @@
 {
   "page_id": "3b939eba-97ed-804a-ad65-d2e0accd03a7",
   "row_title_raw": "feeling1044",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,50 @@
   "followers_notion": 125000,
   "posts": [
     {
+      "notion_row_id": "3d139eba-97ed-802d-b3a6-e8809193d851",
+      "url": "https://www.instagram.com/reel/Dc1D036zGjA/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "shortcode": "Dc1D036zGjA",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-04",
+      "first_seen": "2026-09-05",
+      "posted_at": "2026-09-03T14:48:55.000Z",
+      "permalink": "https://www.instagram.com/p/Dc1D036zGjA/",
+      "thumbnail": "https://instagram.fper6-1.fna.fbcdn.net/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=PM6PtU78t50Q7kNvwFNVXBy&_nc_oc=Adpr4OfQqW17DdluHcKrHaykFd6E4YAOwGfWlQzwbdoa0a3DyAT54CEZBY-ZNwA_ABoRzw1PW2szDqQrjIkWzvAk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fper6-1.fna&_nc_gid=eB0gv_vrjMgNAiK0aAWOKw&_nc_ss=7a22e&oh=00_AQI_hKcfOnzYmLP6xFJcwGi5sgJNje9MdlQiL_l3eEls3A&oe=6AA11585",
+      "caption": "프리다이빙 배우고 왔어요💙\n\n인어공주 되는 그날까지...♡🧜🏻‍♀️⭐\n.\n.\n.\n\r\n@intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "feeling1044",
+      "metrics": {
+        "views": 5047,
+        "likes": -1,
+        "comments": 17
+      },
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
+      "history": [
+        {
+          "d": "2026-09-05",
+          "views": 5047,
+          "likes": -1,
+          "comments": 17
+        }
+      ],
+      "baseline": {
+        "views_median": 11132,
+        "eng_median": 51,
+        "n": 5,
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.00012776593281109007,
+        "vs_baseline": 0.4533776500179662,
+        "cost_per_eng": 9812.5,
+        "cost_per_view": 31.107588666534575
+      },
+      "last_written_reaction": "조회 5,047 · 좋아요 -1 · 댓글 17 · ER 0.0% · 평소대비 0.5x (D+1)"
+    },
+    {
       "notion_row_id": "99739eba-97ed-8247-85d5-01cd15b7dfac",
       "url": "https://www.instagram.com/p/DcfIkFckxYC/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
       "shortcode": "DcfIkFckxYC",
@@ -25,7 +69,7 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-26T02:25:01.000Z",
       "permalink": "https://www.instagram.com/p/DcfIkFckxYC/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/785925487_18625771795057426_8836744760693363196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTkzMDQ5MzIzNDgwNzE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3xTQ6q1u1w4Q7kNvwE5kDou&_nc_oc=Adof6L-l9I9JiSsg0wwCowNSCEJwwrsOR4CMjomzpquDrF9IFD6SfG_E0DSaYi_V5Z4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=tjthC-tHO_dBHkyxwg8vrQ&_nc_ss=7a22e&oh=00_AQJjLgslyM-_ifd5uaJfLFwVjfcn9QodvTWHDbKUQUnX5g&oe=6A9FB6E5",
+      "thumbnail": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-15/785925487_18625771795057426_8836744760693363196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MTkzMDQ5MzIzNDgwNzE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=g64KEP2nNUwQ7kNvwE_7CIT&_nc_oc=AdpaOP4dcBi6WSmTlJ6kheQjA9yKpK78fV38FRGdHBRxqGwKMd7_W-jczXLmok5IKBs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=EdUKMpLEzgb430NULnsjlg&_nc_ss=7a22e&oh=00_AQKNd9_yJzmmRUr0-LQtjyQSDmS7Hdsl7gXFE9se2rR9KQ&oe=6AA10865",
       "caption": "나의 첫  #프리다이빙 도전🧜🏻‍♀️\n\n스쿠버다이빙 이후 너무 배워보고 싶었는데\n또 하나의 목표가 생겼다⁽̨̡ ¨̮ ⁾̧̢\n\n물속에서 더 빛나는 나의 첫 핀 ,\n인어의 꼬리가 되어주렴💙✨\n\n\r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +78,7 @@
         "likes": -1,
         "comments": 43
       },
-      "metrics_updated_at": "2026-09-04T08:05:32.290830+09:00",
+      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
       "history": [
         {
           "d": "2026-08-28",
@@ -83,23 +127,29 @@
           "views": null,
           "likes": -1,
           "comments": 43
+        },
+        {
+          "d": "2026-09-05",
+          "views": null,
+          "likes": -1,
+          "comments": 43
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 43,
-        "n": 11,
-        "captured_at": "2026-09-04T08:05:32.290830+09:00"
+        "eng_median": 43.5,
+        "n": 12,
+        "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.00033534272825262485,
-        "vs_baseline": 0.9767441860465116,
-        "cost_per_eng": 7476.190476190476,
+        "er": 0.00033538557362911144,
+        "vs_baseline": 0.9655172413793104,
+        "cost_per_eng": 3738.095238095238,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 43 · ER 0.0% · 평소대비 1.0x (D+8)",
+      "last_written_reaction": "좋아요 -1 · 댓글 43 · ER 0.0% · 평소대비 1.0x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.93x로 기준치를 소폭 하회, 참여 1건당 7,850원은 다소 높아 추가 모니터링 필요.",
@@ -116,6 +166,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a9639eba-97ed-8329-a298-016484940076",
-  "followers": 125245,
-  "last_written_score": 98
+  "followers": 125229,
+  "last_written_score": 71
 }
