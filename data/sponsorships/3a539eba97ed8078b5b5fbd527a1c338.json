@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-07T02:24:11.000Z",
       "permalink": "https://www.instagram.com/p/DbuNXVjGEc7/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/766074402_18606717427029996_5944028706696919074_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1ODE1MzczOTMzOTE3Nzg4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rYFEXbpcLA4Q7kNvwF3zRtC&_nc_oc=Ado1wSFLXt6ocJyU8WZB2ac-ZbkQwuhzs8atW3iyQYeha_-Gi_HYA-b3cLk0BbNoFrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=RG5CP_22HXt-c2VmWRrxgA&_nc_ss=7a22e&oh=00_AQKC2uMuGy3-dsS_f34DAv7v62Hony0N8G4-mnZRnMz05Q&oe=6AA139A1",
+      "thumbnail": "https://instagram.fagp3-1.fna.fbcdn.net/v/t51.82787-15/766074402_18606717427029996_5944028706696919074_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1ODE1MzczOTMzOTE3Nzg4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rYFEXbpcLA4Q7kNvwEFpaPY&_nc_oc=AdplhEny9yNehtsuvLcYCy4umissikAKlje_7fCakm7rlMIEUHsWJIIHHF8vKf_-oRk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fagp3-1.fna&_nc_gid=ul7h3S3U6V5THGRtxbWbhg&_nc_ss=7a22e&oh=00_AQIewmUiM7t1fPxpg7mssRnjDMry9NsWCcgWuw7uR_Y00w&oe=6AA28B21",
       "caption": "#제품협찬 \n🌊 바다를 즐기고, 바다를 지키는 순간까지 함께한 스윔웨어🩷\n\n이번 플로빙에서 착용한 라세린 레이나 선셋코랄 와이백 우먼🥥\n\n바다에서 플로빙을 할 때도, 풀장에서 스쿠버 슈트 이너웨어로도 착용해봤는데 활동성이 정말 좋았어요!!\n\n와이백 디자인이라 어깨 가동 범위가 넓어 핀킥이나 장비 착용 시에도 움직임이 편안했고, 슈트 안에서도 들뜸 없이 몸을 안정감 있게 잡아줘서 장시간 착용에도 부담이 없었고 어깨쓸림도 없었어요!\n\n은은한 잔 펄이 있는 선셋 코랄 컬러는 물 밖에서는 화사하고, 물속에서도 예쁘게 표현되어 사진까지 만족",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 118,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
+      "metrics_updated_at": "2026-09-06T07:42:59.494087+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -101,16 +101,22 @@
           "views": null,
           "likes": 118,
           "comments": 6
+        },
+        {
+          "d": "2026-09-06",
+          "views": null,
+          "likes": 118,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 150.5,
         "n": 12,
-        "captured_at": "2026-09-05T07:52:56.308501+09:00"
+        "captured_at": "2026-09-06T07:42:59.494087+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.06048780487804878,
         "vs_baseline": 0.8239202657807309,
@@ -124,7 +130,7 @@
           "analyzed_at": "2026-08-26T06:32:00.985216+09:00"
         }
       },
-      "last_written_reaction": "좋아요 118 · 댓글 6 · ER 6.0% · 평소대비 0.8x (D+28)"
+      "last_written_reaction": "좋아요 118 · 댓글 6 · ER 6.0% · 평소대비 0.8x (D+29)"
     }
   ],
   "flags": {

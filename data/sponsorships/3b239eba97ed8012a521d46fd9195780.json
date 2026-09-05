@@ -25,7 +25,7 @@
       "first_seen": "2026-08-14",
       "posted_at": "2026-08-07T09:34:04.000Z",
       "permalink": "https://www.instagram.com/p/Dbu-j7fExVz/",
-      "thumbnail": "https://instagram.frec1-2.fna.fbcdn.net/v/t51.82787-15/765263347_17951878923229389_1458277243089636000_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1ODM3MTM5OTA1MjI3Nzk1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=nvY5jkaHKDcQ7kNvwF_Qr-j&_nc_oc=AdpmC4BGMH9gByEo_QjiGSI1WbMeQmmNbQGpEA0ck-w310awNpZaGPBPSvK30v-1zTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frec1-2.fna&_nc_gid=P31MgrVHFI1gWr8Ui8KZLg&_nc_ss=7a22e&oh=00_AQKDJoy7_xDOUhc7gVAHUMqcSsgHcggeE2Qaq4ITUAedYA&oe=6AA12D65",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/765263347_17951878923229389_1458277243089636000_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1ODM3MTM5OTA1MjI3Nzk1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=AK3VU1J9GF4Q7kNvwEdlmr7&_nc_oc=AdqAbex3RwoMWixO98D9yX_56XuVNjkz2bSVhVw4CHik8ZimM3Sd-2H5XM3NIpaNnNU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=oijVGxRaxGANKcDjPSDoQg&_nc_ss=7a22e&oh=00_AQKZ0vNozu21cNFtA9YphM8WMydMjuTY9Sxtjetyny6arA&oe=6AA27EE5",
       "caption": "@laserin_swim 의 신상 🩵 포레스트글로우 🩵 후기 \n#라세린수영복 #수영복추천 #신상추천 #제품제공 \n.\n.\n요즘 너무 더워 퇴근 후 친구랑 한강수영장 접선👍\n반짝임이 예술인 이번신상의 장점 소개해볼게요 ✨\n\n🦋 쿨톤의 정수 \n이번 피치&글로우 라인에서 쿨톤인 피부톤과 맞는 색으로 \n화사함 미쳤습니다 🫶 쿨톤러들 기존 템들과 입어도 어색하지 않아요 \n\n🦋360도 펄감\n위아래 양옆 어디로 보나 햇빛이면 햇빛, 조명이면 조명 어디서나 영롱보쓰입니다 ✨ 해가 떨어져서 펄감 없나 했는데 존재감이 은은하니 있어요\n\n🦋픽스드백 & ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 62,
         "comments": 10
       },
-      "metrics_updated_at": "2026-09-05T07:52:56.308501+09:00",
+      "metrics_updated_at": "2026-09-06T07:42:59.494087+09:00",
       "history": [
         {
           "d": "2026-08-14",
@@ -173,16 +173,22 @@
           "views": null,
           "likes": 62,
           "comments": 10
+        },
+        {
+          "d": "2026-09-06",
+          "views": null,
+          "likes": 62,
+          "comments": 10
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 73.5,
         "n": 10,
-        "captured_at": "2026-09-05T07:52:56.308501+09:00"
+        "captured_at": "2026-09-06T07:42:59.494087+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.1381957773512476,
         "vs_baseline": 0.9795918367346939,
@@ -201,7 +207,7 @@
           "analyzed_at": "2026-08-22T06:28:03.167813+09:00"
         }
       },
-      "last_written_reaction": "좋아요 62 · 댓글 10 · ER 13.8% · 평소대비 1.0x (D+28)"
+      "last_written_reaction": "좋아요 62 · 댓글 10 · ER 13.8% · 평소대비 1.0x (D+29)"
     }
   ],
   "flags": {
