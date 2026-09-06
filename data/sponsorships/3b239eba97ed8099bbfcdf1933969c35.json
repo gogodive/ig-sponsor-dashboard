@@ -25,16 +25,16 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-22T06:37:36.000Z",
       "permalink": "https://www.instagram.com/p/DcVSSnBlBAF/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/780949600_18098156039356140_4920765349249528916_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2OTE1ODkzMzc4ODQ5OTQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kPwK5edV_3cQ7kNvwHzA_h7&_nc_oc=AdrCdh9172FXPsqGRjQ4XATj_lT7LBXG03CodYoO9FDouvG5QoHlHX6a59C0gBtJ7WU&_nc_ad=z-m&_nc_cid=1020&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=kn06k2hLLyO3SQAvuiE1qA&_nc_ss=7a22e&oh=00_AQL5GUYoBZOeuSkKBVNYUPgcI03decZleRuVOEU9N2FraQ&oe=6AA26332",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/780949600_18098156039356140_4920765349249528916_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2OTE1ODkzMzc4ODQ5OTQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kPwK5edV_3cQ7kNvwE4JOlW&_nc_oc=AdrBOnN1VAsqmN41lt9DPicNbC1KxcR4B_gAowWvt4HgjlZoEWEKpO57n4NwOW9CCSHYWMBdx8pteZRkdHpg9N8O&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=rAlixOKxpuptXroOGJYAdw&_nc_ss=7a22e&oh=00_AQKoQHtbvzQiioTZFXodad7Jlsc5L7mQ4rR6ujLpyXRBAw&oe=6AA3B4B2",
       "caption": "라세린 포레스트 글로우 🌳🍏🧚🏼✨\n민트 아쿠아 컬러에 청량한 오로라 광택이 올라가 있어 빛이랑 각도에 따라 달라지는데, 진짜 매순간 영롱함이 미쳐요..˙✧˖° 🫧 💎\n⠀\n픽스드백은 가슴과 몸을 딱 잡아줘서 수영하는데 불편함이 없고 미들컷에 안정적인 가슴선으로 키큰 제가 입어도 너무 편했어요!\n전 컷을 살짝 올려 입었는데 그래서 더 만족합니동ㅎㅎ\n노출이 부담스러운 분들도 입기 좋을 것 같아요!\n⠀\n🌳🍏✨ @laserin_swim \n포레스트글로우 l Forest Glow [size S]\n• 두겹수영복(비침없음)\n• 포일수영복\n• 브라고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "joooo0_tpr",
       "metrics": {
-        "likes": 119,
+        "likes": 120,
         "comments": 36
       },
-      "metrics_updated_at": "2026-09-06T07:42:59.494087+09:00",
+      "metrics_updated_at": "2026-09-07T07:48:02.919831+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -107,20 +107,26 @@
           "views": null,
           "likes": 119,
           "comments": 36
+        },
+        {
+          "d": "2026-09-07",
+          "views": null,
+          "likes": 120,
+          "comments": 36
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 129,
         "n": 7,
-        "captured_at": "2026-09-06T07:42:59.494087+09:00"
+        "captured_at": "2026-09-07T07:48:02.919831+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
-        "er": 0.23846153846153847,
-        "vs_baseline": 1.2015503875968991,
-        "cost_per_eng": 445.16129032258067,
+        "er": 0.24,
+        "vs_baseline": 1.2093023255813953,
+        "cost_per_eng": 442.3076923076923,
         "cost_per_view": null
       },
       "analysis": {
@@ -135,7 +141,7 @@
           "analyzed_at": "2026-09-06T07:42:59.494087+09:00"
         }
       },
-      "last_written_reaction": "좋아요 119 · 댓글 36 · ER 23.8% · 평소대비 1.2x (D+14)"
+      "last_written_reaction": "좋아요 120 · 댓글 36 · ER 24.0% · 평소대비 1.2x (D+15)"
     }
   ],
   "flags": {
@@ -146,5 +152,5 @@
   },
   "child_db_id": "90c39eba-97ed-8267-a9a5-01258b6a98a9",
   "followers": 650,
-  "last_written_score": 120
+  "last_written_score": 121
 }

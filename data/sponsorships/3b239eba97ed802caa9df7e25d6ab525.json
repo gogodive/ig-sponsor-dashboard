@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-21T07:43:33.000Z",
       "permalink": "https://www.instagram.com/p/DcS1CpzE4VU/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/775375461_18375827314233378_1087905768508528682_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2ODQ2NjEyMTY1Mjk5MjU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NaHQ5ZTbiFkQ7kNvwFqW6Gd&_nc_oc=AdpVCRCmAXm18sATdAut0m8vu58aclLY7D-xrq45hah1_PbsoHh5ubEGF7S8iMCcCTg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=5mETYaosx8KN6El9ksafLg&_nc_ss=7a22e&oh=00_AQIeVCCXMMEbwgCTqzBh9TWWbwdIzHRcsyIofRnbddsanw&oe=6AA263DD",
+      "thumbnail": "https://instagram.foax2-1.fna.fbcdn.net/v/t51.82787-15/775375461_18375827314233378_1087905768508528682_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2ODQ2NjEyMTY1Mjk5MjU3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=B018EHcjDI4Q7kNvwE1czPK&_nc_oc=AdrvRNifHISzp02T0LfdtNi0belmyUHZZ4PNsLXLnqjOP4jauoAFJO49k5MnfIef2So&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.foax2-1.fna&_nc_gid=6N7KHHuxE8z8H8IwnmEsJg&_nc_ss=7a22e&oh=00_AQJ7iAsA4zcYYRVgPdGHV8lfr1yQgOxiZn3XdvuxWv8DAg&oe=6AA3B55D",
       "caption": "#제품제공 LASERIN 포레스트 글로우 | Forest Glow ✨\n\n🏝️ 울릉도의 맑고 푸른 바다에서 입어본 라세린 포레스트 글로우 🥝🫧\n\n민트 아쿠아 컬러에 은은하게 반짝이는 광택이 더해져\n맑고 청순하면서도 상큼한 느낌이 가득해요 🍋\n\n특히 쿨톤인 저한테도 찰떡이라\n피부톤이 한층 더 맑아 보이는 느낌!\n\n픽스드백이라 물속에서도 안정감 있게 잡아줘서 \n\n바다부터 실내 수영장, 야외 수영 어디서든 편하게 입기 좋을 것 같아요 🦦👙\n\n* Back Type: Fixed Back\n\nSize Tip . 153cm/44~55\n• 포레스트 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 4
       },
-      "metrics_updated_at": "2026-09-06T07:42:59.494087+09:00",
+      "metrics_updated_at": "2026-09-07T07:48:02.919831+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -89,23 +89,29 @@
           "views": null,
           "likes": -1,
           "comments": 4
+        },
+        {
+          "d": "2026-09-07",
+          "views": null,
+          "likes": -1,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 63.0,
         "n": 12,
-        "captured_at": "2026-09-06T07:42:59.494087+09:00"
+        "captured_at": "2026-09-07T07:48:02.919831+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.0045045045045045045,
         "vs_baseline": 0.047619047619047616,
         "cost_per_eng": 23000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.0x (D+15)",
+      "last_written_reaction": "좋아요 -1 · 댓글 4 · ER 0.5% · 평소대비 0.0x (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.16x의 극히 저조한 반응에 참여 1건당 비용 23,000원으로, 팔로워 666명 소규모 계정치고도 초기 성과가 기대에 크게 못 미침.",

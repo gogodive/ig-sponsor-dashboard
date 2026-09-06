@@ -25,7 +25,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-06T11:12:10.000Z",
       "permalink": "https://www.instagram.com/p/Dbsk20lCY_r/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/762688885_18105091127599476_4189855257261363377_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1NzcwMDI2OTUzMzkyNTM1NTE4MTA1MDkxMTI0NTk5NDc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjUwOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=HUwB59UI1doQ7kNvwEFKH_o&_nc_oc=AdrejvzLqSh5Q0Ixmi7HoLQS1CwQFujVEDKfyupWVdIf6DA06IT9jwJQV2xF5qg28mY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=8eB1J56wN-qKHWtfC7hqCw&_nc_ss=7a22e&oh=00_AQK_vOeLVzOMLDblyGwERauBwz_vppC3vMgrqwun6JO3bA&oe=6AA26F38",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/762688885_18105091127599476_4189855257261363377_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk1NzcwMDI2OTUzMzkyNTM1NTE4MTA1MDkxMTI0NTk5NDc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjUwOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=4Pn8rbyvu0IQ7kNvwFltD_n&_nc_oc=Adq9caJ-0FyFi0NqL8wn1A5gFCM5HR0zkdpeHrhb47IRlBAk-imeMjJc8rcr9HV9--yuOROCxUyBt0XrCMyj3_ps&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=nSIpTgBI8q-dBmzFgvLYkg&_nc_ss=7a22e&oh=00_AQIyClk4MT1_HehpFcGEkFf_-DD8Bty8LbPYUKcA4B9DRw&oe=6AA3C0B8",
       "caption": "뱃살아 많이빠져라🥹 @secrets__fit",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -218,15 +218,15 @@
           "comments": 6
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.029826858722537465,
+        "er": 0.029577261578415812,
         "vs_baseline": 3.5768077307564146,
         "cost_per_eng": 204.8780487804878,
         "cost_per_view": 3.9128004471771938
       },
-      "last_written_reaction": "조회 10,734 · 좋아요 199 · 댓글 6 · ER 3.0% · 평소대비 3.6x (D+30)",
+      "last_written_reaction": "조회 10,734 · 좋아요 199 · 댓글 6 · ER 3.0% · 평소대비 3.6x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "조회 3,006회·참여율 1.45%로 초기 수치는 낮은 편이며, 조회당 14원·참여당 532원 비용 효율도 아직 개선이 필요한 수준입니다.",
@@ -237,7 +237,9 @@
           "one_liner": "조회 10K·참여율 2.91%로 소규모 계정 대비 준수하나, 평소 대비 배수 데이터 부재로 실질 효율 판단이 제한적이며 1건당 215원은 양호한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-21T06:31:39.407472+09:00"
-        }
+        },
+        "final_verdict": "팔로워 6,931명 규모 계정에서 조회수 10,734회·참여율 2.96%를 기록했고, 평소 게시물 대비 3.58배 높은 성과는 콘텐츠 자체의 바이럴 유인이 작동했음을 시사한다. 조회 1회당 비용 3.9원, 참여 1건당 205원은 소규모 인플루언서 협찬 시장에서 양호한 효율이며, 상품 가액 84,000원 대비 도달 규모를 감안하면 비용 대비 가치는 긍정적으로 평가된다. 다만 댓글 6개로 실질적 구매 전환 의도 파악이 어렵고 베이스라인 표본(n=3)이 적어 안정성 해석에 주의가 필요하다.",
+        "final_at": "2026-09-07T07:48:02.919831+09:00"
       },
       "baseline": {
         "views_median": 3001,
@@ -255,7 +257,7 @@
       "first_seen": "2026-08-08",
       "posted_at": "2026-08-06T11:09:56.000Z",
       "permalink": "https://www.instagram.com/p/DbskvJeGq2b/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/764906904_18105090869599476_782908431187424558_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NzY5OTM3MDc0NDk1NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aDKn2D25IcgQ7kNvwEsXapm&_nc_oc=Adoq9l1BhP_31mfjlf_tC11p25EUquGHQLgzE334Uhqrzhd_0dhZwek6JZ1lib0Gmb8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=VWJpVfUnUk3L_Kaeljk1Ow&_nc_ss=7a22e&oh=00_AQLIsC_CaFfgzskd7dr6B1eBhfcsw3jLTd-kKSLq0gyEfA&oe=6AA2824F",
+      "thumbnail": "https://instagram.fbrs4-1.fna.fbcdn.net/v/t51.82787-15/764906904_18105090869599476_782908431187424558_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NzY5OTM3MDc0NDk1NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aDKn2D25IcgQ7kNvwH3CT1l&_nc_oc=AdrqDFSrS1z9BFeOlXwMuMULPx2LFmU7hCQAB2OeaJu1rtTJcApy2dRdFpk8Fw4qrp__fsCriciicH_qhycQ9eEK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbrs4-1.fna&_nc_gid=R5HndtJYqazeJwoiN8wTkA&_nc_ss=7a22e&oh=00_AQJzZ30i-ZscdkLuD0dvssJFzrezaxXSv-5R56pxfZnyUA&oe=6AA3D3CF",
       "caption": "#협찬 @secrets__fit \n운동복 고를때 어디가 좋은지 고민하고 둘러 보다가 지체되는 경우가 많지? \n이번에 좋은 운동복 낋여왔는데 소개해볼까해👏🏻👏🏻\n#시크릿스 운동복은 신축성 라인 다 고려해서 디자인이 잘나왔고 컬러도 파스텔 색깔처럼 이뻐서 운동,요가 뿐만 아니라 데일리에도 입기 좋은 디자인이라서 활용도는 up‼️ 고민하지말고 \n시크릿스 방문하기🤍🍀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -453,15 +455,15 @@
         "n": 12,
         "captured_at": "2026-09-06T07:42:59.494087+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.05252437072602939,
+        "er": 0.052084836242966386,
         "vs_baseline": 0.6563636363636364,
         "cost_per_eng": 116.34349030470914,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 353 · 댓글 8 · ER 5.3% · 평소대비 0.7x (D+30)",
+      "last_written_reaction": "좋아요 353 · 댓글 8 · ER 5.2% · 평소대비 0.7x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.19x로 팔로워 반응이 저조하나, 참여 1건당 235원으로 비용 효율은 준수한 수준—3일차 추이 지속 모니터링 필요.",
@@ -472,7 +474,9 @@
           "one_liner": "평소 대비 0.40x의 저조한 반응이나 팔로워 대비 참여율 5.16%·참여당 122원으로 비용 효율은 양호한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-21T06:31:39.407472+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 5.21%는 소규모 계정 기준으로 양호한 수준이며, 참여 1건당 비용 116원은 인플루언서 마케팅 평균 대비 매우 효율적인 수치다. 다만 평소 대비 0.66배라는 점은 협찬 게시물이 해당 계정의 일반 콘텐츠보다 반응을 끌어내지 못했음을 의미하며, 브랜드 메시지 전달력 측면에서 아쉬움이 남는다. 절대적 참여 효율은 합격선이나 콘텐츠 친화도 개선이 필요하므로, 재협찬 시 크리에이티브 방향 조율을 전제로 소규모 재진행을 검토할 만하다.",
+        "final_at": "2026-09-07T07:48:02.919831+09:00"
       }
     }
   ],
@@ -483,6 +487,6 @@
     "account_unavailable": false
   },
   "child_db_id": "d0e39eba-97ed-838d-8c9a-0141a56ce73e",
-  "followers": 6873,
+  "followers": 6931,
   "last_written_score": 212
 }

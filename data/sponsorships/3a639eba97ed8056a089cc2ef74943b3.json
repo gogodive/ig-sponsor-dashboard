@@ -25,17 +25,17 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-23T07:41:37.000Z",
       "permalink": "https://www.instagram.com/p/DcX-ThAsCLp/",
-      "thumbnail": "https://instagram.fmex40-1.fna.fbcdn.net/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=v5e2sk00iskQ7kNvwGXXJWE&_nc_oc=AdoBLTd0I94CtYWBOfFLjzvXJxETHxQgCZ86RWQ6eV_2UZfg2fGKYSqCvqg5gLPQ9hlhDJTYmcs6PgpcyqI0rRDA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex40-1.fna&_nc_gid=zZo1m3_YszUBNgGViFLbog&_nc_ss=7a22e&oh=00_AQL5vi4JbRaO-EPtw1c9OK5MGoG8Mc_l9ybpR8kAupgMfA&oe=6AA27EDF",
+      "thumbnail": "https://instagram.fngo4-2.fna.fbcdn.net/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=v5e2sk00iskQ7kNvwFRTcsa&_nc_oc=Ado6EQ4_7WsfbwlpXqHPbLI9O0IuRsmB5yxljx30BLZl8UU2GV0AAUEDjj0kfqDPGvmB54NH320-LrrHqwsgt6tb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fngo4-2.fna&_nc_gid=wBAm5w_5xjdJV_vorWnYGA&_nc_ss=7a22e&oh=00_AQJ8AT9aNCajpUKVjwkkfT5eZrm7kZQ0TWEUv6GgegR09w&oe=6AA3D05F",
       "caption": "@secrets__fit \n\n필테가는 날도, 각 잡고 운동하는 날도\n편하고 예쁘게 🤍\n\n운동할 때만 입기엔 아까운\n데일리한 나만의 애슬레저 룩 \n@secrets__fit 🫧",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yeongyohn",
       "metrics": {
-        "views": 1617,
+        "views": 1627,
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-06T07:42:59.494087+09:00",
+      "metrics_updated_at": "2026-09-07T07:48:02.919831+09:00",
       "history": [
         {
           "d": "2026-08-27",
@@ -102,24 +102,35 @@
           "views": 1617,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-09-07",
+          "views": 1627,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.00741839762611276,
+        "er": 0.007451564828614009,
         "vs_baseline": null,
         "cost_per_eng": 8300.0,
-        "cost_per_view": 25.66481137909709
+        "cost_per_view": 25.507068223724648
       },
       "analysis": {
         "d3": {
           "one_liner": "팔로워 671명 계정에서 조회 1,556회는 평소 대비 양호하나, 좋아요 미집계·참여비용 8,300원/건으로 비용 효율은 낮은 편.",
           "days": 3,
           "analyzed_at": "2026-08-27T09:33:46.172753+09:00"
+        },
+        "d14": {
+          "one_liner": "팔로워 671명 소규모 계정에서 조회 1,627회를 기록했으나 좋아요 미집계·참여율 0.75%로 조회당 비용 25.5원은 다소 높아 효율 개선이 필요하다.",
+          "days": 14,
+          "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
         }
       },
-      "last_written_reaction": "조회 1,617 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+13)"
+      "last_written_reaction": "조회 1,627 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+14)"
     },
     {
       "notion_row_id": "25e39eba-97ed-8208-980b-011b41a5ca87",
@@ -227,9 +238,9 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
-        "er": -0.001483679525222552,
+        "er": -0.0014903129657228018,
         "vs_baseline": null,
         "cost_per_eng": -41500.0,
         "cost_per_view": null
@@ -258,5 +269,5 @@
     "account_unavailable": false
   },
   "child_db_id": "bb339eba-97ed-83d2-a1d2-01fe37957581",
-  "followers": 674
+  "followers": 671
 }
