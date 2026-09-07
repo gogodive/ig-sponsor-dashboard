@@ -25,17 +25,17 @@
       "first_seen": "2026-08-12",
       "posted_at": "2026-08-10T22:43:34.000Z",
       "permalink": "https://www.instagram.com/p/Db4G7qOTb6v/",
-      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/771756325_18642670933032631_6645727216594780706_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MDk0NjM2MDMzNzY3Nzk5OTE4NjQyNjcwOTI3MDMyNjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=PDAjvEsk9OYQ7kNvwE9zFIY&_nc_oc=AdqA6j6xmSsy7DY1zT1beAcz5E3D00F8tl2Hn5KeSk5hX99TwYn-vcIGJC13gV1FoBCmewGXZrhekXGf5FlihZuL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=J0E-HM3TFiAsAKAor6eCZg&_nc_ss=7a22e&oh=00_AQJvFKosBgg5U7ITjDinFkakI6gfk4pNh3DAeZ7-8qIPcA&oe=6AA3B4B3",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/771756325_18642670933032631_6645727216594780706_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2MDk0NjM2MDMzNzY3Nzk5OTE4NjQyNjcwOTI3MDMyNjMx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=sH0FKkSloUIQ7kNvwGxwysE&_nc_oc=AdpTpijKUVi-0lcftqrZvw-chXgbWA7CVfiMDxfkCwXQCaJsY_VeWKTT_hQVf0XzBLH-6xfNS0nUUunXi7Gqdytz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=KbX5a1xGwwyK1NW4sTqWJw&_nc_ss=7a22e&oh=00_AQK8_MdMK_D6Edz4zFL6fFB1CIc2okZqqqz958kp2sNAUw&oe=6AA50633",
       "caption": "오랜만에 바다에 왔는데 태풍도 같이 왔음ㅎㅎㅎ\n\n요즘 내 최애 프다템🖤🤿\n마스크-고고 테르소 마스크(강화유리)\n스노클-딥바이브 에어로 스노클(양성부력)\n\n@intotheblue_store \n#인투더블루#딥바이브#에어로스노클#테르소마스크#프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "zzozzo_h",
       "metrics": {
-        "views": 6948,
+        "views": 6951,
         "likes": 79,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-07T07:48:02.919831+09:00",
+      "metrics_updated_at": "2026-09-08T08:20:50.848173+09:00",
       "history": [
         {
           "d": "2026-08-12",
@@ -198,23 +198,29 @@
           "views": 6948,
           "likes": 79,
           "comments": 11
+        },
+        {
+          "d": "2026-09-08",
+          "views": 6951,
+          "likes": 79,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": 53445,
         "eng_median": 530,
         "n": 9,
-        "captured_at": "2026-09-07T07:48:02.919831+09:00"
+        "captured_at": "2026-09-08T08:20:50.848173+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.017294388931591083,
-        "vs_baseline": 0.13000280662363178,
+        "vs_baseline": 0.1300589390962672,
         "cost_per_eng": 572.2222222222222,
-        "cost_per_view": 7.412204951065054
+        "cost_per_view": 7.4090058984318805
       },
-      "last_written_reaction": "조회 6,948 · 좋아요 79 · 댓글 11 · ER 1.7% · 평소대비 0.1x (D+27)",
+      "last_written_reaction": "조회 6,951 · 좋아요 79 · 댓글 11 · ER 1.7% · 평소대비 0.1x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.11x로 유입이 크게 저조하며, 조회당 8원·참여당 644원의 비용 효율도 개선이 필요한 초기 성과입니다.",
@@ -436,7 +442,7 @@
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.012298232129131437,
         "vs_baseline": 0.927536231884058,

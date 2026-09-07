@@ -25,17 +25,17 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-24T08:36:19.000Z",
       "permalink": "https://www.instagram.com/p/DcapGigRGSY/",
-      "thumbnail": "https://instagram.fper8-1.fna.fbcdn.net/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=B2M_-ihItSsQ7kNvwGDJOz7&_nc_oc=AdqLtwdvOZJV_pBqzqTjc_NnvLD8uQMGNoAC32y6qJDDu7Lwq9hqC_Cp3ROabY1MZLA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper8-1.fna&_nc_gid=WgnWpYdmA-8G3HfVocMifg&_nc_ss=7a22e&oh=00_AQIBs3Dkef9YaIvSSTNXwPpcaD2IfjB62ewqXvxPmfs90Q&oe=6AA3C275",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=B2M_-ihItSsQ7kNvwEuRYZW&_nc_oc=AdqL9nXL3PDMuYa8yGEfgUY5NrLSwNiZPWmxueBGWeyvJ9eFVq04hdBUGPH6aMf_2tYls9B24DxHoKMutVH8jY_w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=AgDU1-MwppGoX3CPM9t9Yg&_nc_ss=7a22e&oh=00_AQJmHMen4Y8RLoSO0SHADh5mjdfjMeAndlPfT30CBWoWGg&oe=6AA513F5",
       "caption": ".\n아직도 안타봤어?\n여름엔 e-foil\n\n👙 @laserin_swim \n\n#전동포일 #efoil\n#라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "haa.diya__",
       "metrics": {
-        "views": 5303,
-        "likes": 139,
+        "views": 5386,
+        "likes": 141,
         "comments": 9
       },
-      "metrics_updated_at": "2026-09-07T07:48:02.919831+09:00",
+      "metrics_updated_at": "2026-09-08T08:20:50.848173+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -114,28 +114,39 @@
           "views": 5303,
           "likes": 139,
           "comments": 9
+        },
+        {
+          "d": "2026-09-08",
+          "views": 5386,
+          "likes": 141,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": 2942,
         "eng_median": 191,
         "n": 3,
-        "captured_at": "2026-09-07T07:48:02.919831+09:00"
+        "captured_at": "2026-09-08T08:20:50.848173+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.008598652103183826,
-        "vs_baseline": 1.8025152957171993,
-        "cost_per_eng": 216.21621621621622,
-        "cost_per_view": 6.034320196115407
+        "er": 0.008714850104578202,
+        "vs_baseline": 1.8307273963290278,
+        "cost_per_eng": 213.33333333333334,
+        "cost_per_view": 5.941329372447085
       },
-      "last_written_reaction": "조회 5,303 · 좋아요 139 · 댓글 9 · ER 0.9% · 평소대비 1.8x (D+13)",
+      "last_written_reaction": "조회 5,386 · 좋아요 141 · 댓글 9 · ER 0.9% · 평소대비 1.8x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.35x로 무난한 출발이나 팔로워 대비 참여율 0.81%·참여당 229원은 개선 여지가 있어 최종 성과 추이 모니터링 필요.",
           "days": 3,
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.83x 조회로 선방했으나 팔로워 대비 참여율 0.87%·참여 1건당 213원은 다이빙·수중 특화 계정 기준 개선 여지가 있어 최종 정산 전 추가 모니터링 권장.",
+          "days": 14,
+          "analyzed_at": "2026-09-08T08:20:50.848173+09:00"
         }
       }
     },
@@ -233,7 +244,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.006623286079479433,
         "vs_baseline": 0.9156626506024096,
@@ -260,5 +271,5 @@
   },
   "child_db_id": "93939eba-97ed-822c-9d69-8141a0c902d7",
   "followers": 17212,
-  "last_written_score": 136
+  "last_written_score": 137
 }
