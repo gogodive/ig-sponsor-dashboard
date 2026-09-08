@@ -19,7 +19,7 @@
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": false,
+    "overdue_no_output": true,
     "account_unavailable": false
   },
   "child_db_id": "f4839eba-97ed-82cc-8d33-81661f08f482",

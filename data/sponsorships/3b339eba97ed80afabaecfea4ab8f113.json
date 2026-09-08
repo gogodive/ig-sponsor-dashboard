@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-08T13:27:56.000Z",
       "permalink": "https://www.instagram.com/p/Dbx-HrblEqA/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/771453926_17998554377996050_5613500510954209206_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1OTIxNzY4MDk3MDUyMzMzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nIscfLXyyQUQ7kNvwHpgaAL&_nc_oc=Adrj6TST5rDCpQKVAyyyMpbrFlhAgKYYVuWQArIBkc8FGTB22QYIIgM4oG9Ptl8fTWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=bZOsdhO-sxC6jDRDYMtNhQ&_nc_ss=7a22e&oh=00_AQIBz0wLHs5--IO9_D2tfwKI7LXlJeeH0XX3_c1IrxJ1Hg&oe=6AA536A4",
+      "thumbnail": "https://instagram.fper13-1.fna.fbcdn.net/v/t51.82787-15/771453926_17998554377996050_5613500510954209206_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk1OTIxNzY4MDk3MDUyMzMzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nIscfLXyyQUQ7kNvwEEvHBu&_nc_oc=Ado6d1Gcjeb907rzdVmqyZgB5riam6L6UsiimlCWx4zyocgIBGETi37q7IcUOZbq4zI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=qV1FA7ekHz-RkKCzF73OYQ&_nc_ss=7a22e&oh=00_AQLj5KiHVRBNK-WsEvSdPNjluhJ1TNvTKQxCgPqhCx4OoQ&oe=6AA68824",
       "caption": "요즘 러닝할 때 자주 입고 있는 시크릿스🖤\n\n움직임이 많은 러닝에도 편안하고,\n운동할 때는 물론 일상에서도 부담 없이 입기 좋은 애슬레저룩이라 손이 자주 가더라고요\n\n딱 붙는 티셔츠와 레깅스를 가장 좋아하는 나 !\n상의 , 하의 모두 내 취향저격 시크릿스로 장착 완료\n\n그리고 신정호 러닝까지 완료🏃‍♀️ \n\n편안한 착용감에 핏까지 챙기고 싶은 분들께 추천✨\n\n@secrets__fit\n\n#시크릿스 #애슬레저룩 #레깅스 #러닝 #fyp",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -145,8 +145,8 @@
           "comments": 58
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.3563218390804598,
         "vs_baseline": null,
@@ -163,9 +163,11 @@
           "one_liner": "좋아요 2,151·참여율 36%로 소규모 계정 치고 폭발적 반응, 건당 19원의 극저비용으로 비용 효율 최상위권 중간 성과.",
           "days": 14,
           "analyzed_at": "2026-08-23T06:25:41.150876+09:00"
-        }
+        },
+        "final_verdict": "팔로워 7,047명 규모의 계정에서 좋아요 2,453개·댓글 58개로 참여율 35.63%를 기록한 것은 인스타그램 평균(1~3%)을 크게 상회하는 이례적 성과로, 콘텐츠가 팔로워층과 매우 높은 공명을 이뤘음을 의미한다. 참여 1건당 비용이 17원에 불과해 83,000원의 협찬 비용 대비 가성비는 매우 우수하다. 단, 조회수 데이터가 확보되지 않아 실제 도달 범위를 정량화하기 어렵고, 계정 규모가 소형(마이크로)인 만큼 절대적 노출량보다는 충성 팔로워 내 브랜드 인지도 제고 측면에서 성과를 해석하는 것이 적절하다.",
+        "final_at": "2026-09-09T08:15:29.760160+09:00"
       },
-      "last_written_reaction": "좋아요 2,453 · 댓글 58 · ER 35.6% (D+30)"
+      "last_written_reaction": "좋아요 2,453 · 댓글 58 · ER 35.6% (확정)"
     },
     {
       "notion_row_id": "dd639eba-97ed-829f-9c21-011e1089f390",
@@ -176,17 +178,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-09T01:49:35.000Z",
       "permalink": "https://www.instagram.com/p/DbzS8tvsGCB/",
-      "thumbnail": "https://instagram.ficn2-2.fna.fbcdn.net/v/t51.82787-15/771709045_17998638905996050_2259236805923418081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1OTU5MTgzNDUxMzA3MjI1NzE3OTk4NjM4OTAyOTk2MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yfcT6hMhqwgQ7kNvwG-7FJl&_nc_oc=AdpfxZldSn879Flo89q107C6PPAid0d81Ul4iJDckDNWDhY4GBRn91pcoNc1wP1TCpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ficn2-2.fna&_nc_gid=7RkkqTyMbNRSrGNjoKj0jg&_nc_ss=7a22e&oh=00_AQK4SEZ_dcgflM_YZP9ELgx5uLegOD0uhdMVmf-BtwQMRQ&oe=6AA53063",
+      "thumbnail": "https://instagram.fein1-2.fna.fbcdn.net/v/t51.82787-15/771709045_17998638905996050_2259236805923418081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1OTU5MTgzNDUxMzA3MjI1NzE3OTk4NjM4OTAyOTk2MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yfcT6hMhqwgQ7kNvwFgK3Wm&_nc_oc=AdoDsXGiVlU8qfb9Q50WWHoGrTHnGukLSr5UJ8fhKjtzCSrgeTnt8UutbAUyWWqMisg&_nc_ad=z-m&_nc_cid=1207&_nc_zt=23&_nc_ht=instagram.fein1-2.fna&_nc_gid=TmJQiXlbkr5rS13HvA4AYQ&_nc_ss=7a22e&oh=00_AQKPt5pFHqUzMt8r6FSP5EXCtmjQrbufj4MUYMMTYt352w&oe=6AA681E3",
       "caption": "특별한 건 없고, 그냥 달리는 시간이 좋다.\n\n하루를 정리하는 가장 좋은 방법🏃‍♀️✨\n\n@secrets__fit\n\n#시크릿스 #러닝 #애슬레저룩 #fyp #운동",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "from__yj__",
       "metrics": {
-        "views": 23520,
+        "views": 23589,
         "likes": 619,
         "comments": 48
       },
-      "metrics_updated_at": "2026-09-08T08:20:50.848173+09:00",
+      "metrics_updated_at": "2026-09-09T08:15:29.760160+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -295,21 +297,27 @@
           "views": 23520,
           "likes": 619,
           "comments": 48
+        },
+        {
+          "d": "2026-09-09",
+          "views": 23589,
+          "likes": 619,
+          "comments": 48
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 806.5,
         "n": 12,
-        "captured_at": "2026-09-08T08:20:50.848173+09:00"
+        "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.09465020576131687,
         "vs_baseline": null,
         "cost_per_eng": 62.21889055472264,
-        "cost_per_view": 1.7644557823129252
+        "cost_per_view": 1.7592945864597906
       },
       "analysis": {
         "d3": {
@@ -323,7 +331,7 @@
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
         }
       },
-      "last_written_reaction": "조회 23,520 · 좋아요 619 · 댓글 48 · ER 9.5% (D+29)"
+      "last_written_reaction": "조회 23,589 · 좋아요 619 · 댓글 48 · ER 9.5% (D+30)"
     }
   ],
   "flags": {

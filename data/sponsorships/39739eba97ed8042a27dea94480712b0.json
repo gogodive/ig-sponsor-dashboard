@@ -25,16 +25,16 @@
       "first_seen": "2026-08-25",
       "posted_at": "2026-08-22T09:55:15.000Z",
       "permalink": "https://www.instagram.com/p/DcVo6KHiYDR/",
-      "thumbnail": "https://instagram.fgla3-2.fna.fbcdn.net/v/t51.82787-15/784077401_18615640666054735_8349759400601234217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTI1NjgyOTEzOTQ5OTM4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GPtH2tELJP4Q7kNvwGjVfCU&_nc_oc=AdpxbV2GUz2vOr94lcXdKgOROHGpPnuSWyZOH2_64ExaCKNbl0JKYmeSyx4EE1ufwHeU9CopYcahWKd2IBLYj1sY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fgla3-2.fna&_nc_gid=CgMCwvIVXRuiUuSVIcKtPw&_nc_ss=7a22e&oh=00_AQImqwSe37y1mwTMouBgsbSAOOPT3aCagXjcy1SZPpTB6A&oe=6AA52578",
+      "thumbnail": "https://instagram.fymq2-1.fna.fbcdn.net/v/t51.82787-15/784077401_18615640666054735_8349759400601234217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTI1NjgyOTEzOTQ5OTM4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEwNi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=GPtH2tELJP4Q7kNvwFajLbh&_nc_oc=AdqUbqRj5M3XN4zOuzP1LpvRUxiO1J1nqeTnsvUVh6K0rT4IAXKsrbGeMMb8hx6Ek4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fymq2-1.fna&_nc_gid=6yuyZvfxjLDzoSsGOXYU4A&_nc_ss=7a22e&oh=00_AQIJh9jfy6DDgmRCcj4rFXNOBpWJY2a1lBRAYXKKw2WXdQ&oe=6AA676F8",
       "caption": "요즘 내 최애 딥바이브 롱핀 @intotheblue_store \n나 오로라 사랑하는데 딥바이브 오로라 빛이 너무 이뽀✨\n가벼워서 나한테 더 찰떡🤍\n문의사항 많았는데 친절하고 빠르게 답변해주셔서 감사했어요!\n\n#인투더블루#딥바이브#프리다이빙장비#프리다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "jjung.a__",
       "metrics": {
-        "likes": 5393,
+        "likes": 5396,
         "comments": 38
       },
-      "metrics_updated_at": "2026-09-08T08:20:50.848173+09:00",
+      "metrics_updated_at": "2026-09-09T08:15:29.760160+09:00",
       "history": [
         {
           "d": "2026-08-25",
@@ -125,23 +125,29 @@
           "views": null,
           "likes": 5393,
           "comments": 38
+        },
+        {
+          "d": "2026-09-09",
+          "views": null,
+          "likes": 5396,
+          "comments": 38
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 531,
-        "n": 5,
-        "captured_at": "2026-09-08T08:20:50.848173+09:00"
+        "eng_median": 489.0,
+        "n": 6,
+        "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
-        "er": 0.13335788827501535,
-        "vs_baseline": 10.227871939736346,
-        "cost_per_eng": 53.3971644264408,
+        "er": 0.1330851558864588,
+        "vs_baseline": 11.112474437627812,
+        "cost_per_eng": 53.367684946632316,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 5,393 · 댓글 38 · ER 13.3% · 평소대비 10.2x (D+16)",
+      "last_written_reaction": "좋아요 5,396 · 댓글 38 · ER 13.3% · 평소대비 11.1x (D+17)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 3.52배 높은 참여율과 건당 180원의 효율적 비용으로 협찬 초기 성과가 매우 긍정적입니다.",
@@ -163,6 +169,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e1239eba-97ed-83bf-966e-01ecff90a0de",
-  "followers": 40725,
-  "last_written_score": 1023
+  "followers": 40831,
+  "last_written_score": 1111
 }
