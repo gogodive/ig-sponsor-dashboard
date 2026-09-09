@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-14T08:07:53.000Z",
       "permalink": "https://www.instagram.com/p/DcA2QzSD7oy/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=p9GIik7Wv6YQ7kNvwEI5yNq&_nc_oc=AdqGbyqH3FbpkoBSE-g34DIi5mHZSFA8kl_mHgj9WeQcgf5gSFIuS-A3268fHOdSmmA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=2YV0-4e1de4fovYnoiEk1w&_nc_ss=7a22e&oh=00_AQK3IAe_A6-_eIrLoZDHcS6nyWTZ15S9o3mTFXKYIb_QfQ&oe=6AA654D9",
+      "thumbnail": "https://instagram.fbne5-1.fna.fbcdn.net/v/t51.82787-15/773677638_18618874765030490_8130220892853785506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2MzM5NjYzNTY4OTQxMDY5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sSoihdQ84x4Q7kNvwH4HQ8X&_nc_oc=Adq7SI25-nU-z1XQEd6bBAu5XxYOnki2UMEqr6n3DPmRNaVrJdIhHXHj6fP_SM-tCNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbne5-1.fna&_nc_gid=18QZSTyFQH0y2jgVdxx1yQ&_nc_ss=7a22e&oh=00_AQIoalbMAtALSPWGxE6k6bJApE5AQ0A3ZZcdixahXmH1jw&oe=6AA7A659",
       "caption": "산청 여름방학🍉🍃⛱️👙💙\n\n다합패밀리들(찐가족2)과 함께한 행복했던 여름방학💗\n\n이 특별한 여정에 나으ㅣ 최애 수영복👙\n블링블링 너무 예쁜 @laserin_swim 신상과 함께…💕\n\n시원해지니까 좋은데 시렁😭\nㅇㅕ름ㅇㅏ 가지마 나랑 놀ㅇㅏ✨\n\n👙 @laserin_swim \n🕶️ @ballonblanc_life \n📸 @jin__dalrae",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-09T08:15:29.760160+09:00",
+      "metrics_updated_at": "2026-09-10T08:03:45.398077+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -149,16 +149,22 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-09-10",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 14,
         "n": 9,
-        "captured_at": "2026-09-09T08:15:29.760160+09:00"
+        "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0007898270278808941,
         "vs_baseline": 0.7142857142857143,
@@ -177,7 +183,7 @@
           "analyzed_at": "2026-08-29T12:06:27.647284+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+25)"
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.1% · 평소대비 0.7x (D+26)"
     }
   ],
   "flags": {

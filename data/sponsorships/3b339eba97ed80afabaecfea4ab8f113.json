@@ -146,7 +146,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.3563218390804598,
         "vs_baseline": null,
@@ -178,7 +178,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-09T01:49:35.000Z",
       "permalink": "https://www.instagram.com/p/DbzS8tvsGCB/",
-      "thumbnail": "https://instagram.fein1-2.fna.fbcdn.net/v/t51.82787-15/771709045_17998638905996050_2259236805923418081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1OTU5MTgzNDUxMzA3MjI1NzE3OTk4NjM4OTAyOTk2MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yfcT6hMhqwgQ7kNvwFgK3Wm&_nc_oc=AdoDsXGiVlU8qfb9Q50WWHoGrTHnGukLSr5UJ8fhKjtzCSrgeTnt8UutbAUyWWqMisg&_nc_ad=z-m&_nc_cid=1207&_nc_zt=23&_nc_ht=instagram.fein1-2.fna&_nc_gid=TmJQiXlbkr5rS13HvA4AYQ&_nc_ss=7a22e&oh=00_AQKPt5pFHqUzMt8r6FSP5EXCtmjQrbufj4MUYMMTYt352w&oe=6AA681E3",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/771709045_17998638905996050_2259236805923418081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk1OTU5MTgzNDUxMzA3MjI1NzE3OTk4NjM4OTAyOTk2MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yfcT6hMhqwgQ7kNvwGNPU3f&_nc_oc=AdrqB_AIyFPQ-TLSa3_AH88ZNDlX_L2hPPuHyn4KhraCp7YePR3tpBYB1YiuBR-ql_g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=ixfm1Y1yOl7_eD7NgUZ__g&_nc_ss=7a22e&oh=00_AQJtqdr3pdU6DgA1hBWqpASAK8U0VrJbHpyZ6Dy9ptx0JA&oe=6AA7D363",
       "caption": "특별한 건 없고, 그냥 달리는 시간이 좋다.\n\n하루를 정리하는 가장 좋은 방법🏃‍♀️✨\n\n@secrets__fit\n\n#시크릿스 #러닝 #애슬레저룩 #fyp #운동",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -311,8 +311,8 @@
         "n": 12,
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.09465020576131687,
         "vs_baseline": null,
@@ -329,9 +329,11 @@
           "one_liner": "팔로워 대비 참여율 9.94%·참여당 68원으로 소형 계정 효율은 양호하나, 평소 대비 배수 데이터 없이 상대적 폭발력 판단은 유보.",
           "days": 14,
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
-        }
+        },
+        "final_verdict": "팔로워 7,047명 규모 대비 참여율 9.47%는 인플루언서 마케팅 업계 평균(1~3%)을 크게 상회하며, 댓글 48건은 실질적인 관심 유입을 의미한다. 참여 1건당 62원, 조회 1회당 1.8원이라는 단가는 소규모 인플루언서 협찬 기준으로 매우 효율적인 수준이다. 83,000원의 협찬 비용으로 23,589회 노출과 667건의 반응을 확보한 점을 고려하면, 비용 대비 가치가 높은 협찬으로 평가된다.",
+        "final_at": "2026-09-10T08:03:45.398077+09:00"
       },
-      "last_written_reaction": "조회 23,589 · 좋아요 619 · 댓글 48 · ER 9.5% (D+30)"
+      "last_written_reaction": "조회 23,589 · 좋아요 619 · 댓글 48 · ER 9.5% (확정)"
     }
   ],
   "flags": {

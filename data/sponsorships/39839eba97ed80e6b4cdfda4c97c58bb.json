@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-17T05:06:05.000Z",
       "permalink": "https://www.instagram.com/p/DcIP11inwNI/",
-      "thumbnail": "https://instagram.fplu19-1.fna.fbcdn.net/v/t51.82787-15/775685803_18103814024609037_5610428801940849323_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NTQ4OTAzNzU0NDQwNDM1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=IG_POjvfDd8Q7kNvwHmInyk&_nc_oc=Adp0de1OkeMV_NQ7Gf1S6GtFyF3rT1XX2MI2YMSWU0T_W3zlQwejQEW6strT_74cfyU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fplu19-1.fna&_nc_gid=Qc-f8LXVWdefp3PEnsNVzg&_nc_ss=7a22e&oh=00_AQJuQ_UO9-Zvvq-Tsmy5FxQn5IHKujAODhlubwIkhX6njg&oe=6AA66756",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/775685803_18103814024609037_5610428801940849323_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NTQ4OTAzNzU0NDQwNDM1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=n71OeWImAXgQ7kNvwFkW1ob&_nc_oc=AdomTz-8OYF1iDh957urp2WkP96nh0d1dvtFm3A13qNOE4jMZy-c-Vo3v2qK11liAUs4jifXV8CbEziJvxB9fP8n&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=ImTSwN1JTkPOCqDQsrlA5g&_nc_ss=7a22e&oh=00_AQLARgR0ako4I415TvDqbGcUEEdOTOKGWCCWVsEJd8Yeng&oe=6AA7B8D6",
       "caption": "오운완💪\n\n편하고 예쁜 운동복입고 , 운동하면 즐거움 두배💯\n\n✔️하염없이 쭈욱 늘어나는 스판 레깅스🔥\n✔️개미허리 만들어주는 요술 티 🐜\n\n착용하고 거울샷 필수^^\n\n@secrets__mkt1 \n\n#ㅇㅇㅇ #운동하는여자 #운동복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 363,
         "comments": 26
       },
-      "metrics_updated_at": "2026-09-09T08:15:29.760160+09:00",
+      "metrics_updated_at": "2026-09-10T08:03:45.398077+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -149,16 +149,22 @@
           "views": null,
           "likes": 363,
           "comments": 26
+        },
+        {
+          "d": "2026-09-10",
+          "views": null,
+          "likes": 363,
+          "comments": 26
         }
       ],
       "baseline": {
         "views_median": 2319.0,
         "eng_median": 229.5,
         "n": 6,
-        "captured_at": "2026-09-09T08:15:29.760160+09:00"
+        "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.036075303718816655,
         "vs_baseline": 1.6949891067538125,
@@ -177,7 +183,7 @@
           "analyzed_at": "2026-09-01T09:27:49.712538+09:00"
         }
       },
-      "last_written_reaction": "좋아요 363 · 댓글 26 · ER 3.6% · 평소대비 1.7x (D+22)"
+      "last_written_reaction": "좋아요 363 · 댓글 26 · ER 3.6% · 평소대비 1.7x (D+23)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-8017-a0ae-ffe66e063d71",
@@ -187,7 +193,7 @@
       "upload_date_notion": "2026-08-09",
       "first_seen": "2026-08-13",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -204,7 +210,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T05:41:45.000Z",
       "permalink": "https://www.instagram.com/p/Dbzsdx6K2Ma/",
-      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/764508872_18102547265609037_5657802264188202626_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1OTcwNDA1Nzg4OTM4MzE5NDE4MTAyNTQ3MjU5NjA5MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTcuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=UHg0HHXN0VoQ7kNvwFZY1U2&_nc_oc=AdrDZl7nplHWLA_zQ_Hkt3Cv67zX2tCNNBG14vTvc937A-vMDujK9TFT0EseWAQurEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=fR0tpeaWqqjO8FT2_vNUFg&_nc_ss=7a22e&oh=00_AQIato_RtpwWL-XNed6J-g5letuAQw3-pEyL_V02_Qd2Fw&oe=6AA68281",
+      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/764508872_18102547265609037_5657802264188202626_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1OTcwNDA1Nzg4OTM4MzE5NDE4MTAyNTQ3MjU5NjA5MDM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTcuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=UHg0HHXN0VoQ7kNvwFbEH4s&_nc_oc=Ado8NRW9i6sAgOexwhhLfwD-x3Et6kchCw8KpZObQcD7iDc3bfLlJl3il23rFSlQdFIXyA0GxIPGx3ICNtDLEMo1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=unou6GL7aD5V09AXOufQPA&_nc_ss=7a22e&oh=00_AQKlyndxutM2j_3ouq7YLQCB9RChK-t8EVB1QKhvw-G8cQ&oe=6AA7D401",
       "caption": "쫘악 늘어나는 미친 스판 🍑\n\n편안함이랑 핏 둘 다 절대 포기 못 하는 분들께 완전 추천해요!\n신기하게도 힙라인은 볼륨감 있게 싹 올려준답니다\n\n✔️답답한 쪼임 ZERO : 안 입은 것 같은 편안함\n✔️ 미친 신축성 & 스판 : 격렬한 운동도 문제없는 쫀쫀함\n✔️ 뒷태 여신 핏 : 자연스럽고 예쁜 힙업 라인 연출\n\n오늘 핏 자신감 올려준 시크릿스 레깅스 🖤\n\n#운동하는여자 #눈바디 #힙업레깅스 #편한레깅스",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -391,8 +397,8 @@
         "n": 6,
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.04201057219697672,
         "vs_baseline": 3.347563605002156,
@@ -409,9 +415,11 @@
           "one_liner": "평소 대비 3.17배 높은 참여로 참여당 136원·조회당 7.9원의 효율적 비용을 기록 중인 긍정적 중간 성과.",
           "days": 14,
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1만 명 규모 계정에서 평소 대비 3.35배의 조회 성과와 4.20%의 참여율은 업계 평균(1~3%)을 상회하는 양호한 결과로, 콘텐츠가 팔로워에게 유의미하게 소비됐음을 보여준다. 참여 1건당 135원, 조회 1회당 7.9원이라는 비용 효율은 183,000원의 협찬 단가를 고려할 때 소규모 다이빙·수영 타깃 니치 계정으로서 납득할 수 있는 수준이다. 다만 절대 조회수(7,763회)와 좋아요(414건)의 총량 자체는 크지 않으므로, 브랜드 인지 확산보다는 충성도 높은 마이크로 커뮤니티 침투 목적으로 평가할 때 비용 대비 가치 있는 협찬으로 판단된다.",
+        "final_at": "2026-09-10T08:03:45.398077+09:00"
       },
-      "last_written_reaction": "조회 7,763 · 좋아요 414 · 댓글 39 · ER 4.2% · 평소대비 3.3x (D+30)"
+      "last_written_reaction": "조회 7,763 · 좋아요 414 · 댓글 39 · ER 4.2% · 평소대비 3.3x (확정)"
     }
   ],
   "flags": {

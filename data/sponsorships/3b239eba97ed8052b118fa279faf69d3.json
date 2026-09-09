@@ -25,7 +25,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-09T10:39:00.000Z",
       "permalink": "https://www.instagram.com/p/Db0PlQlESvX/",
-      "thumbnail": "https://instagram.fpll2-1.fna.fbcdn.net/v/t51.82787-15/769385895_17875234689689064_1122814933767036524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1OTg1NzQxMjAzMDQyMDczMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FwbKcKDIQ3cQ7kNvwHh_oRG&_nc_oc=AdoTaRsQxN4ojyqNVb5wOTmqEp3t0gBalAFmiaDtM_VprBfztWwLf6FMljLyxEfSk1w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpll2-1.fna&_nc_gid=Z_ECwNq1kRU2YQmu2bIoAQ&_nc_ss=7a22e&oh=00_AQIzuzTssVIE8ojJGnGAWt-Mlr0qiE7OvxwJjzgR5hxhLg&oe=6AA6610A",
+      "thumbnail": "https://instagram.fbcn7-2.fna.fbcdn.net/v/t51.82787-15/769385895_17875234689689064_1122814933767036524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk1OTg1NzQxMjAzMDQyMDczMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FwbKcKDIQ3cQ7kNvwFlKs0e&_nc_oc=AdrTX4E7oiBfKKIyYo6iIiROcxk9VVaWh9nLuGtKiIEwl3h1WRmedL5pmrTuLW4yA5Q&_nc_ad=z-m&_nc_cid=1022&_nc_zt=23&_nc_ht=instagram.fbcn7-2.fna&_nc_gid=h5GqneEqiK-D4sRivW5eEA&_nc_ss=7a22e&oh=00_AQJvVhRfYzo_AFvxuagCtmBtKconYw_WGx1BI-LeYxDkrQ&oe=6AA7B28A",
       "caption": "#제품제공 @laserin_swim \n\n라세린에서 신상이 나왔어요!\n전 <리얼 리뷰어> ✨포레스트 글로우✨에 당첨되어 입어봤어요😉\n\n이름처럼 숲속 빛내림 같이 은은한 민트 아쿠아 컬러에 오로라 광택, 각도에 따라 골드 하이라이트가 더 반짝이게 해주는 정말 고급스러운 색상이에요!🌱\n\nX자 스트랩이라 어깨 움직임도 편하고 수영할 때 몸을 안정적으로 잡아줘서 편하고 미들컷과 안정적인 가슴선, 힙커버리지로 유교걸분들에게 추천!🩵\n\n✔️2026.8.3-2026.8.14 15:00 15% 할인!!🙋🏾‍♀️\n구매 생각 있으신분들은 달려가세요!!",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -211,8 +211,8 @@
         "n": 11,
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.17804154302670624,
         "vs_baseline": 1.7518248175182483,
@@ -229,9 +229,11 @@
           "one_liner": "평소 대비 1.25배 참여로 팔로워 규모 감안 시 양호하며, 참여 1건당 305원은 소규모 계정 협찬 대비 효율적인 수준.",
           "days": 14,
           "analyzed_at": "2026-08-24T06:24:52.774248+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1,348명의 소규모 계정임에도 참여율 17.80%는 인스타그램 평균(1~3%)을 크게 상회하며, 평소 대비 1.75배의 반응은 협찬 콘텐츠가 팔로워에게 유의미하게 어필했음을 보여준다. 참여 1건당 비용 288원, 총 240건의 참여(좋아요 204+댓글 36)로 69,000원을 집행한 것은 마이크로 인플루언서 기준으로 매우 효율적인 수치다. 다이빙·수영 브랜드 특성상 소수의 충성 팬덤이 구매 전환에 유리하게 작용할 수 있어, 비용 대비 충분한 가치가 있었던 협찬으로 판단된다.",
+        "final_at": "2026-09-10T08:03:45.398077+09:00"
       },
-      "last_written_reaction": "좋아요 204 · 댓글 36 · ER 17.8% · 평소대비 1.8x (D+30)"
+      "last_written_reaction": "좋아요 204 · 댓글 36 · ER 17.8% · 평소대비 1.8x (확정)"
     }
   ],
   "flags": {
