@@ -25,17 +25,17 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-25T09:32:47.000Z",
       "permalink": "https://www.instagram.com/p/DcdUpVxBRO5/",
-      "thumbnail": "https://instagram.fcia6-1.fna.fbcdn.net/v/t51.82787-15/782169460_18456803440188050_2897120181152691348_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk3MTQyMTI0ODIxMDQwODM3NzE4NDU2ODAzNDM0MTg4MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=P-YWlS0qh08Q7kNvwGcr_st&_nc_oc=Adrc_tEeQsKoH8JfX_iQNGArdHDfKIK01kK7uAxa7ZvTTl2UUQV_25I3nkKNZsRmKeY&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.fcia6-1.fna&_nc_gid=jgiyalH1sv1DRiBhfu4vAA&_nc_ss=7a22e&oh=00_AQJho3b8k_ZIAUCRUssk3ZM_ySfApeJ8aeG99H38duNzoA&oe=6AA7C0D0",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/782169460_18456803440188050_2897120181152691348_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk3MTQyMTI0ODIxMDQwODM3NzE4NDU2ODAzNDM0MTg4MDUw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=P-YWlS0qh08Q7kNvwH1u-8o&_nc_oc=AdoaQSsoeCoyAOoP8PPuanD9UdYxFdoTkxZJqQG68RXOsibM3JitDPK8pJlRQmUPsM0P-zlF_kMuqs2ufezq-HC9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=VguX_WLNM3P8TtAPIFXK-A&_nc_ss=7a22e&oh=00_AQLGtIxaHIlEynumTGEve-8LDrEZl_Iw3xY0XRq0KKgIFQ&oe=6AA91250",
       "caption": "벗을수록(?) 이쁜 #스트레이트체형",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "__0ne.f",
       "metrics": {
-        "views": 11480,
+        "views": 11510,
         "likes": -1,
         "comments": 99
       },
-      "metrics_updated_at": "2026-09-10T08:03:45.398077+09:00",
+      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
       "history": [
         {
           "d": "2026-08-27",
@@ -126,17 +126,23 @@
           "views": 11480,
           "likes": -1,
           "comments": 99
+        },
+        {
+          "d": "2026-09-11",
+          "views": 11510,
+          "likes": -1,
+          "comments": 99
         }
       ],
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.005157894736842105,
         "vs_baseline": null,
         "cost_per_eng": 571.4285714285714,
-        "cost_per_view": 4.878048780487805
+        "cost_per_view": 4.8653344917463075
       },
-      "last_written_reaction": "조회 11,480 · 좋아요 -1 · 댓글 99 · ER 0.5% (D+15)",
+      "last_written_reaction": "조회 11,510 · 좋아요 -1 · 댓글 99 · ER 0.5% (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "댓글 96개로 반응 자체는 살아있으나 좋아요 측정 오류(-1)·조회 1만 미만으로 비용 대비 확산력은 아직 미흡, 추이 지켜볼 단계.",
@@ -170,7 +176,7 @@
       },
       "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "frozen": true,
-      "days_since_post": 66,
+      "days_since_post": 67,
       "computed": {
         "er": 0.003,
         "vs_baseline": null,
@@ -191,7 +197,7 @@
       "upload_date_notion": "2026-07-06",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 67,
+      "days_since_post": 68,
       "computed": {
         "er": 0.006789473684210527,
         "vs_baseline": null,

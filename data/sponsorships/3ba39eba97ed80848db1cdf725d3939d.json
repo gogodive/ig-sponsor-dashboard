@@ -212,7 +212,7 @@
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.08058722473840388,
         "vs_baseline": 1.2997481108312343,
@@ -408,14 +408,14 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.05575511478994222,
         "vs_baseline": 1.1545520909375326,
         "cost_per_eng": 123.24929971988796,
         "cost_per_view": 3.9743473940926743
       },
-      "last_written_reaction": "조회 11,071 · 좋아요 319 · 댓글 38 · ER 5.6% · 평소대비 1.2x (D+29)",
+      "last_written_reaction": "조회 11,071 · 좋아요 319 · 댓글 38 · ER 5.6% · 평소대비 1.2x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.15x 조회·참여율 5.56%로 안정적 출발, 참여당 155원·조회당 7.5원은 8.8만원 협찬비 기준 무난한 효율이나 D+7까지 추이 확인 필요.",

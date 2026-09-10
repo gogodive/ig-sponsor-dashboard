@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-13T01:31:49.000Z",
       "permalink": "https://www.instagram.com/p/Db9j9zEpKG8/",
-      "thumbnail": "https://instagram.fpbc2-4.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QUvVgifC5zoQ7kNvwFFnf9M&_nc_oc=AdqfLWBkxxA0QPRxPEVpBgOpxaYZtoVZuJ4gVTwU7TQpWNH9WyAGBtfUIb7HFRDbMgxOXkHdtlovQRt8Zqyw5ea2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpbc2-4.fna&_nc_gid=1IF5177BwN0XrAxQSpJZ1Q&_nc_ss=7a22e&oh=00_AQIM-IVwyyy9t2NM4fry7o2ULWx-4ci5qnD8b4JJaR8zuw&oe=6AA7A636",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QUvVgifC5zoQ7kNvwEaFagk&_nc_oc=AdplrB67f2OjBPDSRuR3K2TNY3EN8OIVAOZtGQB_pZmgv_Jct3Ow5ZFDZJYLyId0oDjrx1JFDteoZ8Rnf9orKVuc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=1cgvaq8YQR871BVHEXaMyA&_nc_ss=7a22e&oh=00_AQJzmUXWhDLzOvVtjC36I2E7Bn1YKbdUf5Dxl1k4d53K1g&oe=6AA8F7B6",
       "caption": "•\n•\n•\n• \n@secrets__fit \n#시크릿스 #fyp #07",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "q._.p7171",
       "metrics": {
-        "views": 7083,
+        "views": 7123,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-09-10T08:03:45.398077+09:00",
+      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -156,15 +156,21 @@
           "views": 7083,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-09-11",
+          "views": 7123,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": -0.00021687269572760788,
         "vs_baseline": null,
         "cost_per_eng": -41250.0,
-        "cost_per_view": 5.823803473104617
+        "cost_per_view": 5.791099255931489
       },
       "analysis": {
         "d3": {
@@ -178,7 +184,7 @@
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
         }
       },
-      "last_written_reaction": "조회 7,083 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+27)"
+      "last_written_reaction": "조회 7,123 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+28)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-80cf-a431-e209bb9231f0",
@@ -317,7 +323,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0013012361743656475,
         "vs_baseline": null,
@@ -349,7 +355,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T01:13:15.000Z",
       "permalink": "https://www.instagram.com/p/Db1zoZYCV0c/",
-      "thumbnail": "https://instagram.fpoa47-2.fna.fbcdn.net/v/t51.82787-15/767978820_18003202655987094_985670500060368637_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MDI5ODAwNzkyNjUxODk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TRzta1EtF1UQ7kNvwFVxFaA&_nc_oc=AdqvnaDIUN2LtcVSWxDHQvtgxHxS4OOERvLL815B1MdQbLIJaK0kUGo1qmNiQHe91Rk&_nc_ad=z-m&_nc_cid=6357&_nc_zt=23&_nc_ht=instagram.fpoa47-2.fna&_nc_gid=DZ-ULb8gGHAFTm87ZnvXXg&_nc_ss=7a22e&oh=00_AQJGv0DPN63rUKh6tnIPMRzSUy_-a_IAcg1lvhSNBijAXw&oe=6AA7CC5F",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/767978820_18003202655987094_985670500060368637_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2MDI5ODAwNzkyNjUxODk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TRzta1EtF1UQ7kNvwHVL1a8&_nc_oc=AdoejKkHZWT5ymYz-Q1y5bbVmZueWj0Qaai4KUUwz_DxgEHMlUToGBCugXTIEuahmZ9eUltaNVXdv17TKshN3WUe&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=Eguj4rQ_dtdX_hkpLgpM_g&_nc_ss=7a22e&oh=00_AQLWIeATkR3imF4pDiGB1ZZKTzPcmpvjxMQBhtBkneCp5Q&oe=6AA91DDF",
       "caption": "@secrets__fit \n•\n•\n•\n#시크릿스 #운동복추천",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -541,15 +547,15 @@
         "n": 4,
         "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.24896985469529387,
         "vs_baseline": 1.2539595849262697,
         "cost_per_eng": 35.93205574912892,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 1,148 · 댓글 0 · ER 24.9% · 평소대비 1.3x (D+30)",
+      "last_written_reaction": "좋아요 1,148 · 댓글 0 · ER 24.9% · 평소대비 1.3x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 2.11배 참여율로 팔로워 23% 참여 달성, 참여 1건당 63원의 매우 효율적인 초기 성과.",
@@ -560,7 +566,9 @@
           "one_liner": "평소 대비 4.45배 참여로 팔로워 26% 참여율 달성, 참여 1건당 38원의 극히 효율적인 비용으로 중간 성과 우수.",
           "days": 14,
           "analyzed_at": "2026-08-25T06:33:18.500073+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 24.90%는 마이크로 인플루언서 평균(3~8%)을 크게 웃도는 수치로, 평소 대비 1.25배 성과와 함께 해당 계정의 팔로워 결속력이 매우 높음을 보여준다. 참여 1건당 비용 36원, 총 협찬 가액 165,000원에 1,148건의 유의미한 반응을 이끌어낸 점은 비용 효율 면에서 탁월한 성과다. 다만 댓글이 0건으로 구체적인 구매 의향이나 브랜드 언급 등 질적 반응이 확인되지 않아, 향후 재협찬 시 스토리 링크나 댓글 유도 문구 추가로 전환 지표를 보완할 것을 권장한다.",
+        "final_at": "2026-09-11T08:00:12.092988+09:00"
       }
     },
     {
@@ -753,7 +761,7 @@
         "captured_at": "2026-09-08T08:20:50.848173+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": -0.00021687269572760788,
         "vs_baseline": -0.0010922992900054614,

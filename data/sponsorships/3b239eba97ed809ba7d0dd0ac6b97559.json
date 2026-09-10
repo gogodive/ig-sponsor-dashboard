@@ -212,7 +212,7 @@
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.27759197324414714,
         "vs_baseline": 1.1857142857142857,
@@ -244,17 +244,17 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-11T04:21:13.000Z",
       "permalink": "https://www.instagram.com/p/Db4tnp8SYME/",
-      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=fTJCxTPfJxkQ7kNvwHabIRu&_nc_oc=Adpgik8S4GEpEGGGM382V5Xfpp60z0or8R9ZszlogE5R5H1stwSVy8pPl-rVrPB7jkc&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=dvWuob_rPrc8DXc9gmaRIQ&_nc_ss=7a22e&oh=00_AQLGtrC5R_GsKo9rEZxt1gXJ5SP7gC5xCcIZnhfm07RqGA&oe=6AA7A17B",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t15.5256-10/772904159_3414977062018582_3142590244543965620_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTExNjUwOTQ1OTgwOTAyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=fTJCxTPfJxkQ7kNvwHg48kg&_nc_oc=AdqLrNA7szfAcKxx8jOb1k-zF7frUF4bv5mI7QbDpvD964hWFBPOsLshrkgCR5Jls_OzkpzVCyDqIGulfs9fGigN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=HKGv_NyIDIKnrGbW3qbyoA&_nc_ss=7a22e&oh=00_AQJRva6tJoKQZFNf2-8vYnTFMskp3vhzh7b4Dud7qUrWUA&oe=6AA8F2FB",
       "caption": "나도 이런거 함 해보고싶었다네\n겉멋만 잔뜩 들었어 🤦‍♀️💦💦\n\n#수영 #수영을좋아하는이유 #수친자 #수영조아해 #수영인",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "orrrn.frog",
       "metrics": {
-        "views": 5456,
+        "views": 5466,
         "likes": 111,
         "comments": 32
       },
-      "metrics_updated_at": "2026-09-10T08:03:45.398077+09:00",
+      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
       "history": [
         {
           "d": "2026-08-13",
@@ -429,23 +429,29 @@
           "views": 5456,
           "likes": 111,
           "comments": 32
+        },
+        {
+          "d": "2026-09-11",
+          "views": 5466,
+          "likes": 111,
+          "comments": 32
         }
       ],
       "baseline": {
         "views_median": 2007,
         "eng_median": 89,
         "n": 7,
-        "captured_at": "2026-09-10T08:03:45.398077+09:00"
+        "captured_at": "2026-09-11T08:00:12.092988+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.4782608695652174,
-        "vs_baseline": 2.7184853014449426,
+        "vs_baseline": 2.7234678624813156,
         "cost_per_eng": 241.25874125874125,
-        "cost_per_view": 6.323313782991202
+        "cost_per_view": 6.311745334796926
       },
-      "last_written_reaction": "조회 5,456 · 좋아요 111 · 댓글 32 · ER 47.8% · 평소대비 2.7x (D+29)",
+      "last_written_reaction": "조회 5,466 · 좋아요 111 · 댓글 32 · ER 47.8% · 평소대비 2.7x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.34x 조회·참여율 84%로 소규모 계정 치고 초기 반응 양호, 참여 1건당 280원·조회당 7.9원은 효율적인 수준.",

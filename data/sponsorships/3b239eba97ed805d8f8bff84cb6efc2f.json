@@ -25,7 +25,7 @@
       "first_seen": "2026-08-13",
       "posted_at": "2026-08-10T10:28:39.000Z",
       "permalink": "https://www.instagram.com/p/Db2zMXgEQff/",
-      "thumbnail": "https://instagram.fman2-2.fna.fbcdn.net/v/t51.82787-15/770252658_17913741405443517_7756233783542749058_n.webp?_nc_cat=111&ig_cache_key=Mzk2MDU3NzkxMjk2MDYwNjMyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6d-4s4IZezsQ7kNvwFITVnG&_nc_oc=AdrlTcapa6ZTDtll9gUb_o_xkyi4ZN2qLOLdu5PlvYnFTwdsg9TcwdV3kIm3x03vyz0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fman2-2.fna&_nc_gid=ZLlDAakOR3sVSlRhKxX54A&_nc_ss=7a22e&oh=00_AQJ-Z9MsnFML83ypqTN0LPNzWpqPmp-aLhQTUPhTTp9rWg&oe=6AA7A5DD",
+      "thumbnail": "https://scontent-gru2-1.cdninstagram.com/v/t51.82787-15/770252658_17913741405443517_7756233783542749058_n.webp?_nc_cat=111&ig_cache_key=Mzk2MDU3NzkxMjk2MDYwNjMyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6d-4s4IZezsQ7kNvwEnSIkq&_nc_oc=AdpmdDnSwozwVN0WgSA2YA-dWj8aP7uBHY6DTg41M8xV3P4U9S0kyWT7gR4osaSp1-c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_gid=bs0U_dAc3IvWYdyh7jeRCw&_nc_ss=7a22e&oh=00_AQIaAp2dGlhMmsvrOxWYZcPexpSjcym1BUzp6yrxv2zfpg&oe=6AA8F75D",
       "caption": "#제품제공\r\n라세린📍@laserin_swim\r\n💗 딱복 Hard Peach 💗\r\n\r\n🩰 발레코어 핑크 포일 수영복\r\n상큼한 쿨톤 핑크빛에 크림 한 방울 섞은 딱복!\r\n포일 맛집 라세린답게 영롱한 무지개빛 펄과\r\n뒷모습까지 예쁜 리본이 청순 화사해 최애 수영복 등극🩷\n완전 실물 깡패예요😭😭\r\n\r\n🎀 더블크로스 타이백으로 정밀한 핏 맞춤\r\n체형에 맞게 조절되는 리본 타이백 &\r\n더블엑스(X) 스트랩이 3중으로 상체를 잡아줘\r\n상하체 사이즈가 다른 저도 핏하게 잘 맞았어요.\r\n\r\n✨️ 안정적인 가슴선 라인과 미들컷\r\n비침 걱정 없는 두겹",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 5,
         "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.056618209640397855,
         "vs_baseline": 0.4625,
         "cost_per_eng": 932.4324324324324,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 64 · 댓글 10 · ER 5.7% · 평소대비 0.5x (D+30)",
+      "last_written_reaction": "좋아요 64 · 댓글 10 · ER 5.7% · 평소대비 0.5x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.50x로 기대 이하 출발이나, 참여당 비용 1,062원·참여율 4.97%는 소규모 계정 기준 수용 가능한 수준으로 추이 지켜볼 필요 있음.",
@@ -236,7 +236,9 @@
           "one_liner": "평소 대비 0.97x로 거의 동일한 수준이나, 참여당 932원·참여율 5.66%는 소규모 계정 기준 무난한 효율.",
           "days": 14,
           "analyzed_at": "2026-08-25T06:33:18.500073+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 5.66%는 소규모 계정 기준으로 양호한 수치이나, 평소 게시물 대비 0.46배에 그쳐 협찬 콘텐츠가 오히려 해당 계정의 일반적인 반응을 끌어내지 못했다는 점이 아쉽다. 참여 1건당 비용 932원, 총 협찬 가액 69,000원 규모에서 확보한 참여(좋아요+댓글 74건)는 절대량이 낮아 브랜드 노출 효율이 높다고 보기 어렵다. 팔로워 1,307명의 초소형 계정임을 감안하면 진정성 있는 팬층 접근이라는 의의는 있으나, 평소 대비 성과 하락을 고려할 때 동일 예산 대비 재협찬 우선순위는 낮다고 판단된다.",
+        "final_at": "2026-09-11T08:00:12.092988+09:00"
       }
     }
   ],
