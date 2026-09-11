@@ -134,7 +134,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.02739160357880248,
         "vs_baseline": 0.23918269230769232,
@@ -153,7 +153,7 @@
           "analyzed_at": "2026-08-27T09:33:46.172753+09:00"
         }
       },
-      "last_written_reaction": "좋아요 199 · 댓글 0 · ER 2.7% · 평소대비 0.2x (D+29)"
+      "last_written_reaction": "좋아요 199 · 댓글 0 · ER 2.7% · 평소대비 0.2x (D+30)"
     },
     {
       "notion_row_id": "3c339eba-97ed-8054-ad84-f80ce02e878d",
@@ -164,16 +164,16 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-16T06:11:36.000Z",
       "permalink": "https://www.instagram.com/p/DcFyi4yD5Hv/",
-      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/774647995_18062103389759905_4094769926830188926_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2NDc5NDMyMTE2ODUxMjcwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b9fef3aDzKMQ7kNvwFo3AtD&_nc_oc=AdovXLDII-3o3Q5d5zUUbRzr_7XVU8QsgLvyJynkGjy03ywKi4Ycpp85ma7xCvOyz58&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw4-1.fna&_nc_gid=n9bx66rPCdKQdRKjjw5LLg&_nc_ss=7a22e&oh=00_AQKwsjWLtBmAZ3pwvxaNfuYZdthKe9yI-FNcWzypJi9lZQ&oe=6AA9103E",
+      "thumbnail": "https://instagram.fbcn11-1.fna.fbcdn.net/v/t51.82787-15/774647995_18062103389759905_4094769926830188926_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2NDc5NDMyMTE2ODUxMjcwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b9fef3aDzKMQ7kNvwEJ0klc&_nc_oc=Adq8syO0LcvrW5aKILLNxX58mzPjZ8T19OIxp1bJYmSlic5KfzmDr1Yx_-NxGLa6LGM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn11-1.fna&_nc_gid=VFke_dI11i4DZ2K3DuUmpg&_nc_ss=7a22e&oh=00_AQLx4xE-JejPzg1G55wNUzeFXb_Orz58v97qEQg3EPj3HA&oe=6AAA61BE",
       "caption": "날씨 풀려서 살 것 같다 진짜!!!!🍃\n두 달만에 러닝 다시 시작! 다들 시작하셨죠?👀 \n\n캡내장 탑 최고다,,🖤 \n러닝에도 거슬리지 않는 편안한 룩\n@secrets__fit \n\n#운동복추천 #운동복코디 #러닝룩 #시크릿스",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "zzinn.e",
       "metrics": {
-        "likes": 697,
+        "likes": 699,
         "comments": 26
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -300,20 +300,26 @@
           "views": null,
           "likes": 697,
           "comments": 26
+        },
+        {
+          "d": "2026-09-12",
+          "views": null,
+          "likes": 699,
+          "comments": 26
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 835,
         "n": 11,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
-        "er": 0.09951823812801101,
-        "vs_baseline": 0.8658682634730539,
-        "cost_per_eng": 137.85154449054863,
+        "er": 0.09979353062629043,
+        "vs_baseline": 0.8682634730538922,
+        "cost_per_eng": 137.4712643678161,
         "cost_per_view": null
       },
       "analysis": {
@@ -328,7 +334,7 @@
           "analyzed_at": "2026-08-31T08:18:04.136186+09:00"
         }
       },
-      "last_written_reaction": "좋아요 697 · 댓글 26 · ER 10.0% · 평소대비 0.9x (D+25)"
+      "last_written_reaction": "좋아요 699 · 댓글 26 · ER 10.0% · 평소대비 0.9x (D+26)"
     },
     {
       "notion_row_id": "ae439eba-97ed-834e-83ec-0140fae51ac0",
@@ -339,16 +345,16 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-20T23:37:58.000Z",
       "permalink": "https://www.instagram.com/p/DcR65dvhwd_/",
-      "thumbnail": "https://instagram.fslz22-1.fna.fbcdn.net/v/t51.82787-15/779049000_18062888351759905_4102065871013352250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2ODIxMTc4MjMzMzgyNjk0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WKL3ShHrgS8Q7kNvwGXmaLy&_nc_oc=AdpU_Aa5lR50j1TwaOBAdSB9q5FA3ruVFjlD1uO_6Z1XfQ13i2tY8lJT_IdHKLOqg_w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fslz22-1.fna&_nc_gid=VXMtWIpds8M_fp6Ss5SXMQ&_nc_ss=7a22e&oh=00_AQJsjJ8sInMXyvJbAhJRlFrwYYhnfbT3inOGjeZrB_z1fA&oe=6AA90C2D",
+      "thumbnail": "https://instagram.fyvr3-1.fna.fbcdn.net/v/t51.82787-15/779049000_18062888351759905_4102065871013352250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2ODIxMTc4MjMzMzgyNjk0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WKL3ShHrgS8Q7kNvwGC4_rU&_nc_oc=AdqAQXW5fJtdm_B3fwGtDhSzimHFVvSY5unYuyU-2l4omARGvRumu1pvzXYxOqu9t1C6UY01VSjxHYpgwj4aScZw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyvr3-1.fna&_nc_gid=3JVdwet2IZrZ0ojTrYuKzA&_nc_ss=7a22e&oh=00_AQKaeDUpeUHVEBNPmxpvpqDKdGYI57iXoqJvLPaG3m0-VA&oe=6AAA5DAD",
       "caption": "정체기 다들 어떻게 뚫으셧나요..（•̥̥̥ ࿁ •̥̥̥）\n\n빨리 더 빼고싶게 하는 셋뚜🐈 @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
       "owner_username": "zzinn.e",
       "metrics": {
-        "likes": 257,
+        "likes": 260,
         "comments": 20
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -475,23 +481,29 @@
           "views": null,
           "likes": 257,
           "comments": 20
+        },
+        {
+          "d": "2026-09-12",
+          "views": null,
+          "likes": 260,
+          "comments": 20
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 835,
         "n": 11,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
-        "er": 0.03812801101169993,
-        "vs_baseline": 0.3317365269461078,
-        "cost_per_eng": 359.8074608904934,
+        "er": 0.038540949759119064,
+        "vs_baseline": 0.33532934131736525,
+        "cost_per_eng": 355.95238095238096,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 257 · 댓글 20 · ER 3.8% · 평소대비 0.3x (D+20)",
+      "last_written_reaction": "좋아요 260 · 댓글 20 · ER 3.9% · 평소대비 0.3x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.35x로 부진한 초기 반응, 참여 1건당 573원은 팔로워 규모 감안 시 개선 여지 있음",

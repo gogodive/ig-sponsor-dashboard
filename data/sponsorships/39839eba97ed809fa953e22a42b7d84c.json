@@ -1,7 +1,7 @@
 {
   "page_id": "39839eba-97ed-809f-a953-e22a42b7d84c",
   "row_title_raw": "park_bin",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-20T04:39:10.000Z",
       "permalink": "https://www.instagram.com/p/DcP6tNLP2AD/",
-      "thumbnail": "https://instagram.fhnd4-2.fna.fbcdn.net/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1f7T2XsihY0Q7kNvwGlIHxN&_nc_oc=AdoHP9gehhV6uomCndijzwxV72JAcJIbsXnYlIlum_WBfO1EkHM9hOtS2rVq-hDJAsrWiqWw8z-6sj1phnU5Tdl5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fhnd4-2.fna&_nc_gid=Ni8U11xcYeSqrh4KIJPvQQ&_nc_ss=7a22e&oh=00_AQINN1PoAb0671jItCJY18VxHoqoPeS-GUTDGsDbiuD4rA&oe=6AA8F34C",
+      "thumbnail": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1f7T2XsihY0Q7kNvwF3Z1N6&_nc_oc=AdokD359mZ2ioxHwnYLcrMjGDqWGxOeTkRvNoh8C1p-E4xYQ4jF4cEB7O08QNOHsvtg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw4-1.fna&_nc_gid=El--otcO0TjqkvM8IHx1BQ&_nc_ss=7a22e&oh=00_AQIfsDbkY1lMN-FguLUHO0nAToYekN0N5zbch_FkzslpuA&oe=6AAA44CC",
       "caption": "#협찬 \n울릉도에서 첫 시착해본 프리다이빙 장비💙🌊\n\n이번에 함께한 장비는\n딥바이브 크리스탈 유리섬유 롱핀과\n딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm✨\n\n오로라 핀은 그라데이션 블루 컬러가 물속에서 더 예뻐 보였고,\n2mm 슈트는 착용감이 편해서 움직일 때도 부담이 없었어요.\n\n특히 울릉도처럼 기온이 조금 낮은 바다에서도\n덕분에 따뜻하게, 편하게 놀다 왔어요🫧\n\n첫 시착부터 마음에 쏙 든 조합💙\n앞으로 이 장비들과 함께할 바다도 기대됩니다!\n\n@intotheblue_store\n\n#인투더블루 #딥바이브 #딥바이브슈트 #크리스탈롱",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "park_bin",
       "metrics": {
-        "views": 5266,
+        "views": 5278,
         "likes": 163,
         "comments": 16
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-08-21",
@@ -168,23 +168,29 @@
           "views": 5266,
           "likes": 163,
           "comments": 16
+        },
+        {
+          "d": "2026-09-12",
+          "views": 5278,
+          "likes": 163,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": 11226.5,
         "eng_median": 285.5,
         "n": 10,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.009075698423160777,
-        "vs_baseline": 0.46906872132899835,
+        "vs_baseline": 0.47013762080790983,
         "cost_per_eng": 1201.1173184357542,
-        "cost_per_view": 40.82795290543107
+        "cost_per_view": 40.73512694202349
       },
-      "last_written_reaction": "조회 5,266 · 좋아요 163 · 댓글 16 · ER 0.9% · 평소대비 0.5x (D+21)",
+      "last_written_reaction": "조회 5,278 · 좋아요 163 · 댓글 16 · ER 0.9% · 평소대비 0.5x (D+22)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.49x로 기대 이하 출발, 참여당 1,344원·조회당 50원대 비용 효율 개선이 3일 차 핵심 과제.",
@@ -406,7 +412,7 @@
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.013233280941033312,
         "vs_baseline": 0.9125874125874126,

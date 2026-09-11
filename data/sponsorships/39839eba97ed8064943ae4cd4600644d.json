@@ -25,7 +25,7 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-16T12:35:42.000Z",
       "permalink": "https://www.instagram.com/p/DcGeSjHKErY/",
-      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Sl53Y3BHWR4Q7kNvwEjAyaY&_nc_oc=AdqEYeywSpGlboprcOa4ItRfZjbXYYXspokoKda9MVv-y2V69bL4vZMKA90gZnZh-t8UJGXTi8rNsLKB5XiVkzJK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=31o1oPjcJSLcmK-PrKDGQQ&_nc_ss=7a22e&oh=00_AQLl35JB_UzhixvxBpmMD8R3KaIiSMI6gXH-KhHlb7U96g&oe=6AA91E79",
+      "thumbnail": "https://instagram.fngo7-1.fna.fbcdn.net/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=JvJQNu_INqAQ7kNvwHqBpAD&_nc_oc=AdpEuefaJYpvwOSLoDZlBUFQ9VwF4Fq0LotUEIsBZqEaujyhfwWeO3Te1ftZTC1Yxbo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fngo7-1.fna&_nc_gid=d668RSN_WuauMLgGXxdA9g&_nc_ss=7a22e&oh=00_AQJOd6PAHHfm6AkTK28L2UKKzy0ieAONPKqcSm0QuwwXeA&oe=6AAA6FF9",
       "caption": "민물 말고 짠물에서 다이빙하는 그날까지🫧\n\n@intotheblue_store #인투더블루\n🤿 #고고젤로마스크\n🤿 #딥바이브 에어로 스노클",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 19
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-08-19",
@@ -180,6 +180,12 @@
           "views": 2081,
           "likes": -1,
           "comments": 19
+        },
+        {
+          "d": "2026-09-12",
+          "views": 2081,
+          "likes": -1,
+          "comments": 19
         }
       ],
       "baseline": {
@@ -189,14 +195,14 @@
         "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.003126628452318916,
         "vs_baseline": 2.046214355948869,
         "cost_per_eng": 2861.1111111111113,
         "cost_per_view": 24.74771744353676
       },
-      "last_written_reaction": "조회 2,081 · 좋아요 -1 · 댓글 19 · ER 0.3% · 평소대비 2.0x (D+25)",
+      "last_written_reaction": "조회 2,081 · 좋아요 -1 · 댓글 19 · ER 0.3% · 평소대비 2.0x (D+26)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.87배 조회로 기대 이상이나, 참여율 0.10%·참여 1건당 8,583원은 비용 효율이 낮아 추이 주시 필요.",
@@ -412,7 +418,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.00451624109779399,
         "vs_baseline": 0.1566265060240964,

@@ -25,16 +25,16 @@
       "first_seen": "2026-09-02",
       "posted_at": "2026-08-28T10:45:52.000Z",
       "permalink": "https://www.instagram.com/p/DclLeJ9GQ07/",
-      "thumbnail": "https://instagram.fntr1-1.fna.fbcdn.net/v/t51.82787-15/785281331_17946514317268965_3241215470301442207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk3MzYzMTg1MTcxNTM0Njc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sYCojysYd0sQ7kNvwFx3qLO&_nc_oc=Adr1TDdLEv5wl_-KvOKrLwwR8CqgXBw8JGmSjw1h0bKraMM0TX8JkH02Py-xsA85IRk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fntr1-1.fna&_nc_gid=NNFrLPU_dAqsNms9gLVsnA&_nc_ss=7a22e&oh=00_AQILAiCIS8PXlXnbolwEPa-0n0xGeBTVck9L6mwQjWe6sg&oe=6AA8F5AE",
+      "thumbnail": "https://instagram.fmex24-1.fna.fbcdn.net/v/t51.82787-15/785281331_17946514317268965_3241215470301442207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MzYzMTg1MTcxNTM0Njc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sYCojysYd0sQ7kNvwH5MFDo&_nc_oc=AdreIh3xcFqTI_nrZmkYAabOt8rQjQv9cmmvb7XYK9Z0pvp63A3HzrrLF8qp5N8yEs9apyW6MPK7jiJukgyvbPjq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex24-1.fna&_nc_gid=ulgpuS0doou8uuxC0gfHdg&_nc_ss=7a22e&oh=00_AQJmPzBvQWnsCt8-4HupGa5SqQVmgLRbVzgjqj9KCMfy_w&oe=6AAA472E",
       "caption": "#제품제공 @laserin_swim \n\n🩱 물옷 이야기 #69\n\n포일 맛집 라세린의 복숭아맛 수영복🍑✨\n\n여름 내내 밥 대신 복숭아만 주구장창 먹을 만큼\n복숭아를 무지막지하게 좋아하는 복숭아 러버🧡\n\n이번에 착용해본 제품은 그중에서도 물복 수영복인데요, \n물복의 달콤부드러운 느낌을 그대로 담은 디자인 좀 보세요🥺✨\n\n전체적으로 웜한 컬러라 저한테 안 어울리면 어쩌나 걱정했는데, \n막상 입어보니 생각보다 피부톤에 자연스럽게 어우러져서 마음에 들었어요. 무엇보다 포일 맛집 라세린답게 물속에서도 반짝반짝✨\n\n더블 크로스백에 미들컷이라 움",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "pting_gozebi",
       "metrics": {
-        "likes": 213,
+        "likes": 215,
         "comments": 39
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-09-02",
@@ -95,20 +95,26 @@
           "views": null,
           "likes": 213,
           "comments": 39
+        },
+        {
+          "d": "2026-09-12",
+          "views": null,
+          "likes": 215,
+          "comments": 39
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 195.0,
         "n": 12,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.04377279833246483,
-        "vs_baseline": 1.2923076923076924,
-        "cost_per_eng": 273.8095238095238,
+        "er": 0.0441202014938336,
+        "vs_baseline": 1.3025641025641026,
+        "cost_per_eng": 271.65354330708664,
         "cost_per_view": null
       },
       "analysis": {
@@ -116,9 +122,14 @@
           "one_liner": "평소 대비 1.09배 수준으로 무난한 초기 반응이며, 참여 1건당 381원은 소규모 계정 협찬 비용으로 양호한 효율이다.",
           "days": 4,
           "analyzed_at": "2026-09-02T08:08:59.553879+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.30배 참여로 선방 중이며, 참여 1건당 272원은 효율적인 수준으로 긍정적인 중간 성과.",
+          "days": 14,
+          "analyzed_at": "2026-09-12T08:04:41.952628+09:00"
         }
       },
-      "last_written_reaction": "좋아요 213 · 댓글 39 · ER 4.4% · 평소대비 1.3x (D+13)"
+      "last_written_reaction": "좋아요 215 · 댓글 39 · ER 4.4% · 평소대비 1.3x (D+14)"
     }
   ],
   "flags": {
@@ -129,5 +140,5 @@
   },
   "child_db_id": "33239eba-97ed-8392-9c68-8186fff86fd8",
   "followers": 5757,
-  "last_written_score": 129
+  "last_written_score": 130
 }

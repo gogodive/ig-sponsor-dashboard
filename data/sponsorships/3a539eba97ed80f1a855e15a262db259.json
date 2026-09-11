@@ -25,7 +25,7 @@
       "first_seen": "2026-09-01",
       "posted_at": "2026-08-28T05:29:59.000Z",
       "permalink": "https://www.instagram.com/p/DcknUgLHYHw/",
-      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/787135865_18152258083526302_3998725855601577914_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk3MzQ3MzI3NzQyMjAyOTg1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=esEg5dlwd74Q7kNvwGtpqa0&_nc_oc=AdpVP_HeHwawVSY1j33wrPoDjP2f0KujbfYjHrhCLeNmhGVflhGX7JF0ROtdYq0kYs0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=yCSluAGGpUxQajn0ydg2ZQ&_nc_ss=7a22e&oh=00_AQJDuKEE5coauqXRgD0GLYPPH6JgriHx_aSu-kBcN5C0qA&oe=6AA8FA2E",
+      "thumbnail": "https://instagram.fvix3-1.fna.fbcdn.net/v/t51.82787-15/787135865_18152258083526302_3998725855601577914_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk3MzQ3MzI3NzQyMjAyOTg1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=esEg5dlwd74Q7kNvwFF_kdj&_nc_oc=AdozvqT4p5IMjeXwjccYIEaZEhzYN2IlBqnTsqhCMAdlaa_OrfAeYvn2CrvvOB-5ifA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvix3-1.fna&_nc_gid=1VZoiVOHT5pCfkOgdfHUZA&_nc_ss=7a22e&oh=00_AQKtSfhCaspvR-RJvCzEHesbO4mUYahYqHQ0M6orClJiUw&oe=6AAA4BAE",
       "caption": "",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 63,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-09-01",
@@ -101,16 +101,22 @@
           "views": null,
           "likes": 63,
           "comments": 6
+        },
+        {
+          "d": "2026-09-12",
+          "views": null,
+          "likes": 63,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 7,
         "n": 5,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 1.078125,
         "vs_baseline": 9.857142857142858,
@@ -122,9 +128,14 @@
           "one_liner": "팔로워 55명 초소형 계정임에도 평소 대비 8.14배 참여 폭발, 877원/참여로 극강의 비용 효율 확인.",
           "days": 3,
           "analyzed_at": "2026-09-01T09:27:49.712538+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 9.86배 참여 폭발·팔로워 초과 107% 반응으로 725원/건 비용 효율은 우수하나 절대 규모(팔로워 64명)는 매우 제한적.",
+          "days": 14,
+          "analyzed_at": "2026-09-12T08:04:41.952628+09:00"
         }
       },
-      "last_written_reaction": "좋아요 63 · 댓글 6 · ER 107.8% · 평소대비 9.9x (D+13)"
+      "last_written_reaction": "좋아요 63 · 댓글 6 · ER 107.8% · 평소대비 9.9x (D+14)"
     },
     {
       "notion_row_id": "eb939eba-97ed-8206-a2a6-01a991e89554",
@@ -135,17 +146,17 @@
       "first_seen": "2026-09-01",
       "posted_at": "2026-08-25T03:53:37.000Z",
       "permalink": "https://www.instagram.com/p/Dcct06-zUDb/",
-      "thumbnail": "https://instagram.fyqt1-1.fna.fbcdn.net/v/t51.82787-15/784616790_18151635913526302_2778954072373756542_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3MTI1MDUyMDI3MDM4OTQ2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=wkxVPZ1mna8Q7kNvwEE5bBT&_nc_oc=Adr4J2RorMi92-rkdqKJyXTClNAOIlTA42bEOVXYR_JeJGUVK2SfjeoBwRPnoRIX6w4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyqt1-1.fna&_nc_gid=duz_2R3wo9XaGY05wWIuEA&_nc_ss=7a22e&oh=00_AQI_8Nv0Rov8m3KX7IeS2CwVWMXYWRH_CK9URhP4A0khdQ&oe=6AA91E18",
+      "thumbnail": "https://instagram.frns1-1.fna.fbcdn.net/v/t51.82787-15/784616790_18151635913526302_2778954072373756542_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3MTI1MDUyMDI3MDM4OTQ2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=wkxVPZ1mna8Q7kNvwE9PLSZ&_nc_oc=AdoF2dLQZNL7HiT89n9rLbZSzRS_z-fyYh_u8NxEfy1oTLK8e1MTx1KLFhJHCRBp7Esz2_BmCbJtsYP5yOe-cOXa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frns1-1.fna&_nc_gid=HTYHoFsmnRSzUhZK3i_iSg&_nc_ss=7a22e&oh=00_AQK8KizfDGl-0s-FyEXkizf8bhmvmkw9SE5qs4m1ovfEFA&oe=6AAA6F98",
       "caption": "숨참고 럽다이브~ 무중력처럼 유영하는 취미!\n\n프리다이빙 고고다이브를 소개합니다\n물이 무섭진 않을까 걱정된다면, 여긴 해양수산부 인증 교육기관이라 안전관리부터 확실.\n강습이 끝나도 코칭반은 횟수 제한 없이 무제한으로 이용할 수 있고, 강습 시에 마스크·스노클·핀 모두 무료로 빌려줘서 부담이 적어요!\n무엇보다 수중 전문 카메라로 인생샷에 보정본까지!\n\n서울·경기·광주·대전·대구·부산까지, 집 근처에서 편하게 시작할 수 있습니다.\n\n💬 댓글 남겨주시면 신청 정보를 DM으로 보내드릴게요!\n\n📍고고다이브 (@gogodive)\n\n#모두의스포",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "modu_sports",
       "metrics": {
-        "views": 6049,
+        "views": 6069,
         "likes": 84,
         "comments": 3
       },
-      "metrics_updated_at": "2026-09-11T08:00:12.092988+09:00",
+      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
       "history": [
         {
           "d": "2026-09-01",
@@ -212,21 +223,27 @@
           "views": 6049,
           "likes": 84,
           "comments": 3
+        },
+        {
+          "d": "2026-09-12",
+          "views": 6069,
+          "likes": 84,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 2730,
         "eng_median": 37,
         "n": 11,
-        "captured_at": "2026-09-11T08:00:12.092988+09:00"
+        "captured_at": "2026-09-12T08:04:41.952628+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
         "er": 1.359375,
-        "vs_baseline": 2.215750915750916,
+        "vs_baseline": 2.223076923076923,
         "cost_per_eng": 574.7126436781609,
-        "cost_per_view": 8.265829062654984
+        "cost_per_view": 8.238589553468445
       },
       "analysis": {
         "d3": {
@@ -240,7 +257,7 @@
           "analyzed_at": "2026-09-09T08:15:29.760160+09:00"
         }
       },
-      "last_written_reaction": "조회 6,049 · 좋아요 84 · 댓글 3 · ER 135.9% · 평소대비 2.2x (D+16)"
+      "last_written_reaction": "조회 6,069 · 좋아요 84 · 댓글 3 · ER 135.9% · 평소대비 2.2x (D+17)"
     }
   ],
   "flags": {
