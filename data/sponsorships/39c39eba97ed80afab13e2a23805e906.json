@@ -25,7 +25,7 @@
       "first_seen": "2026-09-08",
       "posted_at": "2026-09-06T11:09:57.000Z",
       "permalink": "https://www.instagram.com/p/Dc8ZYcIk64o/",
-      "thumbnail": "https://instagram.fpoz6-1.fna.fbcdn.net/v/t51.82787-15/797398265_18411947356153003_6023191487689980099_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4MDE2NjkyOTIzOTQ1NTMzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=mP3SobpBcl8Q7kNvwEQ9fwF&_nc_oc=AdpjKFoBtenR29ryjpOG5Ook6Wa2WKHRfLkX8kqV4fZn4xqSL0o_G0kyqPjdM16QZi4&_nc_ad=z-m&_nc_cid=1249&_nc_zt=23&_nc_ht=instagram.fpoz6-1.fna&_nc_gid=XZlTIXHxfDMpMSTn7nX-eQ&_nc_ss=7a22e&oh=00_AQKyLRJ9pZ6u2S4Y7qB_dN1jXqtwsrOMtUJZRGHPhBIdWw&oe=6AAA4E18",
+      "thumbnail": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/797398265_18411947356153003_6023191487689980099_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4MDE2NjkyOTIzOTQ1NTMzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=mP3SobpBcl8Q7kNvwGjDNVi&_nc_oc=Adqdva_21KR5SZFrQAw2bsrOjaK7MSzKrSn0Iz45LO2VEsPDJmp000BDudVqzECheN8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&_nc_gid=ju4Bc8K-R7PBm1B8sUxCPw&_nc_ss=7a22e&oh=00_AQKtb7y7l2EWEg0mKLSZkjL1zGYq2bb7b-oERvzykbnlWw&oe=6AAB9F98",
       "caption": "풀장에서도 사용하기 좋은 핀💙🤍 인투더블루 딥바이브핀! \n\n@intotheblue_store \n\n실물 만족도 최고!!\n야외 풀장이나 바다에서 햇빛을 받았을 때 블레이드 특유의 깨끗한 톤과 반사광이 어우러져 실물이 훨씬 예뻐요 ☺️\n프리다이빙 입문자부터 예쁜 장비를 선호하는 다이버 모두에게 추천합니다.👍🏻\n\n빛의 각도와 물속 조명에 따라 은은하게 바뀌는 ·무지갯빛 홀로그램이 독보적👍🏻👍🏻\n\n#프리다이빙 #프리다이빙핀 #인투더블루 #딥바이브핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
+      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
       "history": [
         {
           "d": "2026-09-08",
@@ -65,23 +65,29 @@
           "views": null,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-09-13",
+          "views": null,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 499,
         "n": 11,
-        "captured_at": "2026-09-12T08:04:41.952628+09:00"
+        "captured_at": "2026-09-13T07:54:12.981727+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
         "cost_per_eng": null,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+5)",
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+6)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 -1·댓글 1로 평소 대비 0.00x, 290,000원 협찬 대비 초기 반응이 사실상 전무해 즉각적인 콘텐츠 점검이 필요합니다.",
@@ -293,7 +299,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 7.231703789412785e-05,
         "vs_baseline": null,

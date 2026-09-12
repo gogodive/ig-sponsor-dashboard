@@ -25,7 +25,7 @@
       "first_seen": "2026-09-11",
       "posted_at": "2026-09-09T17:16:00.000Z",
       "permalink": "https://www.instagram.com/p/DdExqFUCb6Y/",
-      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/801582389_18627645223007812_3315409210430851375_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4MjUyMDI4ODg3NDU2Njg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ByLQz4qyT5wQ7kNvwGhfCxa&_nc_oc=AdpP1g7EVP8lXTkq4djzOAG_K4-W31tQsvB23NnixFlb_EVIm5h9i7csjaPEfwwFWdM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=CeL2mqQzfyMpw_WmLS_LtQ&_nc_ss=7a22e&oh=00_AQI_Iq6SsZKNnmhwI7YaM6Rq4cZ4loID7VdzkKdL5M4iXQ&oe=6AAA6E1B",
+      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/801582389_18627645223007812_3315409210430851375_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4MjUyMDI4ODg3NDU2Njg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SiaPiuNv4XoQ7kNvwGDsYmL&_nc_oc=AdrbQrEHOfynLZCWpYx4pJtoWEARrCynUs_h1CyvBh-UzIBUGlGCvtewSBR5BS7kpng&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=uZBwsSZmB2oAKaownSDz8g&_nc_ss=7a22e&oh=00_AQLD9bD3Yn--HIlzfgXN0RxJa_2I3gYIsdWLkZtoXwsNJw&oe=6AABBF9B",
       "caption": "#협찬\n\n여행 내내 대만족했던 이쁜 내 오로라 롱핀\n물속에서 후레쉬처럼 반짝거림 ✨\n(물속 색깔이 진짜 찐찐찐찐..ㅜㅜㅜㅜ)\n\n덕분에 예쁜 바다에서 사진까지 이쁘게 남기고 왔다 🐠💙\n\n #인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
+      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
       "history": [
         {
           "d": "2026-09-11",
@@ -47,23 +47,36 @@
           "views": null,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-09-13",
+          "views": null,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 3.0,
         "n": 12,
-        "captured_at": "2026-09-12T08:04:41.952628+09:00"
+        "captured_at": "2026-09-13T07:54:12.981727+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": 4.422430567840085e-05,
         "vs_baseline": 0.3333333333333333,
         "cost_per_eng": 314000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.3x (D+2)"
+      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.3x (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.33x 저조한 초기 반응에 참여 1건당 비용 314,000원으로 현재까지 협찬 효율 매우 미흡.",
+          "days": 3,
+          "analyzed_at": "2026-09-13T07:54:12.981727+09:00"
+        }
+      }
     }
   ],
   "flags": {

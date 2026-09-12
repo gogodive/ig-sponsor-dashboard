@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-08-31",
       "first_seen": "2026-09-01",
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -40,7 +40,7 @@
       "upload_date_notion": "2026-07-28",
       "first_seen": "2026-07-30",
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -56,7 +56,7 @@
       "upload_date_notion": "2026-07-20",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 54,
+      "days_since_post": 55,
       "computed": {
         "er": null,
         "vs_baseline": null,

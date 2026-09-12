@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-13T01:31:49.000Z",
       "permalink": "https://www.instagram.com/p/Db9j9zEpKG8/",
-      "thumbnail": "https://instagram.fsyd13-1.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QUvVgifC5zoQ7kNvwGVTza7&_nc_oc=AdoL2ShPazdqyc9tZyKvhmTNUPUxufbriifXIfIrIl53CDR4_f66hzWRgUQjReIoExNGa1SRQ6vcqRHMq2U8fC6m&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd13-1.fna&_nc_gid=3-PZs8Ru_aMQj6EJAMLdAA&_nc_ss=7a22e&oh=00_AQIyOATVJNbDiLCGR0XSu2r0tny5H2ChNvOFRZyqgmclUw&oe=6AAA4936",
+      "thumbnail": "https://instagram.fsyd10-2.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Ya6AnN28F_YQ7kNvwEy2ONr&_nc_oc=AdoCRHgL4sUSr5k1R0HCPySnMDpusbQyiBSipDy-NcFqASM7tH4YME2nQvgYrsdpjio&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd10-2.fna&_nc_gid=tqwnrmQfl0KEGS6ZeMhKUg&_nc_ss=7a22e&oh=00_AQIfScvsxLLmsxlxFEwb_PzjCyGRKxWfQcqOAS7v86kBFA&oe=6AAB9AB6",
       "caption": "•\n•\n•\n• \n@secrets__fit \n#시크릿스 #fyp #07",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "q._.p7171",
       "metrics": {
-        "views": 7176,
+        "views": 7228,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
+      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -168,15 +168,21 @@
           "views": 7176,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-09-13",
+          "views": 7228,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": -0.00021640337589266391,
         "vs_baseline": null,
         "cost_per_eng": -41250.0,
-        "cost_per_view": 5.748327759197324
+        "cost_per_view": 5.7069728832318765
       },
       "analysis": {
         "d3": {
@@ -190,7 +196,7 @@
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
         }
       },
-      "last_written_reaction": "조회 7,176 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+29)"
+      "last_written_reaction": "조회 7,228 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+30)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-80cf-a431-e209bb9231f0",
@@ -329,7 +335,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.0012984202553559835,
         "vs_baseline": null,
@@ -554,7 +560,7 @@
         "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.2484310755247782,
         "vs_baseline": 1.2539595849262697,
@@ -767,7 +773,7 @@
         "captured_at": "2026-09-08T08:20:50.848173+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": -0.00021640337589266391,
         "vs_baseline": -0.0010922992900054614,

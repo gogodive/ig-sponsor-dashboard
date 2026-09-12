@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-23T13:49:10.000Z",
       "permalink": "https://www.instagram.com/p/DcYoeSiD_wF/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7OHxxCo02mgQ7kNvwGSMSr_&_nc_oc=Adq7FC71gG7CLTBiiijA9ptVTZ1TW4R6KrhsoOPiYd4rsV0p09gPA0TFLmUPEm8Yvzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=1g6qokmb1CEvV2vvVBSPgg&_nc_ss=7a22e&oh=00_AQKyZ1qg7wjTNvpwAAj7Lpq6fuSP-S8-T9sNF755eg3GUw&oe=6AAA5AEE",
+      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7OHxxCo02mgQ7kNvwGeiS6X&_nc_oc=AdoUPxT0v6a46T5hCkCXT2_0AevKlWxxmP-U89qUkzKgfeTa8Kg_MypZGQZLM7yHDVsL3G9aU7V8cpkF7CcRtvqj&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=uMPID5MQ5H6F9tBQSC8AVw&_nc_ss=7a22e&oh=00_AQKj2P0FbcmYi4PNU75N-jrgi21wKuMIbTFwy3Z7jSSL2A&oe=6AABAC6E",
       "caption": "#제품제공 @laserin_swim \n바다에서 계곡에서 올 여름 꽉 채워서 딱복했어요🍑\n어렸을땐 물복파였던 저!!\n요즘엔 상큼하고 아삭아삭한 딱복이 너무 좋더라구요😘\n\n상큼한 딱복향 폴폴나는 수영복 너무 예쁘다!!!💗\n\n#라세린 #수영복 #딱복 #수영",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 233,
         "comments": 23
       },
-      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
+      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -143,23 +143,29 @@
           "views": null,
           "likes": 233,
           "comments": 23
+        },
+        {
+          "d": "2026-09-13",
+          "views": null,
+          "likes": 233,
+          "comments": 23
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 275.5,
+        "eng_median": 300.5,
         "n": 12,
-        "captured_at": "2026-09-12T08:04:41.952628+09:00"
+        "captured_at": "2026-09-13T07:54:12.981727+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
-        "er": 0.01713291393387766,
-        "vs_baseline": 0.9292196007259528,
+        "er": 0.017153578129187885,
+        "vs_baseline": 0.8519134775374376,
         "cost_per_eng": 134.765625,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 233 · 댓글 23 · ER 1.7% · 평소대비 0.9x (D+19)",
+      "last_written_reaction": "좋아요 233 · 댓글 23 · ER 1.7% · 평소대비 0.9x (D+20)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.80x로 다소 부진하나 참여당 153원·참여율 1.5%는 소형 계정 기준 허용 범위 내로, 추가 관찰이 필요한 단계.",
@@ -182,7 +188,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-20T12:46:17.000Z",
       "permalink": "https://www.instagram.com/p/DcQy5FFD3Do/",
-      "thumbnail": "https://instagram.fyxd1-1.fna.fbcdn.net/v/t51.82787-15/778082009_18062387981773335_2053953992216929959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2Nzg5NDk3Nzg1ODQxOTc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6e_jncoG-H8Q7kNvwGJrf5i&_nc_oc=AdoOIb9USYuGNcK5eWO4P18ybNc6GaG4W2uqAMp-B_ax-ofgf2YeYb16YGeR4zFfGLk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyxd1-1.fna&_nc_gid=zD1c48Z0Ek61ugVuK0bPog&_nc_ss=7a22e&oh=00_AQLvck80uPMEB4nucpX4LdmZr2i98-HpvgxvliIBTfwTBw&oe=6AAA4F29",
+      "thumbnail": "https://instagram.fctt1-1.fna.fbcdn.net/v/t51.82787-15/778082009_18062387981773335_2053953992216929959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2Nzg5NDk3Nzg1ODQxOTc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA4Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6e_jncoG-H8Q7kNvwH8Qvn-&_nc_oc=Adq6pWCxgg2-meD_I9W6IEiBL-t2E5rvgJnUhRUSGeUIIFiVbhaYbxMNoV3pJEihuzkKgeKUIuFRJYEjFoXdaUF7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fctt1-1.fna&_nc_gid=lZ83npBblkFdy3CFYYGtaw&_nc_ss=7a22e&oh=00_AQKG0VOPDq58lQU-ahNAuUDD7QLQIu78FPI9ugL783ZKhQ&oe=6AABA0A9",
       "caption": "#제품제공 @laserin_swim \n실내에서 먼저 먹어.. 아니 입어본 𝐋𝐀𝐒𝐄𝐑𝐈𝐍 딱복!🍑\n화보 보자마자 한눈에 반했던 수영복이에요😍\n역시나 실물이 훨씬 반짝이고 예쁘더라구요💗\n\n이름 그대로 새콤달콤한 느낌의 패턴 보이시나요!?\n쨍한 핑크컬러에 더블크로스 타이백이 포인트!!🎀\n너무 예뻐서 계곡에서 바다에서 수영장에서 이미 여러번 입었답니다!🏖️\n\n• 두겹수영복\n• 더블크로스 타이백\n• 미들컷\n• 브라고리\n\n• 스펙\n키154 몸무게46 토르소140 \n🙋‍♀️착용사이즈 XS\n\n#라세린 #수영복 #딱복 #수영",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -191,7 +197,7 @@
         "likes": 227,
         "comments": 25
       },
-      "metrics_updated_at": "2026-09-12T08:04:41.952628+09:00",
+      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -324,23 +330,29 @@
           "views": null,
           "likes": 227,
           "comments": 25
+        },
+        {
+          "d": "2026-09-13",
+          "views": null,
+          "likes": 227,
+          "comments": 25
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 275.5,
+        "eng_median": 300.5,
         "n": 12,
-        "captured_at": "2026-09-12T08:04:41.952628+09:00"
+        "captured_at": "2026-09-13T07:54:12.981727+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
-        "er": 0.01686521215366082,
-        "vs_baseline": 0.9147005444646098,
+        "er": 0.016885553470919325,
+        "vs_baseline": 0.8386023294509152,
         "cost_per_eng": 136.9047619047619,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 227 · 댓글 25 · ER 1.7% · 평소대비 0.9x (D+22)",
+      "last_written_reaction": "좋아요 227 · 댓글 25 · ER 1.7% · 평소대비 0.8x (D+23)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.76x로 소폭 부진하나 참여 1건당 324원은 합리적 수준—3일 차 추이 지속 모니터링 권장.",
@@ -362,6 +374,6 @@
     "account_unavailable": false
   },
   "child_db_id": "a5039eba-97ed-8366-8f6f-01864fbef8e9",
-  "followers": 14942,
-  "last_written_score": 92
+  "followers": 14924,
+  "last_written_score": 85
 }
