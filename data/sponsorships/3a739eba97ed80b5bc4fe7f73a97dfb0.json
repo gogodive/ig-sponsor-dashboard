@@ -25,7 +25,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-08-30T06:52:35.000Z",
       "permalink": "https://www.instagram.com/p/Dcp6XPIIJjX/",
-      "thumbnail": "https://instagram.fgla3-2.fna.fbcdn.net/v/t51.82787-15/791295929_17942768055323919_1002336262791896906_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk3NDk2NDY3ODg2NTg5Mjc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kISV7_BANoAQ7kNvwHq2O_K&_nc_oc=AdqrkzBEYZIh607Zdloaou5BvQfnNUVsj096UQSB0StRyrd1DZrJOYJNbfXy9H7YhLwkolj5sFoHXE6W-5Uj2t0c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fgla3-2.fna&_nc_gid=BY1r7598PloVxEZJcWx9PA&_nc_ss=7a22e&oh=00_AQJXyGdf9_gQnPYFUrsuomK3NPJEkfZ5UMhaBD4YH6ZP9Q&oe=6AAB973B",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/791295929_17942768055323919_1002336262791896906_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk3NDk2NDY3ODg2NTg5Mjc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-Q4HjXMC4OoQ7kNvwFhCPQB&_nc_oc=AdostLQbVYORkq6S05Y6zGBKASiKX4zB0tpI81-DrQHgxWvioUIOjP8sPt6Im-RfTE8PsabTAbgHBHufr6S17kuF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=_l64jzaIfmtZ42uEWHpcTg&_nc_ss=7a22e&oh=00_AQKG9aQcWe8P6mRSwTfg6IfQoPvyrx2gC4e_NOa24MRTHw&oe=6AACE8BB",
       "caption": "물댕‘s 최애템 모아모아 모음.𝐳𝐢𝐩❤️‍🔥\n\n내돈내산 제품제공 다 섞여있지만 꾸준히 사용하는 애정템만 모아모아 모았어요. 제품별 사용팁도 야무지게 정리했으니 몰라서 손해보면 나도 몰라요잉.ᐟ\n\n짐 부랴부랴 챙겨가는 모습 담아주신 @hoho._.dive 님 감사합니다🫧\n\n#제품제공 #광고 #내돈내산 #프리다이빙 #프리디이빙장비추천 \n\n𝐧년째 살타기 싫어인간 최애 썬스틱☀️\n\n서핑갔다가 소개받았는데 펀다하고 파도 왕창 맞았는데도 물방울 송글송글 안 지워져서 그 이후로 끊을수가 없어요.. 지금도 두 통 동시에 쓰는 중\n\n𝐓𝐢𝐩.\n일반 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 101,
         "comments": 14
       },
-      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
+      "metrics_updated_at": "2026-09-14T08:00:37.433408+09:00",
       "history": [
         {
           "d": "2026-09-05",
@@ -89,16 +89,22 @@
           "views": null,
           "likes": 101,
           "comments": 14
+        },
+        {
+          "d": "2026-09-14",
+          "views": null,
+          "likes": 101,
+          "comments": 14
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 221.5,
         "n": 8,
-        "captured_at": "2026-09-13T07:54:12.981727+09:00"
+        "captured_at": "2026-09-14T08:00:37.433408+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0322219108994116,
         "vs_baseline": 0.5191873589164786,
@@ -110,9 +116,14 @@
           "one_liner": "평소 대비 0.50x로 참여 저조하나, 참여당 비용 1,014원은 소규모 계정 기준 수용 가능한 수준으로 추이 지속 모니터링 필요.",
           "days": 5,
           "analyzed_at": "2026-09-05T07:52:56.308501+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.52x로 부진하나 참여당 970원·참여율 3.22%는 소규모 계정 기준 수용 가능한 수준.",
+          "days": 14,
+          "analyzed_at": "2026-09-14T08:00:37.433408+09:00"
         }
       },
-      "last_written_reaction": "좋아요 101 · 댓글 14 · ER 3.2% · 평소대비 0.5x (D+13)"
+      "last_written_reaction": "좋아요 101 · 댓글 14 · ER 3.2% · 평소대비 0.5x (D+14)"
     },
     {
       "notion_row_id": "a6939eba-97ed-828a-9719-010b25eb8980",
@@ -123,17 +134,17 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-26T07:31:02.000Z",
       "permalink": "https://www.instagram.com/p/DcfrUJQvteN/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/786453173_17942154216323919_5581934060741161992_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3MjA4Mzg5NjY5ODE5NzkwMTE3OTQyMTU0MjEwMzIzOTE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ME1GKsts5rMQ7kNvwEDxLyo&_nc_oc=AdoW5IMLXBLn58aaTlmehxwsQgmw9ogQqP5EHK__v-PeU40oONilDrVb_ix0q_LAmlNFJIBex4I1wdxe8NCTiCd5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=BaBbbilFWukwNwHVtus2cg&_nc_ss=7a22e&oh=00_AQLqNkPssFY4K_zvs2VfdNmzp5AnW7i6_E6SW3yTuX1DOg&oe=6AAB9644",
+      "thumbnail": "https://instagram.fyhu2-1.fna.fbcdn.net/v/t51.82787-15/786453173_17942154216323919_5581934060741161992_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3MjA4Mzg5NjY5ODE5NzkwMTE3OTQyMTU0MjEwMzIzOTE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ME1GKsts5rMQ7kNvwGh5Bh9&_nc_oc=AdoddC_kXHKEVW8xk2jQg_UGpFei75aqlotJuLMsU1eZjF6NVC8lCzBLT8qnI7b90seFbaETm5bEhbT3gG8OWdTp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyhu2-1.fna&_nc_gid=RJRjr0cCKGSNx6QRNmy0AQ&_nc_ss=7a22e&oh=00_AQJsI8Q5lsJZySacBFZqR0O2UocNOcR8yg6wNkQg9yTkjQ&oe=6AACE7C4",
       "caption": "태양을 피하고 싶었어.. feat. 민트코어 다이빙룩✨\n\n햇빛 피하려고 판초 챙겼는데 무겁고 푹 젖어서 마르는데 반나절이었던 분이라면 주목! 🩵 (그게 바로 저예요🙄)\n\n이번에 인투더블루 제품들로 민트코어 다이빙룩 맞춰봤는데, 착용감부터 실물 색감까지 완전 취향저격 맞아버렸지 뭐예요\n\n✅ 고고 젤로 오로라 마스크_𝐌𝐢𝐧𝐭 𝐀𝐮𝐫𝐨𝐫𝐚\n• 부담스럽지 않은 민트컬러의 영롱한 오로라 마스크\n• 여유있고 스커트 라인과, 안정적으로 두상 잡아주는 마스크 밴드\n• 타사 대비 가성비가 좋아서 입문용으로 추천✔️\n\n✅ 딥바이브 에어로 스노클_𝐖𝐡",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "wave_yuli",
       "metrics": {
-        "views": 3409,
+        "views": 3416,
         "likes": -1,
         "comments": 30
       },
-      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
+      "metrics_updated_at": "2026-09-14T08:00:37.433408+09:00",
       "history": [
         {
           "d": "2026-08-28",
@@ -236,23 +247,29 @@
           "views": 3409,
           "likes": -1,
           "comments": 30
+        },
+        {
+          "d": "2026-09-14",
+          "views": 3416,
+          "likes": -1,
+          "comments": 30
         }
       ],
       "baseline": {
         "views_median": 9625.0,
         "eng_median": 168,
         "n": 6,
-        "captured_at": "2026-09-13T07:54:12.981727+09:00"
+        "captured_at": "2026-09-14T08:00:37.433408+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.008125525357242926,
-        "vs_baseline": 0.3541818181818182,
+        "vs_baseline": 0.3549090909090909,
         "cost_per_eng": 3844.8275862068967,
-        "cost_per_view": 32.707538867703136
+        "cost_per_view": 32.640515222482435
       },
-      "last_written_reaction": "조회 3,409 · 좋아요 -1 · 댓글 30 · ER 0.8% · 평소대비 0.4x (D+17)",
+      "last_written_reaction": "조회 3,416 · 좋아요 -1 · 댓글 30 · ER 0.8% · 평소대비 0.4x (D+18)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.31x의 저조한 도달로 조회당 71원·참여당 12,389원 비용 효율이 모두 부진—추가 홍보 또는 재협찬 재검토 필요.",

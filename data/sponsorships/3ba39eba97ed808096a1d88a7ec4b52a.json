@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-13T01:31:49.000Z",
       "permalink": "https://www.instagram.com/p/Db9j9zEpKG8/",
-      "thumbnail": "https://instagram.fsyd10-2.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Ya6AnN28F_YQ7kNvwEy2ONr&_nc_oc=AdoCRHgL4sUSr5k1R0HCPySnMDpusbQyiBSipDy-NcFqASM7tH4YME2nQvgYrsdpjio&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd10-2.fna&_nc_gid=tqwnrmQfl0KEGS6ZeMhKUg&_nc_ss=7a22e&oh=00_AQIfScvsxLLmsxlxFEwb_PzjCyGRKxWfQcqOAS7v86kBFA&oe=6AAB9AB6",
+      "thumbnail": "https://instagram.fbcn16-1.fna.fbcdn.net/v/t51.82787-15/774468108_18003664400987094_5735381706651420715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MjQ4MTQyNTUxMDYwNTI0NDE4MDAzNjY0Mzk3OTg3MDk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Ya6AnN28F_YQ7kNvwGTpgvR&_nc_oc=Adrs29VEWSYFmsLKbQ2ZCy0I5ZE7HAb6n4w-xL6LP58NfINVbPBeWcOMVS6vVBzwsEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn16-1.fna&_nc_gid=qX9kcNsDGtQeoaGzvJLP5w&_nc_ss=7a22e&oh=00_AQJJQdS0tneG0fHpcDpndflRhunjqJX4mMv_6L60AV0njg&oe=6AACEC36",
       "caption": "•\n•\n•\n• \n@secrets__fit \n#시크릿스 #fyp #07",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -176,8 +176,8 @@
           "comments": 0
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": -0.00021640337589266391,
         "vs_baseline": null,
@@ -194,9 +194,11 @@
           "one_liner": "팔로워 대비 조회율 146%로 준수하나 댓글 0건이 아쉽고, 참여 1건당 347원은 소규모 계정 기준 양호한 수준.",
           "days": 15,
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
-        }
+        },
+        "final_verdict": "조회수 7,228회로 팔로워 대비 156% 도달률을 기록했으나, 좋아요 -1·댓글 0이라는 사실상 제로에 가까운 참여도는 영상이 실제 관심을 끌지 못했음을 나타낸다. 조회 1회당 비용 5.7원은 수치상 저렴해 보이지만, 실질 참여가 전무하여 브랜드 인지 이상의 전환 기대는 어렵다. 165,000원 협찬 대비 콘텐츠 품질·반응 모두 기준 미달로, 재협찬 시 계정 타깃 적합성과 콘텐츠 퀄리티 사전 검증이 필수다.",
+        "final_at": "2026-09-14T08:00:37.433408+09:00"
       },
-      "last_written_reaction": "조회 7,228 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+30)"
+      "last_written_reaction": "조회 7,228 · 좋아요 -1 · 댓글 0 · ER -0.0% (확정)"
     },
     {
       "notion_row_id": "3ba39eba-97ed-80cf-a431-e209bb9231f0",
@@ -335,7 +337,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.0012984202553559835,
         "vs_baseline": null,
@@ -560,7 +562,7 @@
         "captured_at": "2026-09-10T08:03:45.398077+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.2484310755247782,
         "vs_baseline": 1.2539595849262697,
@@ -773,7 +775,7 @@
         "captured_at": "2026-09-08T08:20:50.848173+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": -0.00021640337589266391,
         "vs_baseline": -0.0010922992900054614,

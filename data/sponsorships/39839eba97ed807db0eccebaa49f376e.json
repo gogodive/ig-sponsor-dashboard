@@ -25,17 +25,17 @@
       "first_seen": "2026-08-25",
       "posted_at": "2026-08-20T10:00:06.000Z",
       "permalink": "https://www.instagram.com/p/DcQf3yyThxd/",
-      "thumbnail": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/781266706_18098114423344848_8299522220525092344_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2NzgxMTQ0NTI1NzU0Mjc0OTE4MDk4MTE0NDIwMzQ0ODQ4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=mwBeqNH9gQYQ7kNvwHv9-Nb&_nc_oc=AdoQrMfps5gPXgtq7kPF0wAoH0C7oZfR7PXoW5WvcT24IoeT7hK2CDtrts9fl0LPbU05Ehnek4eZyh-f97rZiDn3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=XnRvSy0eUu6LddiErtAH2w&_nc_ss=7a22e&oh=00_AQKhevdx6yo1KtRkcc2OXA_Evb7AClxULCM7BUKwK7FQRw&oe=6AAB9552",
+      "thumbnail": "https://instagram.fper12-1.fna.fbcdn.net/v/t51.82787-15/781266706_18098114423344848_8299522220525092344_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2NzgxMTQ0NTI1NzU0Mjc0OTE4MDk4MTE0NDIwMzQ0ODQ4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=mwBeqNH9gQYQ7kNvwE-FrKm&_nc_oc=Adpo7ABEU8NmWE8KP5wBIeXfAojrW_4iRwSawSFP5aC3yP23p6ciAQbUyg3O98ElAdg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper12-1.fna&_nc_gid=zFSPREypCfq_Y4Ifjbdfbg&_nc_ss=7a22e&oh=00_AQKXcoiGBipL8h0wpr1H_BZJ5WvnNLfHAzC2Eda7t8CkJg&oe=6AACE6D2",
       "caption": "#광고 @intotheblue_store\n\n제주 바다에서 유영할 때 진짜 날개 하나 달아준 느낌🪽🌊\n\n딥바이브 파이버글라스 롱핀 써봤는데\n툭 차도 묵직하게 쭉 밀어주는 맛이 있고,\n소프트 텐션이라 살랑살랑 차도 물속에서 부드럽게 쭉쭉 나갑니다🐬\n\n특히 좋았던 건 발목 각도 23도 설계!\n롱핀 오래 신고 있으면 발목 뻐근한 거 은근 스트레스인데\n이건 확실히 발목 부담이 덜해서 오래 물놀이하기 좋더라구요🤿\n\n제주 바다에서 유영하고 프리다이빙하고\n그냥 물속에서 하루 종일 놀고 싶은 사람한테 딱인 느낌😎🌊\n\n📍 착용 핀\n딥바이브(Deep ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "diving_cheodori",
       "metrics": {
-        "views": 11987,
+        "views": 12025,
         "likes": 52,
         "comments": 1
       },
-      "metrics_updated_at": "2026-09-13T07:54:12.981727+09:00",
+      "metrics_updated_at": "2026-09-14T08:00:37.433408+09:00",
       "history": [
         {
           "d": "2026-08-25",
@@ -156,15 +156,21 @@
           "views": 11987,
           "likes": 52,
           "comments": 1
+        },
+        {
+          "d": "2026-09-14",
+          "views": 12025,
+          "likes": 52,
+          "comments": 1
         }
       ],
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.004049820432490257,
         "vs_baseline": null,
         "cost_per_eng": 2490.566037735849,
-        "cost_per_view": 11.011929590389588
+        "cost_per_view": 10.977130977130978
       },
       "analysis": {
         "d3": {
@@ -178,7 +184,7 @@
           "analyzed_at": "2026-09-04T08:05:32.290830+09:00"
         }
       },
-      "last_written_reaction": "조회 11,987 · 좋아요 52 · 댓글 1 · ER 0.4% (D+23)"
+      "last_written_reaction": "조회 12,025 · 좋아요 52 · 댓글 1 · ER 0.4% (D+24)"
     },
     {
       "notion_row_id": "37b39eba-97ed-823f-997b-818ed7527967",
@@ -388,7 +394,7 @@
         "captured_at": "2026-09-04T08:05:32.290830+09:00"
       },
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
         "er": 0.015282341254680218,
         "vs_baseline": 1.13314447592068,
