@@ -1,7 +1,7 @@
 {
   "page_id": "3b139eba-97ed-8057-8479-fd4f16d51523",
   "row_title_raw": "Yyyyoonjii",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,57 @@
   "followers_notion": 22000,
   "posts": [
     {
+      "notion_row_id": "3d839eba-97ed-8031-8f0e-d844b2ef033d",
+      "url": "https://www.instagram.com/reel/DdJpkX1yOhE/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdJpkX1yOhE",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-12",
+      "first_seen": "2026-09-15",
+      "posted_at": "2026-09-11T14:43:04.000Z",
+      "permalink": "https://www.instagram.com/p/DdJpkX1yOhE/",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/808490833_18628808446007812_4984372156402484033_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk4Mzg5ODE2NDc5MjQ1MzE4ODE4NjI4ODA4NDQzMDA3ODEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=YHqz1-yLFCIQ7kNvwFhXAXH&_nc_oc=AdrhroWHgKyPEA1X26QpYfyW6jSiz1V5C7_yT5W_iD6m3PhoMszbYEH7G_8OO0R03eH-Q52fy0f_EPfqMVd07Dlf&_nc_ad=z-m&_nc_cid=1698&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=52PJeqQSVe8h4dZYqENL-g&_nc_ss=7a22e&oh=00_AQLl2Ch-NJPszHrc-vlw100okoe3kEMXZLa2PX1_gBIq5A&oe=6AAE5BAF",
+      "caption": "#협찬\n\n물 속에서 더 반짝반짝 빛나는 오로라 롱핀\n이번 여행 내내 나의 애착템 🫧\n\n #인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "yyyyoonjii",
+      "metrics": {
+        "views": 1232,
+        "likes": -1,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
+      "history": [
+        {
+          "d": "2026-09-15",
+          "views": 1232,
+          "likes": -1,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": 3150,
+        "eng_median": 2,
+        "n": 3,
+        "captured_at": "2026-09-15T08:44:49.381170+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": -4.422430567840085e-05,
+        "vs_baseline": 0.39111111111111113,
+        "cost_per_eng": -157000.0,
+        "cost_per_view": 127.43506493506493
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.39x 저조한 조회·좋아요 미집계 상태로, 조회 1회당 127원의 비용 효율이 우려되는 초기 성과다.",
+          "days": 3,
+          "analyzed_at": "2026-09-15T08:44:49.381170+09:00"
+        }
+      },
+      "last_written_reaction": "조회 1,232 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.4x (D+3)"
+    },
+    {
       "notion_row_id": "85739eba-97ed-8324-bb10-0154a1269e1a",
       "url": "https://www.instagram.com/p/DdExqFUCb6Y/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
       "shortcode": "DdExqFUCb6Y",
@@ -25,7 +76,7 @@
       "first_seen": "2026-09-11",
       "posted_at": "2026-09-09T17:16:00.000Z",
       "permalink": "https://www.instagram.com/p/DdExqFUCb6Y/",
-      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/801582389_18627645223007812_3315409210430851375_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4MjUyMDI4ODg3NDU2Njg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SiaPiuNv4XoQ7kNvwFXzc0f&_nc_oc=AdqjNd5yE2kyP_H3U7cTEQeRH1xi9jZtFQidOmA6lplXbEsRUusg_sz9UtsyLRzXGGE&_nc_ad=z-m&_nc_cid=1005&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=EB6GXmlKawApGFJZqrgrjQ&_nc_ss=7a22e&oh=00_AQKifEwJPKkeufI5OlWIecPOvFcwOwUjT0-2YB7RRdyPow&oe=6AAD111B",
+      "thumbnail": "https://scontent-for2-2.cdninstagram.com/v/t51.82787-15/801582389_18627645223007812_3315409210430851375_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4MjUyMDI4ODg3NDU2Njg5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjI2OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SiaPiuNv4XoQ7kNvwEm0ZoB&_nc_oc=Ado7rRF4ZSP5WZWeddoVYyUqVTyrOzqpZsCQw4cqPLnBr7xsLk_8zX1xkohgg-U4aTg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-2.cdninstagram.com&_nc_gid=2io1scu3wJdmEdR7Hd1uAw&_nc_ss=7a22e&oh=00_AQJGcqMTxVxWC4ZcgHXgg_kr2y8AIjq_e-pes5NtL1e4wQ&oe=6AAE629B",
       "caption": "#협찬\n\n여행 내내 대만족했던 이쁜 내 오로라 롱핀\n물속에서 후레쉬처럼 반짝거림 ✨\n(물속 색깔이 진짜 찐찐찐찐..ㅜㅜㅜㅜ)\n\n덕분에 예쁜 바다에서 사진까지 이쁘게 남기고 왔다 🐠💙\n\n #인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +85,7 @@
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-09-14T08:00:37.433408+09:00",
+      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
       "history": [
         {
           "d": "2026-09-11",
@@ -59,23 +110,29 @@
           "views": null,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-09-15",
+          "views": null,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 3.0,
         "n": 12,
-        "captured_at": "2026-09-14T08:00:37.433408+09:00"
+        "captured_at": "2026-09-15T08:44:49.381170+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
         "er": 4.422430567840085e-05,
         "vs_baseline": 0.3333333333333333,
-        "cost_per_eng": 314000.0,
+        "cost_per_eng": 157000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.3x (D+4)",
+      "last_written_reaction": "좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.3x (D+5)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.33x 저조한 초기 반응에 참여 1건당 비용 314,000원으로 현재까지 협찬 효율 매우 미흡.",
@@ -93,5 +150,5 @@
   },
   "child_db_id": "c7039eba-97ed-82b4-b9e7-01ab89fee232",
   "followers": 22612,
-  "last_written_score": 33
+  "last_written_score": 36
 }

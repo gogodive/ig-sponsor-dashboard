@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-14T01:02:00.000Z",
       "permalink": "https://www.instagram.com/p/DcAFhiPiVoE/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/773469519_18110771926998643_2087432753371423113_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MzE5MTMwNTA3MDUwMDE4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gNg_DbEtjOEQ7kNvwHUWg2h&_nc_oc=AdpkNj5Hkef_PHKQQ0C0CG7uF7wkANqiZb154meofhew59yWS9L0P3whI12Cib18T86KboIwebcDAXbJ9kac9H1k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=q_jcsP_EBR9jP0b5Bz47PQ&_nc_ss=7a22e&oh=00_AQKrOevK_RJuB_91WchA-U7i1HOU46NRHtAnr5zpXx3KkA&oe=6AAD0A27",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/773469519_18110771926998643_2087432753371423113_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2MzE5MTMwNTA3MDUwMDE4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gNg_DbEtjOEQ7kNvwE6qpWO&_nc_oc=AdpPqCFUQJw64yX8NiC4rNNZosR3GbGPvwPBg2xQB-kR_yVUPJmvUa3NEzikThGtoFU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=m88EK0rh_1kS4O5rRl1TJQ&_nc_ss=7a22e&oh=00_AQJLwpIaR_ndHbzGDiWZmCMk5Rhl9Yt7oxRdoceJWGzfGA&oe=6AAE5BA7",
       "caption": "#협찬 #시크릿스#여자운동복추천#애슬레저브랜드 #인생팬츠 \n💚",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -187,8 +187,8 @@
         "n": 12,
         "captured_at": "2026-09-14T08:00:37.433408+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.009810654370646522,
         "vs_baseline": 0.8888888888888888,
@@ -205,9 +205,11 @@
           "one_liner": "평소 대비 0.87x로 소폭 하회하며 참여 1건당 566원은 무난한 수준이나, 피드 게시물 특성상 추가 상승 여력은 제한적.",
           "days": 14,
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 0.98%는 소규모 계정 평균(1~3%)에 미치지 못하고, 평소 게시물 대비 89% 수준으로 협찬 효과가 오히려 역효과를 낸 것으로 보인다. 참여 1건당 비용 560원은 나쁘지 않은 수치이나, 릴스가 아닌 피드 게시물이라 조회수 데이터가 없어 실질 노출 범위를 확인할 수 없고 총 참여(좋아요+댓글) 100건에 그쳐 112,000원의 협찬 가액 대비 확산력은 제한적이다. 브랜드 인지 목적보다는 소규모 충성 팬층에 대한 노출로서의 의미는 있으나, 동일 예산으로 더 높은 참여율을 기대할 수 있는 채널을 검토하는 것이 바람직하다.",
+        "final_at": "2026-09-15T08:44:49.381170+09:00"
       },
-      "last_written_reaction": "좋아요 90 · 댓글 10 · ER 1.0% · 평소대비 0.9x (D+30)"
+      "last_written_reaction": "좋아요 90 · 댓글 10 · ER 1.0% · 평소대비 0.9x (확정)"
     },
     {
       "notion_row_id": "a5639eba-97ed-8316-837c-815b8b9078c5",
@@ -218,7 +220,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-14T00:58:49.000Z",
       "permalink": "https://www.instagram.com/p/DcAExTAJa3d/",
-      "thumbnail": "https://instagram.fktw1-1.fna.fbcdn.net/v/t51.82787-15/775028075_18110771719998643_863420455102793556_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MzE4ODY1MTkzMDAwNDk1NzE4MTEwNzcxNzEzOTk4NjQz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=hBw_iia1gb4Q7kNvwHWApCf&_nc_oc=AdoDbzmmOkXXK4UtqnGqSkzA2A2WFXFZPJGnlpS1Fl0-UGC9i2valJWOMRCRVqUAkcY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw1-1.fna&_nc_gid=xAgSLyZgkGucpPKiGnADrw&_nc_ss=7a22e&oh=00_AQI7WYVkXXzwF7eOoJFdeTx1ubfMZbm5rrxw4X8hPcUGQw&oe=6AACF6A4",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/775028075_18110771719998643_863420455102793556_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MzE4ODY1MTkzMDAwNDk1NzE4MTEwNzcxNzEzOTk4NjQz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=z6LIfI4RlR4Q7kNvwE70yNR&_nc_oc=Ado09O1krGuM40OnTRRRwkxfXYDXwyX4AWfWFpuDChMnx1iY_CpBEgiZ6kDQDkqPnPA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=QQDzCY9-GUMvB8SAbhc27g&_nc_ss=7a22e&oh=00_AQI_OGPO4RRUNzkKrqlj0RnLg9RulBWu0ksOAjuyL_xTKg&oe=6AAE4824",
       "caption": "#협찬 #시크릿스#여자운동복추천#애슬레저브랜드 #운동복코디 \n운동 일상 출근 모두 쪼아💚\n개미허리 탄생",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -375,8 +377,8 @@
           "comments": 10
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0067693515157461,
         "vs_baseline": null,
@@ -393,9 +395,11 @@
           "one_liner": "조회 3,227회·참여율 0.66%로 평소 대비 성과가 낮고, 참여 1건당 812원·조회당 17.4원은 112,000원 협찬 대비 효율이 아쉬운 수준.",
           "days": 14,
           "analyzed_at": "2026-08-28T14:09:22.597852+09:00"
-        }
+        },
+        "final_verdict": "팔로워 10,193명 대비 조회 3,304회(팔로워 도달률 약 32%)·참여율 0.68%는 인플루언서 업계 평균(1~3%)을 크게 하회하며, 댓글 10건은 실질적 구매 관심 신호로 보기에 매우 미약한 수준이다. 참여 1건당 812원·조회 1회당 16.9원은 112,000원 협찬 가액 대비 효율이 낮고, 다이빙·수영 전문 브랜드 특성상 타깃 적합도가 높지 않으면 전환으로 이어지기 어렵다는 점까지 감안하면 비용 대비 가치는 기대 이하로 판단된다.",
+        "final_at": "2026-09-15T08:44:49.381170+09:00"
       },
-      "last_written_reaction": "조회 3,304 · 좋아요 59 · 댓글 10 · ER 0.7% (D+30)"
+      "last_written_reaction": "조회 3,304 · 좋아요 59 · 댓글 10 · ER 0.7% (확정)"
     }
   ],
   "flags": {
