@@ -25,17 +25,17 @@
       "first_seen": "2026-09-08",
       "posted_at": "2026-09-06T13:20:27.000Z",
       "permalink": "https://www.instagram.com/p/Dc8n0O_OZ5a/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=17yBue5T_koQ7kNvwHQU6-7&_nc_oc=AdrxYy54rxV5bcuEb7UBiuDbD3YoW4SSYBiL9dPeq00cllQgaGBcvTkO3vWEMTG3ahQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=c5YOS7aOXxp6rGMcTcN0oQ&_nc_ss=7a22e&oh=00_AQIda02g9xwLWK90GfuEMuuHvmkH3ColWp0ioa9KRMtPsA&oe=6AAE5281",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=HhcpGXRvadUQ7kNvwFvKTgi&_nc_oc=Ado9VwqW3rp1uh92ehRgJLWZ_NdGbbmYZyFIq4al9yOb6rEHM-dOlNgQw6_bVNRr2UY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=bdQW4S-4YxZ-AoBxDnZ5GA&_nc_ss=7a22e&oh=00_AQIpZEwg2mlTNEs9uuqTKl8Wqcc1VGTH3riinll9HkVs2w&oe=6AAFA401",
       "caption": "물고기가 되고 싶은 저에요 🐬 *광고\n\n이번에 영덕 놀러갔다왔는데 \n너무 예쁘고 청량한 거 있죠 ✨\n\n인투더블루 유리섬유 롱핀 써서 그런지\n수심 꽤나 깊은데도 안지치고 두 시간 놀았어요 🏊🏻‍♀️\n\n여전히 수영은 배우고 있어서 \n자세가 요란하지만 ㅎ ㅎ \n그래도 물고기들도 잔뜩 보고 \n힐링했던 하루였습니다 🌷\n\n다들 롱핀 + 스노쿨링은 꼭 추천드려요 🐬\n#인투더블루 #딥바이브 #영덕여행 #스노쿨링 #롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "j_hyun110",
       "metrics": {
-        "views": 2780,
+        "views": 2842,
         "likes": 83,
         "comments": 7
       },
-      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
+      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
       "history": [
         {
           "d": "2026-09-08",
@@ -84,17 +84,23 @@
           "views": 2780,
           "likes": 83,
           "comments": 7
+        },
+        {
+          "d": "2026-09-16",
+          "views": 2842,
+          "likes": 83,
+          "comments": 7
         }
       ],
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.0075904528970228554,
-        "vs_baseline": 1.3244402096236303,
+        "vs_baseline": 1.3539780848022869,
         "cost_per_eng": 1466.6666666666667,
-        "cost_per_view": 47.48201438848921
+        "cost_per_view": 46.44616467276566
       },
-      "last_written_reaction": "조회 2,780 · 좋아요 83 · 댓글 7 · ER 0.8% · 평소대비 1.3x (D+8)",
+      "last_written_reaction": "조회 2,842 · 좋아요 83 · 댓글 7 · ER 0.8% · 평소대비 1.4x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회율 22%·참여율 0.71%로 초기 반응이 저조하며, 참여 1건당 비용 1,590원은 협찬 효율 개선이 필요한 수준입니다.",
@@ -106,7 +112,7 @@
         "views_median": 2099,
         "eng_median": 64,
         "n": 3,
-        "captured_at": "2026-09-15T08:44:49.381170+09:00"
+        "captured_at": "2026-09-16T08:27:25.841469+09:00"
       }
     },
     {
@@ -118,7 +124,7 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-17T14:30:43.000Z",
       "permalink": "https://www.instagram.com/p/DcJQdXPmpcs/",
-      "thumbnail": "https://instagram.fmty2-1.fna.fbcdn.net/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9RNoNeBfoWMQ7kNvwGer3Df&_nc_oc=AdrkhilzvPDggjr-7eLw4i664AplmGQxyUQXoWrsrF_C-o3lNyvSeifUmWUGO2pN48g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmty2-1.fna&_nc_gid=bf11kbHPOLl62z2A1pw8mA&_nc_ss=7a22e&oh=00_AQImRcu4Ebu7Ndq7rQvcNYpIZdBepfDLQPlVbhCJw3Ie8Q&oe=6AAE5968",
+      "thumbnail": "https://instagram.fmel18-1.fna.fbcdn.net/v/t51.82787-15/774060073_18606651847011361_6887571814320528717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2NTc3MDYwMDM0NDY2MjQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjkyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9RNoNeBfoWMQ7kNvwGCwfM-&_nc_oc=Adp81JLnVSjIhBOZoNqfxhRYvINkP5SwPLO5xI-9bUrJr-T9E9p0L2tuCSmJTZ2AIa8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmel18-1.fna&_nc_gid=R-N6Di6lWU3ZoQ_gpb7-pQ&_nc_ss=7a22e&oh=00_AQIsLIAokLwp5iVVNc0EJQDv1Mt66wjF1stbfYkyQstSJQ&oe=6AAFAAE8",
       "caption": "프리다이빙을 하면 \n스노쿨링을 사랑할 수 밖에 없어 ⋆ 🪼ྀི ⋆ *광고\n\n역시 수영복은 르망고에\n인투더블루 롱핀까지.. 완벽 조합 아닌가요 🫧\n\n래쉬가드는 색감이랑 핏이 너무 예쁘고\n롱핀은 깊은 곳에서도 안정감있게 놀기 편하답니다 🏊🏻\n\n• 인투더블루 | 딥바이브 크리스탈 롱핀 | 실버 \n\n#스노쿨링 #르망고 #인투더블루 #딥바이브 #딥바이브롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -127,7 +133,7 @@
         "likes": 603,
         "comments": 21
       },
-      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
+      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
       "history": [
         {
           "d": "2026-08-28",
@@ -242,16 +248,22 @@
           "views": null,
           "likes": 603,
           "comments": 21
+        },
+        {
+          "d": "2026-09-16",
+          "views": null,
+          "likes": 603,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 371.0,
         "n": 12,
-        "captured_at": "2026-09-15T08:44:49.381170+09:00"
+        "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.052627140086025134,
         "vs_baseline": 1.6819407008086253,
@@ -270,7 +282,7 @@
           "analyzed_at": "2026-09-01T09:27:49.712538+09:00"
         }
       },
-      "last_written_reaction": "좋아요 603 · 댓글 21 · ER 5.3% · 평소대비 1.7x (D+28)"
+      "last_written_reaction": "좋아요 603 · 댓글 21 · ER 5.3% · 평소대비 1.7x (D+29)"
     }
   ],
   "flags": {
@@ -281,5 +293,5 @@
   },
   "child_db_id": "3af39eba-97ed-8310-b26c-0112b1d738cd",
   "followers": 11857,
-  "last_written_score": 150
+  "last_written_score": 152
 }

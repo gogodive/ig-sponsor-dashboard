@@ -25,16 +25,16 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-18T09:51:44.000Z",
       "permalink": "https://www.instagram.com/p/DcLVU4MlL6H/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/775941030_18606716542034487_8889906478178453797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2NjM0NTY3MDcxMzMxODE0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjc2Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rBxbGYq-S_YQ7kNvwGcKSSH&_nc_oc=AdqJos0DJRkuEDJOn0j29fKikvqxyILjAXTGjjCdDNkuOEo26vK6H-GbStkeLzxzhpc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=oMAp-LcQUNkrmJqIW0kbeg&_nc_ss=7a22e&oh=00_AQJJDMoZi8VuZpuBhP95ZRCcjVSTutRs6Rf8YputAwKQCg&oe=6AAE53AC",
+      "thumbnail": "https://instagram.fmex3-1.fna.fbcdn.net/v/t51.82787-15/775941030_18606716542034487_8889906478178453797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NjM0NTY3MDcxMzMxODE0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjc2Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rBxbGYq-S_YQ7kNvwFE92i2&_nc_oc=AdrcCdkX-2rMf8JFzmgAyDvq_Y8bRiDRWU3YWn7BFfCRoLYy9Rpv6xdDelL4S1DOL8M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex3-1.fna&_nc_gid=lvUtszPr6FwqphEkZNxfVQ&_nc_ss=7a22e&oh=00_AQLBJxJsdfGvkf46L7CPeVH0OmZt0nwXL9mVteTxpvKN1g&oe=6AAFA52C",
       "caption": "@gogodive\n여름휴가 준비 겸 시작한 프리다이빙\n\n@hhk9161 강사님의 친절한 수업 덕에\n호흡법, 이퀄라이징, 입수법 등 기본기를 배우고\n무사히 여름휴가에서 써먹고 왔습니다.\n\n아직 프렌젤은 잘 안 되지만 열심히 연습해서\n레벨2 자격증에도 도전해 보겠습니다.\n\n#고고다이브 #프리다이빙\n#프리다이빙강습",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "_ch_lee",
       "metrics": {
-        "likes": 295,
+        "likes": 297,
         "comments": 9
       },
-      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
+      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
       "history": [
         {
           "d": "2026-08-21",
@@ -191,23 +191,29 @@
           "views": null,
           "likes": 295,
           "comments": 9
+        },
+        {
+          "d": "2026-09-16",
+          "views": null,
+          "likes": 297,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 638.5,
         "n": 12,
-        "captured_at": "2026-09-15T08:44:49.381170+09:00"
+        "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
-        "er": 0.02498151039526666,
-        "vs_baseline": 0.47611589663273296,
-        "cost_per_eng": 1282.8947368421052,
+        "er": 0.025145862437340783,
+        "vs_baseline": 0.4792482380579483,
+        "cost_per_eng": 1274.5098039215686,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 295 · 댓글 9 · ER 2.5% · 평소대비 0.5x (D+27)",
+      "last_written_reaction": "좋아요 297 · 댓글 9 · ER 2.5% · 평소대비 0.5x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.35x로 부진한 초기 반응—참여 1건당 1,781원은 협찬 규모 대비 효율이 낮아 추가 관찰이 필요합니다.",

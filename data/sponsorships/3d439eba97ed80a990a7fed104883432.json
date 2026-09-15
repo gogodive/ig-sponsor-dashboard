@@ -1,0 +1,27 @@
+{
+  "page_id": "3d439eba-97ed-80a9-90a7-fed104883432",
+  "row_title_raw": "kongi_swim",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "596",
+  "product_value_krw": 12000,
+  "delivery_date": "2026-09-10",
+  "output_link_prop": null,
+  "username": "kongi_swim",
+  "followers_notion": 596,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "be539eba-97ed-83fc-8eec-017ca53494c9",
+  "followers": 596
+}

@@ -1,0 +1,27 @@
+{
+  "page_id": "3d439eba-97ed-8045-b008-e57581d05302",
+  "row_title_raw": "ori.qqqq",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "1970",
+  "product_value_krw": 12000,
+  "delivery_date": "2026-09-10",
+  "output_link_prop": null,
+  "username": "ori.qqqq",
+  "followers_notion": 1970,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "09339eba-97ed-83cb-a17a-816f619b6007",
+  "followers": 1970
+}

@@ -158,7 +158,7 @@
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.004034969737726967,
         "vs_baseline": 0.0196078431372549,
@@ -190,17 +190,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-18T15:45:06.000Z",
       "permalink": "https://www.instagram.com/p/DcL9rD7SQ22/",
-      "thumbnail": "https://instagram.fmzt1-1.fna.fbcdn.net/v/t51.82787-15/777666171_18036044339826786_3911702980582837810_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2NjUzNTEzNjgyMDM5OTU0MjE4MDM2MDQ0MzM2ODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=o6RJzPHK-KoQ7kNvwHJ_b2F&_nc_oc=Ado-V2CqtPGnPdIonehZdjVTp4bby1r_uXATeLpTiBKi1Or63qtRslXDZIxGqoLM0yQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmzt1-1.fna&_nc_gid=Yy76nGRofZszjuvDhV4tYQ&_nc_ss=7a22e&oh=00_AQJVArEQCPXXIgWB4j695YuZxKz7dt0vfSK8IeBpGqu_wg&oe=6AAE515D",
+      "thumbnail": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/777666171_18036044339826786_3911702980582837810_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2NjUzNTEzNjgyMDM5OTU0MjE4MDM2MDQ0MzM2ODI2Nzg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=o5VJuiZPiuYQ7kNvwHGTPyc&_nc_oc=AdoW0S4EhQJuEES2SKdk9l0G-LZu82ziYNIE7HTuo3HnoXaunXbBus477WDfJFzUuMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=gtpec0n7UY2mc7gHmWjxSA&_nc_ss=7a22e&oh=00_AQKktx6B4IqywsTT7lNSTWGXK-OilB7X_6NZcfHOa4b7uw&oe=6AAFA2DD",
       "caption": "라세린 입구 뛰어 💓",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "modu_love_dive",
       "metrics": {
-        "views": 2122,
+        "views": 2124,
         "likes": -1,
         "comments": 3
       },
-      "metrics_updated_at": "2026-09-15T08:44:49.381170+09:00",
+      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -351,21 +351,27 @@
           "views": 2122,
           "likes": -1,
           "comments": 3
+        },
+        {
+          "d": "2026-09-16",
+          "views": 2124,
+          "likes": -1,
+          "comments": 3
         }
       ],
       "baseline": {
         "views_median": 4840.0,
         "eng_median": 142,
         "n": 10,
-        "captured_at": "2026-09-15T08:44:49.381170+09:00"
+        "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.0013449899125756557,
-        "vs_baseline": 0.43842975206611573,
+        "vs_baseline": 0.4388429752066116,
         "cost_per_eng": 10666.666666666666,
-        "cost_per_view": 10.053408733898838
+        "cost_per_view": 10.043942247332078
       },
       "analysis": {
         "d3": {
@@ -379,7 +385,7 @@
           "analyzed_at": "2026-09-02T08:08:59.553879+09:00"
         }
       },
-      "last_written_reaction": "조회 2,122 · 좋아요 -1 · 댓글 3 · ER 0.1% · 평소대비 0.4x (D+27)"
+      "last_written_reaction": "조회 2,124 · 좋아요 -1 · 댓글 3 · ER 0.1% · 평소대비 0.4x (D+28)"
     },
     {
       "notion_row_id": "62839eba-97ed-8258-8bce-810fa418ef97",
@@ -390,7 +396,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-15T02:59:50.000Z",
       "permalink": "https://www.instagram.com/p/DcC3zecEmvi/",
-      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/774512123_18035467526826786_8679758037756924960_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2Mzk3NDg2NTY1MjQ2MTU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lUPsjpEl8TgQ7kNvwHaCf8H&_nc_oc=AdqHA7aOxR5merrWdiQtI54OLKQOF5iwtC-3tIh3NkewaWv_GNCPEva5t5Y2XD6Yc_w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=bnqjqciMq38iU6cvw24MLA&_nc_ss=7a22e&oh=00_AQI8jNr0LDgodtVlApy6IBz29yLdDj03i5qaKVWrqkB-nQ&oe=6AAE6A17",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/774512123_18035467526826786_8679758037756924960_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2Mzk3NDg2NTY1MjQ2MTU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lUPsjpEl8TgQ7kNvwENDYTR&_nc_oc=AdpleFnX2yv4Zmx0JGUOKnA2OM3sv_z_6Vau39WUQI2JNfZi30sT15TjESteDv1odEw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=KLtbU08b4eyYS6kIk0aDHg&_nc_ss=7a22e&oh=00_AQICHrFtBM1fJzQkeJhQSUzOXgp_Xz860c9kHOqjnArqSA&oe=6AAFBB97",
       "caption": "🩷LASERIN🩷\n촌스러운 레드가 아니라 딥하면서도 세련된 느낌의\n 미스틱 레드 컬러라 피부 톤을 환하게 밝혀주고 \n물에 들어갔을 때 색감이 더 예쁘게 올라와서\n 실내 수영장은 물론 야외 풀에서도 존재감이 확실💕\n\n#라세린 #라세린수영복 #수영복추천 #협찬 #다이빙",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -558,8 +564,8 @@
         "n": 8,
         "captured_at": "2026-09-15T08:44:49.381170+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.07195696032279758,
         "vs_baseline": 0.31470588235294117,
@@ -576,9 +582,11 @@
           "one_liner": "평소 대비 0.20x로 저조한 참여 흐름이나, 참여 1건당 205원의 효율은 소규모 계정 특성상 수용 가능한 수준.",
           "days": 14,
           "analyzed_at": "2026-08-29T12:06:27.647284+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 7.20%는 소규모 계정 기준으로 양호한 수치이며, 참여 1건당 비용 199원은 인플루언서 마케팅 단가로 매우 효율적인 편이다. 다만 평소 대비 0.31x라는 낮은 성과 배수는 협찬 게시물이 해당 계정의 일반 콘텐츠보다 오히려 반응을 크게 끌어내지 못했음을 의미하며, 브랜드 노출 효과는 제한적이었을 가능성이 높다. 64,000원의 협찬 비용 자체는 낮아 손실 리스크는 적으나, 팔로워 1,487명의 소규모 계정임을 감안하면 순수 도달 확산 관점에서는 아쉬운 성과로 평가된다.",
+        "final_at": "2026-09-16T08:27:25.841469+09:00"
       },
-      "last_written_reaction": "좋아요 102 · 댓글 5 · ER 7.2% · 평소대비 0.3x (D+30)"
+      "last_written_reaction": "좋아요 102 · 댓글 5 · ER 7.2% · 평소대비 0.3x (확정)"
     }
   ],
   "flags": {

@@ -1,0 +1,27 @@
+{
+  "page_id": "3d439eba-97ed-80fb-9a7a-f4e9a0217420",
+  "row_title_raw": "swimming_vely",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "10000",
+  "product_value_krw": 12000,
+  "delivery_date": "2026-09-10",
+  "output_link_prop": null,
+  "username": "swimming_vely",
+  "followers_notion": 10000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "50639eba-97ed-8339-8726-01bda27bb67b",
+  "followers": 10000
+}
