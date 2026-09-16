@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-21T03:33:25.000Z",
       "permalink": "https://www.instagram.com/p/DcSYBswvYpC/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t15.5256-10/775243082_1716418802992158_4182357025122707630_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk2ODMzOTg5MTU2NDkzOTg0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMiJ9&_nc_ohc=z29ZGktnAwQQ7kNvwF2LE3Q&_nc_oc=Adpc628ZQwTNA4hR6y0G44_mfT_u_sOnZXSuckOnmeOWqCqSakb95uf8_PVD5H7vrsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=s__fuh126a6z4g6YYZumww&_nc_ss=7a22e&oh=00_AQKBg4DWeynqXxgujDB-kMojvWmOPt0DcrTinP5Si-_Qtg&oe=6AAFABA8",
+      "thumbnail": "https://scontent-mad2-1.cdninstagram.com/v/t15.5256-10/775243082_1716418802992158_4182357025122707630_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk2ODMzOTg5MTU2NDkzOTg0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=z29ZGktnAwQQ7kNvwFEiSW2&_nc_oc=AdqdVk7bnZI5dErEmWEPzZTinlzKaAd6wyjJJ0Qd1qUv7KfP07jlA-F287x7jcWiIDU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=Zqq0QLgV80kYl0hR6JYU6g&_nc_ss=7a22e&oh=00_AQJKjeJa_1XBo7w_21h6z2p_A5dirWErF2mWwL15dUh8VA&oe=6AB0FD28",
       "caption": "물속에서 인어가 되어보기🫧\n\n물방울 놀이하다가 너무 재밌어서 시간 가는줄 몰랐던 프리디이빙\n예쁜 수영복 입어서 더 기분이 좋았나...?\n@laserin_swim sun glow ❤️\n\n🎥 @whats__sub @shin_yoon_jae_",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yorrr_ming",
       "metrics": {
-        "views": 5716,
+        "views": 5720,
         "likes": 216,
         "comments": 25
       },
-      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
+      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -192,23 +192,29 @@
           "views": 5716,
           "likes": 216,
           "comments": 25
+        },
+        {
+          "d": "2026-09-17",
+          "views": 5720,
+          "likes": 216,
+          "comments": 25
         }
       ],
       "baseline": {
         "views_median": 8487.0,
         "eng_median": 272.0,
         "n": 6,
-        "captured_at": "2026-09-16T08:27:25.841469+09:00"
+        "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.009827909632167033,
-        "vs_baseline": 0.6735006480499588,
+        "vs_baseline": 0.6739719571108754,
         "cost_per_eng": 286.3070539419087,
-        "cost_per_view": 12.071378586424073
+        "cost_per_view": 12.062937062937063
       },
-      "last_written_reaction": "조회 5,716 · 좋아요 216 · 댓글 25 · ER 1.0% · 평소대비 0.7x (D+25)",
+      "last_written_reaction": "조회 5,720 · 좋아요 216 · 댓글 25 · ER 1.0% · 평소대비 0.7x (D+26)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.17배 무난한 출발이나 팔로워 대비 참여율 0.92%·조회당 13.5원은 다이빙·수영 니치 브랜드 기준 보통 수준으로, 7일차 추이 확인이 필요합니다.",

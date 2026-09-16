@@ -25,7 +25,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-01T14:07:57.000Z",
       "permalink": "https://www.instagram.com/p/Dcv1xxrgY0m/",
-      "thumbnail": "https://scontent-qro1-2.cdninstagram.com/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=eQEeMNCvN84Q7kNvwEHkcMP&_nc_oc=AdqVpfC6NWqUnWSaeHCIZQn0VxSaMkh7wUOG4RGpaP4Qv4OVm9Oc0S7e71MDdzzXjCusoTTK0LXXlTCxPMe1T9DO&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-qro1-2.cdninstagram.com&_nc_gid=GPard4rntKSSPdgldF4UEQ&_nc_ss=7a22e&oh=00_AQJfPBVlXZ3O9h2-3BORYtFUtQmBt2BlZPJgp1dKYk503Q&oe=6AAF9CD3",
+      "thumbnail": "https://instagram.fkix3-1.fna.fbcdn.net/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=eQEeMNCvN84Q7kNvwFP4T0W&_nc_oc=Ado_FVhaxDvxsjS2adnkCWc4aHOFgt38mBdTsugY3RVJf8NwclV8MS6X_VcPfnyE7Ybrxp2husSPKL7zq6mwdDw-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fkix3-1.fna&_nc_gid=hGiYb1iviuPuMcsqwDH2Iw&_nc_ss=7a22e&oh=00_AQKkHOibLTlY2nXROlgMaoZMjOTieLl7dwMD0Jj1UVKCvA&oe=6AB0EE53",
       "caption": "#협찬\n1위 다이빙 업체 @gogodive 에서 프리다이빙 배웠어요 🥽\n\n원래도 수영 좋아하는데 바다에서 수영하면서 프리다이빙하는 사람들을 볼 때마다 너무 신기하고 나도 해보고 싶다는 생각을 가지고 있었는데 마침 좋은 기회로 제대로 배울 수 있어서 너무 좋았어요.\n\n입수하기 전에 강사님께서 준비호흡, 최종호흡, 회복호흡, 이퀄라이징, 덕다이브 등 용어부터 다이빙 장비 사용법, 입수법까지 쉽게 설명해주셔서 아무것도 모르는 저도 금방 이해됐고 \n\n입수 후에도 계속 안전 체크해주시고 자세 바로 교정해주신 덕분에 금방 따라해서 잘했다고 칭",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 256,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
+      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
       "history": [
         {
           "d": "2026-09-05",
@@ -107,16 +107,22 @@
           "views": null,
           "likes": 256,
           "comments": 11
+        },
+        {
+          "d": "2026-09-17",
+          "views": null,
+          "likes": 256,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 321.5,
         "n": 12,
-        "captured_at": "2026-09-16T08:27:25.841469+09:00"
+        "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.013742343918884143,
         "vs_baseline": 0.8304821150855366,
@@ -135,7 +141,7 @@
           "analyzed_at": "2026-09-16T08:27:25.841469+09:00"
         }
       },
-      "last_written_reaction": "좋아요 256 · 댓글 11 · ER 1.4% · 평소대비 0.8x (D+14)"
+      "last_written_reaction": "좋아요 256 · 댓글 11 · ER 1.4% · 평소대비 0.8x (D+15)"
     }
   ],
   "flags": {

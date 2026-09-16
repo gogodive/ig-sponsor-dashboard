@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-23T05:04:54.000Z",
       "permalink": "https://www.instagram.com/p/DcXseh6k_ec/",
-      "thumbnail": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/780909612_17982836607099234_2781756207676470601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTgzNzA3NjQ1NTQ4NjA3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=h1Al9NRS3vUQ7kNvwHTYeDm&_nc_oc=AdqIfcoqn4y9AJGS0FDQDPNjzpPV8er2tf0OFFCMPn92mOhD0-sM9uZZRap0LwMsOPTa75EBb_J-LI9qO8qPkBwp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=XMOWaLQW_Vo1EcFLssb_JA&_nc_ss=7a22e&oh=00_AQJPCsW1M_bUnqHqkviHN4jvIQYI-gBpej3aM51E7NeOhQ&oe=6AAF9493",
+      "thumbnail": "https://instagram.fmxl1-1.fna.fbcdn.net/v/t51.82787-15/780909612_17982836607099234_2781756207676470601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2OTgzNzA3NjQ1NTQ4NjA3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=h1Al9NRS3vUQ7kNvwH3-rJN&_nc_oc=AdrO3Dso6YvzzZgPe4m6oeOtx4WKZQBUeheGq5s5Q4jEK3ysyWmZ2V_ljTUlWnevrBAJN0_jZ03yKaIPqIMSVXFe&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxl1-1.fna&_nc_gid=uRs-T8CB0iUcdCTLivHUWw&_nc_ss=7a22e&oh=00_AQLzh9GyuIhJLxy4n1HWg9UWcb2VTYAL7cmuyklWKq_BgA&oe=6AB0E613",
       "caption": "𝙭 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 𝙥𝙚𝙖𝙘𝙝🍑 #제품제공\n\n물복파 모여라~~~~💦🩷\n사실 복숭아는 뭔들 좋아해요 전ㅎㅎ🫶🏻\n\n라세린 신상 물복 수영복을 보면 와우껌 플럼맛(?) 생각나지 않나요..?\n어쨋든 상큼달달 하다는 말🥰🫧💕\n\n𝙢사이즈 착용 169/54\n💡라세린은 웬만한 수영복 다 𝙢사이즈로 착용해요\n\n@laserin_swim #라세린 #라세린수영복 #광진해변 #스노쿨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 126,
         "comments": 13
       },
-      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
+      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -167,23 +167,29 @@
           "views": null,
           "likes": 126,
           "comments": 13
+        },
+        {
+          "d": "2026-09-17",
+          "views": null,
+          "likes": 126,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 64.0,
         "n": 12,
-        "captured_at": "2026-09-16T08:27:25.841469+09:00"
+        "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.024351786965662228,
         "vs_baseline": 2.171875,
         "cost_per_eng": 496.40287769784175,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 126 · 댓글 13 · ER 2.4% · 평소대비 2.2x (D+23)",
+      "last_written_reaction": "좋아요 126 · 댓글 13 · ER 2.4% · 평소대비 2.2x (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.17배 참여로 준수한 출발이나, 566원/건 비용 효율은 팔로워 규모 감안 시 추가 확산 여부를 지켜봐야 최종 판단 가능.",

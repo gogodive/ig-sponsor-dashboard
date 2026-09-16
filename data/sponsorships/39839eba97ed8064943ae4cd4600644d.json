@@ -25,7 +25,7 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-16T12:35:42.000Z",
       "permalink": "https://www.instagram.com/p/DcGeSjHKErY/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cP_mv3iuo7gQ7kNvwGurxH0&_nc_oc=AdoVWT5EKv7ypsxaA2IFwEOuIblBuEMPBuOry5m6U_1RyGz5kAz91OKxU3VM_fnc8_s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=_hSJkVUHDDqlNNmxE8qL9A&_nc_ss=7a22e&oh=00_AQIaOHOXbpEFsLOFTnral_7G8S1hMFl11yIJi4-74WG5qQ&oe=6AAFB5F9",
+      "thumbnail": "https://instagram.fsdu6-1.fna.fbcdn.net/v/t51.82787-15/776497113_17944694649268965_4380635183149008286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2NDk4OTczNzk5MzI1OTczNjE3OTQ0Njk0NjQzMjY4OTY1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cP_mv3iuo7gQ7kNvwHNe12S&_nc_oc=Adr_Yl99VJrBrT7N-ycstRDF7PekmYFCPFvHsE90CvpcCTQzgwmdBU8iPtXFSN3frKY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsdu6-1.fna&_nc_gid=_vNgt34F2dExryBLWE7cGQ&_nc_ss=7a22e&oh=00_AQKUddqhdA_mKvioWsGVlCJua24Wb9_qtKkpPLaBAECgpQ&oe=6AB10779",
       "caption": "민물 말고 짠물에서 다이빙하는 그날까지🫧\n\n@intotheblue_store #인투더블루\n🤿 #고고젤로마스크\n🤿 #딥바이브 에어로 스노클",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -218,15 +218,15 @@
         "n": 3,
         "captured_at": "2026-08-22T06:28:03.167813+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.003132613992342499,
         "vs_baseline": 2.061946902654867,
         "cost_per_eng": 2861.1111111111113,
         "cost_per_view": 24.558893657606102
       },
-      "last_written_reaction": "조회 2,097 · 좋아요 -1 · 댓글 19 · ER 0.3% · 평소대비 2.1x (D+30)",
+      "last_written_reaction": "조회 2,097 · 좋아요 -1 · 댓글 19 · ER 0.3% · 평소대비 2.1x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.87배 조회로 기대 이상이나, 참여율 0.10%·참여 1건당 8,583원은 비용 효율이 낮아 추이 주시 필요.",
@@ -237,7 +237,9 @@
           "one_liner": "평소대비 2배 조회로 선방했으나 팔로워 대비 참여율 0.26%·참여당 비용 3,433원은 비용 효율이 낮아 추가 협력 시 단가 재협의 필요.",
           "days": 14,
           "analyzed_at": "2026-08-31T08:18:04.136186+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 2.06배의 조회 성과는 긍정적이나, 절대 조회수 2,097회·팔로워 대비 참여율 0.31%는 소규모 계정 기준으로도 낮은 수준이며, 좋아요가 집계 불가(-1)로 실제 반응 깊이를 검증하기 어렵다. 참여 1건당 2,861원·조회 1회당 24.6원은 동일 팔로워 규모 마이크로 인플루언서 평균 대비 비효율적인 수치로, 103,000원 협찬 비용 대비 도달·전환 기여도가 낮아 비용 대비 가치는 미흡한 것으로 판단된다.",
+        "final_at": "2026-09-17T08:34:54.967193+09:00"
       }
     },
     {
@@ -442,7 +444,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 41,
+      "days_since_post": 42,
       "computed": {
         "er": 0.004524886877828055,
         "vs_baseline": 0.1566265060240964,

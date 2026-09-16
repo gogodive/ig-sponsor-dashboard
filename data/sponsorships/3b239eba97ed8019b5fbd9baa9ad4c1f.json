@@ -25,7 +25,7 @@
       "first_seen": "2026-08-20",
       "posted_at": "2026-08-16T12:48:28.000Z",
       "permalink": "https://www.instagram.com/p/DcGf9n2FOg2/",
-      "thumbnail": "https://instagram.fflr4-2.fna.fbcdn.net/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6E8PWSMWTrIQ7kNvwG8UIb-&_nc_oc=AdoGLXG77Vsh43WykHabNBMBNh6dkZ4-1NvBjvzDJ3gR5AtiBaiskydys4xOqnjUd0Q&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.fflr4-2.fna&_nc_gid=sC8YHOk_OOLI-rznMpvUiw&_nc_ss=7a22e&oh=00_AQKl6vponaNGvp7j3GapTkU2I27Q_XdqGW-94UORzRe4Mg&oe=6AAFBC11",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/770669530_17926631925402947_8077533192515980766_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NDk5MTk1MzM4MDMyNTQ5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6E8PWSMWTrIQ7kNvwG48R0R&_nc_oc=AdoBfd07bqRb_RYeZktboSR7nNbWP9l24kphS640PY8vj9vcAPaFW2zC80e9-Js8WDM&_nc_ad=z-m&_nc_cid=1020&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=VJT1aXt7rzZpgM2MpqVJhQ&_nc_ss=7a22e&oh=00_AQI1K4KP9lvFi1d-3jBG7tpMXFrDSPQhdC-p97dOJbgi3Q&oe=6AB10D91",
       "caption": "#제품제공 \n🍑라세린표 물복 떴다-!🍑\n쿨톤 탄피부에도 만족스러웠던 물복 색감..🫶🏽\n핑크+레드+옐로우 피치 그라데이션 톤이\n물 잔뜩 머금은 과즙팡팡 복숭아 색감 그자체••🍑\n여름엔 또 영롱한 빤딱 셩복 입어줘야 하잖아오🙂‍↕️\n\n어깨~등 쑉 잡아주는 더블크로스 백타입-‧₊˚ ✌🏽\n스트랩이 치즈 같이 쫀쫀해서 오래 입어도 편안〰\n유교걸도 부담없는 미들컷+넉넉 엉천 :)\n\n༶ LASERIN Soft Peach(s) ༶\n₊˚ 부담없는 높은 가슴선 / 미들컷 \n₊˚ 비침 없는 흰 안감 두겹 수영복\n₊˚ 더블 크로스 백타입\n₊˚ 브라고리 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -211,8 +211,8 @@
         "n": 12,
         "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.10689655172413794,
         "vs_baseline": 1.249084249084249,
@@ -229,9 +229,11 @@
           "one_liner": "평소 대비 1.29배 참여로 팔로워 규모 감안 시 준수한 반응, 참여 1건당 213원은 소형 계정치고 효율적인 수준.",
           "days": 14,
           "analyzed_at": "2026-08-31T08:18:04.136186+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 10.69%는 소규모 계정 기준으로도 매우 우수한 수치이며, 평소 게시물 대비 1.25배의 참여를 이끌어냈다는 점에서 협찬 콘텐츠로서의 전달력이 검증됐다. 참여 1건당 비용 202원, 총 협찬 비용 69,000원 대비 341건의 유효 참여(좋아요+댓글)는 동일 예산 내 마이크로 인플루언서 효율로는 충분히 납득 가능한 수준이다. 다만 피드 게시물 특성상 릴스 대비 도달 확장성이 제한적이므로, 비용 대비 가치는 '인지 확산'보다 '팬덤 밀도 높은 소규모 타깃 침투'라는 목적에 한해 긍정적으로 평가할 수 있다.",
+        "final_at": "2026-09-17T08:34:54.967193+09:00"
       },
-      "last_written_reaction": "좋아요 282 · 댓글 59 · ER 10.7% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 282 · 댓글 59 · ER 10.7% · 평소대비 1.2x (확정)"
     }
   ],
   "flags": {

@@ -25,17 +25,17 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-19T17:01:30.000Z",
       "permalink": "https://www.instagram.com/p/DcOrAABSUd3/",
-      "thumbnail": "https://instagram.fntr8-1.fna.fbcdn.net/v/t51.82787-15/777715707_18619478212022856_4692518034963903276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzI5NzQzNzc4MTU0Mjc3NTE4NjE5NDc4MjAzMDIyODU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=_xltV7hvuLcQ7kNvwF4s7MN&_nc_oc=AdqamejNR95FPMGdQZCBeHA7iBxmInMvRuW0VTubT-zQyj7exZAcNydzTvEblkqIgulh1uvFzrrweXlQuKsDegBp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fntr8-1.fna&_nc_gid=rELkeu5V6cnyAOWKHWjAWQ&_nc_ss=7a22e&oh=00_AQKQZ2ku6apWY8w6-BQH570tCLM6d5XDaBqZXp27v4mMvg&oe=6AAFAF1F",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/777715707_18619478212022856_4692518034963903276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk2NzI5NzQzNzc4MTU0Mjc3NTE4NjE5NDc4MjAzMDIyODU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=_xltV7hvuLcQ7kNvwHh6Zld&_nc_oc=AdpkH7rTTeIItnUImY9tjjwruxCSFfglnxc85GEvDW5aI22i-hKJPek1dxPcTH5Sm-E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=zbad96GWfNTcNZmN2d-UHg&_nc_ss=7a22e&oh=00_AQIiINiH4tEkzBo8Ig4aBdR4ItkvKp39DCJ2p4HBb5wXHQ&oe=6AB1009F",
       "caption": "#AD Dive slow, Feel everything🫧\n\n푸른 세상에\n나만 잠시 멈춰 있는 것 같은 순간\n\n🤿 크리스탈 롱핀 @deepvibe_official \n🏷 인투더블루 @intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #크리스탈롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "im.jessica.travel",
       "metrics": {
-        "views": 1216,
+        "views": 1221,
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
+      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
       "history": [
         {
           "d": "2026-08-21",
@@ -198,23 +198,29 @@
           "views": 1216,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-09-17",
+          "views": 1221,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 5222.5,
         "eng_median": 37.0,
         "n": 12,
-        "captured_at": "2026-09-16T08:27:25.841469+09:00"
+        "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 9.355412105903265e-05,
-        "vs_baseline": 0.2328386787936812,
+        "vs_baseline": 0.23379607467687888,
         "cost_per_eng": 110000.0,
-        "cost_per_view": 90.46052631578948
+        "cost_per_view": 90.09009009009009
       },
-      "last_written_reaction": "조회 1,216 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.2x (D+27)",
+      "last_written_reaction": "조회 1,221 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.2x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.21x 극저조, 참여 1건당 11만 원으로 비용 효율 매우 낮아 조기 개입 필요.",
@@ -237,7 +243,7 @@
       "first_seen": "2026-08-19",
       "posted_at": "2026-08-18T04:24:45.000Z",
       "permalink": "https://www.instagram.com/p/DcKv6BnH6uY/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/777150423_18618838717022856_6946131909552398272_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NjE5Mjg1ODg4OTM0NzU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=draGYhukR6oQ7kNvwHZ-OLR&_nc_oc=AdrdcDJaEPR7Z3Y6Pn2V13Rrj5y3cMGFkbHbCD1bG93x8Q6ojxfxZnoy8QV29VxDBG4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=nuKF8H8GmfjgVKh-roJNlA&_nc_ss=7a22e&oh=00_AQL85FOScxjfIfucGOatsrjgW0YXBaTMMI7DBXsz9xGBpw&oe=6AAFB9A9",
+      "thumbnail": "https://instagram.fjal3-1.fna.fbcdn.net/v/t51.82787-15/777150423_18618838717022856_6946131909552398272_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NjE5Mjg1ODg4OTM0NzU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=draGYhukR6oQ7kNvwFPePcR&_nc_oc=AdqTT_SzOFW_nn0AcUYUi8a9STVcbD4N_N2lcSJyRq5fQd2LEAADpgS3PQLdhn0E3L0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fjal3-1.fna&_nc_gid=6unpvWvpM6cNMvOrUm7UuA&_nc_ss=7a22e&oh=00_AQIbOMCzd-iR224o2w_V6vSkBgbXc60NAAw-NVdJHeREKw&oe=6AB10B29",
       "caption": "#AD 강원도 조각모음🐚🐙🫧\n\n무려 7년만에 장만한 영롱한 롱핀 개시하고 싶어서\n급 떠났던 주말 강원도 여행🌊\n\n도착한 날 새벽까지도 비가내려서\n바다 시야는 조금 아쉬웠지만\n다행히 구름사이로 해가 쨍 나서\n여름 강원도 듬뿍 즐기기 성공❣️\n\n이번에 롱핀 선물 받으면서\n딥바이브라는 브랜드를 처음 알게되었는데\n롱핀 색감들이 너무 예뻐서\n어떤 컬러를 사야할지 고민만 몇시간을 했는지..🥺\n\n물 밖에서도 중요하지만\n물속에서 어떤 색감일지 너무 궁금했는데\n찾아보니 물속 후기 영상이나 사진이 많이 없더라구요?\n그래서 제가 이번에 많이 담아보려고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -246,7 +252,7 @@
         "likes": -1,
         "comments": 24
       },
-      "metrics_updated_at": "2026-09-16T08:27:25.841469+09:00",
+      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
       "history": [
         {
           "d": "2026-08-19",
@@ -421,23 +427,29 @@
           "views": null,
           "likes": -1,
           "comments": 24
+        },
+        {
+          "d": "2026-09-17",
+          "views": null,
+          "likes": -1,
+          "comments": 24
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 19,
         "n": 3,
-        "captured_at": "2026-09-16T08:27:25.841469+09:00"
+        "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.0021517447843577508,
         "vs_baseline": 1.2105263157894737,
         "cost_per_eng": 4782.608695652174,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.2% · 평소대비 1.2x (D+28)",
+      "last_written_reaction": "좋아요 -1 · 댓글 24 · ER 0.2% · 평소대비 1.2x (D+29)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.21x로 소폭 상회하나 참여율 0.21%·1건당 4,783원은 팔로워 규모 대비 비용 효율이 낮아 추이 모니터링 필요.",
