@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-8004-b675-ddbbc67af9e3",
   "row_title_raw": "swim_ye.rang",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,7 +15,24 @@
   "output_link_prop": null,
   "username": "swim_ye.rang",
   "followers_notion": 11000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "0dd39eba-97ed-8215-8fbb-810a93fd9351",
+      "url": "https://www.instagram.com/reel/DdWphHYptvR/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdWphHYptvR",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-17",
+      "first_seen": "2026-09-18",
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,

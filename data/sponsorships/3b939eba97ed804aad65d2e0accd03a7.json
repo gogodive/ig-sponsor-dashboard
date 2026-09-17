@@ -25,17 +25,17 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-03T14:48:55.000Z",
       "permalink": "https://www.instagram.com/p/Dc1D036zGjA/",
-      "thumbnail": "https://instagram.fsxb1-1.fna.fbcdn.net/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=PE9ZcPWS2RIQ7kNvwEENwQL&_nc_oc=AdoWU5wIHOw_MSfsWXNKp0W3lIY10nXG-_isv0I6BhjmGd794poRQttcVsXj4o7d8aemZRlP4wfqHEQezZEV7zRK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fsxb1-1.fna&_nc_gid=8fxAWr9HcZU32YwOk1e6eA&_nc_ss=7a22e&oh=00_AQLWXWJnqm2Pda_UDsU-8LdUU3KjdLbXS7JkjC8gDoMdgw&oe=6AB0E785",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=PE9ZcPWS2RIQ7kNvwFGsyMA&_nc_oc=Adqol0H3DLH4_4rk4vShyDMs4QvePbD9De43WGChOV37CYv0S3uL_6jKuvoLjdVzC6AoNu9mdQdcrOmgX6TmQZ3g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=t_7RsmdcsYbMnTrTGcbmAA&_nc_ss=7a22e&oh=00_AQIKG4jkXNJBNHhGdfwZi0y_3FbaOBsTBk6_I0tMP3BpYw&oe=6AB23905",
       "caption": "프리다이빙 배우고 왔어요💙\n\n인어공주 되는 그날까지...♡🧜🏻‍♀️⭐\n.\n.\n.\n\r\n@intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "feeling1044",
       "metrics": {
-        "views": 6519,
+        "views": 6534,
         "likes": -1,
         "comments": 19
       },
-      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
+      "metrics_updated_at": "2026-09-18T08:26:44.975577+09:00",
       "history": [
         {
           "d": "2026-09-05",
@@ -114,28 +114,39 @@
           "views": 6519,
           "likes": -1,
           "comments": 19
+        },
+        {
+          "d": "2026-09-18",
+          "views": 6534,
+          "likes": -1,
+          "comments": 19
         }
       ],
       "baseline": {
         "views_median": 11181,
         "eng_median": 51,
         "n": 5,
-        "captured_at": "2026-09-17T08:34:54.967193+09:00"
+        "captured_at": "2026-09-18T08:26:44.975577+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.0001437630784467198,
-        "vs_baseline": 0.5830426616581701,
+        "vs_baseline": 0.5843842232358465,
         "cost_per_eng": 8722.222222222223,
-        "cost_per_view": 24.08344838165363
+        "cost_per_view": 24.028160391796757
       },
-      "last_written_reaction": "조회 6,519 · 좋아요 -1 · 댓글 19 · ER 0.0% · 평소대비 0.6x (D+13)",
+      "last_written_reaction": "조회 6,534 · 좋아요 -1 · 댓글 19 · ER 0.0% · 평소대비 0.6x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.53x로 부진한 초기 반응, 조회당 26.6원·참여당 8,722원으로 비용 효율 개선이 필요한 상황입니다.",
           "days": 3,
           "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 0.58x 저조한 도달에 조회당 24원·참여당 8,722원으로 비용 효율이 낮아 현 시점 협찬 성과 미달 판정.",
+          "days": 14,
+          "analyzed_at": "2026-09-18T08:26:44.975577+09:00"
         }
       }
     },
@@ -148,7 +159,7 @@
       "first_seen": "2026-08-28",
       "posted_at": "2026-08-26T02:25:01.000Z",
       "permalink": "https://www.instagram.com/p/DcfIkFckxYC/",
-      "thumbnail": "https://instagram.fsxb1-1.fna.fbcdn.net/v/t51.82787-15/785925487_18625771795057426_8836744760693363196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MTkzMDQ5MzIzNDgwNzE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VLs0_feZzWsQ7kNvwHFfx-a&_nc_oc=AdpSRDG9hJjdb5jmOUon9Nwn_BAxg1M0CVT8HSKOxhLL2RdZ-mhaEZnl26nYIkYtInQPjPQPr8fnXhYg6iQEyJXb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsxb1-1.fna&_nc_gid=BWF1H-vBFsXdWjFAHn2wkQ&_nc_ss=7a22e&oh=00_AQIShah6qGlV-NhyHcUQoJhhxwcIIQTqz5ZoaruFMxpoww&oe=6AB112A5",
+      "thumbnail": "https://instagram.fbcn16-1.fna.fbcdn.net/v/t51.82787-15/785925487_18625771795057426_8836744760693363196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MTkzMDQ5MzIzNDgwNzE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VLs0_feZzWsQ7kNvwE3NrWM&_nc_oc=AdrH1gH7NXJ4EO9TBAYEWI5nzdL2p5jKj56op8U18N0mR3qlWt4RQI3YXgqY3N6QmXI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn16-1.fna&_nc_gid=8ELD_fbeJ-x5VlVEWr0G8w&_nc_ss=7a22e&oh=00_AQLU_Nm0Jads1JTsgXFsMdYGUGJehLhw3OgnhDgcxF9q3A&oe=6AB26425",
       "caption": "나의 첫  #프리다이빙 도전🧜🏻‍♀️\n\n스쿠버다이빙 이후 너무 배워보고 싶었는데\n또 하나의 목표가 생겼다⁽̨̡ ¨̮ ⁾̧̢\n\n물속에서 더 빛나는 나의 첫 핀 ,\n인어의 꼬리가 되어주렴💙✨\n\n\r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -157,7 +168,7 @@
         "likes": -1,
         "comments": 44
       },
-      "metrics_updated_at": "2026-09-17T08:34:54.967193+09:00",
+      "metrics_updated_at": "2026-09-18T08:26:44.975577+09:00",
       "history": [
         {
           "d": "2026-08-28",
@@ -284,23 +295,29 @@
           "views": null,
           "likes": -1,
           "comments": 44
+        },
+        {
+          "d": "2026-09-18",
+          "views": null,
+          "likes": -1,
+          "comments": 44
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 43.5,
         "n": 12,
-        "captured_at": "2026-09-17T08:34:54.967193+09:00"
+        "captured_at": "2026-09-18T08:26:44.975577+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.00034343402073383066,
         "vs_baseline": 0.9885057471264368,
         "cost_per_eng": 3651.1627906976746,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 44 · ER 0.0% · 평소대비 1.0x (D+21)",
+      "last_written_reaction": "좋아요 -1 · 댓글 44 · ER 0.0% · 평소대비 1.0x (D+22)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.93x로 기준치를 소폭 하회, 참여 1건당 7,850원은 다소 높아 추가 모니터링 필요.",

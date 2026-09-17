@@ -15,13 +15,30 @@
   "output_link_prop": null,
   "username": "meow_swim",
   "followers_notion": 4494,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "7da39eba-97ed-83d4-835a-810963e97899",
+      "url": "https://www.instagram.com/p/DdWC_5Kn1SZRfSuRfj5ZzlR0TTSCobTD7K4yoY0/?img_index=1",
+      "shortcode": "DdWC_5Kn1SZRfSuRfj5ZzlR0TTSCobTD7K4yoY0",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-16",
+      "first_seen": "2026-09-18",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "9b039eba-97ed-83ad-bda6-814af4d018ad",
-  "followers": 4494
+  "followers": 4563
 }
