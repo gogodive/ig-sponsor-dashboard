@@ -24,16 +24,16 @@
       "upload_date_notion": "2026-07-23",
       "first_seen": "2026-07-25",
       "frozen": true,
-      "days_since_post": 56,
+      "days_since_post": 57,
       "computed": {
-        "er": 0.006352025134895157,
+        "er": 0.0063611491108071135,
         "vs_baseline": 0.31313131313131315,
         "cost_per_eng": 524.1935483870968,
         "cost_per_view": null
       },
       "posted_at": "2026-07-23T04:36:19.000Z",
       "permalink": "https://www.instagram.com/p/DbH0kCXiWlU/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/753604838_18606844825061018_7282430076396045683_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk0NzM1MzY4NzY5OTMyMTI3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MJ_UhdOieJYQ7kNvwEVKGdi&_nc_oc=AdomUHc_ZUFGGsdv0omB5BAfFYACVH4trPGHu9bKgmKwMXTmWN9MCyk6YO4ec1oBl14&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=6AU0zHKGhaTh75ejjHg7uA&_nc_ss=7a22e&oh=00_AQL--LvAdM4w1WXpzZqC1JMtzyb8iN9x8AuBr_kYxes4bA&oe=6AAA49D6",
+      "thumbnail": "https://scontent-gig4-2.cdninstagram.com/v/t51.82787-15/753604838_18606844825061018_7282430076396045683_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk0NzM1MzY4NzY5OTMyMTI3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQ0OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lmONQM_ePd0Q7kNvwEKMtYu&_nc_oc=AdowAX_j9rWSkM8TnGKicG4Y4GQjJ6mLBVvPY7puPeilr0AabAc-HsAcu0Deu78UgOo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gig4-2.cdninstagram.com&_nc_gid=o6GN88pI3VFvBqTlyhEIWw&_nc_ss=7a22e&oh=00_AQI5Czo7vOopjQizStRP6GF6NdyNO7yr4tAYMgQc4igNzA&oe=6AB38456",
       "caption": "다시 도전한 프리다이빙🫧\n요즘 전 참방 데이로 하루 보내고 있어요!\n\n4년 전쯤 프리다이빙을 시작했는데\n이퀄라이징 한계로 중단했었거든요\n\n이번에 고고다이브에서 첫 수업 받자마자\n무난히 이퀄 성공하고\n인생샷까지 남겨왔지 모예요!\n\n이퀄에도 종류가 여럿이 있는데\n그간 제가 너무 힘을 많이 쓰는\n이퀄을 하고 있었더라구요!\n\n자신감이 붙으니 얼른 바다로 나가고 싶어요🌊\n앞으로 프리다이빙 피드\nㄱㅣㄷㅐㅎㅐ주ㅓ\n💙\n\n@gogodive \n#고고다이브 #프리다이빙 #프리다이빙강습 #freediving",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -255,6 +255,6 @@
     "account_unavailable": false
   },
   "child_db_id": "85b39eba-97ed-82f1-a7c9-014a951612a5",
-  "followers": 117128,
+  "followers": 116960,
   "last_written_score": 31
 }

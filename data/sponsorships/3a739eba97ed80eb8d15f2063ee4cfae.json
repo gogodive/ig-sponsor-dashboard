@@ -25,17 +25,17 @@
       "first_seen": "2026-09-08",
       "posted_at": "2026-09-06T13:20:27.000Z",
       "permalink": "https://www.instagram.com/p/Dc8n0O_OZ5a/",
-      "thumbnail": "https://instagram.fmex5-1.fna.fbcdn.net/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=HhcpGXRvadUQ7kNvwEjEh5_&_nc_oc=AdopjBB3w6EZLho1QqeMYsaVzZjQyUisoUGbjvq-xzfpensNy4ZCwneWLyszoUJ7AlM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex5-1.fna&_nc_gid=SnIJWJ0lXK3C1KLJxXvDLA&_nc_ss=7a22e&oh=00_AQJaSnuMlunIS6ctbCqXCgmXkZ-hg6JV1iUmeeshapn5fw&oe=6AB24701",
+      "thumbnail": "https://instagram.fthe9-1.fna.fbcdn.net/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vaQZFIprxyQQ7kNvwEtM1Cp&_nc_oc=AdrXHuHSwCcVHXCYrTAowIpO5O7fPNmxJgLdZoZJmXKgSi9cWaLXyfzRVDlW3gmOOVs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fthe9-1.fna&_nc_gid=NbgXTgFwbnBx-0MWgM7HSw&_nc_ss=7a22e&oh=00_AQJTsJ8zlXz_1tWR_b2pSmjiR6wGtf4oeqI1wd2wn1Jmdw&oe=6AB39881",
       "caption": "물고기가 되고 싶은 저에요 🐬 *광고\n\n이번에 영덕 놀러갔다왔는데 \n너무 예쁘고 청량한 거 있죠 ✨\n\n인투더블루 유리섬유 롱핀 써서 그런지\n수심 꽤나 깊은데도 안지치고 두 시간 놀았어요 🏊🏻‍♀️\n\n여전히 수영은 배우고 있어서 \n자세가 요란하지만 ㅎ ㅎ \n그래도 물고기들도 잔뜩 보고 \n힐링했던 하루였습니다 🌷\n\n다들 롱핀 + 스노쿨링은 꼭 추천드려요 🐬\n#인투더블루 #딥바이브 #영덕여행 #스노쿨링 #롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "j_hyun110",
       "metrics": {
-        "views": 2937,
+        "views": 2979,
         "likes": 84,
         "comments": 7
       },
-      "metrics_updated_at": "2026-09-18T08:26:44.975577+09:00",
+      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
       "history": [
         {
           "d": "2026-09-08",
@@ -102,17 +102,23 @@
           "views": 2937,
           "likes": 84,
           "comments": 7
+        },
+        {
+          "d": "2026-09-19",
+          "views": 2979,
+          "likes": 84,
+          "comments": 7
         }
       ],
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.007674791262545332,
-        "vs_baseline": 1.399237732253454,
+        "er": 0.00760043431053203,
+        "vs_baseline": 1.8491620111731844,
         "cost_per_eng": 1450.5494505494505,
-        "cost_per_view": 44.943820224719104
+        "cost_per_view": 44.31017119838872
       },
-      "last_written_reaction": "조회 2,937 · 좋아요 84 · 댓글 7 · ER 0.8% · 평소대비 1.4x (D+11)",
+      "last_written_reaction": "조회 2,979 · 좋아요 84 · 댓글 7 · ER 0.8% · 평소대비 1.8x (D+12)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회율 22%·참여율 0.71%로 초기 반응이 저조하며, 참여 1건당 비용 1,590원은 협찬 효율 개선이 필요한 수준입니다.",
@@ -121,10 +127,10 @@
         }
       },
       "baseline": {
-        "views_median": 2099,
-        "eng_median": 64,
+        "views_median": 1611,
+        "eng_median": 67,
         "n": 3,
-        "captured_at": "2026-09-18T08:26:44.975577+09:00"
+        "captured_at": "2026-09-19T08:07:31.156687+09:00"
       }
     },
     {
@@ -281,9 +287,9 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
-        "er": 0.052627140086025134,
+        "er": 0.05211726384364821,
         "vs_baseline": 1.6819407008086253,
         "cost_per_eng": 211.53846153846155,
         "cost_per_view": null
@@ -302,7 +308,7 @@
         "final_verdict": "팔로워 대비 참여율 5.26%는 소규모 인플루언서(나노~마이크로) 업계 기준(3~5%)을 상회하며, 평소 게시물 대비 1.68배의 참여를 이끌어내 협찬 콘텐츠로서 유의미한 반응을 확인했다. 참여 1건당 비용 212원, 총 624건(좋아요+댓글) 참여 기준 환산 비용이 264,000원으로, 다이빙·수중 관심사가 집중된 소규모 팔로워 풀 특성을 감안하면 타깃 효율은 양호한 수준이다. 다만 릴스 조회수 데이터가 없어 실제 노출 범위를 정량화할 수 없었고, 팔로워 모수(11,857명)가 작아 절대 도달 규모는 제한적이므로 인지 확산보다는 브랜드 충성도 높은 소규모 커뮤니티 내 신뢰 형성 목적으로 평가 시 비용 대비 가치 있는 협찬으로 판단된다.",
         "final_at": "2026-09-18T08:26:44.975577+09:00"
       },
-      "last_written_reaction": "좋아요 603 · 댓글 21 · ER 5.3% · 평소대비 1.7x (확정)"
+      "last_written_reaction": "좋아요 603 · 댓글 21 · ER 5.2% · 평소대비 1.7x (확정)"
     }
   ],
   "flags": {
@@ -312,6 +318,6 @@
     "account_unavailable": false
   },
   "child_db_id": "3af39eba-97ed-8310-b26c-0112b1d738cd",
-  "followers": 11857,
-  "last_written_score": 154
+  "followers": 11973,
+  "last_written_score": 177
 }

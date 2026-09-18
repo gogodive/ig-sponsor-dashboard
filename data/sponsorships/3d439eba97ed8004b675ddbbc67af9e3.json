@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-09-17",
       "first_seen": "2026-09-18",
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -37,7 +37,7 @@
     "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
-    "account_unavailable": false
+    "account_unavailable": true
   },
   "child_db_id": "74639eba-97ed-8363-a559-01e6d4f686b5",
   "followers": 11000

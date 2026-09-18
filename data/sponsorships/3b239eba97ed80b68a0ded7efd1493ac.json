@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-19T13:06:03.000Z",
       "permalink": "https://www.instagram.com/p/DcOQXCZj0RN/",
-      "thumbnail": "https://instagram.fvlc7-1.fna.fbcdn.net/v/t51.82787-15/778244627_18620579221047622_4577167090815764244_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzE2ODk4OTQ2MDYwOTU3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OfkBU26BT9gQ7kNvwETy10k&_nc_oc=AdqfUOZtHofkAUpbzmShY4YtySvAWtUILOE2U1d3dhUIo54lzBAlpUzEbUf_SQCGVSk&_nc_ad=z-m&_nc_cid=3033&_nc_zt=23&_nc_ht=instagram.fvlc7-1.fna&_nc_gid=8tCzxSA13E56BbI_mdqL8Q&_nc_ss=7a22e&oh=00_AQJygtOgm8s5HM-ZwgG1FpsQXRBqdO0Sx49XuNWpvFwEdQ&oe=6AB2336B",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/778244627_18620579221047622_4577167090815764244_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2NzE2ODk4OTQ2MDYwOTU3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OfkBU26BT9gQ7kNvwF58g9g&_nc_oc=AdrZJ9pciMsKcMOcuTE-Nk5qgk2tm8IF9HglrxGyLALpluSao_CGUV7E-2eYFEkiehQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=0qky6Yj-0Cllj-anHvR0ew&_nc_ss=7a22e&oh=00_AQK0RM1S5i4nJXWbHlge0Oyd-0dlAW5o3DolkJ85ZZpvuA&oe=6AB384EB",
       "caption": "#제품제공 @laserin_swim 쉬었음 청년아니구 ❌\n수영했음 청년 ㅋㅋ이쁜 신상 라세린 글로우 딱복 수영복 입고🍑\n주변 모르는 사람들 수영복 칭찬받아서 넘 부끄러웠ㅎ,, ( ˶˘꒳˘)\n\n다이빙 성지 경기도 이천 풀싸이드 저도 방문했어요 ! \n2.4m 수심으로 마음껏 뛰기 좋은 당일 캠핑장 풀사이드\n@thepoolside_ichon \n\n수영 1n년차 울마미랑 원없이 뛰고 왔숨둥 🫶🏻\n\n#라세린 #라세린수영복 #수영복 #풀싸이드",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 337,
         "comments": 21
       },
-      "metrics_updated_at": "2026-09-18T08:26:44.975577+09:00",
+      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -203,23 +203,29 @@
           "views": null,
           "likes": 337,
           "comments": 21
+        },
+        {
+          "d": "2026-09-19",
+          "views": null,
+          "likes": 337,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 73.0,
         "n": 6,
-        "captured_at": "2026-09-18T08:26:44.975577+09:00"
+        "captured_at": "2026-09-19T08:07:31.156687+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.06909862960818375,
         "vs_baseline": 4.904109589041096,
         "cost_per_eng": 192.73743016759778,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 337 · 댓글 21 · ER 6.9% · 평소대비 4.9x (D+29)",
+      "last_written_reaction": "좋아요 337 · 댓글 21 · ER 6.9% · 평소대비 4.9x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 18.7배 참여 폭발, 참여당 217원으로 팔로워 5천 규모 대비 매우 효율적인 초기 성과.",

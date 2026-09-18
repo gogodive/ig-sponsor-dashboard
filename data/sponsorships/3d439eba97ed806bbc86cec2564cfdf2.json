@@ -25,21 +25,27 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17T01:00:02.000Z",
       "permalink": "https://www.instagram.com/p/DdXoZquifSu/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/812903713_18057408935572593_8882094952348133559_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4NzU1NTc4NTc4OTQ5NDg5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTk2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AvmgdwGJFdkQ7kNvwESV7Hm&_nc_oc=Adp7JgLqP09Aj_XaQkkcw3aEgJjITvtaZ7dlHRLftwBHhVbjqC3fQHH421F1ZG__MgA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=6CoZ7X6RJYlldZXrBlW4Pg&_nc_ss=7a22e&oh=00_AQLK95L7IJObxHniNZAD5d1oixTL4nQzL2BjrCiIRZnxiw&oe=6AB231C7",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/812903713_18057408935572593_8882094952348133559_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4NzU1NTc4NTc4OTQ5NDg5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTk2Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gzNnNMu-LlMQ7kNvwHduPW7&_nc_oc=AdoeQNtODq_pqsYQgR_YKRB9LRNekp3JW6NTJdLHR05w_o3BamVnvTlaqina3hA5Ivc93tVz7WzFERGA1BszTBrQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=_TE8lWRmKuEokBmVp54gTg&_nc_ss=7a22e&oh=00_AQLJ_QrKYTnR18mqlrFngNwub10Y9AD5BRLFgXcDQPjb7g&oe=6AB38347",
       "caption": "#제품제공 @laserin_swim \n\n그동안 여닫이형 수경케이스 써오면서 수경 관리고 나발이고\n귀찮아서 수영복에 돌돌 말아 다닌 나..😇\n말랑이 수경 케이스를 많이들 쓰는 이유가 있었다.\n대충 툭 끼우면 끝이라서 나 같은 귀차니즘 수영인이라면,\n수경케이스는 무족권 말랑가드 추천합니다🎀\n이번에 여행 짐 쌀 때도 말랑가드 덕에 캐리어에 수경 대충 던져서 넣어옴😆\n지비츠 끼울 수 있어서 취향대로 꾸미기도 좋고 수코디샷 찍을 때도 포인트템으로 굿💗\n\n🥽item. @laserin_swim  말랑가드 수경케이스 (핑크)\n\n#수영 #수경케이스",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "swimlogzzing",
       "metrics": {
-        "likes": 13,
+        "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-09-18T08:26:44.975577+09:00",
+      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
       "history": [
         {
           "d": "2026-09-18",
           "views": null,
           "likes": 13,
+          "comments": 0
+        },
+        {
+          "d": "2026-09-19",
+          "views": null,
+          "likes": -1,
           "comments": 0
         }
       ],
@@ -47,17 +53,17 @@
         "views_median": null,
         "eng_median": 83.5,
         "n": 12,
-        "captured_at": "2026-09-18T08:26:44.975577+09:00"
+        "captured_at": "2026-09-19T08:07:31.156687+09:00"
       },
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
-        "er": 0.02529182879377432,
-        "vs_baseline": 0.15568862275449102,
-        "cost_per_eng": 923.0769230769231,
+        "er": -0.0019455252918287938,
+        "vs_baseline": -0.011976047904191617,
+        "cost_per_eng": -12000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 13 · 댓글 0 · ER 2.5% · 평소대비 0.2x (D+0)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.2% · 평소대비 -0.0x (D+1)"
     }
   ],
   "flags": {
@@ -68,5 +74,5 @@
   },
   "child_db_id": "38239eba-97ed-83d3-8859-018ebb94527e",
   "followers": 514,
-  "last_written_score": 16
+  "last_written_score": -1
 }
