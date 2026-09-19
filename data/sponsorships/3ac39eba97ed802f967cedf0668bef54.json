@@ -25,7 +25,7 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-19T17:01:30.000Z",
       "permalink": "https://www.instagram.com/p/DcOrAABSUd3/",
-      "thumbnail": "https://instagram.fpbc6-1.fna.fbcdn.net/v/t51.82787-15/777715707_18619478212022856_4692518034963903276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzI5NzQzNzc4MTU0Mjc3NTE4NjE5NDc4MjAzMDIyODU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QGyiGP6bSawQ7kNvwE42_Xl&_nc_oc=AdoOyoaeIKgz2tkpS2qCCViVtNMJwqUyR4bjeJGgr8vIbW1UcfZJ4Jgjw_WVCfbC9XrdzJGpk227EGW58MCcAx0C&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpbc6-1.fna&_nc_gid=b30pGWLmI0aCvuOhg8NOlA&_nc_ss=7a22e&oh=00_AQJnx7zdhlt0erXtsjK8kX3Pom3gCXghtLy6hZp7r6q2rA&oe=6AB3A39F",
+      "thumbnail": "https://instagram.fqsr1-1.fna.fbcdn.net/v/t51.82787-15/777715707_18619478212022856_4692518034963903276_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzI5NzQzNzc4MTU0Mjc3NTE4NjE5NDc4MjAzMDIyODU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QGyiGP6bSawQ7kNvwGLiW_9&_nc_oc=Ado2VuytlFaaEuBICnW2bXVtt4gjaTVfvKWdf_mJWyoBuuDjnhUK_HKmusEiqm4AhzY&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.fqsr1-1.fna&_nc_gid=BMwUSwJbPe4gWxCLARP_Bw&_nc_ss=7a22e&oh=00_AQLYWLFPFathdJ7g3_ILwhwtaSXoxUB5cdNZbYaxoRHWkA&oe=6AB4F51F",
       "caption": "#AD Dive slow, Feel everything🫧\n\n푸른 세상에\n나만 잠시 멈춰 있는 것 같은 순간\n\n🤿 크리스탈 롱핀 @deepvibe_official \n🏷 인투더블루 @intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #크리스탈롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,15 +224,15 @@
         "n": 12,
         "captured_at": "2026-09-19T08:07:31.156687+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 9.355412105903265e-05,
         "vs_baseline": 0.2343705122067975,
         "cost_per_eng": 110000.0,
         "cost_per_view": 89.86928104575163
       },
-      "last_written_reaction": "조회 1,224 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.2x (D+30)",
+      "last_written_reaction": "조회 1,224 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.2x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.21x 극저조, 참여 1건당 11만 원으로 비용 효율 매우 낮아 조기 개입 필요.",
@@ -243,7 +243,9 @@
           "one_liner": "평소 대비 0.23x의 극저조한 반응에 참여 1건당 비용 11만 원으로, 현시점 협찬 효율이 매우 낮아 추가 액션 검토가 필요합니다.",
           "days": 14,
           "analyzed_at": "2026-09-03T08:08:08.101587+09:00"
-        }
+        },
+        "final_verdict": "조회수 1,224회·좋아요 미집계(음수 기록)·댓글 2건으로 평소 대비 0.23배에 불과해 계정 내에서도 극히 저조한 성과를 보였으며, 팔로워 대비 참여율 0.01%는 업계 최저 기준(1~3%)을 크게 밑돈다. 참여 1건당 비용 110,000원·조회 1회당 89.9원은 동급 규모 인플루언서 평균 대비 수배 이상의 비효율로, 220,000원 상당의 협찬 가액이 노출·전환 어느 측면에서도 회수되지 못했다고 판단된다. 향후 해당 계정 재협찬은 지양하고, 베이스라인 성과 기반의 사전 필터링 기준 강화가 필요하다.",
+        "final_at": "2026-09-20T07:46:08.738573+09:00"
       }
     },
     {
@@ -460,7 +462,7 @@
         "captured_at": "2026-09-18T08:26:44.975577+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0021517447843577508,
         "vs_baseline": 1.2105263157894737,

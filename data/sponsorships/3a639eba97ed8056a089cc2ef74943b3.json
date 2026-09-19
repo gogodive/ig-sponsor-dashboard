@@ -25,7 +25,7 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-23T07:41:37.000Z",
       "permalink": "https://www.instagram.com/p/DcX-ThAsCLp/",
-      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=YG7b8TrDbWcQ7kNvwFV2M1A&_nc_oc=AdpbXr9IOydcMoEkmLfYELoND5LGTHWPRtNBYPjE6eEbMa97K03URtdEv6WPlNFTbsgenYvUE7t-_neUdb0zfozG&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=qVA4XYxsc_5lVAfe_H8Y1Q&_nc_ss=7a22e&oh=00_AQI0S-u_ebcI1XUPbrmvEUSFcpMxEmBHXLf60n0MY7e2Cg&oe=6AB3A25F",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzIifQ%3D%3D&_nc_ohc=j2y7kyAJJVYQ7kNvwGcxpfq&_nc_oc=AdqXwkcOoE5Gn7bQ4j6x39Xbu9lEhXLhECjPqTkpY7NQTOt4hYLpoMGFpe_zNbynFE5KzwgDlDLJ3evuqI9AcSET&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=c5hkgIrxgdb5FAbdKihRBg&_nc_ss=7a22e&oh=00_AQLFHS-AqK5Wu5NaRw-mrVhzNv20hKXnnpXB6CkLrH6kZg&oe=6AB4F3DF",
       "caption": "@secrets__fit \n\n필테가는 날도, 각 잡고 운동하는 날도\n편하고 예쁘게 🤍\n\n운동할 때만 입기엔 아까운\n데일리한 나만의 애슬레저 룩 \n@secrets__fit 🫧",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
+      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
       "history": [
         {
           "d": "2026-08-27",
@@ -180,10 +180,16 @@
           "views": 1672,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-09-20",
+          "views": 1672,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.007451564828614009,
         "vs_baseline": null,
@@ -202,7 +208,7 @@
           "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
         }
       },
-      "last_written_reaction": "조회 1,672 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+26)"
+      "last_written_reaction": "조회 1,672 · 좋아요 -1 · 댓글 6 · ER 0.7% (D+27)"
     },
     {
       "notion_row_id": "25e39eba-97ed-8208-980b-011b41a5ca87",
@@ -310,7 +316,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 53,
+      "days_since_post": 54,
       "computed": {
         "er": -0.0014903129657228018,
         "vs_baseline": null,

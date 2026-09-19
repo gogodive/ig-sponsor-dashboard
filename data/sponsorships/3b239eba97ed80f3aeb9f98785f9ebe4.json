@@ -25,7 +25,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-19T11:13:14.000Z",
       "permalink": "https://www.instagram.com/p/DcODcwEFJka/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/778565184_18612381577022923_2427769107569202812_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2NzExNDU5ODk1NTQ5OTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=hNRdNThhguQQ7kNvwHRZkKW&_nc_oc=Adqyw36_UO6tO1LTDtdhcPAjJreA4-zppsApYckIUMpKT5LdJHjcdN55fB4kud9hLBM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=X-ylipSdxsv8jmpXsBT0Tw&_nc_ss=7a22e&oh=00_AQJzhdhRAoj5Uhu7NgSBK7xQzAEfXVu4P8lIUp_LkuIERg&oe=6AB37F60",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/778565184_18612381577022923_2427769107569202812_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2NzExNDU5ODk1NTQ5OTk5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hNRdNThhguQQ7kNvwF3F2JS&_nc_oc=AdpC0m9pQQ6iuOIGbLmpo8yDPpx1iLq6Y8kaXlBS71nUlzabMgSeY-ASR5xxsTDaDgpj23jtgsGStZZMmOpuT98U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=mqGDP3TgM5cjVBwJtyJezQ&_nc_ss=7a22e&oh=00_AQKVBmmODKVemaQqPzZVyZLqTpTzdxwHiYnrC_W2UUpOkg&oe=6AB4D0E0",
       "caption": "#이벤트당첨 #제품제공\n\n🍑라세린수영복 물복🍑\n@laserin_swim \n\n✔️더블크로스백\n✔️두겹 수영복(화이트 안감이 덧대져 비침걱정 없음)\n✔️미들컷\n✔️패드고리 있음\n✔️고밀도 직조 원단\n\n🏊🏻‍♂️170/62\n평소 일반수영복 M사이즈/포일수영복 L사이즈 착용(움파, 루프루프, 아레나, 제이커스 등)\n해당 수영복 L사이즈 착용\n\n🔍처음 보자마자 반해버린 영롱 그 자체 수영복 물복🍑❤️\n사진으로도 예뻤지만 실물로 보면 \n정말 감탄이 나올 정도로 예쁜 아이에요,,🤤😘\n\n전체적으로는 핑크와 코랄 그 어디쯤의 컬러에 \n매끄러운 반짝",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 7,
         "captured_at": "2026-09-19T08:07:31.156687+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01630837657524092,
         "vs_baseline": 2.75,
         "cost_per_eng": 3136.3636363636365,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 23 · ER 1.6% · 평소대비 2.8x (D+30)",
+      "last_written_reaction": "좋아요 -1 · 댓글 23 · ER 1.6% · 평소대비 2.8x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 2.62배 참여로 선전 중이나, 팔로워 1,350명 소규모 계정 특성상 참여 1건당 3,286원 비용 효율은 추가 관찰이 필요하다.",
@@ -236,7 +236,9 @@
           "one_liner": "평소 대비 2.75배 참여로 선방 중이나, 참여 1건당 3,136원은 팔로워 규모 감안 시 비용 효율 개선 여지 있음.",
           "days": 14,
           "analyzed_at": "2026-09-03T08:08:08.101587+09:00"
-        }
+        },
+        "final_verdict": "팔로워 1,349명의 소규모 계정임에도 평소 대비 2.75배의 참여를 이끌어냈고, 팔로워 대비 참여율 1.63%는 마이크로 인플루언서 평균 수준으로 타깃 충성도가 확인된다. 다만 피드 게시물 특성상 조회수 미집계로 실제 노출 규모 파악이 제한적이며, 좋아요 -1은 데이터 오류로 신뢰도를 저해한다. 참여 1건당 비용 3,136원과 협찬 상품가 69,000원을 감안하면 소규모 브랜드 인지도 확산 목적에는 가성비가 낮지 않으나, 실구매 전환 데이터가 없어 ROI 확정은 어렵다.",
+        "final_at": "2026-09-20T07:46:08.738573+09:00"
       }
     }
   ],

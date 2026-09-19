@@ -140,14 +140,14 @@
         "captured_at": "2026-09-11T08:00:12.092988+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.04784172661870503,
         "vs_baseline": 2.9338235294117645,
         "cost_per_eng": 458.6466165413534,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 394 · 댓글 5 · ER 4.8% · 평소대비 2.9x (D+24)",
+      "last_written_reaction": "좋아요 394 · 댓글 5 · ER 4.8% · 평소대비 2.9x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.98배 참여로 팔로워 규모 감안 시 양호한 출발, 참여 1건당 675원은 합리적 수준으로 지속 모니터링 권장.",

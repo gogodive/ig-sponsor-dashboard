@@ -25,17 +25,17 @@
       "first_seen": "2026-09-08",
       "posted_at": "2026-09-06T13:20:27.000Z",
       "permalink": "https://www.instagram.com/p/Dc8n0O_OZ5a/",
-      "thumbnail": "https://instagram.fthe9-1.fna.fbcdn.net/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vaQZFIprxyQQ7kNvwEtM1Cp&_nc_oc=AdrXHuHSwCcVHXCYrTAowIpO5O7fPNmxJgLdZoZJmXKgSi9cWaLXyfzRVDlW3gmOOVs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fthe9-1.fna&_nc_gid=NbgXTgFwbnBx-0MWgM7HSw&_nc_ss=7a22e&oh=00_AQJTsJ8zlXz_1tWR_b2pSmjiR6wGtf4oeqI1wd2wn1Jmdw&oe=6AB39881",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vaQZFIprxyQQ7kNvwGgI-d3&_nc_oc=Adq7Y8h87LAwhe88zO5GrIiPXqACh3-ZE0Ko2RIPI2oTWQ-DvOhGdViH896OhNZdT4I&_nc_ad=z-m&_nc_cid=3033&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=uNOkx0Ih_OtJcyXeP1D69g&_nc_ss=7a22e&oh=00_AQLxbN1E1P_j9y37MPRNxFjlUEugNqD7WjLevuubqdqCAg&oe=6AB4EA01",
       "caption": "물고기가 되고 싶은 저에요 🐬 *광고\n\n이번에 영덕 놀러갔다왔는데 \n너무 예쁘고 청량한 거 있죠 ✨\n\n인투더블루 유리섬유 롱핀 써서 그런지\n수심 꽤나 깊은데도 안지치고 두 시간 놀았어요 🏊🏻‍♀️\n\n여전히 수영은 배우고 있어서 \n자세가 요란하지만 ㅎ ㅎ \n그래도 물고기들도 잔뜩 보고 \n힐링했던 하루였습니다 🌷\n\n다들 롱핀 + 스노쿨링은 꼭 추천드려요 🐬\n#인투더블루 #딥바이브 #영덕여행 #스노쿨링 #롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "j_hyun110",
       "metrics": {
-        "views": 2979,
-        "likes": 84,
+        "views": 3005,
+        "likes": 87,
         "comments": 7
       },
-      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
+      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
       "history": [
         {
           "d": "2026-09-08",
@@ -108,17 +108,23 @@
           "views": 2979,
           "likes": 84,
           "comments": 7
+        },
+        {
+          "d": "2026-09-20",
+          "views": 3005,
+          "likes": 87,
+          "comments": 7
         }
       ],
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
-        "er": 0.00760043431053203,
-        "vs_baseline": 1.8491620111731844,
-        "cost_per_eng": 1450.5494505494505,
-        "cost_per_view": 44.31017119838872
+        "er": 0.007850998079011108,
+        "vs_baseline": 1.8653010552451894,
+        "cost_per_eng": 1404.2553191489362,
+        "cost_per_view": 43.92678868552412
       },
-      "last_written_reaction": "조회 2,979 · 좋아요 84 · 댓글 7 · ER 0.8% · 평소대비 1.8x (D+12)",
+      "last_written_reaction": "조회 3,005 · 좋아요 87 · 댓글 7 · ER 0.8% · 평소대비 1.9x (D+13)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회율 22%·참여율 0.71%로 초기 반응이 저조하며, 참여 1건당 비용 1,590원은 협찬 효율 개선이 필요한 수준입니다.",
@@ -130,7 +136,7 @@
         "views_median": 1611,
         "eng_median": 67,
         "n": 3,
-        "captured_at": "2026-09-19T08:07:31.156687+09:00"
+        "captured_at": "2026-09-20T07:46:08.738573+09:00"
       }
     },
     {
@@ -287,7 +293,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.05211726384364821,
         "vs_baseline": 1.6819407008086253,

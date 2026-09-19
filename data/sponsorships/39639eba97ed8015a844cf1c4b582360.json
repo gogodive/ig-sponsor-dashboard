@@ -25,17 +25,17 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-24T08:36:19.000Z",
       "permalink": "https://www.instagram.com/p/DcapGigRGSY/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=SXm18cZscOUQ7kNvwEf0Apn&_nc_oc=AdpwmC7aLvS0Rf4ATFa3UbAP5j7A5VtMKDsK0HIoemXk578DohCnTi7VMyfriLzqh2Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=l1Cyr2_Bq7DZbLYPSDEwrw&_nc_ss=7a22e&oh=00_AQLO9T9jZs2wSek-oFqdscwC5BR0M84YNarFxhemRiQQ7w&oe=6AB39475",
+      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=SXm18cZscOUQ7kNvwHc1teJ&_nc_oc=AdqpydMzLVT-RlTitFdYH62ImGVSzn7HZqS0S4msThuexRiA8T6PosM4xXfDcqK1AMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=i7g7DYACjtSrvop11l1B9Q&_nc_ss=7a22e&oh=00_AQJJX-k7k1Dmhxwa-cOWIXx3H-eRr6ZFbEGvM3ok4iS0cw&oe=6AB4E5F5",
       "caption": ".\n아직도 안타봤어?\n여름엔 e-foil\n\n👙 @laserin_swim \n\n#전동포일 #efoil\n#라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "haa.diya__",
       "metrics": {
-        "views": 5777,
+        "views": 5790,
         "likes": 148,
         "comments": 9
       },
-      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
+      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -186,23 +186,29 @@
           "views": 5777,
           "likes": 148,
           "comments": 9
+        },
+        {
+          "d": "2026-09-20",
+          "views": 5790,
+          "likes": 148,
+          "comments": 9
         }
       ],
       "baseline": {
         "views_median": 3109,
         "eng_median": 201,
         "n": 3,
-        "captured_at": "2026-09-19T08:07:31.156687+09:00"
+        "captured_at": "2026-09-20T07:46:08.738573+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.009140661387983232,
-        "vs_baseline": 1.8581537471855902,
+        "vs_baseline": 1.8623351559987134,
         "cost_per_eng": 203.82165605095543,
-        "cost_per_view": 5.539207200969361
+        "cost_per_view": 5.526770293609672
       },
-      "last_written_reaction": "조회 5,777 · 좋아요 148 · 댓글 9 · ER 0.9% · 평소대비 1.9x (D+25)",
+      "last_written_reaction": "조회 5,790 · 좋아요 148 · 댓글 9 · ER 0.9% · 평소대비 1.9x (D+26)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.35x로 무난한 출발이나 팔로워 대비 참여율 0.81%·참여당 229원은 개선 여지가 있어 최종 성과 추이 모니터링 필요.",
@@ -310,7 +316,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 44,
+      "days_since_post": 45,
       "computed": {
         "er": 0.00663716814159292,
         "vs_baseline": 0.9156626506024096,

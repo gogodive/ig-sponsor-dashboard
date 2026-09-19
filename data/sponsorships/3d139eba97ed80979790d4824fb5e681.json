@@ -25,17 +25,17 @@
       "first_seen": "2026-09-10",
       "posted_at": "2026-09-09T06:33:11.000Z",
       "permalink": "https://www.instagram.com/p/DdDnmoLxLot/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/801477213_18620389816002514_8597010938821381869_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk4MjIwMDY3MzgyNjgxNDUwOTE4NjIwMzg5ODEwMDAyNTE0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Fskie-UI0rEQ7kNvwFscmlB&_nc_oc=AdoWa-VODaqFeIGQunJnYNVHbvaW_JljAtXUR0QR5CgMHIJiuzELhN8GO0kA3vHjYbgTGN46jjPnA_YhJiWhXlvS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ifxoGz_1W4H4-k9Gvd6Fug&_nc_ss=7a22e&oh=00_AQLr1PL5QHMwTbLRHQEK0XcC1scUkYBiBu_WWSqS5iiwBg&oe=6AB3814C",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/801477213_18620389816002514_8597010938821381869_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk4MjIwMDY3MzgyNjgxNDUwOTE4NjIwMzg5ODEwMDAyNTE0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Fskie-UI0rEQ7kNvwHXLznA&_nc_oc=AdpduWwhTlv0raNbNQO9iOTr5_wyH2eR4uMbQygg_qtPmwT74JBIK7yF8YTCuAI_2VA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=uYdSbplzxGEpc3a5icDNqQ&_nc_ss=7a22e&oh=00_AQInFnIV6QBlCab_Y-94j4zAucVNDwvLj_n8zacf9UM83w&oe=6AB4D2CC",
       "caption": "🤿 인생 첫 프리다이빙 도전!\n\n물속에서 숨 참는 거 생각보다 쉬웠음😳\n첫 도전이라 긴장했지만 하나씩 배우니까 점점 재미있어지는 \n프리다이빙!\n\n@pass9_diving_gumi \n📍 구미 패스나인\n이론교육부터 초급 LEVEL 1+2까지 차근차근✨\n\n🌊 호흡 & 이퀄라이징\n🌊 DYN 수평 잠영\n🌊 FIM 수직 잠영\n🌊 CWT 수직 잠영\n🌊 덕다이빙까지 직접 배워봤어요!\n\n🔥🔥 고고다이브의 가장 큰 장점! 🔥🔥\n\n💙 무제한 코칭반\n\n한 번 배우고 끝나는 게 아니라\n테스트 전까지 충분히! 원하는 만큼!\n강사님께 계속 코칭받을 수 있다는",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "body__barbie",
       "metrics": {
-        "views": 1916,
+        "views": 4420,
         "likes": -1,
         "comments": 2
       },
-      "metrics_updated_at": "2026-09-19T08:07:31.156687+09:00",
+      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
       "history": [
         {
           "d": "2026-09-10",
@@ -96,23 +96,29 @@
           "views": 1916,
           "likes": -1,
           "comments": 2
+        },
+        {
+          "d": "2026-09-20",
+          "views": 4420,
+          "likes": -1,
+          "comments": 2
         }
       ],
       "baseline": {
         "views_median": 14764,
         "eng_median": 7,
         "n": 9,
-        "captured_at": "2026-09-19T08:07:31.156687+09:00"
+        "captured_at": "2026-09-20T07:46:08.738573+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": 2.4668212541319256e-05,
-        "vs_baseline": 0.12977512869141153,
+        "vs_baseline": 0.29937686263885127,
         "cost_per_eng": 390000.0,
-        "cost_per_view": 203.5490605427975
+        "cost_per_view": 88.23529411764706
       },
-      "last_written_reaction": "조회 1,916 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.1x (D+9)",
+      "last_written_reaction": "조회 4,420 · 좋아요 -1 · 댓글 2 · ER 0.0% · 평소대비 0.3x (D+10)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.09x의 극히 저조한 초기 반응으로, 참여 1건당 비용 39만 원·조회당 297원은 투자 대비 효율이 매우 낮은 상태.",
@@ -130,5 +136,5 @@
   },
   "child_db_id": "78939eba-97ed-83b6-998a-011bf45926e5",
   "followers": 40538,
-  "last_written_score": 13
+  "last_written_score": 30
 }
