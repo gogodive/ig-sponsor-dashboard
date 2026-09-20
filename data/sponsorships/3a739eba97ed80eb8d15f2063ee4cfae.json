@@ -25,17 +25,17 @@
       "first_seen": "2026-09-08",
       "posted_at": "2026-09-06T13:20:27.000Z",
       "permalink": "https://www.instagram.com/p/Dc8n0O_OZ5a/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vaQZFIprxyQQ7kNvwGgI-d3&_nc_oc=Adq7Y8h87LAwhe88zO5GrIiPXqACh3-ZE0Ko2RIPI2oTWQ-DvOhGdViH896OhNZdT4I&_nc_ad=z-m&_nc_cid=3033&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=uNOkx0Ih_OtJcyXeP1D69g&_nc_ss=7a22e&oh=00_AQLxbN1E1P_j9y37MPRNxFjlUEugNqD7WjLevuubqdqCAg&oe=6AB4EA01",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/794328411_18613262860011361_5430643268630983734_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MDIzMTI4NDAwODUyNTQwMjE4NjEzMjYyODU3MDExMzYx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vaQZFIprxyQQ7kNvwEdCr7A&_nc_oc=AdplYRV6jtsG0WI00SMipqM8Sl2u4Nw0atrY6dt-knHaOARARWtjKBpt_nFXkBYi7FGaft7x9hdM3Y7ExHZNtTiR&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=CVrEGPBrHmVcOLMVsguKEg&_nc_ss=7a22e&oh=00_AQJxPSQhNuadjyxCOafpZFZm_-FgBV7bu7mxojnhG-EwgA&oe=6AB63B81",
       "caption": "물고기가 되고 싶은 저에요 🐬 *광고\n\n이번에 영덕 놀러갔다왔는데 \n너무 예쁘고 청량한 거 있죠 ✨\n\n인투더블루 유리섬유 롱핀 써서 그런지\n수심 꽤나 깊은데도 안지치고 두 시간 놀았어요 🏊🏻‍♀️\n\n여전히 수영은 배우고 있어서 \n자세가 요란하지만 ㅎ ㅎ \n그래도 물고기들도 잔뜩 보고 \n힐링했던 하루였습니다 🌷\n\n다들 롱핀 + 스노쿨링은 꼭 추천드려요 🐬\n#인투더블루 #딥바이브 #영덕여행 #스노쿨링 #롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "j_hyun110",
       "metrics": {
-        "views": 3005,
-        "likes": 87,
+        "views": 3063,
+        "likes": 88,
         "comments": 7
       },
-      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
+      "metrics_updated_at": "2026-09-21T08:05:01.479098+09:00",
       "history": [
         {
           "d": "2026-09-08",
@@ -114,29 +114,40 @@
           "views": 3005,
           "likes": 87,
           "comments": 7
+        },
+        {
+          "d": "2026-09-21",
+          "views": 3063,
+          "likes": 88,
+          "comments": 7
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.007850998079011108,
-        "vs_baseline": 1.8653010552451894,
-        "cost_per_eng": 1404.2553191489362,
-        "cost_per_view": 43.92678868552412
+        "er": 0.007934519335170802,
+        "vs_baseline": 1.9013035381750465,
+        "cost_per_eng": 1389.4736842105262,
+        "cost_per_view": 43.09500489715965
       },
-      "last_written_reaction": "조회 3,005 · 좋아요 87 · 댓글 7 · ER 0.8% · 평소대비 1.9x (D+13)",
+      "last_written_reaction": "조회 3,063 · 좋아요 88 · 댓글 7 · ER 0.8% · 평소대비 1.9x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회율 22%·참여율 0.71%로 초기 반응이 저조하며, 참여 1건당 비용 1,590원은 협찬 효율 개선이 필요한 수준입니다.",
           "days": 3,
           "analyzed_at": "2026-09-10T08:03:45.398077+09:00"
+        },
+        "d14": {
+          "one_liner": "평소 대비 1.90배 조회로 선방했으나 팔로워 대비 참여율 0.79%·참여당 1,389원은 개선 여지가 있어 추가 활성화가 필요한 수준입니다.",
+          "days": 14,
+          "analyzed_at": "2026-09-21T08:05:01.479098+09:00"
         }
       },
       "baseline": {
         "views_median": 1611,
         "eng_median": 67,
         "n": 3,
-        "captured_at": "2026-09-20T07:46:08.738573+09:00"
+        "captured_at": "2026-09-21T08:05:01.479098+09:00"
       }
     },
     {
@@ -293,7 +304,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.05211726384364821,
         "vs_baseline": 1.6819407008086253,
@@ -325,5 +336,5 @@
   },
   "child_db_id": "3af39eba-97ed-8310-b26c-0112b1d738cd",
   "followers": 11973,
-  "last_written_score": 177
+  "last_written_score": 179
 }

@@ -25,7 +25,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-07T04:34:17.000Z",
       "permalink": "https://www.instagram.com/p/Dc-Q5Z6Gjew/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/799263462_18625562926050374_2514576862709290824_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MDY5MTQxODkwODg4NzcxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fFZT9oWkD9YQ7kNvwH49jTh&_nc_oc=AdouT9BA9kyrbCrzQWAcqZcR_BhptrrFIT9CTduAvP_0yue-KCa7iuLEdbgD6EI5Xyk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=ohj79D5ieMJLSWcukAxhdA&_nc_ss=7a22e&oh=00_AQLZT3EG7E3bFoyUCs8KgwUnZfrsg7x9fGI2ZWdnQl8n_Q&oe=6AB4D4E6",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/799263462_18625562926050374_2514576862709290824_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MDY5MTQxODkwODg4NzcxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fFZT9oWkD9YQ7kNvwGMz-JA&_nc_oc=Adoj9sOOvYp2vM_EOOlrXhnmSMgvg6X3y-AeLME55ocn3mgfhI_txX02wcVCvWW6TygzeRO73vSJldyLOW2Cik3G&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=R6HBJ7kBXJmMCV64sZ70TQ&_nc_ss=7a22e&oh=00_AQLnPB97jaA9HxvHejg_TGuvtgBfOA9Hp7cwWD-wlo6V6g&oe=6AB62666",
       "caption": "@laserin_swim 물속에서 더 예쁘게 반짝이는 🩵✨\n라세린 Forest Glow\n\n색 감 매 우 취 저 !! 😍\n\n맑은 민트 아쿠아 컬러에\n빛을 받을 때마다 은은하게 더해지는 오로라 광택 \n보기만 해도 기분 좋아지는 수영복이에요 \n\n화사하면서도 청량한 컬러라\n입는 순간 얼굴까지 한층 환해 보이는 느낌🌿\n특히 물속에서는 반짝임이 더 예쁘게 살아나서\n자꾸만 눈길이 가더라고요 🤤🩵\n\n뒤태는 크로스 픽스드백 디자인으로\n깔끔하면서도 스포티한 매력까지 🤍\n\n🌿 LASERIN Forest Glow Cross Fixed Back Women",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
+      "metrics_updated_at": "2026-09-21T08:05:01.479098+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -53,16 +53,22 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-09-21",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 217,
         "n": 3,
-        "captured_at": "2026-09-20T07:46:08.738573+09:00"
+        "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": -3.760670903689218e-05,
         "vs_baseline": -0.004608294930875576,
@@ -76,7 +82,7 @@
           "analyzed_at": "2026-09-18T08:26:44.975577+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+12)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+13)"
     }
   ],
   "flags": {

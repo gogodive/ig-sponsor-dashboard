@@ -25,7 +25,7 @@
       "first_seen": "2026-08-25",
       "posted_at": "2026-08-20T10:00:06.000Z",
       "permalink": "https://www.instagram.com/p/DcQf3yyThxd/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/781266706_18098114423344848_8299522220525092344_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2NzgxMTQ0NTI1NzU0Mjc0OTE4MDk4MTE0NDIwMzQ0ODQ4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=czi0vimr8O4Q7kNvwHgcmzH&_nc_oc=AdpPHAdMJj_5XbMqNH1hJsmHGjvsafHvKRQUmx9InZPz4oarSiBs0DefnDxVtl6UH-mFgliWAirY_T8Nba16lEpI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=xBl2hvITRDr2qV0WIr-lnQ&_nc_ss=7a22e&oh=00_AQJhU5sPIIwwfzIuCJhlWpSKv29h8WdNfQ3sNZUtHPrgVQ&oe=6AB4CFD2",
+      "thumbnail": "https://instagram.fbne6-1.fna.fbcdn.net/v/t51.82787-15/781266706_18098114423344848_8299522220525092344_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2NzgxMTQ0NTI1NzU0Mjc0OTE4MDk4MTE0NDIwMzQ0ODQ4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=czi0vimr8O4Q7kNvwEslt1p&_nc_oc=Adqdtuw4o1D7K9YNivheAxL27wJes86fTQRpOI7HC2Nof_ICtkWB_5xs1g2fqLGGU8k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbne6-1.fna&_nc_gid=0x6S1piEBcfbzOFjLQKnxw&_nc_ss=7a22e&oh=00_AQIm1Y91xhaq37FnKGjOP9lGhmiM2yrhRQzotKnvbGQ8Ow&oe=6AB62152",
       "caption": "#광고 @intotheblue_store\n\n제주 바다에서 유영할 때 진짜 날개 하나 달아준 느낌🪽🌊\n\n딥바이브 파이버글라스 롱핀 써봤는데\n툭 차도 묵직하게 쭉 밀어주는 맛이 있고,\n소프트 텐션이라 살랑살랑 차도 물속에서 부드럽게 쭉쭉 나갑니다🐬\n\n특히 좋았던 건 발목 각도 23도 설계!\n롱핀 오래 신고 있으면 발목 뻐근한 거 은근 스트레스인데\n이건 확실히 발목 부담이 덜해서 오래 물놀이하기 좋더라구요🤿\n\n제주 바다에서 유영하고 프리다이빙하고\n그냥 물속에서 하루 종일 놀고 싶은 사람한테 딱인 느낌😎🌊\n\n📍 착용 핀\n딥바이브(Deep ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -200,10 +200,10 @@
           "comments": 1
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.004049820432490257,
+        "er": 0.0040105940219447595,
         "vs_baseline": null,
         "cost_per_eng": 2490.566037735849,
         "cost_per_view": 10.85794192646212
@@ -218,9 +218,11 @@
           "one_liner": "조회수는 팔로워의 90% 수준으로 무난하나, 참여율 0.42%·댓글 1건은 저조해 비용 대비 실질 반응 효율이 미흡한 중간 성적.",
           "days": 14,
           "analyzed_at": "2026-09-04T08:05:32.290830+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 0.40%는 인스타그램 평균(1~3%)을 크게 하회하며, 조회수 12,157회는 팔로워 수(13,215명)에 근접한 수준으로 도달 자체는 나쁘지 않으나 좋아요 52·댓글 1건이라는 극히 낮은 실질 반응은 콘텐츠가 구매 의향으로 이어지지 못했음을 시사한다. 참여 1건당 비용 2,491원·조회 1회당 비용 10.9원은 다이빙·수영 같은 니치 카테고리 기준으로도 효율이 낮은 편이며, 상품 가액 264,000원 대비 확보된 브랜드 노출 가치는 제한적이다. 재협찬 시에는 릴스 후킹력과 CTA(댓글 유도·링크 클릭) 전략 개선을 선행 조건으로 제시하는 것이 바람직하다.",
+        "final_at": "2026-09-21T08:05:01.479098+09:00"
       },
-      "last_written_reaction": "조회 12,157 · 좋아요 52 · 댓글 1 · ER 0.4% (D+30)"
+      "last_written_reaction": "조회 12,157 · 좋아요 52 · 댓글 1 · ER 0.4% (확정)"
     },
     {
       "notion_row_id": "37b39eba-97ed-823f-997b-818ed7527967",
@@ -231,7 +233,7 @@
       "first_seen": "2026-08-06",
       "posted_at": "2026-08-04T05:30:30.000Z",
       "permalink": "https://www.instagram.com/p/Dbm0TU3j6FA/",
-      "thumbnail": "https://instagram.fyto1-1.fna.fbcdn.net/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NjA3OTIxNjgzNDg1MTA3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MmKDLW9x3WgQ7kNvwHahYT4&_nc_oc=AdqHwWbwgb6qT9yzW42riDCEuuXBxwhI94u5e7h2TKQvhHyV7CHTObayxJfZc9mfYJIKoC2d-3rsDsuBoxQAhXzz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyto1-1.fna&_nc_gid=qqIo91dQTDwZyybUEN0PAg&_nc_ss=7a22e&oh=00_AQI-N7wRLexPkQBbho7rVG_k6Tu9GluKbHQpZkiXH29WNw&oe=6AABB997",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/763778675_18096354590344848_2604703949378495864_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk1NjA3OTIxNjgzNDg1MTA3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QWU7GRF1exQQ7kNvwHzJ8CR&_nc_oc=Adru5S86pE30XuDkqVba5dt5NweTbfxC5safmroZopLUm8a1zDtSNVdkQso0UTyLko4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H_jq5rNTAHXygOBuwuTr2Q&_nc_ss=7a22e&oh=00_AQKIaQZM9cVLKsx-YuRHUUJCpLD6l6wiXNxC7jRzik22BQ&oe=6AB64597",
       "caption": "#AD @intotheblue_store\n\n롱핀은 처음이라 걱정했는데,\n첫 피닝부터 생각보다 훨씬 편했습니다.💙\n\n오래 차고 있어도 다리가 덜 피곤했고,\n턴도 부드럽게 돌아가더라고요.\n\n찾아보니\n✔️ 유리섬유(파이버글라스) 블레이드\n✔️ 발목에 맞춘 23° 각도 설계\n✔️ 동양인 발에 맞춘 풋포켓\n\n이런 디테일 덕분에\n초보도 부담 없이 신을 수 있었던 것 같아요.\n\n특히 오토클레이브 공법으로 제작돼\n내구성도 좋고,\n카본에 가까운 탄성감까지 느낄 수 있어서 만족했습니다.🤿\n\n앞으로 바다 갈 때마다\n가장 자주 함께할 장비가 될 것 같아",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -430,9 +432,9 @@
         "captured_at": "2026-09-04T08:05:32.290830+09:00"
       },
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
-        "er": 0.015282341254680218,
+        "er": 0.01513431706394249,
         "vs_baseline": 1.13314447592068,
         "cost_per_eng": 660.0,
         "cost_per_view": null
@@ -461,6 +463,6 @@
     "account_unavailable": false
   },
   "child_db_id": "05f39eba-97ed-82e9-9654-81707d2b5286",
-  "followers": 13087,
+  "followers": 13215,
   "last_written_score": 113
 }

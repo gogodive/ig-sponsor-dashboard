@@ -25,17 +25,17 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-21T07:08:08.000Z",
       "permalink": "https://www.instagram.com/p/DcSvyJahLpw/",
-      "thumbnail": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/780520381_18554518609074809_1895843431378731202_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2ODQ0NDM3NTkzNTI2OTQ4ODE4NTU0NTE4NjAzMDc0ODA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=P7k_6reni5UQ7kNvwFVHNbN&_nc_oc=AdpxHiKgC92p3f8LvqRRVSwS5InsziurkPW-XpHGdjo3clIPGv5GB9SqqrQSkdqewx1OZfEzsLlcen1XWGXdBNPt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsac1-2.fna&_nc_gid=kR2T3FeSVdmORdbBZzC0PA&_nc_ss=7a22e&oh=00_AQJaupKxv1M3beKAH5LnrLh3cpEk7PHr1e18e2D25nYjHw&oe=6AB4D173",
+      "thumbnail": "https://scontent-gig4-1.cdninstagram.com/v/t51.82787-15/780520381_18554518609074809_1895843431378731202_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk2ODQ0NDM3NTkzNTI2OTQ4ODE4NTU0NTE4NjAzMDc0ODA5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Oo9Vp7mGUkUQ7kNvwFKRLON&_nc_oc=AdqP5uN7hAjL6h_jYpa71d__wuSOcoVygBOhi6cZt9re_CkXsHuZstevIqtG4r8ZI1w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gig4-1.cdninstagram.com&_nc_gid=YcvQYrqNP124fh8CcuTCaw&_nc_ss=7a22e&oh=00_AQLhjlp-fgSFtKvNg83g3UFkfpElN4x4dae_ljmwOikMgw&oe=6AB622F3",
       "caption": "이거 진작 배워볼걸...‼️\n\n프리다이빙 강습 하루 만에 인어공주(?)로 변신해 봤어요 🧜🏻\n\n이전부터 프리다이빙을 도전해 보고는 싶었는데, '물속에서 숨 막히면 어쩌지?', '깊은 수심에 들어가서 패닉 오면 어쩌지?' 하는 두려움 때문에 계속 미뤘거든요.\n\n그러다 이번에 제대로 마음먹고 도전해 본 곳이 바로 국내 1위 프리다이빙 업체 '고고다이브' @gogodive 에서 배워봤어요.\n\n수많은 후기를 뒤져보니까 왜 다들 여길 추천하는지 바로 알겠더라고요. \n\n단순히 숨 오래 참는 법뿐만이 아니라 강사님들이 1:1로 섬세하게 밀착 케",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "cado.step",
       "metrics": {
-        "views": 2891,
+        "views": 2892,
         "likes": 80,
         "comments": 18
       },
-      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
+      "metrics_updated_at": "2026-09-21T08:05:01.479098+09:00",
       "history": [
         {
           "d": "2026-08-22",
@@ -216,17 +216,23 @@
           "views": 2891,
           "likes": 80,
           "comments": 18
+        },
+        {
+          "d": "2026-09-21",
+          "views": 2892,
+          "likes": 80,
+          "comments": 18
         }
       ],
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.02982349360925137,
         "vs_baseline": null,
         "cost_per_eng": 1989.795918367347,
-        "cost_per_view": 67.4507090971982
+        "cost_per_view": 67.42738589211618
       },
-      "last_written_reaction": "조회 2,891 · 좋아요 80 · 댓글 18 · ER 3.0% (D+29)",
+      "last_written_reaction": "조회 2,892 · 좋아요 80 · 댓글 18 · ER 3.0% (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "팔로워 대비 조회율 84%·참여율 2.8%로 소규모 계정 평균 수준이나, 참여 1건당 2,120원은 비용 효율 개선 여지가 있어 D+7 추이 모니터링 필요.",
@@ -448,7 +454,7 @@
         "captured_at": "2026-09-19T08:07:31.156687+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.0852099817407182,
         "vs_baseline": 0.8383233532934131,

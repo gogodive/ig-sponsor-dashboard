@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-08-31",
       "first_seen": "2026-09-01",
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
         "er": 5.645172671719096e-05,
         "vs_baseline": 0.2,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-08-31T05:17:35.000Z",
       "permalink": "https://www.instagram.com/p/DcsUSaHD-TE/",
-      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/787872857_18365430085212886_8276649149355744428_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3NTY0MTQxODQyODMxMDc4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hthKtCJl2pAQ7kNvwHXVEWu&_nc_oc=AdpzdXGrsNYUPVIjqcNMVtA0ZWUp1NN5W4aXrszszNl988A7Aq6Oa8ATSBdtsTcXorDjrFdjapLKx2EmB61iqTgb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=5H8MEcw9EewGr1hhp4Q1uA&_nc_ss=7a22e&oh=00_AQKlTt8TrjsjooGRttGXQAnQhLpL9JZPvQ1gf-vSKkiXYQ&oe=6AB4EBC7",
+      "thumbnail": "https://instagram.fsyd6-1.fna.fbcdn.net/v/t51.82787-15/787872857_18365430085212886_8276649149355744428_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3NTY0MTQxODQyODMxMDc4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DCXs5g1aKxUQ7kNvwFw4gpg&_nc_oc=AdrjxdituVj_s4R-CLv2FwMS0dOhxBpllpYSmedT3VMmK2KpYbtXzRTrdmcXko9zb6rAMYW23fIDGux0r4Y-3Gjd&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd6-1.fna&_nc_gid=bXoMy7oq8PKkxN3WzzOkyQ&_nc_ss=7a22e&oh=00_AQLNcyYa97kx0DIE25xebD35w_MOkQxTmkWjFgIy5h0kcA&oe=6AB63D47",
       "caption": "@gogodive 여름 물놀이 🏊🏻‍♀️🫧✨\n제가 수영은 할줄 알지만 물을 너무 무서워 해서 걱정🥹\n인어공주를 상상했지만!!! 쫄보라서 🥹\n4:1소규모 수업이라 강습을 신청했어요🥰\n여기너무 강습을 잘해주셔서 저만 알고 싶지만..☺️👍 강추합니다\n제가 너무 무서워했지만 강사님이 친절하게 잘알려주셨어요😳\n장비대여도 가능하고 강사님이 영상하고 사진을 잘 찍어주셔요👍\n재방문의사 200프로 입니당❤️\n #고고다이브 #프리다이빙 #프리다이빙강습",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -42,10 +42,16 @@
         "likes": -1,
         "comments": 5
       },
-      "metrics_updated_at": "2026-09-20T07:46:08.738573+09:00",
+      "metrics_updated_at": "2026-09-21T08:05:01.479098+09:00",
       "history": [
         {
           "d": "2026-09-20",
+          "views": null,
+          "likes": -1,
+          "comments": 5
+        },
+        {
+          "d": "2026-09-21",
           "views": null,
           "likes": -1,
           "comments": 5
@@ -55,7 +61,7 @@
         "views_median": null,
         "eng_median": 20,
         "n": 3,
-        "captured_at": "2026-09-20T07:46:08.738573+09:00"
+        "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
       "analysis": {
         "d14": {
@@ -64,7 +70,7 @@
           "analyzed_at": "2026-09-20T07:46:08.738573+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.0% · 평소대비 0.2x (D+19)"
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.0% · 평소대비 0.2x (D+20)"
     },
     {
       "notion_row_id": "3ac39eba-97ed-80b9-bd3d-c4394be6575e",
@@ -74,7 +80,7 @@
       "upload_date_notion": "2026-07-28",
       "first_seen": "2026-07-30",
       "frozen": true,
-      "days_since_post": 54,
+      "days_since_post": 55,
       "computed": {
         "er": 2.822586335859548e-05,
         "vs_baseline": 0.7732682331400671,
@@ -114,7 +120,7 @@
       "upload_date_notion": "2026-07-20",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 60,
+      "days_since_post": 61,
       "computed": {
         "er": 4.233879503789322e-05,
         "vs_baseline": 1.6069575831553249,

@@ -25,7 +25,7 @@
       "first_seen": "2026-08-21",
       "posted_at": "2026-08-20T04:39:10.000Z",
       "permalink": "https://www.instagram.com/p/DcP6tNLP2AD/",
-      "thumbnail": "https://instagram.fsvq4-1.fna.fbcdn.net/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lcMPLlIWZcIQ7kNvwFV_PDt&_nc_oc=AdqRbXRHYA7-obIYURq9ipsx9Ukm0jwjZlXfrTgdqYCvB8luDCtiXWsNjARkPF-LiR4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq4-1.fna&_nc_gid=TAB7TiEEhuKIzdctA85Nmw&_nc_ss=7a22e&oh=00_AQKD4SFuxtXyX86CY4cavtLEW7s-fylT7syXcHGvY8t5cA&oe=6AB4D0CC",
+      "thumbnail": "https://instagram.fmel5-1.fna.fbcdn.net/v/t51.82787-15/778550956_18611303692062407_1552564538600366590_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzY0Nzk4OTk1ODEzOTkwNzE4NjExMzAzNjg2MDYyNDA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lcMPLlIWZcIQ7kNvwEKesOw&_nc_oc=AdpqfU79uZbEorHX89fUx8yE1fXhWqYcSoIa1FTV5sB7nCbF4j5hT_xSQYx72_e1lHQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmel5-1.fna&_nc_gid=3yZicXTGJbTSRbFJEoRH9Q&_nc_ss=7a22e&oh=00_AQJxXIlZLCBZAGferyF0P8XqPDFhn26t3aDfwx6S-3KAQQ&oe=6AB6224C",
       "caption": "#협찬 \n울릉도에서 첫 시착해본 프리다이빙 장비💙🌊\n\n이번에 함께한 장비는\n딥바이브 크리스탈 유리섬유 롱핀과\n딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm✨\n\n오로라 핀은 그라데이션 블루 컬러가 물속에서 더 예뻐 보였고,\n2mm 슈트는 착용감이 편해서 움직일 때도 부담이 없었어요.\n\n특히 울릉도처럼 기온이 조금 낮은 바다에서도\n덕분에 따뜻하게, 편하게 놀다 왔어요🫧\n\n첫 시착부터 마음에 쏙 든 조합💙\n앞으로 이 장비들과 함께할 바다도 기대됩니다!\n\n@intotheblue_store\n\n#인투더블루 #딥바이브 #딥바이브슈트 #크리스탈롱",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -230,15 +230,15 @@
         "n": 10,
         "captured_at": "2026-09-20T07:46:08.738573+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.009373258347266555,
+        "er": 0.009380863039399626,
         "vs_baseline": 0.4857663098991873,
         "cost_per_eng": 1162.162162162162,
         "cost_per_view": 39.31248857195099
       },
-      "last_written_reaction": "조회 5,469 · 좋아요 169 · 댓글 16 · ER 0.9% · 평소대비 0.5x (D+30)",
+      "last_written_reaction": "조회 5,469 · 좋아요 169 · 댓글 16 · ER 0.9% · 평소대비 0.5x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.49x로 기대 이하 출발, 참여당 1,344원·조회당 50원대 비용 효율 개선이 3일 차 핵심 과제.",
@@ -249,7 +249,9 @@
           "one_liner": "평소 대비 0.52x로 저조한 도달에 참여 비용 1,222원·조회 비용 42.6원까지 높아 비용 효율 개선이 시급하다.",
           "days": 14,
           "analyzed_at": "2026-09-04T08:05:32.290830+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 0.94%는 인스타그램 평균(1~3%)을 하회하며, 평소 대비 조회수가 0.49배에 그쳐 협찬 콘텐츠가 오히려 해당 계정의 일반 게시물보다 낮은 도달력을 기록했다. 참여 1건당 비용 1,162원, 조회 1회당 비용 39.3원은 팔로워 2만 미만 소규모 계정 기준으로 효율이 낮은 편이며, 430,000원의 상품 가액 대비 확보된 노출·참여량은 투자 가치를 정당화하기 어렵다. 동일 예산이라면 유사 규모 계정 중 평소대비 지수가 1.0배 이상이고 다이빙·수영 주제 친화도가 높은 계정으로 재배분하는 것이 권장된다.",
+        "final_at": "2026-09-21T08:05:01.479098+09:00"
       }
     },
     {
@@ -261,7 +263,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-28T07:12:32.000Z",
       "permalink": "https://www.instagram.com/p/DbU-ae8D6xe/",
-      "thumbnail": "https://instagram.fsvq4-2.fna.fbcdn.net/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk1MTA1NjExOTI3ODgxNDk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=phYCQYWcpOkQ7kNvwFyvUrj&_nc_oc=Adp-SR5x8HAVU2SvvVM7tZp5X1FuSarXqjNfcz_n4ePDCh3UvIywvvGl7AhbZZ1wpgM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq4-2.fna&_nc_gid=oMzX2iWA7ZU8Gqu47v9CJQ&_nc_ss=7a22e&oh=00_AQJQjFx0cJIsKzb2ui0hP-YuDeawowOoXtfMa4cD6_k8sQ&oe=6AABB79C",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/756671236_18603492313062407_4663937388760245413_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk1MTA1NjExOTI3ODgxNDk2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Rm7Kf_cSBWMQ7kNvwE0aq9f&_nc_oc=AdpZK7UBDe56fX-8Q1IpgO7otWDCCTm3j7LqMVdt1W-wmJFenhkGkbF6q-qgAA-8HI4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=ox-ULD25HTABkSOBZgVraw&_nc_ss=7a22e&oh=00_AQLSsbF7AFsYmPL_YQHz8SoxcFY6k39UGDwgXbePQb92fQ&oe=6AB6439C",
       "caption": "#협찬 @intotheblue_store \n울릉도에서 첫 시착💙🌊\n\n이번에 여행에 함께하게 된\n🩵딥바이브 크리스탈 유리섬유 롱핀과\n💙딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm\n\n사진으로도 예뻤지만,\n바다에서 보니 그라데이션 블루 컬러가 더 매력적이더라고요.✨\n\n2mm 슈트는 몸에 편안하게 밀착되면서도\n움직임이 정말 편해서 첫 착용인데도 \n부담 없이 다이빙을 즐길 수 있었어요🤿💦\n\n앞으로 이 장비와 함께 더 많은 바다를 기록해볼게요🫧💙\n.\n.\n.\n.\n#인투더블루 #딥바이브 #딥바이브롱핀 #크리스탈롱핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -460,9 +462,9 @@
         "captured_at": "2026-08-28T14:09:22.597852+09:00"
       },
       "frozen": true,
-      "days_since_post": 53,
+      "days_since_post": 54,
       "computed": {
-        "er": 0.013223894208846329,
+        "er": 0.013234622990720552,
         "vs_baseline": 0.9125874125874126,
         "cost_per_eng": 823.7547892720306,
         "cost_per_view": null
@@ -491,6 +493,6 @@
     "account_unavailable": false
   },
   "child_db_id": "f1039eba-97ed-827d-b629-016a27ab8aef",
-  "followers": 19737,
+  "followers": 19721,
   "last_written_score": 70
 }
