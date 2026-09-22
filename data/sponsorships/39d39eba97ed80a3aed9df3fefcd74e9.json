@@ -25,7 +25,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-08-21T02:13:08.000Z",
       "permalink": "https://www.instagram.com/p/DcSPOt9gWku/",
-      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/779996525_18616530742017769_3152063656357742151_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2ODI5OTgyNzE1MDAyMjQwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nCqKZRPRL20Q7kNvwHSj-hA&_nc_oc=Adp3Nx_5OKmhbmOeshy12u2OfEuaE2gsk6qxdI1ZHf1w5oJEssRvNetqeiYoRaI6khk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ppFuXPaZccyHYSmSJ9GwDw&_nc_ss=7a22e&oh=00_AQIw5T0ONu1XB7HNaIRFG0wCoDZ9_7HPGU-3wKHiaPWOaQ&oe=6AB64B54",
+      "thumbnail": "https://instagram.fmex10-4.fna.fbcdn.net/v/t51.82787-15/779996525_18616530742017769_3152063656357742151_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2ODI5OTgyNzE1MDAyMjQwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjczMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nCqKZRPRL20Q7kNvwFWO_FU&_nc_oc=AdqHVDUSOiNFv48IaXdRjM8j0iVv41X33_eXWB6BnY0I_7O_H_L5RaYW8TbeQ-i-w5HXfrMjd9xiYqspf4nyKmVa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex10-4.fna&_nc_gid=ppXuadwBX7PWq8a278IYTA&_nc_ss=7a22e&oh=00_AQLE7GLFN9qDGbOJoX6HDd-qZPvqpkZEtTfk9PaZXYoBcA&oe=6AB79CD4",
       "caption": "프리다이빙 자격증 도전 시작 🤿🩵\n\n프리다이빙 체험은 이곳저곳 다니면서 몇 번 해봤지만 제대로 배우면서 자격증에 도전하는 건 이번이 처음!\n\n그동안은 그냥 물속에 들어가는 것 자체가 좋아서 즐겼는데 이번에는 제대로 배워보기로 해따 😎\n\n첫 수업에서는 이론부터 호흡법, 이퀄라이징 등 기본적인 것부터 차근차근 배웠는데 역시 이퀄라이징이 제일 어렵더라구여…🥹\n\n그래도 @hhk9161 강사님이 하나씩 잘 알려주시고 예쁜 사진도 찍어주셔서 넘 재미있었던 하루 🫧🩵\n\n앞으로 열심히 해서 예쁘고 편안하게 잠수하는 것까지 제대로 배워보는 걸로🤿\n",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -145,8 +145,8 @@
         "n": 12,
         "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.013068213823015828,
         "vs_baseline": 0.5144124168514412,
@@ -158,9 +158,11 @@
           "one_liner": "평소 대비 0.51x로 저조한 반응, 참여 1건당 1,703원은 협찬 효율 재검토가 필요한 수준.",
           "days": 14,
           "analyzed_at": "2026-09-05T07:52:56.308501+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 0.51x로 해당 계정의 일반 게시물 중앙값에도 크게 못 미치는 저조한 반응을 기록했으며, 팔로워 대비 참여율 1.31%는 인플루언서 마케팅 업계 평균(1~3%) 하단에 머무는 수준이다. 참여 1건당 비용 1,681원은 마이크로 인플루언서 기준으로 다소 높은 편으로, 협찬 콘텐츠가 팔로워의 관심을 충분히 끌어내지 못한 점을 감안하면 390,000원의 상품 가액 대비 비용 효율성은 낮다고 판단된다. 향후 재협찬 시에는 콘텐츠 형식(피드→릴스 전환)이나 게시 시점 조율을 통해 계정 고유 도달력을 최대한 활용하는 방향을 검토할 필요가 있다.",
+        "final_at": "2026-09-22T08:56:06.148051+09:00"
       },
-      "last_written_reaction": "좋아요 213 · 댓글 19 · ER 1.3% · 평소대비 0.5x (D+30)"
+      "last_written_reaction": "좋아요 213 · 댓글 19 · ER 1.3% · 평소대비 0.5x (확정)"
     }
   ],
   "flags": {

@@ -134,7 +134,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
         "er": 0.027486187845303867,
         "vs_baseline": 0.23918269230769232,
@@ -341,7 +341,7 @@
         "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.1005524861878453,
         "vs_baseline": 0.9043478260869565,
@@ -373,7 +373,7 @@
       "first_seen": "2026-08-22",
       "posted_at": "2026-08-20T23:37:58.000Z",
       "permalink": "https://www.instagram.com/p/DcR65dvhwd_/",
-      "thumbnail": "https://instagram.fmid1-3.fna.fbcdn.net/v/t51.82787-15/779049000_18062888351759905_4102065871013352250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2ODIxMTc4MjMzMzgyNjk0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HV8tbu7axTIQ7kNvwHozcz5&_nc_oc=AdrQ2OQQTsoVYy8GRRjX8Q1INEOE9h_ZTEPbS7gsHx75mEpp4SXbEfV-bdgv8OgmOKzbjv7NlKiAbYPm-ldlr-Km&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmid1-3.fna&_nc_gid=l0bOh00WhHqlfpwVZveHYg&_nc_ss=7a22e&oh=00_AQJRrI4bRRZaTCxCLj18fEZM8Anx3Yqc1Z7pkXJ3-vDPUg&oe=6AB63B2D",
+      "thumbnail": "https://instagram.fntr2-1.fna.fbcdn.net/v/t51.82787-15/779049000_18062888351759905_4102065871013352250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2ODIxMTc4MjMzMzgyNjk0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=taxreaVZdbMQ7kNvwFBAMW5&_nc_oc=Adq8mdZbukmyp1Y4r3dzc_VwJVF6F-6pr4NDDqNI-7iEzGXRgHtopVtsKFtQqnVj2I8KHOL9UtBdX--HmtzMugWl&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fntr2-1.fna&_nc_gid=UIQIErPUY6fcDjzyv8mW3g&_nc_ss=7a22e&oh=00_AQIHDJEvVjdKk0TsIsfwFyTG5EyHk51cb-4-SDvTLxyY_g&oe=6AB78CAD",
       "caption": "정체기 다들 어떻게 뚫으셧나요..（•̥̥̥ ࿁ •̥̥̥）\n\n빨리 더 빼고싶게 하는 셋뚜🐈 @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -577,15 +577,15 @@
         "n": 11,
         "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 32,
       "computed": {
         "er": 0.039640883977900554,
         "vs_baseline": 0.7777777777777778,
         "cost_per_eng": 347.2706155632985,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 267 · 댓글 20 · ER 4.0% · 평소대비 0.8x (D+30)",
+      "last_written_reaction": "좋아요 267 · 댓글 20 · ER 4.0% · 평소대비 0.8x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.35x로 부진한 초기 반응, 참여 1건당 573원은 팔로워 규모 감안 시 개선 여지 있음",
@@ -596,7 +596,9 @@
           "one_liner": "평소 대비 0.30x로 부진한 참여도지만 팔로워 대비 3.40% 참여율·405원/건은 소규모 계정 협찬 비용 효율로 수용 가능한 수준.",
           "days": 14,
           "analyzed_at": "2026-09-05T07:52:56.308501+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 3.96%는 소규모 계정(7K대) 기준으로 업계 평균(3~5%)에 부합하는 양호한 수치이며, 참여 1건당 비용 347원은 인플루언서 마케팅 단가 측면에서 효율적인 편이다. 다만 평소 대비 성과가 0.78배로 협찬 게시물이 해당 계정의 일반 콘텐츠보다 반응을 끌어내지 못했다는 점은 아쉬운 부분으로, 콘텐츠 포맷이나 훅(hook) 전략 개선이 필요하다. 종합하면 29만9천원 상당의 협찬 비용 대비 절대 참여 지표는 납득할 만한 수준이나, 계정 고유 팬덤 반응을 충분히 활용하지 못한 점을 감안하면 '보통' 수준의 가성비로 평가된다.",
+        "final_at": "2026-09-22T08:56:06.148051+09:00"
       }
     }
   ],

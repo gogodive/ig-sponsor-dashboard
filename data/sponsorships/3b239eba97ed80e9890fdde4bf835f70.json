@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-23T13:49:10.000Z",
       "permalink": "https://www.instagram.com/p/DcYoeSiD_wF/",
-      "thumbnail": "https://instagram.fpbc2-6.fna.fbcdn.net/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L0AzuJ-DrjkQ7kNvwGdZemv&_nc_oc=AdqaErteh5lfXrF6FuLygYvamdatC1udbNMxBDqo_Dxn3EJrqohjAOLwRnteEn3qoaU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpbc2-6.fna&_nc_gid=3ObIE6wu_dll7-sqzAl_yg&_nc_ss=7a22e&oh=00_AQLZ7AKdKo4URV0zvzpUE-VPwUt0oTKRM1ZdMRY1il1tLg&oe=6AB6386E",
+      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L0AzuJ-DrjkQ7kNvwGlzULs&_nc_oc=AdpYiknN1KbiEVV1fsMp5325SVICylgvG9AArcOfyfLLuqZ1VCKsuRzZ8q1nuFOYGho&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=J_U0mdYJ4ahaS9lJh2VQ6Q&_nc_ss=7a22e&oh=00_AQKVXH2oXiCp6hw5qB-q33mM8FwWfr6bgyrHmXZPKcVCOQ&oe=6AB789EE",
       "caption": "#제품제공 @laserin_swim \n바다에서 계곡에서 올 여름 꽉 채워서 딱복했어요🍑\n어렸을땐 물복파였던 저!!\n요즘엔 상큼하고 아삭아삭한 딱복이 너무 좋더라구요😘\n\n상큼한 딱복향 폴폴나는 수영복 너무 예쁘다!!!💗\n\n#라세린 #수영복 #딱복 #수영",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 236,
         "comments": 23
       },
-      "metrics_updated_at": "2026-09-21T08:05:01.479098+09:00",
+      "metrics_updated_at": "2026-09-22T08:56:06.148051+09:00",
       "history": [
         {
           "d": "2026-08-26",
@@ -197,23 +197,29 @@
           "views": null,
           "likes": 236,
           "comments": 23
+        },
+        {
+          "d": "2026-09-22",
+          "views": null,
+          "likes": 236,
+          "comments": 23
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 302.0,
         "n": 12,
-        "captured_at": "2026-09-21T08:05:01.479098+09:00"
+        "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.01737322243090958,
         "vs_baseline": 0.8576158940397351,
         "cost_per_eng": 133.2046332046332,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 236 · 댓글 23 · ER 1.7% · 평소대비 0.9x (D+28)",
+      "last_written_reaction": "좋아요 236 · 댓글 23 · ER 1.7% · 평소대비 0.9x (D+29)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.80x로 다소 부진하나 참여당 153원·참여율 1.5%는 소형 계정 기준 허용 범위 내로, 추가 관찰이 필요한 단계.",
@@ -435,7 +441,7 @@
         "captured_at": "2026-09-20T07:46:08.738573+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.017037832036490477,
         "vs_baseline": 0.8452579034941764,

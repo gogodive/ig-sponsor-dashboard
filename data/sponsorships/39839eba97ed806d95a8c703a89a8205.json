@@ -17,6 +17,44 @@
   "followers_notion": 10000,
   "posts": [
     {
+      "notion_row_id": "3e239eba-97ed-8010-9657-fbab7dda4b7e",
+      "url": "https://www.instagram.com/reel/DdiFPKFMqqf/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdiFPKFMqqf",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-21",
+      "first_seen": "2026-09-22",
+      "posted_at": "2026-09-21T02:27:14.000Z",
+      "permalink": "https://www.instagram.com/p/DdiFPKFMqqf/",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/815797776_18487104550107756_5620958445556376032_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk5MDc3NTI1MTY1MzAxMjEyNzE4NDg3MTA0NTQ0MTA3NzU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=TxC282bxZkEQ7kNvwHP3i3x&_nc_oc=AdrLFBwJ9soJ7xVhJa5ub6jWr-DoRS6F-hxiVKP8QeHnMfY04tngEFaQke5V-pnc6KI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=SI4YVg6PCOjLWXyIuOfdVw&_nc_ss=7a22e&oh=00_AQKuF0BgBwGZlvdREmrSNQbA8WnVy3bJQVj4BxJnyrD6rw&oe=6AB78383",
+      "caption": "물속에서는 더 예쁨 🩵🪽\n\n@intotheblue_store 🤿  #제품제공 \n\n날씨가 쌀쌀해져도 바다 포기 못 해…\n이번 가을, 겨울엔 이 슈트랑 오래오래 함께할 예정 💙\n\n✔️ 딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm(ST)\n\n#인투더블루 #딥바이브 #프리다이빙슈트 #프리다이빙",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "ssssssubin_",
+      "metrics": {
+        "views": 6135,
+        "likes": 160,
+        "comments": 10
+      },
+      "metrics_updated_at": "2026-09-22T08:56:06.148051+09:00",
+      "history": [
+        {
+          "d": "2026-09-22",
+          "views": 6135,
+          "likes": 160,
+          "comments": 10
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": 0.015800724974440003,
+        "vs_baseline": null,
+        "cost_per_eng": 558.8235294117648,
+        "cost_per_view": 15.484922575387124
+      },
+      "last_written_reaction": "조회 6,135 · 좋아요 160 · 댓글 10 · ER 1.6% (D+0)"
+    },
+    {
       "notion_row_id": "08439eba-97ed-8210-bf91-810a350ac86a",
       "url": "https://www.instagram.com/p/Dbb3zoyk3Sg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "shortcode": "Dbb3zoyk3Sg",
@@ -230,11 +268,11 @@
         "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": true,
-      "days_since_post": 51,
+      "days_since_post": 53,
       "computed": {
-        "er": 0.045068582625734814,
+        "er": 0.044892648015614836,
         "vs_baseline": 1.1940667490729295,
-        "cost_per_eng": 393.37474120082817,
+        "cost_per_eng": 196.68737060041408,
         "cost_per_view": null
       },
       "last_written_reaction": "좋아요 451 · 댓글 32 · ER 4.5% · 평소대비 1.2x (확정)",
@@ -261,6 +299,6 @@
     "account_unavailable": false
   },
   "child_db_id": "83839eba-97ed-8347-94c5-01f2a07ba8f0",
-  "followers": 10717,
+  "followers": 10759,
   "last_written_score": 119
 }

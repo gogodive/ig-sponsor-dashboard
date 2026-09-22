@@ -25,7 +25,7 @@
       "first_seen": "2026-09-04",
       "posted_at": "2026-08-21T19:31:00.000Z",
       "permalink": "https://www.instagram.com/p/DcUGALaEizX/",
-      "thumbnail": "https://instagram.fyyc2-1.fna.fbcdn.net/v/t51.82787-15/780087492_18113370581060224_4650497433759646002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2ODgyMzUwMTIwOTAxNTQ1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9VGyidrI9usQ7kNvwHN9vFO&_nc_oc=AdrKSRSI7OPUD8s4Tozx3eW1g5edW5smFbbOyGZW3VgaRuU61XdWn_x_6eCZJVVVS59OiQHdU4FiihTScFYtDkk1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyyc2-1.fna&_nc_gid=MhfM5dQzIJjjFokXD7IoFQ&_nc_ss=7a22e&oh=00_AQKMsqPQ877fBYw9hhTXvMV6v7gLOqlo75QQxPbw6z1AQA&oe=6AB629FC",
+      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/780087492_18113370581060224_4650497433759646002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2ODgyMzUwMTIwOTAxNTQ1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9VGyidrI9usQ7kNvwEtU3Uy&_nc_oc=Adrs7CiUQNOnM4AsZKu0l2p__gDpQ6RbZzD1oXTkj2rOgo2HZIdLH6X9HBzi0x9zWci2-rEuELgd0GoN87KCoE-2&_nc_ad=z-m&_nc_cid=1698&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=4Zp31REHMzqB8NpURSOMvg&_nc_ss=7a22e&oh=00_AQLS8wYE4LjD8qmLxZ609iSzLU0q7JLdskIIEA2vgGB25g&oe=6AB7B3BC",
       "caption": "운동할 때도 편하고 예쁜 게 최고 🤎✨ \n@secrets__fit\n\n허리 딱 잡아주는 레깅스라 허리라인이 잡히는데 브이컷으로 더더 얇아보이는 •••🫶🏻\n\n뒷태도 깔끔하게 예쁜 나시탑… 쫀쫀해서 몸에 촥 감겨요\n\n시크릿스 SECRETS \n#헬스 #운동복추천 #시크릿스 #SECRETS",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -151,8 +151,8 @@
         "n": 12,
         "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03170853021636409,
         "vs_baseline": 0.8121019108280255,
@@ -169,9 +169,11 @@
           "one_liner": "평소 대비 0.66x로 다소 부진하나 참여 1건당 436원은 합리적 수준—팔로워 7,923 규모 감안 시 중간 점검 단계에서 수용 가능한 성과.",
           "days": 14,
           "analyzed_at": "2026-09-05T07:52:56.308501+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 3.17%는 마이크로 인플루언서 기준 평균(2~3%)에 부합하며, 참여 1건당 비용 384원은 비교적 효율적인 수준이다. 다만 평소 대비 0.81배라는 수치는 협찬 게시물이 해당 계정의 일반 콘텐츠보다 낮은 반응을 얻었음을 의미하며, 팔로워 8,042명 규모에서 절대 노출·참여량 자체가 제한적이다. 98,000원의 상품 가액을 고려하면 비용 효율은 합격선이나, 콘텐츠 파급력 측면에서는 중립에 가까운 성과로 재협찬 시 콘텐츠 방향 협의가 필요하다.",
+        "final_at": "2026-09-22T08:56:06.148051+09:00"
       },
-      "last_written_reaction": "좋아요 245 · 댓글 10 · ER 3.2% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 245 · 댓글 10 · ER 3.2% · 평소대비 0.8x (확정)"
     }
   ],
   "flags": {
