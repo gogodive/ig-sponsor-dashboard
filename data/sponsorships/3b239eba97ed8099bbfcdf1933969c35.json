@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-22T06:37:36.000Z",
       "permalink": "https://www.instagram.com/p/DcVSSnBlBAF/",
-      "thumbnail": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/780949600_18098156039356140_4920765349249528916_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2OTE1ODkzMzc4ODQ5OTQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a80ssH9aHLAQ7kNvwHhA4YL&_nc_oc=AdqkAzqJ2wsDSZqGfl3sZFxexYA30OOlV1EEOvVqrW8Hkgx1yRd5EluB9lWPminQQiQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=XbKhlgVkIv7319HNiKECIg&_nc_ss=7a22e&oh=00_AQJ3o_iKz56An1EGwYBoqw1_XGeYRjabgtqeDvScrBHG5A&oe=6AB7B372",
+      "thumbnail": "https://instagram.fbri1-1.fna.fbcdn.net/v/t51.82787-15/780949600_18098156039356140_4920765349249528916_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2OTE1ODkzMzc4ODQ5OTQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjY2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a80ssH9aHLAQ7kNvwGAsla_&_nc_oc=Adp0Te_TGRepypLwnrKT3Gbt2hLH8q92OgDsO0FFVXIgT9zEaGHUWB8bnfTV7gbvctM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbri1-1.fna&_nc_gid=sk5fBobPbaZUmpM0TPrzdg&_nc_ss=7a22e&oh=00_AQLfNKyoNTUaNhS3tF_PaiHNLrKpSQghJPT__6eyOMPmHA&oe=6AB8CCB2",
       "caption": "라세린 포레스트 글로우 🌳🍏🧚🏼✨\n민트 아쿠아 컬러에 청량한 오로라 광택이 올라가 있어 빛이랑 각도에 따라 달라지는데, 진짜 매순간 영롱함이 미쳐요..˙✧˖° 🫧 💎\n⠀\n픽스드백은 가슴과 몸을 딱 잡아줘서 수영하는데 불편함이 없고 미들컷에 안정적인 가슴선으로 키큰 제가 입어도 너무 편했어요!\n전 컷을 살짝 올려 입었는데 그래서 더 만족합니동ㅎㅎ\n노출이 부담스러운 분들도 입기 좋을 것 같아요!\n⠀\n🌳🍏✨ @laserin_swim \n포레스트글로우 l Forest Glow [size S]\n• 두겹수영복(비침없음)\n• 포일수영복\n• 브라고",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -211,10 +211,10 @@
         "n": 6,
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.23224852071005916,
+        "er": 0.23020527859237536,
         "vs_baseline": 1.1893939393939394,
         "cost_per_eng": 439.49044585987264,
         "cost_per_view": null
@@ -229,9 +229,11 @@
           "one_liner": "평소 대비 1.20x 참여로 팔로워 650명 소규모 계정 치고 참여율 23.85%·건당 445원은 양호, 14일차 기준 비용 효율 긍정적.",
           "days": 14,
           "analyzed_at": "2026-09-06T07:42:59.494087+09:00"
-        }
+        },
+        "final_verdict": "팔로워 682명의 소규모 계정임에도 좋아요 121·댓글 36으로 참여율 23.02%를 기록했으며, 이는 평소 대비 1.19배 수준으로 협찬 콘텐츠가 유의미한 반응을 이끌어냈다. 참여 1건당 비용 439원은 나노 인플루언서 시장 기준으로 매우 효율적인 수치이며, 협찬 상품 가액 69,000원 대비 총 157건의 실질 참여(좋아요+댓글)를 확보한 점에서 비용 대비 가치는 충분히 긍정적으로 평가된다. 다만 릴스 조회수 데이터가 없어 도달 범위를 정확히 측정할 수 없는 한계가 있으므로, 향후 협찬 시 조회수 캡처를 필수로 요청하는 것이 권장된다.",
+        "final_at": "2026-09-23T08:32:03.611328+09:00"
       },
-      "last_written_reaction": "좋아요 121 · 댓글 36 · ER 23.2% · 평소대비 1.2x (D+30)"
+      "last_written_reaction": "좋아요 121 · 댓글 36 · ER 23.0% · 평소대비 1.2x (확정)"
     }
   ],
   "flags": {
@@ -241,6 +243,6 @@
     "account_unavailable": false
   },
   "child_db_id": "90c39eba-97ed-8267-a9a5-01258b6a98a9",
-  "followers": 676,
+  "followers": 682,
   "last_written_score": 119
 }

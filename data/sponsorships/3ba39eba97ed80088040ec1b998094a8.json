@@ -134,7 +134,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 40,
+      "days_since_post": 41,
       "computed": {
         "er": 0.027486187845303867,
         "vs_baseline": 0.23918269230769232,
@@ -341,7 +341,7 @@
         "captured_at": "2026-09-16T08:27:25.841469+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.1005524861878453,
         "vs_baseline": 0.9043478260869565,

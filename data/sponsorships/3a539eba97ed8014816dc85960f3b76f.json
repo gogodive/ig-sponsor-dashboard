@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-08T12:21:55.000Z",
       "permalink": "https://www.instagram.com/p/DdBqtS_PiMH/",
-      "thumbnail": "https://instagram.ftgz3-1.fna.fbcdn.net/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=AO5j0ZlWkcgQ7kNvwGKciBT&_nc_oc=AdqnJzOpBLebxqvJ3MkjUfGZ5YjRTg3-2hQe90gfRGJujp4_nyi9M5rTowchmWgcKYg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftgz3-1.fna&_nc_gid=CS136XJ9SwcxYCQZ0lRxYQ&_nc_ss=7a22e&oh=00_AQLKyS7DYHPDsjFlDCdZ7jyP4cMTXILJwGun7s1O1oE_WQ&oe=6AB79A80",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=AO5j0ZlWkcgQ7kNvwGo6SzT&_nc_oc=AdqwlXSqDfgoiQ_qURZMtL5qTYL_nC0a_5TyqltXUKKRn3-Qnl5m6PIPYfIhCISBG2Dmb1S60ug1iYt6MG3GRLK_&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=qrXSZJbkjzn7fVPBur4DxA&_nc_ss=7a22e&oh=00_AQLysuK3UnM2_qW_K3z4PLZfJPYVoW-CfVj5xBhepK7thg&oe=6AB8EC00",
       "caption": "#협찬 @laserin_swim \n\n실내 수영장만 있는 호텔에서 비키니는 부끄럽고\n예쁘게는 입고 싶고👉🏻👈🏻\n그럴때 입기 좋은 너무 예쁜 라세린 수영복🤍\n\n은은하게 반짝거리면서 비침없이 너무 예뻐요!!\n수영에 진심인 분들에게도 딱이에요🐳\n이중겹으로 되어있어 탄탄하게 잡아줘서 수영할때도 아주 좋답니당 \n(만년 5년차 수린이)\n\n#라세린 #수영복 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "areum_iiiii",
       "metrics": {
-        "views": 97003,
-        "likes": 3175,
-        "comments": 10
+        "views": 98901,
+        "likes": 3245,
+        "comments": 11
       },
-      "metrics_updated_at": "2026-09-22T08:56:06.148051+09:00",
+      "metrics_updated_at": "2026-09-23T08:32:03.611328+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -66,24 +66,35 @@
           "views": 97003,
           "likes": 3175,
           "comments": 10
+        },
+        {
+          "d": "2026-09-23",
+          "views": 98901,
+          "likes": 3245,
+          "comments": 11
         }
       ],
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 1.0201793721973094,
+        "er": 1.009299442033478,
         "vs_baseline": null,
-        "cost_per_eng": 10.832025117739404,
-        "cost_per_view": 0.35565910332670125
+        "cost_per_eng": 10.595823095823096,
+        "cost_per_view": 0.3488336821670155
       },
       "analysis": {
         "d3": {
           "one_liner": "조회 92.9만·참여율 96%로 팔로워 대비 폭발적 반응, 조회당 0.4원·참여당 12원의 극강 가성비로 협찬 효율 최상위권.",
           "days": 9,
           "analyzed_at": "2026-09-18T08:26:44.975577+09:00"
+        },
+        "d14": {
+          "one_liner": "팔로워 대비 참여율 100%·조회당 0.3원의 극강 효율로 중간점검 기준 이미 협찬비를 충분히 회수한 우수 게시물.",
+          "days": 14,
+          "analyzed_at": "2026-09-23T08:32:03.611328+09:00"
         }
       },
-      "last_written_reaction": "조회 97,003 · 좋아요 3,175 · 댓글 10 · ER 102.0% (D+13)"
+      "last_written_reaction": "조회 98,901 · 좋아요 3,245 · 댓글 11 · ER 100.9% (D+14)"
     },
     {
       "notion_row_id": "5c939eba-97ed-8326-a0bc-81fa130ec526",
@@ -94,7 +105,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-17T16:44:00.000Z",
       "permalink": "https://www.instagram.com/p/DcJftisGAqV/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/774156981_18609570631001307_5408230043179321675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NTg0MDE2Mzg3NDg5NzA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=636ZEe5lKO0Q7kNvwEdUBR2&_nc_oc=AdqpnuBKyUuFXWaHx1JCZv1si3wwk1PXWrrbpdgPS8EuAlwkz2wMeUl78elQkRRzRelLihIShZlY5Q5zVgKdJlYN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=v-_oVxVXgrXpx84hlPSsGw&_nc_ss=7a22e&oh=00_AQLqvdjigf-OfwSvlrm_eHKlAQ4tKrA1FmMHJQ9BQWz7zw&oe=6AB25AAC",
+      "thumbnail": "https://instagram.fgba1-1.fna.fbcdn.net/v/t51.82787-15/774156981_18609570631001307_5408230043179321675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NTg0MDE2Mzg3NDg5NzA5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vv8-g3Az4WUQ7kNvwF14oVk&_nc_oc=Adpi9KbBh4L9ZG8B18fYo2sa_K2LO7mnTn73XxmOzr0Rl1EydCM2qR7m_YxqoNZqarSoD5cu3joLwJmg8kaVYsio&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fgba1-1.fna&_nc_gid=imPywTkGTKQ8eie7OvbBDg&_nc_ss=7a22e&oh=00_AQKMXdw0nkdVQTl08H_UboPRi9HqMyepYxI6Jc3iqtRkXA&oe=6AB8F22C",
       "caption": "#협찬 @laserin_swim\n\n여름만 기다리는 물개였던 내가 올해는 첫 물놀이💦\n동네 한강수영장 덕분에 퇴근하고 잠시나마 힐링하기⭐️\n\n동네지만 꾸안꾸로 입은 \n🤍라세린 루미나 화이트 브이백 우먼👙\n세미하이컷으로 노출이 과하지 않으면서도 흔흔한 펄감이 있어 밤에도 빛나는 수영복✨\n화이트라 걱정했는데 전혀 비침없이 편하게 입을 수 있어서 너무 예쁜 #라세린 \n\n이거 입고 보홀 가고싶다..........🌈🥹\n\n#수영복추천 #수영복",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -251,7 +262,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 35,
+      "days_since_post": 36,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
@@ -282,6 +293,6 @@
     "account_unavailable": false
   },
   "child_db_id": "6df39eba-97ed-8314-b0a5-81d2c5d793ef",
-  "followers": 3122,
+  "followers": 3226,
   "last_written_score": 0
 }
