@@ -16,7 +16,7 @@ flags:
   overdue_days: 7            # 배송일 + N일 지나도 결과물 URL 없으면 업로드 누락 플래그
 
 claude:
-  model: claude-sonnet-4-6
+  model: claude-opus-5-5
   max_tokens_post: 500       # 게시물 최초 수집 시 한줄 평가
   max_tokens_final: 800      # 동결 시 최종 평가
   max_tokens_daily: 1500     # 일일 다이제스트
