@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-23T13:49:10.000Z",
       "permalink": "https://www.instagram.com/p/DcYoeSiD_wF/",
-      "thumbnail": "https://instagram.fitm1-1.fna.fbcdn.net/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L0AzuJ-DrjkQ7kNvwHbCvXH&_nc_oc=Adq3e0EwwHJ_9O97mJI_1WM7P9x7b1_zDJkJU3Mqgqw1wA79F98Ovst-7MNnTivpJlU-kaDddemjry4d9iWw7YpH&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fitm1-1.fna&_nc_gid=L4lW6aFN2MgiSjuirVhLLg&_nc_ss=7a22e&oh=00_AQLzdlwkquQ8fejXPsUyR7aGHjR8g_I3c-hoe17-rFef_Q&oe=6AB8DB6E",
+      "thumbnail": "https://instagram.fbne6-1.fna.fbcdn.net/v/t51.82787-15/780238071_18062835212773335_2183246968459790757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MDA5OTIwMTY5NzU5OTM3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjMwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pnvItben3HsQ7kNvwHvGU-R&_nc_oc=AdpiGO-wixv_BhBjHCe2FgE3ZMevhAzd6FrVfIVtSvBNYyb4nCU6YvrHIIe10sjSb1y4cxwVbssBvi9VOv7WcTnI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbne6-1.fna&_nc_gid=F5xOdr-8MW4LZ3Ob4sNG5Q&_nc_ss=7a22e&oh=00_AQJZ_oQAIrB1wSjThXkUg1O2_DF4y90EqBCBp2PwpnLDlg&oe=6ABA2CEE",
       "caption": "#제품제공 @laserin_swim \n바다에서 계곡에서 올 여름 꽉 채워서 딱복했어요🍑\n어렸을땐 물복파였던 저!!\n요즘엔 상큼하고 아삭아삭한 딱복이 너무 좋더라구요😘\n\n상큼한 딱복향 폴폴나는 수영복 너무 예쁘다!!!💗\n\n#라세린 #수영복 #딱복 #수영",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 12,
         "captured_at": "2026-09-23T08:32:03.611328+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.017306144352025758,
         "vs_baseline": 0.8543046357615894,
         "cost_per_eng": 133.72093023255815,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 235 · 댓글 23 · ER 1.7% · 평소대비 0.9x (D+30)",
+      "last_written_reaction": "좋아요 235 · 댓글 23 · ER 1.7% · 평소대비 0.9x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.80x로 다소 부진하나 참여당 153원·참여율 1.5%는 소형 계정 기준 허용 범위 내로, 추가 관찰이 필요한 단계.",
@@ -236,7 +236,9 @@
           "one_liner": "평소 대비 0.90x로 소폭 하회하나 참여 1건당 139원의 효율적 비용으로 중간 점검 기준 무난한 성과.",
           "days": 14,
           "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
-        }
+        },
+        "final_verdict": "팔로워 대비 참여율 1.73%는 소규모 계정 평균(1~3%) 범위 내에 있으나, 평소 게시물 대비 0.85배로 협찬 콘텐츠가 오히려 일반 게시물보다 낮은 반응을 얻어 브랜드 노출 효과가 제한적이었다. 다만 참여 1건당 비용 134원, 총 258건(좋아요+댓글) 참여 기준 환산 비용 약 34,572원으로 상품 가액 69,000원의 절반 수준이며, 절대 단가 자체는 나쁘지 않다. 그러나 릴스 조회수 데이터가 없어 실제 도달 범위를 검증할 수 없고, 평소 대비 성과 하락(-15%)을 감안하면 콘텐츠 기획 방향 개선 없이 재협찬 시 동일한 한계가 반복될 가능성이 높아 '비용 효율은 수용 가능하나 콘텐츠 효과는 미흡'으로 평가된다.",
+        "final_at": "2026-09-24T08:28:45.520554+09:00"
       }
     },
     {
@@ -447,7 +449,7 @@
         "captured_at": "2026-09-20T07:46:08.738573+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.017037832036490477,
         "vs_baseline": 0.8452579034941764,

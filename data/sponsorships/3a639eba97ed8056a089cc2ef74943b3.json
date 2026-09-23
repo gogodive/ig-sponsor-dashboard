@@ -25,7 +25,7 @@
       "first_seen": "2026-08-27",
       "posted_at": "2026-08-23T07:41:37.000Z",
       "permalink": "https://www.instagram.com/p/DcX-ThAsCLp/",
-      "thumbnail": "https://instagram.fpoa33-1.fna.fbcdn.net/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=IXk8Ac9-qj4Q7kNvwFNqsX2&_nc_oc=Adp4zw5iuDP43QJSq5XuL_5JwhHviG_i2sbZ0AUZIoNLS5BDtOqUfa6Br4TQCyToX5o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoa33-1.fna&_nc_gid=sq7nVMJndf7FT5AX84Gnbw&_nc_ss=7a22e&oh=00_AQKX9J2288HpFGZivJGBvc22vchBIWWSYq7xzGydaMHHvQ&oe=6AB8E85F",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/783947788_18375263677234219_8542610981736500597_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2OTkxNTYxNjU0OTE1MTQ2NTE4Mzc1MjYzNjcxMjM0MjE5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=IXk8Ac9-qj4Q7kNvwGHWYld&_nc_oc=Adp4L7oiH7qxy6jxeFtu8r1uuD7ex7Yijq3QKilbsmuOn5zpDDvG-w2JQKtbybJH1f4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=vldMemaA71fzzdHHc_bPZA&_nc_ss=7a22e&oh=00_AQLF9N7L2quypbe4pAyG22lxOS0sGSz171fInpGyCiWyQw&oe=6ABA39DF",
       "caption": "@secrets__fit \n\n필테가는 날도, 각 잡고 운동하는 날도\n편하고 예쁘게 🤍\n\n운동할 때만 입기엔 아까운\n데일리한 나만의 애슬레저 룩 \n@secrets__fit 🫧",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -206,8 +206,8 @@
           "comments": 6
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.007530120481927711,
         "vs_baseline": null,
@@ -224,9 +224,11 @@
           "one_liner": "팔로워 671명 소규모 계정에서 조회 1,627회를 기록했으나 좋아요 미집계·참여율 0.75%로 조회당 비용 25.5원은 다소 높아 효율 개선이 필요하다.",
           "days": 14,
           "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
-        }
+        },
+        "final_verdict": "팔로워 664명의 초소형 계정에서 조회수 1,674회는 팔로워 대비 2.5배 수준으로 도달 자체는 나쁘지 않으나, 좋아요가 측정 불가(-1) 수준이고 댓글 6건에 그쳐 실질 참여율 0.75%는 다이빙·수영 니치 마이크로 인플루언서 기준으로도 낮은 편이다. 참여 1건당 비용 8,300원, 조회 1회당 24.8원은 83,000원 협찬 규모 대비 효율이 좋지 않으며, 구매 전환을 유도할 만한 반응이 확인되지 않아 비용 대비 가치는 낮다고 판단된다.",
+        "final_at": "2026-09-24T08:28:45.520554+09:00"
       },
-      "last_written_reaction": "조회 1,674 · 좋아요 -1 · 댓글 6 · ER 0.8% (D+30)"
+      "last_written_reaction": "조회 1,674 · 좋아요 -1 · 댓글 6 · ER 0.8% (확정)"
     },
     {
       "notion_row_id": "25e39eba-97ed-8208-980b-011b41a5ca87",
@@ -334,7 +336,7 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 57,
+      "days_since_post": 58,
       "computed": {
         "er": -0.0015060240963855422,
         "vs_baseline": null,

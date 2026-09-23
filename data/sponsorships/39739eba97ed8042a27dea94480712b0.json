@@ -25,17 +25,17 @@
       "first_seen": "2026-09-16",
       "posted_at": "2026-09-14T18:32:12.000Z",
       "permalink": "https://www.instagram.com/p/DdRxzf-h-T1/",
-      "thumbnail": "https://instagram.fmex3-1.fna.fbcdn.net/v/t51.82787-15/809910459_18623311861054735_3208234476988703565_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjE4NjE4ODUwNzA0NzE1NzE4NjIzMzExODU1MDU0NzM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cDcv3M1qPUkQ7kNvwGF3J7K&_nc_oc=Adp-iZ1dN-7VE1r8ruFNvhwOPyGp6uwrKmvQfRZDbRVhUM4eCUR8GarVOrTdNRiSJio&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex3-1.fna&_nc_gid=slvXNdFDkAfUnnbM0Bb4-w&_nc_ss=7a22e&oh=00_AQKXvsF3CiCZ0UssoprzztNfrdEilUGdykl9Y9MexR63Sw&oe=6AB8CEC6",
+      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/809910459_18623311861054735_3208234476988703565_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk4NjE4NjE4ODUwNzA0NzE1NzE4NjIzMzExODU1MDU0NzM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=cDcv3M1qPUkQ7kNvwFikwkO&_nc_oc=AdqH3UCkEW2pEQTsry4djud8Osifg_q7Rn_vvjuPfIrxmCXqJIJPK_JRCp4KuC0tDMyjelkdEkfCGZ7T5z7BOT-e&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=vuoiNUcFnEGbzYm1GyobJw&_nc_ss=7a22e&oh=00_AQIZ1ur-xqt4H1aj7jfL0yvzrdAVx0dDu2O-I0xQOMSiDA&oe=6ABA2046",
       "caption": "빛내릴때 너무 이쁜 내 딥바이브 오로라핀 \n@intotheblue_store \n특히 울릉도에서 너무 이뻤던🤍\n\n롱핀마다 약간씩 길이가 다른데,\n딥바이브 오로라핀은 사진 찍을때도 비율 길어보이고\n투어 일정중에도 다리 피곤한감 덜하고 피닝할때도 쏘 이지🧜🏻‍♀️\n\n#딥바이브#인투더블루#프리다이빙장비#롱핀#울릉도",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "jjung.a__",
       "metrics": {
-        "views": 9200,
-        "likes": 156,
+        "views": 9341,
+        "likes": 158,
         "comments": 7
       },
-      "metrics_updated_at": "2026-09-23T08:32:03.611328+09:00",
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
       "history": [
         {
           "d": "2026-09-16",
@@ -84,23 +84,29 @@
           "views": 9200,
           "likes": 156,
           "comments": 7
+        },
+        {
+          "d": "2026-09-24",
+          "views": 9341,
+          "likes": 158,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": 14912.5,
         "eng_median": 197.5,
         "n": 12,
-        "captured_at": "2026-09-23T08:32:03.611328+09:00"
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.003966998466742924,
-        "vs_baseline": 0.6169321039396479,
-        "cost_per_eng": 889.5705521472393,
-        "cost_per_view": 15.76086956521739
+        "er": 0.00401567329455572,
+        "vs_baseline": 0.6263872590108969,
+        "cost_per_eng": 878.7878787878788,
+        "cost_per_view": 15.522963280162724
       },
-      "last_written_reaction": "조회 9,200 · 좋아요 156 · 댓글 7 · ER 0.4% · 평소대비 0.6x (D+8)",
+      "last_written_reaction": "조회 9,341 · 좋아요 158 · 댓글 7 · ER 0.4% · 평소대비 0.6x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소 절반 수준(0.48x)의 조회·참여로 출발해 참여당 973원·조회당 17.3원 모두 부진—3일차 시점에서 추가 드로우 필요.",
@@ -311,7 +317,7 @@
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.13297962958456033,
         "vs_baseline": 9.97080291970803,
@@ -343,5 +349,5 @@
   },
   "child_db_id": "e1239eba-97ed-83bf-966e-01ecff90a0de",
   "followers": 41089,
-  "last_written_score": 529
+  "last_written_score": 530
 }

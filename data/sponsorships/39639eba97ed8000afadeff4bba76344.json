@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17T03:22:55.000Z",
       "permalink": "https://www.instagram.com/p/DdX4bnzTyjy/",
-      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=3B_Veq3m7cEQ7kNvwGsnAHm&_nc_oc=AdrjscZHOeIFEPmUs9jvzTay1xfdmr-3TSgH5AEasTEJdosIir1CgEIaAETnXr7hFek&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=or8RYa4cxrv2gzRX-oHb0w&_nc_ss=7a22e&oh=00_AQLCwkZAuRLY8iBU5BtzaaLewKwzxcbuf9kVyTPvfIAgJw&oe=6AB8D7F2",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=laLYcHfld5oQ7kNvwEK4NiJ&_nc_oc=AdrjoOt84KLneuCJICdDsxpgiQUAg93j-ep4GxBeWWadeejMvxD9Qg34OqhUGi-N5dk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=qUBRFxTl2r-y_RaMg6_7Wg&_nc_ss=7a22e&oh=00_AQLyvLIOZYqNSoFs_VzeC37O5rkgANLVTsCYHHxKvKXtvQ&oe=6ABA2972",
       "caption": ".\n#제품제공 \n@laserin_swim \n은은한 블루에\n반짠반짝 펄✨\n인어공주 같쟈나🧜‍♀️",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swim__jiwoo_",
       "metrics": {
-        "views": 2402,
+        "views": 2428,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-09-23T08:32:03.611328+09:00",
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -72,23 +72,29 @@
           "views": 2402,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-09-24",
+          "views": 2428,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": 11241,
         "eng_median": 106,
         "n": 9,
-        "captured_at": "2026-09-23T08:32:03.611328+09:00"
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
       },
       "frozen": false,
-      "days_since_post": 5,
+      "days_since_post": 6,
       "computed": {
         "er": -0.0001892147587511826,
-        "vs_baseline": 0.21368205675651633,
+        "vs_baseline": 0.21599501823681166,
         "cost_per_eng": -34500.0,
-        "cost_per_view": 14.363030807660284
+        "cost_per_view": 14.209225700164744
       },
-      "last_written_reaction": "조회 2,402 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.2x (D+5)",
+      "last_written_reaction": "조회 2,428 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.2x (D+6)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.21x 저조한 조회에 조회당 비용 14.8원, D+3 시점에서 협찬 효율이 매우 낮아 추가 모니터링 필요.",
@@ -209,7 +215,7 @@
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": true,
-      "days_since_post": 79,
+      "days_since_post": 80,
       "computed": {
         "er": 0.0020813623462630085,
         "vs_baseline": 1.1578947368421053,

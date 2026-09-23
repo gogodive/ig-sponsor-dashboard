@@ -15,13 +15,66 @@
   "output_link_prop": null,
   "username": "u0_swim",
   "followers_notion": 2191,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "84339eba-97ed-824f-8354-011ad8b7d068",
+      "url": "https://www.instagram.com/reel/DdbvdEOvenC/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdbvdEOvenC",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-20",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-18T15:21:27.000Z",
+      "permalink": "https://www.instagram.com/p/DdbvdEOvenC/",
+      "thumbnail": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-15/813817700_17947126329309362_7578993844548327507_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4ODk5MDYwMDU1OTg0Nzg3NDE3OTQ3MTI2MzI2MzA5MzYy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Nvcg1Wu2sF0Q7kNvwFF8_2B&_nc_oc=AdoxcN7s0WCrqn1hki8wy9WDA6L5e19jBmdBY28L2J-HziLcBorUTU0EPjJKo7iZTPk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_gid=T5s2oQU76b4SIt3qUQFx0w&_nc_ss=7a22e&oh=00_AQLWu_KqQnqVPjvPqtHe5BWCJgMqUXOrRktbH7MundrS3g&oe=6ABA3310",
+      "caption": "#협찬 @laserin_swim 🫧\n\n타브랜드 실리콘 수경 케이스 써봤는데\n생각보다 빡빡해서 수경 넣고 뺄 때마다\n은근 힘들었던 적이 있어요😂\n\n근데 라세린 말랑가드는\n이름 그대로 진짜 말랑말랑🫶🏻\n수경 넣고 빼기가 훨씬 편해요.\n\n그리고 컬러 조합 너무 예쁨…🩰\n솜사탕 + 마시멜로우 느낌이라\n수영장 갈 때 괜히 기분 좋아지는 컬러🤍\n\n고리도 있어서 수영가방에 걸어둘 수 있는데\n저처럼 수경 자주 깜빡하는 사람한테는\n이게 은근 꿀템이에요ㅋㅋ\n\n그리고 제일 마음에 들었던 건\n지비츠로 꾸밀 수 있다는 거!\n\n저는 귀여운 것도 좋지만\n내 ",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "u0_swim",
+      "metrics": {
+        "views": 5052,
+        "likes": 36,
+        "comments": 4
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": 5052,
+          "likes": 36,
+          "comments": 4
+        }
+      ],
+      "baseline": {
+        "views_median": 5840.0,
+        "eng_median": 123.0,
+        "n": 8,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 5,
+      "computed": {
+        "er": 0.018214936247723135,
+        "vs_baseline": 0.8650684931506849,
+        "cost_per_eng": 300.0,
+        "cost_per_view": 2.375296912114014
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.87x로 소폭 하회하나, 조회당 2.4원·참여당 300원으로 비용 효율은 합리적 수준—5일차 기준 추이 지속 관찰 권장.",
+          "days": 5,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "조회 5,052 · 좋아요 36 · 댓글 4 · ER 1.8% · 평소대비 0.9x (D+5)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "3f239eba-97ed-82bd-ab00-0135a687e5eb",
-  "followers": 2191
+  "followers": 2196,
+  "last_written_score": 87
 }

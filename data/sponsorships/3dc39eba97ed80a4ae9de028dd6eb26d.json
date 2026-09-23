@@ -1,0 +1,73 @@
+{
+  "page_id": "3dc39eba-97ed-80a4-ae9d-e028dd6eb26d",
+  "row_title_raw": "_zoetable",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "",
+  "product_value_krw": 83000,
+  "delivery_date": "2026-09-16",
+  "output_link_prop": null,
+  "username": "_zoetable",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "47839eba-97ed-831d-86ca-81737bb061b1",
+      "url": "https://www.instagram.com/reel/DdgQjIItTH9/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdgQjIItTH9",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-21",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-20T09:34:09.000Z",
+      "permalink": "https://www.instagram.com/p/DdgQjIItTH9/",
+      "thumbnail": "https://instagram.fvlc6-2.fna.fbcdn.net/v/t51.82787-15/809107361_18017072612936722_9161299557568311406_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDI2MjA1MjUxMjE1MDAxMzE4MDE3MDcyNjA2OTM2NzIy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=iOXle2CUGuAQ7kNvwF3B9KM&_nc_oc=AdoGb9DGZ0CGlgTWFQQxwQmC3uMCiYRYfb5VtokyCoanScJX3ajvkW-CuHduFW0KAO4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvlc6-2.fna&_nc_gid=YfwWHc9fW2ukdsrWj6uC2w&_nc_ss=7a22e&oh=00_AQJ0NM0amp9QDgtLjwy6dzECdiB2_bz3lrvCS9gV4znDrQ&oe=6ABA42D7",
+      "caption": "밋밋하고 통짜 허리처럼 보이는 핏 말고,\n개미허리 만들어주는 @secrets__fit 운동복 \n\n날씬해 보이는 크롭 디자인인데\n부담스럽지 않아서 일상에서도 예쁘게 입을 수 있어요\n\n상의는 프리미엄 국산 원단이라 촉감이 정말 부드럽고,\n하의는 V컷 절개 라인이 허리를 잡아줘서\n허리라인이 더 잘록해 보이는 핏✨\n\n운동할 때도, 일상에서도\n날씬하고 건강하게, 시크릿스💚\n\n상의: 개미허리 필라테스복 요가복 반팔\n  오프화이트 S\n하의: V컷 레깅스 8부 요가 필라테스 애플힙 스포츠\n  블랙 M\n\n#제품제공 #시크릿스 #레깅스추천 #운동복추",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "_zoetable",
+      "metrics": {
+        "views": 4503,
+        "likes": -1,
+        "comments": 17
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": 4503,
+          "likes": -1,
+          "comments": 17
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.0004639698419602726,
+        "vs_baseline": null,
+        "cost_per_eng": 5187.5,
+        "cost_per_view": 18.43215634021763
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "조회·참여 모두 평균 이하로 추정되며, 참여 1건당 비용 5,188원은 협찬 효율 기준으로 높은 편—추가 노출 유도 필요.",
+          "days": 3,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "조회 4,503 · 좋아요 -1 · 댓글 17 · ER 0.0% (D+3)"
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "11339eba-97ed-83c1-8036-8173a681219b",
+  "followers": 34485
+}

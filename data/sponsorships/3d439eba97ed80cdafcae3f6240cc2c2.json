@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "yoomswim",
   "followers_notion": 888,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "57039eba-97ed-8313-9930-81cb6cb7f798",
+      "url": "https://www.instagram.com/p/Ddfvby3CXcH/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "Ddfvby3CXcH",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-21",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-20T04:36:04.000Z",
+      "permalink": "https://www.instagram.com/p/Ddfvby3CXcH/",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/808192326_18107009741167790_5228449273816689829_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MDExNDA2NjY1MzE3MjM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzE4NC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=htpjO0YXt7MQ7kNvwGbNm0d&_nc_oc=AdplNi6dBw6hMRhHDS2RizfedDUbHn1Xoutq152PsnTtyZ3Phav09O1BR2pR8NVb6RU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=z-atR9ZKLmfcCc9-5ekrzA&_nc_ss=7a22e&oh=00_AQIIJbiCd2wmClrf29FDqocq0HX2BOx2c7JV3StmUY7Ggg&oe=6ABA34B5",
+      "caption": "@laserin_swim #제품제공\n\n라세린 말랑가드 수경케이스 블루🩵\n\n이름처럼 말랑말랑 하고 수경을 넣고 \n빼기 쉬워서 손이 많이 갈 것 같은 케이스!\n\n예전에 다이소 수경케이스를 사봤는데 \n안에 구조 때문에 수경에 기스 날 것 같더라고요🥲\n\n하지만 말랑가드는 안에 코걸이 고정 하는 부분이 \n같은 말랑 재질이라 걱정 없어요!!🤩\n\n실용성도 좋지만 지비츠로 꾸밀 수 있는데 너무 귀엽죠? \n고리 구멍도 있어서 키링을 걸면 귀엽기도 하고 \n제꺼를 한눈에 구별할 수 있을 것 같아요~⭐️\n\n컬러는 총 5가지: \n블루, 핑크, 옐로우, 민",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "yoomswim",
+      "metrics": {
+        "likes": 59,
+        "comments": 7
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": null,
+          "likes": 59,
+          "comments": 7
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 221,
+        "n": 11,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.06489675516224189,
+        "vs_baseline": 0.2986425339366516,
+        "cost_per_eng": 181.8181818181818,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.30x로 저조하나 참여당 182원·참여율 6.49%로 소규모 계정 특성상 비용 효율은 양호, 추가 관찰 필요.",
+          "days": 3,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 59 · 댓글 7 · ER 6.5% · 평소대비 0.3x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "ba639eba-97ed-822f-8855-01da30498199",
-  "followers": 888
+  "followers": 1017,
+  "last_written_score": 30
 }

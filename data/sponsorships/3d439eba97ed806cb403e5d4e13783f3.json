@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "jimiiii",
   "followers_notion": 1620,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "11039eba-97ed-8237-8faa-01fc26131ff3",
+      "url": "https://www.instagram.com/p/DdhkPjbEfHY/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdhkPjbEfHY",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-21",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-20T21:36:45.000Z",
+      "permalink": "https://www.instagram.com/p/DdhkPjbEfHY/",
+      "thumbnail": "https://instagram.fngo3-1.fna.fbcdn.net/v/t51.82787-15/809146743_18489226147098059_3505399472290071960_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDYyOTQwNTU5MjUxMjQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=wzPVoni6JPEQ7kNvwHvkLIe&_nc_oc=Adot_dKW64gIlf85mIEnR9jb8DhrKl2Xyu6DWUBjAJSk9NK9ZntLl5ED5BKmot90GY0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fngo3-1.fna&_nc_gid=JPqW6WtgmhIZTtS5lbNCPQ&_nc_ss=7a22e&oh=00_AQJodG-7pVnh5RbHzh0pbwECJwY9S3Yz_9Ni2lrwJxBTeQ&oe=6ABA4ECF",
+      "caption": "수경케이스도 이렇게 말랑하고 이쁠 수 있구나💕 \n\n@laserin_swim #말랑가드수경케이스 #제품제공\n\n다합에서 하루가 멀다 하고 수영을 하다 보니 기존 수경케이스는 부서져서 버린 지 오래되고 수경을 수모에 돌돌 싸 들고 다녔어요\n\n그러다 만난 라세린 말랑가드 수경케이스!\n\n이름처럼 정말 말랑말랑해서 수경을 넣고 빼기가 훨씬 편했어요\n\n중간에 막힘없는 구조라 물기도 편리하게 관리할 수 있고\n고리가 있어서 가방에 달고 다니기도 좋아요 👍\n\n무엇보다 지비츠로 꾸꾸 할 수 있는 것이 너무 귀엽지 않나요?🥰\n\n실용성과 귀여움 모두 챙길",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "jimiiii",
+      "metrics": {
+        "likes": 37,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": null,
+          "likes": 37,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 97.5,
+        "n": 4,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.0226576852418861,
+        "vs_baseline": 0.37948717948717947,
+        "cost_per_eng": 324.3243243243243,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.38x로 저조한 초기 반응, 참여 1건당 324원은 팔로워 규모 감안 시 비효율 구간 진입 중.",
+          "days": 3,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 37 · 댓글 0 · ER 2.3% · 평소대비 0.4x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "84739eba-97ed-820d-9998-01c05cdaa118",
-  "followers": 1620
+  "followers": 1633,
+  "last_written_score": 38
 }

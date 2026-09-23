@@ -15,13 +15,65 @@
   "output_link_prop": null,
   "username": "zoo_hyeon_",
   "followers_notion": 832,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "b7439eba-97ed-825d-9635-019f727e0e9b",
+      "url": "https://www.instagram.com/p/DdfeLrAGlKW/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdfeLrAGlKW",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-20",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-20T02:05:19.000Z",
+      "permalink": "https://www.instagram.com/p/DdfeLrAGlKW/",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/819031271_18457485439188505_2982401506311518687_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDAzODc0MTg4ODQ4NjU4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8TvgBVrObcYQ7kNvwF5UTVw&_nc_oc=AdqnEl6TQr5gN3cvJu3yp2Vjn00D9Zo7Yb8gdfoeNViNME2njWC-9iAvHFA3EZwK7uQ&_nc_ad=z-m&_nc_cid=1479&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=_PHqjTFvbb-mv72hSzDbCQ&_nc_ss=7a22e&oh=00_AQJZ_SbTEkp-zIFBJYiQTo_twKdAupxloF68cRcO5z6LFA&oe=6ABA1A7B",
+      "caption": "@laserin_swim 🤍\n라세린에서 보내주신 신상비늘✨👀\n실물이 진짜 영롱.. 용왕님 보러갈때 입기 딱ㅎ\n(아직까지 뵌적은 없음) \n딥스 맞춤컬러🌿ㅋㅋ  반짝반짝 탄탄해서 더 조아요\n\n마지막에 우리쌤 뉴 물놀이 장난감 타는영상두 있음!\n발 안차도 슝슝 신기하조. 엄청 재밌어서 자랑하기",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "zoo_hyeon_",
+      "metrics": {
+        "likes": -1,
+        "comments": 11
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": null,
+          "likes": -1,
+          "comments": 11
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 7.5,
+        "n": 12,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.012195121951219513,
+        "vs_baseline": 1.3333333333333333,
+        "cost_per_eng": 6900.0,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 1.33배 참여로 선방했으나, 참여 1건당 비용 6,900원은 팔로워 820명 규모를 고려하면 효율 개선 여지가 있음.",
+          "days": 3,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 1.2% · 평소대비 1.3x (D+3)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a8039eba-97ed-830b-bde3-811111364a2e",
-  "followers": 832
+  "followers": 820,
+  "last_written_score": 133
 }

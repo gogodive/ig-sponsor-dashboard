@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "153_hyun",
   "followers_notion": 3870,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "0fa39eba-97ed-82b7-b5e0-015fb13f88f6",
+      "url": "https://www.instagram.com/p/DdisPQQGRTB/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdisPQQGRTB",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-22",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-21T08:05:52.000Z",
+      "permalink": "https://www.instagram.com/p/DdisPQQGRTB/",
+      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v_mBFjWLxAYQ7kNvwH6z7LT&_nc_oc=AdoiaAzic2gR7-Nj6w4vEdeL7OPhjqFRkCdjYd-YgA-MmcmXIOow7uQxyTI7-hn8Gps&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=FxjxPSEktm2LIcRjv5q-sg&_nc_ss=7a22e&oh=00_AQIej2WCdMXRpkIL9eQlZD1bmC3hIb0iVZzJ0UMNUls9dA&oe=6ABA2E36",
+      "caption": "#협찬 @laserin_swim \n난 인간 복숭아가 되겠서,,🍑\n복숭아 빛깔 아주 반짝반짝 존재감 확실해✨\n\n👙라세린 물복 \n\n✔155 / 44 / XS 착용\n·\t두겹, 신축성 굳\n·\t브라캡고리O\n·\t가슴선 높음\n·\t더블 크로스백\n\n백타입이 너무 예뿌죵✌🏻\n이번에 착용한 사이즈는 타이트해서 \n몸을 잡아주는 느낌이 냥냥했다요 !\n풀장에도 담궈버리고싶다…\n\n#라세린 #수영복 #실내수영복 #수영복코디",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "153_hyun",
+      "metrics": {
+        "likes": -1,
+        "comments": 11
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": null,
+          "likes": -1,
+          "comments": 11
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 15,
+        "n": 7,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.0025490695895997962,
+        "vs_baseline": 0.6666666666666666,
+        "cost_per_eng": 6900.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "fdd39eba-97ed-8220-be14-81b99cc3e66c",
-  "followers": 3870
+  "followers": 3923,
+  "last_written_score": 67
 }

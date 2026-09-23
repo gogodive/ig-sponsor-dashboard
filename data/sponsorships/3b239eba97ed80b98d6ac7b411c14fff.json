@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-23T05:04:54.000Z",
       "permalink": "https://www.instagram.com/p/DcXseh6k_ec/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/780909612_17982836607099234_2781756207676470601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTgzNzA3NjQ1NTQ4NjA3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oE1tWZSmL-0Q7kNvwHqKE0g&_nc_oc=AdrTTTfOeIqQmqQPYbSju5OK_aW6cHHEDW0paOsGBQsqVL5HEhNmVOfKtDacKR4grAo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=vynvTsQH1Au4AKVNLh8RFQ&_nc_ss=7a22e&oh=00_AQJ6l7uYV9rYc0LVD-aRSGvrkdXQ6xhM4_gqiiebxZwvyw&oe=6AB8CF13",
+      "thumbnail": "https://instagram.fpbc2-3.fna.fbcdn.net/v/t51.82787-15/780909612_17982836607099234_2781756207676470601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTgzNzA3NjQ1NTQ4NjA3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oE1tWZSmL-0Q7kNvwF4Nv8k&_nc_oc=Ado8IvdqVJSlzUeRKvI_t1TvgELznWfP2nvkH2cpzybcgvDYVtyp_hp1ydHXxqCpcy6DRXtS3b-rmWbC5VzZk_57&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpbc2-3.fna&_nc_gid=BN8262fKkzXLIZsIxRbxZg&_nc_ss=7a22e&oh=00_AQKsacHaki5x7V2XEjBC1Xti9ikCtVI0hoaDRTY5IR46lw&oe=6ABA2093",
       "caption": "𝙭 𝙇𝘼𝙎𝙀𝙍𝙄𝙉 𝙥𝙚𝙖𝙘𝙝🍑 #제품제공\n\n물복파 모여라~~~~💦🩷\n사실 복숭아는 뭔들 좋아해요 전ㅎㅎ🫶🏻\n\n라세린 신상 물복 수영복을 보면 와우껌 플럼맛(?) 생각나지 않나요..?\n어쨋든 상큼달달 하다는 말🥰🫧💕\n\n𝙢사이즈 착용 169/54\n💡라세린은 웬만한 수영복 다 𝙢사이즈로 착용해요\n\n@laserin_swim #라세린 #라세린수영복 #광진해변 #스노쿨",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 12,
         "captured_at": "2026-09-23T08:32:03.611328+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.024544179523141654,
         "vs_baseline": 1.1666666666666667,
         "cost_per_eng": 492.85714285714283,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 127 · 댓글 13 · ER 2.5% · 평소대비 1.2x (D+30)",
+      "last_written_reaction": "좋아요 127 · 댓글 13 · ER 2.5% · 평소대비 1.2x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.17배 참여로 준수한 출발이나, 566원/건 비용 효율은 팔로워 규모 감안 시 추가 확산 여부를 지켜봐야 최종 판단 가능.",
@@ -236,7 +236,9 @@
           "one_liner": "평소 대비 2.06배 참여로 선방 중이나, 팔로워 5,693명 규모에서 1건당 500원 비용은 추가 바이럴 없이는 효율 개선 여지가 크다.",
           "days": 14,
           "analyzed_at": "2026-09-07T07:48:02.919831+09:00"
-        }
+        },
+        "final_verdict": "팔로워 5,704명 규모의 마이크로 인플루언서로서 참여율 2.45%는 인스타그램 평균(1~3%)의 중상위권에 해당하며, 평소 대비 1.17배의 반응을 이끌어낸 점은 협찬 콘텐츠로서 무난한 성과다. 참여 1건당 비용 493원은 마이크로 인플루언서 기준으로 수용 가능한 수준이나, 다이빙·수영 브랜드 특성상 릴스가 아닌 피드 게시물이어서 노출 확산력이 제한적이었고 팔로워 대비 도달 측정이 불가한 점은 아쉬운 부분이다. 전반적으로 69,000원 협찬 가액 대비 비용 효율은 '보통' 수준으로, 재협찬 시 릴스 포맷 또는 스토리 스와이프업 병행을 조건으로 걸면 대비 효과를 높일 수 있을 것으로 판단된다.",
+        "final_at": "2026-09-24T08:28:45.520554+09:00"
       }
     }
   ],

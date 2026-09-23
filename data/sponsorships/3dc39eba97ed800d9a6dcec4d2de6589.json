@@ -1,0 +1,80 @@
+{
+  "page_id": "3dc39eba-97ed-800d-9a6d-cec4d2de6589",
+  "row_title_raw": "slender_seoi",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "2292",
+  "product_value_krw": 83000,
+  "delivery_date": "2026-09-16",
+  "output_link_prop": null,
+  "username": "slender_seoi",
+  "followers_notion": 2292,
+  "posts": [
+    {
+      "notion_row_id": "a5c39eba-97ed-8217-bb71-010142bb8a65",
+      "url": "https://www.instagram.com/reel/DdgCXehx4Z7/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdgCXehx4Z7",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-21",
+      "first_seen": "2026-09-24",
+      "posted_at": "2026-09-20T07:25:49.000Z",
+      "permalink": "https://www.instagram.com/p/DdgCXehx4Z7/",
+      "thumbnail": "https://instagram.fclq2-1.fna.fbcdn.net/v/t51.82787-15/818172115_18339185569281403_2912590662241059339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDE5OTY3OTI3MDIyNTUzMTE4MzM5MTg1NTYzMjgxNDAz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=LJr8x017aLUQ7kNvwHwyUiF&_nc_oc=Adruyes-UlNPgT8WD1ckbZNlp7I2ZsgyFemZAvmBBvgBOepa-nBepIWHJ8cBbOTrVlSFCDWPW_FB7cjCHAJzIBgE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fclq2-1.fna&_nc_gid=9OchfUb6TAM_lqd68Buwvw&_nc_ss=7a22e&oh=00_AQIT6EGRkbh8yUq5_67-Tfiv3tjOd2H8WQG2HCAyMPYu5g&oe=6ABA2F17",
+      "caption": "광고:제품제공\n\n시크릿스 개미허리 반팔 + V핏 레깅스💜\n@secrets__fit \n소재는 가볍고 부드러운데\n핏은 또 탄탄하게 잡아줘서\n예쁘고 편하게 운동하기 딱 좋음 💪🌟\n\n상의｜라벤더 그레이 XS\n하의｜쉐도우 차콜 S\n\n#시크릿스 #운동복추천 #여자운동복 #레깅스추천 필라테스룩",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "slender_seoi",
+      "metrics": {
+        "views": 4642,
+        "likes": 140,
+        "comments": 17
+      },
+      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "history": [
+        {
+          "d": "2026-09-24",
+          "views": 4642,
+          "likes": 140,
+          "comments": 17
+        }
+      ],
+      "baseline": {
+        "views_median": 9304.0,
+        "eng_median": 235.5,
+        "n": 12,
+        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": 0.06152037617554859,
+        "vs_baseline": 0.4989251934651763,
+        "cost_per_eng": 528.6624203821656,
+        "cost_per_view": 17.880224041361483
+      },
+      "analysis": {
+        "d3": {
+          "one_liner": "평소 대비 0.5x로 부진하나 참여율 6.15%·참여당 529원은 소규모 계정 기준 수용 가능한 초기 효율.",
+          "days": 3,
+          "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
+        }
+      },
+      "last_written_reaction": "조회 4,642 · 좋아요 140 · 댓글 17 · ER 6.2% · 평소대비 0.5x (D+3)"
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "42939eba-97ed-8300-874c-81c9d2749bdb",
+  "followers": 2552,
+  "last_written_score": 50
+}
