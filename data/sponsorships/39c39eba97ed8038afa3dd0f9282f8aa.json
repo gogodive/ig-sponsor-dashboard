@@ -25,16 +25,16 @@
       "first_seen": "2026-09-12",
       "posted_at": "2026-09-10T09:39:29.000Z",
       "permalink": "https://www.instagram.com/p/DdGiNXqG9Zc/",
-      "thumbnail": "https://instagram.fmcz15-1.fna.fbcdn.net/v/t51.82787-15/802811069_18623468464061018_4989680644648041587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MzAxNTc3MzEyOTAzNTY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xNWwsCLBzj4Q7kNvwEIlgJs&_nc_oc=Adpa_LFCaidf-REJtvheUxPY9l3RAvGjD6nQhtyqRdvpJIPtqVXMscFUCfExRM2jtf0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmcz15-1.fna&_nc_gid=B0usVTP7nDHePFd8r2Xg9A&_nc_ss=7a22e&oh=00_AQLfrKVCVuVjO6_LObDg4u-kjcwtpxsgat-H9FwlnfE5_Q&oe=6ABA4566",
+      "thumbnail": "https://instagram.fbcn10-1.fna.fbcdn.net/v/t51.82787-15/802811069_18623468464061018_4989680644648041587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MzAxNTc3MzEyOTAzNTY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xNWwsCLBzj4Q7kNvwGDeLx9&_nc_oc=AdpXQp2IRcrl425D_h9h7Nf7IP1DDycmw8_P695KOiItVzi1mpckDCdQky5GNldahZ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn10-1.fna&_nc_gid=IvFMK6YRFXTzPa68xGmoog&_nc_ss=7a22e&oh=00_AQIujjHmeyQkv9PtHHsU38gouRrQGm2jIXMJBVeHoyyLSg&oe=6ABB96E6",
       "caption": "올여름 바다에서 거의 살다시피 보냈는데\n\n여름 지나가서 제일 아쉬운 건\n바다 프리다이빙 못 하는 거요🥲\n\n물공포증이 워낙 심해서\n바다 수영은 생각도 못하던 저였는데\n프리다이빙 장비빨 받아서\n올여름 바다에서 엄청 시간 보냈지 모예요!\n\n내년까지 또 우찌 기다리나 몰라요!!\n프리다이빙은 역시 장비빨이었다🙊\n\n장비는 인투더블루 스토어에서\n딥바이브 카본핀 착용했어요\n🤍\n\n@intotheblue_store \n#프리다이빙 #인투더블루 \n#딥바이브 #딥바이브핀 #그라데이션핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "okgun._.2",
       "metrics": {
-        "likes": 1641,
-        "comments": 106
+        "likes": 1652,
+        "comments": 107
       },
-      "metrics_updated_at": "2026-09-24T08:28:45.520554+09:00",
+      "metrics_updated_at": "2026-09-25T08:48:21.615407+09:00",
       "history": [
         {
           "d": "2026-09-12",
@@ -113,28 +113,39 @@
           "views": null,
           "likes": 1641,
           "comments": 106
+        },
+        {
+          "d": "2026-09-25",
+          "views": null,
+          "likes": 1652,
+          "comments": 107
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 2090.5,
         "n": 12,
-        "captured_at": "2026-09-24T08:28:45.520554+09:00"
+        "captured_at": "2026-09-25T08:48:21.615407+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
-        "er": 0.014936730506155951,
-        "vs_baseline": 0.8356852427648888,
-        "cost_per_eng": 176.58843732112192,
+        "er": 0.015039329685362517,
+        "vs_baseline": 0.841425496292753,
+        "cost_per_eng": 175.38374076179647,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 1,641 · 댓글 106 · ER 1.5% · 평소대비 0.8x (D+13)",
+      "last_written_reaction": "좋아요 1,652 · 댓글 107 · ER 1.5% · 평소대비 0.8x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.76x로 다소 저조하나 참여 1건당 194원·참여율 1.36%는 비용 효율 측면에서 양호한 출발.",
           "days": 3,
           "analyzed_at": "2026-09-14T08:00:37.433408+09:00"
+        },
+        "d14": {
+          "one_liner": "평소대비 0.84x로 계정 평균에 다소 못 미치지만, 참여 1건당 175원으로 비용 효율은 무난한 수준",
+          "days": 14,
+          "analyzed_at": "2026-09-25T08:48:21.615407+09:00"
         }
       }
     },
@@ -329,7 +340,7 @@
         "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
       "frozen": true,
-      "days_since_post": 60,
+      "days_since_post": 61,
       "computed": {
         "er": 0.00046169630642954856,
         "vs_baseline": 0.13921037868926567,

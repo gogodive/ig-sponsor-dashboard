@@ -25,7 +25,7 @@
       "first_seen": "2026-08-26",
       "posted_at": "2026-08-24T08:36:19.000Z",
       "permalink": "https://www.instagram.com/p/DcapGigRGSY/",
-      "thumbnail": "https://instagram.flba1-1.fna.fbcdn.net/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=H7pAod8RLG4Q7kNvwFNYw9X&_nc_oc=Adoildh48g15gtl0nKylgOXmo67ItsFuXpYi94fDqtLkz8NvD9y6YNzvRHEcLnjE9ak&_nc_ad=z-m&_nc_cid=1001&_nc_zt=23&_nc_ht=instagram.flba1-1.fna&_nc_gid=OD-K4pKupho6MKVPPxKGJw&_nc_ss=7a22e&oh=00_AQJjjs1R29U174gbedRzfgVOUnXl9X2Td9MWuJtpPVRa5A&oe=6ABA2BF5",
+      "thumbnail": "https://instagram.fngo4-2.fna.fbcdn.net/v/t51.82787-15/784428388_18620064478017741_5084933719212912705_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MDY2Njc5MDc1MjkwNDM0NDE4NjIwMDY0NDc1MDE3NzQx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7jdbMblrBqkQ7kNvwEtamVk&_nc_oc=AdrWojljlvqTzHkiJTxjZ8kXU4D_1U7f9A8Mjl2LD2BGAwabFONjpPQ4q4jVrc1-wDq9FVxCPXY5xfR-zXHx3sJS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fngo4-2.fna&_nc_gid=p3b5IBQNwaeK_9l0aDT1GQ&_nc_ss=7a22e&oh=00_AQLxHJhbi7_czUDEpIdTZtESB9Xv4HMjW0A--SrgqNKJ2w&oe=6ABB7D75",
       "caption": ".\n아직도 안타봤어?\n여름엔 e-foil\n\n👙 @laserin_swim \n\n#전동포일 #efoil\n#라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,15 +224,15 @@
         "n": 3,
         "captured_at": "2026-09-24T08:28:45.520554+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.009204777162831343,
         "vs_baseline": 1.853080568720379,
         "cost_per_eng": 202.53164556962025,
         "cost_per_view": 5.456095481670929
       },
-      "last_written_reaction": "조회 5,865 · 좋아요 149 · 댓글 9 · ER 0.9% · 평소대비 1.9x (D+30)",
+      "last_written_reaction": "조회 5,865 · 좋아요 149 · 댓글 9 · ER 0.9% · 평소대비 1.9x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.35x로 무난한 출발이나 팔로워 대비 참여율 0.81%·참여당 229원은 개선 여지가 있어 최종 성과 추이 모니터링 필요.",
@@ -340,7 +340,7 @@
         "captured_at": "2026-09-05T07:52:56.308501+09:00"
       },
       "frozen": true,
-      "days_since_post": 49,
+      "days_since_post": 50,
       "computed": {
         "er": 0.006641421497232741,
         "vs_baseline": 0.9156626506024096,
