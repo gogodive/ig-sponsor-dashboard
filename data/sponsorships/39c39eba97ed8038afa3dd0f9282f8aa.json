@@ -25,16 +25,16 @@
       "first_seen": "2026-09-12",
       "posted_at": "2026-09-10T09:39:29.000Z",
       "permalink": "https://www.instagram.com/p/DdGiNXqG9Zc/",
-      "thumbnail": "https://instagram.fbcn10-1.fna.fbcdn.net/v/t51.82787-15/802811069_18623468464061018_4989680644648041587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MzAxNTc3MzEyOTAzNTY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xNWwsCLBzj4Q7kNvwGDeLx9&_nc_oc=AdpXQp2IRcrl425D_h9h7Nf7IP1DDycmw8_P695KOiItVzi1mpckDCdQky5GNldahZ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn10-1.fna&_nc_gid=IvFMK6YRFXTzPa68xGmoog&_nc_ss=7a22e&oh=00_AQIujjHmeyQkv9PtHHsU38gouRrQGm2jIXMJBVeHoyyLSg&oe=6ABB96E6",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/802811069_18623468464061018_4989680644648041587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4MzAxNTc3MzEyOTAzNTY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WTtGAC6zpVkQ7kNvwGhO8ZW&_nc_oc=AdqH639SwZS54zPVqG4gZTWbpYLEHTuTbe179t69eoGwFg5-Yx3zhEKdtH_D_ChYk5g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=tHR4LsEGatiuVQlAIKTnHA&_nc_ss=7a22e&oh=00_AQLXluDccxESfS_UKblIXbmryiq3ExjqtGJcZRMODk2dMQ&oe=6ABCE866",
       "caption": "올여름 바다에서 거의 살다시피 보냈는데\n\n여름 지나가서 제일 아쉬운 건\n바다 프리다이빙 못 하는 거요🥲\n\n물공포증이 워낙 심해서\n바다 수영은 생각도 못하던 저였는데\n프리다이빙 장비빨 받아서\n올여름 바다에서 엄청 시간 보냈지 모예요!\n\n내년까지 또 우찌 기다리나 몰라요!!\n프리다이빙은 역시 장비빨이었다🙊\n\n장비는 인투더블루 스토어에서\n딥바이브 카본핀 착용했어요\n🤍\n\n@intotheblue_store \n#프리다이빙 #인투더블루 \n#딥바이브 #딥바이브핀 #그라데이션핀",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "okgun._.2",
       "metrics": {
-        "likes": 1652,
-        "comments": 107
+        "likes": 1660,
+        "comments": 108
       },
-      "metrics_updated_at": "2026-09-25T08:48:21.615407+09:00",
+      "metrics_updated_at": "2026-09-26T08:53:42.554678+09:00",
       "history": [
         {
           "d": "2026-09-12",
@@ -119,23 +119,29 @@
           "views": null,
           "likes": 1652,
           "comments": 107
+        },
+        {
+          "d": "2026-09-26",
+          "views": null,
+          "likes": 1660,
+          "comments": 108
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 2090.5,
+        "eng_median": 2092.0,
         "n": 12,
-        "captured_at": "2026-09-25T08:48:21.615407+09:00"
+        "captured_at": "2026-09-26T08:53:42.554678+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
-        "er": 0.015039329685362517,
-        "vs_baseline": 0.841425496292753,
-        "cost_per_eng": 175.38374076179647,
+        "er": 0.01514904847181403,
+        "vs_baseline": 0.8451242829827916,
+        "cost_per_eng": 174.49095022624434,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 1,652 · 댓글 107 · ER 1.5% · 평소대비 0.8x (D+14)",
+      "last_written_reaction": "좋아요 1,660 · 댓글 108 · ER 1.5% · 평소대비 0.8x (D+15)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.76x로 다소 저조하나 참여 1건당 194원·참여율 1.36%는 비용 효율 측면에서 양호한 출발.",
@@ -158,7 +164,7 @@
       "first_seen": "2026-07-30",
       "posted_at": "2026-07-25T14:51:34.000Z",
       "permalink": "https://www.instagram.com/p/DbOD05UJGsf/",
-      "thumbnail": "https://instagram.frtm1-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0OTExMDc1MjM0NDA0MjI3MTE4NjA3NTg4MzE4MDYxMDE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=twyI1nwGjhwQ7kNvwEzYX9I&_nc_oc=Adpl-8LxsrF8f5DfI2gZVHZXL4lzY9nT9FWzvfufqLgGh2paszwIbTQ17xbn9Fg6svY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frtm1-1.fna&_nc_gid=4v1fY26FvpW4QbPvMYnanA&_nc_ss=7a22e&oh=00_AQJmi9gSSHv4ClMvat9KYt7mf23mQUBs6fevUyJ2tz6ZyQ&oe=6AB38005",
+      "thumbnail": "https://instagram.flba1-1.fna.fbcdn.net/v/t51.82787-15/753545997_18607588327061018_1765430081980654218_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0OTExMDc1MjM0NDA0MjI3MTE4NjA3NTg4MzE4MDYxMDE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Oo2LKEEGunMQ7kNvwGUgkir&_nc_oc=Adrliq1cMjPNaGOe420dvbjKAzUM0mFadPMZ2dtn91LDcVU3uXmxAdXaG1dW3zEUJAZtFdjbusEHRH2AOmhKytWL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flba1-1.fna&_nc_gid=ZMDWnQsfungPatFexsyYvg&_nc_ss=7a22e&oh=00_AQLVa1bmpLSpKru6evRXZ0npxl7ihkOM7SpbDYZLgg0pvA&oe=6ABCF2C5",
       "caption": "프리다이빙 성공🫧\n\n저 이퀄 바보였는데\n프리다이빙도 장비빨 아니겠어요!\n카본핀 장착하고 프리다이빙 성공했지 모예요!\n\n바다로 떠날 날 얼마 안 남았쥬!\n바다 딱 기다려!\n💙\n\n딥바이브 카본 핀 정보 @intotheblue_store \n#고고다이브 #프리다이빙 #프리다이빙강습",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -340,9 +346,9 @@
         "captured_at": "2026-08-25T06:33:18.500073+09:00"
       },
       "frozen": true,
-      "days_since_post": 61,
+      "days_since_post": 62,
       "computed": {
-        "er": 0.00046169630642954856,
+        "er": 0.000462697181831424,
         "vs_baseline": 0.13921037868926567,
         "cost_per_eng": 5712.962962962963,
         "cost_per_view": 24.13928012519562
@@ -371,6 +377,6 @@
     "account_unavailable": false
   },
   "child_db_id": "ea439eba-97ed-8261-960d-012ffeefe81f",
-  "followers": 116960,
+  "followers": 116707,
   "last_written_score": 49
 }

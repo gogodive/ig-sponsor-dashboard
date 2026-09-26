@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-21T08:05:52.000Z",
       "permalink": "https://www.instagram.com/p/DdisPQQGRTB/",
-      "thumbnail": "https://instagram.fbsb3-1.fna.fbcdn.net/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v_mBFjWLxAYQ7kNvwGVLVSh&_nc_oc=Adpv4dCQ6jY0D1V3iiolCm-VpAAGOIbmEwCri0t5ABU7peMUZdTF6xKYPip3vB1kjH8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbsb3-1.fna&_nc_gid=5KaWuO4eW1N1LEwiEcVKFQ&_nc_ss=7a22e&oh=00_AQKu7RPhN8LHIOxt8upaB8o9EXw7Y4mHroGsWRyyvNFdyA&oe=6ABB7FB6",
+      "thumbnail": "https://instagram.fgba1-1.fna.fbcdn.net/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ehtfL0F4I2sQ7kNvwEl1vom&_nc_oc=AdrmzrW65MTje_gf0Qu1vNSIjOu3b9FuhEneCb2IAYXwQBV4SywJGKJCj1JCH4R6rGWYfzhYg8-_uGv7I9thT65B&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fgba1-1.fna&_nc_gid=L6e4FVmxSDaeJXekmLyjWA&_nc_ss=7a22e&oh=00_AQLDQPfxQrcuiGOCfiKEu66qwaLC-hoglT2hoWX84eKvWg&oe=6ABCD136",
       "caption": "#협찬 @laserin_swim \n난 인간 복숭아가 되겠서,,🍑\n복숭아 빛깔 아주 반짝반짝 존재감 확실해✨\n\n👙라세린 물복 \n\n✔155 / 44 / XS 착용\n·\t두겹, 신축성 굳\n·\t브라캡고리O\n·\t가슴선 높음\n·\t더블 크로스백\n\n백타입이 너무 예뿌죵✌🏻\n이번에 착용한 사이즈는 타이트해서 \n몸을 잡아주는 느낌이 냥냥했다요 !\n풀장에도 담궈버리고싶다…\n\n#라세린 #수영복 #실내수영복 #수영복코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-25T08:48:21.615407+09:00",
+      "metrics_updated_at": "2026-09-26T08:53:42.554678+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-09-26",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 15,
         "n": 7,
-        "captured_at": "2026-09-25T08:48:21.615407+09:00"
+        "captured_at": "2026-09-26T08:53:42.554678+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.0025490695895997962,
         "vs_baseline": 0.6666666666666666,
         "cost_per_eng": 6900.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+3)",
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)라 댓글 기준 평소대비 0.67x·참여당 6900원은 과소추정된 값이며, 판단 보류",

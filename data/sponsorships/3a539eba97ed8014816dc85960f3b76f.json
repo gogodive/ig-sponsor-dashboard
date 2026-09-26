@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-08T12:21:55.000Z",
       "permalink": "https://www.instagram.com/p/DdBqtS_PiMH/",
-      "thumbnail": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=9ejew2lKTkUQ7kNvwHFj-UA&_nc_oc=AdqkFdr94C3lke13EGe4rr6swBboTezbNRl3c6FgUUexpBmKKoR-ZKxQqKxanQx8TqI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=Wj6Lu-6AFfPBo-lA-kNEjw&_nc_ss=7a22e&oh=00_AQJi2nvHFZ9qQI8lNfsqlbv-6RZ38Nztsi7MsBStIfbOGg&oe=6ABB8F00",
+      "thumbnail": "https://instagram.fein1-2.fna.fbcdn.net/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=9ejew2lKTkUQ7kNvwEA9Z1i&_nc_oc=AdpFCdel2OrdgkU9ZOc3cQuQTD_zQFQ2AxZXN9pSZaqXfk0R3TXkS1eqgkjnehK2Iro&_nc_ad=z-m&_nc_cid=1207&_nc_zt=23&_nc_ht=instagram.fein1-2.fna&_nc_gid=DgbXUnAHUT5FaaDqdbjKQw&_nc_ss=7a22e&oh=00_AQLQ9t1m8Z8v6Rgxtc1J8pEPonDe3fx-xjPxtwRFWjNvIg&oe=6ABCE080",
       "caption": "#협찬 @laserin_swim \n\n실내 수영장만 있는 호텔에서 비키니는 부끄럽고\n예쁘게는 입고 싶고👉🏻👈🏻\n그럴때 입기 좋은 너무 예쁜 라세린 수영복🤍\n\n은은하게 반짝거리면서 비침없이 너무 예뻐요!!\n수영에 진심인 분들에게도 딱이에요🐳\n이중겹으로 되어있어 탄탄하게 잡아줘서 수영할때도 아주 좋답니당 \n(만년 5년차 수린이)\n\n#라세린 #수영복 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "areum_iiiii",
       "metrics": {
-        "views": 112356,
-        "likes": 3327,
+        "views": 114827,
+        "likes": 3351,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-25T08:48:21.615407+09:00",
+      "metrics_updated_at": "2026-09-26T08:53:42.554678+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -84,15 +84,21 @@
           "views": 112356,
           "likes": 3327,
           "comments": 11
+        },
+        {
+          "d": "2026-09-26",
+          "views": 114827,
+          "likes": 3351,
+          "comments": 11
         }
       ],
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
-        "er": 1.0347179169249845,
+        "er": 1.0421574705517669,
         "vs_baseline": null,
-        "cost_per_eng": 10.335530257639306,
-        "cost_per_view": 0.30705970308661756
+        "cost_per_eng": 10.261748958953005,
+        "cost_per_view": 0.3004519842894093
       },
       "analysis": {
         "d3": {
@@ -106,7 +112,7 @@
           "analyzed_at": "2026-09-23T08:32:03.611328+09:00"
         }
       },
-      "last_written_reaction": "조회 112,356 · 좋아요 3,327 · 댓글 11 · ER 103.5% (D+16)"
+      "last_written_reaction": "조회 114,827 · 좋아요 3,351 · 댓글 11 · ER 104.2% (D+17)"
     },
     {
       "notion_row_id": "5c939eba-97ed-8326-a0bc-81fa130ec526",
@@ -274,7 +280,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
