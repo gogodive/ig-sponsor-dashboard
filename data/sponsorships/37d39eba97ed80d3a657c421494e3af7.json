@@ -63,9 +63,9 @@
         "captured_at": "2026-07-25T07:08:32.246660+09:00"
       },
       "frozen": true,
-      "days_since_post": 94,
+      "days_since_post": 95,
       "computed": {
-        "er": 0.053322721846398725,
+        "er": 0.05331211458126119,
         "vs_baseline": 0.7997042963993738,
         "cost_per_eng": 128.73134328358208,
         "cost_per_view": 3.7520391517128875
@@ -117,9 +117,9 @@
         "captured_at": "2026-07-23T21:09:07.107766+09:00"
       },
       "frozen": true,
-      "days_since_post": 95,
+      "days_since_post": 96,
       "computed": {
-        "er": 0.028054118583366493,
+        "er": 0.02804853789536503,
         "vs_baseline": 0.8757763975155279,
         "cost_per_eng": 244.68085106382978,
         "cost_per_view": null
@@ -164,9 +164,9 @@
         "captured_at": "2026-07-23T03:33:52.096361+09:00"
       },
       "frozen": true,
-      "days_since_post": 100,
+      "days_since_post": 101,
       "computed": {
-        "er": 0.03919617986470354,
+        "er": 0.039188382733240504,
         "vs_baseline": 1.131810442678774,
         "cost_per_eng": 175.12690355329948,
         "cost_per_view": 4.324934185784129
@@ -187,7 +187,7 @@
       "upload_date_notion": "2026-06-22",
       "first_seen": "2026-07-23",
       "frozen": true,
-      "days_since_post": 97,
+      "days_since_post": 98,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -203,6 +203,6 @@
     "account_unavailable": false
   },
   "child_db_id": "e2f39eba-97ed-828f-8dd5-81d34f71aef9",
-  "followers": 5026,
+  "followers": 5027,
   "last_written_score": 94
 }

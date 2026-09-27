@@ -25,17 +25,17 @@
       "first_seen": "2026-09-16",
       "posted_at": "2026-09-12T14:03:43.000Z",
       "permalink": "https://www.instagram.com/p/DdMJR1pNWBU/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/806490953_18103680473234572_64292152839238290_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NDYwMDU3ODU2NTQzMTM4MDE4MTAzNjgwNDcwMjM0NTcy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMiJ9&_nc_ohc=HLcF79p8v4UQ7kNvwFdsLVh&_nc_oc=AdqYnDYrTxjm8SppcpcyLnJySa5sXS1tknAr3hri94MbIGLOXhCDrem3peEQBTmQ4kfCX4yJrxbt-VfDpKRQk1eK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=LejWN7pPUPT0RmtrPkI7eA&_nc_ss=7a22e&oh=00_AQKjvgVi783TRfKuLFyG7h1jMUtxdDxRa-iNObhus-OMKg&oe=6ABE326D",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/806490953_18103680473234572_64292152839238290_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NDYwMDU3ODU2NTQzMTM4MDE4MTAzNjgwNDcwMjM0NTcy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=HLcF79p8v4UQ7kNvwE3ZMol&_nc_oc=Adok_2dib1IYb1R_24NvSTuUZb9iBfrP-r_p8mbmN2RFvjW4K5nhWTs9eafPe7IO73IDSigaCA91NjUhPOrDsaZJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=EO0fEQrnm6mT-VGZV3so4Q&_nc_ss=7a22e&oh=00_AQPgjx7m42InwW3VBdRi1y3pudaVKt0niAXFKrmB1RkaRw&oe=6ABF83ED",
       "caption": "#라세린 #말랑가드수경케이스 핑크 #제품제공 🩷\n\n37개월 아기와 391개월 아기 둘이서\n수영장 출석 도장 찍었어요🏊🏻‍♀️🫧\n\n신나게 놀고 나온 뒤\n수경은 ✨라세린 말랑가드 수경 케이스 핑크✨에 안전하게 쏙💗\n\n말랑해서 귀엽고,\n수경은 안전하게 지켜주고!\n\n덕분에 오늘도\n물놀이부터 수경 챙기기까지 완벽..\n\n즐거운 수영 데이 끝! 🫧\n\n☑️ 말랑가드 수경 케이스는 현재 라세린 공식 홈페이지에서 판매중이에요! 블루•핑크•옐로우•그린•믹스컬러까지 총 5가지 색상 선택 가능하니 개인의 취향에 맞게 Pick〰️해보세요😆",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swimchaeng",
       "metrics": {
-        "views": 1162,
-        "likes": 78,
+        "views": 1177,
+        "likes": 79,
         "comments": 28
       },
-      "metrics_updated_at": "2026-09-27T08:25:49.590448+09:00",
+      "metrics_updated_at": "2026-09-28T08:42:26.967472+09:00",
       "history": [
         {
           "d": "2026-09-16",
@@ -108,21 +108,27 @@
           "views": 1162,
           "likes": 78,
           "comments": 28
+        },
+        {
+          "d": "2026-09-28",
+          "views": 1177,
+          "likes": 79,
+          "comments": 28
         }
       ],
       "baseline": {
         "views_median": 2344.0,
         "eng_median": 50.5,
         "n": 6,
-        "captured_at": "2026-09-27T08:25:49.590448+09:00"
+        "captured_at": "2026-09-28T08:42:26.967472+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
-        "er": 0.18057921635434412,
-        "vs_baseline": 0.49573378839590443,
-        "cost_per_eng": 113.20754716981132,
-        "cost_per_view": 10.327022375215146
+        "er": 0.18228279386712096,
+        "vs_baseline": 0.5021331058020477,
+        "cost_per_eng": 112.14953271028037,
+        "cost_per_view": 10.195412064570943
       },
       "analysis": {
         "d3": {
@@ -136,7 +142,7 @@
           "analyzed_at": "2026-09-27T08:25:49.590448+09:00"
         }
       },
-      "last_written_reaction": "조회 1,162 · 좋아요 78 · 댓글 28 · ER 18.1% · 평소대비 0.5x (D+14)"
+      "last_written_reaction": "조회 1,177 · 좋아요 79 · 댓글 28 · ER 18.2% · 평소대비 0.5x (D+15)"
     }
   ],
   "flags": {
