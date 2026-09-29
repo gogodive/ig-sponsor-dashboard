@@ -25,17 +25,17 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-03T14:48:55.000Z",
       "permalink": "https://www.instagram.com/p/Dc1D036zGjA/",
-      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=POik1OwPArkQ7kNvwFPK0fH&_nc_oc=Adr96EDO499BDXHdWnqQBcMsRr-RxAs6w3yb7GGkmXTkf7FOjbyKliuG3lmH28V5HfI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=bP6lf83VhAj4Xvpiw4AcwA&_nc_ss=7a22e&oh=00_AQM7rNAKtN248uRC7O2KXZa9jU3W7MgYAOiIukNF0eRMjQ&oe=6ABF6805",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=dyAg3wSFtssQ7kNvwGmjitp&_nc_oc=Adrw4fFc-eMVrmI4kQfd0--PPqSguNb9JnlyMjXGEJlmiRHhCC03gpSJKJmRou4FbQo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=qIxBFoXu8ASzUJvonmw0Ww&_nc_ss=7a22e&oh=00_AQMBee1eu9Km_BMJYVFIti6HQ129tMEvIpUR9UewsCjZaQ&oe=6AC0F1C5",
       "caption": "프리다이빙 배우고 왔어요💙\n\n인어공주 되는 그날까지...♡🧜🏻‍♀️⭐\n.\n.\n.\n\r\n@intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "feeling1044",
       "metrics": {
-        "views": 6685,
+        "views": 6698,
         "likes": -1,
         "comments": 21
       },
-      "metrics_updated_at": "2026-09-28T08:42:26.967472+09:00",
+      "metrics_updated_at": "2026-09-29T09:52:43.053506+09:00",
       "history": [
         {
           "d": "2026-09-05",
@@ -180,23 +180,29 @@
           "views": 6685,
           "likes": -1,
           "comments": 21
+        },
+        {
+          "d": "2026-09-29",
+          "views": 6698,
+          "likes": -1,
+          "comments": 21
         }
       ],
       "baseline": {
         "views_median": 7949.0,
         "eng_median": 45.0,
         "n": 4,
-        "captured_at": "2026-09-28T08:42:26.967472+09:00"
+        "captured_at": "2026-09-29T09:52:43.053506+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.00015991556458190076,
-        "vs_baseline": 0.8409862875833438,
+        "vs_baseline": 0.8426217134230721,
         "cost_per_eng": 7850.0,
-        "cost_per_view": 23.485415108451758
+        "cost_per_view": 23.43983278590624
       },
-      "last_written_reaction": "조회 6,685 · 좋아요 -1 · 댓글 21 · ER 0.0% · 평소대비 0.8x (D+24)",
+      "last_written_reaction": "조회 6,698 · 좋아요 -1 · 댓글 21 · ER 0.0% · 평소대비 0.8x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.53x로 부진한 초기 반응, 조회당 26.6원·참여당 8,722원으로 비용 효율 개선이 필요한 상황입니다.",
@@ -418,7 +424,7 @@
         "captured_at": "2026-09-26T08:53:42.554678+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0003518142420801817,
         "vs_baseline": 0.9887640449438202,
@@ -450,5 +456,5 @@
   },
   "child_db_id": "a9639eba-97ed-8329-a298-016484940076",
   "followers": 125066,
-  "last_written_score": 91
+  "last_written_score": 92
 }

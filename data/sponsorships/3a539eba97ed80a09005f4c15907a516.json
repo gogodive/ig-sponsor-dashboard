@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "o421__",
   "followers_notion": 5248,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "04839eba-97ed-834e-b245-81350acf7322",
+      "url": "https://www.instagram.com/p/DdenkI3koCN/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdenkI3koCN",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-20",
+      "first_seen": "2026-09-29",
+      "posted_at": "2026-09-19T18:08:04.000Z",
+      "permalink": "https://www.instagram.com/p/DdenkI3koCN/",
+      "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/817651062_18620151562017632_4852961930245944713_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4OTc5NTg3MjM1OTIxNzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iDZK0lYSwgoQ7kNvwE2840R&_nc_oc=AdpjFeBDBRhHBEVqnywzRYB21O2R8X57X2CpQDR7YK6Ofc4gKD3QDDhDk29yrrxWJhM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=K5OtKTSpk0mcUrQjhhXEwQ&_nc_ss=7a22e&oh=00_AQOrXHMptFae16EeTr37WW8AcuhoQN4nnDOcBw-7KPcCeA&oe=6AC0F021",
+      "caption": "@intotheblue_store 와 함께한 𝕤𝕦𝕞𝕞𝕖𝕣 🐠🦀🫧\n\n#협찬 #인투더블루 #딥바이브 #에어로스노클 #고고젤로마스크",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "o421__",
+      "metrics": {
+        "likes": -1,
+        "comments": 6
+      },
+      "metrics_updated_at": "2026-09-29T09:52:43.053506+09:00",
+      "history": [
+        {
+          "d": "2026-09-29",
+          "views": null,
+          "likes": -1,
+          "comments": 6
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 384.0,
+        "n": 12,
+        "captured_at": "2026-09-29T09:52:43.053506+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 9,
+      "computed": {
+        "er": 0.0009786651008025053,
+        "vs_baseline": 0.013020833333333334,
+        "cost_per_eng": 44600.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+9)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "df639eba-97ed-8267-a67f-8155629ef42f",
-  "followers": 5248
+  "followers": 5109,
+  "last_written_score": 1
 }

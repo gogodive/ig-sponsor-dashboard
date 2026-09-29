@@ -25,17 +25,17 @@
       "first_seen": "2026-09-22",
       "posted_at": "2026-09-21T02:27:14.000Z",
       "permalink": "https://www.instagram.com/p/DdiFPKFMqqf/",
-      "thumbnail": "https://instagram.fmad8-1.fna.fbcdn.net/v/t51.82787-15/815797776_18487104550107756_5620958445556376032_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDc3NTI1MTY1MzAxMjEyNzE4NDg3MTA0NTQ0MTA3NzU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=X6pwqk0hu9oQ7kNvwGm0Zbx&_nc_oc=AdqglKyidCiG5RO_R_bOJOtpNEu-vIl_oChN-np60vAMPqv1zDvt79b7BXNf-cgxzyw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad8-1.fna&_nc_gid=Y60KMf8JcX9fxNQGvQtxAg&_nc_ss=7a22e&oh=00_AQMmQ9mRVBIfBZACSP5CA69HwrBI3bkLM6XAHzeYZvJlsw&oe=6ABF6C83",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/815797776_18487104550107756_5620958445556376032_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk5MDc3NTI1MTY1MzAxMjEyNzE4NDg3MTA0NTQ0MTA3NzU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=oN3HSKIYJykQ7kNvwGVANy5&_nc_oc=Adp2_o__oIsbfz4c0B_4JDLg4H5Bjp24b-iiZ9MSz6g3hDT6pvICD2DDTOKFlgujy8U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=MGGRjPniF8gwgCxGx53vjA&_nc_ss=7a22e&oh=00_AQNkR6GXmH3NZyEE7M8iu3-A2pmG-9_d0VUwGh4QIkvvKQ&oe=6AC0F643",
       "caption": "물속에서는 더 예쁨 🩵🪽\n\n@intotheblue_store 🤿  #제품제공 \n\n날씨가 쌀쌀해져도 바다 포기 못 해…\n이번 가을, 겨울엔 이 슈트랑 오래오래 함께할 예정 💙\n\n✔️ 딥바이브 프리다이빙 슈트 웻슈트 스프링 2mm(ST)\n\n#인투더블루 #딥바이브 #프리다이빙슈트 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ssssssubin_",
       "metrics": {
-        "views": 7664,
-        "likes": 210,
+        "views": 7764,
+        "likes": 213,
         "comments": 27
       },
-      "metrics_updated_at": "2026-09-28T08:42:26.967472+09:00",
+      "metrics_updated_at": "2026-09-29T09:52:43.053506+09:00",
       "history": [
         {
           "d": "2026-09-22",
@@ -78,23 +78,35 @@
           "views": 7664,
           "likes": 210,
           "comments": 27
+        },
+        {
+          "d": "2026-09-29",
+          "views": 7764,
+          "likes": 213,
+          "comments": 27
         }
       ],
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
-        "er": 0.022028069523189888,
-        "vs_baseline": null,
-        "cost_per_eng": 400.84388185654007,
-        "cost_per_view": 12.39561586638831
+        "er": 0.022319352738770577,
+        "vs_baseline": 0.42987652953878525,
+        "cost_per_eng": 395.8333333333333,
+        "cost_per_view": 12.235960844925296
       },
-      "last_written_reaction": "조회 7,664 · 좋아요 210 · 댓글 27 · ER 2.2% (D+6)",
+      "last_written_reaction": "조회 7,764 · 좋아요 213 · 댓글 27 · ER 2.2% · 평소대비 0.4x (D+7)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 기준치가 없어 판단 유보, 참여율 2.16%·참여당 409원·조회당 12.8원으로 비용 대비 무난한 초기 성과",
           "days": 4,
           "analyzed_at": "2026-09-26T08:53:42.554678+09:00"
         }
+      },
+      "baseline": {
+        "views_median": 18061,
+        "eng_median": 283,
+        "n": 3,
+        "captured_at": "2026-09-29T09:52:43.053506+09:00"
       }
     },
     {
@@ -311,9 +323,9 @@
         "captured_at": "2026-08-31T08:18:04.136186+09:00"
       },
       "frozen": true,
-      "days_since_post": 59,
+      "days_since_post": 60,
       "computed": {
-        "er": 0.044892648015614836,
+        "er": 0.044917697386775784,
         "vs_baseline": 1.1940667490729295,
         "cost_per_eng": 196.68737060041408,
         "cost_per_view": null
@@ -342,6 +354,6 @@
     "account_unavailable": false
   },
   "child_db_id": "83839eba-97ed-8347-94c5-01f2a07ba8f0",
-  "followers": 10759,
-  "last_written_score": 119
+  "followers": 10753,
+  "last_written_score": 81
 }
