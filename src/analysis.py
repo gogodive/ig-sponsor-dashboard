@@ -38,7 +38,9 @@ def _call(system: str, user: str, model: str, max_tokens: int) -> dict:
         },
         timeout=180,
     )
-    res.raise_for_status()
+    if not res.ok:
+        # 상태코드만으로는 원인(크레딧 부족·모델명·요청 형식)을 구분할 수 없어 본문을 남긴다
+        raise RuntimeError(f"{res.status_code} {res.text[:300]}")
     text = "".join(b.get("text", "") for b in res.json().get("content", [])
                    if b.get("type") == "text")
     return _parse_json(text)
