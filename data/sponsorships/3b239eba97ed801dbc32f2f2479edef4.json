@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-21T08:05:52.000Z",
       "permalink": "https://www.instagram.com/p/DdisPQQGRTB/",
-      "thumbnail": "https://instagram.fktw1-1.fna.fbcdn.net/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yEexc_QCJMQ7kNvwGMcZqB&_nc_oc=Adr3rn6G3xgUTFIkE9LlhHobpBiLoW7LCKAyuZNLuyNXLPGu3AkeNO9oBDRFdtbRGDU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw1-1.fna&_nc_gid=0twaZhSaKSKPlvLE2je8tA&_nc_ss=7a22e&oh=00_AQOSgL9-AIKPa36ypPtJu89q97N1ir6poPgg05c38JCQlw&oe=6AC0C5B6",
+      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yEexc_QCJMQ7kNvwFo98L7&_nc_oc=AdroUXwHs5a0mEJ_BroQQNSqFyMoW0CToMz3AgO0N7TiN-XOOV8ligi_OGe-ohFTiWI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz5-1.fna&_nc_gid=pt8jPwU8euMoFy3Mn8BpXQ&_nc_ss=7a22e&oh=00_AQNXTM3_46gs1Hfnp3qS9X87uECaQRRG1eunsCiewkbNZg&oe=6AC21736",
       "caption": "#협찬 @laserin_swim \n난 인간 복숭아가 되겠서,,🍑\n복숭아 빛깔 아주 반짝반짝 존재감 확실해✨\n\n👙라세린 물복 \n\n✔155 / 44 / XS 착용\n·\t두겹, 신축성 굳\n·\t브라캡고리O\n·\t가슴선 높음\n·\t더블 크로스백\n\n백타입이 너무 예뿌죵✌🏻\n이번에 착용한 사이즈는 타이트해서 \n몸을 잡아주는 느낌이 냥냥했다요 !\n풀장에도 담궈버리고싶다…\n\n#라세린 #수영복 #실내수영복 #수영복코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-09-29T09:52:43.053506+09:00",
+      "metrics_updated_at": "2026-09-30T09:09:41.949777+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -71,23 +71,29 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-09-30",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 15,
         "n": 7,
-        "captured_at": "2026-09-29T09:52:43.053506+09:00"
+        "captured_at": "2026-09-30T09:09:41.949777+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.0025490695895997962,
         "vs_baseline": 0.6666666666666666,
         "cost_per_eng": 6900.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+7)",
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+8)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)라 댓글 기준 평소대비 0.67x·참여당 6900원은 과소추정된 값이며, 판단 보류",
