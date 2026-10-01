@@ -25,7 +25,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-08-30T06:52:35.000Z",
       "permalink": "https://www.instagram.com/p/Dcp6XPIIJjX/",
-      "thumbnail": "https://instagram.fitm1-1.fna.fbcdn.net/v/t51.82787-15/791295929_17942768055323919_1002336262791896906_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NDk2NDY3ODg2NTg5Mjc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_OUu2ImVDo4Q7kNvwEdnKW6&_nc_oc=Ado1T_BTOTO2qMDCGjhw4sKNZabB-eThXcdaTOJCpDrab2_8Lzs_zWPDRwv9XKM5SOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fitm1-1.fna&_nc_gid=y0lhQa2t2d9wiQtqs4TF8w&_nc_ss=7a22e&oh=00_AQPm1C8CmRvxXiG_KGdXh91Y1hGRwBwkkSN3_JxDfAZFRg&oe=6AC238FB",
+      "thumbnail": "https://instagram.flhr1-1.fna.fbcdn.net/v/t51.82787-15/791295929_17942768055323919_1002336262791896906_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NDk2NDY3ODg2NTg5Mjc0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_OUu2ImVDo4Q7kNvwFVkYpP&_nc_oc=AdrcIeOs0G55tWIk64MJyhPjWpZkvBx6Q1NVF-tixSXFOrACibpBA-Hsg9bI3k-yoaw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flhr1-1.fna&_nc_gid=wLPTLWFdC5y6tq7eZLVv8g&_nc_ss=7a22e&oh=00_AQPq_FT-qKDdLtJ0ZG_mm1JX5ifZdWnuzKj9p_G3zFyV3w&oe=6AC38A7B",
       "caption": "물댕‘s 최애템 모아모아 모음.𝐳𝐢𝐩❤️‍🔥\n\n내돈내산 제품제공 다 섞여있지만 꾸준히 사용하는 애정템만 모아모아 모았어요. 제품별 사용팁도 야무지게 정리했으니 몰라서 손해보면 나도 몰라요잉.ᐟ\n\n짐 부랴부랴 챙겨가는 모습 담아주신 @hoho._.dive 님 감사합니다🫧\n\n#제품제공 #광고 #내돈내산 #프리다이빙 #프리디이빙장비추천 \n\n𝐧년째 살타기 싫어인간 최애 썬스틱☀️\n\n서핑갔다가 소개받았는데 펀다하고 파도 왕창 맞았는데도 물방울 송글송글 안 지워져서 그 이후로 끊을수가 없어요.. 지금도 두 통 동시에 쓰는 중\n\n𝐓𝐢𝐩.\n일반 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -199,8 +199,8 @@
         "n": 8,
         "captured_at": "2026-09-30T09:09:41.949777+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.03290574456218628,
         "vs_baseline": 0.5267857142857143,
@@ -219,7 +219,7 @@
           "analyzed_at": "2026-09-14T08:00:37.433408+09:00"
         }
       },
-      "last_written_reaction": "좋아요 103 · 댓글 15 · ER 3.3% · 평소대비 0.5x (D+30)"
+      "last_written_reaction": "좋아요 103 · 댓글 15 · ER 3.3% · 평소대비 0.5x (확정)"
     },
     {
       "notion_row_id": "a6939eba-97ed-828a-9719-010b25eb8980",
@@ -430,7 +430,7 @@
         "captured_at": "2026-09-26T08:53:42.554678+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.008087005019520357,
         "vs_baseline": 0.3588138723578904,

@@ -25,7 +25,7 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-19T18:08:04.000Z",
       "permalink": "https://www.instagram.com/p/DdenkI3koCN/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/817651062_18620151562017632_4852961930245944713_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4OTc5NTg3MjM1OTIxNzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iDZK0lYSwgoQ7kNvwHf7llD&_nc_oc=AdqCaF8KmIHpNUpfe5b24U45upYzgFdzZkYxx3R4NLQVqVzFP1bkKPcJ2r5qUchDlAozLn2LN8Iz1mj1rRK6FnTp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=eJre-fgbyLcYaWskE-sCpw&_nc_ss=7a22e&oh=00_AQPghRD_g_iFnFWJAnahbpPBB7KwNp6cLpURQq6jlUzGPA&oe=6AC241A1",
+      "thumbnail": "https://instagram.fmad10-2.fna.fbcdn.net/v/t51.82787-15/817651062_18620151562017632_4852961930245944713_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4OTc5NTg3MjM1OTIxNzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gCJdtR7jQTAQ7kNvwFm7xXC&_nc_oc=AdpDb3D8Cpb8EWuI7skxKvthXxpbu6cQQ7gSzra4nx15DX9WaZHPGMj2YrlS9caJawo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad10-2.fna&_nc_gid=TApJ4jxFrlCa8dsbfaS0Xg&_nc_ss=7a22e&oh=00_AQM6y6Ne-ul3HX328M2gzILoHn460kkOasqnzkTdH_xalg&oe=6AC39321",
       "caption": "@intotheblue_store 와 함께한 𝕤𝕦𝕞𝕞𝕖𝕣 🐠🦀🫧\n\n#협찬 #인투더블루 #딥바이브 #에어로스노클 #고고젤로마스크",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-09-30T09:09:41.949777+09:00",
+      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
       "history": [
         {
           "d": "2026-09-29",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-10-01",
+          "views": null,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 384.0,
         "n": 12,
-        "captured_at": "2026-09-30T09:09:41.949777+09:00"
+        "captured_at": "2026-10-01T09:25:16.923285+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.0009786651008025053,
         "vs_baseline": 0.013020833333333334,
         "cost_per_eng": 44600.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+10)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+11)"
     }
   ],
   "flags": {

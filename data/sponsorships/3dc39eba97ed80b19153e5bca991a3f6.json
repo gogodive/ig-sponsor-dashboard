@@ -25,17 +25,17 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-21T08:42:07.000Z",
       "permalink": "https://www.instagram.com/p/DdiwKZ2gKYB/",
-      "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/809767013_18081022145701902_3841333198392262816_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5MDk2NDA0MDk4ODkyNzQ4OTE4MDgxMDIyMTM5NzAxOTAy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=rc19bAUbmYkQ7kNvwF4AB8n&_nc_oc=Adq-_QPqb2yzDzkke1AMWW6fcbjLCicB_WEfcDeGg92IQFyhUbf1IpXq9DKWq9Mmdek&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=xPj6qPBE8jV1P1n0ioViBQ&_nc_ss=7a22e&oh=00_AQMGrfhqt0ZODnNXbeymvhuMkEdWoDi_siPM1SP24eNVuQ&oe=6AC23233",
+      "thumbnail": "https://instagram.fmxp13-1.fna.fbcdn.net/v/t51.82787-15/809767013_18081022145701902_3841333198392262816_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDk2NDA0MDk4ODkyNzQ4OTE4MDgxMDIyMTM5NzAxOTAy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=rc19bAUbmYkQ7kNvwGcB4CS&_nc_oc=AdqtENfodLylxeLhJGshUn4b7vH3GNDZdkxVTusqDTOvpM0T7VRaXUZ96-hDnJms9apKbOJ3V6BIwc8P7-XPQ7In&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp13-1.fna&_nc_gid=IkfBzRU3Sv96FfPvL1pDvQ&_nc_ss=7a22e&oh=00_AQNjiKcHKU0prps9hFBkhh_iIH1rpWVY0AHCjzoDXcd0-A&oe=6AC383B3",
       "caption": "#제품제공 개미허리핏 이게 진짜 되네 ?\n\n#시크릿스 개미허리 반팔 + v컷 레깅스 조합💕\n\n개미허리 실루엣이 이게 정말 되는거였어요 \n허얇엉큰 가능;; 🍑\n\n개미허리반팔 m\nv컷 레깅스 s\n\n레깅스도 쫀쫀하니 잘 잡아주고 원단 핏 왜캐 좋아요? \n개미허리반팔은 일상에서 입어도 되겠어요.. 🥰\n\n다른 색 쟁이러가야지 \n후기 많은 이유를 알겠네.. \n\n#운동복 #운동복추천 #레깅스추천",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "junnnnn2_",
       "metrics": {
-        "views": 1399,
+        "views": 1411,
         "likes": 117,
         "comments": 73
       },
-      "metrics_updated_at": "2026-09-30T09:09:41.949777+09:00",
+      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -78,23 +78,29 @@
           "views": 1399,
           "likes": 117,
           "comments": 73
+        },
+        {
+          "d": "2026-10-01",
+          "views": 1411,
+          "likes": 117,
+          "comments": 73
         }
       ],
       "baseline": {
-        "views_median": 1234.5,
-        "eng_median": 154.0,
-        "n": 10,
-        "captured_at": "2026-09-30T09:09:41.949777+09:00"
+        "views_median": 1092,
+        "eng_median": 130,
+        "n": 7,
+        "captured_at": "2026-10-01T09:25:16.923285+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
-        "er": 0.05539358600583091,
-        "vs_baseline": 1.1332523288780882,
+        "er": 0.05544207761890867,
+        "vs_baseline": 1.2921245421245422,
         "cost_per_eng": 436.8421052631579,
-        "cost_per_view": 59.328091493924234
+        "cost_per_view": 58.8235294117647
       },
-      "last_written_reaction": "조회 1,399 · 좋아요 117 · 댓글 73 · ER 5.5% · 평소대비 1.1x (D+8)",
+      "last_written_reaction": "조회 1,411 · 좋아요 117 · 댓글 73 · ER 5.5% · 평소대비 1.3x (D+9)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 1.08배로 평이하고 참여율 5.39%는 양호하나, 조회당 62.3원으로 도달 비용은 높은 편",
@@ -111,6 +117,6 @@
     "account_unavailable": false
   },
   "child_db_id": "21639eba-97ed-8343-aac1-0132e0b260b2",
-  "followers": 3430,
-  "last_written_score": 113
+  "followers": 3427,
+  "last_written_score": 129
 }

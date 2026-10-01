@@ -24,30 +24,36 @@
       "upload_date_notion": "2026-09-20",
       "first_seen": "2026-09-24",
       "frozen": false,
-      "days_since_post": 11,
+      "days_since_post": 12,
       "computed": {
-        "er": 0.3181818181818182,
-        "vs_baseline": 1.0144927536231885,
-        "cost_per_eng": 148.21428571428572,
+        "er": 0.3306818181818182,
+        "vs_baseline": 1.0543478260869565,
+        "cost_per_eng": 142.61168384879724,
         "cost_per_view": null
       },
       "posted_at": "2026-09-18T12:20:10.000Z",
       "permalink": "https://www.instagram.com/p/DdbataSTDqQ/",
-      "thumbnail": "https://instagram.fsvq2-1.fna.fbcdn.net/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=_0v6iA8BRFQQ7kNvwFoegQT&_nc_oc=AdrS53nGDhBsjcbCwPD4O1wzllEUauLh1d98ZpQ7C2ri1dlXeUgcGAmEcyEPgWLZDKM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsvq2-1.fna&_nc_gid=AC8kfS6P0iy9Ia6F0Jixtg&_nc_ss=7a22e&oh=00_AQPFXtuRnKXj94lo0PjwdpMgd_2GoWI_pBjGkGdsfX8CBQ&oe=6AC21B9C",
+      "thumbnail": "https://instagram.fcjs5-1.fna.fbcdn.net/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hesAWXfdIbcQ7kNvwFdi7RZ&_nc_oc=AdojcwAeDHptnsPOOkusCTi36AyNfYwTXTxnFa0GX1ud_KKaEXpL4AysDd4qCh-O3CU--ONgCCgNRXFUWhzPZSUL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcjs5-1.fna&_nc_gid=Tb4wOuavgCRn0tQyZRbicA&_nc_ss=7a22e&oh=00_AQOTV9rismY1n9KExXt3mMfucw5BQQIbss0-6S2Woo7o_A&oe=6AC36D1C",
       "caption": "시크릿스와 함께라면 개미허리가 되,,🐜💚🤍\n\n#협찬 \n상의: @secrets__fit \n하의: @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
       "owner_username": "jin._.in_gym",
       "metrics": {
-        "likes": 215,
+        "likes": 226,
         "comments": 65
       },
-      "metrics_updated_at": "2026-09-30T09:09:41.949777+09:00",
+      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
       "history": [
         {
           "d": "2026-09-30",
           "views": null,
           "likes": 215,
+          "comments": 65
+        },
+        {
+          "d": "2026-10-01",
+          "views": null,
+          "likes": 226,
           "comments": 65
         }
       ],
@@ -55,9 +61,9 @@
         "views_median": null,
         "eng_median": 276,
         "n": 11,
-        "captured_at": "2026-09-30T09:09:41.949777+09:00"
+        "captured_at": "2026-10-01T09:25:16.923285+09:00"
       },
-      "last_written_reaction": "좋아요 215 · 댓글 65 · ER 31.8% · 평소대비 1.0x (D+11)"
+      "last_written_reaction": "좋아요 226 · 댓글 65 · ER 33.1% · 평소대비 1.1x (D+12)"
     },
     {
       "notion_row_id": "e3039eba-97ed-83dd-9409-81140fb2d47e",
@@ -67,7 +73,7 @@
       "upload_date_notion": "2026-09-22",
       "first_seen": "2026-09-24",
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -84,5 +90,5 @@
   },
   "child_db_id": "6b039eba-97ed-83e7-adbf-01ac509390e3",
   "followers": 880,
-  "last_written_score": 101
+  "last_written_score": 105
 }
