@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-804e-a6c5-c2d0a8924632",
   "row_title_raw": "mooldoongdoong",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "mooldoongdoong",
   "followers_notion": 742,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "eb139eba-97ed-83d0-ab80-015aa0bc40a9",
+      "url": "https://www.instagram.com/reel/DdoRis8TXys/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "DdoRis8TXys",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-09-24",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-09-23T12:24:50.000Z",
+      "permalink": "https://www.instagram.com/p/DdoRis8TXys/",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/800482586_18054382601642576_2647352033836801655_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk5MjUxODIyMTE3MzE5MzkwMDE4MDU0MzgyNTk4NjQyNTc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=jfKHEt6hdYUQ7kNvwFkFMz6&_nc_oc=AdrjvdZa8cgm8X1o47Ut_JDDH6Eo0iXo9eAQcb1MwP7qELA9kp6KBZ5Bxm48dM0dPKM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=c839EZoCmxt-bApq__fy7w&_nc_ss=7a22e&oh=00_AQNAgxDEV_n4eAamaL6zvJh4_DJzYifdX3lWXKAazVO7SQ&oe=6AC4E8CD",
+      "caption": "#제품제공 \n\n“@laserin_swim 말랑가드 수경케이스”\n저 제 귀여운 라세린 수경케이스 좀 자랑할게요…💕\n제 소중한 수경을 기스로부터 안전하게 보호해주는\n실리콘 재질의 말랑가드 수경케이스💘\n이번 제주도 여행에도 애착 수경 넣어서 함께 했거든요!\n볼때마다 귀여워서 기분이 좋더라구요😆\n이제는 수경케이스도 꾸미는 시대!!\n함께 보내주신 지비츠로 꾸미니 한층 더 귀엽죠?!🥽✨\n\n#라세린 #수경케이스 #수영템 #수영용품",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "mooldoongdoong",
+      "metrics": {
+        "views": 2241,
+        "likes": 52,
+        "comments": 24
+      },
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "history": [
+        {
+          "d": "2026-10-02",
+          "views": 2241,
+          "likes": 52,
+          "comments": 24
+        }
+      ],
+      "baseline": {
+        "views_median": 1025,
+        "eng_median": 52,
+        "n": 9,
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.08388520971302428,
+        "vs_baseline": 2.1863414634146343,
+        "cost_per_eng": 157.89473684210526,
+        "cost_per_view": 5.35475234270415
+      },
+      "last_written_reaction": "조회 2,241 · 좋아요 52 · 댓글 24 · ER 8.4% · 평소대비 2.2x (D+8)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "41039eba-97ed-830b-8a15-01865bc5372f",
-  "followers": 742
+  "followers": 906,
+  "last_written_score": 219
 }

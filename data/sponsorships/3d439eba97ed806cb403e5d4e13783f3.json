@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-806c-b403-e5d4e13783f3",
   "row_title_raw": "jimiiii",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-20T21:36:45.000Z",
       "permalink": "https://www.instagram.com/p/DdhkPjbEfHY/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/809146743_18489226147098059_3505399472290071960_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5MDYyOTQwNTU5MjUxMjQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=yADisv8x5ogQ7kNvwGuasbQ&_nc_oc=Adr-wdiK2If-xWp572zkKN3ytAIAKvCBOiFMRLnALQxcyRNjdG4FTEsqmW2DqfiRxEFzPEDUkgxdo4cSONsv-35L&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=XJ-NRchXYIn0mWVRxCcOuw&_nc_ss=7a22e&oh=00_AQOMnhM4aK5-EIWmp7OQFXjKmA_gq8s6ZYara6pJkf6LrQ&oe=6AC3894F",
+      "thumbnail": "https://instagram.fitm5-1.fna.fbcdn.net/v/t51.82787-15/809146743_18489226147098059_3505399472290071960_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDYyOTQwNTU5MjUxMjQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=yADisv8x5ogQ7kNvwHHpNSb&_nc_oc=AdpkRIlsLwDiAA6j2PHAmZs5sPPz-wGlhmaiDKbnuJvECkMmh_yjlRqmODqn-2GtQBqPkSgvL0Ir9FnWK62oqJva&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fitm5-1.fna&_nc_gid=W7ti0eQU6we6jJANSWtL7w&_nc_ss=7a22e&oh=00_AQO7MLtHwB4crWDuYLONIauBtZF2rBOgoTl2e7Ih7h2toQ&oe=6AC4DACF",
       "caption": "수경케이스도 이렇게 말랑하고 이쁠 수 있구나💕 \n\n@laserin_swim #말랑가드수경케이스 #제품제공\n\n다합에서 하루가 멀다 하고 수영을 하다 보니 기존 수경케이스는 부서져서 버린 지 오래되고 수경을 수모에 돌돌 싸 들고 다녔어요\n\n그러다 만난 라세린 말랑가드 수경케이스!\n\n이름처럼 정말 말랑말랑해서 수경을 넣고 빼기가 훨씬 편했어요\n\n중간에 막힘없는 구조라 물기도 편리하게 관리할 수 있고\n고리가 있어서 가방에 달고 다니기도 좋아요 👍\n\n무엇보다 지비츠로 꾸꾸 할 수 있는 것이 너무 귀엽지 않나요?🥰\n\n실용성과 귀여움 모두 챙길",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 40,
         "comments": 0
       },
-      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -83,16 +83,22 @@
           "views": null,
           "likes": 40,
           "comments": 0
+        },
+        {
+          "d": "2026-10-02",
+          "views": null,
+          "likes": 40,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 98.0,
         "n": 4,
-        "captured_at": "2026-10-01T09:25:16.923285+09:00"
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.024390243902439025,
         "vs_baseline": 0.40816326530612246,
@@ -106,7 +112,7 @@
           "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
         }
       },
-      "last_written_reaction": "좋아요 40 · 댓글 0 · ER 2.4% · 평소대비 0.4x (D+10)"
+      "last_written_reaction": "좋아요 40 · 댓글 0 · ER 2.4% · 평소대비 0.4x (D+11)"
     }
   ],
   "flags": {

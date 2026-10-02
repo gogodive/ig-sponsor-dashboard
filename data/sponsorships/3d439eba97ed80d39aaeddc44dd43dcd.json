@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-80d3-9aae-ddc44dd43dcd",
   "row_title_raw": "swim_mechuri",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -15,13 +15,58 @@
   "output_link_prop": null,
   "username": "swim_mechuri",
   "followers_notion": 6310,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "70939eba-97ed-8356-96da-81dc21324ab8",
+      "url": "https://www.instagram.com/p/Ddn7Z2CmPi6/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "Ddn7Z2CmPi6",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-24",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-09-23T08:54:35.000Z",
+      "permalink": "https://www.instagram.com/p/Ddn7Z2CmPi6/",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/817329437_17974449660129637_6124956710397460898_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5MjQyMDU4MzkyNDg4OTcwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAxNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ly_dBhtMBzcQ7kNvwFpjlNM&_nc_oc=AdrWno4BFNbMuLDWwlwY9xm6Z9NYlVEK6rT-P3D97XGp3y2t-2MN5QKF-4eLlsUjmVJnLQkE-VXyr6_DV_WArxEG&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=VmFGUM9GVIOR8azal3gnYQ&_nc_ss=7a22e&oh=00_AQNw-1XYq0fLXMhfiWkmJ1NwDnxrqXntDvUZjEvmDWkXOg&oe=6AC4B610",
+      "caption": "#제품제공 \n🪺✖️𝐿𝐴𝑆𝐸𝑅𝐼𝑁 🌈\n🫧 𝘔𝘈𝘓𝘓𝘈𝘕𝘎 𝘎𝘜𝘈𝘙𝘋 𝘨𝘰𝘨𝘨𝘭𝘦 𝘤𝘢𝘴𝘦 - 𝘮𝘪𝘹 𝘤𝘰𝘭𝘰𝘳 🐠\n\n여러분- 혹시 수경 어떻게 관리하시나요..?!\n수영복만큼 만만치 않은 고가의 수경에 스크래치나면\n메추리는 눈물이 나요..💧\n\n여러 수경케이스 써본 메추리-\n이제 말랑해서 컬러도 예쁜데 케이스 꾸미기도 가능한 !!\n라세린의 •말랑가드 수경케이스• 를 소개합니다 -\n\n⭐️ 고리홀 이 있어서 수영가방에 걸어다녀도 되고요 !\n⭐️ 오픈되는 형태라 물이 고이지 않아 냄새 🦠 NO- \n⭐️ 5가지 컬러 선택 가능 ! (블루, 핑크,",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "swim_mechuri",
+      "metrics": {
+        "likes": 62,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "history": [
+        {
+          "d": "2026-10-02",
+          "views": null,
+          "likes": 62,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 162.0,
+        "n": 12,
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 8,
+      "computed": {
+        "er": 0.010524662268300346,
+        "vs_baseline": 0.41358024691358025,
+        "cost_per_eng": 179.1044776119403,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 62 · 댓글 5 · ER 1.1% · 평소대비 0.4x (D+8)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "50039eba-97ed-8222-aecf-01c0a0b62648",
-  "followers": 6310
+  "followers": 6366,
+  "last_written_score": 41
 }

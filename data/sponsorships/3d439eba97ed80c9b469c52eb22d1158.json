@@ -15,13 +15,30 @@
   "output_link_prop": null,
   "username": "swim_yojung",
   "followers_notion": 1349,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "a0639eba-97ed-83dc-860a-01d202fe17d6",
+      "url": "https://www.instagram.com/p/Dd8LOYtIHEv/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "Dd8LOYtIHEv",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-10-01",
+      "first_seen": "2026-10-02",
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "f7c39eba-97ed-83dc-9993-813d0a133e73",
-  "followers": 1349
+  "followers": 1489
 }

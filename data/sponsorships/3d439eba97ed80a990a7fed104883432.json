@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-15T08:49:53.000Z",
       "permalink": "https://www.instagram.com/p/DdTT9i-Im7H/",
-      "thumbnail": "https://instagram.fbsb3-1.fna.fbcdn.net/v/t51.82787-15/811267011_18093143807658466_7026479893508218008_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjYxNzg4NzQ3NDQ3ODc5MTE4MDkzMTQzODA0NjU4NDY2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=poXZUE_vHIUQ7kNvwFLewT1&_nc_oc=AdqCDqp9pQr7p4JflxM9CaRgyQdpRY2KtcKZNgEBRbtSVCzyxX_z22F6GqCAsxU1vkI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbsb3-1.fna&_nc_gid=wFlw3BGyhnZwILCXAZQ7ug&_nc_ss=7a22e&oh=00_AQMI95K5ETOeS9Hi46Xh6h_C58nej7UYXnOs_5faQAnk8A&oe=6AC38A6A",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/811267011_18093143807658466_7026479893508218008_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk4NjYxNzg4NzQ3NDQ3ODc5MTE4MDkzMTQzODA0NjU4NDY2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=poXZUE_vHIUQ7kNvwGuZbMS&_nc_oc=AdrIxaqySJv1Yun3rvduHwLpntKLHL05rre6W0sYs8JeSZHyIK3GwzOCYwGfRbBtytxL3TQW2ym6aQzq1AnMjDp7&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=vTVZiMw4K2TeTGLeqoQG5w&_nc_ss=7a22e&oh=00_AQNFWA_36WPZ7Il1Xz-WK7aqrtS4KcU12-p9SzfedFctzA&oe=6AC4DBEA",
       "caption": "#제품제공 @laserin_swim\n\n라세린 말랑 가드 수경 케이스입니다 (옐로우)\n말랑한 재질이고, 뚫려있어 물이 고이지 않아 위생적으로 사용할 수 있어요!\n\n그냥 수영 가방에 넣어 다녀도 되는데\n가방에 걸어도 되더라고요?\n수경 케이스에 키링 고리 부분을 연결해 달아봤어요\n\n빠질까 살짝 걱정했는데\n오늘 10분 정도 걸어왔는데도 안 떨어짐ㅋㅋ\n\n저는 사물함이나, 가방에 넣어두고 다닐 것 같지만,\n보시라고 한 번 걸어봤어요😆\n\n이제 수경 기스 없이 잘 보관해야징👓✨\n\n지비츠도 라세린 지비츠 4종 제품입니다 😍\n.\n.\n.\n#라세린 #수",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "kongi_swim",
       "metrics": {
-        "views": 4504,
-        "likes": 33,
+        "views": 4537,
+        "likes": 34,
         "comments": 11
       },
-      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -120,23 +120,29 @@
           "views": 4504,
           "likes": 33,
           "comments": 11
+        },
+        {
+          "d": "2026-10-02",
+          "views": 4537,
+          "likes": 34,
+          "comments": 11
         }
       ],
       "baseline": {
-        "views_median": 5040.5,
-        "eng_median": 55.5,
+        "views_median": 5650.5,
+        "eng_median": 65.0,
         "n": 12,
-        "captured_at": "2026-10-01T09:25:16.923285+09:00"
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.06395348837209303,
-        "vs_baseline": 0.8935621466124393,
-        "cost_per_eng": 272.72727272727275,
-        "cost_per_view": 2.664298401420959
+        "er": 0.06329113924050633,
+        "vs_baseline": 0.8029377931156535,
+        "cost_per_eng": 266.6666666666667,
+        "cost_per_view": 2.6449195503636767
       },
-      "last_written_reaction": "조회 4,504 · 좋아요 33 · 댓글 11 · ER 6.4% · 평소대비 0.9x (D+15)",
+      "last_written_reaction": "조회 4,537 · 좋아요 34 · 댓글 11 · ER 6.3% · 평소대비 0.8x (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 1.08x 조회로 무난한 출발, 조회당 3.0원·참여당 364원은 팔로워 628 소규모 계정 기준 양호한 비용 효율이다.",
@@ -153,6 +159,6 @@
     "account_unavailable": false
   },
   "child_db_id": "be539eba-97ed-83fc-8eec-017ca53494c9",
-  "followers": 688,
-  "last_written_score": 89
+  "followers": 711,
+  "last_written_score": 80
 }

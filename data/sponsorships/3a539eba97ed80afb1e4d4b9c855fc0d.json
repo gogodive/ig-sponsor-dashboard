@@ -17,6 +17,50 @@
   "followers_notion": 19000,
   "posts": [
     {
+      "notion_row_id": "3ed39eba-97ed-80eb-8f7e-deaf11a2812d",
+      "url": "https://www.instagram.com/reel/Dd6cXI8vyS1/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "shortcode": "Dd6cXI8vyS1",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-10-01",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-09-30T13:41:22.000Z",
+      "permalink": "https://www.instagram.com/p/Dd6cXI8vyS1/",
+      "thumbnail": "https://instagram.fymq3-1.fna.fbcdn.net/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=VIYdBQL6SG8Q7kNvwH_sq3c&_nc_oc=Adq3K8bEAlEFtFdbuzItzGgyiljQGiq1SzJYlgdIxHEYAkFFdvOylMYTxKK1c5X8xX0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fymq3-1.fna&_nc_gid=eewk2LNXH917g9dm5c4iUA&_nc_ss=7a22e&oh=00_AQOGez2ffRxbwppz2dU884n6hfGW8NzcuhsUOCjFvmzImA&oe=6AC4E5ED",
+      "caption": "프리다이빙 넘 재밌잖아 😱\n\n@gogodive \n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브강습",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "h.a.d93",
+      "metrics": {
+        "views": 3016,
+        "likes": 211,
+        "comments": 7
+      },
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "history": [
+        {
+          "d": "2026-10-02",
+          "views": 3016,
+          "likes": 211,
+          "comments": 7
+        }
+      ],
+      "baseline": {
+        "views_median": 4382.5,
+        "eng_median": 170.5,
+        "n": 4,
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.011233639080696693,
+        "vs_baseline": 0.6881916714204221,
+        "cost_per_eng": 894.4954128440367,
+        "cost_per_view": 64.65517241379311
+      },
+      "last_written_reaction": "조회 3,016 · 좋아요 211 · 댓글 7 · ER 1.1% · 평소대비 0.7x (D+1)"
+    },
+    {
       "notion_row_id": "5a939eba-97ed-833a-9551-81bc930bb3ef",
       "url": "https://www.instagram.com/p/Dcv1xxrgY0m/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
       "shortcode": "Dcv1xxrgY0m",
@@ -25,7 +69,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-01T14:07:57.000Z",
       "permalink": "https://www.instagram.com/p/Dcv1xxrgY0m/",
-      "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ScYR4S9FdPYQ7kNvwHrufG9&_nc_oc=AdosuOy49Bgwn6cgUBJvvf0fbNL0aWeJq4DzmL5Te1ICsi_aCJ1hWoh5I7sT13m7CoAIkAN8Sk1W3RJhvT4Y22z3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=lB_-xsrsu9wS--cKG7gjvw&_nc_ss=7a22e&oh=00_AQMmkfjq2ZMJfRpBPEbaKfC518O3PuOxI4IOaWHEw_LSWQ&oe=6AC36353",
+      "thumbnail": "https://scontent-gru1-1.cdninstagram.com/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ScYR4S9FdPYQ7kNvwEnHq9V&_nc_oc=AdrDKI5YvDrnZzvkz8GvdP-Yk8Jalaxydae6h3nlVoLShEC1ZzqCah5vPYt2yBgrb60&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_gid=B-eNBGhb5-CGsBbGRpITTA&_nc_ss=7a22e&oh=00_AQMZ-Vy6T3tEcI46S3f2M1rmwmfWyOVkne_M9gYuHENNBQ&oe=6AC4ED13",
       "caption": "#협찬\n1위 다이빙 업체 @gogodive 에서 프리다이빙 배웠어요 🥽\n\n원래도 수영 좋아하는데 바다에서 수영하면서 프리다이빙하는 사람들을 볼 때마다 너무 신기하고 나도 해보고 싶다는 생각을 가지고 있었는데 마침 좋은 기회로 제대로 배울 수 있어서 너무 좋았어요.\n\n입수하기 전에 강사님께서 준비호흡, 최종호흡, 회복호흡, 이퀄라이징, 덕다이브 등 용어부터 다이빙 장비 사용법, 입수법까지 쉽게 설명해주셔서 아무것도 모르는 저도 금방 이해됐고 \n\n입수 후에도 계속 안전 체크해주시고 자세 바로 교정해주신 덕분에 금방 따라해서 잘했다고 칭",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +78,7 @@
         "likes": 260,
         "comments": 13
       },
-      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
       "history": [
         {
           "d": "2026-09-05",
@@ -197,20 +241,26 @@
           "views": null,
           "likes": 260,
           "comments": 13
+        },
+        {
+          "d": "2026-10-02",
+          "views": null,
+          "likes": 260,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 310.5,
         "n": 12,
-        "captured_at": "2026-10-01T09:25:16.923285+09:00"
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.01406781407812017,
         "vs_baseline": 0.8792270531400966,
-        "cost_per_eng": 1428.5714285714287,
+        "cost_per_eng": 714.2857142857143,
         "cost_per_view": null
       },
       "analysis": {
@@ -225,7 +275,7 @@
           "analyzed_at": "2026-09-16T08:27:25.841469+09:00"
         }
       },
-      "last_written_reaction": "좋아요 260 · 댓글 13 · ER 1.4% · 평소대비 0.9x (D+29)"
+      "last_written_reaction": "좋아요 260 · 댓글 13 · ER 1.4% · 평소대비 0.9x (D+30)"
     }
   ],
   "flags": {
@@ -236,5 +286,5 @@
   },
   "child_db_id": "59239eba-97ed-83dd-9a2f-817824ee3ec1",
   "followers": 19406,
-  "last_written_score": 88
+  "last_written_score": 78
 }

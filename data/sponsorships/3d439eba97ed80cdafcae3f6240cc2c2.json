@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-20T04:36:04.000Z",
       "permalink": "https://www.instagram.com/p/Ddfvby3CXcH/",
-      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/808192326_18107009741167790_5228449273816689829_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MDExNDA2NjY1MzE3MjM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzE4NC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hibu65fV80cQ7kNvwGGwOqk&_nc_oc=Adptk8oNJBo_pjRRnynEBpwoncFvy9pyvjOQwOx_lcxc3jcgZMQ_S0QhJdDWBUvbe271gR6SNCnCkx6h2KYUVO7m&_nc_ad=z-m&_nc_cid=1698&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=lH_gWgSTWlyI3CAF2Mp6Ww&_nc_ss=7a22e&oh=00_AQOBMoLwQntGKFYX_eGbzoeDPZNK2nPmn6-w1I_sAVIfLQ&oe=6AC36F35",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/808192326_18107009741167790_5228449273816689829_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MDExNDA2NjY1MzE3MjM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzE4NC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hibu65fV80cQ7kNvwGVLntT&_nc_oc=Adr-BQGCw0Bz-LWua3QWE71xKgMSJgK_1GpUux6OAPF4QDuKB2BbUIZVR1uyr7nQuZA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=oGjF5ROgkVKDo2ek5_MveQ&_nc_ss=7a22e&oh=00_AQMiERKOl08QecWDTd_eLRTJ5KKX6QjNvxD2kNU83iXKyA&oe=6AC4C0B5",
       "caption": "@laserin_swim #제품제공\n\n라세린 말랑가드 수경케이스 블루🩵\n\n이름처럼 말랑말랑 하고 수경을 넣고 \n빼기 쉬워서 손이 많이 갈 것 같은 케이스!\n\n예전에 다이소 수경케이스를 사봤는데 \n안에 구조 때문에 수경에 기스 날 것 같더라고요🥲\n\n하지만 말랑가드는 안에 코걸이 고정 하는 부분이 \n같은 말랑 재질이라 걱정 없어요!!🤩\n\n실용성도 좋지만 지비츠로 꾸밀 수 있는데 너무 귀엽죠? \n고리 구멍도 있어서 키링을 걸면 귀엽기도 하고 \n제꺼를 한눈에 구별할 수 있을 것 같아요~⭐️\n\n컬러는 총 5가지: \n블루, 핑크, 옐로우, 민",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 69,
         "comments": 8
       },
-      "metrics_updated_at": "2026-10-01T09:25:16.923285+09:00",
+      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -83,16 +83,22 @@
           "views": null,
           "likes": 69,
           "comments": 8
+        },
+        {
+          "d": "2026-10-02",
+          "views": null,
+          "likes": 69,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 212,
         "n": 11,
-        "captured_at": "2026-10-01T09:25:16.923285+09:00"
+        "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.07375478927203065,
         "vs_baseline": 0.3632075471698113,
@@ -106,7 +112,7 @@
           "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
         }
       },
-      "last_written_reaction": "좋아요 69 · 댓글 8 · ER 7.4% · 평소대비 0.4x (D+10)"
+      "last_written_reaction": "좋아요 69 · 댓글 8 · ER 7.4% · 평소대비 0.4x (D+11)"
     }
   ],
   "flags": {
