@@ -25,16 +25,16 @@
       "first_seen": "2026-10-01",
       "posted_at": "2026-09-29T07:31:41.000Z",
       "permalink": "https://www.instagram.com/p/Dd3Or9iH_mr/",
-      "thumbnail": "https://instagram.fmid2-1.fna.fbcdn.net/v/t51.82787-15/828506842_17960102151209882_3382510771372397903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NjcyMjg5MjI1NDk5MTQ0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjY3LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=zvWLdVoGwCgQ7kNvwHC_lEp&_nc_oc=Adq9C0mExHzbm0nSFCD8c1gWLTn5rd8Dc1UmP4SLX4PsEFb3kaRzFEk1NcNtHw79mIc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmid2-1.fna&_nc_gid=vqs73Z-qsk3dwmbx8RPprg&_nc_ss=7a22e&oh=00_AQM-w9J_-2ucpj8MLQ1rt02cFKhGY0nPoG0BrR3yp2_1ig&oe=6AC4C071",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/828506842_17960102151209882_3382510771372397903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5NjcyMjg5MjI1NDk5MTQ0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjY3LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=zvWLdVoGwCgQ7kNvwE64L4G&_nc_oc=AdpVKRvllCiaFbZVg_vl-FpfuImd_wv-RPBa9xYtEFE9MG68nLMMZ8XDzuXFUyy8F9kRfafUqqPbRgPlvMOZTYmi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=809N6e10qSLEhqCbeSE2ig&_nc_ss=7a22e&oh=00_AQMjkY70K2psXrFV6rTWL-F1F0Qx27amMZ4UAjk6IPZcSg&oe=6AC611F1",
       "caption": "#협찬 @gogodive \n수영과는 전혀 다른 세계인 프다 경험✨\n\n첨엔 발판을 넘어가는 것도 너무 무서웠는데 하다보니 또 재밌네😆\n\n#고고다이브 #프리다이빙 #프리다이빙강습\n\n프다 배우러 갔는데 인생샷 나옴📸\n수영인이라 다이나믹 젤 잘함\n50미터 쌉가능😂😂\n\n초급강습 듣고 너무 어려워서 바로 자율연습반 신청하고\n무한연습 했더니 이제 좀 자유로워진거 같기도😂\n\n연습반에서 초고수님을 만나서 머메이드도 배우고 묘기도 배우고 꿀잼꿀잼🔥🔥\n\n고고다이브는 연습반과 코칭반이 무제한인게 진짜진짜 최고🫶🏻 초보는 연습만이 살 길이다!!!\n\n연습반",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "sw.im.yeon",
       "metrics": {
-        "likes": 48,
+        "likes": 49,
         "comments": 5
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-10-01",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": 48,
           "comments": 5
+        },
+        {
+          "d": "2026-10-03",
+          "views": null,
+          "likes": 49,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 252.5,
         "n": 12,
-        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+        "captured_at": "2026-10-03T09:16:37.017097+09:00"
       },
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
-        "er": 0.01278957528957529,
-        "vs_baseline": 0.2099009900990099,
-        "cost_per_eng": 3679.245283018868,
+        "er": 0.013030888030888031,
+        "vs_baseline": 0.21386138613861386,
+        "cost_per_eng": 3611.1111111111113,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 48 · 댓글 5 · ER 1.3% · 평소대비 0.2x (D+2)"
+      "last_written_reaction": "좋아요 49 · 댓글 5 · ER 1.3% · 평소대비 0.2x (D+3)"
     },
     {
       "notion_row_id": "daa39eba-97ed-8284-8e03-81623371de41",
@@ -74,17 +80,17 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-24T14:46:25.000Z",
       "permalink": "https://www.instagram.com/p/DdrIFS3B7is/",
-      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/821729280_2327391081427798_203072680686577604_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5MzMyMTA0MjgxNDE1NDkyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=SCVJ62WFnD8Q7kNvwGiB4xU&_nc_oc=Adrg_QGUm06ZRcO2chG4jWabc9L_7ia0SHdZu4qocOy-04wc1R3_4k6j5Nf5LNCWB8OFhcIp1GCDw17JTfjrpiiz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=-QipASN_smaMCVDRz5kHnw&_nc_ss=7a22e&oh=00_AQNTft12sSadDK_C1mZib_1X8XrJhn6NBjS7-YIbAV7OLA&oe=6AC4D0CF",
+      "thumbnail": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/821729280_2327391081427798_203072680686577604_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5MzMyMTA0MjgxNDE1NDkyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=SCVJ62WFnD8Q7kNvwGZfBMC&_nc_oc=AdqnUnju2gByqGyP6KjuLDcqvUC4Culc1hVrUAzwRnKap9fvCf9HmrLvniQ38JIRDwzOEjmfkL-4MJdV9mBCTGWD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=9CIgybvh2zeuVGjxmFOfmg&_nc_ss=7a22e&oh=00_AQPCUVJy4IeY7SZ035pUsWMFHN3cOMXyCBfFweR6uEantw&oe=6AC6224F",
       "caption": "#협찬 프다 처음간 수영인 후기\n\n프다는 장비가 필요하다보니 장벽이 높다고 느꼈거든요👉🏻👈🏻\n고고다이브 강습과 자율연습 시간에 전부 빌려준다하여\n수영복만 들구 편하게 다녀왔습니다🫶🏻\n@gogodive 최고최고🩵🩵\n\n프리다이빙 너무 어려운 것🥺\n물 속에 들어가니 이퀄은 안되고...\n덕다이빙은 왜 자꾸 이상하게 들어가는건지😂😂\n\n이대로는 안된다싶어서 다음날 바로\n자율연습반 신청해서 될때까지 무한 연습🔥\n이제 5미터는 껌인듯🤭🤭\n\n#고고다이브 #프리다이빙 #프리다이빙강습",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sw.im.yeon",
       "metrics": {
-        "views": 3100,
+        "views": 3118,
         "likes": 52,
         "comments": 6
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-09-29",
@@ -109,23 +115,29 @@
           "views": 3100,
           "likes": 52,
           "comments": 6
+        },
+        {
+          "d": "2026-10-03",
+          "views": 3118,
+          "likes": 52,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": 29918.0,
         "eng_median": 236.5,
         "n": 6,
-        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+        "captured_at": "2026-10-03T09:16:37.017097+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.013996138996138996,
-        "vs_baseline": 0.10361655190855004,
+        "vs_baseline": 0.10421819640350291,
         "cost_per_eng": 3362.0689655172414,
-        "cost_per_view": 62.903225806451616
+        "cost_per_view": 62.540089801154586
       },
-      "last_written_reaction": "조회 3,100 · 좋아요 52 · 댓글 6 · ER 1.4% · 평소대비 0.1x (D+7)"
+      "last_written_reaction": "조회 3,118 · 좋아요 52 · 댓글 6 · ER 1.4% · 평소대비 0.1x (D+8)"
     }
   ],
   "flags": {

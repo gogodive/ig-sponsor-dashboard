@@ -25,17 +25,17 @@
       "first_seen": "2026-09-19",
       "posted_at": "2026-09-16T13:52:04.000Z",
       "permalink": "https://www.instagram.com/p/DdWbS7YS5-h/",
-      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t15.5256-10/813867812_1092383529875222_296013439174366092_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk4NzQ5NDU2ODA0NzkxMDgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=N5L0A7NYip8Q7kNvwFvNbBb&_nc_oc=AdqlGOEUZJ3H3Y3Ki9t78Gdu6AR0fz_vGWVJVvPc7Rnnhmv6_GI7aEJ2iaaORpifUXLlHjdfYBLmS308BqcHHCul&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_gid=MNJXKNStm7VCP5POs5seqg&_nc_ss=7a22e&oh=00_AQOBEoPsu8Nz8GWB-Aztaf1RPWRYXWVfoAmIuT-4g0A8VQ&oe=6AC4DABA",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t15.5256-10/813867812_1092383529875222_296013439174366092_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk4NzQ5NDU2ODA0NzkxMDgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=asH3vr8u-jIQ7kNvwFWoUCW&_nc_oc=AdrReFLXxYgZfVzpmPqyBfPupLEC8vFMwut7v4Ca-T6Yb58-AuLqJ7Y_SC8ztYr2K0s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=1bLj3EkjsJjEGR6ChY6x-A&_nc_ss=7a22e&oh=00_AQPXijmJY-ZTn1gQqiieTVmnkiZR_sI_RbXd2QX-terCvg&oe=6AC62C3A",
       "caption": "요즘 나, 물속에서 노는 중 🧜🏻‍♀️🫧\n두 번째 프리다이빙.\n영롱한 오로라 핀 장착하고 인어놀이✨\n\n새로운 취미가 생겼다💙\n\n #인투더블루 #딥바이브 #딥바이브롱핀 #오로라핀 \n@intotheblue_store",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "l_soo_soo",
       "metrics": {
-        "views": 1351,
+        "views": 1356,
         "likes": 79,
         "comments": 15
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-09-19",
@@ -120,17 +120,23 @@
           "views": 1351,
           "likes": 79,
           "comments": 15
+        },
+        {
+          "d": "2026-10-03",
+          "views": 1356,
+          "likes": 79,
+          "comments": 15
         }
       ],
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.004191376465867035,
+        "er": 0.0041939945567304685,
         "vs_baseline": null,
         "cost_per_eng": 3340.425531914894,
-        "cost_per_view": 232.42042931162104
+        "cost_per_view": 231.56342182890856
       },
-      "last_written_reaction": "조회 1,351 · 좋아요 79 · 댓글 15 · ER 0.4% (D+15)",
+      "last_written_reaction": "조회 1,356 · 좋아요 79 · 댓글 15 · ER 0.4% (D+16)",
       "analysis": {
         "d3": {
           "one_liner": "게시 3일차 팔로워 대비 참여율 0.37%·조회 1177회로 초기 반응이 매우 저조하며, 참여 1건당 3,783원의 비용 효율도 개선이 필요한 수준입니다.",
@@ -147,5 +153,5 @@
     "account_unavailable": false
   },
   "child_db_id": "b1439eba-97ed-8372-837f-01a9e44a27e8",
-  "followers": 22427
+  "followers": 22413
 }

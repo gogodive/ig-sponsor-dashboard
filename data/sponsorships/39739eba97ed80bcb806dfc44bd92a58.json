@@ -25,7 +25,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-06T05:04:45.000Z",
       "permalink": "https://www.instagram.com/p/Dc7vct0h-GA/",
-      "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/797857947_18488115961104971_4429236558897085341_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3OTk4MzM3NzI0MzAzODA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7Z00oUndn_sQ7kNvwGO0Ext&_nc_oc=AdpU0TbWIcZnl4rUwKUOPkkZvVatDMuu5iGnqUowgYXkZ5aLQCYg_5uyzfp_sTmjD9unH5usqgjLeN1BS0vFynrW&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=LL26aU9lHIr_oryzEAi1og&_nc_ss=7a22e&oh=00_AQMzrr0xeD7jyHk5PD5qwiDdnyEYw3-8NzmIwpiJ1OhbQg&oe=6AC4C4F8",
+      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/797857947_18488115961104971_4429236558897085341_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3OTk4MzM3NzI0MzAzODA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7Z00oUndn_sQ7kNvwH_063f&_nc_oc=AdpRPoKpB2k0llm3VexgIrRd1ZVPpvu2FV4QLY9ZXTftZgshQ5gESmDo34yAjXJoQVA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=eZuCY7IyP0OGyk4CIyiSZA&_nc_ss=7a22e&oh=00_AQNcoUxdp1006kT6mTpemYvQDsi5ivvg6JIwh5lbFzsxOQ&oe=6AC61678",
       "caption": "9월부터 온기운이 나를 도와주나!\n좋은 기운 그대루 가보쟈 ❣️\n\n@secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 16
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -125,16 +125,22 @@
           "views": null,
           "likes": -1,
           "comments": 16
+        },
+        {
+          "d": "2026-10-03",
+          "views": null,
+          "likes": -1,
+          "comments": 16
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 18,
         "n": 7,
-        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+        "captured_at": "2026-10-03T09:16:37.017097+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0002875491229751749,
         "vs_baseline": 0.8333333333333334,
@@ -153,7 +159,7 @@
           "analyzed_at": "2026-09-21T08:05:01.479098+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.8x (D+25)"
+      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.8x (D+26)"
     },
     {
       "notion_row_id": "ca239eba-97ed-83c1-a8aa-016da866a837",
@@ -322,7 +328,7 @@
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": true,
-      "days_since_post": 79,
+      "days_since_post": 80,
       "computed": {
         "er": 9.584970765839164e-05,
         "vs_baseline": 0.7242268041237113,

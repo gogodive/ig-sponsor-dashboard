@@ -26,7 +26,7 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-21T10:25:57.000Z",
       "permalink": "https://www.instagram.com/p/Ddi8RTZmko9/",
-      "thumbnail": "https://instagram.fyyc7-1.fna.fbcdn.net/v/t51.82787-15/819376141_18629410933018563_6334988937299503368_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MTAxNjgxNjY4MzMyNjE0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=o_uqVSRGdxkQ7kNvwGHxoo_&_nc_oc=AdozoAPHAUxMXxBk-O7AKI919KfC0T8o7DzSIBRpfZC7htAucENdxkU41nevYG2UDE7qtAKkjHr1cA0CBdmlaGge&_nc_ad=z-m&_nc_cid=27&_nc_zt=23&_nc_ht=instagram.fyyc7-1.fna&_nc_gid=84bSkjjVtowHgCV_ciDmuQ&_nc_ss=7a22e&oh=00_AQOvKVXLg8KncBZlHkj04g1Q_3R5FfL6VUd28Iq6RKk6jA&oe=6AC4BCAB",
+      "thumbnail": "https://instagram.fadl7-2.fna.fbcdn.net/v/t51.82787-15/819376141_18629410933018563_6334988937299503368_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MTAxNjgxNjY4MzMyNjE0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY5Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BaQWL_OFQ4wQ7kNvwEZXsM7&_nc_oc=Adq588BkvXzorqa-juYSSxOg_fjlyKxPMekGSkzmMonggstOJCl1-L-0FFyIUmLndSM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fadl7-2.fna&_nc_gid=ctDGm4mOjXIJvIwyp_WCBg&_nc_ss=7a22e&oh=00_AQOhaQ4qkYd_yFGLfIHl6jKxh2NqiUSi8zlnQHv94ippDg&oe=6AC60E2B",
       "caption": "물공포증에서 프리다이빙까지의 도전 🤿\n\n물에 발만 겨우 담그던 단계에서\n발 닿는 곳 → 5~10M 수심까지\n천천히 트라우마 극복 중 🫧\n\n모든 과정은 ‘고고다이브’와 함께했어요\n@gogodive \n\n🩵 고고다이브 1+2레벨 패키지 🩵\n☑︎ 20만원대 업계 최저가\n︎︎☑︎ 이론 + 강습반 + 무제한 코칭반 + 사진/영상촬영 포함\n☑︎ 어플을 통해 간단하게 원하는 날짜 예약\n☑︎ 수도권 뿐만 아니라 전국 곳곳에서 강습 가능\n\n프리다이빙은 꾸준히 물에 들어가면서\n호흡, 이퀄라이징, 잠영 등에 대한\n감각을 유지하는게 중요한데\n집 가까운 곳",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -35,7 +35,7 @@
         "likes": 92,
         "comments": 31
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-09-29",
@@ -60,23 +60,29 @@
           "views": null,
           "likes": 92,
           "comments": 31
+        },
+        {
+          "d": "2026-10-03",
+          "views": null,
+          "likes": 92,
+          "comments": 31
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 85.0,
         "n": 4,
-        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+        "captured_at": "2026-10-03T09:16:37.017097+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.022647762842938686,
         "vs_baseline": 1.4470588235294117,
         "cost_per_eng": 3170.731707317073,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 92 · 댓글 31 · ER 2.3% · 평소대비 1.4x (D+10)"
+      "last_written_reaction": "좋아요 92 · 댓글 31 · ER 2.3% · 평소대비 1.4x (D+11)"
     }
   ],
   "flags": {

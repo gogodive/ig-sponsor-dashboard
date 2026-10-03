@@ -1,7 +1,7 @@
 {
   "page_id": "38a39eba-97ed-8047-8658-f244b947b4eb",
   "row_title_raw": "yoondhyun",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,40 +25,46 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T11:48:59.000Z",
       "permalink": "https://www.instagram.com/p/Dd6QZWHJTdh/",
-      "thumbnail": "https://instagram.fgru19-1.fna.fbcdn.net/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=qtrdYJ0wZMwQ7kNvwEyHrXU&_nc_oc=AdoY9M6MUaT97Voq9J1XfLRhlfX5OeBbqc54RwOe_JLbvhQRopiI6rDdB-rQyRs0UmQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fgru19-1.fna&_nc_gid=Y5tnVTMpj4OhFc-uNpWcsA&_nc_ss=7a22e&oh=00_AQO5p7JSOd4Z2kIVdohymDh5shcYkVBtMlVMjvKK3W_Nlw&oe=6AC4DDDC",
+      "thumbnail": "https://instagram.fmex12-1.fna.fbcdn.net/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=qtrdYJ0wZMwQ7kNvwHJ7Zx3&_nc_oc=AdpyozoODIobh7gnaL8cA1lR4mc0lyZ0ouwRbxOACXB7QO_hAM2-iq9tYW-_F8bJKUCUg21mx0QiYVQtr5nCC8vk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmex12-1.fna&_nc_gid=iTKAyk5swuPZ63Yb75JBaw&_nc_ss=7a22e&oh=00_AQPIwfVXoY8Wx4kWZkRpSh8IwoilzXRFmyAishGKODDBCg&oe=6AC62F5C",
       "caption": "휴양지 여행을 가장 특별하게 보내는 방법 🤿 @gogodive \n\n살면서 꼭 해봐야 할 인생 버킷리스트 있으세요 ? \n\n저는 #프리다이빙 이었는데 올해 해냈어요 ! \n\n바다에 놀러가거나 호핑투어 스노클링하면 다들 물가에서만 놀잖아요 ! 그럴때 멋지게 입수해서 바다속 생물을 만나는 일. \n\n이 모든 걸 가능하게 해주는 건 “프리다이빙” 입니다 ! \n\n제가 함께한 고고다이브(gogodive)에서 호흡법부터 스태틱, CWT, 다이내믹, 그리고 이퀄라이징까지\n\n프리다이빙 전문 강사님과 함께 한번 배워놓으면 평생 써먹는 프리다이빙 꼭 한번 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yoondhyun",
       "metrics": {
-        "views": 6053,
-        "likes": 161,
-        "comments": 2
+        "views": 6131,
+        "likes": 165,
+        "comments": 5
       },
-      "metrics_updated_at": "2026-10-02T09:36:00.806535+09:00",
+      "metrics_updated_at": "2026-10-03T09:16:37.017097+09:00",
       "history": [
         {
           "d": "2026-10-02",
           "views": 6053,
           "likes": 161,
           "comments": 2
+        },
+        {
+          "d": "2026-10-03",
+          "views": 6131,
+          "likes": 165,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": 6453.5,
         "eng_median": 163.5,
         "n": 6,
-        "captured_at": "2026-10-02T09:36:00.806535+09:00"
+        "captured_at": "2026-10-03T09:16:37.017097+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.005410967998937724,
-        "vs_baseline": 0.9379406523591849,
-        "cost_per_eng": 1196.3190184049079,
-        "cost_per_view": 32.21543036510821
+        "er": 0.0056433408577878106,
+        "vs_baseline": 0.9500271170682575,
+        "cost_per_eng": 1147.0588235294117,
+        "cost_per_view": 31.805578209101288
       },
-      "last_written_reaction": "조회 6,053 · 좋아요 161 · 댓글 2 · ER 0.5% · 평소대비 0.9x (D+1)"
+      "last_written_reaction": "조회 6,131 · 좋아요 165 · 댓글 5 · ER 0.6% · 평소대비 1.0x (D+2)"
     },
     {
       "notion_row_id": "6e539eba-97ed-82c6-a4ba-015fb27eb490",
@@ -256,7 +262,7 @@
         "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": true,
-      "days_since_post": 74,
+      "days_since_post": 75,
       "computed": {
         "er": 0.009992032930553712,
         "vs_baseline": 1.0654867256637168,
@@ -290,5 +296,5 @@
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
   "followers": 30124,
-  "last_written_score": 100
+  "last_written_score": 101
 }
