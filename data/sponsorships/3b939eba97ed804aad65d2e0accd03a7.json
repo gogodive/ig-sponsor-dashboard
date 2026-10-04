@@ -25,7 +25,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-03T14:48:55.000Z",
       "permalink": "https://www.instagram.com/p/Dc1D036zGjA/",
-      "thumbnail": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=XSyRXdtVgxgQ7kNvwGyIiCA&_nc_oc=Adp8kYso5lKHsmGk1r7CXQ6S-aMhj3k1yWL00KSpIVyJHbT1Axjp9KTRK_R4oWKe6qQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=G-87ZaCD7hvzL7R4m46AAg&_nc_ss=7a22e&oh=00_AQNAEiTpI8glGeR49folEaqKbXaQmpzHp4P2PfhYZPp7gA&oe=6AC75105",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.71878-15/793143889_1412812177445756_2254890329224808364_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3ODEwMjY3MzQ0NjI5OTg0MDI0NzQ4MDQxODYzMjE5NzY%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=UuqnpCZmtLcQ7kNvwE4LYad&_nc_oc=AdoD9D1OZx52OaESXm1Y6sdZAr8JswxcsEhDtKeLUSfzOMWfFp_X0dpkCG2SXrPpZZw7hqMPfEiIGhuH3M9CSGgn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=73Epf5SksqovxM1tdqYTfQ&_nc_ss=7a22e&oh=00_AQMR7L502IJl2D34wfYkbYJsuauDQLSdEQinYOQXRCzUlA&oe=6AC8A285",
       "caption": "프리다이빙 배우고 왔어요💙\n\n인어공주 되는 그날까지...♡🧜🏻‍♀️⭐\n.\n.\n.\n\r\n@intotheblue_store \r\n\r\n#인투더블루 #딥바이브 #딥바이브롱핀 #오로라롱핀",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,15 +224,15 @@
         "n": 4,
         "captured_at": "2026-10-04T08:36:56.072799+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.00015997056541596345,
         "vs_baseline": 0.8391390893257029,
         "cost_per_eng": 7850.0,
         "cost_per_view": 23.276501111934767
       },
-      "last_written_reaction": "조회 6,745 · 좋아요 -1 · 댓글 21 · ER 0.0% · 평소대비 0.8x (D+30)",
+      "last_written_reaction": "조회 6,745 · 좋아요 -1 · 댓글 21 · ER 0.0% · 평소대비 0.8x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.53x로 부진한 초기 반응, 조회당 26.6원·참여당 8,722원으로 비용 효율 개선이 필요한 상황입니다.",
@@ -454,7 +454,7 @@
         "captured_at": "2026-09-26T08:53:42.554678+09:00"
       },
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": 0.0003519352439151196,
         "vs_baseline": 0.9887640449438202,
