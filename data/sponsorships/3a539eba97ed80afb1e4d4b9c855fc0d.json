@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T13:41:22.000Z",
       "permalink": "https://www.instagram.com/p/Dd6cXI8vyS1/",
-      "thumbnail": "https://instagram.fmxp8-1.fna.fbcdn.net/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=i4o1QJwzSHAQ7kNvwFzrl2E&_nc_oc=AdpnVdZc2e9I7suqSpaYiZWO3KG-l1pifwA5yFL9gFtnpYsrPuJ2FOTUUk16SN0kCDY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp8-1.fna&_nc_gid=IRwHZeZIvljylP3tI3BPVg&_nc_ss=7a22e&oh=00_AQPM5j91Qhv9btokzrVa9ngIOVW7mPwHz-KHWlJu8GUu9g&oe=6AC8A22D",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=i4o1QJwzSHAQ7kNvwHX0fI_&_nc_oc=AdoVxfi45HPk3-rtnWgQG_Kh973Sq-saUnFa5cMJIFJ9rADOod9ioZxeVxOOf6sN0uY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=6Gbw0yReZ9vaB_0qLZxXaA&_nc_ss=7a22e&oh=00_AQOxk0pIwed2_5l0Z319QKhLh3Ca8JfKn8O7jT1EA5NsBw&oe=6ACA2BED",
       "caption": "프리다이빙 넘 재밌잖아 😱\n\n@gogodive \n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브강습",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "h.a.d93",
       "metrics": {
-        "views": 3500,
-        "likes": 231,
+        "views": 3542,
+        "likes": 235,
         "comments": 8
       },
-      "metrics_updated_at": "2026-10-05T08:52:32.052075+09:00",
+      "metrics_updated_at": "2026-10-06T10:41:46.501370+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -60,23 +60,29 @@
           "views": 3500,
           "likes": 231,
           "comments": 8
+        },
+        {
+          "d": "2026-10-06",
+          "views": 3542,
+          "likes": 235,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": 4460.5,
         "eng_median": 171.0,
         "n": 4,
-        "captured_at": "2026-10-05T08:52:32.052075+09:00"
+        "captured_at": "2026-10-06T10:41:46.501370+09:00"
       },
       "frozen": false,
-      "days_since_post": 4,
+      "days_since_post": 5,
       "computed": {
-        "er": 0.01232784855831227,
-        "vs_baseline": 0.7846653962560252,
-        "cost_per_eng": 815.8995815899582,
-        "cost_per_view": 55.714285714285715
+        "er": 0.01253417238355599,
+        "vs_baseline": 0.7940813810110974,
+        "cost_per_eng": 802.4691358024692,
+        "cost_per_view": 55.05364201016375
       },
-      "last_written_reaction": "조회 3,500 · 좋아요 231 · 댓글 8 · ER 1.2% · 평소대비 0.8x (D+4)"
+      "last_written_reaction": "조회 3,542 · 좋아요 235 · 댓글 8 · ER 1.3% · 평소대비 0.8x (D+5)"
     },
     {
       "notion_row_id": "5a939eba-97ed-833a-9551-81bc930bb3ef",
@@ -274,7 +280,7 @@
         "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.01408160107288389,
         "vs_baseline": 0.8792270531400966,
@@ -304,5 +310,5 @@
   },
   "child_db_id": "59239eba-97ed-83dd-9a2f-817824ee3ec1",
   "followers": 19387,
-  "last_written_score": 83
+  "last_written_score": 84
 }
