@@ -25,7 +25,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-06T05:04:45.000Z",
       "permalink": "https://www.instagram.com/p/Dc7vct0h-GA/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/797857947_18488115961104971_4429236558897085341_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3OTk4MzM3NzI0MzAzODA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=bIitEcjVaEMQ7kNvwF2EQv9&_nc_oc=Adp6wk1s_IQF9xcmkBdS1V17A84UpviJDlpygoX6pU7dsnxlv1-9KcWG_IVaSlit4PaFHSw0pZag_cwxFlrlniew&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=b0vu7P4_DMTBGe8mDrVPbQ&_nc_ss=7a22e&oh=00_AQMISlm5J32qTaMsKNIuDCm8LOeJ80yO6LvKIP6xCgWToQ&oe=6ACB5C78",
+      "thumbnail": "https://instagram.flyn1-1.fna.fbcdn.net/v/t51.82787-15/797857947_18488115961104971_4429236558897085341_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3OTk4MzM3NzI0MzAzODA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CNMV-ygUnEAQ7kNvwG8x0p_&_nc_oc=Adoy4U5QdSajZw16qLNVf1nOvB9njRLsESvKFeg9LYIETxE0EP6ZCAoPiF9cYV5R7QE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flyn1-1.fna&_nc_gid=qHKVdCy5-TXm4mYEaROOhA&_nc_ss=7a22e&oh=00_AQP8C7_l3MVKDLJkBRccS-XG_bsdM0bwM3yhKfO3n5ZHxQ&oe=6ACCADF8",
       "caption": "9월부터 온기운이 나를 도와주나!\n좋은 기운 그대루 가보쟈 ❣️\n\n@secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -163,8 +163,8 @@
         "n": 7,
         "captured_at": "2026-10-07T09:29:37.720732+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0002875491229751749,
         "vs_baseline": 0.8333333333333334,
@@ -183,7 +183,7 @@
           "analyzed_at": "2026-09-21T08:05:01.479098+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.8x (D+30)"
+      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.8x (확정)"
     },
     {
       "notion_row_id": "ca239eba-97ed-83c1-a8aa-016da866a837",
@@ -352,7 +352,7 @@
         "captured_at": "2026-08-14T06:50:43.027547+09:00"
       },
       "frozen": true,
-      "days_since_post": 84,
+      "days_since_post": 85,
       "computed": {
         "er": 9.584970765839164e-05,
         "vs_baseline": 0.7242268041237113,

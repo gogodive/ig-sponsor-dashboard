@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T11:48:59.000Z",
       "permalink": "https://www.instagram.com/p/Dd6QZWHJTdh/",
-      "thumbnail": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=yAs3nXTMUAAQ7kNvwELgvjv&_nc_oc=AdroPfwNoai9N7kLVwjmFDG80wEAQ_5DoxVVN-MXj7QQ7khaULSW3B3PwUgSgQgWAqo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=-LRjzZ7Zq39XrRw-SN3UOw&_nc_ss=7a22e&oh=00_AQN8lBre3IPycLISRh5mtdbqpYY6zoJ9NPFvzhLRB5ohCQ&oe=6ACB755C",
+      "thumbnail": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=8hejTJTH6ykQ7kNvwGwfwhZ&_nc_oc=AdoKG0h0avMeQp-c2L0R-iUf8Xmre_WA4qtfeDA3fv0W1QIlYq432BRIZrvfK-RaOLU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_gid=HdVOR9hZh4luqmVXGKNVhg&_nc_ss=7a22e&oh=00_AQNwzGvE4m8E__ustgcHdVmJUDH5KrQlgWakKMef9Y5ARw&oe=6ACCC6DC",
       "caption": "휴양지 여행을 가장 특별하게 보내는 방법 🤿 @gogodive \n\n살면서 꼭 해봐야 할 인생 버킷리스트 있으세요 ? \n\n저는 #프리다이빙 이었는데 올해 해냈어요 ! \n\n바다에 놀러가거나 호핑투어 스노클링하면 다들 물가에서만 놀잖아요 ! 그럴때 멋지게 입수해서 바다속 생물을 만나는 일. \n\n이 모든 걸 가능하게 해주는 건 “프리다이빙” 입니다 ! \n\n제가 함께한 고고다이브(gogodive)에서 호흡법부터 스태틱, CWT, 다이내믹, 그리고 이퀄라이징까지\n\n프리다이빙 전문 강사님과 함께 한번 배워놓으면 평생 써먹는 프리다이빙 꼭 한번 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yoondhyun",
       "metrics": {
-        "views": 6420,
+        "views": 6435,
         "likes": 259,
         "comments": 5
       },
-      "metrics_updated_at": "2026-10-07T09:29:37.720732+09:00",
+      "metrics_updated_at": "2026-10-08T09:50:01.188488+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -72,23 +72,29 @@
           "views": 6420,
           "likes": 259,
           "comments": 5
+        },
+        {
+          "d": "2026-10-08",
+          "views": 6435,
+          "likes": 259,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": 6453.5,
         "eng_median": 163.5,
         "n": 6,
-        "captured_at": "2026-10-07T09:29:37.720732+09:00"
+        "captured_at": "2026-10-08T09:50:01.188488+09:00"
       },
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
         "er": 0.00876377639091754,
-        "vs_baseline": 0.9948090183621291,
+        "vs_baseline": 0.9971333384984892,
         "cost_per_eng": 738.6363636363636,
-        "cost_per_view": 30.373831775700936
+        "cost_per_view": 30.303030303030305
       },
-      "last_written_reaction": "조회 6,420 · 좋아요 259 · 댓글 5 · ER 0.9% · 평소대비 1.0x (D+6)"
+      "last_written_reaction": "조회 6,435 · 좋아요 259 · 댓글 5 · ER 0.9% · 평소대비 1.0x (D+7)"
     },
     {
       "notion_row_id": "6e539eba-97ed-82c6-a4ba-015fb27eb490",
@@ -286,7 +292,7 @@
         "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": true,
-      "days_since_post": 79,
+      "days_since_post": 80,
       "computed": {
         "er": 0.009992032930553712,
         "vs_baseline": 1.0654867256637168,

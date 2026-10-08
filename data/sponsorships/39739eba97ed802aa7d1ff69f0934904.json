@@ -25,40 +25,46 @@
       "first_seen": "2026-10-07",
       "posted_at": "2026-10-05T14:01:08.000Z",
       "permalink": "https://www.instagram.com/p/DeHX5_4plft/",
-      "thumbnail": "https://instagram.fbcn8-2.fna.fbcdn.net/v/t51.82787-15/838743756_18358952920218886_2399559486712981486_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTI3MTkzNDYxODA2NDg3NzE4MzU4OTUyOTE3MjE4ODg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=qFSRvS06vLIQ7kNvwF9bf79&_nc_oc=AdrixdgGIqZ-0hIbFuRc8HQgUJPES9yxb0q2SmbqEril0gKf7XS1B6HAF2zDbZ38zd4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn8-2.fna&_nc_gid=GYKbuo1kBptNM154Fg39XA&_nc_ss=7a22e&oh=00_AQOv3PSELtBWvj97jmdv9ejOZEH9_nQN5pVj6C77dT5-zA&oe=6ACB7B8B",
+      "thumbnail": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/838743756_18358952920218886_2399559486712981486_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwMTI3MTkzNDYxODA2NDg3NzE4MzU4OTUyOTE3MjE4ODg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=qFSRvS06vLIQ7kNvwH7WcGL&_nc_oc=Adqm6s1MuAv9dsrYgaFj30tSqKjIOBodhdH7orO-AlZYiCVfwuOYosIFH2ZnddP0NlQc1QDzV9-OrLkOZndcH_ku&_nc_ad=z-m&_nc_cid=3&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=ce7Mv5lLRgrweLX_og5j7A&_nc_ss=7a22e&oh=00_AQMX1iQhsrNSjP4-WEGpZniZxVwKnGjkmorPSC5gu_fKjA&oe=6ACCCD0B",
       "caption": "요즘은 가만히 있으면 괜히 뒤처지는 것 같고,\n쉬는 순간에도 다음 할 일을 생각하게 되는데\n\n물속에 들어가니까\n신기할 정도로 아무 생각이 안 들었다,,\n\n숨을 참고 있는데\n오히려 그 어느 때보다 편안했던 순간🫧\n\n계속 나아가는 것만이\n잘 살아가는 건 아닐지도\n\n가끔은 아무 데도 가지 않는 시간도 필요하니까\n\n물을 무서워하고 수영도 못하는 제가\n첫 수업에 이렇게나 쉽게 할 수 있을 줄이야...\n\n프리다이빙 매력에 빠져버렸어요...❤️\n\n요즘 조금 지쳐 있는 사람이 떠오른다면\n조용히 보내주세요 🤍\n\n#고고다이브 #프리다이빙 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "rara_daily.fit",
       "metrics": {
-        "views": 3657,
+        "views": 3867,
         "likes": -1,
-        "comments": 33
+        "comments": 34
       },
-      "metrics_updated_at": "2026-10-07T09:29:37.720732+09:00",
+      "metrics_updated_at": "2026-10-08T09:50:01.188488+09:00",
       "history": [
         {
           "d": "2026-10-07",
           "views": 3657,
           "likes": -1,
           "comments": 33
+        },
+        {
+          "d": "2026-10-08",
+          "views": 3867,
+          "likes": -1,
+          "comments": 34
         }
       ],
       "baseline": {
         "views_median": 5814,
         "eng_median": 32,
         "n": 5,
-        "captured_at": "2026-10-07T09:29:37.720732+09:00"
+        "captured_at": "2026-10-08T09:50:01.188488+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.0006402432924511314,
-        "vs_baseline": 0.6289989680082559,
-        "cost_per_eng": 12187.5,
-        "cost_per_view": 106.6447908121411
+        "er": 0.0006602508953402293,
+        "vs_baseline": 0.6651186790505675,
+        "cost_per_eng": 11818.181818181818,
+        "cost_per_view": 100.8533747090768
       },
-      "last_written_reaction": "조회 3,657 · 좋아요 -1 · 댓글 33 · ER 0.1% · 평소대비 0.6x (D+1)"
+      "last_written_reaction": "조회 3,867 · 좋아요 -1 · 댓글 34 · ER 0.1% · 평소대비 0.7x (D+2)"
     }
   ],
   "flags": {
@@ -69,5 +75,5 @@
   },
   "child_db_id": "5d139eba-97ed-82ed-91ee-01c0fc708acb",
   "followers": 49981,
-  "last_written_score": 63
+  "last_written_score": 67
 }

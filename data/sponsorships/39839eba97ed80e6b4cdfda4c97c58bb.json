@@ -206,7 +206,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 50,
+      "days_since_post": 51,
       "computed": {
         "er": 0.0364786897450214,
         "vs_baseline": 1.7043478260869565,
@@ -237,7 +237,7 @@
       "upload_date_notion": "2026-08-09",
       "first_seen": "2026-08-13",
       "frozen": true,
-      "days_since_post": 59,
+      "days_since_post": 60,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -442,7 +442,7 @@
         "captured_at": "2026-09-09T08:15:29.760160+09:00"
       },
       "frozen": true,
-      "days_since_post": 58,
+      "days_since_post": 59,
       "computed": {
         "er": 0.04215522054718034,
         "vs_baseline": 3.347563605002156,
