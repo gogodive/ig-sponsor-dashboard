@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-10-01",
       "first_seen": "2026-10-02",
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -40,5 +40,5 @@
     "account_unavailable": false
   },
   "child_db_id": "f7c39eba-97ed-83dc-9993-813d0a133e73",
-  "followers": 1489
+  "followers": 1524
 }

@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17T03:22:55.000Z",
       "permalink": "https://www.instagram.com/p/DdX4bnzTyjy/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vtOwkZLE7pYQ7kNvwFVJDsL&_nc_oc=AdpJVKd0_L6BAdUQvViqlVG4OYJY8mHH6G_UPHFbOGzysQurXZM6axhrMU923VXJBY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=4h5L66imbQH7v8hOjlbOXg&_nc_ss=7a22e&oh=00_AQMwrvPoTj9cy1SEp10u1m0fbqEOhyPefzutT6bAzCl6FQ&oe=6ACCD6B2",
+      "thumbnail": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=TPEVm8WsaLMQ7kNvwEZWxIJ&_nc_oc=AdrE0QB18yR4pS-AZ-E_0b9VcD9hPD83Lv3PySYyLRm0q3eHGrWhYmfvkGtJYHMIgDzYRICqMDoHNubE6slS9pfZ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=PUewg1jGsnsolLkTf65fsQ&_nc_ss=7a22e&oh=00_AQONQlPhUyrMtIsxQjlwVUh7JyhhhFjvlD6omt6cNKIGqA&oe=6ACE2832",
       "caption": ".\n#제품제공 \n@laserin_swim \n은은한 블루에\n반짠반짝 펄✨\n인어공주 같쟈나🧜‍♀️",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "swim__jiwoo_",
       "metrics": {
-        "views": 2597,
+        "views": 2598,
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-10-08T09:50:01.188488+09:00",
+      "metrics_updated_at": "2026-10-09T10:03:14.479729+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -162,23 +162,29 @@
           "views": 2597,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-10-09",
+          "views": 2598,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
-        "views_median": 9560,
+        "views_median": 10197,
         "eng_median": 60,
         "n": 11,
-        "captured_at": "2026-10-08T09:50:01.188488+09:00"
+        "captured_at": "2026-10-09T10:03:14.479729+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
-        "er": -0.00018925056775170325,
-        "vs_baseline": 0.271652719665272,
+        "er": -0.00018907165815844205,
+        "vs_baseline": 0.25478081788761403,
         "cost_per_eng": -34500.0,
-        "cost_per_view": 13.284559106661533
+        "cost_per_view": 13.27944572748268
       },
-      "last_written_reaction": "조회 2,597 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.3x (D+20)",
+      "last_written_reaction": "조회 2,598 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.3x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.21x 저조한 조회에 조회당 비용 14.8원, D+3 시점에서 협찬 효율이 매우 낮아 추가 모니터링 필요.",
@@ -196,7 +202,7 @@
       "first_seen": "2026-07-23",
       "posted_at": "2026-07-05T07:46:05.000Z",
       "permalink": "https://www.instagram.com/p/DaZz-KeEazh/",
-      "thumbnail": "https://instagram.fyxe2-1.fna.fbcdn.net/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNDQwMTg5NDM1NjkzMjE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s0Ssc2RSszYQ7kNvwF2EciP&_nc_oc=AdqYdMJVm5SOnZ2HL0GSyqXBdlq4pSRgf3O2bDUCWPAjgPfVL4-mJWTji7Lsz8Gw2yM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fyxe2-1.fna&_nc_gid=ntBOQ-slcvwGSrwpey0hBg&_nc_ss=7a22e&oh=00_AQNLyAHnAm6CgiY95g5gcE8gXcbH9hfldyStWb4qib-Z9w&oe=6AC4D521",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/741000850_18180419689406629_3356050355464369212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzNDQwMTg5NDM1NjkzMjE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vTgjD_l8OHsQ7kNvwGrnyvK&_nc_oc=AdoeZ_8h212n3eD7gv4kyDm_oA09brHKvn0dfXo4gqzMk0mJ50Srg6SJEtuBIX3oSQURcf8X_m-TQuehdJqo1sya&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=rYaUiIAhOf4-hc8JSyGH4Q&_nc_ss=7a22e&oh=00_AQMrwLX50SePMitMNhzSCEKzf-yn4GTpaLOjwLls84TTXQ&oe=6ACE0FA1",
       "caption": ".\n@laserin_swim #제품제공\n\n여름에 딱 어울리는 청량한 컬러💦\n보기엔 부드러워 보이는데 입어보면 한 겹인데도 \n쫀쫀해서 몸을 챡 붙는 느낌!\n\n은은하게 반짝이는 컬러감이 맘네 들어서\npick!🩵\n\n반짝반짝 예뿌다🩵💙\n\n🫧166cm 55kg M size🫧",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -299,9 +305,9 @@
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": true,
-      "days_since_post": 94,
+      "days_since_post": 95,
       "computed": {
-        "er": 0.002081756245268736,
+        "er": 0.0020797882397428627,
         "vs_baseline": 1.1578947368421053,
         "cost_per_eng": 3136.3636363636365,
         "cost_per_view": null
@@ -327,6 +333,6 @@
     "account_unavailable": false
   },
   "child_db_id": "18239eba-97ed-83d4-9991-01e5c91f67ee",
-  "followers": 5284,
+  "followers": 5289,
   "last_written_score": 71
 }
