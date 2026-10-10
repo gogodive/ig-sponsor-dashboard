@@ -25,7 +25,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-08T12:21:55.000Z",
       "permalink": "https://www.instagram.com/p/DdBqtS_PiMH/",
-      "thumbnail": "https://instagram.fsyd8-1.fna.fbcdn.net/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=tTjEv0vRvFMQ7kNvwFjIMYF&_nc_oc=AdoXj1C9oDXLXXTOqTUEa16_Whhm-MnZvicptnzZfPJn82Os1rbo_VfKcfWN5lzlLjhONwHMeIplNS_qMenA1uft&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd8-1.fna&_nc_gid=ozIDHdQMthFObhIQbUhvBA&_nc_ss=7a22e&oh=00_AQOSPHhvH3wEDDSqNead7UjO75c5WyqlX4F0Id2E6iOEJQ&oe=6ACE0400",
+      "thumbnail": "https://instagram.fagp5-1.fna.fbcdn.net/v/t51.82787-15/800825902_18616886626001307_2121956543554614685_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MTY1MTM3NjI5MDUzODI0NzE4NjE2ODg2NjIzMDAxMzA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=tTjEv0vRvFMQ7kNvwH0pECE&_nc_oc=AdrXDUS5tBTNN-iWUVZTOOw8l2gnv4QLrctRw4bk-ms1ahECxHuSwvAQuKa-knMArtQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fagp5-1.fna&_nc_gid=5_LTnjxFb2X8eTwXLYRBTg&_nc_ss=7a22e&oh=00_AQN2_0LqR96Uzw7COIL9dVUxKOAJk22TU93s5GfARk7ZGQ&oe=6ACF5580",
       "caption": "#협찬 @laserin_swim \n\n실내 수영장만 있는 호텔에서 비키니는 부끄럽고\n예쁘게는 입고 싶고👉🏻👈🏻\n그럴때 입기 좋은 너무 예쁜 라세린 수영복🤍\n\n은은하게 반짝거리면서 비침없이 너무 예뻐요!!\n수영에 진심인 분들에게도 딱이에요🐳\n이중겹으로 되어있어 탄탄하게 잡아줘서 수영할때도 아주 좋답니당 \n(만년 5년차 수린이)\n\n#라세린 #수영복 #수영복추천",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -170,8 +170,8 @@
           "comments": 11
         }
       ],
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 1.0613903099608788,
         "vs_baseline": null,
@@ -190,7 +190,7 @@
           "analyzed_at": "2026-09-23T08:32:03.611328+09:00"
         }
       },
-      "last_written_reaction": "조회 123,575 · 좋아요 3,516 · 댓글 11 · ER 106.1% (D+30)"
+      "last_written_reaction": "조회 123,575 · 좋아요 3,516 · 댓글 11 · ER 106.1% (확정)"
     },
     {
       "notion_row_id": "5c939eba-97ed-8326-a0bc-81fa130ec526",
@@ -358,7 +358,7 @@
         "captured_at": "2026-09-17T08:34:54.967193+09:00"
       },
       "frozen": true,
-      "days_since_post": 52,
+      "days_since_post": 53,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,

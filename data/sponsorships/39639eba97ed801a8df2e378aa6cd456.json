@@ -25,17 +25,17 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-15T04:49:18.000Z",
       "permalink": "https://www.instagram.com/p/DdS4wHyuxca/",
-      "thumbnail": "https://scontent-gmp1-1.cdninstagram.com/v/t51.82787-15/811792330_18634894135000366_1164095776851432186_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4NjQ5ODIxNzY4MzEzMDEzODE4NjM0ODk0MTMyMDAwMzY2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk2NC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=GGpHSphgzcIQ7kNvwGX0EJQ&_nc_oc=Ado1uMGSQ2BDBxL2P0cAKqwyyV50Wx7Kp6n1_LzKAXIWywFW1ld0K2O3ojbENdlewXY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_gid=mkl8ryDPqEOJQ6NHo9XeLQ&_nc_ss=7a22e&oh=00_AQPjtIuIAL5Iqc6CXEnbYwbMVBG1JkFj6QsdX7tYE_ij9Q&oe=6ACE2198",
+      "thumbnail": "https://instagram.fmgf10-1.fna.fbcdn.net/v/t51.82787-15/811792330_18634894135000366_1164095776851432186_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjQ5ODIxNzY4MzEzMDEzODE4NjM0ODk0MTMyMDAwMzY2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk2NC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=mk8kxTkct7AQ7kNvwGqOmes&_nc_oc=AdpEroOuDFuGt7QgMIvSBprpH2wKPoFKBKBECdRjf8ahKuTy6OUwPy4Nz4RGOnv94HQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmgf10-1.fna&_nc_gid=6-Jgap_X-gnggJVcQfUKaQ&_nc_ss=7a22e&oh=00_AQNqjM3tcxpAmXwX9HkCWzTcPjk4XeecNDhJh5nDcIASSA&oe=6ACF7318",
       "caption": "9월의 제주 🫧𓇼𓏲*ੈ✩‧₊˚🐠\n\n너무 예쁜 바다를 발견해서 이틀 연속으로 다녀왔어요\n\n바다 들어갈 때에는\n바다타임에서 간조 시간 확인하고\n\n간조 3시간 전 ~ 간조 1시간 후\n시간대에 방문하시는 걸 추천해요\n\n-\n수영복 @laserin_swim\n화이트쉘 와이백 \n\n비치지 않는 화이트 수영복 👙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "_sora_.s",
       "metrics": {
-        "views": 7259,
+        "views": 7264,
         "likes": -1,
         "comments": 17
       },
-      "metrics_updated_at": "2026-10-09T10:03:14.479729+09:00",
+      "metrics_updated_at": "2026-10-10T09:35:43.956481+09:00",
       "history": [
         {
           "d": "2026-09-18",
@@ -168,17 +168,23 @@
           "views": 7259,
           "likes": -1,
           "comments": 17
+        },
+        {
+          "d": "2026-10-10",
+          "views": 7264,
+          "likes": -1,
+          "comments": 17
         }
       ],
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.0003046110497658303,
         "vs_baseline": null,
         "cost_per_eng": 4625.0,
-        "cost_per_view": 10.194241631078661
+        "cost_per_view": 10.187224669603523
       },
-      "last_written_reaction": "조회 7,259 · 좋아요 -1 · 댓글 17 · ER 0.0% (D+23)",
+      "last_written_reaction": "조회 7,264 · 좋아요 -1 · 댓글 17 · ER 0.0% (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "조회수 6,958회로 조회당 비용 10.6원은 준수하나, 좋아요 미집계·참여율 0.03%로 팔로워 반응은 극히 저조해 향후 추이 주시 필요.",
@@ -275,7 +281,7 @@
         "captured_at": "2026-09-27T08:25:49.590448+09:00"
       },
       "frozen": true,
-      "days_since_post": 42,
+      "days_since_post": 43,
       "computed": {
         "er": 0.0005711457183109317,
         "vs_baseline": 2.142857142857143,

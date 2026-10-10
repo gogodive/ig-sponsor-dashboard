@@ -25,17 +25,17 @@
       "first_seen": "2026-10-07",
       "posted_at": "2026-10-02T13:45:07.000Z",
       "permalink": "https://www.instagram.com/p/Dd_nz-rBLSN/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/833275125_18342524977253587_2616901033958054600_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5OTA5MDA4OTkyOTI1ODEyNTE4MzQyNTI0OTc0MjUzNTg3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QXQ6izLm_eAQ7kNvwEcfLuQ&_nc_oc=AdoA3G00edrG8ZD2ci9cbL1MCwtKKDxo25B2Q0kZ485vtPjZtJJ9KlPcXSb5HCRp-vufHX28Se888PnooAFe543P&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=OyqHQY6s9FVC9BMbdMUuxg&_nc_ss=7a22e&oh=00_AQNshMP-UeN5fWIlaNW7gwuybO4mZ-TFI5JsiCct5KeIRA&oe=6ACE09D8",
+      "thumbnail": "https://scontent-bcn1-1.cdninstagram.com/v/t51.82787-15/833275125_18342524977253587_2616901033958054600_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5OTA5MDA4OTkyOTI1ODEyNTE4MzQyNTI0OTc0MjUzNTg3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QXQ6izLm_eAQ7kNvwHgtymr&_nc_oc=AdrKgfDR_KEuBp5wtx4v3QHyzZo72E4e8irgDBkoA_pC-wZTSrkuBMwMBFJJUyYuYfA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bcn1-1.cdninstagram.com&_nc_gid=Vo06wZesB-4lsxSHFQAqJg&_nc_ss=7a22e&oh=00_AQPdWailG3lXeK1k4-PXC3huQOyVohtSdNRHICMXTOUqug&oe=6ACF5B58",
       "caption": "내가 바쁜 이유\n\n𝚜𝚠𝚒𝚖 𝚠𝚎𝚊𝚛 @laserin_swim 크리스탈 웨이브\n🖤 SIZE INFO \n155 / 50 / T143 \nM착용 / 선호사이즈 M \n정핏 또는 여유로운핏 선호 \n#제품제공 #라세린 #수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hxxon_1029",
       "metrics": {
-        "views": 2058,
+        "views": 2073,
         "likes": -1,
         "comments": 10
       },
-      "metrics_updated_at": "2026-10-09T10:03:14.479729+09:00",
+      "metrics_updated_at": "2026-10-10T09:35:43.956481+09:00",
       "history": [
         {
           "d": "2026-10-07",
@@ -54,17 +54,23 @@
           "views": 2058,
           "likes": -1,
           "comments": 10
+        },
+        {
+          "d": "2026-10-10",
+          "views": 2073,
+          "likes": -1,
+          "comments": 10
         }
       ],
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
         "er": 0.0024779735682819385,
         "vs_baseline": null,
         "cost_per_eng": 5111.111111111111,
-        "cost_per_view": 22.351797862001945
+        "cost_per_view": 22.190062711046792
       },
-      "last_written_reaction": "조회 2,058 · 좋아요 -1 · 댓글 10 · ER 0.2% (D+6)"
+      "last_written_reaction": "조회 2,073 · 좋아요 -1 · 댓글 10 · ER 0.2% (D+7)"
     },
     {
       "notion_row_id": "3c739eba-97ed-8096-acd5-ed8d97ff4fbc",
@@ -92,7 +98,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 82,
+      "days_since_post": 83,
       "computed": {
         "er": -0.00027533039647577095,
         "vs_baseline": -0.05,
@@ -302,7 +308,7 @@
         "captured_at": "2026-09-18T08:26:44.975577+09:00"
       },
       "frozen": true,
-      "days_since_post": 51,
+      "days_since_post": 52,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.5143545912776682,

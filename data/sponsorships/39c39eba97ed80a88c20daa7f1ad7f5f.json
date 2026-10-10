@@ -25,16 +25,16 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-10-07T05:55:03.000Z",
       "permalink": "https://www.instagram.com/p/DeLp_I6D9XF/",
-      "thumbnail": "https://scontent-dub4-1.cdninstagram.com/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a7wi18njmxYQ7kNvwFQyGwb&_nc_oc=AdoHuLoUURYC8KysueYiOJV7-EQli68RpGDx_VvoJn0_zqfD2kd1bUirjRDe4URyBJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dub4-1.cdninstagram.com&_nc_gid=THKzenYURcplYwZYjRPrzg&_nc_ss=7a22e&oh=00_AQMFQ-pl-tGRyEyoj8u7L30e_1WmvjICPKi53KLsada5NQ&oe=6ACE019B",
+      "thumbnail": "https://instagram.fktw1-1.fna.fbcdn.net/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QapYZcjNKzUQ7kNvwE4wNxS&_nc_oc=AdoiEaKQIV5UVNQb7LloZfKkZe7RCeyXP5wesElGCEjUiIMgtKEGsqXoEXvh-sLXFaA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw1-1.fna&_nc_gid=4q9Cc8Z-5ew9FLWmiLHH0Q&_nc_ss=7a22e&oh=00_AQOOqzQiABsTT4UULkjPzSgirjg_tncVZr2ET7fLg9lZEA&oe=6ACF531B",
       "caption": "#협찬\n사실 작년에도 프리다이빙에 도전했었는데요!\n.\n그땐 수영을 제대로 안 배웠던 터라 물속이 은근 무섭고 긴장됐었거든요 🫣\n​어릴 때 수영선수였던 동생 영향으로 얼떨결에 수영을 접하긴 했지만,\n이상하게 물이랑은 별로 안 친해서 수중 운동은 늘 거리감이 있었어요 💦\n.\n​근데 올해 제대로 수영을 배우기 시작하면서 물과 친해지고 나니까…\n이번 고고다이브 프리다이빙은 완전히 다른 세상이더라고요?! ✨\n.\n​클라이밍, 등산, 러닝, 싸이클까지 육지 운동은 다 접수했는데,\n이제 수중 도파민까지 완벽 적응 완료 👊\n운동좋아 인간입니다😙😙\n",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "hye_ovv",
       "metrics": {
-        "likes": 60,
+        "likes": 63,
         "comments": 12
       },
-      "metrics_updated_at": "2026-10-09T10:03:14.479729+09:00",
+      "metrics_updated_at": "2026-10-10T09:35:43.956481+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -47,23 +47,29 @@
           "views": null,
           "likes": 60,
           "comments": 12
+        },
+        {
+          "d": "2026-10-10",
+          "views": null,
+          "likes": 63,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 872.5,
         "n": 6,
-        "captured_at": "2026-10-09T10:03:14.479729+09:00"
+        "captured_at": "2026-10-10T09:35:43.956481+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
-        "er": 0.007293354943273906,
-        "vs_baseline": 0.0825214899713467,
-        "cost_per_eng": 5416.666666666667,
+        "er": 0.007597244732576986,
+        "vs_baseline": 0.08595988538681948,
+        "cost_per_eng": 5200.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 60 · 댓글 12 · ER 0.7% · 평소대비 0.1x (D+1)"
+      "last_written_reaction": "좋아요 63 · 댓글 12 · ER 0.8% · 평소대비 0.1x (D+2)"
     }
   ],
   "flags": {
@@ -74,5 +80,5 @@
   },
   "child_db_id": "ee839eba-97ed-823a-8a9a-813d7c7edb11",
   "followers": 9872,
-  "last_written_score": 8
+  "last_written_score": 9
 }
