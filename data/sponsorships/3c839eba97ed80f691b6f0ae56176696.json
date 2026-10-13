@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "sun__fit",
   "followers_notion": 19000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "9d839eba-97ed-8310-9f67-812118378296",
+      "url": "https://www.instagram.com/reel/DeTM_BdT5qi/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DeTM_BdT5qi",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-10-11",
+      "first_seen": "2026-10-13",
+      "posted_at": "2026-10-10T04:16:18.000Z",
+      "permalink": "https://www.instagram.com/p/DeTM_BdT5qi/",
+      "thumbnail": "https://instagram.fcgh65-1.fna.fbcdn.net/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=VMDY9pf5kcQQ7kNvwGqjjbW&_nc_oc=AdpqlJLdfPf-EwtebTRPgOaoFzJNYIGXwIVh1uj09CCw1-w2bcsrvENoPKHp5zb6ETI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcgh65-1.fna&_nc_gid=c7PEgvlLoCaLHKArJu0Vsg&_nc_ss=7a22e&oh=00_AQOACJI2YutqA147iKuULOG1u5VPgwA2di7PeODFdvXDkw&oe=6AD35CDA",
+      "caption": "[운동하는 선우의 무한도전 S1. 프리다이빙 편 🤿]\n\n매일 복싱만 하다가 새로운 운동에 도전해 보는 [운동하는 선우의 무한도전] 그 대망의 1탄! 바로 프리다이빙입니다 🤿!!\n\n물속에서 숨을 참는다는 게 처음엔 긴장됐지만, 차근차근 배우다 보니 그 고요함과 몰입감에 완전히 빠지게 됐어요..\n\n실제로 다녀온 고고다이브는 초보자분들이 도전하기에 시스템이 진짜 잘 되어 있더라고요!\n\n⭐︎ 고고다이브 찐후기 포인트\n1. 무제한 코칭반: 자격증 취득할 때까지 추가금 없이 무제한으로 연습 가능 (이게 진짜 최고 메리트..)\n2. 전국 연계 ",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "sun__fit",
+      "metrics": {
+        "views": 9633,
+        "likes": 194,
+        "comments": 13
+      },
+      "metrics_updated_at": "2026-10-13T11:28:42.844466+09:00",
+      "history": [
+        {
+          "d": "2026-10-13",
+          "views": 9633,
+          "likes": 194,
+          "comments": 13
+        }
+      ],
+      "baseline": {
+        "views_median": 73037,
+        "eng_median": 602,
+        "n": 7,
+        "captured_at": "2026-10-13T11:28:42.844466+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.008768214164689935,
+        "vs_baseline": 0.13189205471199528,
+        "cost_per_eng": 1884.0579710144928,
+        "cost_per_view": 40.48582995951417
+      },
+      "last_written_reaction": "조회 9,633 · 좋아요 194 · 댓글 13 · ER 0.9% · 평소대비 0.1x (D+2)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "03d39eba-97ed-837a-bccd-018baf847e9a",
-  "followers": 19000
+  "followers": 23608,
+  "last_written_score": 13
 }

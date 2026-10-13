@@ -24,25 +24,25 @@
       "upload_date_notion": "2026-09-20",
       "first_seen": "2026-09-24",
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
-        "er": 0.3560267857142857,
-        "vs_baseline": 1.0063091482649842,
-        "cost_per_eng": 130.09404388714734,
+        "er": 0.35825892857142855,
+        "vs_baseline": 1.0126182965299684,
+        "cost_per_eng": 129.28348909657322,
         "cost_per_view": null
       },
       "posted_at": "2026-09-18T12:20:10.000Z",
       "permalink": "https://www.instagram.com/p/DdbataSTDqQ/",
-      "thumbnail": "https://instagram.fhnd2-1.fna.fbcdn.net/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ep6Hj6zm-roQ7kNvwHZRQK6&_nc_oc=Adq2MZz42Ya-9u4LUVoQNXb98K4YH4QRWPMy4TSqbaMfhFVpZvgknTnHAArnPIc2uotNqQnqwE9O3ofNCnyZoH-k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fhnd2-1.fna&_nc_gid=voxTFzhpavD7Ca7HfRphBg&_nc_ss=7a22e&oh=00_AQNJDsAQzguVm0AptzIOjeWS2MeG54Y9GvM0tLwKtt3uVg&oe=6AD1ED9C",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=S51o4S3w6zwQ7kNvwFXg4_d&_nc_oc=Adr0B9hKpRfmuIhE5ekO4Z9QQ53MZHzG7P71VAhSxB7RZXsTYIx_PGv4NK4WoSmeSjsXy9EspEEZP1-sAnFL1znK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=u_sQtfgeMuQxDt1gp1Vyrw&_nc_ss=7a22e&oh=00_AQMjtWPisNhJkru813frju8bRXx1DFoX5gK6lrSsswgfyA&oe=6AD3775C",
       "caption": "시크릿스와 함께라면 개미허리가 되,,🐜💚🤍\n\n#협찬 \n상의: @secrets__fit \n하의: @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
       "owner_username": "jin._.in_gym",
       "metrics": {
-        "likes": 254,
+        "likes": 256,
         "comments": 65
       },
-      "metrics_updated_at": "2026-10-12T09:19:23.533413+09:00",
+      "metrics_updated_at": "2026-10-13T11:28:42.844466+09:00",
       "history": [
         {
           "d": "2026-09-30",
@@ -121,15 +121,21 @@
           "views": null,
           "likes": 254,
           "comments": 65
+        },
+        {
+          "d": "2026-10-13",
+          "views": null,
+          "likes": 256,
+          "comments": 65
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 317,
         "n": 7,
-        "captured_at": "2026-10-12T09:19:23.533413+09:00"
+        "captured_at": "2026-10-13T11:28:42.844466+09:00"
       },
-      "last_written_reaction": "좋아요 254 · 댓글 65 · ER 35.6% · 평소대비 1.0x (D+23)"
+      "last_written_reaction": "좋아요 256 · 댓글 65 · ER 35.8% · 평소대비 1.0x (D+24)"
     },
     {
       "notion_row_id": "e3039eba-97ed-83dd-9409-81140fb2d47e",
@@ -139,7 +145,7 @@
       "upload_date_notion": "2026-09-22",
       "first_seen": "2026-09-24",
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": null,
         "vs_baseline": null,

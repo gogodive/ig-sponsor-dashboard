@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-8042-a27d-ea94480712b0",
   "row_title_raw": "jjung.a__",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-09-16",
       "posted_at": "2026-09-14T18:32:12.000Z",
       "permalink": "https://www.instagram.com/p/DdRxzf-h-T1/",
-      "thumbnail": "https://instagram.fmad20-1.fna.fbcdn.net/v/t51.82787-15/809910459_18623311861054735_3208234476988703565_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjE4NjE4ODUwNzA0NzE1NzE4NjIzMzExODU1MDU0NzM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-T8RpMfgCckQ7kNvwFKt4I3&_nc_oc=AdoEABMMFrpo8jCOvVnYEHlHt-ChMhPCwLC6jhbgi4HmnMUCTwykaymkeujGyKyMGSM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad20-1.fna&_nc_gid=2kRFeYTgcCeCPMJhX-_ZSQ&_nc_ss=7a22e&oh=00_AQONL2Exuyqsf1whS2X57wWcBXd7m2d91K-_REKAYs1gzQ&oe=6AD21386",
+      "thumbnail": "https://instagram.ftrn5-1.fna.fbcdn.net/v/t51.82787-15/809910459_18623311861054735_3208234476988703565_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjE4NjE4ODUwNzA0NzE1NzE4NjIzMzExODU1MDU0NzM1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=-T8RpMfgCckQ7kNvwFkOQVN&_nc_oc=AdrjdOQ-dgsFNYW6Jwy5OblJ3s5cet2_4HM4ODxWpRdLoZAFKIbJ5bG_Fz1hCuinpCE&_nc_ad=z-m&_nc_cid=1028&_nc_zt=23&_nc_ht=instagram.ftrn5-1.fna&_nc_gid=4MrVe9zffWRhkob_y0SBzg&_nc_ss=7a22e&oh=00_AQMhK_ICwNGANnAj7yMYk5aok1cI1P7I3gAYlYJ1Wg1XZA&oe=6AD36506",
       "caption": "빛내릴때 너무 이쁜 내 딥바이브 오로라핀 \n@intotheblue_store \n특히 울릉도에서 너무 이뻤던🤍\n\n롱핀마다 약간씩 길이가 다른데,\n딥바이브 오로라핀은 사진 찍을때도 비율 길어보이고\n투어 일정중에도 다리 피곤한감 덜하고 피닝할때도 쏘 이지🧜🏻‍♀️\n\n#딥바이브#인투더블루#프리다이빙장비#롱핀#울릉도",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "jjung.a__",
       "metrics": {
-        "views": 11086,
-        "likes": 179,
+        "views": 11127,
+        "likes": 182,
         "comments": 7
       },
-      "metrics_updated_at": "2026-10-12T09:19:23.533413+09:00",
+      "metrics_updated_at": "2026-10-13T11:28:42.844466+09:00",
       "history": [
         {
           "d": "2026-09-16",
@@ -198,23 +198,29 @@
           "views": 11086,
           "likes": 179,
           "comments": 7
+        },
+        {
+          "d": "2026-10-13",
+          "views": 11127,
+          "likes": 182,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": 18201.0,
         "eng_median": 199.5,
         "n": 12,
-        "captured_at": "2026-10-12T09:19:23.533413+09:00"
+        "captured_at": "2026-10-13T11:28:42.844466+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
-        "er": 0.004494816461661149,
-        "vs_baseline": 0.6090874127795176,
-        "cost_per_eng": 779.5698924731183,
-        "cost_per_view": 13.079559805159661
+        "er": 0.004567313501365361,
+        "vs_baseline": 0.6113400362617438,
+        "cost_per_eng": 767.1957671957672,
+        "cost_per_view": 13.03136514783859
       },
-      "last_written_reaction": "조회 11,086 · 좋아요 179 · 댓글 7 · ER 0.4% · 평소대비 0.6x (D+27)",
+      "last_written_reaction": "조회 11,127 · 좋아요 182 · 댓글 7 · ER 0.5% · 평소대비 0.6x (D+28)",
       "analysis": {
         "d3": {
           "one_liner": "평소 절반 수준(0.48x)의 조회·참여로 출발해 참여당 973원·조회당 17.3원 모두 부진—3일차 시점에서 추가 드로우 필요.",
@@ -425,7 +431,7 @@
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": true,
-      "days_since_post": 50,
+      "days_since_post": 51,
       "computed": {
         "er": 0.1320412749812716,
         "vs_baseline": 9.97080291970803,
