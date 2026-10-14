@@ -1,6 +1,6 @@
 {
   "page_id": "3cd39eba-97ed-80b2-8840-fd98264f9852",
-  "row_title_raw": "hyuniverse___",
+  "row_title_raw": "(잠수) hyuniverse___",
   "status": "진행 중",
   "media": [
     "인스타"
@@ -13,13 +13,13 @@
   "product_value_krw": 390000,
   "delivery_date": "2026-08-27",
   "output_link_prop": null,
-  "username": "hyuniverse___",
+  "username": null,
   "followers_notion": 98000,
   "posts": [],
   "flags": {
-    "unresolvable_username": false,
+    "unresolvable_username": true,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "96139eba-97ed-82bd-9af7-8182c3eebb0a",
