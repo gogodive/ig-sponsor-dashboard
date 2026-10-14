@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-80a0-933a-eb4aba6cb0ad",
   "row_title_raw": "jollyl0_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,16 +25,16 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-09-23T08:02:36.000Z",
       "permalink": "https://www.instagram.com/p/Ddn1dHykwXj/",
-      "thumbnail": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/818813383_17940926127355279_2079285864009348772_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5MjM5MDcyNDkwMTIwNDI2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0LixqXqww3kQ7kNvwFS4grP&_nc_oc=AdpPY8ZO30RSXQ1xiztHalww_DnerlaU3DcjEOul8YV3YjXuRdQzu0cJBX7PK8WCHZsB2h1qKupn6qB9mz3vtRss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_gid=xMlHdFZ4m04Het4rRQmg8g&_nc_ss=7a22e&oh=00_AQMrRaeRE4trTMIii6rFdvgrFCo0wH5jDineM3CZ5G6ZDA&oe=6AD35ECC",
+      "thumbnail": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/818813383_17940926127355279_2079285864009348772_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5MjM5MDcyNDkwMTIwNDI2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=khl5io1CZn0Q7kNvwHjZPBR&_nc_oc=AdrbJzl8a8-mrKjiUfhb20QuluL73z4KyaXeKVPyoclil1jhYNtGszPL1WJsu6y2znmTf3Wyus62Eg-vfwIHEXS1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=ALhiLf-Iz7pfKHrDI5S_PQ&_nc_ss=7a22e&oh=00_AQNauiYD-mHEcfCg77Pkb3BZxT2qJqZCbWvLD6Wrh_0tHw&oe=6AD4B04C",
       "caption": "#제품제공 @laserin_swim \n저 원래 수경케이스에 별 생각이 없어서 대충 들고 다녔었는데\n말랑말랑한 수경케이스 써보고 너무 좋았어요!!\n\n일단 이름처럼 재질이 말랑말랑한데 견고해서 충격에도 튼튼하고\n수경을 넣고 빼는데에 쉬워서 손이 자주 가더라구요\n\n정말 좋았던 점은 같은 재질로 튼튼하게 받쳐주는 코걸이 부분!\n다른 수경 케이스는 코걸이가 있어도 안에서 수경이 돌아갔었는데\n이건 딱 고정되어있어서 안티포크 뿌려놔도 문제가 전~혀 없어요🤓\n\n또, 지비츠4종으로 케꾸도 가능하답니다>,<\n솜사탕처럼 부드러운 색상의 말랑말랑한 수경",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "jollyl0_",
       "metrics": {
         "likes": 54,
-        "comments": 7
+        "comments": 8
       },
-      "metrics_updated_at": "2026-10-13T11:28:42.844466+09:00",
+      "metrics_updated_at": "2026-10-14T09:11:56.828972+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -71,23 +71,29 @@
           "views": null,
           "likes": 54,
           "comments": 7
+        },
+        {
+          "d": "2026-10-14",
+          "views": null,
+          "likes": 54,
+          "comments": 8
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 135.0,
         "n": 12,
-        "captured_at": "2026-10-13T11:28:42.844466+09:00"
+        "captured_at": "2026-10-14T09:11:56.828972+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
-        "er": 0.07663316582914573,
-        "vs_baseline": 0.45185185185185184,
-        "cost_per_eng": 196.72131147540983,
+        "er": 0.07788944723618091,
+        "vs_baseline": 0.45925925925925926,
+        "cost_per_eng": 193.5483870967742,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 54 · 댓글 7 · ER 7.7% · 평소대비 0.5x (D+19)"
+      "last_written_reaction": "좋아요 54 · 댓글 8 · ER 7.8% · 평소대비 0.5x (D+20)"
     }
   ],
   "flags": {
@@ -98,5 +104,5 @@
   },
   "child_db_id": "93e39eba-97ed-83d4-b34d-81dab1ba9afe",
   "followers": 796,
-  "last_written_score": 45
+  "last_written_score": 46
 }
