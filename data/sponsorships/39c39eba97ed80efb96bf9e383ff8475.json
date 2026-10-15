@@ -15,13 +15,59 @@
   "output_link_prop": null,
   "username": "hello___lea",
   "followers_notion": 71000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "28339eba-97ed-8233-be93-8114c9bb12ff",
+      "url": "https://www.instagram.com/reel/DeedkFUPqIh/?utm_source=ig_web_copy_link&rpxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DeedkFUPqIh",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-10-14",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-14T13:23:00.000Z",
+      "permalink": "https://www.instagram.com/p/DeedkFUPqIh/",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/845801130_18640625770045412_2944443989936178669_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwNzc3MDc0MTM2NDY2MjgxNzE4NjQwNjI1NzY3MDQ1NDEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=7SbYcFgAsXgQ7kNvwGBg5nH&_nc_oc=AdpE3AComjyxN4c6KBhhLyNpI8ynMOld3o7jIQkr5TKtCX3vdkoPNXcqGhL0etHTZS8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=-wF8Mys4a0k8mjCgDtAm3g&_nc_ss=7a20f&oh=00_AQM8YSVb9s18yVqnnhZEbjg-YTHzLgiukpOjrJbgIv4Swg&oe=6AD74AC4",
+      "caption": "마지막에 중요한 사실 등장 ;\n\n#프리다이빙 절망편🙂‍↔️\n: 나도 내가 이렇게까지 물을 무서워 하는지 몰랐어..\n\n수영 못해도, 물 무서워도\n다들 첨부터 잘 하시던데...\n\n깊은 물 보면 끝없는 어둠 같고,\n발 안닿으면 그냥 꼬로록 빠질 것 같은...\n그런 기분이에요.\n\n실제론 너무 둥둥 떠서 물에 내려가지도 못하는데\n저런 기분때매 멘탈만 바사삭됬어요🤣🤣\n\n아무튼..\n저는 강제로 장기 프로젝트가 될 것 같아요.\n응원해주세요🥹\n\n-\n\n📍수영장 : 수원 스포츠아일랜드\n🌊 #프리다이빙강습 : #고고다이브 @gogodive",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "hello___lea",
+      "metrics": {
+        "views": 2981,
+        "likes": -1,
+        "comments": 10
+      },
+      "metrics_updated_at": "2026-10-16T08:35:23.432306+09:00",
+      "history": [
+        {
+          "d": "2026-10-16",
+          "views": 2981,
+          "likes": -1,
+          "comments": 10
+        }
+      ],
+      "baseline": {
+        "views_median": 7504.0,
+        "eng_median": 30.0,
+        "n": 12,
+        "captured_at": "2026-10-16T08:35:23.432306+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.00012545302481182047,
+        "vs_baseline": 0.3972547974413646,
+        "cost_per_eng": 43333.333333333336,
+        "cost_per_view": 130.82858101308287
+      },
+      "last_written_reaction": "조회 2,981 · 좋아요 -1 · 댓글 10 · ER 0.0% · 평소대비 0.4x (D+1)"
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "a9a39eba-97ed-8396-9536-011bdad24748",
-  "followers": 71000
+  "followers": 71740,
+  "last_written_score": 40
 }
