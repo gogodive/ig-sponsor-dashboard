@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T11:48:59.000Z",
       "permalink": "https://www.instagram.com/p/Dd6QZWHJTdh/",
-      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=xhnYvnIOx6UQ7kNvwEFLn3F&_nc_oc=AdrsCwNbsuqn2N2rx2OwjqlsR2Ygn3oqSQAt54h9DQYOW_-fSa4TveA7vzT7bzxeMOA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=fKQTasmXMiRd7OjWddOt-w&_nc_ss=7a20f&oh=00_AQM2DlQM-Z0k0vQDf4nfJV6Ay2Q_9LKADw8QC4XUV_7LGQ&oe=6AD752DC",
+      "thumbnail": "https://scontent-elp3-1.cdninstagram.com/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=E_5qYiTef7MQ7kNvwF8TG2E&_nc_oc=Adpj0ViLETb56_4qkALNIowjfZN46mDfu3PywoV1DhJWKoSxfNChYJhhou2iFkBbp37zJl_nmG_wl1nbwFWivcpz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-elp3-1.cdninstagram.com&_nc_gid=mK07Mzv2_aVhpUJ586bAig&_nc_ss=7a20f&oh=00_AQN9tmDw47-Q7ynVtX0FL5q8yzqIxYY9hpSs0ZNKF_Kt4g&oe=6AD86C1C",
       "caption": "휴양지 여행을 가장 특별하게 보내는 방법 🤿 @gogodive \n\n살면서 꼭 해봐야 할 인생 버킷리스트 있으세요 ? \n\n저는 #프리다이빙 이었는데 올해 해냈어요 ! \n\n바다에 놀러가거나 호핑투어 스노클링하면 다들 물가에서만 놀잖아요 ! 그럴때 멋지게 입수해서 바다속 생물을 만나는 일. \n\n이 모든 걸 가능하게 해주는 건 “프리다이빙” 입니다 ! \n\n제가 함께한 고고다이브(gogodive)에서 호흡법부터 스태틱, CWT, 다이내믹, 그리고 이퀄라이징까지\n\n프리다이빙 전문 강사님과 함께 한번 배워놓으면 평생 써먹는 프리다이빙 꼭 한번 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "yoondhyun",
       "metrics": {
-        "views": 6556,
-        "likes": 256,
+        "views": 6557,
+        "likes": 255,
         "comments": 5
       },
-      "metrics_updated_at": "2026-10-16T08:35:23.432306+09:00",
+      "metrics_updated_at": "2026-10-17T08:20:27.991363+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -126,23 +126,29 @@
           "views": 6556,
           "likes": 256,
           "comments": 5
+        },
+        {
+          "d": "2026-10-17",
+          "views": 6557,
+          "likes": 255,
+          "comments": 5
         }
       ],
       "baseline": {
-        "views_median": 6551,
-        "eng_median": 212,
-        "n": 5,
-        "captured_at": "2026-10-16T08:35:23.432306+09:00"
+        "views_median": 8472.0,
+        "eng_median": 212.5,
+        "n": 4,
+        "captured_at": "2026-10-17T08:20:27.991363+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
-        "er": 0.00868407918815505,
-        "vs_baseline": 1.0007632422530912,
-        "cost_per_eng": 747.1264367816092,
-        "cost_per_view": 29.743746186699205
+        "er": 0.008637012922300104,
+        "vs_baseline": 0.773961284230406,
+        "cost_per_eng": 750.0,
+        "cost_per_view": 29.739210004575263
       },
-      "last_written_reaction": "조회 6,556 · 좋아요 256 · 댓글 5 · ER 0.9% · 평소대비 1.0x (D+15)"
+      "last_written_reaction": "조회 6,557 · 좋아요 255 · 댓글 5 · ER 0.9% · 평소대비 0.8x (D+16)"
     },
     {
       "notion_row_id": "6e539eba-97ed-82c6-a4ba-015fb27eb490",
@@ -340,9 +346,9 @@
         "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": true,
-      "days_since_post": 88,
+      "days_since_post": 89,
       "computed": {
-        "er": 0.010014972550324405,
+        "er": 0.009999003421585889,
         "vs_baseline": 1.0654867256637168,
         "cost_per_eng": 647.8405315614618,
         "cost_per_view": null
@@ -373,6 +379,6 @@
     "account_unavailable": false
   },
   "child_db_id": "c7b39eba-97ed-82e6-a798-81d83dea20ae",
-  "followers": 30055,
-  "last_written_score": 103
+  "followers": 30103,
+  "last_written_score": 92
 }

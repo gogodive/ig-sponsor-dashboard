@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-802a-a7d1-ff69f0934904",
-  "row_title_raw": "rara_daily.fit / 예약",
-  "status": "진행 중",
+  "row_title_raw": "rara_daily.fit",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,7 +25,7 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-08T12:26:26.000Z",
       "permalink": "https://www.instagram.com/p/DeO7ki1CQw_/",
-      "thumbnail": "https://instagram.fman2-2.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=4k5j2fqSkKUQ7kNvwFswLJW&_nc_oc=Adqaph7NNsc-QfAikrZeEO4AsGp0GIS1T3Ck8TsJGzlQtY7Da4NQ_CCqhcr0FBHiFF8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fman2-2.fna&_nc_gid=lgsyv9-ImXInxegLOBNAdg&_nc_ss=7a20f&oh=00_AQO0O302FJ3rFXCe7sV522aA1RLy-tImGBRiuKN4Eh0xvA&oe=6AD72818",
+      "thumbnail": "https://instagram.fper13-1.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=4k5j2fqSkKUQ7kNvwEz1xG0&_nc_oc=AdrX4Sp5A6h5BHnqbpehjUkENjCxJVYHS_c2Ky3_odWEF3mbi40rQ_3kByuDWAEQhEyGMtmr45yBXE-2JTELmHj-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=-DT5nofcAsxWEoITSOsQ2Q&_nc_ss=7a20f&oh=00_AQMAJE7Al_tH7X_PRp4Cuqy9yuGAeuZJJaknlLNEdxBV_A&oe=6AD87998",
       "caption": "🤿 물무서워 인간의 프리다이빙 도전기 🌊\nㅤ\n저는 사실 물무서워 인간이라 \n수영도 그 공포증을 극복하기 위해 배운사람이에요.\n\n그래서 여러가지 운동을 도전한것에 비해\n유난히 수상 스포츠나 물에 관련된 운동 이력만 적었는데\n\n주변에서 워낙 프리다이빙 매력을 추천하기도 했고,,\n회원님들이 죄다 하면 너무 잘어울릴 것 같다고 닳도록 말해서\n마음이 선덕선덕했단 말이죠,,💓 @ddayo_l @charmingssu77 \n\n근데 마침 좋은 기회로 @gogodive 에서 저에게 협찬 제안을 주셨고,\n이건 진짜 더이상 도망가지말라는 계시라는 생각에",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 26
       },
-      "metrics_updated_at": "2026-10-16T08:35:23.432306+09:00",
+      "metrics_updated_at": "2026-10-17T08:20:27.991363+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -59,23 +59,29 @@
           "views": null,
           "likes": -1,
           "comments": 26
+        },
+        {
+          "d": "2026-10-17",
+          "views": null,
+          "likes": -1,
+          "comments": 26
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 45.0,
         "n": 10,
-        "captured_at": "2026-10-16T08:35:23.432306+09:00"
+        "captured_at": "2026-10-17T08:20:27.991363+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.0004998200647766804,
         "vs_baseline": 0.5555555555555556,
         "cost_per_eng": 7800.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 26 · ER 0.0% · 평소대비 0.6x (D+7)"
+      "last_written_reaction": "좋아요 -1 · 댓글 26 · ER 0.0% · 평소대비 0.6x (D+8)"
     },
     {
       "notion_row_id": "0ce39eba-97ed-820c-beb0-01d7cee68327",
@@ -86,17 +92,17 @@
       "first_seen": "2026-10-07",
       "posted_at": "2026-10-05T14:01:08.000Z",
       "permalink": "https://www.instagram.com/p/DeHX5_4plft/",
-      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/838743756_18358952920218886_2399559486712981486_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwMTI3MTkzNDYxODA2NDg3NzE4MzU4OTUyOTE3MjE4ODg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=F-RM3cCcYtoQ7kNvwEoY6OW&_nc_oc=AdqfaIca2VDRlt-vmWfLA4d1ZJmtrsi8xXTDEJO-0Pz3FqsioMoYa4pMXDJxp3s1be0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=-ubkHZGpgV67wG0o2AqQnw&_nc_ss=7a20f&oh=00_AQP5kzqYHAcCrJ-bijjp3XVvedWhO1UJyOhr0I_5XK77VQ&oe=6AD720CB",
+      "thumbnail": "https://instagram.fman4-1.fna.fbcdn.net/v/t51.82787-15/838743756_18358952920218886_2399559486712981486_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTI3MTkzNDYxODA2NDg3NzE4MzU4OTUyOTE3MjE4ODg2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=F-RM3cCcYtoQ7kNvwFM_2EK&_nc_oc=AdoumZ05g3sZLZjUOmos1yMuU9pQCr65x1HV1bTi4DHkL4gGRQsXwf_Z1KQ_00jS6ntCUoDcgsYiQjoX2iG0kwT0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fman4-1.fna&_nc_gid=owzXduitKcMuoMRwnjXoAQ&_nc_ss=7a20f&oh=00_AQPgOaQ4sdbQ-A4aSS6mSYIS9Jj5-kF9LEcmbmh3g_FFRw&oe=6AD8724B",
       "caption": "요즘은 가만히 있으면 괜히 뒤처지는 것 같고,\n쉬는 순간에도 다음 할 일을 생각하게 되는데\n\n물속에 들어가니까\n신기할 정도로 아무 생각이 안 들었다,,\n\n숨을 참고 있는데\n오히려 그 어느 때보다 편안했던 순간🫧\n\n계속 나아가는 것만이\n잘 살아가는 건 아닐지도\n\n가끔은 아무 데도 가지 않는 시간도 필요하니까\n\n물을 무서워하고 수영도 못하는 제가\n첫 수업에 이렇게나 쉽게 할 수 있을 줄이야...\n\n프리다이빙 매력에 빠져버렸어요...❤️\n\n요즘 조금 지쳐 있는 사람이 떠오른다면\n조용히 보내주세요 🤍\n\n#고고다이브 #프리다이빙 #프리다이빙",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "rara_daily.fit",
       "metrics": {
-        "views": 4475,
+        "views": 4513,
         "likes": -1,
         "comments": 36
       },
-      "metrics_updated_at": "2026-10-16T08:35:23.432306+09:00",
+      "metrics_updated_at": "2026-10-17T08:20:27.991363+09:00",
       "history": [
         {
           "d": "2026-10-07",
@@ -157,23 +163,29 @@
           "views": 4475,
           "likes": -1,
           "comments": 36
+        },
+        {
+          "d": "2026-10-17",
+          "views": 4513,
+          "likes": -1,
+          "comments": 36
         }
       ],
       "baseline": {
         "views_median": 5866,
         "eng_median": 32,
         "n": 5,
-        "captured_at": "2026-10-16T08:35:23.432306+09:00"
+        "captured_at": "2026-10-17T08:20:27.991363+09:00"
       },
       "frozen": false,
-      "days_since_post": 10,
+      "days_since_post": 11,
       "computed": {
         "er": 0.0006997480906873525,
-        "vs_baseline": 0.7628707807705422,
+        "vs_baseline": 0.7693487896351858,
         "cost_per_eng": 5571.428571428572,
-        "cost_per_view": 43.57541899441341
+        "cost_per_view": 43.2085087524928
       },
-      "last_written_reaction": "조회 4,475 · 좋아요 -1 · 댓글 36 · ER 0.1% · 평소대비 0.8x (D+10)"
+      "last_written_reaction": "조회 4,513 · 좋아요 -1 · 댓글 36 · ER 0.1% · 평소대비 0.8x (D+11)"
     }
   ],
   "flags": {

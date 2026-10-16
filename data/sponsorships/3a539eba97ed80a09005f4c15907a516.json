@@ -17,6 +17,38 @@
   "followers_notion": 5248,
   "posts": [
     {
+      "notion_row_id": "3fb39eba-97ed-80a3-96b3-f3a242aad325",
+      "url": "https://www.instagram.com/reel/DeH00xESrM1/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DeH00xESrM1",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-10-07",
+      "first_seen": "2026-10-17",
+      "frozen": false,
+      "days_since_post": 10,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "3fb39eba-97ed-80ae-a71e-dd4e981ced36",
+      "url": "https://www.instagram.com/p/DeCWow-khDH/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DeCWow-khDH",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-10-04",
+      "first_seen": "2026-10-17",
+      "frozen": false,
+      "days_since_post": 13,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "04839eba-97ed-834e-b245-81350acf7322",
       "url": "https://www.instagram.com/p/DdenkI3koCN/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
       "shortcode": "DdenkI3koCN",
@@ -152,14 +184,14 @@
         "captured_at": "2026-10-16T08:35:23.432306+09:00"
       },
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.0009836710603974032,
         "vs_baseline": 0.013020833333333334,
-        "cost_per_eng": 44600.0,
+        "cost_per_eng": 14866.666666666666,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+26)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+27)"
     }
   ],
   "flags": {
