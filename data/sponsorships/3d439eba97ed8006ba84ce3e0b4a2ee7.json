@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-25T14:12:18.000Z",
       "permalink": "https://www.instagram.com/p/DdtpG8kpOEv/",
-      "thumbnail": "https://instagram.fsyd3-2.fna.fbcdn.net/v/t51.82787-15/825322328_18118402658061530_8404371563675892871_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDAyOTI0MTgxMDYwODQzMTE4MTE4NDAyNjU1MDYxNTMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=fbdyENS2CAsQ7kNvwGAwp_j&_nc_oc=Adp-XNAf4bjdasaZH6zamLZY7nFI_LWbo8oLUED_yTaWiUq7YFn2HmAxwaFlDoG9Jy0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd3-2.fna&_nc_gid=wJZsxkyHzE5TdQhq-eSLBQ&_nc_ss=7a20f&oh=00_AQNB-feicJzHhNHM_4IkxSZDGB1ZXX3HxKVBToLaD7zwAg&oe=6AD8861C",
+      "thumbnail": "https://instagram.fpoz6-1.fna.fbcdn.net/v/t51.82787-15/825322328_18118402658061530_8404371563675892871_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDAyOTI0MTgxMDYwODQzMTE4MTE4NDAyNjU1MDYxNTMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=fbdyENS2CAsQ7kNvwGzxjUe&_nc_oc=AdqTuUL44S4g0w74Ku8g_kE2DqdN-bGltczGWuQV8vpf3iHguPqUMo-Z3Bfl0-1Kf4E&_nc_ad=z-m&_nc_cid=1249&_nc_zt=23&_nc_ht=instagram.fpoz6-1.fna&_nc_gid=CKWwb1cAc1jezfVP0tT2Fg&_nc_ss=7a20f&oh=00_AQMXhW9UWBUNjY86oYa7YPcY36Byjqdj4wqm4wqepCOnnQ&oe=6AD9D79C",
       "caption": "#제품제공 @laserin_swim\n•················· ⭑·················•\n☆𝚕𝚊𝚜𝚎𝚛𝚒𝚗\n𝙼𝙰𝙻𝙻𝙰𝙽𝙶 𝙶𝚄𝙰𝚁𝙳 - mint◝✩\n•················· ⭑·················•\n\n수영 가방 속 소중한 수경, 그동안 아무렇게나 던져두셨다면 주목! 🏊‍♀️✨\n\n소중한 수경에 흠집 안 나게 싹 감싸주는 라세린 말랑가드 수경케이스를 소개합니다💚\n\n실리콘 특유의 부드럽고 말랑한 촉감 덕분에 수경을 쏙 넣고 빼기 정말 편해요. \n내부 코걸이 덕분에 안에서 흔들림 없이 딱 잡아주는 센스까지",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "happy_dochi_yeni",
       "metrics": {
-        "views": 1117,
+        "views": 1120,
         "likes": 37,
         "comments": 4
       },
-      "metrics_updated_at": "2026-10-17T08:20:27.991363+09:00",
+      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -132,23 +132,29 @@
           "views": 1117,
           "likes": 37,
           "comments": 4
+        },
+        {
+          "d": "2026-10-18",
+          "views": 1120,
+          "likes": 37,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 109,
         "n": 9,
-        "captured_at": "2026-10-17T08:20:27.991363+09:00"
+        "captured_at": "2026-10-18T07:57:21.557505+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.05176767676767677,
         "vs_baseline": null,
         "cost_per_eng": 292.6829268292683,
-        "cost_per_view": 10.743061772605193
+        "cost_per_view": 10.714285714285714
       },
-      "last_written_reaction": "조회 1,117 · 좋아요 37 · 댓글 4 · ER 5.2% (D+21)"
+      "last_written_reaction": "조회 1,120 · 좋아요 37 · 댓글 4 · ER 5.2% (D+22)"
     }
   ],
   "flags": {
