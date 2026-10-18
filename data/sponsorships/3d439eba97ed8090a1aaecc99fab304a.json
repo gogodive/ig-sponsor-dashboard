@@ -25,17 +25,17 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-18T15:21:27.000Z",
       "permalink": "https://www.instagram.com/p/DdbvdEOvenC/",
-      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/813817700_17947126329309362_7578993844548327507_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4ODk5MDYwMDU1OTg0Nzg3NDE3OTQ3MTI2MzI2MzA5MzYy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Arb4m-KZL_0Q7kNvwGudv3O&_nc_oc=AdpWfbWOjipiz1NkCNwyrtzXMaatnuYog6QtT11zgvh0EK8pKyR7Iy4S-Ub9Po04UUdAXVn4A1ZZhXt21jgMQH4c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=djvg5_PnbdlwEgd5GknAOQ&_nc_ss=7a20f&oh=00_AQPkwfzS9Ha46G0wwVTVKrdKhxE7uG5Dzr9q2nxIl8RuKQ&oe=6AD9D710",
+      "thumbnail": "https://instagram.fmad5-1.fna.fbcdn.net/v/t51.82787-15/813817700_17947126329309362_7578993844548327507_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODk5MDYwMDU1OTg0Nzg3NDE3OTQ3MTI2MzI2MzA5MzYy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Arb4m-KZL_0Q7kNvwFP1BIR&_nc_oc=AdrN06Wtpn3TzZ3cqWVHjV3WLW-ckKYHw6WTiYRvMG-gwk3V_mItTkhN-cf9XPDFCKs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad5-1.fna&_nc_gid=3Dgbk-gv9Hr9HkaNHjlP_Q&_nc_ss=7a20f&oh=00_AQOadpTb12bhfL7vrNFWBEnorrOKavBGKGpcZ0MLlZyfLw&oe=6ADB2890",
       "caption": "#협찬 @laserin_swim 🫧\n\n타브랜드 실리콘 수경 케이스 써봤는데\n생각보다 빡빡해서 수경 넣고 뺄 때마다\n은근 힘들었던 적이 있어요😂\n\n근데 라세린 말랑가드는\n이름 그대로 진짜 말랑말랑🫶🏻\n수경 넣고 빼기가 훨씬 편해요.\n\n그리고 컬러 조합 너무 예쁨…🩰\n솜사탕 + 마시멜로우 느낌이라\n수영장 갈 때 괜히 기분 좋아지는 컬러🤍\n\n고리도 있어서 수영가방에 걸어둘 수 있는데\n저처럼 수경 자주 깜빡하는 사람한테는\n이게 은근 꿀템이에요ㅋㅋ\n\n그리고 제일 마음에 들었던 건\n지비츠로 꾸밀 수 있다는 거!\n\n저는 귀여운 것도 좋지만\n내 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "u0_swim",
       "metrics": {
-        "views": 5335,
+        "views": 5337,
         "likes": 40,
         "comments": 5
       },
-      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
+      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -186,21 +186,27 @@
           "views": 5335,
           "likes": 40,
           "comments": 5
+        },
+        {
+          "d": "2026-10-19",
+          "views": 5337,
+          "likes": 40,
+          "comments": 5
         }
       ],
       "baseline": {
         "views_median": 2668.5,
         "eng_median": 90.5,
         "n": 8,
-        "captured_at": "2026-10-18T07:57:21.557505+09:00"
+        "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.020594965675057208,
-        "vs_baseline": 1.9992505152707514,
+        "vs_baseline": 2.0,
         "cost_per_eng": 266.6666666666667,
-        "cost_per_view": 2.2492970946579196
+        "cost_per_view": 2.2484541877459248
       },
       "analysis": {
         "d3": {
@@ -209,7 +215,7 @@
           "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
         }
       },
-      "last_written_reaction": "조회 5,335 · 좋아요 40 · 댓글 5 · ER 2.1% · 평소대비 2.0x (D+29)"
+      "last_written_reaction": "조회 5,337 · 좋아요 40 · 댓글 5 · ER 2.1% · 평소대비 2.0x (D+30)"
     }
   ],
   "flags": {

@@ -25,17 +25,17 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-10T04:16:18.000Z",
       "permalink": "https://www.instagram.com/p/DeTM_BdT5qi/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1CdlEouz5WgQ7kNvwH6XfqC&_nc_oc=Adr7G1-fEd4vaCkATIOzjWgbQzD3B5C1lK6zTpgoRasjQQoi7Ygv3854tkSZavJ1AZrdcGxqEIe4po0posL5bZ3i&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=ZnKv9EsOPqJeOzkK9ilU1w&_nc_ss=7a20f&oh=00_AQPcgcSv5a7cKbAiS033EMqo93LKxKLGN6atYxHqvVjWdg&oe=6AD9BC1A",
+      "thumbnail": "https://scontent-atl3-1.cdninstagram.com/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=_jnmimw33OUQ7kNvwH14mXC&_nc_oc=AdpIgQMBD2gFMEkPrWslnld0aPP_1LxpvRfIbL0dZiYeMSaSyw72KMMuo8JfF1ikemw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=08OpoVDdE65dGkc6R8of8g&_nc_ss=7a20f&oh=00_AQONn2mqjog936_0unwnjh2VGeVa1HTUXmjaAeV_B_8Oeg&oe=6ADB0D9A",
       "caption": "[운동하는 선우의 무한도전 S1. 프리다이빙 편 🤿]\n\n매일 복싱만 하다가 새로운 운동에 도전해 보는 [운동하는 선우의 무한도전] 그 대망의 1탄! 바로 프리다이빙입니다 🤿!!\n\n물속에서 숨을 참는다는 게 처음엔 긴장됐지만, 차근차근 배우다 보니 그 고요함과 몰입감에 완전히 빠지게 됐어요..\n\n실제로 다녀온 고고다이브는 초보자분들이 도전하기에 시스템이 진짜 잘 되어 있더라고요!\n\n⭐︎ 고고다이브 찐후기 포인트\n1. 무제한 코칭반: 자격증 취득할 때까지 추가금 없이 무제한으로 연습 가능 (이게 진짜 최고 메리트..)\n2. 전국 연계 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sun__fit",
       "metrics": {
-        "views": 10623,
-        "likes": 207,
+        "views": 10750,
+        "likes": 208,
         "comments": 13
       },
-      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
+      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -72,23 +72,29 @@
           "views": 10623,
           "likes": 207,
           "comments": 13
+        },
+        {
+          "d": "2026-10-19",
+          "views": 10750,
+          "likes": 208,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": 73037,
         "eng_median": 602,
         "n": 7,
-        "captured_at": "2026-10-18T07:57:21.557505+09:00"
+        "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
-        "er": 0.009318874957641478,
-        "vs_baseline": 0.14544682831989267,
-        "cost_per_eng": 1772.7272727272727,
-        "cost_per_view": 36.71279299632872
+        "er": 0.009361233480176211,
+        "vs_baseline": 0.14718567301504717,
+        "cost_per_eng": 1764.7058823529412,
+        "cost_per_view": 36.27906976744186
       },
-      "last_written_reaction": "조회 10,623 · 좋아요 207 · 댓글 13 · ER 0.9% · 평소대비 0.1x (D+7)"
+      "last_written_reaction": "조회 10,750 · 좋아요 208 · 댓글 13 · ER 0.9% · 평소대비 0.1x (D+8)"
     }
   ],
   "flags": {

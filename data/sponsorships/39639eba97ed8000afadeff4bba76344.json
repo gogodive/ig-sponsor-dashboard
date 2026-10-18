@@ -25,7 +25,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17T03:22:55.000Z",
       "permalink": "https://www.instagram.com/p/DdX4bnzTyjy/",
-      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=n2Hms9TqDkIQ7kNvwEd_gFX&_nc_oc=AdqMauehakupjc9uK1t9cp0zFJiuv3PvuHhCwKzXyaX0pByi1Cx7eqbNTOHhsJt3HAk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=-eUBB9PmINXT9nNUn4BQyQ&_nc_ss=7a20f&oh=00_AQPw8RaPcLThva1lbxEUvI_35FfQAVOMBDsHFPQRm2IcLQ&oe=6AD9CD72",
+      "thumbnail": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/812223981_18188227234406629_4495025394453420694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4NzkwNDE4MzgyNzExNDIyNjE4MTg4MjI3MjMxNDA2NjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=n2Hms9TqDkIQ7kNvwFJ6CGm&_nc_oc=Adqb9nPrmQcZ9WcD1fXQsoCOpfxcIPAcJHS_Y9eqXpDJVybaLqwy7WLwmijYdI57at8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=7i9KjU20UaFOMnlvX1feEg&_nc_ss=7a20f&oh=00_AQOYpYKl_Q9szvGCcbYlzw1uhxr8lHvbXHKftcV-YlEhYA&oe=6ADB1EF2",
       "caption": ".\n#제품제공 \n@laserin_swim \n은은한 블루에\n반짠반짝 펄✨\n인어공주 같쟈나🧜‍♀️",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -230,15 +230,15 @@
         "n": 11,
         "captured_at": "2026-10-18T07:57:21.557505+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": -0.0001895734597156398,
         "vs_baseline": 0.2488947417928699,
         "cost_per_eng": -34500.0,
         "cost_per_view": 13.038548752834467
       },
-      "last_written_reaction": "조회 2,646 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.2x (D+30)",
+      "last_written_reaction": "조회 2,646 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.2x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "평소 대비 0.21x 저조한 조회에 조회당 비용 14.8원, D+3 시점에서 협찬 효율이 매우 낮아 추가 모니터링 필요.",
@@ -359,7 +359,7 @@
         "captured_at": "2026-08-05T07:16:17.555483+09:00"
       },
       "frozen": true,
-      "days_since_post": 104,
+      "days_since_post": 105,
       "computed": {
         "er": 0.002085308056872038,
         "vs_baseline": 1.1578947368421053,

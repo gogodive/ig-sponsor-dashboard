@@ -25,7 +25,7 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-23T08:54:35.000Z",
       "permalink": "https://www.instagram.com/p/Ddn7Z2CmPi6/",
-      "thumbnail": "https://scontent-gru1-1.cdninstagram.com/v/t51.82787-15/817329437_17974449660129637_6124956710397460898_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5MjQyMDU4MzkyNDg4OTcwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAxNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CpFKB6DBTDoQ7kNvwFXvDC0&_nc_oc=Adq6L4cg2FF7PaO-lCJWnLhqdvR3_E2ZytqUvRGkr5bO9PTRNmmFz7d0Tbcixfcmx4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_gid=cChgJX4in0POI43HYBFDZw&_nc_ss=7a22e&oh=00_AQNmfbrEj2W0KodgycKhkq5eUZBUwIfs7SIHc9QSTQYphQ&oe=6AD9CE10",
+      "thumbnail": "https://instagram.fpoz3-1.fna.fbcdn.net/v/t51.82787-15/817329437_17974449660129637_6124956710397460898_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MjQyMDU4MzkyNDg4OTcwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAxNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=012d6fuMHIUQ7kNvwHyqFQm&_nc_oc=AdpQNg2tDHvD4dTbkXPaOvgxyJzJswA2gVAsIwHLL4FFvKcJOsqx-ZJFvo4zLLBxtDM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz3-1.fna&_nc_gid=kVdr5B5NAqzcq2OVnnqoKQ&_nc_ss=7a22e&oh=00_AQMOalw-NJQ35aZ46MKEy6NdX-AQvmzoOyfSz8bx_KkYEw&oe=6ADB1F90",
       "caption": "#제품제공 \n🪺✖️𝐿𝐴𝑆𝐸𝑅𝐼𝑁 🌈\n🫧 𝘔𝘈𝘓𝘓𝘈𝘕𝘎 𝘎𝘜𝘈𝘙𝘋 𝘨𝘰𝘨𝘨𝘭𝘦 𝘤𝘢𝘴𝘦 - 𝘮𝘪𝘹 𝘤𝘰𝘭𝘰𝘳 🐠\n\n여러분- 혹시 수경 어떻게 관리하시나요..?!\n수영복만큼 만만치 않은 고가의 수경에 스크래치나면\n메추리는 눈물이 나요..💧\n\n여러 수경케이스 써본 메추리-\n이제 말랑해서 컬러도 예쁜데 케이스 꾸미기도 가능한 !!\n라세린의 •말랑가드 수경케이스• 를 소개합니다 -\n\n⭐️ 고리홀 이 있어서 수영가방에 걸어다녀도 되고요 !\n⭐️ 오픈되는 형태라 물이 고이지 않아 냄새 🦠 NO- \n⭐️ 5가지 컬러 선택 가능 ! (블루, 핑크,",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 67,
         "comments": 6
       },
-      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
+      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -137,23 +137,29 @@
           "views": null,
           "likes": 67,
           "comments": 6
+        },
+        {
+          "d": "2026-10-19",
+          "views": null,
+          "likes": 67,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 180.5,
         "n": 12,
-        "captured_at": "2026-10-18T07:57:21.557505+09:00"
+        "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.011440213132737815,
         "vs_baseline": 0.40443213296398894,
         "cost_per_eng": 164.3835616438356,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 67 · 댓글 6 · ER 1.1% · 평소대비 0.4x (D+24)"
+      "last_written_reaction": "좋아요 67 · 댓글 6 · ER 1.1% · 평소대비 0.4x (D+25)"
     }
   ],
   "flags": {

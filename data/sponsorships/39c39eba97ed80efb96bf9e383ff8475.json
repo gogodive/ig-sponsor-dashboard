@@ -25,17 +25,17 @@
       "first_seen": "2026-10-16",
       "posted_at": "2026-10-14T13:23:00.000Z",
       "permalink": "https://www.instagram.com/p/DeedkFUPqIh/",
-      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/846165362_18641266843045412_8433554392607381584_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAwNzc3MDc0MTM2NDY2MjgxNzE4NjQxMjY2ODQwMDQ1NDEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=To3V6rmsxpkQ7kNvwEhTfSu&_nc_oc=AdppDWBCcy3N14C80wfqW0xE8tU0y2QA16Enq91ikrbvhbAKJwegubw2Dub1kdi3hXI&_nc_ad=z-m&_nc_cid=1020&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=q4Oh-zFiMG9_JwDpDRBA9g&_nc_ss=7a20f&oh=00_AQPTZS1XEcty5F7vEfxa8fm85rKkVgPIDiAgUyZ3SIB_QA&oe=6AD9C6C9",
+      "thumbnail": "https://instagram.fmad7-1.fna.fbcdn.net/v/t51.82787-15/846165362_18641266843045412_8433554392607381584_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNzc3MDc0MTM2NDY2MjgxNzE4NjQxMjY2ODQwMDQ1NDEy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNTAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=To3V6rmsxpkQ7kNvwEDGhry&_nc_oc=AdowqQkk4wcKI1094DvTkbRU7JW4i80G-HCth3Dv1G2w_Wy3GeMRozIYXuXvGx7n2qg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad7-1.fna&_nc_gid=55yYhlYrpP4V3tZ7qfduxw&_nc_ss=7a20f&oh=00_AQMQu5WOMEE3lVRcWqKWNvTK_GQ53q0iZ-HCiAG6nFZK4w&oe=6ADB1849",
       "caption": "마지막에 중요한 사실 등장 ;\n\n#프리다이빙 절망편🙂‍↔️\n: 나도 내가 이렇게까지 물을 무서워 하는지 몰랐어..\n\n수영 못해도, 물 무서워도\n다들 첨부터 잘 하시던데...\n\n깊은 물 보면 끝없는 어둠 같고,\n발 안닿으면 그냥 꼬로록 빠질 것 같은...\n그런 기분이에요.\n\n실제론 너무 둥둥 떠서 물에 내려가지도 못하는데\n저런 기분때매 멘탈만 바사삭됬어요🤣🤣\n\n아무튼..\n저는 강제로 장기 프로젝트가 될 것 같아요.\n응원해주세요🥹\n\n-\n\n📍수영장 : 수원 스포츠아일랜드\n🌊 #프리다이빙강습 : #고고다이브 @gogodive",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "hello___lea",
       "metrics": {
-        "views": 3414,
+        "views": 3981,
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
+      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
       "history": [
         {
           "d": "2026-10-16",
@@ -54,23 +54,29 @@
           "views": 3414,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-10-19",
+          "views": 3981,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": 7504.0,
         "eng_median": 30.0,
         "n": 12,
-        "captured_at": "2026-10-18T07:57:21.557505+09:00"
+        "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": 0.00013939224979091162,
-        "vs_baseline": 0.4549573560767591,
+        "vs_baseline": 0.5305170575692963,
         "cost_per_eng": 39000.0,
-        "cost_per_view": 114.23550087873463
+        "cost_per_view": 97.96533534287867
       },
-      "last_written_reaction": "조회 3,414 · 좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 0.5x (D+3)"
+      "last_written_reaction": "조회 3,981 · 좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 0.5x (D+4)"
     }
   ],
   "flags": {
@@ -81,5 +87,5 @@
   },
   "child_db_id": "a9a39eba-97ed-8396-9536-011bdad24748",
   "followers": 71740,
-  "last_written_score": 45
+  "last_written_score": 53
 }

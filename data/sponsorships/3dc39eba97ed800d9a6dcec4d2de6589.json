@@ -25,17 +25,17 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-20T07:25:49.000Z",
       "permalink": "https://www.instagram.com/p/DdgCXehx4Z7/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/818172115_18339185569281403_2912590662241059339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk5MDE5OTY3OTI3MDIyNTUzMTE4MzM5MTg1NTYzMjgxNDAz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yIqpKPcGXs0Q7kNvwH3ybkQ&_nc_oc=AdpO44mdd62K_KlWLMRd4zd5C0dhgN-ZBBXN8pxy4e-oXQH8jMBoLZyflIjrJ9SqyoH1roTG55mmSq2_FXXayBfo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=TMrZVDoQ7ugD61QVqXDYjA&_nc_ss=7a20f&oh=00_AQPKO-ICccxxWzKKqHzcpkETG53kQgnfwR-AeKwRjQr-eg&oe=6AD9D317",
+      "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/818172115_18339185569281403_2912590662241059339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk5MDE5OTY3OTI3MDIyNTUzMTE4MzM5MTg1NTYzMjgxNDAz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yfVD4rnk0-sQ7kNvwHPopf4&_nc_oc=Adq8ALOWmc0ng1PSzEXg2vqr0EzIjrzwuzSKEusPo7MnS6FvzYKuvIkZH-muPtqVAmc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=97MibCSrCEZh97Zr61qnIA&_nc_ss=7a20f&oh=00_AQM0KfMjO64m4Vn_sRRkDh0lpK6SJbbHWV_yidOVaf1yjA&oe=6ADB2497",
       "caption": "광고:제품제공\n\n시크릿스 개미허리 반팔 + V핏 레깅스💜\n@secrets__fit \n소재는 가볍고 부드러운데\n핏은 또 탄탄하게 잡아줘서\n예쁘고 편하게 운동하기 딱 좋음 💪🌟\n\n상의｜라벤더 그레이 XS\n하의｜쉐도우 차콜 S\n\n#시크릿스 #운동복추천 #여자운동복 #레깅스추천 필라테스룩",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "slender_seoi",
       "metrics": {
-        "views": 6482,
+        "views": 6492,
         "likes": 169,
         "comments": 17
       },
-      "metrics_updated_at": "2026-10-18T07:57:21.557505+09:00",
+      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -186,21 +186,27 @@
           "views": 6482,
           "likes": 169,
           "comments": 17
+        },
+        {
+          "d": "2026-10-19",
+          "views": 6492,
+          "likes": 169,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": 7672,
         "eng_median": 272,
         "n": 11,
-        "captured_at": "2026-10-18T07:57:21.557505+09:00"
+        "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": 0.04710053178019752,
-        "vs_baseline": 0.8448905109489051,
+        "vs_baseline": 0.8461939520333681,
         "cost_per_eng": 446.23655913978496,
-        "cost_per_view": 12.804689910521445
+        "cost_per_view": 12.784966112138015
       },
       "analysis": {
         "d3": {
@@ -209,7 +215,7 @@
           "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
         }
       },
-      "last_written_reaction": "조회 6,482 · 좋아요 169 · 댓글 17 · ER 4.7% · 평소대비 0.8x (D+27)"
+      "last_written_reaction": "조회 6,492 · 좋아요 169 · 댓글 17 · ER 4.7% · 평소대비 0.8x (D+28)"
     }
   ],
   "flags": {
@@ -220,5 +226,5 @@
   },
   "child_db_id": "42939eba-97ed-8300-874c-81c9d2749bdb",
   "followers": 3949,
-  "last_written_score": 84
+  "last_written_score": 85
 }
