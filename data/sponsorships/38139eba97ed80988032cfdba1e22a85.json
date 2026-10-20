@@ -25,17 +25,17 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-09-21T10:23:40.000Z",
       "permalink": "https://www.instagram.com/p/Ddi6xBpy7gi/",
-      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/799869724_17936031372380927_6089425991333454049_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5MTAxMDY3NTUzMDY0MzQ5MDE3OTM2MDMxMzY5MzgwOTI3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=NXYatVj_1PQQ7kNvwHn6Xx8&_nc_oc=AdpHdn8tpnDXsnxpUcAcz5hS1d-3rSFNryG2QN1k7ntHDo1Y1Q-ZXy7rtoVDv97HvJ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=PeO9CBzqlkRoR5u0QjDVjw&_nc_ss=7a20f&oh=00_AQOmh__lLt5VbzSVeYitBYEN8BTZ_q72LK5azXpYh1qDnw&oe=6ADC95D3",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/799869724_17936031372380927_6089425991333454049_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5MTAxMDY3NTUzMDY0MzQ5MDE3OTM2MDMxMzY5MzgwOTI3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=NXYatVj_1PQQ7kNvwHFh2Oq&_nc_oc=AdojV_LoTcfpc9ERCsbzR4ibLAnRJiVgrRh5O2nyJ6lXf8ZNSTH7O194PiqPc17iiiCSahK15Z5kBF1pjPQggrVD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=CR3ufqqH75-qWfST5JPpow&_nc_ss=7a20f&oh=00_AQMEFueHzKVZ37ErJy3_hCRXF86axX407axwdC4Td1ruqw&oe=6ADDE753",
       "caption": "x @laserin_swim #협찬 \n\n라세린 코튼캔디 더블크로스백 우먼\n빛 각도에 따라 다채로운 색감으로 변화는게\n코튼캔디의 매력 포인트!!!\n사이판 바다에서도 프로다이버스 수영장에서도\n여성미를 돋보이게 해주더라고요🍬\n더블 크로스 백이라서 허리 라인을 잡아주는\n동시에 물 유입을 최소화해준다고 해요.\n\n🔖SizeTip\n라세린 코튼캔디 더블크로스백 우먼 xs\n167 / 48 / 148\n나이키26ㅣ졸린26",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "annnz0_",
       "metrics": {
-        "views": 1096,
+        "views": 1104,
         "likes": 57,
         "comments": 15
       },
-      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
+      "metrics_updated_at": "2026-10-21T08:41:03.072126+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -114,23 +114,29 @@
           "views": 1096,
           "likes": 57,
           "comments": 15
+        },
+        {
+          "d": "2026-10-21",
+          "views": 1104,
+          "likes": 57,
+          "comments": 15
         }
       ],
       "baseline": {
         "views_median": 1391.5,
         "eng_median": 80.5,
         "n": 12,
-        "captured_at": "2026-10-20T09:09:29.878548+09:00"
+        "captured_at": "2026-10-21T08:41:03.072126+09:00"
       },
       "frozen": false,
-      "days_since_post": 28,
+      "days_since_post": 29,
       "computed": {
         "er": 0.07142857142857142,
-        "vs_baseline": 0.7876392382321236,
+        "vs_baseline": 0.7933884297520661,
         "cost_per_eng": 1166.6666666666667,
-        "cost_per_view": 76.64233576642336
+        "cost_per_view": 76.08695652173913
       },
-      "last_written_reaction": "조회 1,096 · 좋아요 57 · 댓글 15 · ER 7.1% · 평소대비 0.8x (D+28)"
+      "last_written_reaction": "조회 1,104 · 좋아요 57 · 댓글 15 · ER 7.1% · 평소대비 0.8x (D+29)"
     }
   ],
   "flags": {

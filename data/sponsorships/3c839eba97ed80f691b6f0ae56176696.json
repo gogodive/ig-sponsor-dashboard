@@ -1,7 +1,7 @@
 {
   "page_id": "3c839eba-97ed-80f6-91b6-f0ae56176696",
   "row_title_raw": "sun__fit",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-10T04:16:18.000Z",
       "permalink": "https://www.instagram.com/p/DeTM_BdT5qi/",
-      "thumbnail": "https://instagram.fcag1-1.fna.fbcdn.net/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=_jnmimw33OUQ7kNvwF8jDb1&_nc_oc=AdqNRx7CD-prBMfodwM5avT3gapuJDHJC0gLxuk1e1u7rIYbT0PpT03MNN1UZxffz7Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcag1-1.fna&_nc_gid=9CP6u8MlS0BxhGf0tbqOYw&_nc_ss=7a20f&oh=00_AQMjbZw5b8k1npTIi1Dxn_qMG3M3t8TRlGTBAAGJs5pu0A&oe=6ADC975A",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=_jnmimw33OUQ7kNvwElcs-U&_nc_oc=AdpGld_lxKIWBgRnD02-JHE00ikKZKKGmh6f90mTDc411W3RdV0dUClNFn7CDDiAJGs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=KaWryDBNc08TeAxfIhnWFw&_nc_ss=7a20f&oh=00_AQNUm_IFV0fRNX0EdpdDpryeYiKwOwKwEzyIM0nuRl48ng&oe=6ADDE8DA",
       "caption": "[운동하는 선우의 무한도전 S1. 프리다이빙 편 🤿]\n\n매일 복싱만 하다가 새로운 운동에 도전해 보는 [운동하는 선우의 무한도전] 그 대망의 1탄! 바로 프리다이빙입니다 🤿!!\n\n물속에서 숨을 참는다는 게 처음엔 긴장됐지만, 차근차근 배우다 보니 그 고요함과 몰입감에 완전히 빠지게 됐어요..\n\n실제로 다녀온 고고다이브는 초보자분들이 도전하기에 시스템이 진짜 잘 되어 있더라고요!\n\n⭐︎ 고고다이브 찐후기 포인트\n1. 무제한 코칭반: 자격증 취득할 때까지 추가금 없이 무제한으로 연습 가능 (이게 진짜 최고 메리트..)\n2. 전국 연계 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sun__fit",
       "metrics": {
-        "views": 10880,
-        "likes": 210,
+        "views": 10982,
+        "likes": 213,
         "comments": 13
       },
-      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
+      "metrics_updated_at": "2026-10-21T08:41:03.072126+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,23 +84,29 @@
           "views": 10880,
           "likes": 210,
           "comments": 13
+        },
+        {
+          "d": "2026-10-21",
+          "views": 10982,
+          "likes": 213,
+          "comments": 13
         }
       ],
       "baseline": {
-        "views_median": 73037,
-        "eng_median": 602,
-        "n": 7,
-        "captured_at": "2026-10-20T09:09:29.878548+09:00"
+        "views_median": 57456.0,
+        "eng_median": 761.5,
+        "n": 8,
+        "captured_at": "2026-10-21T08:41:03.072126+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
-        "er": 0.00944595052524568,
-        "vs_baseline": 0.14896559278174076,
-        "cost_per_eng": 1748.8789237668161,
-        "cost_per_view": 35.845588235294116
+        "er": 0.009464382930608485,
+        "vs_baseline": 0.19113756613756613,
+        "cost_per_eng": 1725.6637168141592,
+        "cost_per_view": 35.51265707521399
       },
-      "last_written_reaction": "조회 10,880 · 좋아요 210 · 댓글 13 · ER 0.9% · 평소대비 0.1x (D+9)"
+      "last_written_reaction": "조회 10,982 · 좋아요 213 · 댓글 13 · ER 0.9% · 평소대비 0.2x (D+10)"
     }
   ],
   "flags": {
@@ -110,6 +116,6 @@
     "account_unavailable": false
   },
   "child_db_id": "03d39eba-97ed-837a-bccd-018baf847e9a",
-  "followers": 23608,
-  "last_written_score": 15
+  "followers": 23879,
+  "last_written_score": 19
 }

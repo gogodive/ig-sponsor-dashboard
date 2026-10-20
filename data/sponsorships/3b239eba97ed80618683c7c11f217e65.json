@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-20T02:05:19.000Z",
       "permalink": "https://www.instagram.com/p/DdfeLrAGlKW/",
-      "thumbnail": "https://instagram.fbrs4-1.fna.fbcdn.net/v/t51.82787-15/819031271_18457485439188505_2982401506311518687_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MDAzODc0MTg4ODQ4NjU4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NBjz0V0UEgoQ7kNvwF5jdR5&_nc_oc=Ador6bh0LB54smAC5Bh3vgPQbL_JfwdotZEBv161NY9tddRSFKfI5MN60Q8dh3D_LMUk4h82xm2SI_RQ5OfhRdqY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbrs4-1.fna&_nc_gid=zGF-qFTh_clR-_TXZ5OZCg&_nc_ss=7a20f&oh=00_AQN6HpUyrl-CUta_7s1a_Yj0CafFWyuiCgQIAh7Kr7DL8g&oe=6ADC99BB",
+      "thumbnail": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/819031271_18457485439188505_2982401506311518687_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDAzODc0MTg4ODQ4NjU4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5n8dX46YNHUQ7kNvwHlVIHT&_nc_oc=AdoXkJ9Hz5vycv0r534CI2Dz5uQ45zy0C45AmrBPIOQdLFvT350SzQhG_scyIp7mjfw&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=wlOSTtSiC03sUPmBVU5V7A&_nc_ss=7a20f&oh=00_AQMydg-tzym2pwl8-PBDQqQETd-U4-63lzijeGtOTJDX2g&oe=6ADDEB3B",
       "caption": "@laserin_swim 🤍\n라세린에서 보내주신 신상비늘✨👀\n실물이 진짜 영롱.. 용왕님 보러갈때 입기 딱ㅎ\n(아직까지 뵌적은 없음) \n딥스 맞춤컬러🌿ㅋㅋ  반짝반짝 탄탄해서 더 조아요\n\n마지막에 우리쌤 뉴 물놀이 장난감 타는영상두 있음!\n발 안차도 슝슝 신기하조. 엄청 재밌어서 자랑하기",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 11
       },
-      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
+      "metrics_updated_at": "2026-10-21T08:41:03.072126+09:00",
       "history": [
         {
           "d": "2026-09-24",
@@ -197,16 +197,22 @@
           "views": null,
           "likes": -1,
           "comments": 11
+        },
+        {
+          "d": "2026-10-21",
+          "views": null,
+          "likes": -1,
+          "comments": 11
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 7.5,
         "n": 12,
-        "captured_at": "2026-10-20T09:09:29.878548+09:00"
+        "captured_at": "2026-10-21T08:41:03.072126+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.012165450121654502,
         "vs_baseline": 1.3333333333333333,
@@ -220,7 +226,7 @@
           "analyzed_at": "2026-09-24T08:28:45.520554+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 1.2% · 평소대비 1.3x (D+29)"
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 1.2% · 평소대비 1.3x (D+30)"
     }
   ],
   "flags": {
