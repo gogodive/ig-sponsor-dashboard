@@ -25,7 +25,7 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-28T09:39:49.000Z",
       "permalink": "https://www.instagram.com/p/Dd04jehILqR/",
-      "thumbnail": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/829492209_18635728861038163_6700411292868404198_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5NjA2NTM3NTg4OTcxMTExNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjcyOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_H0k2r8qVSwQ7kNvwECKQa7&_nc_oc=AdqhltEOrC3cP7tfYRHbsLSofzZyJU1r2syJalw8XmBX0SFVeq5n56mVng-KXUG770E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=4miHWjmUeLibYSkpxsDSBw&_nc_ss=7a22e&oh=00_AQMvSYPdnRGWnWzXvYUNwyAm4WYIvxaURz9VyFCaHfegGA&oe=6ADB2CF9",
+      "thumbnail": "https://instagram.fktw6-1.fna.fbcdn.net/v/t51.82787-15/829492209_18635728861038163_6700411292868404198_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NjA2NTM3NTg4OTcxMTExNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjcyOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_H0k2r8qVSwQ7kNvwGrZ5Ke&_nc_oc=Ado0cg60QjhJQyzi7ivedvCfEnVKScLUY__yscYfk-VL8_Ysk8KmJKgk7lxMCVvg6x4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fktw6-1.fna&_nc_gid=cL8oxz1T3N3FrCmugIRK9Q&_nc_ss=7a20f&oh=00_AQP1as4gSbCw3PkFtk2RpyCcLRWzp05ufc5lILcgQbxREw&oe=6ADC7E79",
       "caption": "#체험협찬 #고고다이브 @gogodive \n\n프리다이빙 업체로 유명한 고고다이브에서 프리다이빙 강습받고옴🐬✨\n\n강사님께서 스태틱부터 이퀄라이징, 덕다이빙 자세까지 하나하나 너무 자세하고 친절하게 알려주셔서 잘 습득함\n\n평소에 프리다이빙 너무 해보고 싶었는데 직접 체험해보니까 생각보다 더 더더 재밌었움ㅠㅠ\n\n10m 찍을때까지 계속 코칭반 다닐 예정!\n\n프리다이빙 처음 도전해보고 싶다면 대전 알프스다이빙 고고다이브 추천!!🩵\n다음에 또 배우러 오겠슴당🐬\n\n#프리다이빙 #프리다이빙강습 #프리다이빙후기",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": 72,
         "comments": 4
       },
-      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
+      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
       "history": [
         {
           "d": "2026-09-29",
@@ -161,23 +161,29 @@
           "views": null,
           "likes": 72,
           "comments": 4
+        },
+        {
+          "d": "2026-10-20",
+          "views": null,
+          "likes": 72,
+          "comments": 4
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 140.5,
         "n": 12,
-        "captured_at": "2026-10-19T07:53:23.108041+09:00"
+        "captured_at": "2026-10-20T09:09:29.878548+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.024226968441185846,
         "vs_baseline": 0.5409252669039146,
         "cost_per_eng": 5131.578947368421,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 72 · 댓글 4 · ER 2.4% · 평소대비 0.5x (D+20)"
+      "last_written_reaction": "좋아요 72 · 댓글 4 · ER 2.4% · 평소대비 0.5x (D+21)"
     }
   ],
   "flags": {

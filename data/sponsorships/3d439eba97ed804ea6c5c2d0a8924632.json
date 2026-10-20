@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-23T12:24:50.000Z",
       "permalink": "https://www.instagram.com/p/DdoRis8TXys/",
-      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/800482586_18054382601642576_2647352033836801655_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk5MjUxODIyMTE3MzE5MzkwMDE4MDU0MzgyNTk4NjQyNTc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=iQJ_1TjqUVYQ7kNvwGer48h&_nc_oc=AdrE9o8vWdiBnq3fpHhAGfVPVNOOBRRRy_COjbCtaT_FojRb9FrLzLHAvNQzaiaIkWu0ejSmsjs-9YRGSts_U8oz&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=6n6w6n50pwZQK9mlYDFeUw&_nc_ss=7a20f&oh=00_AQNhJxLJJznfSdizwO_XJQ0jbm8t6rF_s1V0DCDKfBN6hQ&oe=6ADB1A0D",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/800482586_18054382601642576_2647352033836801655_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk5MjUxODIyMTE3MzE5MzkwMDE4MDU0MzgyNTk4NjQyNTc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=OLLlhgix9sUQ7kNvwEgyENP&_nc_oc=AdpS_2SAM5HrdyT_qsAkV7lmSf5X4EoT9YNlTGxFbonx-pvt1VYcL6ab3zqUAKjo-VU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=VgD2f-5ZFzUJ-FHHbRLmkA&_nc_ss=7a20f&oh=00_AQM-NZUu1iZ0uw7bYrOjdZegRGhyyHlua7aH4UUkM46Kmg&oe=6ADC6B8D",
       "caption": "#제품제공 \n\n“@laserin_swim 말랑가드 수경케이스”\n저 제 귀여운 라세린 수경케이스 좀 자랑할게요…💕\n제 소중한 수경을 기스로부터 안전하게 보호해주는\n실리콘 재질의 말랑가드 수경케이스💘\n이번 제주도 여행에도 애착 수경 넣어서 함께 했거든요!\n볼때마다 귀여워서 기분이 좋더라구요😆\n이제는 수경케이스도 꾸미는 시대!!\n함께 보내주신 지비츠로 꾸미니 한층 더 귀엽죠?!🥽✨\n\n#라세린 #수경케이스 #수영템 #수영용품",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "mooldoongdoong",
       "metrics": {
-        "views": 2586,
+        "views": 2596,
         "likes": 56,
         "comments": 25
       },
-      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
+      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -144,23 +144,29 @@
           "views": 2586,
           "likes": 56,
           "comments": 25
+        },
+        {
+          "d": "2026-10-20",
+          "views": 2596,
+          "likes": 56,
+          "comments": 25
         }
       ],
       "baseline": {
         "views_median": 2556.0,
         "eng_median": 109.0,
         "n": 12,
-        "captured_at": "2026-10-19T07:53:23.108041+09:00"
+        "captured_at": "2026-10-20T09:09:29.878548+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0800395256916996,
-        "vs_baseline": 1.011737089201878,
+        "vs_baseline": 1.0156494522691706,
         "cost_per_eng": 148.14814814814815,
-        "cost_per_view": 4.640371229698376
+        "cost_per_view": 4.622496147919877
       },
-      "last_written_reaction": "조회 2,586 · 좋아요 56 · 댓글 25 · ER 8.0% · 평소대비 1.0x (D+25)"
+      "last_written_reaction": "조회 2,596 · 좋아요 56 · 댓글 25 · ER 8.0% · 평소대비 1.0x (D+26)"
     }
   ],
   "flags": {
@@ -171,5 +177,5 @@
   },
   "child_db_id": "41039eba-97ed-830b-8a15-01865bc5372f",
   "followers": 1012,
-  "last_written_score": 101
+  "last_written_score": 102
 }

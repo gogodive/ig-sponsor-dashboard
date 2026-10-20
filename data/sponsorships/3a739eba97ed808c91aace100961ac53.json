@@ -25,16 +25,16 @@
       "first_seen": "2026-10-09",
       "posted_at": "2026-10-06T10:34:26.000Z",
       "permalink": "https://www.instagram.com/p/DeJlKjwgZjr/",
-      "thumbnail": "https://instagram.fbcn15-1.fna.fbcdn.net/v/t51.82787-15/836959248_18118236164064969_8545745966393025265_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTg4NzcwMzExMjYwNjE3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzM5OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7IqFB50v8pIQ7kNvwELvVw0&_nc_oc=AdqovjAOh5r_of8M5XJRnzSyZu99QApWpau3DCLNoI4Wjoi14jVlmv370xVD2RIx1Mk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn15-1.fna&_nc_gid=Dqy4OosXjylDFbzidsz8yw&_nc_ss=7a22e&oh=00_AQNHVbz-3pL1cXc8suG1WTJU5f51W7AudqPcJyqXTvLBrQ&oe=6ADB0A77",
+      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/836959248_18118236164064969_8545745966393025265_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwMTg4NzcwMzExMjYwNjE3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzM5OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7IqFB50v8pIQ7kNvwEFj8dO&_nc_oc=Adq3Q0C8liNoJiRgPF1pZAUB487FoAHwntMwIsvOrdj1FJfXjUK3ef2had-yUXWtDl0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=Iuu3oXnLHrZsTvlkVJv63Q&_nc_ss=7a20f&oh=00_AQOwIBKTsjIzKuLbjDaiAlS7r9Za77tBmsNQZ6PQu1x4mw&oe=6ADC9437",
       "caption": "여러분 저 프리다이빙 시작했어요!🤿\n제가 MBTI 중 N 성향이 강한사람이라..ㅋㅋㅋ 잠수병이나 블랙아웃등 별별 상황만 상상하다 무서워서 못했었는데 ⭐️극복성공⭐️\n\n저는 @gogodive 고고다이브에서 강습받았는데 전문적이기도 하고 업체가 커서 저를 믿고 맡겼숨다...😂 어푸푸한 잠수실력이지만 촬영도 잘해주시는 우리 서면풀장 강사님 최고✨ 덕분에 이퀄라이징 호흡법도 성공해서 자신감 붙음ㅎㅎ \n\n아직 5m풀도 버겁지만 딥풀까지 가야하는나,,,,그날까지 숨참고 럽다이브 해볼게용,,💙\n\n.\n.\n#고고다이브 #프리다이빙 #프리다이빙강습 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "i_myme97",
       "metrics": {
-        "likes": 218,
+        "likes": 224,
         "comments": 49
       },
-      "metrics_updated_at": "2026-10-19T07:53:23.108041+09:00",
+      "metrics_updated_at": "2026-10-20T09:09:29.878548+09:00",
       "history": [
         {
           "d": "2026-10-09",
@@ -101,23 +101,29 @@
           "views": null,
           "likes": 218,
           "comments": 49
+        },
+        {
+          "d": "2026-10-20",
+          "views": null,
+          "likes": 224,
+          "comments": 49
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 881.5,
         "n": 12,
-        "captured_at": "2026-10-19T07:53:23.108041+09:00"
+        "captured_at": "2026-10-20T09:09:29.878548+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
-        "er": 0.010174529380382593,
-        "vs_baseline": 0.3028927963698242,
-        "cost_per_eng": 2921.3483146067415,
+        "er": 0.010403170490054112,
+        "vs_baseline": 0.3096993760635281,
+        "cost_per_eng": 2857.1428571428573,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 218 · 댓글 49 · ER 1.0% · 평소대비 0.3x (D+12)"
+      "last_written_reaction": "좋아요 224 · 댓글 49 · ER 1.0% · 평소대비 0.3x (D+13)"
     }
   ],
   "flags": {
@@ -128,5 +134,5 @@
   },
   "child_db_id": "59a39eba-97ed-82c9-b929-81702493a41b",
   "followers": 26242,
-  "last_written_score": 30
+  "last_written_score": 31
 }

@@ -23,8 +23,8 @@
       "media_kind": "피드",
       "upload_date_notion": "2026-09-20",
       "first_seen": "2026-09-24",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.36495535714285715,
         "vs_baseline": 0.990909090909091,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-09-18T12:20:10.000Z",
       "permalink": "https://www.instagram.com/p/DdbataSTDqQ/",
-      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X3Wbie_VY6EQ7kNvwH2Gd0R&_nc_oc=AdogAiI9YKrHqAzW9kfQwFIBgSc1LA3RiYRmLYtzfu5C2GA5v8itRnqWlhjmVVQfNWRgSEPbDp586MNo48wxF-c2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=A_0LtWPbr5Y6vSwNDF6fxA&_nc_ss=7a22e&oh=00_AQNgL-EQ3z42nDa3hJ03J5iVi6o7_1tplO4ueQ1jCBm3KQ&oe=6ADB281C",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X3Wbie_VY6EQ7kNvwH6wd8q&_nc_oc=AdqXPpDGkruWHbMO1TCt6ltvYFFUV4qccC5zH3NvBYoRAdglre7Cynmh0pC8sEbaD5s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=CbhlAMKBKIduRW6cE5xRGw&_nc_ss=7a20f&oh=00_AQM-E-ZLiDnq0Y7z5AXDD63UxbY3rEOgHWGX8Cggz6HPYg&oe=6ADC799C",
       "caption": "시크릿스와 함께라면 개미허리가 되,,🐜💚🤍\n\n#협찬 \n상의: @secrets__fit \n하의: @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -171,7 +171,7 @@
         "n": 7,
         "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
-      "last_written_reaction": "좋아요 262 · 댓글 65 · ER 36.5% · 평소대비 1.0x (D+30)"
+      "last_written_reaction": "좋아요 262 · 댓글 65 · ER 36.5% · 평소대비 1.0x (확정)"
     },
     {
       "notion_row_id": "e3039eba-97ed-83dd-9409-81140fb2d47e",
@@ -181,7 +181,7 @@
       "upload_date_notion": "2026-09-22",
       "first_seen": "2026-09-24",
       "frozen": false,
-      "days_since_post": 27,
+      "days_since_post": 28,
       "computed": {
         "er": null,
         "vs_baseline": null,

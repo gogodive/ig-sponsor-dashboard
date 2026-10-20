@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-10-07",
       "first_seen": "2026-10-17",
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -40,7 +40,7 @@
       "upload_date_notion": "2026-10-04",
       "first_seen": "2026-10-17",
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -184,14 +184,14 @@
         "captured_at": "2026-10-16T08:35:23.432306+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0009836710603974032,
         "vs_baseline": 0.013020833333333334,
         "cost_per_eng": 14866.666666666666,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+29)"
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+30)"
     }
   ],
   "flags": {
