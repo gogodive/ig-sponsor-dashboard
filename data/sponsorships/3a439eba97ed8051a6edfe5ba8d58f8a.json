@@ -17,6 +17,49 @@
   "followers_notion": 35000,
   "posts": [
     {
+      "notion_row_id": "40039eba-97ed-80fa-a10a-c200041d9ac4",
+      "url": "https://www.instagram.com/p/DetUskRE_zV/?img_index=1",
+      "shortcode": "DetUskRE_zV",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-10-20",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-20T07:43:11.000Z",
+      "permalink": "https://www.instagram.com/p/DetUskRE_zV/",
+      "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/858088657_17916305214469496_4533247278047000554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTk1MzQ2NTI5NTA0NDA4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xkSsYaPaTO0Q7kNvwHKQiuS&_nc_oc=AdpNy5vFdpxCLplrYVNOxBUv1n1kk1YOBZ4RZ6q2IH2ZexvTJ8sakH6sDDOLULscHzO4Wpc7XaUxAYv1sWRXdVub&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=xOTAi0pY12mMp3oP9x3u0A&_nc_ss=7a20f&oh=00_AQO3GFW_n2P8rYBUjCucLBYMvJFuquEp4OK1vLEUveev2Q&oe=6ADF3EA0",
+      "caption": "새로운 취미, 프리다이빙 🐠🩵\n\n첫 수업부터 매력에 퐁당... \n프리이멀전 / 덕다이빙 / 다이나믹 전문적으로 배워보고\n연습해볼수 있던 시간. 강습 중 담아주신 사진보니\n얼른 또 하고싶다 ! 🤍\n\n#고고다이브 #프리다이빙 #프리다이빙강습\n#프리다이빙입문 #프리다이빙후기 @gogodive",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "heynana_o3o",
+      "metrics": {
+        "likes": -1,
+        "comments": 5
+      },
+      "metrics_updated_at": "2026-10-22T08:56:19.491468+09:00",
+      "history": [
+        {
+          "d": "2026-10-22",
+          "views": null,
+          "likes": -1,
+          "comments": 5
+        }
+      ],
+      "baseline": {
+        "views_median": null,
+        "eng_median": 688,
+        "n": 9,
+        "captured_at": "2026-10-22T08:56:19.491468+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 1,
+      "computed": {
+        "er": 0.00011715775291429911,
+        "vs_baseline": 0.005813953488372093,
+        "cost_per_eng": 48750.0,
+        "cost_per_view": null
+      },
+      "last_written_reaction": "좋아요 -1 · 댓글 5 · ER 0.0% · 평소대비 0.0x (D+1)"
+    },
+    {
       "notion_row_id": "b2a39eba-97ed-827d-b8b9-815e7bec50d5",
       "url": "https://www.instagram.com/p/Deqmsmtz7BD/",
       "shortcode": "Deqmsmtz7BD",
@@ -25,21 +68,27 @@
       "first_seen": "2026-10-21",
       "posted_at": "2026-10-19T06:29:03.000Z",
       "permalink": "https://www.instagram.com/p/Deqmsmtz7BD/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/858088449_17916153930469496_7758528345811911488_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAxMTE4ODYwOTEyMjAyMTQ0MzE3OTE2MTUzOTI3NDY5NDk2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=hoshzCQK_b8Q7kNvwHFJZ-2&_nc_oc=AdrKnwkVr1F_YpBqWDOEvnmaOefITUs5uxCw5wpJma0MMKGEeF5tIAeYkvDf2BW6U5FtGWAXSJfJ_maEW0inPG5z&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=qgMxVybc3RhdlDoi8OVzYg&_nc_ss=7a20f&oh=00_AQPRe3jAgmJPSNuwnRhL6tibN8dgPDvVrtPvDSFyCMlGGQ&oe=6ADDE5CA",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/858088449_17916153930469496_7758528345811911488_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAxMTE4ODYwOTEyMjAyMTQ0MzE3OTE2MTUzOTI3NDY5NDk2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=xjMJ5SsZZcIQ7kNvwFC-uq-&_nc_oc=Adq4Udo75QFvcIq6zfW_ZvZLxqU_5SfyDiUfhYs9kNQ4hxbTdYINkqrOppdXQsPXENo&_nc_ad=z-m&_nc_cid=1479&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=Cv3W03X_-YhnI9aYWwxR7Q&_nc_ss=7a20f&oh=00_AQPf3mhtRLpo7fYVKhotlqlhp4mtH-0jfpqaE-AgQJPl2A&oe=6ADF374A",
       "caption": "바다에서 자유롭게 수영하는 모습이 예뻐서\n도전해본 프리다이빙 🤿🩵\n\n이번에 고고다이브에서 프리다이빙 강습을 받으면서\n프리이멀전부터 덕다이빙, 다이나믹까지 차근차근 배워봤어요!\n\n세심하게 티칭해 주셔서 처음 도전하는데도\n더 재미있게 배울 수 있었던 시간 🫧\n\n장비가 없어도 대여가 가능해서\n부담없이 시작할 수 있다는 점도 좋았어요!\n\n직접 해보니 생각했던 것보다 훨씬 더 매력적인 취미 🤍\n물속에서 호흡과 움직임에 집중하는 순간이 너무 좋더라구요.\n더 깊이, 더 자유롭게 수영하는 그날까지 🌊\n\n#고고다이브 #프리다이빙 #프리다이빙강습 #",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "heynana_o3o",
       "metrics": {
-        "views": 32040,
+        "views": 32182,
         "likes": 549,
         "comments": 13
       },
-      "metrics_updated_at": "2026-10-21T08:41:03.072126+09:00",
+      "metrics_updated_at": "2026-10-22T08:56:19.491468+09:00",
       "history": [
         {
           "d": "2026-10-21",
           "views": 32040,
+          "likes": 549,
+          "comments": 13
+        },
+        {
+          "d": "2026-10-22",
+          "views": 32182,
           "likes": 549,
           "comments": 13
         }
@@ -48,17 +97,17 @@
         "views_median": 38478,
         "eng_median": 986,
         "n": 9,
-        "captured_at": "2026-10-21T08:41:03.072126+09:00"
+        "captured_at": "2026-10-22T08:56:19.491468+09:00"
       },
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": 0.016460664284459026,
-        "vs_baseline": 0.8326836114143147,
-        "cost_per_eng": 693.9501779359431,
-        "cost_per_view": 12.172284644194757
+        "vs_baseline": 0.8363740319143407,
+        "cost_per_eng": 346.97508896797154,
+        "cost_per_view": 6.059287800633895
       },
-      "last_written_reaction": "조회 32,040 · 좋아요 549 · 댓글 13 · ER 1.6% · 평소대비 0.8x (D+1)"
+      "last_written_reaction": "조회 32,182 · 좋아요 549 · 댓글 13 · ER 1.6% · 평소대비 0.8x (D+2)"
     }
   ],
   "flags": {
@@ -69,5 +118,5 @@
   },
   "child_db_id": "ba839eba-97ed-8392-9751-81b7373e6285",
   "followers": 34142,
-  "last_written_score": 83
+  "last_written_score": 42
 }
