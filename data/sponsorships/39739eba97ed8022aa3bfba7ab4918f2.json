@@ -25,7 +25,7 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-10-07T01:55:01.000Z",
       "permalink": "https://www.instagram.com/p/DeLOmkJE6HR/",
-      "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/834677447_18466566151143706_7947963836661703174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMjE2NDU2MDk0OTkwMjk3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=I3Izxy4tAwUQ7kNvwHQFDZi&_nc_oc=Adoj8O74n2joKlJfoQPf_2oaQLEO8rr3XDAc52zDTmz0Hnme12ENaNpimtOJIQdS1P2HyCksZobnbu8EJGbsyBX-&_nc_ad=z-m&_nc_cid=1087&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=WClkgmEG1DhcVb8xarAbNQ&_nc_ss=7a20f&oh=00_AQOM4DS7G7QlxdqHRBOuVarC6T9WcCZ3q4LU1PlX0FfyDw&oe=6AE0875B",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/834677447_18466566151143706_7947963836661703174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMjE2NDU2MDk0OTkwMjk3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=I3Izxy4tAwUQ7kNvwHutXv7&_nc_oc=Adp9xFkg-_hq7-NrzXbVEQqmqkmId8-KoiJJynADCQh5Y6xH3MnAQydOMP79JWx8Vkb4nl3z8IpzZ7OdVIjunpoR&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=Bva2qcC0u5cpjznv_lfvyQ&_nc_ss=7a20f&oh=00_AQNUnwgrBpPWibzhlxHYAUE22JflszjE7uDw7ig9Giy0AA&oe=6AE1D8DB",
       "caption": "#협찬\n저는 도파민 중독자인데요🤩\n\n내 몸과 생활루틴을 망치지 않으면서\n혼자서도 즐길 수 있는 도파민은 운동만한게 없더라구요\n\n그래서 헬스를 메인으로 하고\n크로스핏, 프사오, 코일링 코어 그룹 운동, 로드 자전거, 클라이밍, 등산, 배드민턴, 탁구, 러닝, 스키, 골프 등 온갖 운동을 접해 보면서 취미로 즐기는데요!\n\n딱 하나..\n수영을 못해요..😭\n\n물을 무서워 하기도 하고\n어렸을 때 배워 본 건 기억이 안나서\n다시 배워야 하나 싶었는데\n신청도 빡세고 시간 내기도 어렵더라구요\n\n어차피 물과 친해질 거라면\n내가 진짜 해보고 싶었던 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-10-23T08:55:04.742838+09:00",
+      "metrics_updated_at": "2026-10-24T08:46:56.708555+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -131,23 +131,29 @@
           "views": null,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-10-24",
+          "views": null,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 19,
         "n": 9,
-        "captured_at": "2026-10-23T08:55:04.742838+09:00"
+        "captured_at": "2026-10-24T08:46:56.708555+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
         "cost_per_eng": null,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+15)"
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+16)"
     }
   ],
   "flags": {
