@@ -25,7 +25,7 @@
       "first_seen": "2026-09-24",
       "posted_at": "2026-09-21T08:05:52.000Z",
       "permalink": "https://www.instagram.com/p/DdisPQQGRTB/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0whPK3t9EccQ7kNvwEgOajS&_nc_oc=Adpo_OuGgt7rpkI0w7C_fESpR69-5F-6RVURetrIbN42QMoDc_e17Q1SceA8exRWl3c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=yAFrZ0RFNdwnmWRrwsMA7w&_nc_ss=7a20f&oh=00_AQOq4r_aispMR-silEhn4yqpG9txH6Kjg348Q6k_fzTudg&oe=6ADF1836",
+      "thumbnail": "https://scontent-ham3-1.cdninstagram.com/v/t51.82787-15/819272101_18631193686033843_9176197997189935732_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDk0NDMwMzU5NjYyNzc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ALJTqd-YErsQ7kNvwEMqTOu&_nc_oc=AdrRcl3XKvsWn_24gfwuMJckxEqFto0A32zn6u6f4hIUm2IfEu0-HfDE8pMKRsCZSmWV-hReQn5CLb6ykL3Qu99L&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=nC_0njafvyIpMXy7TrRwFw&_nc_ss=7a20f&oh=00_AQMLL3cLY2lc4VWJwKrUR2P8bW1DDcV2v0vtpdH4VbMK6A&oe=6AE069B6",
       "caption": "#협찬 @laserin_swim \n난 인간 복숭아가 되겠서,,🍑\n복숭아 빛깔 아주 반짝반짝 존재감 확실해✨\n\n👙라세린 물복 \n\n✔155 / 44 / XS 착용\n·\t두겹, 신축성 굳\n·\t브라캡고리O\n·\t가슴선 높음\n·\t더블 크로스백\n\n백타입이 너무 예뿌죵✌🏻\n이번에 착용한 사이즈는 타이트해서 \n몸을 잡아주는 느낌이 냥냥했다요 !\n풀장에도 담궈버리고싶다…\n\n#라세린 #수영복 #실내수영복 #수영복코디",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -217,15 +217,15 @@
         "n": 5,
         "captured_at": "2026-10-22T08:56:19.491468+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.002587991718426501,
+        "er": 0.0025906735751295338,
         "vs_baseline": 0.6666666666666666,
         "cost_per_eng": 6900.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (D+30)",
+      "last_written_reaction": "좋아요 -1 · 댓글 11 · ER 0.3% · 평소대비 0.7x (확정)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)라 댓글 기준 평소대비 0.67x·참여당 6900원은 과소추정된 값이며, 판단 보류",
@@ -242,6 +242,6 @@
     "account_unavailable": false
   },
   "child_db_id": "fdd39eba-97ed-8220-be14-81b99cc3e66c",
-  "followers": 3864,
+  "followers": 3860,
   "last_written_score": 67
 }
