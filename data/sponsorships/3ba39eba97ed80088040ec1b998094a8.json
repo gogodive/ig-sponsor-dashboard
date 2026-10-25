@@ -578,7 +578,7 @@
         "captured_at": "2026-09-21T08:05:01.479098+09:00"
       },
       "frozen": true,
-      "days_since_post": 64,
+      "days_since_post": 65,
       "computed": {
         "er": 0.039640883977900554,
         "vs_baseline": 0.7777777777777778,

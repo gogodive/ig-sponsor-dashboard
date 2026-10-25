@@ -262,7 +262,7 @@
       },
       "metrics_updated_at": "2026-08-22T06:28:03.167813+09:00",
       "frozen": true,
-      "days_since_post": 111,
+      "days_since_post": 112,
       "computed": {
         "er": 0.003,
         "vs_baseline": null,

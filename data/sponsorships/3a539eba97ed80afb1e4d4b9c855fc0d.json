@@ -25,17 +25,17 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T13:41:22.000Z",
       "permalink": "https://www.instagram.com/p/Dd6cXI8vyS1/",
-      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FQW-h3alingQ7kNvwFa_iL5&_nc_oc=AdoT6WQiTgkC4dP9qiy6l0mR60afVhk5n2dC4B55PrUeziJqWlOjCONQSHZGLYWEKWyfJ1GkXmhU8oksa9zcAmPG&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=ZbGNqEPzElwwekA2H_HysQ&_nc_ss=7a20f&oh=00_AQN-jWH-EK3BG7laUk2Ow-X-gHiGsI28Kvm_5cBBDBxaew&oe=6AE3002D",
+      "thumbnail": "https://instagram.fitb2-1.fna.fbcdn.net/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FQW-h3alingQ7kNvwEdUOfr&_nc_oc=AdrdDfFIOydrQl-JqDiwJzE1oDWmwnaTsJnmLTty5b1pAGL92wigeAaDe9_0U-t8ECc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fitb2-1.fna&_nc_gid=I5WedQuv8Zl0jDE93EpvOA&_nc_ss=7a20f&oh=00_AQNRyznp4iRkQLxw2cvNosFTqzQdPU4DtdsLfq3K4QNtLg&oe=6AE3386D",
       "caption": "프리다이빙 넘 재밌잖아 😱\n\n@gogodive \n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브강습",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "h.a.d93",
       "metrics": {
-        "views": 3869,
+        "views": 3870,
         "likes": 253,
         "comments": 8
       },
-      "metrics_updated_at": "2026-10-25T07:59:44.504242+09:00",
+      "metrics_updated_at": "2026-10-25T12:46:39.262455+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -177,7 +177,7 @@
         },
         {
           "d": "2026-10-25",
-          "views": 3869,
+          "views": 3870,
           "likes": 253,
           "comments": 8
         }
@@ -192,11 +192,18 @@
       "days_since_post": 24,
       "computed": {
         "er": 0.013434218653489809,
-        "vs_baseline": 0.8673915480327318,
+        "vs_baseline": 0.8676157381459477,
         "cost_per_eng": 747.1264367816092,
-        "cost_per_view": 50.40062031532696
+        "cost_per_view": 50.3875968992248
       },
-      "last_written_reaction": "조회 3,869 · 좋아요 253 · 댓글 8 · ER 1.3% · 평소대비 0.9x (D+24)"
+      "last_written_reaction": "조회 3,870 · 좋아요 253 · 댓글 8 · ER 1.3% · 평소대비 0.9x (D+24)",
+      "analysis": {
+        "d14": {
+          "one_liner": "평소대비 0.87x로 평소에 못 미치고, 조회당 50.4원·참여당 747원으로 비용효율이 낮아 24일차라 반등 여지도 적음",
+          "days": 24,
+          "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
+        }
+      }
     },
     {
       "notion_row_id": "5a939eba-97ed-833a-9551-81bc930bb3ef",
@@ -411,7 +418,9 @@
           "one_liner": "평소 대비 0.83x로 소폭 부진하나 참여 1건당 1,461원·참여율 1.37%는 소규모 계정 기준 무난한 수준.",
           "days": 14,
           "analyzed_at": "2026-09-16T08:27:25.841469+09:00"
-        }
+        },
+        "final_verdict": "D+53 확정 기준 좋아요 260·댓글 13(참여 273건)으로 이 계정의 평소 게시물 대비 0.88배에 그쳐, 협찬 콘텐츠가 오히려 평소보다 덜 반응을 얻었고 팔로워 대비 참여율도 1.41%로 낮은 편이다. 참여 1건당 비용은 714원으로 제시됐지만 상품 가액 39만 원을 참여 273건으로 나누면 약 1,429원이어서, 비용 기준(원가 반영 여부 등)을 확인해야 하며 어느 기준이든 피드 단일 게시물로는 노출 확산(조회수)도 확인할 수 없다. 종합하면 비용 대비 가치는 낮은 협찬으로, 이 계정과 재협찬한다면 릴스 포맷 조건이나 가액을 낮춘 제품 제공으로 비용을 조정하는 것이 바람직하다.",
+        "final_at": "2026-10-25T12:46:39.262455+09:00"
       },
       "last_written_reaction": "좋아요 260 · 댓글 13 · ER 1.4% · 평소대비 0.9x (확정)"
     }

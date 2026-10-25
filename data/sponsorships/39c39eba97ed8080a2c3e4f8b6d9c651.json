@@ -25,17 +25,17 @@
       "first_seen": "2026-10-21",
       "posted_at": "2026-10-18T00:39:56.000Z",
       "permalink": "https://www.instagram.com/p/DenaiyYSBFa/",
-      "thumbnail": "https://scontent-mrs2-2.cdninstagram.com/v/t15.5256-10/855693757_2037181703650244_2553263711747792175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jsj14fVltK8Q7kNvwFOwaqb&_nc_oc=Ado5oo3GcPbkBoiuCxSrhp2PtLCx5XjF0YVQgGkhkmGpnZ1hJMvDWrVndAyvDNi0Z5TYcmpufhk7JoMnKz9vjz-w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_gid=8Mdsnqzckf3HSmriuXwUlA&_nc_ss=7a20f&oh=00_AQMUwvVWfoZORuQkSrm768aNuVFCGRCuTaAusejxlo5RfQ&oe=6AE30028",
+      "thumbnail": "https://instagram.ffbe1-1.fna.fbcdn.net/v/t15.5256-10/855693757_2037181703650244_2553263711747792175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jsj14fVltK8Q7kNvwFKS856&_nc_oc=AdoF_vC_fx4Zw4rRvaI0VUg-2torRLufKc7a_mtCY5ddMpqsKIvsp2mBg9e8p_BxAX0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.ffbe1-1.fna&_nc_gid=GkXjY3VtHbGY1i1HCSYv_Q&_nc_ss=7a20f&oh=00_AQO81akUjPl7Cv3ojmVBbrxLEisztyZLnONXZg3tPt3xug&oe=6AE33868",
       "caption": "새벽 5:30 기상, 오후 12시 퇴근 후 은밀한 취미일기😉\n광화문 출근 후 반포로 넘어가서 70세 이상 시니어 수업 진행해요. 가끔 용돈도 주시는 우리 어머님들… 사랑해요 💛\n\n📍밴건디 스테이크 하우스 어머님들이랑 점심! 저녁은 부담스러운데 점심 코스는 완전 가성비예요. 굽기도 딱 적절했고, 파스타까지 시켰더니 너무 배불러서 코스만 추천!\n커피타임 후 집에서 잠깐 쉬고 취미활동하러 출발가요.\n\n📍용인 딥스테이션 5m 수영장만 다니다가 AIDA 자격증 따려고 처음 와봤어요! 최대 36m까지 있어서 프리다이빙, 스쿠버 다 가능해요🤍\n",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "aaoong",
       "metrics": {
-        "views": 4447,
+        "views": 4463,
         "likes": -1,
         "comments": 27
       },
-      "metrics_updated_at": "2026-10-25T07:59:44.504242+09:00",
+      "metrics_updated_at": "2026-10-25T12:46:39.262455+09:00",
       "history": [
         {
           "d": "2026-10-21",
@@ -63,7 +63,7 @@
         },
         {
           "d": "2026-10-25",
-          "views": 4447,
+          "views": 4463,
           "likes": -1,
           "comments": 27
         }
@@ -72,17 +72,17 @@
         "views_median": 4471,
         "eng_median": 33,
         "n": 7,
-        "captured_at": "2026-10-25T07:59:44.504242+09:00"
+        "captured_at": "2026-10-25T12:46:39.262455+09:00"
       },
       "frozen": false,
-      "days_since_post": 6,
+      "days_since_post": 7,
       "computed": {
         "er": 0.0005977698586044373,
-        "vs_baseline": 0.994632073361664,
+        "vs_baseline": 0.9982106911205547,
         "cost_per_eng": 7500.0,
-        "cost_per_view": 43.84978637283562
+        "cost_per_view": 43.69258346403764
       },
-      "last_written_reaction": "조회 4,447 · 좋아요 -1 · 댓글 27 · ER 0.1% · 평소대비 1.0x (D+6)"
+      "last_written_reaction": "조회 4,463 · 좋아요 -1 · 댓글 27 · ER 0.1% · 평소대비 1.0x (D+7)"
     },
     {
       "notion_row_id": "71539eba-97ed-83fb-8357-0118faffb5e6",
@@ -318,5 +318,5 @@
   },
   "child_db_id": "bff39eba-97ed-8236-9287-816839828e0f",
   "followers": 43495,
-  "last_written_score": 95
+  "last_written_score": 96
 }
