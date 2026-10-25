@@ -78,10 +78,12 @@ def build_row_states(notion_rows: list[dict], cfg: dict, now: datetime) -> list[
             states.append(state)
             continue
 
-        # 종료 + 전부 동결·지표·노션 기입 완료 → 하위 DB·Apify 재조회 생략 (비용 고정)
+        # 종료 + 전부 동결·지표·노션 기입·최종 평가 완료 → 하위 DB·Apify 재조회 생략 (비용 고정)
+        # 최종 평가가 없으면 계속 처리 대상으로 남겨 재시도한다 (동결 게시물이라 Apify 비용은 없음)
         all_done = (nrow["status"] == "종료" and state["posts"]
                     and all(p.get("frozen") and p.get("metrics_updated_at")
                             and p.get("last_written_reaction")
+                            and (p.get("analysis") or {}).get("final_verdict")
                             for p in state["posts"])
                     and state.get("last_written_score") is not None)
         state["_settled"] = bool(all_done)

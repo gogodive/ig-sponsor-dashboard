@@ -131,7 +131,8 @@ def daily_digest(rows: list[dict], flags: dict, cfg: dict, now: datetime) -> dic
     flag_txt = (f"업로드 누락 {len(flags.get('overdue', []))}건 · "
                 f"계정 확인 필요 {len(flags.get('unresolvable', []))}건")
     user = (
-        f"# 오늘({now.strftime('%Y-%m-%d')}) 추적 중인 협찬 게시물 (평소대비 순)\n"
+        f"# 오늘({now.strftime('%Y-%m-%d')}) 추적 중인 협찬 게시물은 총 {len(live)}건이다. "
+        f"아래는 그중 평소대비 상위 {len(lines)}건 (평소대비 순)\n"
         + "\n".join(lines) + f"\n# 플래그: {flag_txt}\n\n"
         '# 출력: {"headline": "오늘의 협찬 성과 총평 한 문장", '
         '"notes": ["마케팅팀이 챙겨야 할 포인트 2~4개 (잘된 것/못된 것/조치 필요)"]}'
