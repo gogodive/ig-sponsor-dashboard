@@ -1,7 +1,7 @@
 {
   "page_id": "39c39eba-97ed-8080-a2c3-e4f8b6d9c651",
   "row_title_raw": "aaoong",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -25,17 +25,17 @@
       "first_seen": "2026-10-21",
       "posted_at": "2026-10-18T00:39:56.000Z",
       "permalink": "https://www.instagram.com/p/DenaiyYSBFa/",
-      "thumbnail": "https://instagram.fsvq8-1.fna.fbcdn.net/v/t15.5256-10/855693757_2037181703650244_2553263711747792175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jsj14fVltK8Q7kNvwG-Ktz7&_nc_oc=Adr8Kyu9Ydw6ir8lKdC-o2V2Th-NgatD33hUYy6obyCl76twNTbgu1gKYusPIqEoZlU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fsvq8-1.fna&_nc_gid=fijAZ4zoQNoKSoXdvHGlTQ&_nc_ss=7a20f&oh=00_AQOCcazq-GxwuymJAwilPjt8GwA3yfDADRpkZL2M0xKr0w&oe=6AE451A8",
+      "thumbnail": "https://instagram.fcgh2-1.fna.fbcdn.net/v/t15.5256-10/855693757_2037181703650244_2553263711747792175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=qkiYJBsGE5AQ7kNvwEugq74&_nc_oc=AdqdxmtnHZ1m7zGPTQB0RUej3cVZxybOdg8tUZll3SlUBDR_iKSe0DBBSRi3MbbpZlI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fcgh2-1.fna&_nc_gid=-h4qcg2uEMYiQW_fZkXz3g&_nc_ss=7a20f&oh=00_AQMcKtiU7KEw_oM1NDs-bZ3zK87xnQrAqUrX7UcPdON_UQ&oe=6AE5DB68",
       "caption": "새벽 5:30 기상, 오후 12시 퇴근 후 은밀한 취미일기😉\n광화문 출근 후 반포로 넘어가서 70세 이상 시니어 수업 진행해요. 가끔 용돈도 주시는 우리 어머님들… 사랑해요 💛\n\n📍밴건디 스테이크 하우스 어머님들이랑 점심! 저녁은 부담스러운데 점심 코스는 완전 가성비예요. 굽기도 딱 적절했고, 파스타까지 시켰더니 너무 배불러서 코스만 추천!\n커피타임 후 집에서 잠깐 쉬고 취미활동하러 출발가요.\n\n📍용인 딥스테이션 5m 수영장만 다니다가 AIDA 자격증 따려고 처음 와봤어요! 최대 36m까지 있어서 프리다이빙, 스쿠버 다 가능해요🤍\n",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "aaoong",
       "metrics": {
-        "views": 4493,
+        "views": 4527,
         "likes": -1,
         "comments": 27
       },
-      "metrics_updated_at": "2026-10-26T08:05:22.511217+09:00",
+      "metrics_updated_at": "2026-10-27T09:16:39.262237+09:00",
       "history": [
         {
           "d": "2026-10-21",
@@ -72,23 +72,29 @@
           "views": 4493,
           "likes": -1,
           "comments": 27
+        },
+        {
+          "d": "2026-10-27",
+          "views": 4527,
+          "likes": -1,
+          "comments": 27
         }
       ],
       "baseline": {
         "views_median": 4471,
         "eng_median": 33,
         "n": 7,
-        "captured_at": "2026-10-26T08:05:22.511217+09:00"
+        "captured_at": "2026-10-27T09:16:39.262237+09:00"
       },
       "frozen": false,
-      "days_since_post": 7,
+      "days_since_post": 8,
       "computed": {
         "er": 0.0005977698586044373,
-        "vs_baseline": 1.0049205994184747,
+        "vs_baseline": 1.012525162156117,
         "cost_per_eng": 7500.0,
-        "cost_per_view": 43.40084576007122
+        "cost_per_view": 43.07488402915838
       },
-      "last_written_reaction": "조회 4,493 · 좋아요 -1 · 댓글 27 · ER 0.1% · 평소대비 1.0x (D+7)",
+      "last_written_reaction": "조회 4,527 · 좋아요 -1 · 댓글 27 · ER 0.1% · 평소대비 1.0x (D+8)",
       "analysis": {
         "d3": {
           "one_liner": "조회는 평소 수준(1.00x)이나 조회당 43.7원으로 효율 미흡, 좋아요 비공개라 참여 비용은 판단 보류",
@@ -299,7 +305,7 @@
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": true,
-      "days_since_post": 64,
+      "days_since_post": 65,
       "computed": {
         "er": 0.005977698586044373,
         "vs_baseline": 0.9122807017543859,

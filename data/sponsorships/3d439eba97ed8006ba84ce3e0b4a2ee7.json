@@ -25,7 +25,7 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-25T14:12:18.000Z",
       "permalink": "https://www.instagram.com/p/DdtpG8kpOEv/",
-      "thumbnail": "https://instagram.fvlc6-1.fna.fbcdn.net/v/t51.82787-15/825322328_18118402658061530_8404371563675892871_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NDAyOTI0MTgxMDYwODQzMTE4MTE4NDAyNjU1MDYxNTMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=RilHsyHVN2AQ7kNvwHB9AiX&_nc_oc=Ado5yaMjLWqUX8fWuZwE28gbJiqbYZSuzGTQx7DtCsh_qNK88HqXDAH3_x0lwvHUYSM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvlc6-1.fna&_nc_gid=t7hyttIbqpYalR0ZXPeCww&_nc_ss=7a20f&oh=00_AQP0eOEAkZAxXBEhtHgKlJBzw__fJP35GaHn5_D97Rdi7Q&oe=6AE4639C",
+      "thumbnail": "https://scontent-mad1-1.cdninstagram.com/v/t51.82787-15/825322328_18118402658061530_8404371563675892871_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk5NDAyOTI0MTgxMDYwODQzMTE4MTE4NDAyNjU1MDYxNTMw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=RilHsyHVN2AQ7kNvwELfwiv&_nc_oc=AdrRF4M6lf6pQruhAW66v0krdutZ6Ok973u0YVYTSzGXGXGrcErMVoczSEvmVufucmE&_nc_ad=z-m&_nc_cid=3033&_nc_zt=23&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=cuKsHwsxJjNzXjLCw4ABIA&_nc_ss=7a20f&oh=00_AQMdmlNWzCEXZusjOoYB7i6-hUlisS-IOOglYxxzJF8bpA&oe=6AE5B51C",
       "caption": "#제품제공 @laserin_swim\n•················· ⭑·················•\n☆𝚕𝚊𝚜𝚎𝚛𝚒𝚗\n𝙼𝙰𝙻𝙻𝙰𝙽𝙶 𝙶𝚄𝙰𝚁𝙳 - mint◝✩\n•················· ⭑·················•\n\n수영 가방 속 소중한 수경, 그동안 아무렇게나 던져두셨다면 주목! 🏊‍♀️✨\n\n소중한 수경에 흠집 안 나게 싹 감싸주는 라세린 말랑가드 수경케이스를 소개합니다💚\n\n실리콘 특유의 부드럽고 말랑한 촉감 덕분에 수경을 쏙 넣고 빼기 정말 편해요. \n내부 코걸이 덕분에 안에서 흔들림 없이 딱 잡아주는 센스까지",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -194,21 +194,23 @@
         "n": 10,
         "captured_at": "2026-10-26T08:05:22.511217+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.05236907730673317,
         "vs_baseline": null,
         "cost_per_eng": 285.7142857142857,
         "cost_per_view": 10.60070671378092
       },
-      "last_written_reaction": "조회 1,132 · 좋아요 38 · 댓글 4 · ER 5.2% (D+30)",
+      "last_written_reaction": "조회 1,132 · 좋아요 38 · 댓글 4 · ER 5.2% (확정)",
       "analysis": {
         "d14": {
           "one_liner": "평소대비 데이터 없어 비교 불가; 조회 1130(팔로워 1.4배)·참여율 5.24%, 참여당 286원으로 비용 효율 양호",
           "days": 29,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "상품 가액 12,000원으로 조회 1,132회(팔로워 802명의 약 1.4배)와 참여 42건을 확보해, 조회당 10.6원·참여당 286원의 낮은 비용으로 팔로워 이상의 도달과 5.24%의 양호한 참여율을 얻었습니다. 다만 절대 규모가 작아 브랜드 인지도나 매출에 미치는 직접 효과는 제한적이며, 평소 게시물 대비 수치가 없어 협찬이 계정 평균보다 잘 됐는지는 판단할 수 없습니다. 저비용 나노 인플루언서 협찬으로서 비용 대비 가치는 있었다고 평가합니다.",
+        "final_at": "2026-10-27T09:16:39.262237+09:00"
       }
     }
   ],

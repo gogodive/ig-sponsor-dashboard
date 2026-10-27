@@ -25,7 +25,7 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T13:41:22.000Z",
       "permalink": "https://www.instagram.com/p/Dd6cXI8vyS1/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FQW-h3alingQ7kNvwFaQiS4&_nc_oc=Adqbqt4GqUTucaKViQixAawWB3P9hx1wMKU4TqsdZoehuMyRj9EmVMEdY6ZRKTTcUp4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=hAHRyyI6wbPQcQKzHGleEg&_nc_ss=7a20f&oh=00_AQPJBB1WEctjqNcGnhIP2JIORsuP2kFx7sJ5k9FXE8BC0w&oe=6AE451AD",
+      "thumbnail": "https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=FQW-h3alingQ7kNvwHugt4a&_nc_oc=AdqfRlnjuHEfTqR73wxwDPZu_lR_m340tv4Qq_vHtwiRr67Vy4aWVDLXneFN3SruIaI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_gid=koJcVIk0goQ-YRPd_szSYA&_nc_ss=7a20f&oh=00_AQONP1eYvsT0VhkLDo1qghphMbefuFCzymXsqTP2-QsIrg&oe=6AE5DB6D",
       "caption": "프리다이빙 넘 재밌잖아 😱\n\n@gogodive \n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브강습",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -35,7 +35,7 @@
         "likes": 253,
         "comments": 8
       },
-      "metrics_updated_at": "2026-10-26T08:05:22.511217+09:00",
+      "metrics_updated_at": "2026-10-27T09:16:39.262237+09:00",
       "history": [
         {
           "d": "2026-10-02",
@@ -186,6 +186,12 @@
           "views": 3870,
           "likes": 253,
           "comments": 8
+        },
+        {
+          "d": "2026-10-27",
+          "views": 3870,
+          "likes": 253,
+          "comments": 8
         }
       ],
       "baseline": {
@@ -195,14 +201,14 @@
         "captured_at": "2026-10-09T10:03:14.479729+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.013434218653489809,
         "vs_baseline": 0.8676157381459477,
         "cost_per_eng": 747.1264367816092,
         "cost_per_view": 50.3875968992248
       },
-      "last_written_reaction": "조회 3,870 · 좋아요 253 · 댓글 8 · ER 1.3% · 평소대비 0.9x (D+25)",
+      "last_written_reaction": "조회 3,870 · 좋아요 253 · 댓글 8 · ER 1.3% · 평소대비 0.9x (D+26)",
       "analysis": {
         "d14": {
           "one_liner": "평소대비 0.87x로 평소에 못 미치고, 조회당 50.4원·참여당 747원으로 비용효율이 낮아 24일차라 반등 여지도 적음",
@@ -407,7 +413,7 @@
         "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": true,
-      "days_since_post": 54,
+      "days_since_post": 55,
       "computed": {
         "er": 0.014051883878937617,
         "vs_baseline": 0.8792270531400966,
