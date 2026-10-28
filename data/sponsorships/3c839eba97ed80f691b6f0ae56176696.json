@@ -25,17 +25,17 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-10T04:16:18.000Z",
       "permalink": "https://www.instagram.com/p/DeTM_BdT5qi/",
-      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=IMbKgCOhRwgQ7kNvwFtGWAt&_nc_oc=AdqEsm25y6rvqZoArftgqSNuUsAvy-MqT_KaxJOnWGTtI3FBHjfTu_IfN8uyiRSpm9w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=Fm9YDg_LCEA8A9QJWfSCZg&_nc_ss=7a20f&oh=00_AQNg0g-UvLNuIOXf5WyF6b-pPOiYzByjjNnkJ0TUe7_69Q&oe=6AE5D1DA",
+      "thumbnail": "https://instagram.fmxp6-1.fna.fbcdn.net/v/t15.5256-10/840698486_2155066608380576_3831413307089622821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Q4dMtkPddXgQ7kNvwGX3YQ0&_nc_oc=AdqQZxv0rtes8IWrX2cQiuBV00qnvEvvnbafQytW71NQ8q99MMDw_p-j9STSpyts878&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp6-1.fna&_nc_gid=kewLcQUYq_ZJJgH2eaJHyg&_nc_ss=7a20f&oh=00_AQTZD4Vg3bRbx1s-SHXlw4cp556ganqEfLP57mvQO-RSlw&oe=6AE7235A",
       "caption": "[운동하는 선우의 무한도전 S1. 프리다이빙 편 🤿]\n\n매일 복싱만 하다가 새로운 운동에 도전해 보는 [운동하는 선우의 무한도전] 그 대망의 1탄! 바로 프리다이빙입니다 🤿!!\n\n물속에서 숨을 참는다는 게 처음엔 긴장됐지만, 차근차근 배우다 보니 그 고요함과 몰입감에 완전히 빠지게 됐어요..\n\n실제로 다녀온 고고다이브는 초보자분들이 도전하기에 시스템이 진짜 잘 되어 있더라고요!\n\n⭐︎ 고고다이브 찐후기 포인트\n1. 무제한 코칭반: 자격증 취득할 때까지 추가금 없이 무제한으로 연습 가능 (이게 진짜 최고 메리트..)\n2. 전국 연계 ",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "sun__fit",
       "metrics": {
-        "views": 11388,
+        "views": 11514,
         "likes": 222,
         "comments": 14
       },
-      "metrics_updated_at": "2026-10-27T09:16:39.262237+09:00",
+      "metrics_updated_at": "2026-10-28T09:19:53.234367+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -126,23 +126,29 @@
           "views": 11388,
           "likes": 222,
           "comments": 14
+        },
+        {
+          "d": "2026-10-28",
+          "views": 11514,
+          "likes": 222,
+          "comments": 14
         }
       ],
       "baseline": {
-        "views_median": 57456.0,
-        "eng_median": 761.5,
-        "n": 8,
-        "captured_at": "2026-10-27T09:16:39.262237+09:00"
+        "views_median": 55649.5,
+        "eng_median": 586.5,
+        "n": 6,
+        "captured_at": "2026-10-28T09:19:53.234367+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 17,
       "computed": {
-        "er": 0.00988316093638762,
-        "vs_baseline": 0.19820384294068505,
+        "er": 0.009861685679662363,
+        "vs_baseline": 0.2069021285007053,
         "cost_per_eng": 1652.542372881356,
-        "cost_per_view": 34.24657534246575
+        "cost_per_view": 33.87180823345493
       },
-      "last_written_reaction": "조회 11,388 · 좋아요 222 · 댓글 14 · ER 1.0% · 평소대비 0.2x (D+16)",
+      "last_written_reaction": "조회 11,514 · 좋아요 222 · 댓글 14 · ER 1.0% · 평소대비 0.2x (D+17)",
       "analysis": {
         "d14": {
           "one_liner": "D+14 평소대비 0.20x로 크게 부진, 참여당 1,660원·조회당 34.5원으로 비용 효율 낮음",
@@ -159,6 +165,6 @@
     "account_unavailable": false
   },
   "child_db_id": "03d39eba-97ed-837a-bccd-018baf847e9a",
-  "followers": 23879,
-  "last_written_score": 20
+  "followers": 23931,
+  "last_written_score": 21
 }

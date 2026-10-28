@@ -25,16 +25,16 @@
       "first_seen": "2026-10-24",
       "posted_at": "2026-10-23T01:46:08.000Z",
       "permalink": "https://www.instagram.com/p/De0aOEiEjLe/",
-      "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/859801690_18117307016107435_2353731342352121414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMzk0ODI1MjYyMTIzNzQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=W7IuJeGBZcQQ7kNvwHLGEqy&_nc_oc=Ado80okUX7h-fHdpopRuAfG1OBQ1-NSext-a8sXqFgQo82Z9siemu08iNO87wVIDzWKaK67lI8smrNGBf07oPYyN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=SMMCOzyJ1qJkGiB7ofNvkA&_nc_ss=7a20f&oh=00_AQMM8-ds2wovq3jeR9TAMWsv5zVtHSiJDycJ9I6_e9haBg&oe=6AE5A686",
+      "thumbnail": "https://instagram.fmxp12-1.fna.fbcdn.net/v/t51.82787-15/859801690_18117307016107435_2353731342352121414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMzk0ODI1MjYyMTIzNzQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1ZiLiUmDzrsQ7kNvwHnf1pP&_nc_oc=Adp5-8fjM7xjCjrreVWsVxPE_S3e9iAB2ssJEtggZhg46guhFjOIGf0K4Pr_F_mwbRQ&_nc_ad=z-m&_nc_cid=1093&_nc_zt=23&_nc_ht=instagram.fmxp12-1.fna&_nc_gid=poJvAolvglsSBE_D0aQnOA&_nc_ss=7a20f&oh=00_AQSsGl0uGF-Hfwq5uQgxuUtLuFZrNyKEouLXtch2kw5mvw&oe=6AE73046",
       "caption": "#프리다이빙 #고고다이브 @gogodive \n.\n다들 한번쯤 꼭 해보고 싶은 취미 있으시죠? 저는 프리다이빙이 그런 취미였어요!!\n제가 함께한 고고다이브는 회원 40,000명 국내 최대 규모 다이빙 커뮤니티이자 정부 등록 수중레저 교육기관으로 우선 신뢰감이 확 들더라구요👍\n.\n전 첫날 호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 알차게 배웠는데요! 강사님이 알기 쉽게 잘 알려주시고, 실제로 어떤 부분이 부족한지까지 바로 피드백 해주셔서 좋",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "yj_diet_",
       "metrics": {
-        "likes": 277,
+        "likes": 280,
         "comments": 6
       },
-      "metrics_updated_at": "2026-10-27T09:16:39.262237+09:00",
+      "metrics_updated_at": "2026-10-28T09:19:53.234367+09:00",
       "history": [
         {
           "d": "2026-10-24",
@@ -59,23 +59,29 @@
           "views": null,
           "likes": 277,
           "comments": 6
+        },
+        {
+          "d": "2026-10-28",
+          "views": null,
+          "likes": 280,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 516,
         "n": 11,
-        "captured_at": "2026-10-27T09:16:39.262237+09:00"
+        "captured_at": "2026-10-28T09:19:53.234367+09:00"
       },
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
-        "er": 0.046523097156008546,
-        "vs_baseline": 0.5484496124031008,
-        "cost_per_eng": 1378.0918727915193,
+        "er": 0.04701627486437613,
+        "vs_baseline": 0.5542635658914729,
+        "cost_per_eng": 1363.6363636363637,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 277 · 댓글 6 · ER 4.7% · 평소대비 0.5x (D+3)",
+      "last_written_reaction": "좋아요 280 · 댓글 6 · ER 4.7% · 평소대비 0.6x (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "D+3 참여 283건으로 평소의 0.55배에 그쳤고, 참여 1건당 1,378원으로 비용 효율이 낮은 편이다",
