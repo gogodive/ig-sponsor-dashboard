@@ -24,16 +24,16 @@
       "upload_date_notion": "2026-09-20",
       "first_seen": "2026-09-24",
       "frozen": true,
-      "days_since_post": 39,
+      "days_since_post": 40,
       "computed": {
-        "er": 0.35737704918032787,
+        "er": 0.3456659619450317,
         "vs_baseline": 0.990909090909091,
         "cost_per_eng": 126.91131498470948,
         "cost_per_view": null
       },
       "posted_at": "2026-09-18T12:20:10.000Z",
       "permalink": "https://www.instagram.com/p/DdbataSTDqQ/",
-      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Jw1ZpoKoLwYQ7kNvwGOFCMX&_nc_oc=AdoiCeUsxPrnrZJDq1C5sxddNoX-BTwRRUNxKbURw-MZx8vhujjoGI716Rs7al5D6hEitQCwRx-bYCWF644_kEFf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=lsYBXlH5LZHZ0CBTubDMmg&_nc_ss=7a20f&oh=00_AQOKs0ZJRJ9dCinnyHieuRC6maVuMKS5Dm3jUWnPNqgDOg&oe=6ADF1C9C",
+      "thumbnail": "https://instagram.fsyd4-1.fna.fbcdn.net/v/t51.82787-15/815156998_18152880550544734_7499162568819561156_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODg5OTM2NDc3NjcyMTA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SGInr0bCRisQ7kNvwGtePA_&_nc_oc=Ado0P6dkrU6oOUpdcAlWlG_22Gqzp--JeJwU-kmj6mMixQ4uR52ZPF4lYIytLPcq8UqZmZqY21R6nXVNpAohN36J&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd4-1.fna&_nc_gid=2aU8_xc9xo81NtuXEtSJSw&_nc_ss=7320f&oh=00_AQR-KM6HBvYjcBFyMtbZit4cbDraTWBKEyu7G0sIa2Yjxg&oe=6AE8571C",
       "caption": "시크릿스와 함께라면 개미허리가 되,,🐜💚🤍\n\n#협찬 \n상의: @secrets__fit \n하의: @secrets__fit",
       "media_type": "IMAGE",
       "product": "FEED",
@@ -171,7 +171,7 @@
         "n": 7,
         "captured_at": "2026-10-19T07:53:23.108041+09:00"
       },
-      "last_written_reaction": "좋아요 262 · 댓글 65 · ER 35.7% · 평소대비 1.0x (확정)",
+      "last_written_reaction": "좋아요 262 · 댓글 65 · ER 34.6% · 평소대비 1.0x (확정)",
       "analysis": {
         "final_verdict": "팔로워 915명의 나노 계정이라 참여율(35.74%)은 높지만, 평소대비 0.99x로 협찬 게시물이 계정 평균 이상의 반응을 끌어내지 못했고, 총 참여 327건(좋아요 262·댓글 65)은 절대 도달 규모가 작습니다. 참여 1건당 비용은 제시된 127원이지만 상품가액 83,000원을 참여 327건으로 나누면 약 254원이므로 비용 산정 기준을 확인해야 하며, 254원 기준으로도 극단적으로 비싸지는 않습니다. 다만 증분 효과가 없고 노출 규모가 제한적이어서 비용 대비 가치는 '보통 이하'로 판단되며, 같은 비용이라면 다이빙·수영과 관련성이 더 높거나 평소대비 반응이 높게 나온 계정에 배분하는 편이 낫습니다.",
         "final_at": "2026-10-25T12:46:39.262455+09:00"
@@ -185,7 +185,7 @@
       "upload_date_notion": "2026-09-22",
       "first_seen": "2026-09-24",
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -201,6 +201,6 @@
     "account_unavailable": false
   },
   "child_db_id": "6b039eba-97ed-83e7-adbf-01ac509390e3",
-  "followers": 915,
+  "followers": 946,
   "last_written_score": 99
 }

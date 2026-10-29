@@ -25,7 +25,7 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-10-07T01:55:01.000Z",
       "permalink": "https://www.instagram.com/p/DeLOmkJE6HR/",
-      "thumbnail": "https://instagram.fblq2-1.fna.fbcdn.net/v/t51.82787-15/834677447_18466566151143706_7947963836661703174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjE2NDU2MDk0OTkwMjk3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Lws62TjAEGkQ7kNvwGZI5l8&_nc_oc=AdqSSO3UAt7SHlXBTCMVXedksenu1rmRwf-OmkyqX79hiEhncb15RC_xNKKz0lsZQRs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fblq2-1.fna&_nc_gid=uhL4KAfRvZ2E0bKc3nVI3w&_nc_ss=7a20f&oh=00_AQQHoKYbkseJzBj-6V2Ci0DqRLlEh5GEKiqbyLfUSP86mQ&oe=6AE71EDB",
+      "thumbnail": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/834677447_18466566151143706_7947963836661703174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMjE2NDU2MDk0OTkwMjk3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Lws62TjAEGkQ7kNvwGtA_iB&_nc_oc=AdpS4r64UNnoHjfTlQL77lmhI-642sZL5yExmlDjSlXp-nWsw0TE0NP4eWS0_O7ex0w3pO80JkujjDqW2DlQffKS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_gid=Z4YBPhn3Y0qGVOeIG2V_kA&_nc_ss=7320f&oh=00_AQQTU3cr8DqwpDkO1IUXgIFfxq31KfjmbYWOW5qdbrjQ6g&oe=6AE8705B",
       "caption": "#협찬\n저는 도파민 중독자인데요🤩\n\n내 몸과 생활루틴을 망치지 않으면서\n혼자서도 즐길 수 있는 도파민은 운동만한게 없더라구요\n\n그래서 헬스를 메인으로 하고\n크로스핏, 프사오, 코일링 코어 그룹 운동, 로드 자전거, 클라이밍, 등산, 배드민턴, 탁구, 러닝, 스키, 골프 등 온갖 운동을 접해 보면서 취미로 즐기는데요!\n\n딱 하나..\n수영을 못해요..😭\n\n물을 무서워 하기도 하고\n어렸을 때 배워 본 건 기억이 안나서\n다시 배워야 하나 싶었는데\n신청도 빡세고 시간 내기도 어렵더라구요\n\n어차피 물과 친해질 거라면\n내가 진짜 해보고 싶었던 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 1
       },
-      "metrics_updated_at": "2026-10-28T09:19:53.234367+09:00",
+      "metrics_updated_at": "2026-10-29T09:40:14.176573+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -161,23 +161,29 @@
           "views": null,
           "likes": -1,
           "comments": 1
+        },
+        {
+          "d": "2026-10-29",
+          "views": null,
+          "likes": -1,
+          "comments": 1
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 19,
         "n": 9,
-        "captured_at": "2026-10-28T09:19:53.234367+09:00"
+        "captured_at": "2026-10-29T09:40:14.176573+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.0,
         "cost_per_eng": null,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+20)",
+      "last_written_reaction": "좋아요 -1 · 댓글 1 · ER 0.0% · 평소대비 0.0x (D+21)",
       "analysis": {
         "d14": {
           "one_liner": "좋아요 비공개(-1)라 평소대비 0.00x는 무효, 댓글 1개뿐이라 39만원 대비 반응이 약해 보여 인사이트 요청 필요",
