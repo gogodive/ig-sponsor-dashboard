@@ -141,14 +141,14 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 26,
+      "days_since_post": 27,
       "computed": {
         "er": 0.002466429158673609,
         "vs_baseline": 0.3214492753623188,
         "cost_per_eng": 5111.111111111111,
         "cost_per_view": 20.73940486925158
       },
-      "last_written_reaction": "조회 2,218 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 0.3x (D+26)",
+      "last_written_reaction": "조회 2,218 · 좋아요 -1 · 댓글 10 · ER 0.2% · 평소대비 0.3x (D+27)",
       "baseline": {
         "views_median": 6900,
         "eng_median": 10.5,
@@ -189,7 +189,7 @@
         "captured_at": "2026-08-26T06:32:00.985216+09:00"
       },
       "frozen": true,
-      "days_since_post": 102,
+      "days_since_post": 103,
       "computed": {
         "er": -0.0002740476842970677,
         "vs_baseline": -0.05,
@@ -399,7 +399,7 @@
         "captured_at": "2026-09-18T08:26:44.975577+09:00"
       },
       "frozen": true,
-      "days_since_post": 71,
+      "days_since_post": 72,
       "computed": {
         "er": 0.0,
         "vs_baseline": 0.5143545912776682,

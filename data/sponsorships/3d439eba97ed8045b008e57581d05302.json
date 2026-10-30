@@ -25,17 +25,17 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-11T04:24:02.000Z",
       "permalink": "https://www.instagram.com/p/DeVwFDDsvE0/",
-      "thumbnail": "https://scontent-fco2-1.cdninstagram.com/v/t51.82787-15/843397823_17919839778448381_8239108269037861430_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwNTMxODg5NjcyOTEyNTE3MjE3OTE5ODM5Nzc1NDQ4Mzgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=zUPvtXCbFfwQ7kNvwFUtc12&_nc_oc=Ado_yb4xhGtqYQI-KE6SboNORoHKSR3IkNjlVRJDTEqLajJa_vzJtnNMv05rqsQwCUg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=IznHZgZO_YK9bAvoFTvKPA&_nc_ss=7320f&oh=00_AQSXf5MA_-aRoW-qdwOZfcYnvf19d-KTrd85Zr04s4P3Ww&oe=6AE85D03",
+      "thumbnail": "https://instagram.fbne6-1.fna.fbcdn.net/v/t51.82787-15/843397823_17919839778448381_8239108269037861430_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNTMxODg5NjcyOTEyNTE3MjE3OTE5ODM5Nzc1NDQ4Mzgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=gselAnKS90MQ7kNvwHfmERn&_nc_oc=AdpUIPvVRdV8JwCMQj8mvohPSEtWwy-fmJzEuof6_8w2LQxs_JBOUbk3C0edCLYtlqZ-DbdZ802RmfrUKMR8zqEk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbne6-1.fna&_nc_gid=OK4l-As3bYBrGt_C2irZCg&_nc_ss=7320f&oh=00_AQSi2mlUnzTchXy8oa1LBRwe53XnOoX1jUC9cU96INcr2w&oe=6AE9AE83",
       "caption": ": 내 수경 누가지켜?!\n누= @laserin_swim  제품제공\n\n수영복 이쁘게 잘하는 라세린이 수경케이스도 잘하네\n말랑하고 탄탄해서 내 협재 지키미로 딱이잖아요\n\n기본 모양도 이쁜데\n지비츠까지 붙이면 더 이쁘다구\n깔별로 다있으면 더 좋겠당💛🩷💚🩵\n\n#라세린 #라세린수경케이스 #수경케이스 #라세린수영복",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "ori.qqqq",
       "metrics": {
-        "views": 5143,
+        "views": 5151,
         "likes": -1,
         "comments": 6
       },
-      "metrics_updated_at": "2026-10-29T09:40:14.176573+09:00",
+      "metrics_updated_at": "2026-10-30T09:41:06.785586+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -138,23 +138,29 @@
           "views": 5143,
           "likes": -1,
           "comments": 6
+        },
+        {
+          "d": "2026-10-30",
+          "views": 5151,
+          "likes": -1,
+          "comments": 6
         }
       ],
       "baseline": {
         "views_median": 3577.0,
         "eng_median": 14,
         "n": 8,
-        "captured_at": "2026-10-29T09:40:14.176573+09:00"
+        "captured_at": "2026-10-30T09:41:06.785586+09:00"
       },
       "frozen": false,
-      "days_since_post": 17,
+      "days_since_post": 18,
       "computed": {
         "er": 0.0023441162681669013,
-        "vs_baseline": 1.4377970366228683,
+        "vs_baseline": 1.4400335476656416,
         "cost_per_eng": 2400.0,
-        "cost_per_view": 2.33326852031888
+        "cost_per_view": 2.3296447291788
       },
-      "last_written_reaction": "조회 5,143 · 좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.4x (D+17)",
+      "last_written_reaction": "조회 5,151 · 좋아요 -1 · 댓글 6 · ER 0.2% · 평소대비 1.4x (D+18)",
       "analysis": {
         "d3": {
           "one_liner": "조회 평소대비 1.46배, 회당 2.4원으로 효율 양호. 좋아요가 비공개(-1)라 참여율·참여단가는 판단 보류",

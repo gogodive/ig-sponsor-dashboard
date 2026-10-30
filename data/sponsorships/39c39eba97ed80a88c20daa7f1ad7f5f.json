@@ -25,16 +25,16 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-10-07T05:55:03.000Z",
       "permalink": "https://www.instagram.com/p/DeLp_I6D9XF/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=saX8Uwo6C_MQ7kNvwEPrp2m&_nc_oc=Adr5Ua_hlicQJ_8mjTyjofKyjyC-5lXq9qRNElwf67aZ52tiVB_jMg9Z6GiOlLvr_7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=OdEFsZs2JQZliqy5b2BErQ&_nc_ss=7320f&oh=00_AQTsEkfdDyF69eWP6NCa3rIyfFjW8JdOiUrahWildSruiA&oe=6AE85F9B",
+      "thumbnail": "https://instagram.fzmm1-1.fna.fbcdn.net/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=saX8Uwo6C_MQ7kNvwFv_PPy&_nc_oc=Adpi9VbudTEQjVD_166zVsYUDCrHNVl_Yo7StAnSpUfxSwG20APQArmDLxTwq-IuEd71FC7FgLnvzW1SMjrfBGkV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fzmm1-1.fna&_nc_gid=CJ2KUknqj1t-fWnfmvYiGw&_nc_ss=7320f&oh=00_AQRVrkUwvDrym4LiVOBfmJY0vIrdAXW-0IChWAgwWverTw&oe=6AE9B11B",
       "caption": "#협찬\n사실 작년에도 프리다이빙에 도전했었는데요!\n.\n그땐 수영을 제대로 안 배웠던 터라 물속이 은근 무섭고 긴장됐었거든요 🫣\n​어릴 때 수영선수였던 동생 영향으로 얼떨결에 수영을 접하긴 했지만,\n이상하게 물이랑은 별로 안 친해서 수중 운동은 늘 거리감이 있었어요 💦\n.\n​근데 올해 제대로 수영을 배우기 시작하면서 물과 친해지고 나니까…\n이번 고고다이브 프리다이빙은 완전히 다른 세상이더라고요?! ✨\n.\n​클라이밍, 등산, 러닝, 싸이클까지 육지 운동은 다 접수했는데,\n이제 수중 도파민까지 완벽 적응 완료 👊\n운동좋아 인간입니다😙😙\n",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
       "owner_username": "hye_ovv",
       "metrics": {
-        "likes": 84,
+        "likes": 86,
         "comments": 12
       },
-      "metrics_updated_at": "2026-10-29T09:40:14.176573+09:00",
+      "metrics_updated_at": "2026-10-30T09:41:06.785586+09:00",
       "history": [
         {
           "d": "2026-10-08",
@@ -167,23 +167,29 @@
           "views": null,
           "likes": 84,
           "comments": 12
+        },
+        {
+          "d": "2026-10-30",
+          "views": null,
+          "likes": 86,
+          "comments": 12
         }
       ],
       "baseline": {
         "views_median": null,
-        "eng_median": 280.0,
-        "n": 10,
-        "captured_at": "2026-10-29T09:40:14.176573+09:00"
+        "eng_median": 280,
+        "n": 11,
+        "captured_at": "2026-10-30T09:41:06.785586+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
-        "er": 0.00974520353263628,
-        "vs_baseline": 0.34285714285714286,
-        "cost_per_eng": 4062.5,
+        "er": 0.0098009800980098,
+        "vs_baseline": 0.35,
+        "cost_per_eng": 3979.591836734694,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 84 · 댓글 12 · ER 1.0% · 평소대비 0.3x (D+21)",
+      "last_written_reaction": "좋아요 86 · 댓글 12 · ER 1.0% · 평소대비 0.3x (D+22)",
       "analysis": {
         "d14": {
           "one_liner": "평소의 0.33배로 부진하고 참여당 4,194원으로 비용 효율이 낮아, D+17 피드 특성상 반등 여지도 제한적이다.",
@@ -200,6 +206,6 @@
     "account_unavailable": false
   },
   "child_db_id": "ee839eba-97ed-823a-8a9a-813d7c7edb11",
-  "followers": 9851,
-  "last_written_score": 34
+  "followers": 9999,
+  "last_written_score": 35
 }

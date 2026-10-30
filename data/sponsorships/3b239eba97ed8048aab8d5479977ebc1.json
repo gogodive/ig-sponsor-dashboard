@@ -25,7 +25,7 @@
       "first_seen": "2026-10-28",
       "posted_at": "2026-10-19T03:05:16.000Z",
       "permalink": "https://www.instagram.com/p/DeqQGFZGh1m/",
-      "thumbnail": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/851891488_18640113427050374_3681456329771344_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTA4NDUyNzMzNzM1ODMwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ddk5y7Fi02gQ7kNvwENLkuu&_nc_oc=AdqXRuEGJoPwodv65R5nTKlYlbL-vzRIR8-9v2OaKeqObUsGPqtmrK-kvU7sp_rMhDE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=PESNqnnCMJ5fdyfsUmhzuw&_nc_ss=7320f&oh=00_AQS4fPzTQao76dhNq87_tbGu8xkalUFkei4_lT_1cAD7wg&oe=6AE8732B",
+      "thumbnail": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/851891488_18640113427050374_3681456329771344_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTA4NDUyNzMzNzM1ODMwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3WQa91BeyvgQ7kNvwFrYTYC&_nc_oc=AdqElcPkGkFigijxsmQ6ch-1j_bgv6ohMR4aqVZR9fMulgmW5MLLk1WSchHxL6_qgYw&_nc_ad=z-m&_nc_cid=1020&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=puJmpRhkhWtmwgXfmWUEjg&_nc_ss=7320f&oh=00_AQSu2ma9Me7Y4hyPZdVwXSIXVzQ0bKzQCRblGI8p1iOieg&oe=6AE9C4AB",
       "caption": "@laserin_swim 깔끔한 블랙 컬러에 뒤태를 살려주는 더블 크로스 스트랩 심플하면서도 스포티한 무드가 매력인 수영복이에요 🫧\n\n앞모습은 담백하게\n뒷모습에는 포인트를 더해서\n어느 각도에서도 심심하지 않게 🖤\n\n블랙 특유의 차분한 톤이\n바디라인을 한층 깔끔하게 보여주고\n유행을 타지 않아 오래 입어도 질리지 않는 매력까지\n\n프리다이빙 선수의 훈련룩에도 취향은 빠질 수 없죠 ☺️\n기록에 집중하는 날에도\n좋아하는 수영복으로 기분까지 챙기기\n\n어떤 컬러와도 자연스럽게 어울리는 블랙이라\n수모와 핀을 컬러풀하게 매치해도 예쁘고\n올블랙으로 ",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 0
       },
-      "metrics_updated_at": "2026-10-29T09:40:14.176573+09:00",
+      "metrics_updated_at": "2026-10-30T09:41:06.785586+09:00",
       "history": [
         {
           "d": "2026-10-28",
@@ -47,16 +47,22 @@
           "views": null,
           "likes": -1,
           "comments": 0
+        },
+        {
+          "d": "2026-10-30",
+          "views": null,
+          "likes": -1,
+          "comments": 0
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 506.5,
         "n": 4,
-        "captured_at": "2026-10-29T09:40:14.176573+09:00"
+        "captured_at": "2026-10-30T09:41:06.785586+09:00"
       },
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": -3.769744034380066e-05,
         "vs_baseline": -0.0019743336623889436,
@@ -70,7 +76,7 @@
           "analyzed_at": "2026-10-28T09:19:53.234367+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+9)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+10)"
     },
     {
       "notion_row_id": "bb539eba-97ed-838a-b0ea-81701734dffd",
@@ -226,7 +232,7 @@
         "captured_at": "2026-10-08T09:50:01.188488+09:00"
       },
       "frozen": true,
-      "days_since_post": 51,
+      "days_since_post": 52,
       "computed": {
         "er": -3.769744034380066e-05,
         "vs_baseline": -0.0045662100456621,
