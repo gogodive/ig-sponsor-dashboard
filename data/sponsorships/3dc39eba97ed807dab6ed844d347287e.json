@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-09-20",
       "first_seen": "2026-09-24",
       "frozen": true,
-      "days_since_post": 41,
+      "days_since_post": 42,
       "computed": {
         "er": 0.3456659619450317,
         "vs_baseline": 0.990909090909091,
@@ -185,7 +185,7 @@
       "upload_date_notion": "2026-09-22",
       "first_seen": "2026-09-24",
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": null,
         "vs_baseline": null,
