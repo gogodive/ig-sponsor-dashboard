@@ -25,7 +25,7 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T13:41:22.000Z",
       "permalink": "https://www.instagram.com/p/Dd6cXI8vyS1/",
-      "thumbnail": "https://instagram.flhr11-1.fna.fbcdn.net/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=0STEBL-QxxAQ7kNvwE3UgXn&_nc_oc=AdoWqHgOhABPUMymjPovHfJiv-fpnBsDSocTmY0Gw46QmFDJALAcwMjVb3tbIQEKvtQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.flhr11-1.fna&_nc_gid=omdB4mtL4hI3kdPXFOs-lw&_nc_ss=7320f&oh=00_AQTRlM0UQqJekOYrAX89lya2Gfo1Xz9kIdt-WQSG8GJQvg&oe=6AEB216D",
+      "thumbnail": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/828280572_18435408829197454_1559678960702935403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk5NzYzMjM1NDcwNDEwNjY3NzE4NDM1NDA4ODIzMTk3NDU0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=0STEBL-QxxAQ7kNvwHg0OEf&_nc_oc=AdpT9w4FiA6Dra5DKFqRjd1MaNKQkLEuGq-p4tm7vZgCc53FGwL5mcjiR-UpRvOFP_coiL0jKkEVcQ7vHIECCCj_&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=lH7V0tlT73xe-YyIpbGiqg&_nc_ss=7320f&oh=00_AQSwDOvpoemvb3esLAKey1Muz0TDUpKu0JOjWbX1b-RDbQ&oe=6AEC3AAD",
       "caption": "프리다이빙 넘 재밌잖아 😱\n\n@gogodive \n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브강습",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,21 +224,23 @@
         "n": 4,
         "captured_at": "2026-10-09T10:03:14.479729+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
-        "er": 0.01348569075561046,
+        "er": 0.013469744486144672,
         "vs_baseline": 0.8689608788252438,
         "cost_per_eng": 744.2748091603054,
         "cost_per_view": 50.309597523219814
       },
-      "last_written_reaction": "조회 3,876 · 좋아요 254 · 댓글 8 · ER 1.3% · 평소대비 0.9x (D+30)",
+      "last_written_reaction": "조회 3,876 · 좋아요 254 · 댓글 8 · ER 1.3% · 평소대비 0.9x (확정)",
       "analysis": {
         "d14": {
           "one_liner": "평소대비 0.87x로 평소에 못 미치고, 조회당 50.4원·참여당 747원으로 비용효율이 낮아 24일차라 반등 여지도 적음",
           "days": 24,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "조회 3,876회로 팔로워(19,451명)의 약 20%에만 도달했고, 평소대비 0.87x에 참여율 1.35%로 협찬 게시물이 계정 평소 수준에도 미치지 못해 성과는 미흡합니다. 상품 가액 390,000원을 그대로 적용하면 참여 1건당 약 1,489원, 조회 1회당 약 100.6원으로, 제시된 단가(744원·50.3원)는 가액의 절반인 195,000원 기준으로 계산된 것으로 보여 실제 비용 효율은 표기보다 두 배 나쁠 수 있습니다. 어느 기준으로 보더라도 저조한 도달과 높은 단가 때문에 이번 협찬은 비용 대비 가치가 낮았다고 판단됩니다.",
+        "final_at": "2026-11-01T08:58:27.828432+09:00"
       }
     },
     {
@@ -250,7 +252,7 @@
       "first_seen": "2026-09-05",
       "posted_at": "2026-09-01T14:07:57.000Z",
       "permalink": "https://www.instagram.com/p/Dcv1xxrgY0m/",
-      "thumbnail": "https://instagram.ffco2-1.fna.fbcdn.net/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KPyiiloahfAQ7kNvwF-6Osb&_nc_oc=AdrjlGQ-HpkLxzVLG7mdxMUX_8EtypI_tF5U7oJPyUN8B2BJDl4XDBD2kqRb6cOcfec&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffco2-1.fna&_nc_gid=ZScUJyAJuN_5rcDbQjn3kA&_nc_ss=7a20f&oh=00_AQN4WKk07L17vighWXmMtmBMeX_wA1NpiePb6xliMuRN1w&oe=6AE30753",
+      "thumbnail": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/791564108_18430368625197454_7167449817424251382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NjYzMTQ0MTczOTQ0NjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R-C2QPMBexcQ7kNvwEc1Dds&_nc_oc=Adq54svX0TcLh6rOX94bWBv6gZ-kN1YwOIT3znNeMIKHJ9eVNc2I3DucW3s-dpzTKJY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=GuShHJ5-gNO0xZUBrtLV6w&_nc_ss=7320f&oh=00_AQSVVXk0tgHglQHxgtulayIwIt2o-OB0_yzgJkPFDS08wQ&oe=6AEC41D3",
       "caption": "#협찬\n1위 다이빙 업체 @gogodive 에서 프리다이빙 배웠어요 🥽\n\n원래도 수영 좋아하는데 바다에서 수영하면서 프리다이빙하는 사람들을 볼 때마다 너무 신기하고 나도 해보고 싶다는 생각을 가지고 있었는데 마침 좋은 기회로 제대로 배울 수 있어서 너무 좋았어요.\n\n입수하기 전에 강사님께서 준비호흡, 최종호흡, 회복호흡, 이퀄라이징, 덕다이브 등 용어부터 다이빙 장비 사용법, 입수법까지 쉽게 설명해주셔서 아무것도 모르는 저도 금방 이해됐고 \n\n입수 후에도 계속 안전 체크해주시고 자세 바로 교정해주신 덕분에 금방 따라해서 잘했다고 칭",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -437,9 +439,9 @@
         "captured_at": "2026-10-02T09:36:00.806535+09:00"
       },
       "frozen": true,
-      "days_since_post": 59,
+      "days_since_post": 60,
       "computed": {
-        "er": 0.014051883878937617,
+        "er": 0.01403526810960876,
         "vs_baseline": 0.8792270531400966,
         "cost_per_eng": 714.2857142857143,
         "cost_per_view": null
@@ -468,6 +470,6 @@
     "account_unavailable": false
   },
   "child_db_id": "59239eba-97ed-83dd-9a2f-817824ee3ec1",
-  "followers": 19428,
+  "followers": 19451,
   "last_written_score": 87
 }

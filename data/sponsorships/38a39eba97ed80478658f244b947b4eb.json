@@ -25,7 +25,7 @@
       "first_seen": "2026-10-02",
       "posted_at": "2026-09-30T11:48:59.000Z",
       "permalink": "https://www.instagram.com/p/Dd6QZWHJTdh/",
-      "thumbnail": "https://instagram.ffco3-1.fna.fbcdn.net/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=B3f6YnGCCeEQ7kNvwFnAnnI&_nc_oc=AdoQYGus1ph4sQU6xQk2d6o_AmbiqNNJSdLdIG2zxCM0zDiXPl8rBgfpGUMC1d2IbFTsHxgxGCGFNHE64R8qaRen&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffco3-1.fna&_nc_gid=l1uAUOIxZ_pfSJ_hFMMu7A&_nc_ss=7320f&oh=00_AQSqpvsTBVQSBUYDr8hfMfgUt1gLBAC3gAsgC5XuGVBUOw&oe=6AEB195C",
+      "thumbnail": "https://scontent-mel1-1.cdninstagram.com/v/t51.82787-15/829996824_18635260930019581_2884844447283625987_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NzU3OTcyOTcxODAzMjIyNTE4NjM1MjYwOTI3MDE5NTgx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=b4TPD01kNGsQ7kNvwHStAev&_nc_oc=Adq1Pdn1ZebEvZnTC1tr1SKUvXnNejxLavlDgpyNjLnom8f9rEU6dAx1MSSx8zEveoyOZAjsRDPBdtTLKHlQtSMq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mel1-1.cdninstagram.com&_nc_gid=4PVL0BrjFSpFMAMUYA0-RQ&_nc_ss=7320f&oh=00_AQQ4j8r15uEeAGpkPVuwXLAX9Reg61dJmdhzlvhR7Ujllg&oe=6AEC6ADC",
       "caption": "휴양지 여행을 가장 특별하게 보내는 방법 🤿 @gogodive \n\n살면서 꼭 해봐야 할 인생 버킷리스트 있으세요 ? \n\n저는 #프리다이빙 이었는데 올해 해냈어요 ! \n\n바다에 놀러가거나 호핑투어 스노클링하면 다들 물가에서만 놀잖아요 ! 그럴때 멋지게 입수해서 바다속 생물을 만나는 일. \n\n이 모든 걸 가능하게 해주는 건 “프리다이빙” 입니다 ! \n\n제가 함께한 고고다이브(gogodive)에서 호흡법부터 스태틱, CWT, 다이내믹, 그리고 이퀄라이징까지\n\n프리다이빙 전문 강사님과 함께 한번 배워놓으면 평생 써먹는 프리다이빙 꼭 한번 ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -224,21 +224,23 @@
         "n": 5,
         "captured_at": "2026-10-31T09:33:40.121274+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.008771346933351054,
         "vs_baseline": 0.6404040404040404,
         "cost_per_eng": 738.6363636363636,
         "cost_per_view": 29.29247408742677
       },
-      "last_written_reaction": "조회 6,657 · 좋아요 254 · 댓글 10 · ER 0.9% · 평소대비 0.6x (D+30)",
+      "last_written_reaction": "조회 6,657 · 좋아요 254 · 댓글 10 · ER 0.9% · 평소대비 0.6x (확정)",
       "analysis": {
         "d14": {
           "one_liner": "D+24 평소대비 0.78x로 기대 이하, 조회당 29.5원·참여당 756원으로 비용효율 낮고 반등 여지 적음",
           "days": 24,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "릴스 조회 6,657회는 팔로워(30,098명)의 약 22% 수준이고 평소 게시물 중앙값의 0.64배에 그쳐, 협찬 게시물이 계정 평균보다 덜 노출됐다(베이스라인 n=5로 표본은 작다). 참여율 0.88%(좋아요 254·댓글 10)도 높지 않아, 산출된 참여당 739원·조회당 29.3원은 이 결과를 감안하면 비용 효율이 낮은 편이다. 다만 이 단가는 상품 가액 390,000원의 절반 기준으로 계산된 값이며, 가액 전액을 기준으로 하면 참여당 약 1,477원·조회당 약 58.6원으로 두 배가 되므로 비용 대비 가치는 미흡했다고 판단한다.",
+        "final_at": "2026-11-01T08:58:27.828432+09:00"
       }
     },
     {
@@ -437,7 +439,7 @@
         "captured_at": "2026-08-19T06:27:53.581135+09:00"
       },
       "frozen": true,
-      "days_since_post": 103,
+      "days_since_post": 104,
       "computed": {
         "er": 0.0100006644959798,
         "vs_baseline": 1.0654867256637168,

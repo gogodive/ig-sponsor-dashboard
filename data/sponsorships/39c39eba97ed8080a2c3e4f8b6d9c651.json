@@ -25,17 +25,17 @@
       "first_seen": "2026-10-21",
       "posted_at": "2026-10-18T00:39:56.000Z",
       "permalink": "https://www.instagram.com/p/DenaiyYSBFa/",
-      "thumbnail": "https://instagram.fmel16-1.fna.fbcdn.net/v/t15.5256-10/855302209_2246353869258563_1851249545183919490_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=15Dd3PY1pr8Q7kNvwGM6zPg&_nc_oc=Adpzt6rG3caAJH7i4n9Xhc6a36VihdO29r5KWN9clg6YqBEnM_GCa8jhMwNc_SFzbB8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmel16-1.fna&_nc_gid=KqGJZPCHcO92SLiuD27kfQ&_nc_ss=7320f&oh=00_AQSmYPHMKh-3Xm6WNj7RF1yyQs12ii0tKgIQrzktPHWQ2g&oe=6AEB1F18",
+      "thumbnail": "https://instagram.fosu2-2.fna.fbcdn.net/v/t15.5256-10/855302209_2246353869258563_1851249545183919490_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAxMDI5MDczMjk2MjY4MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=15Dd3PY1pr8Q7kNvwE-IHN7&_nc_oc=Adq_3ldr2WDwu5wW6HDgd_zn8qps5pyz7LjhF7wIzJzPvpT1cmapkrtpqcBqxZCI-uN0atpGsHV9UmB_r-ZEq3KP&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fosu2-2.fna&_nc_gid=8mwBejrf68T4hIlOQmKvHA&_nc_ss=7320f&oh=00_AQRW5GZsS0YGNcf4oRrNmrilcbFQdsTRdetX9y8p4FRUsA&oe=6AEC3858",
       "caption": "새벽 5:30 기상, 오후 12시 퇴근 후 은밀한 취미일기😉\n광화문 출근 후 반포로 넘어가서 70세 이상 시니어 수업 진행해요. 가끔 용돈도 주시는 우리 어머님들… 사랑해요 💛\n\n📍밴건디 스테이크 하우스 어머님들이랑 점심! 저녁은 부담스러운데 점심 코스는 완전 가성비예요. 굽기도 딱 적절했고, 파스타까지 시켰더니 너무 배불러서 코스만 추천!\n커피타임 후 집에서 잠깐 쉬고 취미활동하러 출발가요.\n\n📍용인 딥스테이션 5m 수영장만 다니다가 AIDA 자격증 따려고 처음 와봤어요! 최대 36m까지 있어서 프리다이빙, 스쿠버 다 가능해요🤍\n",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "aaoong",
       "metrics": {
-        "views": 4621,
+        "views": 4638,
         "likes": 80,
         "comments": 27
       },
-      "metrics_updated_at": "2026-10-31T09:33:40.121274+09:00",
+      "metrics_updated_at": "2026-11-01T08:58:27.828432+09:00",
       "history": [
         {
           "d": "2026-10-21",
@@ -102,23 +102,29 @@
           "views": 4621,
           "likes": 80,
           "comments": 27
+        },
+        {
+          "d": "2026-11-01",
+          "views": 4638,
+          "likes": 80,
+          "comments": 27
         }
       ],
       "baseline": {
         "views_median": 4534,
         "eng_median": 33,
         "n": 7,
-        "captured_at": "2026-10-31T09:33:40.121274+09:00"
+        "captured_at": "2026-11-01T08:58:27.828432+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.002461750834004371,
-        "vs_baseline": 1.0191883546537275,
+        "vs_baseline": 1.0229378032642258,
         "cost_per_eng": 1822.4299065420562,
-        "cost_per_view": 42.198658299069464
+        "cost_per_view": 42.04398447606727
       },
-      "last_written_reaction": "조회 4,621 · 좋아요 80 · 댓글 27 · ER 0.2% · 평소대비 1.0x (D+12)",
+      "last_written_reaction": "조회 4,638 · 좋아요 80 · 댓글 27 · ER 0.2% · 평소대비 1.0x (D+13)",
       "analysis": {
         "d3": {
           "one_liner": "조회는 평소 수준(1.00x)이나 조회당 43.7원으로 효율 미흡, 좋아요 비공개라 참여 비용은 판단 보류",
@@ -329,7 +335,7 @@
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": true,
-      "days_since_post": 69,
+      "days_since_post": 70,
       "computed": {
         "er": 0.00598182445645922,
         "vs_baseline": 0.9122807017543859,
