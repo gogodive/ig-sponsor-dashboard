@@ -17,6 +17,50 @@
   "followers_notion": 3226,
   "posts": [
     {
+      "notion_row_id": "40c39eba-97ed-80cb-928e-f75ceca47bdb",
+      "url": "https://www.instagram.com/reel/DfKhrwSPPWe/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DfKhrwSPPWe",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-01",
+      "first_seen": "2026-11-03",
+      "posted_at": "2026-10-31T15:57:13.000Z",
+      "permalink": "https://www.instagram.com/p/DfKhrwSPPWe/",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.71878-15/880957742_2155142852545260_2290045315056290019_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAyMDE3Mzc1OTY5OTU0NzU1MDE2NjcwNzc3NzUxMjM5ODE%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=SzVTsmylMh8Q7kNvwGpfpbb&_nc_oc=AdroIoEN4_XRFRXkpf7iXhxtD6_qW7v-ciCIEp-KHgbEOaisOYcPo2kNirddfWYCmJ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=ixNDg0hb4J2a5MOal6q2Mw&_nc_ss=7320f&oh=00_AQSa5op6U2Ur9meG0jZh15ALF6D04dWB7ajd_9QwONqptw&oe=6AEF0676",
+      "caption": "#체험협찬\n\n나 물친자 강소희\n전생에 물개였던거 같은데 껄껄\n새로운 취미생겼다\n프리다이빙🩵🩵🩵 나진짜 열심히할고에영ㅠㅠ\n풀 입장료가 어마무시하게 비싸긴한데 그래두,, 열심히해야징!!\n나랑 같이 프다할 사람🤍같이하자!!\n\n#고고다이브 #프리다이빙 #프리다이빙강습 #고고다이브후기",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "ks_heeee",
+      "metrics": {
+        "views": 1586,
+        "likes": 18,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-11-03T11:48:42.700442+09:00",
+      "history": [
+        {
+          "d": "2026-11-03",
+          "views": 1586,
+          "likes": 18,
+          "comments": 0
+        }
+      ],
+      "baseline": {
+        "views_median": 1464,
+        "eng_median": 17,
+        "n": 3,
+        "captured_at": "2026-11-03T11:48:42.700442+09:00"
+      },
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": 0.005776636713735558,
+        "vs_baseline": 1.0833333333333333,
+        "cost_per_eng": 10833.333333333334,
+        "cost_per_view": 122.95081967213115
+      },
+      "last_written_reaction": "조회 1,586 · 좋아요 18 · 댓글 0 · ER 0.6% · 평소대비 1.1x (D+2)"
+    },
+    {
       "notion_row_id": "39039eba-97ed-82a0-af7b-018591728e91",
       "url": "https://www.instagram.com/p/Dd04jehILqR/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
       "shortcode": "Dd04jehILqR",
@@ -230,11 +274,11 @@
         "captured_at": "2026-10-29T09:40:14.176573+09:00"
       },
       "frozen": true,
-      "days_since_post": 34,
+      "days_since_post": 35,
       "computed": {
         "er": 0.024390243902439025,
         "vs_baseline": 0.5757575757575758,
-        "cost_per_eng": 5131.578947368421,
+        "cost_per_eng": 2565.7894736842104,
         "cost_per_view": null
       },
       "last_written_reaction": "좋아요 72 · 댓글 4 · ER 2.4% · 평소대비 0.6x (확정)",
@@ -257,5 +301,5 @@
   },
   "child_db_id": "e4539eba-97ed-8328-aa2c-019cc2e93e07",
   "followers": 3116,
-  "last_written_score": 58
+  "last_written_score": 83
 }
