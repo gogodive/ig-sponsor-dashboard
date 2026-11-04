@@ -1,0 +1,44 @@
+{
+  "page_id": "3fb39eba-97ed-80b3-a385-ceaf45181073",
+  "row_title_raw": "swim_ye.rang",
+  "status": "종료",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "라세린"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "11000",
+  "product_value_krw": 64000,
+  "delivery_date": "2026-10-16",
+  "output_link_prop": null,
+  "username": "swim_ye.rang",
+  "followers_notion": 11000,
+  "posts": [
+    {
+      "notion_row_id": "a9339eba-97ed-8393-816c-8188e914d25a",
+      "url": "https://www.instagram.com/p/DfJw_vRCYmR/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DfJw_vRCYmR",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-11-01",
+      "first_seen": "2026-11-04",
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": true
+  },
+  "child_db_id": "bd039eba-97ed-820b-bca0-01b7c75149d9",
+  "followers": 11000
+}

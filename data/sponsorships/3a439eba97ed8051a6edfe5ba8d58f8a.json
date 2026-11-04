@@ -25,7 +25,7 @@
       "first_seen": "2026-10-22",
       "posted_at": "2026-10-20T07:43:11.000Z",
       "permalink": "https://www.instagram.com/p/DetUskRE_zV/",
-      "thumbnail": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/858088657_17916305214469496_4533247278047000554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTk1MzQ2NTI5NTA0NDA4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7xCWwFvkp1kQ7kNvwHNQ2RR&_nc_oc=Adp3VEFfgniqF9uCjIA4f42UwxrldQrhu5bbG9LxJC79gchv8Rv-7U4BrSReo0oFKLkgNSDdJP7_RJ1nGdtA-5l6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=iMAnqWg8LCcbTjWzIkaMPA&_nc_ss=7320f&oh=00_AQRTII0BxiJNHwDCRQ_Ymn4BaKiSMbuIEcwL7wP8YoHtfQ&oe=6AEF10A0",
+      "thumbnail": "https://instagram.fsyd10-2.fna.fbcdn.net/v/t51.82787-15/858088657_17916305214469496_4533247278047000554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMTk1MzQ2NTI5NTA0NDA4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7xCWwFvkp1kQ7kNvwFLMTOV&_nc_oc=AdotBtqwEu0hY8cZOyYJxlI5ba7if_wmrlvdOWnRUWHE2I4Jq3UA0KcXorvJ51evyuc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd10-2.fna&_nc_gid=N_P_mKnxLYUH45rR6C28cA&_nc_ss=7a20f&oh=00_AQR-9j9XthrVutlTbOjU6nVzkCu8q9WE1r25gq-kiivqdQ&oe=6AF06220",
       "caption": "새로운 취미, 프리다이빙 🐠🩵\n\n첫 수업부터 매력에 퐁당... \n프리이멀전 / 덕다이빙 / 다이나믹 전문적으로 배워보고\n연습해볼수 있던 시간. 강습 중 담아주신 사진보니\n얼른 또 하고싶다 ! 🤍\n\n#고고다이브 #프리다이빙 #프리다이빙강습\n#프리다이빙입문 #프리다이빙후기 @gogodive",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 17
       },
-      "metrics_updated_at": "2026-11-03T11:48:42.700442+09:00",
+      "metrics_updated_at": "2026-11-04T10:07:23.491246+09:00",
       "history": [
         {
           "d": "2026-10-22",
@@ -113,28 +113,39 @@
           "views": null,
           "likes": -1,
           "comments": 17
+        },
+        {
+          "d": "2026-11-04",
+          "views": null,
+          "likes": -1,
+          "comments": 17
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 630.0,
         "n": 12,
-        "captured_at": "2026-11-03T11:48:42.700442+09:00"
+        "captured_at": "2026-11-04T10:07:23.491246+09:00"
       },
       "frozen": false,
-      "days_since_post": 13,
+      "days_since_post": 14,
       "computed": {
         "er": 0.00044412368844723253,
         "vs_baseline": 0.025396825396825397,
         "cost_per_eng": 12187.5,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.0% · 평소대비 0.0x (D+13)",
+      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.0% · 평소대비 0.0x (D+14)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)로 평소대비 0.02x·건당 12,188원은 왜곡된 값, 신뢰 가능한 지표는 댓글 17개뿐이라 판단 보류",
           "days": 4,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
+        },
+        "d14": {
+          "one_liner": "좋아요 비공개(-1)라 평소대비 0.03x·참여당 12,188원은 왜곡된 값, 댓글 17건만으로는 평가 보류",
+          "days": 14,
+          "analyzed_at": "2026-11-04T10:07:23.491246+09:00"
         }
       }
     },
@@ -147,7 +158,7 @@
       "first_seen": "2026-10-21",
       "posted_at": "2026-10-19T06:29:03.000Z",
       "permalink": "https://www.instagram.com/p/Deqmsmtz7BD/",
-      "thumbnail": "https://instagram.fflr2-1.fna.fbcdn.net/v/t51.82787-15/858088449_17916153930469496_7758528345811911488_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMTE4ODYwOTEyMjAyMTQ0MzE3OTE2MTUzOTI3NDY5NDk2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=8ickyT3B5F8Q7kNvwHZ2pk9&_nc_oc=Adq0QoiPnihTVy19OT6bKTqiPMW6sR6wI-rqFSKmlK-mTDTRBOaqa9RGOKZC_PNESmw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fflr2-1.fna&_nc_gid=kfxVVpdTwM-MQjCi2Hn9Og&_nc_ss=7320f&oh=00_AQTK6uJLECxB__7jqyQt4NluFCw2DktcxPeCNXy6_F-kdA&oe=6AEF094A",
+      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/858088449_17916153930469496_7758528345811911488_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMTE4ODYwOTEyMjAyMTQ0MzE3OTE2MTUzOTI3NDY5NDk2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzIifQ%3D%3D&_nc_ohc=8ickyT3B5F8Q7kNvwEY8PFM&_nc_oc=AdoQyE4Ti9uPOTDdnu60UvkNxUpJejWTvxjlRXigHRtJ0szG9pVCJx8bueU62ad6Szc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz5-1.fna&_nc_gid=-nDem9VrLgWryPeVJKvihg&_nc_ss=7a20f&oh=00_AQQfWu8RYul7kTNJD96zJ_8SsmALuMi0q614ZPUIpSqlFQ&oe=6AF05ACA",
       "caption": "바다에서 자유롭게 수영하는 모습이 예뻐서\n도전해본 프리다이빙 🤿🩵\n\n이번에 고고다이브에서 프리다이빙 강습을 받으면서\n프리이멀전부터 덕다이빙, 다이나믹까지 차근차근 배워봤어요!\n\n세심하게 티칭해 주셔서 처음 도전하는데도\n더 재미있게 배울 수 있었던 시간 🫧\n\n장비가 없어도 대여가 가능해서\n부담없이 시작할 수 있다는 점도 좋았어요!\n\n직접 해보니 생각했던 것보다 훨씬 더 매력적인 취미 🤍\n물속에서 호흡과 움직임에 집중하는 순간이 너무 좋더라구요.\n더 깊이, 더 자유롭게 수영하는 그날까지 🌊\n\n#고고다이브 #프리다이빙 #프리다이빙강습 #",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -157,7 +168,7 @@
         "likes": 557,
         "comments": 15
       },
-      "metrics_updated_at": "2026-11-03T11:48:42.700442+09:00",
+      "metrics_updated_at": "2026-11-04T10:07:23.491246+09:00",
       "history": [
         {
           "d": "2026-10-21",
@@ -242,23 +253,29 @@
           "views": 32330,
           "likes": 557,
           "comments": 15
+        },
+        {
+          "d": "2026-11-04",
+          "views": 32330,
+          "likes": 557,
+          "comments": 15
         }
       ],
       "baseline": {
         "views_median": 42034,
         "eng_median": 1056,
         "n": 3,
-        "captured_at": "2026-11-03T11:48:42.700442+09:00"
+        "captured_at": "2026-11-04T10:07:23.491246+09:00"
       },
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": 0.015877421861988563,
         "vs_baseline": 0.7691392682114478,
         "cost_per_eng": 340.90909090909093,
         "cost_per_view": 6.031549644293226
       },
-      "last_written_reaction": "조회 32,330 · 좋아요 557 · 댓글 15 · ER 1.6% · 평소대비 0.8x (D+14)",
+      "last_written_reaction": "조회 32,330 · 좋아요 557 · 댓글 15 · ER 1.6% · 평소대비 0.8x (D+15)",
       "analysis": {
         "d3": {
           "one_liner": "D+5 평소대비 0.84x로 다소 저조, 참여당 343원·조회당 6.0원으로 비용효율 개선 여지 있음",
