@@ -1,0 +1,27 @@
+{
+  "page_id": "40e39eba-97ed-8010-8917-f7d741985b59",
+  "row_title_raw": "d_dyo",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "시크릿스"
+  ],
+  "manager": "서채윤",
+  "followers_notion_raw": "68000",
+  "product_value_krw": 180500,
+  "delivery_date": "2026-11-04",
+  "output_link_prop": null,
+  "username": "d_dyo",
+  "followers_notion": 68000,
+  "posts": [],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "9b239eba-97ed-834e-a672-01b0be850a0c",
+  "followers": 68000
+}

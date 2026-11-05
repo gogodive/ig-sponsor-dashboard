@@ -1,7 +1,7 @@
 {
   "page_id": "3d439eba-97ed-80c9-b469-c52eb22d1158",
   "row_title_raw": "swim_yojung",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -18,19 +18,42 @@
   "posts": [
     {
       "notion_row_id": "a0639eba-97ed-83dc-860a-01d202fe17d6",
-      "url": "https://www.instagram.com/p/Dd8LOYtIHEv/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
-      "shortcode": "Dd8LOYtIHEv",
+      "url": "https://www.instagram.com/p/Dd8ME2uIGw9/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "Dd8ME2uIGw9",
       "media_kind": "피드",
       "upload_date_notion": "2026-10-01",
       "first_seen": "2026-10-02",
       "frozen": true,
       "days_since_post": 34,
       "computed": {
-        "er": null,
-        "vs_baseline": null,
-        "cost_per_eng": null,
+        "er": 0.03816793893129771,
+        "vs_baseline": 0.38461538461538464,
+        "cost_per_eng": 200.0,
         "cost_per_view": null
-      }
+      },
+      "posted_at": "2026-10-01T05:45:05.000Z",
+      "permalink": "https://www.instagram.com/p/Dd8ME2uIGw9/",
+      "thumbnail": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/830612429_17883034596689064_3474579567404940310_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5ODEyMzU2MjUyMTgyMzg4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AGCaL9e3zx0Q7kNvwF0qSmA&_nc_oc=AdqoJbImyeahThOKRuOdpeHuNCkyhl4Yq5Xvco9npVtjq62k_3cJQ7m0C6njIas4K08&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=lpKDWfP-p2pKg5C961i-tw&_nc_ss=7a20f&oh=00_AQQTRNRt4hsnVFl2M_1tvEVGW6MmdD0OY5DrBzq5dAjXVA&oe=6AF1BA9A",
+      "caption": "#제품제공 @laserin_swim \n𝐋𝐀𝐒𝐄𝐑𝐈𝐍 - 𝐌𝐀𝐋𝐋𝐀𝐍𝐆 𝐆𝐔𝐀𝐑𝐃🩵🐟\n\n수영을 자주 다니다보니 수경케이스는 물 빠짐과 보관 그리고 예뻐야하는데 그 부분이 완벽하게 충족되는 케이스에요🩵\n\n✔️중간이 막힌 구조라 통풍 완벽\n✔️고리홀이 있어서 가방이나 키링, 락커룸에 걸어 둘 수 있음\n✔️5가지 파스텔 컬러로 내 취향에 맞게 Pick!!!✨\n✔️지비츠로 내가 원하는 디자인으로 커스텀\n\n수영인에게 실용성과 귀여움을 모두 챙길 수 있는 수경가드입니당!! 내 소중한 수경을 말랑가드와 함께 보호해보아요😉🏊🏾‍♀️",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "swim_yojung",
+      "metrics": {
+        "likes": 44,
+        "comments": 16
+      },
+      "metrics_updated_at": "2026-11-05T10:22:31.912030+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 156.0,
+        "n": 12,
+        "captured_at": "2026-11-05T10:22:31.912030+09:00"
+      },
+      "analysis": {
+        "final_verdict": "상품 가액 12,000원으로 좋아요 44·댓글 16, 총 60건의 참여를 얻어 참여 1건당 200원, 팔로워 대비 참여율 3.82%를 기록했습니다. 투입 비용이 작아 절대 손실은 미미합니다. 다만 이 계정의 평소 게시물 중앙값 대비 0.38배(베이스라인 12건)에 그쳐 협찬 콘텐츠가 평소 반응의 절반에도 못 미쳤고, 피드 게시물이라 조회수도 확인할 수 없어 실제 노출 효과는 제한적이었던 것으로 판단됩니다. 결론적으로 저비용 시딩으로는 수용 가능한 수준이지만 비용 대비 성과는 기대 이하이므로, 재협찬 시에는 릴스 형식을 요청하거나 콘텐츠 방향을 사전에 조율하는 것이 바람직합니다.",
+        "final_at": "2026-11-05T10:22:31.912030+09:00"
+      },
+      "last_written_reaction": "좋아요 44 · 댓글 16 · ER 3.8% · 평소대비 0.4x (확정)"
     }
   ],
   "flags": {
@@ -40,5 +63,6 @@
     "account_unavailable": false
   },
   "child_db_id": "f7c39eba-97ed-83dc-9993-813d0a133e73",
-  "followers": 1572
+  "followers": 1572,
+  "last_written_score": 38
 }

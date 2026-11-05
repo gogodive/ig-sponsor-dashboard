@@ -1,6 +1,6 @@
 {
   "page_id": "3ca39eba-97ed-8060-a0cc-da0e11830e9a",
-  "row_title_raw": "(잠수) hyuniverse___",
+  "row_title_raw": "hyuniverse___",
   "status": "진행 중",
   "media": [
     "인스타"
@@ -10,18 +10,59 @@
   ],
   "manager": "김호진",
   "followers_notion_raw": "98000",
-  "product_value_krw": 617000,
+  "product_value_krw": 103000,
   "delivery_date": "2026-09-01",
   "output_link_prop": null,
-  "username": null,
+  "username": "hyuniverse___",
   "followers_notion": 98000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "e5b39eba-97ed-8272-b50c-81f550b8c13b",
+      "url": "https://www.instagram.com/p/Dc8K_Vjkfjx/?utm_source=ig_web_copy_link&exln=MWQ1ZGUxMzBkMA==&srtk=MWQ1ZGUxMzBkMA==",
+      "shortcode": "Dc8K_Vjkfjx",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-09-06",
+      "first_seen": "2026-11-05",
+      "posted_at": "2026-09-06T09:04:11.000Z",
+      "permalink": "https://www.instagram.com/p/Dc8K_Vjkfjx/",
+      "thumbnail": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/798317759_18622655287061191_6993108679157928944_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MDEwNDM1ODkwOTI3MTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjA4Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=II7qJS98iB4Q7kNvwFiNAax&_nc_oc=AdqSB0EEsyx49bCdy5P8uVVzQ1Vn5lsVrX8q0dJM_GgpvZq2X4baeypcIVPPLSQKHz8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=di3PjAqj6Tvl3jYRpsrD8w&_nc_ss=7a20f&oh=00_AQSEfwrolGEr11eohHWX9lKpBYdyzKhRqHdfO67vz90MNA&oe=6AF1AC58",
+      "caption": "프리다이빙에 빠져서 급 미야코지마로 떠나버리기 ✈ >>",
+      "media_type": "CAROUSEL_ALBUM",
+      "product": "FEED",
+      "owner_username": "hyuniverse___",
+      "metrics": {
+        "likes": 2621,
+        "comments": 40
+      },
+      "metrics_updated_at": "2026-11-05T10:22:31.912030+09:00",
+      "baseline": {
+        "views_median": null,
+        "eng_median": 1636.0,
+        "n": 12,
+        "captured_at": "2026-11-05T10:22:31.912030+09:00"
+      },
+      "frozen": true,
+      "days_since_post": 59,
+      "computed": {
+        "er": 0.026726259227640235,
+        "vs_baseline": 1.6265281173594133,
+        "cost_per_eng": 38.70725291243893,
+        "cost_per_view": null
+      },
+      "analysis": {
+        "final_verdict": "평소 게시물 대비 1.63배(베이스라인 12건)의 반응을 얻었고, 참여율 2.67%와 참여 1건당 39원의 비용을 고려하면 10만 원대 상품 협찬으로는 비용 대비 가치가 충분했습니다. 다만 참여 2,661건 중 댓글은 40건(약 1.5%)에 그쳐 대부분 가벼운 좋아요 반응이었습니다. 피드 게시물이라 조회수 지표가 없어 실제 도달 규모는 확인할 수 없으므로, 구매 전환 효과는 별도 추적으로 보완해 판단하는 것이 좋겠습니다.",
+        "final_at": "2026-11-05T10:22:31.912030+09:00"
+      },
+      "last_written_reaction": "좋아요 2,621 · 댓글 40 · ER 2.7% · 평소대비 1.6x (확정)"
+    }
+  ],
   "flags": {
-    "unresolvable_username": true,
+    "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "f4839eba-97ed-82cc-8d33-81661f08f482",
-  "followers": 98000
+  "followers": 99565,
+  "last_written_score": 163
 }

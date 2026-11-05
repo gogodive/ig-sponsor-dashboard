@@ -24,26 +24,26 @@
       "upload_date_notion": "2026-10-07",
       "first_seen": "2026-10-17",
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
-        "er": 0.013693193093867831,
+        "er": 0.013745019920318725,
         "vs_baseline": null,
         "cost_per_eng": 1077.2946859903382,
-        "cost_per_view": 51.29974695192086
+        "cost_per_view": 51.26436781609195
       },
       "posted_at": "2026-10-05T18:13:55.000Z",
       "permalink": "https://www.instagram.com/p/DeH00xESrM1/",
-      "thumbnail": "https://instagram.fpoz5-1.fna.fbcdn.net/v/t51.82787-15/837919061_18625516963017632_1647019150487106981_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTM5OTExODQ1ODY5NjUwMTE4NjI1NTE2OTYwMDE3NjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=QH1XCHRUyS4Q7kNvwFG0GnR&_nc_oc=Adpd00sIM3FugqMqYRLqJD0M3Na9eG4UkK_HWvwUzaAfBsS5w-suhvjvK6_P3zioeLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz5-1.fna&_nc_gid=uxCGkQrVR5zG4spF4HmTkg&_nc_ss=7a20f&oh=00_AQTnOHoLvlUyqvOZpK91nSZOyEkpxPXSzse56mhrt_qDmQ&oe=6AF06370",
+      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/837919061_18625516963017632_1647019150487106981_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwMTM5OTExODQ1ODY5NjUwMTE4NjI1NTE2OTYwMDE3NjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=QH1XCHRUyS4Q7kNvwE1ksdb&_nc_oc=Adqnj0kD81NDIwc-ksqUjWrNfeR7bdQum7vN29Qn_GG0Ra6jSdg3wxWSvyeP3PCziNcm9roGUP6Kd4LwrjcZ50XE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=YdF4A0fbWPnkojdUqnXAoA&_nc_ss=7a20f&oh=00_AQR1R--hmy0WZ3JqxM5qLrNY3XDvfqG2dtwh_sj6xNGAKw&oe=6AF1B4F0",
       "caption": "#협찬 @intotheblue_store /  water too much🐠 water yes!\n\nAERO SNORKEL 🤿🌊\n물놀이할 때 가볍게 또 예쁘게 챙기기 좋은 스노클\n\nAIR COOL PONCHO 🤍\n워터프루프 에어쿨 메쉬 소재여서\n물놀이 후 툭! 걸쳐 입기 좋고, 가볍고 시원해서 더 마음에 들었던 판초\n\n#에어로스노클 #고고젤로마스크 #에어쿨판초 #딥바이브판초",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "o421__",
       "metrics": {
-        "views": 1449,
+        "views": 1450,
         "likes": 69,
         "comments": 0
       },
-      "metrics_updated_at": "2026-11-04T10:07:23.491246+09:00",
+      "metrics_updated_at": "2026-11-05T10:22:31.912030+09:00",
       "history": [
         {
           "d": "2026-10-21",
@@ -134,9 +134,15 @@
           "views": 1449,
           "likes": 69,
           "comments": 0
+        },
+        {
+          "d": "2026-11-05",
+          "views": 1450,
+          "likes": 69,
+          "comments": 0
         }
       ],
-      "last_written_reaction": "조회 1,449 · 좋아요 69 · 댓글 0 · ER 1.4% (D+29)",
+      "last_written_reaction": "조회 1,450 · 좋아요 69 · 댓글 0 · ER 1.4% (D+30)",
       "analysis": {
         "d14": {
           "one_liner": "조회 1427회(팔로워의 28%)·댓글 0건, 조회당 52.1원으로 비용효율 낮음(평소대비 비교 데이터 없음)",
@@ -153,16 +159,16 @@
       "upload_date_notion": "2026-10-04",
       "first_seen": "2026-10-17",
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
-        "er": 0.0007938082952966859,
+        "er": 0.0007968127490039841,
         "vs_baseline": 0.010416666666666666,
         "cost_per_eng": 18583.333333333332,
         "cost_per_view": null
       },
       "posted_at": "2026-10-03T15:12:48.000Z",
       "permalink": "https://www.instagram.com/p/DeCWow-khDH/",
-      "thumbnail": "https://instagram.fvlc4-1.fna.fbcdn.net/v/t51.82787-15/831641371_18624752419017632_8776320597945808390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5OTg1NjY5MzkyMzY4NjA2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODkwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=qB9u8daqqfMQ7kNvwGreexM&_nc_oc=AdoiuDjRa_cNMkpi--1gPOeth76VnQUks1aGGSfg2IWQOliwQg7mwB7BpIk364pu2SA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fvlc4-1.fna&_nc_gid=fDeFLTY9hF_pj5JgKs5_tA&_nc_ss=7a20f&oh=00_AQRHXt04CeYxHBkLynifHkpMmhjz42Gk79B_hD2pwkZaSA&oe=6AF046C4",
+      "thumbnail": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/831641371_18624752419017632_8776320597945808390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5OTg1NjY5MzkyMzY4NjA2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODkwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=qB9u8daqqfMQ7kNvwFbdnOW&_nc_oc=AdoGKwM9vplvQbxb8nZyZCgYMF4fWTHcE7qMGDY5ErG57QWFyi5biM2yQaxO4XqY18VS6LIIA-ILnyoKYe0j8zB-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=PbPhPxRyV6yrvqz5_7wvHQ&_nc_ss=7a20f&oh=00_AQRRgRA35KyYXMdiQCJ-ZHlnAMBOP037of5W9XrYkavFNw&oe=6AF19844",
       "caption": "선셋 테라피🌅💛\n\n올 여름 껌딱지템 🩱@intotheblue_store\n#제품제공 #인투더블루 #딥바이브 #에어쿨판초 #딥바이브판초\n\n잊지모태🍔❤️🍷",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -284,7 +290,7 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-19T18:08:04.000Z",
       "permalink": "https://www.instagram.com/p/DdenkI3koCN/",
-      "thumbnail": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/817651062_18620151562017632_4852961930245944713_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4OTc5NTg3MjM1OTIxNzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QZzF8qgUj3oQ7kNvwEnXEUr&_nc_oc=AdqlCg0sLZL3IqPINjZXsY0JsnX3bdJy-19TqjOsmTjxH6QhJODmE6F7L8ujXP6hRcpWR4QmODqCdyRmUuyCodvC&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=IQIOY54AicEQ4zNFf2gTkg&_nc_ss=7a20f&oh=00_AQSuUW8rcaCkYqaVf-HofQHDIcEbLXI_DGwGmJOHqIF54g&oe=6AE72BA1",
+      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/817651062_18620151562017632_4852961930245944713_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4OTc5NTg3MjM1OTIxNzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gUxlqAVQcf8Q7kNvwEgXGR-&_nc_oc=AdqpuNFp0sVF6Ok9VR5tPbYpartpXpdv3TwhNuGJLra4WXN8bZY-1U6BpWUNNfDbRXc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=zPJ3LQc4eu-dOLnek4V3Cg&_nc_ss=7a20f&oh=00_AQRDwJGnP3X_Ee6-kECfVD5DW1IqqWUddYhQbWHiGRA5kg&oe=6AF1B7A1",
       "caption": "@intotheblue_store 와 함께한 𝕤𝕦𝕞𝕞𝕖𝕣 🐠🦀🫧\n\n#협찬 #인투더블루 #딥바이브 #에어로스노클 #고고젤로마스크",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -411,9 +417,9 @@
         "captured_at": "2026-10-16T08:35:23.432306+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
-        "er": 0.0009922603691208574,
+        "er": 0.00099601593625498,
         "vs_baseline": 0.013020833333333334,
         "cost_per_eng": 14866.666666666666,
         "cost_per_view": null
@@ -432,6 +438,6 @@
     "account_unavailable": false
   },
   "child_db_id": "df639eba-97ed-8267-a67f-8155629ef42f",
-  "followers": 5039,
+  "followers": 5020,
   "last_written_score": 1
 }
