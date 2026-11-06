@@ -23,8 +23,8 @@
       "media_kind": "릴스",
       "upload_date_notion": "2026-10-07",
       "first_seen": "2026-10-17",
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.013745019920318725,
         "vs_baseline": null,
@@ -33,7 +33,7 @@
       },
       "posted_at": "2026-10-05T18:13:55.000Z",
       "permalink": "https://www.instagram.com/p/DeH00xESrM1/",
-      "thumbnail": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/837919061_18625516963017632_1647019150487106981_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwMTM5OTExODQ1ODY5NjUwMTE4NjI1NTE2OTYwMDE3NjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=QH1XCHRUyS4Q7kNvwE1ksdb&_nc_oc=Adqnj0kD81NDIwc-ksqUjWrNfeR7bdQum7vN29Qn_GG0Ra6jSdg3wxWSvyeP3PCziNcm9roGUP6Kd4LwrjcZ50XE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=YdF4A0fbWPnkojdUqnXAoA&_nc_ss=7a20f&oh=00_AQR1R--hmy0WZ3JqxM5qLrNY3XDvfqG2dtwh_sj6xNGAKw&oe=6AF1B4F0",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/837919061_18625516963017632_1647019150487106981_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwMTM5OTExODQ1ODY5NjUwMTE4NjI1NTE2OTYwMDE3NjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=GIFdbwK_TDwQ7kNvwGKqzO0&_nc_oc=AdqWoSiwovaquWvg3aQW5lJaeNWCB1NmSlqfxmREz9sA9XkmbnvR2bvEDshelFl4mrI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=SAzIjssNHyS37FB_-cYWfw&_nc_ss=7a20f&oh=00_AQT4uCHETk58SaRWhNPasNgH4mIculRR_hKIJzDqUjTsdQ&oe=6AF30670",
       "caption": "#협찬 @intotheblue_store /  water too much🐠 water yes!\n\nAERO SNORKEL 🤿🌊\n물놀이할 때 가볍게 또 예쁘게 챙기기 좋은 스노클\n\nAIR COOL PONCHO 🤍\n워터프루프 에어쿨 메쉬 소재여서\n물놀이 후 툭! 걸쳐 입기 좋고, 가볍고 시원해서 더 마음에 들었던 판초\n\n#에어로스노클 #고고젤로마스크 #에어쿨판초 #딥바이브판초",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -142,13 +142,15 @@
           "comments": 0
         }
       ],
-      "last_written_reaction": "조회 1,450 · 좋아요 69 · 댓글 0 · ER 1.4% (D+30)",
+      "last_written_reaction": "조회 1,450 · 좋아요 69 · 댓글 0 · ER 1.4% (확정)",
       "analysis": {
         "d14": {
           "one_liner": "조회 1427회(팔로워의 28%)·댓글 0건, 조회당 52.1원으로 비용효율 낮음(평소대비 비교 데이터 없음)",
           "days": 19,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "30일 확정 기준 조회 1,450회(팔로워의 약 29%), 좋아요 69건, 댓글 0건으로 도달이 팔로워 규모에 비해 좁고 대화형 반응이 전혀 없어 223,000원 협찬 대비 성과는 낮은 편입니다. 제시된 참여당 1,077원·조회당 51.3원은 약 74,000원 기준으로 계산된 값이며, 상품 가액 223,000원 전액을 적용하면 참여당 약 3,232원·조회당 약 154원으로 효율이 더 떨어지므로 비용 산정 기준(복수 게시물 분할 여부 등) 확인이 필요합니다. 평소대비 배수가 제공되지 않아 계정 자체의 부진인지 협찬 콘텐츠의 부진인지는 단정할 수 없지만, 현재 지표만으로는 비용 대비 가치가 부족했다고 판단하며 동일 조건의 재협찬은 권장하지 않습니다.",
+        "final_at": "2026-11-06T10:25:50.159721+09:00"
       }
     },
     {
@@ -159,7 +161,7 @@
       "upload_date_notion": "2026-10-04",
       "first_seen": "2026-10-17",
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0007968127490039841,
         "vs_baseline": 0.010416666666666666,
@@ -417,7 +419,7 @@
         "captured_at": "2026-10-16T08:35:23.432306+09:00"
       },
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
         "er": 0.00099601593625498,
         "vs_baseline": 0.013020833333333334,
