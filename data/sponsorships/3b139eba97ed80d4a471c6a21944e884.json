@@ -25,7 +25,7 @@
       "first_seen": "2026-11-03",
       "posted_at": "2026-10-28T12:40:04.000Z",
       "permalink": "https://www.instagram.com/p/DfCdB-OEwNa/",
-      "thumbnail": "https://instagram.fsyd14-1.fna.fbcdn.net/v/t51.82787-15/865373066_18637078120019502_2555092205822427890_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzkwMTE5NTIyMTYwMjQ2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-NxMvvY4jTAQ7kNvwFvqsdF&_nc_oc=AdqKyKPL3xkQaLPvWoSecQ6jLf32f6k2jzy-BBbPUIj-siLEUxNBMwv8d-OlYUtCZqM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd14-1.fna&_nc_gid=rYzqQ56kcVEaXCJ-KEZk7g&_nc_ss=7a20f&oh=00_AQRb8KUYKH8F2OaVXrzBWndts89Rtb9_1u1WkJUDcxYw8w&oe=6AF2F5F6",
+      "thumbnail": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/865373066_18637078120019502_2555092205822427890_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxNzkwMTE5NTIyMTYwMjQ2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkxNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jBx1wqa0fXAQ7kNvwHtOvAM&_nc_oc=Adp4qsS30qVHmSf4x26a6UYJ7MM9tiapN8sgBUJxOPU-7n05qSyOlQXPtnkX-ozVUhhXtjCWvYNfsU00qkfu5heB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=ds4Yc3tbyqAbpXuRYniyzg&_nc_ss=7a20f&oh=00_AQQtq2u2juMT8sfiMWuaZX3S2mFlp33KOuAMLlYcnvfzNw&oe=6AF44776",
       "caption": "황홀하자나..?\n30대되어서야 수영을 배우고 드디어 프리다이빙🩱🏊‍♂️\n첫 수업에서 이렇게 멋진 사진 건질일..\n-\n#고고다이브 초급1강수업 @gogodive \n4가지호흡법부터 STA(숨참기), FIM(라인잡고하강),\n덕다이빙,다이나믹다이빙 등\n수업시간동안 너무나 알차고 자세히 알려주셔서\n문제점을 바로바로 고치면서 연습할 수 있었어요!\n꼼꼼한 이지훈강사님 @diver.ez \n-\nSTA 첨부터 2분 넘기는 사람 드물다고 칭찬받아서\n재능있는줄 알았지만 바로 이퀄라이징에서 박살나기ㅠ\n무제한 코칭반이 있어서 다행히\n준비열심히하고 시험볼 수",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 13
       },
-      "metrics_updated_at": "2026-11-06T10:25:50.159721+09:00",
+      "metrics_updated_at": "2026-11-07T09:43:34.076363+09:00",
       "history": [
         {
           "d": "2026-11-03",
@@ -59,16 +59,22 @@
           "views": null,
           "likes": -1,
           "comments": 13
+        },
+        {
+          "d": "2026-11-07",
+          "views": null,
+          "likes": -1,
+          "comments": 13
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 4.0,
         "n": 12,
-        "captured_at": "2026-11-06T10:25:50.159721+09:00"
+        "captured_at": "2026-11-07T09:43:34.076363+09:00"
       },
       "frozen": false,
-      "days_since_post": 8,
+      "days_since_post": 9,
       "computed": {
         "er": 0.0008388088913742485,
         "vs_baseline": 3.0,
@@ -82,7 +88,7 @@
           "analyzed_at": "2026-11-03T11:48:42.700442+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+8)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+9)"
     }
   ],
   "flags": {
