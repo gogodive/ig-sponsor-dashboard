@@ -25,7 +25,7 @@
       "first_seen": "2026-10-08",
       "posted_at": "2026-10-07T05:55:03.000Z",
       "permalink": "https://www.instagram.com/p/DeLp_I6D9XF/",
-      "thumbnail": "https://instagram.falc1-1.fna.fbcdn.net/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cfIYd-6mpdIQ7kNvwFMHoHB&_nc_oc=AdofygUGGrN6dpA9_wmbo-sii7OYfmcL4PhVhwof-TPDtEMnhJneq0yq-PKPvjW-abc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.falc1-1.fna&_nc_gid=tL_iKtjrQB16TZFp-XNnGg&_nc_ss=7a20f&oh=00_AQSpYQWy_VhxdeP9jgkmp38ebff5_6-lZ4VWVNdV3vw7Hw&oe=6AF43D1B",
+      "thumbnail": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-15/838628669_18465680005143161_6824971532831883895_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwMjQ3NDAxNzg1OTQ4ODc5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cfIYd-6mpdIQ7kNvwF_fyYh&_nc_oc=AdoGLp49jX6TiGRC7WLSnFG4IcthvSWhMlcAdzPrnDy7KPCI_LIscftpQ0G4ipVGR195nRV2_r4bepEzfdiWr9YN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_gid=YkydHiwU4iuTiFohS_W74g&_nc_ss=7a20f&oh=00_AQRerLHhHLq6Wef10xioeZa_byzVuSKDxT_pfTimANLgkg&oe=6AF58E9B",
       "caption": "#협찬\n사실 작년에도 프리다이빙에 도전했었는데요!\n.\n그땐 수영을 제대로 안 배웠던 터라 물속이 은근 무섭고 긴장됐었거든요 🫣\n​어릴 때 수영선수였던 동생 영향으로 얼떨결에 수영을 접하긴 했지만,\n이상하게 물이랑은 별로 안 친해서 수중 운동은 늘 거리감이 있었어요 💦\n.\n​근데 올해 제대로 수영을 배우기 시작하면서 물과 친해지고 나니까…\n이번 고고다이브 프리다이빙은 완전히 다른 세상이더라고요?! ✨\n.\n​클라이밍, 등산, 러닝, 싸이클까지 육지 운동은 다 접수했는데,\n이제 수중 도파민까지 완벽 적응 완료 👊\n운동좋아 인간입니다😙😙\n",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -229,21 +229,23 @@
         "n": 10,
         "captured_at": "2026-11-07T09:43:34.076363+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.009641604986365408,
         "vs_baseline": 0.36666666666666664,
         "cost_per_eng": 3939.3939393939395,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 87 · 댓글 12 · ER 1.0% · 평소대비 0.4x (D+30)",
+      "last_written_reaction": "좋아요 87 · 댓글 12 · ER 1.0% · 평소대비 0.4x (확정)",
       "analysis": {
         "d14": {
           "one_liner": "평소의 0.33배로 부진하고 참여당 4,194원으로 비용 효율이 낮아, D+17 피드 특성상 반등 여지도 제한적이다.",
           "days": 17,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "D+31 확정 기준 좋아요 87·댓글 12로 총 참여 99건에 그쳐, 이 계정의 평소 게시물 중앙값의 0.37배 수준으로 크게 부진했고 팔로워 대비 참여율도 0.96%로 낮았습니다. 390,000원 상당의 상품 가액을 감안하면 참여 1건당 비용이 3,939원으로 높아, 이번 협찬은 비용 대비 가치가 낮았다고 판단됩니다. 피드 게시물이라 조회수를 확인할 수 없어 도달 효과는 평가하지 못했으므로, 같은 인플루언서와 다시 협업한다면 저가 상품으로 시험하거나 릴스 형식을 요청하는 것을 권장합니다.",
+        "final_at": "2026-11-08T09:17:15.040344+09:00"
       }
     }
   ],

@@ -25,7 +25,7 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-08T12:26:26.000Z",
       "permalink": "https://www.instagram.com/p/DeO7ki1CQw_/",
-      "thumbnail": "https://instagram.fpbc2-1.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb191c2VyX3NlbGVjdGVkX3RodW1ibmFpbC5DMyJ9&_nc_ohc=f8vXCfwluJsQ7kNvwE-CSWi&_nc_oc=AdrH3HRncVlsOxXyCEwwqZINkN7F2dDb6qsXZfVtyX_2CIkL_QgSndX-tYIhp1y-cpc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpbc2-1.fna&_nc_gid=WEB_T9ak3KPI1U8NButzRg&_nc_ss=7a20f&oh=00_AQTTA4i59bk3Xmrl_LD_WS6wsS-rpqPV0TGeP_jcSymtpQ&oe=6AF46158",
+      "thumbnail": "https://instagram.fpoz4-1.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb191c2VyX3NlbGVjdGVkX3RodW1ibmFpbC5DMyJ9&_nc_ohc=f8vXCfwluJsQ7kNvwFlHlC6&_nc_oc=AdpDRe9j7Yv1KlBq05MWul06KsnluLNCjKTv7ecqYmhbSZ6HZpJfwpIZiv26MpNW9dA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz4-1.fna&_nc_gid=bMvAcO1QBOY1xbY4ZSqw4Q&_nc_ss=7a20f&oh=00_AQQy45MMXkSBFYQiIakhgyGAa1zSOxcNAfyAfWC6LMoUyA&oe=6AF57A98",
       "caption": "🤿 물무서워 인간의 프리다이빙 도전기 🌊\nㅤ\n저는 사실 물무서워 인간이라 \n수영도 그 공포증을 극복하기 위해 배운사람이에요.\n\n그래서 여러가지 운동을 도전한것에 비해\n유난히 수상 스포츠나 물에 관련된 운동 이력만 적었는데\n\n주변에서 워낙 프리다이빙 매력을 추천하기도 했고,,\n회원님들이 죄다 하면 너무 잘어울릴 것 같다고 닳도록 말해서\n마음이 선덕선덕했단 말이죠,,💓 @ddayo_l @charmingssu77 \n\n근데 마침 좋은 기회로 @gogodive 에서 저에게 협찬 제안을 주셨고,\n이건 진짜 더이상 도망가지말라는 계시라는 생각에",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +34,7 @@
         "likes": -1,
         "comments": 28
       },
-      "metrics_updated_at": "2026-11-07T09:43:34.076363+09:00",
+      "metrics_updated_at": "2026-11-08T09:17:15.040344+09:00",
       "history": [
         {
           "d": "2026-10-13",
@@ -191,23 +191,29 @@
           "views": null,
           "likes": -1,
           "comments": 28
+        },
+        {
+          "d": "2026-11-08",
+          "views": null,
+          "likes": -1,
+          "comments": 28
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 38.0,
         "n": 12,
-        "captured_at": "2026-11-07T09:43:34.076363+09:00"
+        "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.0005395575627985053,
         "vs_baseline": 0.7105263157894737,
         "cost_per_eng": 7222.222222222223,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 28 · ER 0.1% · 평소대비 0.7x (D+29)",
+      "last_written_reaction": "좋아요 -1 · 댓글 28 · ER 0.1% · 평소대비 0.7x (D+30)",
       "analysis": {
         "d14": {
           "one_liner": "좋아요 비공개로 댓글 위주 집계라 평소대비 0.70x·참여당 7,222원은 과소추정일 수 있어 판단 보류",
@@ -425,7 +431,7 @@
         "captured_at": "2026-11-05T10:22:31.912030+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.0006994264702943586,
         "vs_baseline": 0.9516380655226209,
