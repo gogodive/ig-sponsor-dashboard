@@ -25,7 +25,7 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-08T12:26:26.000Z",
       "permalink": "https://www.instagram.com/p/DeO7ki1CQw_/",
-      "thumbnail": "https://instagram.fpoz4-1.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb191c2VyX3NlbGVjdGVkX3RodW1ibmFpbC5DMyJ9&_nc_ohc=f8vXCfwluJsQ7kNvwFlHlC6&_nc_oc=AdpDRe9j7Yv1KlBq05MWul06KsnluLNCjKTv7ecqYmhbSZ6HZpJfwpIZiv26MpNW9dA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fpoz4-1.fna&_nc_gid=bMvAcO1QBOY1xbY4ZSqw4Q&_nc_ss=7a20f&oh=00_AQQy45MMXkSBFYQiIakhgyGAa1zSOxcNAfyAfWC6LMoUyA&oe=6AF57A98",
+      "thumbnail": "https://instagram.fpoa47-1.fna.fbcdn.net/v/t51.82787-15/841140214_18359327443218886_5754183636146149273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMzM5ODU5NDgwMzA4MDA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb191c2VyX3NlbGVjdGVkX3RodW1ibmFpbC5DMyJ9&_nc_ohc=ktYBY8Wr5okQ7kNvwGllFIQ&_nc_oc=AdobMZAvbPHUodiUq8Vw8901mJV0kF4vUWoj9KqnQWRfwSnT5HrfR1m4sBVb95wRM9Y&_nc_ad=z-m&_nc_cid=6357&_nc_zt=23&_nc_ht=instagram.fpoa47-1.fna&_nc_gid=kP4fpvqa9ot0t0nci7OabQ&_nc_ss=7a20f&oh=00_AQT3clLhO7pI1MXad8cU66Ipqv834Rolpgly_Vw-irQvgQ&oe=6AF70458",
       "caption": "🤿 물무서워 인간의 프리다이빙 도전기 🌊\nㅤ\n저는 사실 물무서워 인간이라 \n수영도 그 공포증을 극복하기 위해 배운사람이에요.\n\n그래서 여러가지 운동을 도전한것에 비해\n유난히 수상 스포츠나 물에 관련된 운동 이력만 적었는데\n\n주변에서 워낙 프리다이빙 매력을 추천하기도 했고,,\n회원님들이 죄다 하면 너무 잘어울릴 것 같다고 닳도록 말해서\n마음이 선덕선덕했단 말이죠,,💓 @ddayo_l @charmingssu77 \n\n근데 마침 좋은 기회로 @gogodive 에서 저에게 협찬 제안을 주셨고,\n이건 진짜 더이상 도망가지말라는 계시라는 생각에",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -205,21 +205,23 @@
         "n": 12,
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.0005395575627985053,
         "vs_baseline": 0.7105263157894737,
         "cost_per_eng": 7222.222222222223,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 28 · ER 0.1% · 평소대비 0.7x (D+30)",
+      "last_written_reaction": "좋아요 -1 · 댓글 28 · ER 0.1% · 평소대비 0.7x (확정)",
       "analysis": {
         "d14": {
           "one_liner": "좋아요 비공개로 댓글 위주 집계라 평소대비 0.70x·참여당 7,222원은 과소추정일 수 있어 판단 보류",
           "days": 16,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "좋아요가 비공개(-1)로 집계되지 않아 참여율 0.05%와 참여당 비용 7,222원은 사실상 댓글 28건만 반영한 불완전한 수치이므로, 이 두 지표로 비용 효율을 단정하기는 어렵습니다. 다만 확인 가능한 지표인 평소대비 0.71x는 계정의 일반 게시물보다 약 30% 낮은 반응을 보여, 39만 원 상당의 협찬이 계정 평균 이상의 효과를 내지 못한 것으로 판단됩니다. 재협찬 여부는 인플루언서에게 좋아요 수와 도달·저장 등 인사이트 데이터를 받아 재평가한 뒤 결정하는 것을 권장합니다.",
+        "final_at": "2026-11-09T09:38:33.265493+09:00"
       }
     },
     {
@@ -431,7 +433,7 @@
         "captured_at": "2026-11-05T10:22:31.912030+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.0006994264702943586,
         "vs_baseline": 0.9516380655226209,
