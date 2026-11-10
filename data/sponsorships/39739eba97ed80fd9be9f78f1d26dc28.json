@@ -1,7 +1,7 @@
 {
   "page_id": "39739eba-97ed-80fd-9be9-f78f1d26dc28",
   "row_title_raw": "yj_diet_",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -17,6 +17,44 @@
   "followers_notion": 5862,
   "posts": [
     {
+      "notion_row_id": "41339eba-97ed-80cd-a669-e8f0b61e7c16",
+      "url": "https://www.instagram.com/reel/Dfgod6Ry3Zg/?utm_source=ig_web_copy_link",
+      "shortcode": "Dfgod6Ry3Zg",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "posted_at": "2026-11-09T05:59:59.000Z",
+      "permalink": "https://www.instagram.com/p/Dfgod6Ry3Zg/",
+      "thumbnail": "https://instagram.fmxp9-1.fna.fbcdn.net/v/t51.82787-15/894034047_1085728804292918_6342493521689160004_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjM5NjA0NDE3MDA2NTUwNDEwODU3Mjg3OTc2MjYyNTI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=ATb5DVJ2JrEQ7kNvwE0myxD&_nc_oc=AdpiHabRmUMN56lUChl27MRd5emtJtf2oBxUwzp4l49YvvAqt9ATA7WwuHlivi1qsbY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmxp9-1.fna&_nc_gid=j4CIraCm7eTJc6szevTSEw&_nc_ss=7a20f&oh=00_AQT0WIOqKazgAO3tMe_ZWycIXeeDqB0MAQ14CMYpEnuUGg&oe=6AF8467C",
+      "caption": "#고고다이브 #프리다이빙 #프리다이빙강습 #freediving @gogodive",
+      "media_type": "VIDEO",
+      "product": "REELS",
+      "owner_username": "yj_diet_",
+      "metrics": {
+        "views": 1224,
+        "likes": -1,
+        "comments": 0
+      },
+      "metrics_updated_at": "2026-11-10T12:18:00.244308+09:00",
+      "history": [
+        {
+          "d": "2026-11-10",
+          "views": 1224,
+          "likes": -1,
+          "comments": 0
+        }
+      ],
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": -0.0001638001638001638,
+        "vs_baseline": null,
+        "cost_per_eng": -195000.0,
+        "cost_per_view": 159.31372549019608
+      },
+      "last_written_reaction": "조회 1,224 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+0)"
+    },
+    {
       "notion_row_id": "ba639eba-97ed-83f7-90e8-819e66fcdd74",
       "url": "https://www.instagram.com/p/De0aOEiEjLe/?utm_source=ig_web_copy_link&exln=NTc4MTIwNjQ2YQ==",
       "shortcode": "De0aOEiEjLe",
@@ -25,7 +63,7 @@
       "first_seen": "2026-10-24",
       "posted_at": "2026-10-23T01:46:08.000Z",
       "permalink": "https://www.instagram.com/p/De0aOEiEjLe/",
-      "thumbnail": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/859801690_18117307016107435_2353731342352121414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMzk0ODI1MjYyMTIzNzQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jnRHI_amFNQQ7kNvwGgJ3UJ&_nc_oc=AdqqwNUkqMxtWEVVmlH9HVeyYKVVjzNpUsWaFicbuduMi7mWo0RVXQ2_AnIOn82VXzc&_nc_ad=z-m&_nc_cid=1753&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=MOOkpkYe4Iiebqj7S8NnOQ&_nc_ss=7a20f&oh=00_AQSgOyJ7nozY8QdKLTpwABtdry6gONbUf9Omcb2SNYhUMA&oe=6AF70246",
+      "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/859801690_18117307016107435_2353731342352121414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMzk0ODI1MjYyMTIzNzQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jnRHI_amFNQQ7kNvwHFiMHF&_nc_oc=AdoLp57h6mWaloE-NrfUVnWNGyEYn-161YrxHOpvznU3IHclphrOCtCRzK2z_0pz3GI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=lygzQpEj5BuLgZzo2JTTUw&_nc_ss=7a20f&oh=00_AQT_Go_3CC-5XDJifFmpHbcCNr87vxxdg24NeL-td_JaLA&oe=6AF853C6",
       "caption": "#프리다이빙 #고고다이브 @gogodive \n.\n다들 한번쯤 꼭 해보고 싶은 취미 있으시죠? 저는 프리다이빙이 그런 취미였어요!!\n제가 함께한 고고다이브는 회원 40,000명 국내 최대 규모 다이빙 커뮤니티이자 정부 등록 수중레저 교육기관으로 우선 신뢰감이 확 들더라구요👍\n.\n전 첫날 호흡법부터 STA (숨참기), CWT (덕다이빙 후 헤드퍼스트 하강), DYN(수평이동), FIM (라인 잡고 하강) 그리고 이퀄라이징까지 알차게 배웠는데요! 강사님이 알기 쉽게 잘 알려주시고, 실제로 어떤 부분이 부족한지까지 바로 피드백 해주셔서 좋",
       "media_type": "CAROUSEL_ALBUM",
       "product": "FEED",
@@ -34,7 +72,7 @@
         "likes": 315,
         "comments": 7
       },
-      "metrics_updated_at": "2026-11-09T09:38:33.265493+09:00",
+      "metrics_updated_at": "2026-11-10T12:18:00.244308+09:00",
       "history": [
         {
           "d": "2026-10-24",
@@ -137,23 +175,29 @@
           "views": null,
           "likes": 315,
           "comments": 7
+        },
+        {
+          "d": "2026-11-10",
+          "views": null,
+          "likes": 315,
+          "comments": 7
         }
       ],
       "baseline": {
         "views_median": null,
         "eng_median": 516,
         "n": 11,
-        "captured_at": "2026-11-09T09:38:33.265493+09:00"
+        "captured_at": "2026-11-10T12:18:00.244308+09:00"
       },
       "frozen": false,
-      "days_since_post": 16,
+      "days_since_post": 18,
       "computed": {
         "er": 0.052743652743652746,
         "vs_baseline": 0.624031007751938,
-        "cost_per_eng": 1211.1801242236024,
+        "cost_per_eng": 605.5900621118012,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 315 · 댓글 7 · ER 5.3% · 평소대비 0.6x (D+16)",
+      "last_written_reaction": "좋아요 315 · 댓글 7 · ER 5.3% · 평소대비 0.6x (D+18)",
       "analysis": {
         "d3": {
           "one_liner": "D+3 참여 283건으로 평소의 0.55배에 그쳤고, 참여 1건당 1,378원으로 비용 효율이 낮은 편이다",

@@ -69,7 +69,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.010410505146101976,
         "vs_baseline": 0.9450738787657286,
@@ -139,7 +139,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.01496510114752159,
         "vs_baseline": 0.7463126843657817,
@@ -153,7 +153,7 @@
           "analyzed_at": "2026-11-05T10:22:31.912030+09:00"
         }
       },
-      "last_written_reaction": "좋아요 718 · 댓글 41 · ER 1.5% · 평소대비 0.7x (D+29)"
+      "last_written_reaction": "좋아요 718 · 댓글 41 · ER 1.5% · 평소대비 0.7x (D+30)"
     },
     {
       "notion_row_id": "40e39eba-97ed-8010-9fc6-cdb0004294db",
@@ -164,17 +164,17 @@
       "first_seen": "2026-11-05",
       "posted_at": "2026-10-20T09:45:31.000Z",
       "permalink": "https://www.instagram.com/p/DetibOwIykV/",
-      "thumbnail": "https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/858025968_2670119293425998_5074229610256282966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAxMjAxNDI0NzkwNDIyNTU1NzI2NzAxMTkyODY3NTkzMzI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=RHtFwfMNEfMQ7kNvwE6qMbp&_nc_oc=Adq5DOE0GuM2lu-6Mo43Dz9giSi70ZIYHBsSoVbw38bb6cP4s3OmhryTP9DOVfBFZouD7voolIUU9MmZ0AhLkC6v&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=1BO3OprebZh8z7kZiHcawA&_nc_ss=7a20f&oh=00_AQQEIHifMTYlf5NOHQBCWODvTy2FhYLQb5o5M7I3rSwD0A&oe=6AF6E589",
+      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/858025968_2670119293425998_5074229610256282966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMjAxNDI0NzkwNDIyNTU1NzI2NzAxMTkyODY3NTkzMzI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMyIn0%3D&_nc_ohc=RHtFwfMNEfMQ7kNvwEbiRIi&_nc_oc=AdozJ0WiFka6lPxufGHhkuGzPZqJImuihoWgLGmsZUDb3OJcsraFpxVRY2QZ3oOu26Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=6zMnxhPO_7aHNwwMwzWZZw&_nc_ss=7a20f&oh=00_AQTNYoVJ8vOwBUOdoqI7nSiBnbQvl6izKU7OHOgdQxvs6g&oe=6AF86F49",
       "caption": "주말 10번 지나면 2027년이래요👀\n2026년에 뭐했더라😄\n\n#오운완 #운동하는여자 #wellness",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "do.roc.y",
       "metrics": {
-        "views": 71863,
-        "likes": 1255,
+        "views": 72085,
+        "likes": 1257,
         "comments": 45
       },
-      "metrics_updated_at": "2026-11-09T09:38:33.265493+09:00",
+      "metrics_updated_at": "2026-11-10T12:18:00.244308+09:00",
       "history": [
         {
           "d": "2026-11-05",
@@ -205,21 +205,27 @@
           "views": 71863,
           "likes": 1255,
           "comments": 45
+        },
+        {
+          "d": "2026-11-10",
+          "views": 72085,
+          "likes": 1257,
+          "comments": 45
         }
       ],
       "baseline": {
         "views_median": 19153.0,
         "eng_median": 260.0,
         "n": 4,
-        "captured_at": "2026-11-09T09:38:33.265493+09:00"
+        "captured_at": "2026-11-10T12:18:00.244308+09:00"
       },
       "frozen": false,
-      "days_since_post": 19,
+      "days_since_post": 20,
       "computed": {
-        "er": 0.025631925549114712,
-        "vs_baseline": 3.7520492873179134,
-        "cost_per_eng": 52.88461538461539,
-        "cost_per_view": 0.9566814633399663
+        "er": 0.025671359280728737,
+        "vs_baseline": 3.7636401608103167,
+        "cost_per_eng": 52.803379416282645,
+        "cost_per_view": 0.953735173753208
       },
       "analysis": {
         "d14": {
@@ -228,7 +234,7 @@
           "analyzed_at": "2026-11-05T10:22:31.912030+09:00"
         }
       },
-      "last_written_reaction": "조회 71,863 · 좋아요 1,255 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+19)"
+      "last_written_reaction": "조회 72,085 · 좋아요 1,257 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+20)"
     },
     {
       "notion_row_id": "15739eba-97ed-8260-9f9d-8107b159cffa",
@@ -238,7 +244,7 @@
       "upload_date_notion": "2026-10-19",
       "first_seen": "2026-11-05",
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -255,5 +261,5 @@
   },
   "child_db_id": "08239eba-97ed-823c-a295-819c2c6001d7",
   "followers": 50718,
-  "last_written_score": 181
+  "last_written_score": 182
 }
