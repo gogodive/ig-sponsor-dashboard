@@ -25,7 +25,7 @@
       "first_seen": "2026-10-13",
       "posted_at": "2026-10-10T04:16:18.000Z",
       "permalink": "https://www.instagram.com/p/DeTM_BdT5qi/",
-      "thumbnail": "https://instagram.fbio3-2.fna.fbcdn.net/v/t51.82787-15/838218838_17931272985408782_2809847668756245018_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=pwXLRGeHXFYQ7kNvwEpailJ&_nc_oc=Adrmel8BH-Z4Wn-ZFsG8Qiqyrfxm36zgCK0PHxRKdwo8-bGYn51R5zhb9MhkB8Et53o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbio3-2.fna&_nc_gid=7GOIX_M76sxpsOzMOhhy3Q&_nc_ss=7a20f&oh=00_AQRaLysfI2g5_VU48Fcyd_exRJb1HJ743gnJaNbqO0gEsg&oe=6AF84AD5",
+      "thumbnail": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/838218838_17931272985408782_2809847668756245018_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAwNDYwMTYwMTExMzE2ODU0NjIyODMyMTY3MzkxMjEwMTM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=PY5BLg7iLe4Q7kNvwGFeul7&_nc_oc=AdoGW_lnUCLfVZEPyh9G8BGkqeH1v5WoWK_6huAmWDzmU_DDjSCJUhWGNRGegB8zapxmuYQklS4SCQk_htPIa36O&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Z40PSj3YXwC7o1CSMjk4Pw&_nc_ss=7a20f&oh=00_AQRlDXg1Gpo6yhyF3OQ0sCgMSxHZX8HeqCKEd5V5ejKgcw&oe=6AF99C55",
       "caption": "[운동하는 선우의 무한도전 S1. 프리다이빙 편 🤿]\n\n매일 복싱만 하다가 새로운 운동에 도전해 보는 [운동하는 선우의 무한도전] 그 대망의 1탄! 바로 프리다이빙입니다 🤿!!\n\n물속에서 숨을 참는다는 게 처음엔 긴장됐지만, 차근차근 배우다 보니 그 고요함과 몰입감에 완전히 빠지게 됐어요..\n\n실제로 다녀온 고고다이브는 초보자분들이 도전하기에 시스템이 진짜 잘 되어 있더라고요!\n\n⭐︎ 고고다이브 찐후기 포인트\n1. 무제한 코칭반: 자격증 취득할 때까지 추가금 없이 무제한으로 연습 가능 (이게 진짜 최고 메리트..)\n2. 전국 연계 ",
       "media_type": "VIDEO",
       "product": "REELS",
@@ -218,21 +218,23 @@
         "n": 6,
         "captured_at": "2026-11-10T12:18:00.244308+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.010112359550561797,
         "vs_baseline": 0.17477375968964606,
         "cost_per_eng": 1604.9382716049383,
         "cost_per_view": 31.826342418802025
       },
-      "last_written_reaction": "조회 12,254 · 좋아요 229 · 댓글 14 · ER 1.0% · 평소대비 0.2x (D+30)",
+      "last_written_reaction": "조회 12,254 · 좋아요 229 · 댓글 14 · ER 1.0% · 평소대비 0.2x (확정)",
       "analysis": {
         "d14": {
           "one_liner": "D+14 평소대비 0.20x로 크게 부진, 참여당 1,660원·조회당 34.5원으로 비용 효율 낮음",
           "days": 14,
           "analyzed_at": "2026-10-25T12:46:39.262455+09:00"
-        }
+        },
+        "final_verdict": "조회 12,254회는 이 계정 평소 게시물 중앙값의 0.17배에 그쳤고(베이스라인 n=6으로 표본은 작음), 팔로워 대비 참여율도 1.01%(좋아요 229·댓글 14)로 낮아 협찬 게시물이 평소 도달력에 크게 못 미쳤다. 상품 가액 39만 원 기준 참여 1건당 1,605원, 조회 1회당 31.8원으로 비용 효율이 낮아, 성과·비용 양면에서 이 협찬은 비용 대비 가치가 부족했다고 판단한다.",
+        "final_at": "2026-11-11T10:06:29.745976+09:00"
       }
     }
   ],

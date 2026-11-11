@@ -69,7 +69,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 32,
+      "days_since_post": 33,
       "computed": {
         "er": 0.010410505146101976,
         "vs_baseline": 0.9450738787657286,
@@ -138,8 +138,8 @@
         "n": 12,
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
-      "frozen": false,
-      "days_since_post": 30,
+      "frozen": true,
+      "days_since_post": 31,
       "computed": {
         "er": 0.01496510114752159,
         "vs_baseline": 0.7463126843657817,
@@ -151,9 +151,11 @@
           "one_liner": "평소대비 0.75x로 기대 이하이며, 참여 760건 기준 건당 약 362원(제시값 90원은 재확인 필요)으로 비용효율도 낮음",
           "days": 25,
           "analyzed_at": "2026-11-05T10:22:31.912030+09:00"
-        }
+        },
+        "final_verdict": "평소 대비 0.75배(베이스라인 n=12)로 이 계정의 평상시 게시물보다 반응이 낮았고, 팔로워 대비 참여율도 1.50%(좋아요 718·댓글 41)에 그쳐 협찬 효과가 평균에 못 미쳤습니다. 참여 1건당 비용은 표기된 91원이 아니라 상품 가액 275,000원을 총 참여 759건으로 나눈 약 362원으로 재계산되며, 낮은 반응을 고려하면 비용 대비 효율은 아쉬운 편입니다. 피드 게시물이라 조회수 도달 지표도 없어, 이번 협찬은 비용 대비 가치가 제한적이었다고 판단되며 재협찬 시 릴스 형식이나 조건 재조정을 검토할 필요가 있습니다.",
+        "final_at": "2026-11-11T10:06:29.745976+09:00"
       },
-      "last_written_reaction": "좋아요 718 · 댓글 41 · ER 1.5% · 평소대비 0.7x (D+30)"
+      "last_written_reaction": "좋아요 718 · 댓글 41 · ER 1.5% · 평소대비 0.7x (확정)"
     },
     {
       "notion_row_id": "40e39eba-97ed-8010-9fc6-cdb0004294db",
@@ -164,17 +166,17 @@
       "first_seen": "2026-11-05",
       "posted_at": "2026-10-20T09:45:31.000Z",
       "permalink": "https://www.instagram.com/p/DetibOwIykV/",
-      "thumbnail": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-15/858025968_2670119293425998_5074229610256282966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMjAxNDI0NzkwNDIyNTU1NzI2NzAxMTkyODY3NTkzMzI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMyIn0%3D&_nc_ohc=RHtFwfMNEfMQ7kNvwEbiRIi&_nc_oc=AdozJ0WiFka6lPxufGHhkuGzPZqJImuihoWgLGmsZUDb3OJcsraFpxVRY2QZ3oOu26Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-syd2-1.cdninstagram.com&_nc_gid=6zMnxhPO_7aHNwwMwzWZZw&_nc_ss=7a20f&oh=00_AQTNYoVJ8vOwBUOdoqI7nSiBnbQvl6izKU7OHOgdQxvs6g&oe=6AF86F49",
+      "thumbnail": "https://instagram.fjoi2-1.fna.fbcdn.net/v/t51.82787-15/858025968_2670119293425998_5074229610256282966_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMjAxNDI0NzkwNDIyNTU1NzI2NzAxMTkyODY3NTkzMzI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=7tCp8paWcsIQ7kNvwFcJoCK&_nc_oc=Adph7ZosFrHhybDjG1vTAp_drkNzuQr7bQ8F0qguWp2KzpUxQrsorbEIGPE_cq6yNVSrMfHvTB7B0_ZsCxg97XoI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fjoi2-1.fna&_nc_gid=pS9tgycs_FNnyX9ulhDZjw&_nc_ss=7a20f&oh=00_AQQB2zwBBfGam0uF7qUoXHteeMs0uPfhu7YmnEipMPxeEg&oe=6AF98889",
       "caption": "주말 10번 지나면 2027년이래요👀\n2026년에 뭐했더라😄\n\n#오운완 #운동하는여자 #wellness",
       "media_type": "VIDEO",
       "product": "REELS",
       "owner_username": "do.roc.y",
       "metrics": {
-        "views": 72085,
-        "likes": 1257,
+        "views": 72302,
+        "likes": 1261,
         "comments": 45
       },
-      "metrics_updated_at": "2026-11-10T12:18:00.244308+09:00",
+      "metrics_updated_at": "2026-11-11T10:06:29.745976+09:00",
       "history": [
         {
           "d": "2026-11-05",
@@ -211,21 +213,27 @@
           "views": 72085,
           "likes": 1257,
           "comments": 45
+        },
+        {
+          "d": "2026-11-11",
+          "views": 72302,
+          "likes": 1261,
+          "comments": 45
         }
       ],
       "baseline": {
         "views_median": 19153.0,
         "eng_median": 260.0,
         "n": 4,
-        "captured_at": "2026-11-10T12:18:00.244308+09:00"
+        "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
-        "er": 0.025671359280728737,
-        "vs_baseline": 3.7636401608103167,
-        "cost_per_eng": 52.803379416282645,
-        "cost_per_view": 0.953735173753208
+        "er": 0.02575022674395678,
+        "vs_baseline": 3.7749699785934316,
+        "cost_per_eng": 52.6416539050536,
+        "cost_per_view": 0.9508727282786091
       },
       "analysis": {
         "d14": {
@@ -234,7 +242,7 @@
           "analyzed_at": "2026-11-05T10:22:31.912030+09:00"
         }
       },
-      "last_written_reaction": "조회 72,085 · 좋아요 1,257 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+20)"
+      "last_written_reaction": "조회 72,302 · 좋아요 1,261 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+21)"
     },
     {
       "notion_row_id": "15739eba-97ed-8260-9f9d-8107b159cffa",
@@ -244,7 +252,7 @@
       "upload_date_notion": "2026-10-19",
       "first_seen": "2026-11-05",
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": null,
         "vs_baseline": null,
