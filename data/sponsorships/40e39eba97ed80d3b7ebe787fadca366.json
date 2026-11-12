@@ -69,7 +69,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 33,
+      "days_since_post": 34,
       "computed": {
         "er": 0.010410505146101976,
         "vs_baseline": 0.9450738787657286,
@@ -139,7 +139,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 31,
+      "days_since_post": 32,
       "computed": {
         "er": 0.01496510114752159,
         "vs_baseline": 0.7463126843657817,
@@ -228,7 +228,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.02575022674395678,
         "vs_baseline": 3.7749699785934316,
@@ -242,7 +242,7 @@
           "analyzed_at": "2026-11-05T10:22:31.912030+09:00"
         }
       },
-      "last_written_reaction": "조회 72,302 · 좋아요 1,261 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+21)"
+      "last_written_reaction": "조회 72,302 · 좋아요 1,261 · 댓글 45 · ER 2.6% · 평소대비 3.8x (D+22)"
     },
     {
       "notion_row_id": "15739eba-97ed-8260-9f9d-8107b159cffa",
@@ -252,7 +252,7 @@
       "upload_date_notion": "2026-10-19",
       "first_seen": "2026-11-05",
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": null,
         "vs_baseline": null,

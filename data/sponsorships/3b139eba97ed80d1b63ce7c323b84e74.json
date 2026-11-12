@@ -99,7 +99,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": -0.0002055076037813399,
         "vs_baseline": 0.4284781797836628,
@@ -118,7 +118,7 @@
           "analyzed_at": "2026-11-10T12:18:00.244308+09:00"
         }
       },
-      "last_written_reaction": "조회 4,595 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.4x (D+15)"
+      "last_written_reaction": "조회 4,595 · 좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 0.4x (D+16)"
     },
     {
       "notion_row_id": "73639eba-97ed-8392-9bc8-0129f1df90c1",
@@ -262,14 +262,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.0010275380189066995,
         "vs_baseline": 0.01937984496124031,
         "cost_per_eng": 39000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+20)",
+      "last_written_reaction": "좋아요 -1 · 댓글 6 · ER 0.1% · 평소대비 0.0x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "D+3 기준 평소대비 0.36x로 부진하고 참여당 4,483원으로 비용 효율도 낮아 추이 관찰이 필요하다",
