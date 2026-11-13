@@ -51,14 +51,21 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 2,
+      "days_since_post": 3,
       "computed": {
         "er": -0.0001638001638001638,
         "vs_baseline": null,
         "cost_per_eng": -195000.0,
         "cost_per_view": 147.95144157814872
       },
-      "last_written_reaction": "조회 1,318 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+2)"
+      "last_written_reaction": "조회 1,318 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+3)",
+      "analysis": {
+        "d3": {
+          "one_liner": "좋아요 비공개(-1)로 참여율·참여당 비용은 무효, 조회 1318회에 회당 148원으로 비용 효율 낮음(평소대비 데이터 없음)",
+          "days": 3,
+          "analyzed_at": "2026-11-13T10:43:02.812162+09:00"
+        }
+      }
     },
     {
       "notion_row_id": "ba639eba-97ed-83f7-90e8-819e66fcdd74",

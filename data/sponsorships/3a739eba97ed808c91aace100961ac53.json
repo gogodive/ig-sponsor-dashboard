@@ -153,14 +153,14 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 21,
+      "days_since_post": 22,
       "computed": {
         "er": 0.005814172990523653,
         "vs_baseline": null,
         "cost_per_eng": 2532.4675324675327,
         "cost_per_view": 48.51953222194576
       },
-      "last_written_reaction": "조회 8,038 · 좋아요 126 · 댓글 28 · ER 0.6% (D+21)",
+      "last_written_reaction": "조회 8,038 · 좋아요 126 · 댓글 28 · ER 0.6% (D+22)",
       "analysis": {
         "d3": {
           "one_liner": "D+3 조회 7,202회·참여율 0.55%로 저조, 참여당 2,671원·조회당 54원 고비용이며 평소대비 데이터 없어 추가 확인 필요",
@@ -376,7 +376,7 @@
         "captured_at": "2026-11-06T10:25:50.159721+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.010948767319817268,
         "vs_baseline": 0.38385175380542685,

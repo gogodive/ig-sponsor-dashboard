@@ -170,14 +170,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 22,
+      "days_since_post": 23,
       "computed": {
         "er": 0.00046652670865407047,
         "vs_baseline": 0.02545743834526651,
         "cost_per_eng": 12187.5,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.0% · 평소대비 0.0x (D+22)",
+      "last_written_reaction": "좋아요 -1 · 댓글 17 · ER 0.0% · 평소대비 0.0x (D+23)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)로 평소대비 0.02x·건당 12,188원은 왜곡된 값, 신뢰 가능한 지표는 댓글 17개뿐이라 판단 보류",
@@ -352,14 +352,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": 0.016736645672964776,
         "vs_baseline": 0.7802248166730992,
         "cost_per_eng": 339.7212543554007,
         "cost_per_view": 6.028752511980214
       },
-      "last_written_reaction": "조회 32,345 · 좋아요 558 · 댓글 16 · ER 1.7% · 평소대비 0.8x (D+23)",
+      "last_written_reaction": "조회 32,345 · 좋아요 558 · 댓글 16 · ER 1.7% · 평소대비 0.8x (D+24)",
       "analysis": {
         "d3": {
           "one_liner": "D+5 평소대비 0.84x로 다소 저조, 참여당 343원·조회당 6.0원으로 비용효율 개선 여지 있음",

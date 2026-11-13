@@ -177,14 +177,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0024893970127235847,
         "vs_baseline": 1.2333421121938373,
         "cost_per_eng": 1805.5555555555557,
         "cost_per_view": 41.639974375400385
       },
-      "last_written_reaction": "조회 4,683 · 좋아요 81 · 댓글 27 · ER 0.2% · 평소대비 1.2x (D+25)",
+      "last_written_reaction": "조회 4,683 · 좋아요 81 · 댓글 27 · ER 0.2% · 평소대비 1.2x (D+26)",
       "analysis": {
         "d3": {
           "one_liner": "조회는 평소 수준(1.00x)이나 조회당 43.7원으로 효율 미흡, 좋아요 비공개라 참여 비용은 판단 보류",
@@ -400,7 +400,7 @@
         "captured_at": "2026-09-22T08:56:06.148051+09:00"
       },
       "frozen": true,
-      "days_since_post": 81,
+      "days_since_post": 82,
       "computed": {
         "er": 0.00599299280840863,
         "vs_baseline": 0.9122807017543859,

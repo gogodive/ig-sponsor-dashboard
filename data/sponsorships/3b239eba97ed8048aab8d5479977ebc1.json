@@ -134,7 +134,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 23,
+      "days_since_post": 24,
       "computed": {
         "er": -3.7705968854869723e-05,
         "vs_baseline": -0.0024813895781637717,
@@ -153,7 +153,7 @@
           "analyzed_at": "2026-11-03T11:48:42.700442+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+23)"
+      "last_written_reaction": "좋아요 -1 · 댓글 0 · ER -0.0% · 평소대비 -0.0x (D+24)"
     },
     {
       "notion_row_id": "bb539eba-97ed-838a-b0ea-81701734dffd",
@@ -309,7 +309,7 @@
         "captured_at": "2026-10-08T09:50:01.188488+09:00"
       },
       "frozen": true,
-      "days_since_post": 65,
+      "days_since_post": 66,
       "computed": {
         "er": -3.7705968854869723e-05,
         "vs_baseline": -0.0045662100456621,
