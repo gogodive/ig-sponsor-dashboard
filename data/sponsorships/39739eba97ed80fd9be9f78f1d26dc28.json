@@ -51,14 +51,14 @@
         }
       ],
       "frozen": false,
-      "days_since_post": 3,
+      "days_since_post": 4,
       "computed": {
         "er": -0.0001638001638001638,
         "vs_baseline": null,
         "cost_per_eng": -195000.0,
         "cost_per_view": 147.95144157814872
       },
-      "last_written_reaction": "조회 1,318 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+3)",
+      "last_written_reaction": "조회 1,318 · 좋아요 -1 · 댓글 0 · ER -0.0% (D+4)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)로 참여율·참여당 비용은 무효, 조회 1318회에 회당 148원으로 비용 효율 낮음(평소대비 데이터 없음)",
@@ -209,14 +209,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 20,
+      "days_since_post": 21,
       "computed": {
         "er": 0.05323505323505324,
         "vs_baseline": 0.6298449612403101,
         "cost_per_eng": 600.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 317 · 댓글 8 · ER 5.3% · 평소대비 0.6x (D+20)",
+      "last_written_reaction": "좋아요 317 · 댓글 8 · ER 5.3% · 평소대비 0.6x (D+21)",
       "analysis": {
         "d3": {
           "one_liner": "D+3 참여 283건으로 평소의 0.55배에 그쳤고, 참여 1건당 1,378원으로 비용 효율이 낮은 편이다",

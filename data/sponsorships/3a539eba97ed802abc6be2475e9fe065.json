@@ -99,14 +99,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": 0.007402639201802382,
         "vs_baseline": 1.1544167228590694,
         "cost_per_eng": 8478.260869565218,
         "cost_per_view": 113.90186915887851
       },
-      "last_written_reaction": "조회 1,712 · 좋아요 23 · 댓글 0 · ER 0.7% · 평소대비 1.2x (D+12)",
+      "last_written_reaction": "조회 1,712 · 좋아요 23 · 댓글 0 · ER 0.7% · 평소대비 1.2x (D+13)",
       "analysis": {
         "d3": {
           "one_liner": "평소대비 1.10x로 평소 수준, 댓글 0·좋아요 18에 39만원이라 비용효율 낮음(단가 지표 산식 확인 필요)",
@@ -329,7 +329,7 @@
         "captured_at": "2026-10-29T09:40:14.176573+09:00"
       },
       "frozen": true,
-      "days_since_post": 45,
+      "days_since_post": 46,
       "computed": {
         "er": 0.024460894753781784,
         "vs_baseline": 0.5757575757575758,

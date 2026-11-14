@@ -98,7 +98,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 15,
+      "days_since_post": 16,
       "computed": {
         "er": 0.0008404538450763413,
         "vs_baseline": 3.0,
@@ -117,7 +117,7 @@
           "analyzed_at": "2026-11-12T11:09:35.046467+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+15)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+16)"
     }
   ],
   "flags": {

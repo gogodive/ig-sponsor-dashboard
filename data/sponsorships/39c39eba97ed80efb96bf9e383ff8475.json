@@ -176,14 +176,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 24,
+      "days_since_post": 25,
       "computed": {
         "er": 0.00020930719319053932,
         "vs_baseline": 0.6,
         "cost_per_eng": 13000.0,
         "cost_per_view": null
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.6x (D+24)",
+      "last_written_reaction": "좋아요 -1 · 댓글 16 · ER 0.0% · 평소대비 0.6x (D+25)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개(-1)로 댓글만 집계됨. 평소대비 0.91x로 평이하나 참여당 1.3만원은 과대 추정이라 판단 보류",
@@ -388,14 +388,14 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 29,
+      "days_since_post": 30,
       "computed": {
         "er": 0.00013953812879369286,
         "vs_baseline": 0.6449786265474935,
         "cost_per_eng": 19500.0,
         "cost_per_view": 33.56860044758134
       },
-      "last_written_reaction": "조회 5,809 · 좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 0.6x (D+29)",
+      "last_written_reaction": "조회 5,809 · 좋아요 -1 · 댓글 11 · ER 0.0% · 평소대비 0.6x (D+30)",
       "analysis": {
         "d3": {
           "one_liner": "좋아요 비공개로 참여 지표는 신뢰 어려움, 조회 4293회로 평소의 0.53배에 그쳐 가액 대비 비용 효율이 낮음",
