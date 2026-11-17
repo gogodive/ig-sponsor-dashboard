@@ -17,6 +17,22 @@
   "followers_notion": 13000,
   "posts": [
     {
+      "notion_row_id": "41a39eba-97ed-8043-8f03-fe2bfc16f6b6",
+      "url": "https://www.instagram.com/reel/DfrxprRT4Jm/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DfrxprRT4Jm",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-14",
+      "first_seen": "2026-11-17",
+      "frozen": false,
+      "days_since_post": 3,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "1f539eba-97ed-8396-a0d5-011122534761",
       "url": "https://www.instagram.com/p/DfCdB-OEwNa/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
       "shortcode": "DfCdB-OEwNa",
@@ -98,11 +114,11 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 18,
+      "days_since_post": 19,
       "computed": {
         "er": 0.0008404538450763413,
         "vs_baseline": 3.0,
-        "cost_per_eng": 32500.0,
+        "cost_per_eng": 16250.0,
         "cost_per_view": null
       },
       "analysis": {
@@ -117,7 +133,7 @@
           "analyzed_at": "2026-11-12T11:09:35.046467+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+18)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+19)"
     }
   ],
   "flags": {

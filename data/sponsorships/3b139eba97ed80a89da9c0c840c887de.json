@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "juuhvely_",
   "followers_notion": 1604,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "d8339eba-97ed-82aa-a564-81efa302c4fc",
+      "url": "https://www.instagram.com/p/DfuVrucGAFx/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "shortcode": "DfuVrucGAFx",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "frozen": false,
+      "days_since_post": 2,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "9b539eba-97ed-831c-9d4b-8106dcd543a5",
