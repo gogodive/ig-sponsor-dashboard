@@ -1,6 +1,6 @@
 {
   "page_id": "41739eba-97ed-8076-ba00-ebf67e1126cd",
-  "row_title_raw": "(서포터즈-노혜연) @greenray_1986",
+  "row_title_raw": "greenray_1986 / (서포터즈-노혜연)",
   "status": "진행 중",
   "media": [
     "인스타"
@@ -13,13 +13,32 @@
   "product_value_krw": null,
   "delivery_date": null,
   "output_link_prop": null,
-  "username": null,
+  "username": "greenray_1986",
   "followers_notion": null,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "2b239eba-97ed-8351-86d5-811d6d903845",
+      "url": "https://www.instagram.com/p/DfkJQyxDy4M/?vrfl=MTl4cGl1bXI3NmRseg==",
+      "shortcode": "DfkJQyxDy4M",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-11-11",
+      "first_seen": "2026-11-18",
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
-    "unresolvable_username": true,
+    "unresolvable_username": false,
     "non_instagram": false,
     "overdue_no_output": false,
     "account_unavailable": false
-  }
+  },
+  "child_db_id": "34c39eba-97ed-82cf-9fd1-0167f050899c",
+  "followers": null
 }

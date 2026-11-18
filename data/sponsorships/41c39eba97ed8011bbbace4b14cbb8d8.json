@@ -1,0 +1,44 @@
+{
+  "page_id": "41c39eba-97ed-8011-bbba-ce4b14cbb8d8",
+  "row_title_raw": "greenray_1986",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": null,
+  "output_link_prop": null,
+  "username": "greenray_1986",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "5ce39eba-97ed-839a-a7f1-8158b173267e",
+      "url": "https://www.instagram.com/p/DfkJQyxDy4M/?vrfl=MTl4cGl1bXI3NmRseg==",
+      "shortcode": "DfkJQyxDy4M",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-18",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "f5b39eba-97ed-830f-9327-81457c7bf06a",
+  "followers": null
+}
