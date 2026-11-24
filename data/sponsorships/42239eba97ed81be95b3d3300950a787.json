@@ -1,0 +1,61 @@
+{
+  "page_id": "42239eba-97ed-81be-95b3-d3300950a787",
+  "row_title_raw": "off.to_sea",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "off.to_sea",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-8108-8728-dcb57d31aebe",
+      "url": "https://www.instagram.com/reel/Dfexg5tIJHD/",
+      "shortcode": "Dfexg5tIJHD",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81fd-ae70-d5e9a3b875ec",
+      "url": "https://www.instagram.com/reel/DfcU2uOI_hK/",
+      "shortcode": "DfcU2uOI_hK",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-08",
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 16,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "aa439eba-97ed-8392-89ea-811172701f7d",
+  "followers": null
+}

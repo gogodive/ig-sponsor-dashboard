@@ -6,16 +6,49 @@
     "인스타"
   ],
   "brands": [
-    "고고다이브"
+    "고고다이브",
+    "서포터즈"
   ],
   "manager": "김호진",
   "followers_notion_raw": "",
   "product_value_krw": null,
-  "delivery_date": null,
+  "delivery_date": "2026-11-01",
   "output_link_prop": null,
   "username": "greenray_1986",
   "followers_notion": null,
   "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-8131-951a-ecc957552394",
+      "url": "https://www.instagram.com/p/Df2HHlPj_aM/",
+      "shortcode": "Df2HHlPj_aM",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81e0-a393-d0050e4b78bc",
+      "url": "https://www.instagram.com/p/Df7IDrQDyAj/",
+      "shortcode": "Df7IDrQDyAj",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
     {
       "notion_row_id": "2b239eba-97ed-8351-86d5-811d6d903845",
       "url": "https://www.instagram.com/p/DfkJQyxDy4M/?vrfl=MTl4cGl1bXI3NmRseg==",
@@ -24,7 +57,7 @@
       "upload_date_notion": "2026-11-11",
       "first_seen": "2026-11-18",
       "frozen": false,
-      "days_since_post": 12,
+      "days_since_post": 13,
       "computed": {
         "er": null,
         "vs_baseline": null,

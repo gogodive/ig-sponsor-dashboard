@@ -1,0 +1,61 @@
+{
+  "page_id": "42239eba-97ed-8185-b541-d589d0fbc113",
+  "row_title_raw": "dasolgolf_record",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "dasolgolf_record",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-813e-bdc8-e4c83704c7d3",
+      "url": "https://www.instagram.com/p/Df1-Qr_o_wJ/",
+      "shortcode": "Df1-Qr_o_wJ",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-8190-9e57-cbef3020eb65",
+      "url": "https://www.instagram.com/reel/DfuT_MHvCJc/",
+      "shortcode": "DfuT_MHvCJc",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "f3339eba-97ed-826a-9171-815b282bc528",
+  "followers": null
+}

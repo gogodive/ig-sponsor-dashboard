@@ -1,0 +1,45 @@
+{
+  "page_id": "42239eba-97ed-8178-8bb9-ed549425d41e",
+  "row_title_raw": "woondong_hyeyoung",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "woondong_hyeyoung",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-8149-8966-fe9917d54be6",
+      "url": "https://www.instagram.com/reel/DftcFvASCuK/",
+      "shortcode": "DftcFvASCuK",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "d1d39eba-97ed-828b-a16e-0183f8ee28b2",
+  "followers": null
+}

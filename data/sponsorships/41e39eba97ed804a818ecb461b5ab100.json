@@ -1,0 +1,109 @@
+{
+  "page_id": "41e39eba-97ed-804a-818e-cb461b5ab100",
+  "row_title_raw": "seniary__",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "seniary__",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-8119-916d-f20ffefdcdbd",
+      "url": "https://www.instagram.com/reel/DfzGTBUgfI9/",
+      "shortcode": "DfzGTBUgfI9",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-811a-bdb9-c1c5b67b5480",
+      "url": "https://www.instagram.com/p/DfzQF_NI72I/",
+      "shortcode": "DfzQF_NI72I",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-813f-ad5d-ef0f8177420d",
+      "url": "https://www.instagram.com/p/DgCy604I_zq/",
+      "shortcode": "DgCy604I_zq",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81c4-b811-e2dc8a2177db",
+      "url": "https://www.instagram.com/reel/DfWky9nAk7q/",
+      "shortcode": "DfWky9nAk7q",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-05",
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 19,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "bb739eba-97ed-8345-abae-81f9858e80ec",
+      "url": "https://www.instagram.com/reel/DfzeyJYAMGP/?utm_source=ig_web_copy_link&evlk=NTc4MTIwNjQ2YQ==",
+      "shortcode": "DfzeyJYAMGP",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-17",
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 7,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "aea39eba-97ed-820d-b187-81a341537965",
+  "followers": null
+}

@@ -1,7 +1,7 @@
 {
   "page_id": "3b139eba-97ed-80d4-a471-c6a21944e884",
   "row_title_raw": "sj__s2",
-  "status": "진행 중",
+  "status": "종료",
   "media": [
     "인스타"
   ],
@@ -24,7 +24,7 @@
       "upload_date_notion": "2026-11-14",
       "first_seen": "2026-11-17",
       "frozen": false,
-      "days_since_post": 9,
+      "days_since_post": 10,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -114,7 +114,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": false,
-      "days_since_post": 25,
+      "days_since_post": 26,
       "computed": {
         "er": 0.0008404538450763413,
         "vs_baseline": 3.0,
@@ -133,7 +133,7 @@
           "analyzed_at": "2026-11-12T11:09:35.046467+09:00"
         }
       },
-      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+25)"
+      "last_written_reaction": "좋아요 -1 · 댓글 13 · ER 0.1% · 평소대비 3.0x (D+26)"
     }
   ],
   "flags": {

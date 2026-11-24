@@ -1,0 +1,93 @@
+{
+  "page_id": "42239eba-97ed-81d6-9ea2-c358f2b81e25",
+  "row_title_raw": "swim_dugong__",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "swim_dugong__",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-811a-8563-fd2d9af46aed",
+      "url": "https://www.instagram.com/reels/DfZj1JRz-ze/",
+      "shortcode": "DfZj1JRz-ze",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-07",
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 17,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81a7-a1b5-c8ba4874264b",
+      "url": "https://www.instagram.com/p/DfzKkYCE5JL/",
+      "shortcode": "DfzKkYCE5JL",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81aa-a531-e8caf301db2c",
+      "url": "https://www.instagram.com/p/DfzViLQzHB2/",
+      "shortcode": "DfzViLQzHB2",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81c5-94d5-d8d5fe3432a3",
+      "url": "https://www.instagram.com/p/DfzYk0rE9QU/",
+      "shortcode": "DfzYk0rE9QU",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "ada39eba-97ed-82f1-89da-01b9f312f209",
+  "followers": null
+}

@@ -1,0 +1,45 @@
+{
+  "page_id": "42239eba-97ed-81af-8f9d-e7e6e5f74d9d",
+  "row_title_raw": "sanghyukss07",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "sanghyukss07",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-818e-ab8d-d5cec730b4cb",
+      "url": "https://www.instagram.com/reel/Dfkh9G3S0Nr/",
+      "shortcode": "Dfkh9G3S0Nr",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "e4739eba-97ed-839d-bca3-81e5bf1f0e6e",
+  "followers": null
+}

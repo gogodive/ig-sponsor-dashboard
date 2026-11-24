@@ -1,0 +1,77 @@
+{
+  "page_id": "42239eba-97ed-815b-9e5a-ef72e4106606",
+  "row_title_raw": "hslee17",
+  "status": "진행 중",
+  "media": [
+    "인스타"
+  ],
+  "brands": [
+    "고고다이브",
+    "서포터즈"
+  ],
+  "manager": "김호진",
+  "followers_notion_raw": "",
+  "product_value_krw": null,
+  "delivery_date": "2026-11-01",
+  "output_link_prop": null,
+  "username": "hslee17",
+  "followers_notion": null,
+  "posts": [
+    {
+      "notion_row_id": "42239eba-97ed-81a1-9724-d556d5c54858",
+      "url": "https://www.instagram.com/p/Df9wWNuHYT4/",
+      "shortcode": "Df9wWNuHYT4",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81a4-9047-d7c35c41ca35",
+      "url": "https://www.instagram.com/reel/DfeTY_cKsaI/",
+      "shortcode": "DfeTY_cKsaI",
+      "media_kind": "릴스",
+      "upload_date_notion": "2026-11-08",
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 16,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
+      "notion_row_id": "42239eba-97ed-81b6-beb9-c5a6769a6c6e",
+      "url": "https://www.instagram.com/p/Df90fhInRYq/",
+      "shortcode": "Df90fhInRYq",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-24",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
+  "flags": {
+    "unresolvable_username": false,
+    "non_instagram": false,
+    "overdue_no_output": false,
+    "account_unavailable": false
+  },
+  "child_db_id": "7fc39eba-97ed-833b-b7a8-81472a7a26cc",
+  "followers": null
+}
