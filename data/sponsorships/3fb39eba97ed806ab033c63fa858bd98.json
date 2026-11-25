@@ -12,14 +12,31 @@
   "followers_notion_raw": "799",
   "product_value_krw": 64000,
   "delivery_date": "2026-10-16",
-  "output_link_prop": null,
+  "output_link_prop": "https://www.instagram.com/p/DfbKETVEyJE/?utm_source=ig_web_copy_link&evlk=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
   "username": "jollyl0_",
   "followers_notion": 799,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "17d39eba-97ed-827e-9402-011088abeb5f",
+      "url": "https://www.instagram.com/p/DfbKETVEyJE/?utm_source=ig_web_copy_link&evlk=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
+      "shortcode": "DfbKETVEyJE",
+      "media_kind": "피드",
+      "upload_date_notion": "2026-11-07",
+      "first_seen": "2026-11-25",
+      "frozen": false,
+      "days_since_post": 18,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "1e439eba-97ed-83fc-93b8-818a003e4988",

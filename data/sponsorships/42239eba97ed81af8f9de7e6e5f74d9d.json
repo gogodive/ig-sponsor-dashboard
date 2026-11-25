@@ -6,7 +6,6 @@
     "인스타"
   ],
   "brands": [
-    "고고다이브",
     "서포터즈"
   ],
   "manager": "김호진",
@@ -18,6 +17,22 @@
   "followers_notion": null,
   "posts": [
     {
+      "notion_row_id": "42339eba-97ed-8131-aff9-c6a469027d4d",
+      "url": "https://www.instagram.com/p/DgIvi1gEg8D/",
+      "shortcode": "DgIvi1gEg8D",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-25",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "42239eba-97ed-818e-ab8d-d5cec730b4cb",
       "url": "https://www.instagram.com/reel/Dfkh9G3S0Nr/",
       "shortcode": "Dfkh9G3S0Nr",
@@ -25,7 +40,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-11-24",
       "frozen": false,
-      "days_since_post": 0,
+      "days_since_post": 1,
       "computed": {
         "er": null,
         "vs_baseline": null,
