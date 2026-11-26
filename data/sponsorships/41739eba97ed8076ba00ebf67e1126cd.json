@@ -17,6 +17,22 @@
   "followers_notion": null,
   "posts": [
     {
+      "notion_row_id": "42439eba-97ed-81c2-9722-ccd9d20b7e0b",
+      "url": "https://www.instagram.com/reel/DgKEztIv511/",
+      "shortcode": "DgKEztIv511",
+      "media_kind": "릴스",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-26",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "42239eba-97ed-8131-951a-ecc957552394",
       "url": "https://www.instagram.com/p/Df2HHlPj_aM/",
       "shortcode": "Df2HHlPj_aM",
@@ -24,7 +40,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-11-24",
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -40,7 +56,7 @@
       "upload_date_notion": null,
       "first_seen": "2026-11-24",
       "frozen": false,
-      "days_since_post": 1,
+      "days_since_post": 2,
       "computed": {
         "er": null,
         "vs_baseline": null,
@@ -56,7 +72,7 @@
       "upload_date_notion": "2026-11-11",
       "first_seen": "2026-11-18",
       "frozen": false,
-      "days_since_post": 14,
+      "days_since_post": 15,
       "computed": {
         "er": null,
         "vs_baseline": null,
