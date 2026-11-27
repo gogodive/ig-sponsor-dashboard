@@ -69,7 +69,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 48,
+      "days_since_post": 49,
       "computed": {
         "er": 0.010410505146101976,
         "vs_baseline": 0.9450738787657286,
@@ -139,7 +139,7 @@
         "captured_at": "2026-11-08T09:17:15.040344+09:00"
       },
       "frozen": true,
-      "days_since_post": 46,
+      "days_since_post": 47,
       "computed": {
         "er": 0.01496510114752159,
         "vs_baseline": 0.7463126843657817,
@@ -228,7 +228,7 @@
         "captured_at": "2026-11-11T10:06:29.745976+09:00"
       },
       "frozen": true,
-      "days_since_post": 36,
+      "days_since_post": 37,
       "computed": {
         "er": 0.02575022674395678,
         "vs_baseline": 3.7749699785934316,
@@ -254,7 +254,7 @@
       "upload_date_notion": "2026-10-19",
       "first_seen": "2026-11-05",
       "frozen": true,
-      "days_since_post": 38,
+      "days_since_post": 39,
       "computed": {
         "er": null,
         "vs_baseline": null,
