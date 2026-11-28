@@ -15,11 +15,28 @@
   "output_link_prop": null,
   "username": "kimberly_im0312",
   "followers_notion": 15000,
-  "posts": [],
+  "posts": [
+    {
+      "notion_row_id": "5b539eba-97ed-83d2-ab07-0172064612e0",
+      "url": " https://www.instagram.com/reel/DfbfxTpSNaF/?utm_source=ig_web_copy_link&fqnt=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
+      "shortcode": "DfbfxTpSNaF",
+      "media_kind": "원본 자료",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-28",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    }
+  ],
   "flags": {
     "unresolvable_username": false,
     "non_instagram": false,
-    "overdue_no_output": true,
+    "overdue_no_output": false,
     "account_unavailable": false
   },
   "child_db_id": "61c39eba-97ed-829c-b16c-811c068b3189",

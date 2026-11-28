@@ -17,6 +17,22 @@
   "followers_notion": 53000,
   "posts": [
     {
+      "notion_row_id": "42539eba-97ed-804e-b2a6-c15983f7ca5f",
+      "url": "https://www.instagram.com/p/DfZdZvXmM5f/?utm_source=ig_web_copy_link&cnvx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
+      "shortcode": "DfZdZvXmM5f",
+      "media_kind": "피드",
+      "upload_date_notion": null,
+      "first_seen": "2026-11-28",
+      "frozen": false,
+      "days_since_post": 0,
+      "computed": {
+        "er": null,
+        "vs_baseline": null,
+        "cost_per_eng": null,
+        "cost_per_view": null
+      }
+    },
+    {
       "notion_row_id": "3de39eba-97ed-80ec-978d-e76c54e67d73",
       "url": "https://www.instagram.com/reel/DdS4wHyuxca/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
       "shortcode": "DdS4wHyuxca",
@@ -213,12 +229,12 @@
         }
       ],
       "frozen": true,
-      "days_since_post": 72,
+      "days_since_post": 73,
       "computed": {
         "er": 0.0003049361539927578,
         "vs_baseline": null,
-        "cost_per_eng": 4625.0,
-        "cost_per_view": 7.25276879349211
+        "cost_per_eng": 3083.3333333333335,
+        "cost_per_view": 4.835179195661407
       },
       "last_written_reaction": "조회 10,203 · 좋아요 -1 · 댓글 17 · ER 0.0% (확정)",
       "analysis": {
@@ -319,11 +335,11 @@
         "captured_at": "2026-09-27T08:25:49.590448+09:00"
       },
       "frozen": true,
-      "days_since_post": 91,
+      "days_since_post": 92,
       "computed": {
         "er": 0.0005717552887364208,
         "vs_baseline": 2.142857142857143,
-        "cost_per_eng": 2466.6666666666665,
+        "cost_per_eng": 1644.4444444444446,
         "cost_per_view": null
       },
       "analysis": {
